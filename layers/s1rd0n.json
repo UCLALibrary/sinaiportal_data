@@ -1,0 +1,29 @@
+{
+    "ark": "ark:/21198/s1rd0n",
+    "reconstruction": false,
+    "label": "Sinai Georgian NF frag 73a, Overtext (Undetermined (Georgian))",
+    "state": {
+        "id": "overtext",
+        "label": "Overtext"
+    },
+    "writing": [
+        {
+            "script": [
+                {
+                    "id": "georgian-undetermined",
+                    "label": "Undetermined (Georgian)",
+                    "writing_system": "Georgian"
+                }
+            ]
+        }
+    ],
+    "text_unit": [
+        {
+            "id": "ark:/21198/s1k080",
+            "label": "Item 1"
+        }
+    ],
+    "parent": [
+        "ark:/21198/r2sf2t3c"
+    ]
+}
