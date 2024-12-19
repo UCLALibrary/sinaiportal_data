@@ -1,0 +1,51 @@
+{
+    "ark": "ark:/21198/s1xt3g",
+    "reconstruction": false,
+    "label": "Hymns / Homilies",
+    "lang": [
+        {
+            "id": "class1252",
+            "label": "Syriac"
+        }
+    ],
+    "work_wit": [
+        {
+            "work": {
+                "desc_title": "Hymns and Homilies",
+                "genre": [
+                    {
+                        "id": "liturgical-texts",
+                        "label": "Liturgical texts"
+                    },
+                    {
+                        "id": "poetry",
+                        "label": "Poetry"
+                    },
+                    {
+                        "id": "hymnals",
+                        "label": "Hymnals"
+                    }
+                ]
+            }
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "contents",
+                "label": "Contents Note"
+            },
+            "value": "Contains allusions to the Biblical story of Joseph"
+        },
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "Description by Grigory Kessel"
+        }
+    ],
+    "parent": [
+        "ark:/21198/s18s7r"
+    ]
+}
