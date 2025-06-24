@@ -1,5 +1,5 @@
-WARNING:root:Could not merge ms_objs/tereconrebind.json: [Errno 2] No such file or directory: 'layers/tereconuto.json'
-WARNING:root:Could not merge ms_objs/tebvp1olt1.json: 11 validation errors for ManuscriptObjectUnmerged
+WARNING:root:Could not merge ../sinaiportal_data/export_test/ms_objs/tereconrebind.json: [Errno 2] No such file or directory: '../sinaiportal_data/export_test/layers/tereconuto.json'
+WARNING:root:Could not merge ../sinaiportal_data/export_test/ms_objs/tebvp1olt1.json: 11 validation errors for ManuscriptObjectUnmerged
 type
   Field required [type=missing, input_value={'ark': 'ark:/21198/tebvp...['ark:/21198/tebvp1ol']}, input_type=dict]
     For further information visit https://errors.pydantic.dev/2.11/v/missing
