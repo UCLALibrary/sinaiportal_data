@@ -1,1 +1,242 @@
-{"ark":"ark:/21198/z1fx7khn","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Greek NF MG 32","extent":"21 ff.","dim":"230 x 170 mm","state":{"id":"folio","label":"Folio(s)"},"coll":"1x2 (2); Quires 1-2: 2x4 (10), 11x1 (21)","features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"dim":"220 x 160 mm (representative folio)","layer":[{"ark":"ark:/21198/s1mg84","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Greek NF MG 32, Overtext (Greek majuscule)","writing":[{"script":[{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}]}],"ink":[{"color":["black-brown"]}],"text_unit":[{"ark":"ark:/21198/s1f37d","reconstruction":false,"label":"Martyrologion","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Martyrologion","genre":[{"id":"martyrologies","label":"Martyrologies"}]}}],"parent":["ark:/21198/s1mg84"]}],"assoc_date":[{"value":"9th c.  CE","iso":{"not_before":"0801","not_after":"0900"},"type":{"id":"origin","label":"Date of Origin"}}],"parent":["ark:/21198/z1fx7khn"]},{"ark":"ark:/21198/s1b07f","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek NF MG 32, Undertext (Christian Palestinian Aramaic)","locus":"ff. 13–16","writing":[{"script":[{"id":"cpa","label":"Christian Palestinian Aramaic","writing_system":"Syriac"}],"note":["Early small Christian Palestinian Aramaic"]}],"layout":[{"columns":"2 columns","lines":"24 lines"}],"text_unit":[{"ark":"ark:/21198/s1011d","reconstruction":false,"label":"Gospel Lectionary","lang":[{"id":"chri1239","label":"CPA"}],"work_wit":[{"work":{"ark":"ark:/21198/s1088g","pref_title":"Lectionary","alt_title":["Lectionary"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"lectionaries","label":"Lectionaries"},{"id":"biblical-texts","label":"Biblical texts"}],"rel_con":[],"refno":[],"bib":[]}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Christa Müller-Kessler"}],"parent":["ark:/21198/s1b07f"]}],"assoc_date":[{"value":"5th-7th c.  CE","iso":{"not_before":"0401","not_after":"0700"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Christa Müller-Kessler"}],"parent":["ark:/21198/z1fx7khn"]},{"ark":"ark:/21198/s1663r","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek NF MG 32, Undertext (Undetermined (Greek))","locus":"f. 20","writing":[{"script":[{"id":"greek-undetermined","label":"Undetermined (Greek)","writing_system":"Greek"}]}],"text_unit":[{"ark":"ark:/21198/s1v69x","reconstruction":false,"label":"Unidentified Text","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Unidentified Text"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by"}],"parent":["ark:/21198/s1663r"]}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by"}],"parent":["ark:/21198/z1fx7khn"]},{"ark":"ark:/21198/s12h1v","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek NF MG 32, Undertext (Christian Palestinian Aramaic)","locus":"ff. 1–12, 17–19","writing":[{"script":[{"id":"cpa","label":"Christian Palestinian Aramaic","writing_system":"Syriac"}],"note":["Early large CPA"]}],"layout":[{"columns":"2 columns","lines":"28 lines"}],"text_unit":[{"ark":"ark:/21198/s1qh58","reconstruction":false,"label":"Old Testament Lectionary","lang":[{"id":"chri1239","label":"CPA"}],"work_wit":[{"work":{"ark":"ark:/21198/s1088g","pref_title":"Lectionary","alt_title":["Lectionary"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"lectionaries","label":"Lectionaries"},{"id":"biblical-texts","label":"Biblical texts"}],"rel_con":[],"refno":[],"bib":[]},"alt_title":"Old Testament Lectionary"}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Although there is some overlap with the later 10th c. CE Lewis Palestinian Syriac Lectionary in the case of Genesis 8–9:6; Psalms 76:1; Proverbs 9:7–10; Jonah 4:11, Joel 3:1b–6, 4:6–8; and Deuteronomy 10:12–17, this text represents a previously unknown early version of the Old Testament Lectionary, with significant textual variants and a different selection of biblical lessons. Some biblical passages are shorter in the Jerusalem Armenian Lectionary 121; Exodus 6:28-7:9 and Psalms 83:1, present in this version, are not part of the Armenian Lectionary"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Christa Müller-Kessler"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: A. S. Lewis, A Palestinian Syriac Lectionary containing lessons from the Pentateuch, Job, Proverbs, Acts and Epistles (London: C.J. Clay and Sons, 1899) ; H. Duensing, Christlich-palästinisch-aramäische Texte (Göttingen: Vandenhoeck & Ruprecht, 1906), pp. 153-158 ; A. S. Lewis, M. D. Gibson, Supplement to a Palestinian Syriac Lectionary (Cambridge: Cambridge University Press, 1907) ; A. Roux, Le codex arménien Jérusalem 121, Patrologia Orientalis 163, 32.2 (Turnhout: Brepols, 1971) ; C. Müller-Kessler, “The Early Lectionary Tradition in Christian Palestinian Aramaic: Lections Containing Unattested Old Testament Passages (Sinai, Greek NF MG 32),” Le Muséon"}],"parent":["ark:/21198/s12h1v"]}],"assoc_date":[{"value":"6th–7th c.  CE","iso":{"not_before":"0501","not_after":"0700"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 3v/6r+18r, 3r/6v+18, 1v/2r, 1r/2v, 4v/5r+17r, 4r/5v+17v, 9v/8r, 9r/8v, 7v/10r, 7r/10v, 11v/12r, 11r/12v, 19r, 19v"},{"type":{"id":"foliation","label":"Foliation Note"},"value":"Folio order of the undertext follows the Armenian Jerusalem Lectionary"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Christa Müller-Kessler"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: A. S. Lewis, A Palestinian Syriac Lectionary containing lessons from the Pentateuch, Job, Proverbs, Acts and Epistles (London: C.J. Clay and Sons, 1899) ; H. Duensing, Christlich-palästinisch-aramäische Texte (Göttingen: Vandenhoeck & Ruprecht, 1906), pp. 153-158 ; A. S. Lewis, M. D. Gibson, Supplement to a Palestinian Syriac Lectionary (Cambridge: Cambridge University Press, 1907) ; A. Roux, Le codex arménien Jérusalem 121, Patrologia Orientalis 163, 32.2 (Turnhout: Brepols, 1971) ; C. Müller-Kessler, “The Early Lectionary Tradition in Christian Palestinian Aramaic: Lections Containing Unattested Old Testament Passages (Sinai, Greek NF MG 32),” Le Muséon"}],"parent":["ark:/21198/z1fx7khn"]}]}],"location":[{"id":"sinai-nf","collection":"New Finds","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Consecutive foliation in small pencil numerals in lower right (followed here); some folios numbered in large pencil numerals (not followed)"},{"type":{"id":"condition","label":"Condition Note"},"value":"Loose folios and bifolios, envelope with very small fragments; all folios in fragmentary condition, some severely so | Folios have been pressed and flattened"},{"type":{"id":"general","label":"Other Notes"},"value":"Glossy undertext"}],"bib":[{"id":"31086588-c563-4dca-b793-d9e4cbdc887b","type":{"id":"ref","label":"Reference"},"range":"p. 147"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1fx7khn/manifest","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1d79dk1/0,1022,6132,6132/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z1fx7khn",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Greek NF MG 32",
+  "extent": "21 ff.",
+  "dim": "230 x 170 mm",
+  "state": {
+    "id": "folio",
+    "label": "Folio(s)"
+  },
+  "coll": "1x2 (2); Quires 1-2: 2x4 (10), 11x1 (21)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "220 x 160 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s1mg84",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1mg84",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Greek NF MG 32, Overtext (Greek majuscule)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black-brown"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1f37d",
+                "reconstruction": false,
+                "label": "Martyrologion",
+                "lang": [
+                  {
+                    "id": "gree1276",
+                    "label": "Greek"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "desc_title": "Martyrologion",
+                      "genre": [
+                        {
+                          "id": "martyrologies",
+                          "label": "Martyrologies"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s1mg84"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "9th c.  CE",
+                "iso": {
+                  "not_before": 801,
+                  "not_after": 900
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1fx7khn"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s1b07f",
+          "label": "CPA Undertext: Lectionary",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 13–16",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "5th-7th c.  CE",
+              "iso": {
+                "not_before": 401,
+                "not_after": 700
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1663r",
+          "label": "Greek Undertext: Unidentified Text",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "f. 20",
+          "script": [
+            "Undetermined (Greek)"
+          ],
+          "lang": [
+            "Greek"
+          ]
+        },
+        {
+          "id": "ark:/21198/s12h1v",
+          "label": "CPA Undertext: Lectionary, Bible. Old Testament",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–12, 17–19",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th–7th c.  CE",
+              "iso": {
+                "not_before": 501,
+                "not_after": 700
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation Note"
+      },
+      "value": "Consecutive foliation in small pencil numerals in lower right (followed here); some folios numbered in large pencil numerals (not followed)"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Loose folios and bifolios, envelope with very small fragments; all folios in fragmentary condition, some severely so | Folios have been pressed and flattened"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "Other Notes"
+      },
+      "value": "Glossy undertext"
+    }
+  ],
+  "bib": [
+    {
+      "id": "31086588-c563-4dca-b793-d9e4cbdc887b",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 147"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1fx7khn/manifest",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1d79dk1/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ]
+}

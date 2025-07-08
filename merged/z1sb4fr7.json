@@ -1,1 +1,182 @@
-{"ark":"ark:/21198/z1sb4fr7","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai CPA NF frag 14","extent":"2 ff.","state":{"id":"bifolio","label":"Bifolio(s)"},"features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"layer":[{"ark":"ark:/21198/s1sd0z","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai CPA NF frag 14, Overtext (Christian Palestinian Aramaic)","writing":[{"script":[{"id":"cpa","label":"Christian Palestinian Aramaic","writing_system":"Syriac"}]}],"ink":[{"color":["black"]}],"text_unit":[{"ark":"ark:/21198/s1kx08","reconstruction":false,"label":"Sayings of Abba Zacharias","lang":[{"id":"chri1239","label":"CPA"}],"work_wit":[{"work":{"ark":"ark:/21198/s1w89x","pref_title":"Sayings of the Desert Fathers","alt_title":["Sayings of the Desert Fathers"],"genre":[{"id":"apophthegmata","label":"Apophthegmata"}],"rel_con":[],"refno":[],"bib":[]},"alt_title":"Sayings of Abba Zacharias"}],"parent":["ark:/21198/s1sd0z"]}],"assoc_date":[{"value":"ca. 9th c. CE","iso":{"not_before":"0775","not_after":"0925"},"type":{"id":"origin","label":"Date of Origin"}}],"parent":["ark:/21198/z1sb4fr7"]},{"ark":"ark:/21198/s1cp9d","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai CPA NF frag 14, Undertext (Christian Palestinian Aramaic)","locus":"ff. 1r, 2v","writing":[{"script":[{"id":"cpa","label":"Christian Palestinian Aramaic","writing_system":"Syriac"}]}],"text_unit":[{"ark":"ark:/21198/s11q20","reconstruction":false,"label":"Unidentified text","lang":[{"id":"chri1239","label":"CPA"}],"work_wit":[{"work":{"desc_title":"Unidentified text"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Christa Müller-Kessler"}],"parent":["ark:/21198/s1cp9d"]}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Christa Müller-Kessler"}],"parent":["ark:/21198/z1sb4fr7"]}]}],"location":[{"id":"sinai-nf","collection":"New Finds","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Sequence follows Brock 1995, pl. 438-439"},{"type":{"id":"condition","label":"Condition Note"},"value":"Two bifolios, highly fragmented and fused so that only the outer folios are accessible"}],"bib":[{"id":"6ced4f13-e0b7-43d6-aa6d-260c00656341","type":{"id":"ref","label":"Reference"},"range":"p. 89, pl. 438-439"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1sb4fr7/manifest","text_direction":"right-to-left","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15d8sc2/1022,0,6132,6132/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z1sb4fr7",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai CPA NF frag 14",
+  "extent": "2 ff.",
+  "state": {
+    "id": "bifolio",
+    "label": "Bifolio(s)"
+  },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "layer": [
+        {
+          "id": "ark:/21198/s1sd0z",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1sd0z",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai CPA NF frag 14, Overtext (Christian Palestinian Aramaic)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1kx08",
+                "reconstruction": false,
+                "label": "Sayings of Abba Zacharias",
+                "lang": [
+                  {
+                    "id": "chri1239",
+                    "label": "CPA"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s1w89x",
+                      "pref_title": "Sayings of the Desert Fathers",
+                      "alt_title": [
+                        "Sayings of the Desert Fathers"
+                      ],
+                      "genre": [
+                        {
+                          "id": "apophthegmata",
+                          "label": "Apophthegmata"
+                        }
+                      ]
+                    },
+                    "alt_title": "Sayings of Abba Zacharias"
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s1sd0z"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "ca. 9th c. CE",
+                "iso": {
+                  "not_before": 775,
+                  "not_after": 925
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1sb4fr7"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s1cp9d",
+          "label": "CPA Undertext: Unidentified text",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1r, 2v",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation Note"
+      },
+      "value": "Sequence follows Brock 1995, pl. 438-439"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Two bifolios, highly fragmented and fused so that only the outer folios are accessible"
+    }
+  ],
+  "bib": [
+    {
+      "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 89, pl. 438-439"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1sb4fr7/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15d8sc2/1022,0,6132,6132/150,150/0/default.jpg"
+    }
+  ]
+}

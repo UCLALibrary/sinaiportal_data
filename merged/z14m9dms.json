@@ -1,1 +1,282 @@
-{"ark":"ark:/21198/z14m9dms","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Georgian NF M 84","extent":"7 ff.","state":{"id":"bifolio","label":"Bifolio(s)"},"coll":"1+2+2+2 (7)","features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"dim":"155 x 120 mm (representative folio)","layer":[{"ark":"ark:/21198/s1qc9d","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Georgian NF M 84, Overtext (Nuskhurimt)","writing":[{"script":[{"id":"nuskhurimt","label":"Nuskhurimt","writing_system":"Georgian"}]}],"ink":[{"color":["black-brown","red"],"note":["Initials and titles in red"]}],"text_unit":[{"ark":"ark:/21198/s1j08p","reconstruction":false,"label":"Sayings of the Desert Fathers","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"ark":"ark:/21198/s1w89x","pref_title":"Sayings of the Desert Fathers","alt_title":["Sayings of the Desert Fathers"],"genre":[{"id":"apophthegmata","label":"Apophthegmata"}],"rel_con":[],"refno":[],"bib":[]}}],"parent":["ark:/21198/s1qc9d"]}],"assoc_date":[{"value":"10th-11th c.  CE","iso":{"not_before":"0901","not_after":"1100"},"type":{"id":"origin","label":"Date of Origin"}}],"features":[{"id":"deco-geometric","label":"Decoration, Geometric"},{"id":"initials-deco","label":"Initial(s), Decorated"}],"note":[{"type":{"id":"ornamentation","label":"Ornamentation Note"},"value":"Decorative bars in red and black"}],"parent":["ark:/21198/z14m9dms"]},{"ark":"ark:/21198/s1c92z","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF M 84, Undertext (Asomtavruli)","locus":"ff. 6–7","writing":[{"script":[{"id":"asomtavruli","label":"Asomtavruli","writing_system":"Georgian"}],"note":["Middle sized"]}],"layout":[{"columns":"1 columns","lines":"19 lines, uncertain"}],"text_unit":[{"ark":"ark:/21198/s1197r","reconstruction":false,"label":"Khanmeti-Haemeti Psalter","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"ark":"ark:/21198/s1d886","pref_title":"Psalter","alt_title":["Psalter"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"biblical-texts","label":"Biblical texts"}],"rel_con":[],"refno":[],"bib":[]},"alt_title":"Khanmeti-Haemeti Psalter"}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Mixed Khanmeti and Haemeti version, deviates in parts remarkably from the text of redactions A and B"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Jost Gippert, Bernard Outtier"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: M. Shanidze, Psalmunis dzveli kartuli redakciebi (Tbilisi, 1960) ; J. Gippert, B. Outtier, The Oldest Georgian Psalter - A Preliminary Account, Mravaltavi 23 (Tbilisi, 2021)"}],"parent":["ark:/21198/s1c92z"]}],"assoc_date":[{"value":"ca. 7th-8th c.  CE","iso":{"not_before":"0601","not_after":"0800"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 7v+6r; 7r+6v"},{"type":{"id":"general","label":"Other Notes"},"value":"From the same original manuscript as the UTO Khanmeti-Haemeti Psalter in Sinai Georgian NF M 90"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Jost Gippert, Bernard Outtier"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: M. Shanidze, Psalmunis dzveli kartuli redakciebi (Tbilisi, 1960) ; J. Gippert, B. Outtier, The Oldest Georgian Psalter - A Preliminary Account, Mravaltavi 23 (Tbilisi, 2021)"}],"parent":["ark:/21198/z14m9dms"]},{"ark":"ark:/21198/s17h1d","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF M 84, Undertext (Asomtavruli)","locus":"ff. 1–5","writing":[{"script":[{"id":"asomtavruli","label":"Asomtavruli","writing_system":"Georgian"}]}],"layout":[{"columns":"1 columns","lines":"17 lines","note":["Fragments do not allow for an exact determination of the number of columns and lines"]}],"text_unit":[{"ark":"ark:/21198/s1wh5t","reconstruction":false,"label":"Khanmeti Mravaltavi","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"desc_title":"Khanmeti Mravaltavi","genre":[{"id":"sermons","label":"Sermons"}]}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Jost Gippert, Bernard Outtier"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: A. Shanidze, Sinuri Mravaltavi 864 c'lisa (Tbilisi, 1959), p. 31-39 ; I. Abuladze, \"Mravaltavi\": Enis, ist'oriisa da mat'erialuri k'ult'uris inst'it'ut'is moambe 14, 1944, p. 279-288 / Shromebi 3 (Tbilisi, 1975), p. 69-78 ; M. van Esbroeck, Les plus anciens homéliaires géorgiens: Étude descriptive et historique (Louvain-La-Neuve, 1973), p. 122-123"}],"parent":["ark:/21198/s17h1d"]}],"assoc_date":[{"value":"ca. 7th c.  CE","iso":{"not_before":"0601","not_after":"0700"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 1v, 1r, 5v+4r, 5r+4v, 3r+2v, 3v+2r"},{"type":{"id":"foliation","label":"Foliation Note"},"value":"The complete order is given under Georgian NF 90"},{"type":{"id":"general","label":"Other Notes"},"value":"From the same original manuscript as the UTO Khanmeti Mravaltavi in Sinai Georgian NF M 90; f. 1 is the lower part of Georgian NF M 90, f. 25"},{"type":{"id":"general","label":"Other Notes"},"value":"Fragments identified so far are also found in Sinai Georgian 32, 57, and 33 (the so-called Sinuri Mravaltavi, one manuscript broken into three parts) as well as other homiletic collections of the type"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Jost Gippert, Bernard Outtier"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: A. Shanidze, Sinuri Mravaltavi 864 c'lisa (Tbilisi, 1959), p. 31-39 ; I. Abuladze, \"Mravaltavi\": Enis, ist'oriisa da mat'erialuri k'ult'uris inst'it'ut'is moambe 14, 1944, p. 279-288 / Shromebi 3 (Tbilisi, 1975), p. 69-78 ; M. van Esbroeck, Les plus anciens homéliaires géorgiens: Étude descriptive et historique (Louvain-La-Neuve, 1973), p. 122-123"}],"parent":["ark:/21198/z14m9dms"]},{"ark":"ark:/21198/s13s76","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF M 84, Undertext (Asomtavruli)","locus":"ff. 6–7","writing":[{"script":[{"id":"asomtavruli","label":"Asomtavruli","writing_system":"Georgian"}],"note":["Small, clumsy, and slightly slanted, transitional toward Nuskha-Khutsuri"]}],"layout":[{"columns":"1 columns","lines":"19 lines, uncertain"}],"text_unit":[{"ark":"ark:/21198/s1rt15","reconstruction":false,"label":"Life of St. Febronia","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"desc_title":"Life of St. Febronia","genre":[{"id":"hagiographies","label":"Hagiographies"}]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"The text of the Life is similar to that in Sinai Georgian 6, ff. 184r-200v"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/s13s76"]}],"assoc_date":[{"value":"ca. 9th-10th c.  CE","iso":{"not_before":"0801","not_after":"1000"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 6v+7r, 6r+7v"},{"type":{"id":"foliation","label":"Foliation Note"},"value":"Folio order uncertain"},{"type":{"id":"general","label":"Other Notes"},"value":"This UTO and the UTO containing the Life of St. Febronia in Sinai Georgian NF M 90 are from the same original manuscript"},{"type":{"id":"general","label":"Other Notes"},"value":"Middle layer over the Haemeti Psalter"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/z14m9dms"]}],"related_mss":[{"type":{"id":"disjecta","label":"Disjecta Membra"},"label":"Originally formed one unit with Georgian NF M 90","mss":[{"label":"Sinai Georgian NF M 90","id":"ark:/21198/z1tb24tz"}]}]}],"location":[{"id":"sinai-nf","collection":"New Finds","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"condition","label":"Condition Note"},"value":"Loose bifolios and one singleton folio, all fragmented"}],"bib":[{"id":"087ba7ab-401c-4edc-b474-7b86bc83cbce","type":{"id":"ref","label":"Reference"},"range":"p. 430"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9dms/manifest","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qz2cw1/0,1022,6132,6132/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z14m9dms",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Georgian NF M 84",
+  "extent": "7 ff.",
+  "state": {
+    "id": "bifolio",
+    "label": "Bifolio(s)"
+  },
+  "coll": "1+2+2+2 (7)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "155 x 120 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s1qc9d",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1qc9d",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Georgian NF M 84, Overtext (Nuskhurimt)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "nuskhurimt",
+                    "label": "Nuskhurimt",
+                    "writing_system": "Georgian"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black-brown",
+                  "red"
+                ],
+                "note": [
+                  "Initials and titles in red"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1j08p",
+                "reconstruction": false,
+                "label": "Sayings of the Desert Fathers",
+                "lang": [
+                  {
+                    "id": "nucl1302",
+                    "label": "Georgian"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s1w89x",
+                      "pref_title": "Sayings of the Desert Fathers",
+                      "alt_title": [
+                        "Sayings of the Desert Fathers"
+                      ],
+                      "genre": [
+                        {
+                          "id": "apophthegmata",
+                          "label": "Apophthegmata"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s1qc9d"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "10th-11th c.  CE",
+                "iso": {
+                  "not_before": 901,
+                  "not_after": 1100
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "initials-deco",
+                "label": "Initial(s), Decorated"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation Note"
+                },
+                "value": "Decorative bars in red and black"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z14m9dms"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s1c92z",
+          "label": "Georgian Undertext: Psalter",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 6–7",
+          "script": [
+            "Asomtavruli"
+          ],
+          "lang": [
+            "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "ca. 7th-8th c.  CE",
+              "iso": {
+                "not_before": 601,
+                "not_after": 800
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s17h1d",
+          "label": "Georgian Undertext: Khanmeti Mravaltavi",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–5",
+          "script": [
+            "Asomtavruli"
+          ],
+          "lang": [
+            "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "ca. 7th c.  CE",
+              "iso": {
+                "not_before": 601,
+                "not_after": 700
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s13s76",
+          "label": "Georgian Undertext: Life of St. Febronia",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 6–7",
+          "script": [
+            "Asomtavruli"
+          ],
+          "lang": [
+            "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "ca. 9th-10th c.  CE",
+              "iso": {
+                "not_before": 801,
+                "not_after": 1000
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally formed one unit with Georgian NF M 90",
+          "mss": [
+            {
+              "label": "Sinai Georgian NF M 90",
+              "id": "ark:/21198/z1tb24tz"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Loose bifolios and one singleton folio, all fragmented"
+    }
+  ],
+  "bib": [
+    {
+      "id": "087ba7ab-401c-4edc-b474-7b86bc83cbce",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 430"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9dms/manifest",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qz2cw1/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ]
+}

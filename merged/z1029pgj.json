@@ -1,1 +1,365 @@
-{"ark":"ark:/21198/z1029pgj","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Greek 468","extent":"134 ff.","dim":"160 x 115 x 49 mm","state":{"id":"codex","label":"Codex"},"coll":"flyleaf+1x2+1 (4, paper), Quires 1-2 : 2x10 (24), Quire 3 : 1x8 (32), Quire 4 : 1x10 (42), Quires 5-7 : 3x8 (66), Quire 8 : 1x4 (70), Quires 9-14 : 6x8 (118), Quire 15 : 1x6 + 1 (125), Quire 16 : 1x2+1x4 (131); 1x2+pastedown (134, paper)","features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"},{"id":"paper","label":"Paper"}],"dim":"153 x 115 mm (representative folio)","layer":[{"ark":"ark:/21198/s1xw5x","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Greek 468, Overtext (Greek minuscule)","writing":[{"script":[{"id":"greek-min","label":"Greek minuscule","writing_system":"Greek"}]}],"ink":[{"color":["black"]}],"text_unit":[{"ark":"ark:/21198/s1rh3t","reconstruction":false,"label":"Paterikon","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Paterikon","genre":[{"id":"apophthegmata","label":"Apophthegmata"}]}}],"parent":["ark:/21198/s1xw5x"]}],"assoc_date":[{"value":"13th-14th c. CE","iso":{"not_before":"1201","not_after":"1400"},"type":{"id":"origin","label":"Date of Origin"}}],"parent":["ark:/21198/z1029pgj"]},{"ark":"ark:/21198/s15k9h","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 468, Undertext (Minuscule bouclée, Greek majuscule)","locus":"ff. 33–70","writing":[{"script":[{"id":"minuscule-bouclee","label":"Minuscule bouclée","writing_system":"Greek"},{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}],"note":["Minuscule bouclée. Titles of hymns in upright pointed majuscule, there are 45 titles in majuscule"]}],"layout":[{"columns":"1 columns","lines":"11 lines","note":["Each folio constitutes half of an original folio. The first and last words of text on each folio are missing"]}],"text_unit":[{"ark":"ark:/21198/s1tm3g","reconstruction":false,"label":"Hymns","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Hymns","genre":[{"id":"hymnals","label":"Hymnals"}]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"The hymnographical texts are fragments of kanons including troparia-prosomoia"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Vasilios Katsaros"}],"parent":["ark:/21198/s15k9h"]}],"assoc_date":[{"value":"Late 9th-Early 10th c.  CE","iso":{"not_before":"0875","not_after":"0925"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Possibly Palestine","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Vasilios Katsaros"}],"parent":["ark:/21198/z1029pgj"]},{"ark":"ark:/21198/s11s8z","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 468, Undertext (Naskh)","locus":"ff. 28–29","writing":[{"script":[{"id":"naskh","label":"Naskh","writing_system":"Arabic"}],"note":["Combination of early Naskh and Maghribi scripts | Same script as UTO Homily on the Dormition. Large bowls with sweeping curves for a number of descending strokes. Occasionally the stems of the letter alif have a club-like extension to the left of their top point. Many times the loop of letter Ḍād and ṣād has no “tooth”. The base stroke of the initial letter ‘ayn is elongated backward to the right. Sporadic diacritical marks"]}],"layout":[{"columns":"1 columns","lines":"20 lines"}],"text_unit":[{"ark":"ark:/21198/s1pt1j","reconstruction":false,"label":"Homily on the Rich and the Poor?","lang":[{"id":"arab1395","label":"Arabic"}],"work_wit":[{"work":{"desc_title":"John Chrysostom, Homily on the Rich and the Poor","creator":[{"ark":"ark:/21198/s1x303","type":{"id":"person","label":"Person"},"pref_name":"John Chrysostom","alt_name":[],"gender":{"id":"man","label":"Man"},"death":{"value":"407 CE","iso":{"not_before":"0407"}},"rel_con":[{"label":"John Chrysostom, Saint, -407","uri":"http://viaf.org/viaf/305214868","source":"VIAF"},{"label":"John Chrysostom, Saint, -407","uri":"http://id.loc.gov/authorities/names/n80001460","source":"LoC"},{"label":"John Chrysostom, Saint, -407","uri":"https://w3id.org/haf/person/873419758532","source":"HAF"},{"label":"John Chrysostom","uri":"http://syriaca.org/person/573","source":"Syriaca"},{"label":"Iohannes Chrysostomus","uri":"https://pinakes.irht.cnrs.fr/notices/auteur/1449/","source":"Pinakes"}]}],"genre":[{"id":"sermons","label":"Sermons"},{"id":"theological-works","label":"Theological works"}]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"The undertext appears to contain a homily on the rich and the poor and seems to refer to the narrative of the rich man and Lazarus in Luke 16:19-31"},{"type":{"id":"contents","label":"Contents Note"},"value":"It may be the case that this homily follows a dormition narrative; compare Sinai Arabic 556, which has a homily by John Chrysostom on the rich and the poor that follows a dormition narrative"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Hikmat Kashouh"}],"parent":["ark:/21198/s11s8z"]}],"assoc_date":[{"value":"Late 10th-beginning 11th c. CE","iso":{"not_before":"0975","not_after":"1150"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Possibly Palestine or North Africa","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 29v, 28r, 29r, 28v"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Hikmat Kashouh"}],"parent":["ark:/21198/z1029pgj"]},{"ark":"ark:/21198/s1x34m","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 468, Undertext (Greek majuscule)","locus":"ff. 128–131","writing":[{"script":[{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}],"note":["Sloping pointed majuscule | Systematic use of punctuation"]}],"layout":[{"columns":"1 columns, reconstructed","lines":"ca. 16-17 lines, reconstructed"}],"text_unit":[{"ark":"ark:/21198/s1k40b","reconstruction":false,"label":"Homily on Genesis","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"ark":"ark:/21198/s1rp59","pref_title":"Homilies on Genesis","alt_title":[],"genre":[{"id":"theological-works","label":"Theological works"},{"id":"commentaries","label":"Commentaries"}],"creator":[{"id":"ark:/21198/s1x303","role":{"id":"author","label":"Author"},"agent":{"ark":"ark:/21198/s1x303","type":{"id":"person","label":"Person"},"pref_name":"John Chrysostom","alt_name":[],"gender":{"id":"man","label":"Man"},"death":{"value":"407 CE","iso":{"not_before":"0407"}},"rel_con":[{"label":"John Chrysostom, Saint, -407","uri":"http://viaf.org/viaf/305214868","source":"VIAF"},{"label":"John Chrysostom, Saint, -407","uri":"http://id.loc.gov/authorities/names/n80001460","source":"LoC"},{"label":"John Chrysostom, Saint, -407","uri":"https://w3id.org/haf/person/873419758532","source":"HAF"},{"label":"John Chrysostom","uri":"http://syriaca.org/person/573","source":"Syriaca"},{"label":"Iohannes Chrysostomus","uri":"https://pinakes.irht.cnrs.fr/notices/auteur/1449/","source":"Pinakes"}]}}],"rel_con":[{"label":"John Chrysostom, Saint, -407. | Homilies on Genesis","uri":"https://viaf.org/viaf/185525092","source":"VIAF"},{"label":"John Chrysostom, Saint, -407. Homilies on Genesis","uri":"http://id.loc.gov/authorities/names/n85120913","source":"LoC"}],"refno":[],"bib":[]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Homily 43, on Genesis 19 (=ΟΜΙΛΙΑ ΜΓ': Ήλθον δε, φησίν, οι δύο άγγελοι εις Σόδομα εσπέρας)"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Vasilios Katsaros"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: J.-P.Migne P.G.53:21-385; 54:385-580"}],"parent":["ark:/21198/s1x34m"]}],"assoc_date":[{"value":"late 11th-early 12th c.  CE","iso":{"not_before":"1075","not_after":"1125"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Jerusalem","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 130v, 129r, 129v, 130r, 131v, 128r, 128v, 131r"},{"type":{"id":"foliation","label":"Foliation Note"},"value":"The original manuscript had folios with text in 2 columns. Later, it was cut so that now each folio includes only part of one or the other column"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Vasilios Katsaros"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: J.-P.Migne P.G.53:21-385; 54:385-580"}],"parent":["ark:/21198/z1029pgj"]},{"ark":"ark:/21198/s1s92p","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 468, Undertext (Naskh)","locus":"ff. 5–27, 30–32","writing":[{"script":[{"id":"naskh","label":"Naskh","writing_system":"Arabic"}],"note":["Combination of early Naskh and Maghribi scripts | Same script as UTO Homily on the Rich and the Poor. Large bowls with sweeping curves for a number of descending strokes. Occasionally the stems of letter alif have a club-like extension to the left of their top point, and the loop of letter Ḍād and letter ṣād has no “tooth”. The base stroke of the initial letter ‘ayn is elongated backward to the right. Sporadic diacritical marks"]}],"text_unit":[{"ark":"ark:/21198/s1f97g","reconstruction":false,"label":"Homily on the Dormition of the Virgin Mary?","lang":[{"id":"arab1395","label":"Arabic"}],"work_wit":[{"work":{"desc_title":"John of Damascus, Homily on the Dormition of the Virgin Mary","creator":[{"ark":"ark:/21198/s18c7m","type":{"id":"person","label":"Person"},"pref_name":"John of Damascus","alt_name":[],"gender":{"id":"man","label":"Man"},"death":{"value":"ca. 750 CE","iso":{"not_before":"0725","not_after":"0775"}},"rel_con":[{"label":"John, of Damascus, Saint","uri":"http://viaf.org/viaf/44435485","source":"VIAF"},{"label":"John, of Damascus, Saint","uri":"https://id.loc.gov/authorities/names/n80032173","source":"LoC"},{"label":"John, of Damascus, -approximately 750","uri":"https://w3id.org/haf/person/353918456335","source":"HAF"},{"label":"John of Damascus","uri":"http://syriaca.org/person/575","source":"Syriaca"},{"label":"Iohannes Damascenus","uri":"https://pinakes.irht.cnrs.fr/notices/auteur/1464/","source":"Pinakes"}]}],"genre":[{"id":"sermons","label":"Sermons"},{"id":"theological-works","label":"Theological works"},{"id":"commentaries","label":"Commentaries"}]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"The undertext appears to contain a homily on, or perhaps the narrative of, the dormition of the Virgin Mary from the Bethlehem tradition"},{"type":{"id":"contents","label":"Contents Note"},"value":"Arabic translator: Abba Antonios or ‘Abdallah ibn al-Fadl al-Antaki?"},{"type":{"id":"contents","label":"Contents Note"},"value":"There is a clear divergence between this undertext object and the well-known published versions (cf. Shoemaker 2002). See also, Graf, Geschichte, Vol. 1, pp. 249-251 and his references to Sinai MSS of similar content. Finally, compare Enger 1854, p. 54 with the undertext on fol. 30r"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Hikmat Kashouh"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Stephen J. Shoemaker, Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford: University Press, 2002 ; Graf, Geschichte, Vol. 1, 249-251 ; Maximilian Enger, Akhbär Yühanna as-salîh fi-naqlat umm al-Masih, id est Joannis Apostoli de transitu Beatae Mariae Virginis Liber (Eberfeld: R. L. Friderichs, 1854)"}],"parent":["ark:/21198/s1s92p"]}],"assoc_date":[{"value":"Late 10th-beginning 11th c. CE","iso":{"not_before":"0975","not_after":"1050"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Possibly Palestine or North Africa","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 5r, 14v, 5v, 14r; 6r, 13v, 6v, 13r; 7r, 12v, 7v, 12r; 11v, 8r, 11r, 8v; 9r, 10v, 9v, 10r; 15r, 24v, 15v, 24r; 16r, 23v, 16v, 23r; 22v, 17r, 22r, 17v; 21v, 18r, 21r, 18v; 19r, 20v, 19v, 20r; 25r, 32v, 25v, 32r; 31v, 26r, 31r, 26v; 27r, 30v, 27v, 30r"},{"type":{"id":"foliation","label":"Foliation Note"},"value":"Impossible to establish. The following list is based on codicological examination"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Hikmat Kashouh"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Stephen J. Shoemaker, Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford: University Press, 2002 ; Graf, Geschichte, Vol. 1, 249-251 ; Maximilian Enger, Akhbär Yühanna as-salîh fi-naqlat umm al-Masih, id est Joannis Apostoli de transitu Beatae Mariae Virginis Liber (Eberfeld: R. L. Friderichs, 1854)"}],"parent":["ark:/21198/z1029pgj"]},{"ark":"ark:/21198/s1nm0s","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 468, Undertext (Greek majuscule)","locus":"ff. 132–134r","writing":[{"script":[{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}],"note":["Sloping pointed majuscule"]}],"text_unit":[{"ark":"ark:/21198/s19m46","reconstruction":false,"label":"Prayers and praises for the mother of John Prodromos, the Virgin Mary and Jesus Christ","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Prayers","genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"prayers","label":"Prayers"}]},"alt_title":"Prayers and praises for the mother of John Prodromos, the Virgin Mary, and Jesus Christ"}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Vasilios Katsaros"}],"parent":["ark:/21198/s1nm0s"]}],"assoc_date":[{"value":"12th c.  CE","iso":{"not_before":"1101","not_after":"1200"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Vasilios Katsaros"}],"parent":["ark:/21198/z1029pgj"]},{"ark":"ark:/21198/s1hs7x","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 468, Undertext (Greek majuscule)","locus":"ff. 71–110, 119, 121–123, 125–127","writing":[{"script":[{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}],"note":["Sloping pointed majuscule"]}],"layout":[{"columns":"1 columns","lines":"19 lines","note":["Each folio constitutes part of an original folio. The first and last words of text on each folio are missing"]}],"text_unit":[{"ark":"ark:/21198/s15t1w","reconstruction":false,"label":"Hymns","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Hymns","genre":[{"id":"hymnals","label":"Hymnals"}]}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Vasilios Katsaros"}],"parent":["ark:/21198/s1hs7x"]}],"assoc_date":[{"value":"Mid 9th c. ca. CE","iso":{"not_before":"0850","not_after":"0965"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Possibly Palestine","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Vasilios Katsaros"}],"parent":["ark:/21198/z1029pgj"]},{"ark":"ark:/21198/s1d35b","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 468, Undertext (Greek majuscule)","locus":"ff. 111–118, 120, 124","writing":[{"script":[{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}],"note":["Sloping pointed majuscule | Large, easily legible and sparse letters based on straight lines. The script is written in a steady hand"]}],"layout":[{"columns":"1 columns","lines":"11 lines","note":["Some folios are damaged"]}],"text_unit":[{"ark":"ark:/21198/s1240p","reconstruction":false,"label":"Fragments of homilies","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Homilies of Hesychius of Jerusalem and Gregory of Nazianzus","creator":[{"ark":"ark:/21198/s1js3q","type":{"id":"person","label":"Person"},"pref_name":"Hesychius of Jerusalem","alt_name":[],"gender":{"id":"man","label":"Man"},"death":{"value":"450 CE","iso":{"not_before":"0450"}},"rel_con":[{"label":"Hesychius, Hierosolymitanus","uri":"http://viaf.org/viaf/262453640","source":"VIAF"},{"label":"Hesychius Hierosolymitanus","uri":"https://pinakes.irht.cnrs.fr/notices/auteur/1324/","source":"Pinakes"}]},{"ark":"ark:/21198/s12s3c","type":{"id":"person","label":"Person"},"pref_name":"Gregory of Nazianzus","alt_name":["Gregory the Theologian"],"gender":{"id":"man","label":"Man"},"floruit":{"value":"ca. 329 CE-390 CE","iso":{"not_before":"0304","not_after":"0415"}},"rel_con":[{"label":"Gregory, of Nazianzus, Saint","uri":"http://viaf.org/viaf/46897094","source":"VIAF"},{"label":"Gregory, of Nazianzus, Saint","uri":"https://id.loc.gov/authorities/names/n50082276","source":"LoC"},{"label":"Gregory, of Nazianzus, approximately 329-390","uri":"https://w3id.org/haf/person/889037265072","source":"HAF"},{"label":"Gregory Nazianzen","uri":"http://syriaca.org/person/511","source":"Syriaca"},{"label":"Gregorius Nazianzenus","uri":"https://pinakes.irht.cnrs.fr/notices/auteur/1239/","source":"Pinakes"}]}],"genre":[{"id":"sermons","label":"Sermons"},{"id":"theological-works","label":"Theological works"}]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Fragments of homilies of Hesychius of Jerusalem and Gregory of Nazianzus"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Vasilios Katsaros"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: M. Aubineau, Les homelies festales d' Hesychius de Jerusalem, vol.1. Les homelies i-xv. Subsidia hagiographica 59. Brussels, 1978, pp. 158-168 ; Gregoire de Nazianze, Discours 38-41, introduction, texte critique et notes par Claudio Moreschini, traduction par Paul Gallay. Sources Chretiennes, no 358. Paris, 1990, Discours 39, Sur les lumieres( Εις τα Φώτα), p.150-197"}],"parent":["ark:/21198/s1d35b"]}],"assoc_date":[{"value":"late 10th c.  CE","iso":{"not_before":"0951","not_after":"1000"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Jerusalem","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. Hesychius, Homily:117v,112,117r,112v,111r,118, 118v,111v. Gregory of Nazianzus, Homily : 113,116,113v, 116, 114, 115v,114v,115"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Vasilios Katsaros"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: M. Aubineau, Les homelies festales d' Hesychius de Jerusalem, vol.1. Les homelies i-xv. Subsidia hagiographica 59. Brussels, 1978, pp. 158-168 ; Gregoire de Nazianze, Discours 38-41, introduction, texte critique et notes par Claudio Moreschini, traduction par Paul Gallay. Sources Chretiennes, no 358. Paris, 1990, Discours 39, Sur les lumieres( Εις τα Φώτα), p.150-197"}],"parent":["ark:/21198/z1029pgj"]}]}],"location":[{"id":"sinai-oc","collection":"Old Collection","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Pencil foliation beginning with front pastedown (f. 1v); foliation of parchment leaves begins with f. 5r"},{"type":{"id":"binding","label":"Binding Note"},"value":"Leather on wood, Greek binding; paper fly leaves in front and back. Broken leather spine"}],"bib":[{"id":"55eae5e7-ad84-46af-a814-4f5524b2d09d","type":{"id":"ref","label":"Reference"},"range":"pp. 114-115"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z1029pgj",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Greek 468",
+  "extent": "134 ff.",
+  "dim": "160 x 115 x 49 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "flyleaf+1x2+1 (4, paper), Quires 1-2 : 2x10 (24), Quire 3 : 1x8 (32), Quire 4 : 1x10 (42), Quires 5-7 : 3x8 (66), Quire 8 : 1x4 (70), Quires 9-14 : 6x8 (118), Quire 15 : 1x6 + 1 (125), Quire 16 : 1x2+1x4 (131); 1x2+pastedown (134, paper)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        },
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "dim": "153 x 115 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s1xw5x",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1xw5x",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Greek 468, Overtext (Greek minuscule)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-min",
+                    "label": "Greek minuscule",
+                    "writing_system": "Greek"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1rh3t",
+                "reconstruction": false,
+                "label": "Paterikon",
+                "lang": [
+                  {
+                    "id": "gree1276",
+                    "label": "Greek"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "desc_title": "Paterikon",
+                      "genre": [
+                        {
+                          "id": "apophthegmata",
+                          "label": "Apophthegmata"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s1xw5x"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "13th-14th c. CE",
+                "iso": {
+                  "not_before": 1201,
+                  "not_after": 1400
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1029pgj"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s15k9h",
+          "label": "Greek Undertext: Hymns",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 33–70",
+          "script": [
+            "Minuscule bouclée",
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 9th-Early 10th c.  CE",
+              "iso": {
+                "not_before": 875,
+                "not_after": 925
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s11s8z",
+          "label": "Arabic Undertext: John Chrysostom, Homily on the Rich and the Poor",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 28–29",
+          "script": [
+            "Naskh"
+          ],
+          "lang": [
+            "Arabic"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 10th-beginning 11th c. CE",
+              "iso": {
+                "not_before": 975,
+                "not_after": 1150
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1x34m",
+          "label": "Greek Undertext: John Chrysostom, Homilies on Genesis",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 128–131",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "late 11th-early 12th c.  CE",
+              "iso": {
+                "not_before": 1075,
+                "not_after": 1125
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1s92p",
+          "label": "Arabic Undertext: John of Damascus, Homily on the Dormition of the Virgin Mary",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 5–27, 30–32",
+          "script": [
+            "Naskh"
+          ],
+          "lang": [
+            "Arabic"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 10th-beginning 11th c. CE",
+              "iso": {
+                "not_before": 975,
+                "not_after": 1050
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1nm0s",
+          "label": "Greek Undertext: Prayers",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 132–134r",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "12th c.  CE",
+              "iso": {
+                "not_before": 1101,
+                "not_after": 1200
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1hs7x",
+          "label": "Greek Undertext: Hymns",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 71–110, 119, 121–123, 125–127",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "Mid 9th c. ca. CE",
+              "iso": {
+                "not_before": 850,
+                "not_after": 965
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1d35b",
+          "label": "Greek Undertext: Homilies of Hesychius of Jerusalem and Gregory of Nazianzus",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 111–118, 120, 124",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "late 10th c.  CE",
+              "iso": {
+                "not_before": 951,
+                "not_after": 1000
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation beginning with front pastedown (f. 1v); foliation of parchment leaves begins with f. 5r"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood, Greek binding; paper fly leaves in front and back. Broken leather spine"
+    }
+  ],
+  "bib": [
+    {
+      "id": "55eae5e7-ad84-46af-a814-4f5524b2d09d",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "pp. 114-115"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ]
+}

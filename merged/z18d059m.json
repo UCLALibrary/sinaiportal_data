@@ -1,1 +1,203 @@
-{"ark":"ark:/21198/z18d059m","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Georgian NF M 59","extent":"12 ff.","dim":"105 x 92 x 17 mm","state":{"id":"folio","label":"Folio(s)"},"coll":"Quire 1: 1x6 (6), 3x2 (12)","features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"dim":"105 x 92 mm (representative folio)","layer":[{"ark":"ark:/21198/s13p6s","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Georgian NF M 59, Overtext (Nuskhurimt)","writing":[{"script":[{"id":"nuskhurimt","label":"Nuskhurimt","writing_system":"Georgian"}]}],"ink":[{"color":["black-brown","red"],"note":["Red used for some initials"]}],"text_unit":[{"ark":"ark:/21198/s1x67s","reconstruction":false,"label":"Liturgical collection","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"desc_title":"Liturgical collection","genre":[{"id":"liturgical-texts","label":"Liturgical texts"}]}}],"parent":["ark:/21198/s13p6s"]}],"assoc_date":[{"value":"11th-12th c.  CE","iso":{"not_before":"1001","not_after":"1200"},"type":{"id":"origin","label":"Date of Origin"}}],"parent":["ark:/21198/z18d059m"]},{"ark":"ark:/21198/s1j06x","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF M 59, Undertext (Nuskhurimt)","locus":"ff. 1–12","writing":[{"script":[{"id":"nuskhurimt","label":"Nuskhurimt","writing_system":"Georgian"}],"note":["Straight and narrow"]}],"layout":[{"columns":"1 columns","lines":"21 lines","note":["Number of lines and columns uncertain"]}],"text_unit":[{"ark":"ark:/21198/s1610w","reconstruction":false,"label":"Hymnary (Iadgari, Easter cycle)","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"desc_title":"Hymns","genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"hymnals","label":"Hymnals"}]},"alt_title":"Iadgari, Easter cycle"}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/s1j06x"]}],"assoc_date":[{"value":"ca. 10th c.  CE","iso":{"not_before":"0901","not_after":"1000"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/z18d059m"]}]}],"location":[{"id":"sinai-nf","collection":"New Finds","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Consecutive foliation in lower right corner is followed here; some folios carry alternate foliation in pencil (not followed)"},{"type":{"id":"binding","label":"Binding Note"},"value":"Binding absent"},{"type":{"id":"condition","label":"Condition Note"},"value":"One quire and three bifolios, unbound | All folios are incomplete at lower margin and severely cockled"}],"bib":[{"id":"087ba7ab-401c-4edc-b474-7b86bc83cbce","type":{"id":"ref","label":"Reference"},"range":"p. 418"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18d059m/manifest","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1p84d1s/1022,0,6132,6132/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z18d059m",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Georgian NF M 59",
+  "extent": "12 ff.",
+  "dim": "105 x 92 x 17 mm",
+  "state": {
+    "id": "folio",
+    "label": "Folio(s)"
+  },
+  "coll": "Quire 1: 1x6 (6), 3x2 (12)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "105 x 92 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s13p6s",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s13p6s",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Georgian NF M 59, Overtext (Nuskhurimt)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "nuskhurimt",
+                    "label": "Nuskhurimt",
+                    "writing_system": "Georgian"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black-brown",
+                  "red"
+                ],
+                "note": [
+                  "Red used for some initials"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1x67s",
+                "reconstruction": false,
+                "label": "Liturgical collection",
+                "lang": [
+                  {
+                    "id": "nucl1302",
+                    "label": "Georgian"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "desc_title": "Liturgical collection",
+                      "genre": [
+                        {
+                          "id": "liturgical-texts",
+                          "label": "Liturgical texts"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s13p6s"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "11th-12th c.  CE",
+                "iso": {
+                  "not_before": 1001,
+                  "not_after": 1200
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z18d059m"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s1j06x",
+          "label": "Georgian Undertext: Hymns",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–12",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "ca. 10th c.  CE",
+              "iso": {
+                "not_before": 901,
+                "not_after": 1000
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation Note"
+      },
+      "value": "Consecutive foliation in lower right corner is followed here; some folios carry alternate foliation in pencil (not followed)"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Binding absent"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "One quire and three bifolios, unbound | All folios are incomplete at lower margin and severely cockled"
+    }
+  ],
+  "bib": [
+    {
+      "id": "087ba7ab-401c-4edc-b474-7b86bc83cbce",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 418"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18d059m/manifest",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1p84d1s/1022,0,6132,6132/150,150/0/default.jpg"
+    }
+  ]
+}

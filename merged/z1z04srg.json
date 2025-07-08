@@ -1,1 +1,234 @@
-{"ark":"ark:/21198/z1z04srg","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Arabic 376","extent":"255 ff.","weight":"2343.1 g","dim":"275 x 188 x 93 mm","state":{"id":"codex","label":"Codex"},"part":[{"label":"Part 1","support":[{"id":"paper","label":"Paper"}],"layer":[{"ark":"ark:/21198/s10c8h","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Arabic 376, Overtext (Naskh)","writing":[{"script":[{"id":"naskh","label":"Naskh","writing_system":"Arabic"}]}],"text_unit":[{"ark":"ark:/21198/s1t07s","reconstruction":false,"label":"St. Antiochus: Pandectes","lang":[{"id":"arab1395","label":"Arabic"}],"work_wit":[{"work":{"ark":"ark:/21198/s1gp4f","pref_title":"Pandektēs","orig_lang":{"id":"gree1276","label":"Greek"},"alt_title":["Antiochus, monk of Palestine, active 7th century. Pandektēs"],"genre":[],"creator":[{"id":"ark:/21198/s1kw2p","role":{"id":"author","label":"Author"},"agent":{"ark":"ark:/21198/s1kw2p","type":{"id":"person","label":"Person"},"pref_name":"Antiochus of Palestine","alt_name":[],"gender":{"id":"man","label":"Man"},"floruit":{"value":"7th c. CE","iso":{"not_before":"0601","not_after":"0700"}},"rel_con":[{"label":"Antiochus active 7th century monk of Palestine","uri":"http://viaf.org/viaf/89050745","source":"VIAF"},{"label":"Antiochus, monk of Palestine, active 7th century","uri":"http://id.loc.gov/authorities/names/no2005084640","source":"LoC"},{"label":"Antiochus, monk of Palestine, active 7th century","uri":"https://haf.vhmml.org/person/329286221270","source":"HAF"},{"label":"Antiochus monachus","uri":"https://pinakes.irht.cnrs.fr/notices/auteur/234/","source":"Pinakes"}]}}],"rel_con":[{"label":"Antiochus monachus Pandecte de la Sainte Écriture","uri":"http://viaf.org/viaf/292613749","source":"VIAF"}],"refno":[],"bib":[]},"alt_title":"St. Antiochus: Pandectes","locus":"ff. 2v-254r"}],"parent":["ark:/21198/s10c8h"]}],"para":[{"type":{"id":"colophon","label":"Colophon"},"locus":"f. 254r","lang":[{"id":"arab1395","label":"Arabic"}],"as_written":"وكان الفراغ من نسخة تاسع آذار عيد الأربعون شاهد سنة ستة آلاف وثمانمائة وأربعة عشر للعالم وذلك بطور سيناء المقدس في دير القديس ماري موسى وهارون وإلياس واليشع والسنت كاتارينا والمجد لله ابدا آمين","assoc_date":[{"value":"9 Adhar, Feast of the 40 Martyrs , 6814 (world)","type":{"id":"origin","label":"Date of Origin"}}],"note":["Attested places:  Mount Sinai"]}],"assoc_date":[{"value":"1306 CE","iso":{"not_before":"1306"},"type":{"id":"origin","label":"Date of Origin"}}],"features":[{"id":"dated","label":"Dated"}],"parent":["ark:/21198/z1z04srg"]}]}],"location":[{"id":"sinai-oc","collection":"Old Collection","repository":"St. Catherine's Monastery of the Sinai"}],"bib":[{"id":"deb668b6-feec-4828-8749-a97441881226","type":{"id":"ref","label":"Reference"},"range":"[390], p. 30"},{"id":"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21","type":{"id":"otherdigversion","label":"Other Digital Version"},"url":"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038909780205171//NLI"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1z04srg/manifest","text_direction":"right-to-left","behavior":"paged","thumbnail":"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1z04srg%2F0n44qg4g/full/!200,200/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z1z04srg",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 376",
+  "extent": "255 ff.",
+  "weight": "2343.1 g",
+  "dim": "275 x 188 x 93 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "layer": [
+        {
+          "id": "ark:/21198/s10c8h",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s10c8h",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 376, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1t07s",
+                "reconstruction": false,
+                "label": "St. Antiochus: Pandectes",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s1gp4f",
+                      "pref_title": "Pandektēs",
+                      "orig_lang": {
+                        "id": "gree1276",
+                        "label": "Greek"
+                      },
+                      "alt_title": [
+                        "Antiochus, monk of Palestine, active 7th century. Pandektēs"
+                      ],
+                      "creator": [
+                        {
+                          "id": "ark:/21198/s1kw2p",
+                          "agent_record": {
+                            "ark": "ark:/21198/s1kw2p",
+                            "type": {
+                              "id": "person",
+                              "label": "Person"
+                            },
+                            "pref_name": "Antiochus of Palestine",
+                            "gender": {
+                              "id": "man",
+                              "label": "Man"
+                            },
+                            "floruit": {
+                              "value": "7th c. CE",
+                              "iso": {
+                                "not_before": 601,
+                                "not_after": 700
+                              }
+                            },
+                            "rel_con": [
+                              {
+                                "label": "Antiochus active 7th century monk of Palestine",
+                                "uri": "http://viaf.org/viaf/89050745",
+                                "source": "VIAF"
+                              },
+                              {
+                                "label": "Antiochus, monk of Palestine, active 7th century",
+                                "uri": "http://id.loc.gov/authorities/names/no2005084640",
+                                "source": "LoC"
+                              },
+                              {
+                                "label": "Antiochus, monk of Palestine, active 7th century",
+                                "uri": "https://haf.vhmml.org/person/329286221270",
+                                "source": "HAF"
+                              },
+                              {
+                                "label": "Antiochus monachus",
+                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/234/",
+                                "source": "Pinakes"
+                              }
+                            ]
+                          },
+                          "role": {
+                            "id": "author",
+                            "label": "Author"
+                          }
+                        }
+                      ],
+                      "rel_con": [
+                        {
+                          "label": "Antiochus monachus Pandecte de la Sainte Écriture",
+                          "uri": "http://viaf.org/viaf/292613749",
+                          "source": "VIAF"
+                        }
+                      ]
+                    },
+                    "alt_title": "St. Antiochus: Pandectes",
+                    "locus": "ff. 2v-254r"
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s10c8h"
+                ]
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "colophon",
+                  "label": "Colophon"
+                },
+                "locus": "f. 254r",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "وكان الفراغ من نسخة تاسع آذار عيد الأربعون شاهد سنة ستة آلاف وثمانمائة وأربعة عشر للعالم وذلك بطور سيناء المقدس في دير القديس ماري موسى وهارون وإلياس واليشع والسنت كاتارينا والمجد لله ابدا آمين",
+                "assoc_date": [
+                  {
+                    "value": "9 Adhar, Feast of the 40 Martyrs , 6814 (world)",
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    }
+                  }
+                ],
+                "note": [
+                  "Attested places:  Mount Sinai"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "1306 CE",
+                "iso": {
+                  "not_before": 1306,
+                  "not_after": 1306
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1z04srg"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[390], p. 30"
+    },
+    {
+      "id": "f3ea9df2-bf85-465c-ac1d-6bd4cce71e21",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038909780205171//NLI"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1z04srg/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1z04srg%2F0n44qg4g/full/!200,200/0/default.jpg"
+    }
+  ]
+}

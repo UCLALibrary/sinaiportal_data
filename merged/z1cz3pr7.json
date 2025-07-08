@@ -1,1 +1,334 @@
-{"ark":"ark:/21198/z1cz3pr7","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Greek 966","extent":"102 ff.","dim":"170 x 120 x 42 mm","state":{"id":"codex","label":"Codex"},"coll":"Quires 1-3: 3x8 (24), Quire 4: 1x8+1+1 (34), Quire 5: 1x6+1+1 (42), Quire 6: 1x2+1+1 (46), Quire 7: 1x6+1+1 (54), Quires 8-12: 5x8 (94), Quire 13: 1x6+1+1 (102)","features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"dim":"169 x 110 mm (representative folio)","layer":[{"ark":"ark:/21198/s11p65","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Greek 966, Overtext (Greek minuscule)","writing":[{"script":[{"id":"greek-min","label":"Greek minuscule","writing_system":"Greek"}],"note":["Small, upright minuscule (style rectangulaire aplati ou écrasé)"]}],"ink":[{"color":["black-brown","yellow"],"note":["Occasional words highlighted in yellow"]}],"text_unit":[{"ark":"ark:/21198/s1v95f","reconstruction":false,"label":"Euchologion","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"ark":"ark:/21198/s1tp4j","pref_title":"Euchologion","alt_title":["Euchologion"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"}],"rel_con":[],"refno":[],"bib":[]}}],"parent":["ark:/21198/s11p65"]}],"assoc_date":[{"value":"12th c.  CE","iso":{"not_before":"1101","not_after":"1200"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Southern Italy (Salento)","event":{"id":"origin","label":"Place of Origin"}}],"features":[{"id":"deco-geometric","label":"Decoration, Geometric"}],"note":[{"type":{"id":"ornamentation","label":"Ornamentation Note"},"value":"Decorative bars"},{"type":{"id":"general","label":"Other Notes"},"value":"Previous catalogs dated this manuscript to the 13th-14th c. CE"}],"parent":["ark:/21198/z1cz3pr7"]},{"ark":"ark:/21198/s1xw7p","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 966, Undertext (Greek majuscule)","locus":"ff. 56, 61","writing":[{"script":[{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}],"note":["Sloping pointed majuscule"]}],"layout":[{"columns":"1 columns","lines":"27-29 lines, reconstructed","note":["Each (reconstructed) folio had 28/29 lines of text, with 8 mm between and arranged in a single column","One bifolio of Sin. gr. 966 corresponds to one original folio (61v+56r, 61r+56v), which measured approximately 255x180 mm. The Schriftspiegel is approximately 200x120 mm. The upper margin measures 15 mm (fol. 61r), the outer 40 mm (fol. 61r), the internal one 25 mm (f. 61r), and the lower 50 mm (fol. 56v)"]}],"text_unit":[{"ark":"ark:/21198/s1kx21","reconstruction":false,"label":"Kanon on Saint Eupraxia","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Clement the Hymnographer, Kanon on Saint Eupraxia","genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"hymnals","label":"Hymnals"}]}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Ernst Gamillscheg, Giulia Rossetto"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Rossetto 2023a"}],"parent":["ark:/21198/s1xw7p"]}],"assoc_date":[{"value":"9th-10th c. CE","iso":{"not_before":"0801","not_after":"1000"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 61v+56r, 61r+56v"},{"type":{"id":"general","label":"Other Notes"},"value":"Sinai Greek NF M 21, f. 7 contains sections of this same erased text"},{"type":{"id":"general","label":"Other Notes"},"value":"Lower (older) layer of double palimpsest"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Ernst Gamillscheg, Giulia Rossetto"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Rossetto 2023a"}],"parent":["ark:/21198/z1cz3pr7"]},{"ark":"ark:/21198/s1t34p","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 966, Undertext (Greek minuscule)","locus":"ff. 80, 85","writing":[{"script":[{"id":"greek-min","label":"Greek minuscule","writing_system":"Greek"}],"note":["Μinuscule \"rectangulaire aplati ou écrasé\" | Text written in an upright rectangular calligraphic minuscule with thick and pronounced strokes hanging from the ruled line. A notable peculiarity is the letter ζ \"a proboscide\", in the form of a three inclined to the left. This mode of writing is reminiscent of Salentine manuscripts written in \"style rectangulaire aplati ou écrasé\""]}],"layout":[{"columns":"1 columns","lines":"22-23 lines","note":["Each side of the bifolio preserves 22–23 lines of text, with 7 mm between and arranged in a single column","The upper margin measures 35 mm, the outer 45 mm, and the lower 35 mm (f. 85v). The original manuscript measured approximately 190x130 mm","Prickings are still visible in the outer margin of f. 80, their shape elongated rather than round, and likely made with a penknife. The ruled lines correspond to Sautel-Leroy type 24D1"]}],"text_unit":[{"ark":"ark:/21198/s1g40d","reconstruction":false,"label":"Questions and Answers (?)","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Questions and Answers"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Ernst Gamillscheg, Giulia Rossetto"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Rossetto 2023a"}],"parent":["ark:/21198/s1t34p"]}],"assoc_date":[{"value":"11th c.  CE","iso":{"not_before":"1001","not_after":"1100"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Southern Italy (Salento)","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Lower (older) layer of double palimpsest"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Ernst Gamillscheg, Giulia Rossetto"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Rossetto 2023a"}],"parent":["ark:/21198/z1cz3pr7"]},{"ark":"ark:/21198/s1pd35","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 966, Undertext (Greek majuscule)","locus":"ff. 81, 84, 89, 92, 95–96, 101–102","writing":[{"script":[{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}],"note":["Upright pointed majuscule"]}],"layout":[{"columns":"1 columns","lines":"30-31 lines","note":["The text is arranged in a single column with 30 or 31 lines per page and a distance between lines of 5 mm","The Schriftspiegel is approximately 175x90 mm. What remains of the upper margin measures 6 mm, while the outer margin measures 30 mm and the lower 20 mm (f. 101r). The original manuscript measured approximately 190x130 mm"]}],"text_unit":[{"ark":"ark:/21198/s1bd66","reconstruction":false,"label":"Makarismoi from a Parakletike","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"ark":"ark:/21198/s1k300","pref_title":"Paraklesis","alt_title":["Paraklesis"],"genre":[],"rel_con":[],"refno":[],"bib":[]},"alt_title":"Makarismoi from a Parakletike"}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"The troparia (εἰς τὴν λειτουργίαν) are arranged according to the system of the eight modes. What is preserved goes from Saturday of tone 2 to Sunday of tone 6 (Rossetto)"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Ernst Gamillscheg, Giulia Rossetto"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Rossetto 2023a"}],"parent":["ark:/21198/s1pd35"]}],"assoc_date":[{"value":"10th c.  CE","iso":{"not_before":"0901","not_after":"1000"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 81, 89, 102, 95, 92, 101, 84, 96"},{"type":{"id":"foliation","label":"Foliation Note"},"value":"Seven folia belong to the same quire, that can be reconstructed as follows: 81, missing folio, 89, 102, 95, 92, 101, 84 (Rossetto). Folio 96 comes from a different quire"},{"type":{"id":"general","label":"Other Notes"},"value":"Lower (oldest) layer of double palimpsest"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Ernst Gamillscheg, Giulia Rossetto"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Rossetto 2023a"}],"parent":["ark:/21198/z1cz3pr7"]},{"ark":"ark:/21198/s1jm0v","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek 966, Undertext (Greek minuscule)","locus":"ff. 47–102","writing":[{"script":[{"id":"greek-min","label":"Greek minuscule","writing_system":"Greek"}],"note":["Minuscule with abbreviations and cursive elements. Yellow wash used for highlighting titles and rubrics (e.g. on fol. 53r), indicating south Italian origin. Typical Salentine traits are also: side bands that resemble vegetal motifs (e.g. fols. 55r, 81v, 93r), omicron en rondelle, initials with double outline, asterisk with arrowheads"]}],"layout":[{"columns":"1 columns","lines":"Between 19 and 26 lines","note":["The undertext runs parallel to the overtext","Each side preserves between 19 and 26 lines of text, 6 mm apart and arranged in a single column","A single folio of Sin. gr. 966 corresponds to a single folio of the original manuscript, suggesting that the original manuscript was of similar dimensions: approximately 175x120 mm (oblong in height). The Schriftspiegel is approximately 135x90 mm, with margins measuring 20 mm (outer), 15 mm (inner), 30 mm (lower) and 20 mm (upper) (f. 71r)","Prickings are still visible in the margins (e.g. fol. 95), elongated in shape and likely made with a penknife. The scheme of ruled lines which support the writing corresponds to Leroy’s index X. This kind of ruling is often found in manuscripts written in Salento (Southern Italy)"]}],"text_unit":[{"ark":"ark:/21198/s16q49","reconstruction":false,"label":"Liturgical Typikon","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"ark":"ark:/21198/s1qk5z","pref_title":"Typikon","alt_title":["Typikon"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"}],"rel_con":[],"refno":[],"bib":[]},"alt_title":"Liturgical Typikon"}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Title of the manuscript (τυπικόν) on f. 71r"},{"type":{"id":"contents","label":"Contents Note"},"value":"The text falls broadly into three parts: 1) general rules on how to celebrate services. This section occupies the first seven folia of Quire one; 2) synaxarion, listing a selection of fixed daily celebrations, from the beginning of the liturgical year on 1 September until 31 August (from the second half of Quire one to the third to last folio of Quire five); 3) triodion, with the movable cycle, running from the Sunday of the Publican and the Pharisee to Easter Monday (the last two folia of Quire five until the end of Quire seven). The final part of the manuscript—from Easter Monday to All Saints’ Sunday (the first Sunday after Pentecost)—is missing. I have calculated that approximately two quires are now lost. All in all, this means that the Typikon originally consisted of approximately 70 folia (Rossetto)"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Ernst Gamillscheg, Giulia Rossetto"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: G. Rossetto, Greek Palimpsests at Saint Catherine's Monastery (Sinai): Three Euchologia as Case Studies, Vienna 2022 | Typikon editions used to compare the text are: Mateos, J. (ed.), Le typicon de la Grande Église. ms. Saint-Croix no. 40, Xe siècle, vol. 1, Le cycle des douze mois, Orientalia Christiana Analecta 165 (Rome, 1962) ; idem. vol. 2, Le cycle des fêtes mobiles, Orientalia Christiana Analecta 166 (Rome, 1963) ; Arranz, M., Le typicon du Monastère du Saint Sauveur à Messine, Codex Messinensis Gr. 115 A.D. 1131, introduction, texte critique, and notes by M. Arranz SJ, Orientalia Christiana Analecta 185 (Rome, 1969) ; Papadopulos-Kerameus, A., Ἀναλέκτα Ἱεροσολυμιτικῆς Σταχυολογίας, vols. 1-4 (St. Petersburg, 1891-1898) ; Dmitrievskij, A., Opisanie liturgičeskichă rukopisej, chranjaščichsja vă bibliotekachă Pravoslavnago Vostoka, I: Τυπικά, Kiev 1895 ; Dmitrievskij, A., Opisanie liturgičeskichă rukopisej, chranjaščichsja vă bibliotekachă Pravoslavnago Vostoka, III: Τυπικά 2, Petrograd 1917"}],"parent":["ark:/21198/s1jm0v"]}],"assoc_date":[{"value":"Late 11th - early 12th c.  CE","iso":{"not_before":"1051","not_after":"1150"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Southern Italy (Salento)","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 71, 84, 65, 92, 89, 68, 81, 78, 95, 76, 101, 90, 91, 96, 73, 102, 55, 70, 77, 50, 51, 72, 63, 62, 53, 66, 100, 97, 67, 48, 87, 88, 99, 64, 69, 98, 93, 94, 83, 60, 75, 74, 57, 82, 79, 54, 61, 52, 80, 85, 49, 56, 47, 86 (Rossetto)"},{"type":{"id":"general","label":"Other Notes"},"value":"Sinai Greek NF M 21, ff. 4-7 contains parts of this same text"},{"type":{"id":"general","label":"Other Notes"},"value":"Upper (younger) layer of double palimpsest"},{"type":{"id":"general","label":"Other Notes"},"value":"Seven quires can be reconstructed. Quire 1: ff. 71, 84, 65, 92, 89, 68, 81, 78 (complete); Quire 2: ff. 95, 76, 101, 90, 91, 96, 73, 102 (complete, with quire mark on f. 95r); Quire 3: ff. 55, 70, 77, 50, 51, 72, 63, 62 (complete); Quire 4: ff. 53, 66, 100, 97, 67, 48 (quire mark on f. 53r. Third bifolio is missing); Quire 5: ff. 87, 88, 99, 64, 69, 98, 93, 94 (complete, with quire mark on f. 87r); Quire 6: ff. 83, 60, 75, 74, 57, 82 (quire mark on f. 83r. Central bifolio is missing); Quire 7: ff. 79, 54, 61, 52, 80, 85, 49, 56, 47, 86 (complete, with quire mark on f. 79r) (Rossetto)"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Ernst Gamillscheg, Giulia Rossetto"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: G. Rossetto, Greek Palimpsests at Saint Catherine's Monastery (Sinai): Three Euchologia as Case Studies, Vienna 2022 | Typikon editions used to compare the text are: Mateos, J. (ed.), Le typicon de la Grande Église. ms. Saint-Croix no. 40, Xe siècle, vol. 1, Le cycle des douze mois, Orientalia Christiana Analecta 165 (Rome, 1962) ; idem. vol. 2, Le cycle des fêtes mobiles, Orientalia Christiana Analecta 166 (Rome, 1963) ; Arranz, M., Le typicon du Monastère du Saint Sauveur à Messine, Codex Messinensis Gr. 115 A.D. 1131, introduction, texte critique, and notes by M. Arranz SJ, Orientalia Christiana Analecta 185 (Rome, 1969) ; Papadopulos-Kerameus, A., Ἀναλέκτα Ἱεροσολυμιτικῆς Σταχυολογίας, vols. 1-4 (St. Petersburg, 1891-1898) ; Dmitrievskij, A., Opisanie liturgičeskichă rukopisej, chranjaščichsja vă bibliotekachă Pravoslavnago Vostoka, I: Τυπικά, Kiev 1895 ; Dmitrievskij, A., Opisanie liturgičeskichă rukopisej, chranjaščichsja vă bibliotekachă Pravoslavnago Vostoka, III: Τυπικά 2, Petrograd 1917"}],"parent":["ark:/21198/z1cz3pr7"]}]}],"location":[{"id":"sinai-oc","collection":"Old Collection","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"condition","label":"Condition Note"},"value":"Codex incomplete at beginning and end | Quires 1-3 detached, quires 4-10 sewn, quires 11-13 (ff, 79-102) detached"},{"type":{"id":"collation","label":"Collation Note"},"value":"Quire signatures on first folio of new quire in Greek (2, 3, 5, 6, 7, 8, 9) for quires 6, 7, 9, 10, 11, 12, 13, beginning on f. 43"}],"bib":[{"id":"55eae5e7-ad84-46af-a814-4f5524b2d09d","type":{"id":"ref","label":"Reference"},"range":"p. 206"},{"id":"deb668b6-feec-4828-8749-a97441881226","type":{"id":"ref","label":"Reference"},"range":"[1295], p. 111 "},{"id":"1dd25ff5-4d69-4d2d-9550-e556790887c1","type":{"id":"ref","label":"Reference"},"range":"pp. 197-264"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz3pr7/manifest","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1fb5p4b/0,1022,6132,6132/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z1cz3pr7",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Greek 966",
+  "extent": "102 ff.",
+  "dim": "170 x 120 x 42 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "Quires 1-3: 3x8 (24), Quire 4: 1x8+1+1 (34), Quire 5: 1x6+1+1 (42), Quire 6: 1x2+1+1 (46), Quire 7: 1x6+1+1 (54), Quires 8-12: 5x8 (94), Quire 13: 1x6+1+1 (102)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "169 x 110 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s11p65",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s11p65",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Greek 966, Overtext (Greek minuscule)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-min",
+                    "label": "Greek minuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "note": [
+                  "Small, upright minuscule (style rectangulaire aplati ou écrasé)"
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black-brown",
+                  "yellow"
+                ],
+                "note": [
+                  "Occasional words highlighted in yellow"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1v95f",
+                "reconstruction": false,
+                "label": "Euchologion",
+                "lang": [
+                  {
+                    "id": "gree1276",
+                    "label": "Greek"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s1tp4j",
+                      "pref_title": "Euchologion",
+                      "alt_title": [
+                        "Euchologion"
+                      ],
+                      "genre": [
+                        {
+                          "id": "liturgical-texts",
+                          "label": "Liturgical texts"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s11p65"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "12th c.  CE",
+                "iso": {
+                  "not_before": 1101,
+                  "not_after": 1200
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "assoc_place": [
+              {
+                "value": "Southern Italy (Salento)",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation Note"
+                },
+                "value": "Decorative bars"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "Other Notes"
+                },
+                "value": "Previous catalogs dated this manuscript to the 13th-14th c. CE"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1cz3pr7"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s1xw7p",
+          "label": "Greek Undertext: Clement the Hymnographer, Kanon on Saint Eupraxia",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 56, 61",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "9th-10th c. CE",
+              "iso": {
+                "not_before": 801,
+                "not_after": 1000
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1t34p",
+          "label": "Greek Undertext: Questions and Answers",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 80, 85",
+          "script": [
+            "Greek minuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "11th c.  CE",
+              "iso": {
+                "not_before": 1001,
+                "not_after": 1100
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1pd35",
+          "label": "Greek Undertext: Paraklesis",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 81, 84, 89, 92, 95–96, 101–102",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "10th c.  CE",
+              "iso": {
+                "not_before": 901,
+                "not_after": 1000
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1jm0v",
+          "label": "Greek Undertext: Typikon",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 47–102",
+          "script": [
+            "Greek minuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 11th - early 12th c.  CE",
+              "iso": {
+                "not_before": 1051,
+                "not_after": 1150
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Codex incomplete at beginning and end | Quires 1-3 detached, quires 4-10 sewn, quires 11-13 (ff, 79-102) detached"
+    },
+    {
+      "type": {
+        "id": "collation",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures on first folio of new quire in Greek (2, 3, 5, 6, 7, 8, 9) for quires 6, 7, 9, 10, 11, 12, 13, beginning on f. 43"
+    }
+  ],
+  "bib": [
+    {
+      "id": "55eae5e7-ad84-46af-a814-4f5524b2d09d",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 206"
+    },
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[1295], p. 111 "
+    },
+    {
+      "id": "1dd25ff5-4d69-4d2d-9550-e556790887c1",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "pp. 197-264"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz3pr7/manifest",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1fb5p4b/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ]
+}

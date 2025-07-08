@@ -1,1 +1,276 @@
-{"ark":"ark:/21198/z1pk1d26","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Greek NF MG 14","extent":"28 ff.","dim":"194 x 127 mm","state":{"id":"folio","label":"Folio(s)"},"coll":"1x2 (2), Quires 1-2: 2x6 (14), Quire 3: 1x8 (22), 1x2 (24), 4x1 (28)","features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"dim":"194 x 127 mm (representative folio)","layer":[{"ark":"ark:/21198/s10p77","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Greek NF MG 14, Overtext (Greek majuscule)","writing":[{"script":[{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}]}],"ink":[{"color":["light-brown"]}],"text_unit":[{"ark":"ark:/21198/s1t954","reconstruction":false,"label":"Lives of Saints ; Encomium on the Theotokos","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Lives of Saints ; Encomium on the Theotokos","genre":[{"id":"hagiographies","label":"Hagiographies"}]}}],"parent":["ark:/21198/s10p77"]}],"assoc_date":[{"value":"10th c.  CE","iso":{"not_before":"0901","not_after":"1000"},"type":{"id":"origin","label":"Date of Origin"}}],"parent":["ark:/21198/z1pk1d26"]},{"ark":"ark:/21198/s1r65g","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek NF MG 14, Undertext (Christian Palestinian Aramaic)","locus":"ff. 17, 20","writing":[{"script":[{"id":"cpa","label":"Christian Palestinian Aramaic","writing_system":"Syriac"}],"note":["Early large CPA | Short letters 'lamed' and 'tet'"]}],"layout":[{"columns":"2 columns","lines":"22 lines"}],"text_unit":[{"ark":"ark:/21198/s1d68h","reconstruction":false,"label":"Proverbs","lang":[{"id":"chri1239","label":"CPA"}],"work_wit":[{"work":{"ark":"ark:/21198/s15308","pref_title":"Proverbs","alt_title":["Bible. Proverbs"],"genre":[{"id":"biblical-texts","label":"Biblical texts"}],"rel_con":[{"label":"Bible. Proverbs","uri":"https://viaf.org/viaf/177805643","source":"VIAF"},{"label":"Bible. Proverbs","uri":"http://id.loc.gov/authorities/names/n79135225","source":"LoC"}],"refno":[],"bib":[]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Previously unattested biblical passages in CPA"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Christa Müller-Kessler"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: P. Nicolopoulos, The New Finds: Holy Monastery and Archdiocese of Sinai (Athens, 1999), p. 144 ; C. Müller-Kessler, \"1.4.9 Christian Palestinian Aramaic Translation,\" in A. Lange and E. Tov (eds.), Textual History of the Hebrew Bible, Leiden: Brill, 2016, pp. 447-456 ; C. Müller-Kessler “Proverbs 11:1b–15 as Transmitted in an Unpublished Christian Palestinian Aramaic Palimpsest from St Catherine’s Monastery (Sinai, Greek NF MG 14),” Journal of Septuagint and Cognate Studies 52 (2019), pp. 157-165 [DOI: 10.2143/JSCS.52.0.3287099]"}],"parent":["ark:/21198/s1r65g"]}],"assoc_date":[{"value":"6th-7th c.  CE","iso":{"not_before":"0501","not_after":"0700"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 17r+20v, 17v+20r"},{"type":{"id":"general","label":"Other Notes"},"value":"Each of the three CPA UTOs in this manuscript is written by a different hand"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Christa Müller-Kessler"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: P. Nicolopoulos, The New Finds: Holy Monastery and Archdiocese of Sinai (Athens, 1999), p. 144 ; C. Müller-Kessler, \"1.4.9 Christian Palestinian Aramaic Translation,\" in A. Lange and E. Tov (eds.), Textual History of the Hebrew Bible, Leiden: Brill, 2016, pp. 447-456 ; C. Müller-Kessler “Proverbs 11:1b–15 as Transmitted in an Unpublished Christian Palestinian Aramaic Palimpsest from St Catherine’s Monastery (Sinai, Greek NF MG 14),” Journal of Septuagint and Cognate Studies 52 (2019), pp. 157-165 [DOI: 10.2143/JSCS.52.0.3287099]"}],"parent":["ark:/21198/z1pk1d26"]},{"ark":"ark:/21198/s1md25","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek NF MG 14, Undertext (Greek majuscule)","locus":"ff. 1–15, 22–27","writing":[{"script":[{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}],"note":["Biblical majuscule"]}],"layout":[{"columns":"1 columns","lines":"25 lines","note":["Original text arranged in one wide column, now divided up between conjoin folios"]}],"text_unit":[{"ark":"ark:/21198/s18h57","reconstruction":false,"label":"Numbers","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Numbers","genre":[{"id":"biblical-texts","label":"Biblical texts"}]}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Agamemnon Tselikas, Giulia Rossetto"}],"parent":["ark:/21198/s1md25"]}],"assoc_date":[{"value":"6th c.  CE","iso":{"not_before":"0501","not_after":"0600"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 3v+8r, 3r+8v, 23v+24r, 23r+24v, 10r+13v, 10v+13r, 4r+7v, 4v+7r, 15v+22r, 15r+22v, 11v+12r, 11r+12v, 27v, 27r, 26v, 25r, 25v, 26r, 9r+14v, 9v+14r, 5r+6v, 5v+6r, 1r+2v, 1v+2r"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Agamemnon Tselikas, Giulia Rossetto"}],"parent":["ark:/21198/z1pk1d26"]},{"ark":"ark:/21198/s1gp9b","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek NF MG 14, Undertext (Christian Palestinian Aramaic)","locus":"ff. 18–19","writing":[{"script":[{"id":"cpa","label":"Christian Palestinian Aramaic","writing_system":"Syriac"}],"note":["Early large CPA (f. 18)"]}],"layout":[{"columns":"2 columns","lines":"21 lines"}],"text_unit":[{"ark":"ark:/21198/s14q2x","reconstruction":false,"label":"Job","lang":[{"id":"chri1239","label":"CPA"}],"work_wit":[{"work":{"ark":"ark:/21198/s1730w","pref_title":"Job","alt_title":["Bible. Job"],"genre":[{"id":"biblical-texts","label":"Biblical texts"}],"rel_con":[{"label":"Bible. Job","uri":"https://viaf.org/viaf/186698577","source":"VIAF"},{"label":"Bible. Job","uri":"http://id.loc.gov/authorities/names/n79045430","source":"LoC"}],"refno":[],"bib":[]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Previously unattested biblical passages in CPA"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Christa Müller-Kessler"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: P. Nicolopoulos, The New Finds. Holy Monastery and Archdiocese of Sinai (Athens, 1999), p. 144 ; C. Müller-Kessler, “1.4.9 Christian Palestinian Aramaic Translation,” in A. Lange and E. Tov (eds.), Textual History of the Hebrew Bible, Leiden: Brill, 2016), pp. 447-456 ; C. Müller-Kessler, “A Palimpsest Fragment with Unattested Passages of Job 3:11c-4:3b in Christian Palestinian Aramaic under Sinai, Greek NF MG 14,” Collectanea Christiana Orientalia 17, 2020, pp. 183-196 [DOI: 10.21071/cco.v17i0.1146]"}],"parent":["ark:/21198/s1gp9b"]}],"assoc_date":[{"value":"6th-7th c.  CE","iso":{"not_before":"0501","not_after":"0700"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 18v+19r, 18r+19v"},{"type":{"id":"general","label":"Other Notes"},"value":"Each of the three CPA UTOs in this manuscript is written by a different hand"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Christa Müller-Kessler"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: P. Nicolopoulos, The New Finds. Holy Monastery and Archdiocese of Sinai (Athens, 1999), p. 144 ; C. Müller-Kessler, “1.4.9 Christian Palestinian Aramaic Translation,” in A. Lange and E. Tov (eds.), Textual History of the Hebrew Bible, Leiden: Brill, 2016), pp. 447-456 ; C. Müller-Kessler, “A Palimpsest Fragment with Unattested Passages of Job 3:11c-4:3b in Christian Palestinian Aramaic under Sinai, Greek NF MG 14,” Collectanea Christiana Orientalia 17, 2020, pp. 183-196 [DOI: 10.21071/cco.v17i0.1146]"}],"parent":["ark:/21198/z1pk1d26"]},{"ark":"ark:/21198/s1c050","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Greek NF MG 14, Undertext (Christian Palestinian Aramaic)","locus":"ff. 16, 21, 28","writing":[{"script":[{"id":"cpa","label":"Christian Palestinian Aramaic","writing_system":"Syriac"}],"note":["Early large CPA | Large letter 'waw' at the beginning of a new line and new verse"]}],"layout":[{"columns":"2 columns","lines":"22 lines"}],"text_unit":[{"ark":"ark:/21198/s1110b","reconstruction":false,"label":"1 Samuel (1 Kingdoms)","lang":[{"id":"chri1239","label":"CPA"}],"work_wit":[{"work":{"ark":"ark:/21198/s1n30m","pref_title":"Samuel","alt_title":["Bible. Samuel"],"genre":[{"id":"biblical-texts","label":"Biblical texts"}],"rel_con":[{"label":"Bible. Samuel","uri":"https://viaf.org/viaf/180630917","source":"VIAF"},{"label":"Bible. Samuel","uri":"http://id.loc.gov/authorities/names/n80008475","source":"LoC"}],"refno":[],"bib":[]},"alt_title":"1 Samuel | 1 Kingdoms"}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Previously unattested biblical passages in CPA"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Christa Müller-Kessler"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: P. Nicolopoulos, The New Finds: Holy Monastery and Archdiocese of Sinai, Athens, 1999, p. 144 ; C. Müller-Kessler, \"1.4.9 Christian Palestinian Aramaic Translation,\" in A. Lange and E. Tov (eds.), Textual History of the Hebrew Bible, Leiden: Brill, 2016, pp. 447-456 ; C. Müller-Kessler, “New Palimpsest Fragments for 1 Kingdoms with Lucian and Origen Additions in a Christian Palestinian Aramaic Witness (Sinai, Greek NF MG 14),” Revue Biblique 129:1 (2022)"}],"parent":["ark:/21198/s1c050"]}],"assoc_date":[{"value":"6th-7th c.  CE","iso":{"not_before":"0501","not_after":"0700"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 28r, 28v, 16r+21v, 16v+21r"},{"type":{"id":"general","label":"Other Notes"},"value":"Each of the three CPA UTOs in this manuscript is written by a different hand"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Christa Müller-Kessler"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: P. Nicolopoulos, The New Finds: Holy Monastery and Archdiocese of Sinai, Athens, 1999, p. 144 ; C. Müller-Kessler, \"1.4.9 Christian Palestinian Aramaic Translation,\" in A. Lange and E. Tov (eds.), Textual History of the Hebrew Bible, Leiden: Brill, 2016, pp. 447-456 ; C. Müller-Kessler, “New Palimpsest Fragments for 1 Kingdoms with Lucian and Origen Additions in a Christian Palestinian Aramaic Witness (Sinai, Greek NF MG 14),” Revue Biblique 129:1 (2022)"}],"parent":["ark:/21198/z1pk1d26"]}]}],"location":[{"id":"sinai-nf","collection":"New Finds","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Continuous foliation was added in pencil in the top right by Father Justin, August 2015"},{"type":{"id":"condition","label":"Condition Note"},"value":"2 bifolios, 3 unsewn quires, 2 bifolios, 4 detached folios"}],"bib":[{"id":"31086588-c563-4dca-b793-d9e4cbdc887b","type":{"id":"ref","label":"Reference"},"range":"p. 144, pl. 54"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pk1d26/manifest","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rr30pd/902,0,5412,5412/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z1pk1d26",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Greek NF MG 14",
+  "extent": "28 ff.",
+  "dim": "194 x 127 mm",
+  "state": {
+    "id": "folio",
+    "label": "Folio(s)"
+  },
+  "coll": "1x2 (2), Quires 1-2: 2x6 (14), Quire 3: 1x8 (22), 1x2 (24), 4x1 (28)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "194 x 127 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s10p77",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s10p77",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Greek NF MG 14, Overtext (Greek majuscule)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "light-brown"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1t954",
+                "reconstruction": false,
+                "label": "Lives of Saints ; Encomium on the Theotokos",
+                "lang": [
+                  {
+                    "id": "gree1276",
+                    "label": "Greek"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "desc_title": "Lives of Saints ; Encomium on the Theotokos",
+                      "genre": [
+                        {
+                          "id": "hagiographies",
+                          "label": "Hagiographies"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s10p77"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "10th c.  CE",
+                "iso": {
+                  "not_before": 901,
+                  "not_after": 1000
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1pk1d26"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s1r65g",
+          "label": "CPA Undertext: Bible. Proverbs",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 17, 20",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c.  CE",
+              "iso": {
+                "not_before": 501,
+                "not_after": 700
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1md25",
+          "label": "Greek Undertext: Numbers",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–15, 22–27",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c.  CE",
+              "iso": {
+                "not_before": 501,
+                "not_after": 600
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1gp9b",
+          "label": "CPA Undertext: Bible. Job",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 18–19",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c.  CE",
+              "iso": {
+                "not_before": 501,
+                "not_after": 700
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1c050",
+          "label": "CPA Undertext: Bible. Samuel",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 16, 21, 28",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c.  CE",
+              "iso": {
+                "not_before": 501,
+                "not_after": 700
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation Note"
+      },
+      "value": "Continuous foliation was added in pencil in the top right by Father Justin, August 2015"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "2 bifolios, 3 unsewn quires, 2 bifolios, 4 detached folios"
+    }
+  ],
+  "bib": [
+    {
+      "id": "31086588-c563-4dca-b793-d9e4cbdc887b",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 144, pl. 54"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pk1d26/manifest",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rr30pd/902,0,5412,5412/150,150/0/default.jpg"
+    }
+  ]
+}

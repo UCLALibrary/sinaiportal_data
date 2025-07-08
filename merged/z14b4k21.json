@@ -1,1 +1,208 @@
-{"ark":"ark:/21198/z14b4k21","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Syriac 59","extent":"61 ff.","weight":"535 g","dim":"273 x 184 x 50.0 mm","state":{"id":"codex","label":"Codex"},"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"layer":[{"ark":"ark:/21198/s1dp6k","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Syriac 59, Overtext (Estrangela)","writing":[{"script":[{"id":"estrangela","label":"Estrangela","writing_system":"Syriac"}]}],"text_unit":[{"ark":"ark:/21198/s1767k","reconstruction":false,"label":"Four Gospels","lang":[{"id":"class1252","label":"Syriac"}],"work_wit":[{"work":{"ark":"ark:/21198/s1n01z","pref_title":"Homilies on John","alt_title":[],"genre":[{"id":"theological-works","label":"Theological works"},{"id":"commentaries","label":"Commentaries"}],"creator":[{"id":"ark:/21198/s1x303","role":{"id":"author","label":"Author"},"agent":{"ark":"ark:/21198/s1x303","type":{"id":"person","label":"Person"},"pref_name":"John Chrysostom","alt_name":[],"gender":{"id":"man","label":"Man"},"death":{"value":"407 CE","iso":{"not_before":"0407"}},"rel_con":[{"label":"John Chrysostom, Saint, -407","uri":"http://viaf.org/viaf/305214868","source":"VIAF"},{"label":"John Chrysostom, Saint, -407","uri":"http://id.loc.gov/authorities/names/n80001460","source":"LoC"},{"label":"John Chrysostom, Saint, -407","uri":"https://w3id.org/haf/person/873419758532","source":"HAF"},{"label":"John Chrysostom","uri":"http://syriaca.org/person/573","source":"Syriaca"},{"label":"Iohannes Chrysostomus","uri":"https://pinakes.irht.cnrs.fr/notices/auteur/1449/","source":"Pinakes"}]}}],"rel_con":[{"label":"John Chrysostom, Saint, -407. Homilies on John","uri":"http://id.loc.gov/authorities/names/n97054490","source":"LoC"}],"refno":[],"bib":[]},"alt_title":"Commentary on Gospel of St. John by John Chrysostom","locus":"ff. 1r-60v"}],"parent":["ark:/21198/s1dp6k"]}],"assoc_date":[{"value":"9th c. CE","iso":{"not_before":"0801","not_after":"0900"},"type":{"id":"origin","label":"Date of Origin"}}],"parent":["ark:/21198/z14b4k21"]}]}],"location":[{"id":"sinai-oc","collection":"Old Collection","repository":"St. Catherine's Monastery of the Sinai"}],"bib":[{"id":"deb668b6-feec-4828-8749-a97441881226","type":{"id":"ref","label":"Reference"},"range":"[69], p. 153"},{"id":"ec7c937f-655a-4459-b327-3793637b9db9","type":{"id":"otherdigversion","label":"Other Digital Version"},"url":"https://www.loc.gov/item/00279387454-ms/"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz14b4k21/manifest","text_direction":"right-to-left","behavior":"paged","thumbnail":"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14b4k21%2F4g68s39p/full/!200,200/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z14b4k21",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 59",
+  "extent": "61 ff.",
+  "weight": "535 g",
+  "dim": "273 x 184 x 50.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "layer": [
+        {
+          "id": "ark:/21198/s1dp6k",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1dp6k",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 59, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1767k",
+                "reconstruction": false,
+                "label": "Four Gospels",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s1n01z",
+                      "pref_title": "Homilies on John",
+                      "genre": [
+                        {
+                          "id": "theological-works",
+                          "label": "Theological works"
+                        },
+                        {
+                          "id": "commentaries",
+                          "label": "Commentaries"
+                        }
+                      ],
+                      "creator": [
+                        {
+                          "id": "ark:/21198/s1x303",
+                          "agent_record": {
+                            "ark": "ark:/21198/s1x303",
+                            "type": {
+                              "id": "person",
+                              "label": "Person"
+                            },
+                            "pref_name": "John Chrysostom",
+                            "gender": {
+                              "id": "man",
+                              "label": "Man"
+                            },
+                            "death": {
+                              "value": "407 CE",
+                              "iso": {
+                                "not_before": 407,
+                                "not_after": 407
+                              }
+                            },
+                            "rel_con": [
+                              {
+                                "label": "John Chrysostom, Saint, -407",
+                                "uri": "http://viaf.org/viaf/305214868",
+                                "source": "VIAF"
+                              },
+                              {
+                                "label": "John Chrysostom, Saint, -407",
+                                "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                "source": "LoC"
+                              },
+                              {
+                                "label": "John Chrysostom, Saint, -407",
+                                "uri": "https://w3id.org/haf/person/873419758532",
+                                "source": "HAF"
+                              },
+                              {
+                                "label": "John Chrysostom",
+                                "uri": "http://syriaca.org/person/573",
+                                "source": "Syriaca"
+                              },
+                              {
+                                "label": "Iohannes Chrysostomus",
+                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                "source": "Pinakes"
+                              }
+                            ]
+                          },
+                          "role": {
+                            "id": "author",
+                            "label": "Author"
+                          }
+                        }
+                      ],
+                      "rel_con": [
+                        {
+                          "label": "John Chrysostom, Saint, -407. Homilies on John",
+                          "uri": "http://id.loc.gov/authorities/names/n97054490",
+                          "source": "LoC"
+                        }
+                      ]
+                    },
+                    "alt_title": "Commentary on Gospel of St. John by John Chrysostom",
+                    "locus": "ff. 1r-60v"
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s1dp6k"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "9th c. CE",
+                "iso": {
+                  "not_before": 801,
+                  "not_after": 900
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z14b4k21"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[69], p. 153"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "url": "https://www.loc.gov/item/00279387454-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz14b4k21/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14b4k21%2F4g68s39p/full/!200,200/0/default.jpg"
+    }
+  ]
+}

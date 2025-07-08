@@ -1,1 +1,190 @@
-{"ark":"ark:/21198/z12z28sj","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Syriac 190","extent":"238 ff.","weight":"1415.6 g","dim":"230 x 160 x 88 mm","state":{"id":"codex","label":"Codex"},"part":[{"label":"Part 1","support":[{"id":"paper","label":"Paper"}],"layer":[{"ark":"ark:/21198/s1005k","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Syriac 190, Overtext (Melkite)","writing":[{"script":[{"id":"melkite","label":"Melkite","writing_system":"Syriac"}]}],"text_unit":[{"ark":"ark:/21198/s1sm2s","reconstruction":false,"label":"Triodion","lang":[{"id":"class1252","label":"Syriac"}],"work_wit":[{"work":{"ark":"ark:/21198/s1030q","pref_title":"Triodion","alt_title":["Triodion"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"hymnals","label":"Hymnals"}],"rel_con":[],"refno":[],"bib":[]},"locus":"ff. 1r-237v"}],"parent":["ark:/21198/s1005k"]}],"assoc_date":[{"value":"13th c. CE","iso":{"not_before":"1201","not_after":"1300"},"type":{"id":"origin","label":"Date of Origin"}}],"features":[{"id":"headpiece","label":"Headpiece(s)"},{"id":"deco-geometric","label":"Decoration, Geometric"}],"note":[{"type":{"id":"ornamentation","label":"Ornamentation Note"},"value":"Geometric headpieces on ff. 8v, 52v, 77v, 209v, 214r, 226v | Minor geometric headpieces, ff. 106v, 139v, 142v, 162v, 212v, 233r, 234r I Geometric decoration, f. 220r, interlace knot"}],"parent":["ark:/21198/z12z28sj"]}]}],"location":[{"id":"sinai-oc","collection":"Old Collection","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Tipped in folios foliated as f. 28b, even though it precedes f. 28a in sequence"},{"type":{"id":"condition","label":"Condition Note"},"value":"First quire missing"},{"type":{"id":"general","label":"Other Notes"},"value":"F. 28b is a smaller insert"}],"bib":[{"id":"deb668b6-feec-4828-8749-a97441881226","type":{"id":"ref","label":"Reference"},"range":"[210], p. 159"},{"id":"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21","type":{"id":"otherdigversion","label":"Other Digital Version"},"url":"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714680205171"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz12z28sj/manifest","text_direction":"right-to-left","behavior":"paged","thumbnail":"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12z28sj%2F6d60sp4z/full/!200,200/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z12z28sj",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 190",
+  "extent": "238 ff.",
+  "weight": "1415.6 g",
+  "dim": "230 x 160 x 88 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "layer": [
+        {
+          "id": "ark:/21198/s1005k",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1005k",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 190, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1sm2s",
+                "reconstruction": false,
+                "label": "Triodion",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s1030q",
+                      "pref_title": "Triodion",
+                      "alt_title": [
+                        "Triodion"
+                      ],
+                      "genre": [
+                        {
+                          "id": "liturgical-texts",
+                          "label": "Liturgical texts"
+                        },
+                        {
+                          "id": "hymnals",
+                          "label": "Hymnals"
+                        }
+                      ]
+                    },
+                    "locus": "ff. 1r-237v"
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s1005k"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "13th c. CE",
+                "iso": {
+                  "not_before": 1201,
+                  "not_after": 1300
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation Note"
+                },
+                "value": "Geometric headpieces on ff. 8v, 52v, 77v, 209v, 214r, 226v | Minor geometric headpieces, ff. 106v, 139v, 142v, 162v, 212v, 233r, 234r I Geometric decoration, f. 220r, interlace knot"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z12z28sj"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation Note"
+      },
+      "value": "Tipped in folios foliated as f. 28b, even though it precedes f. 28a in sequence"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "First quire missing"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "Other Notes"
+      },
+      "value": "F. 28b is a smaller insert"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[210], p. 159"
+    },
+    {
+      "id": "f3ea9df2-bf85-465c-ac1d-6bd4cce71e21",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714680205171"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz12z28sj/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12z28sj%2F6d60sp4z/full/!200,200/0/default.jpg"
+    }
+  ]
+}

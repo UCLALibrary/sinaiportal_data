@@ -1,1 +1,316 @@
-{"ark":"ark:/21198/z1c83777","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Georgian NF M 61","extent":"38 ff.","dim":"117 x 100 x 13 mm","state":{"id":"codex","label":"Codex"},"coll":"Quire 1: 5x1+1x2 (7), Quire 2: 1x8 (15), Quire 3: 1x2+5x1 (22), Quire 4: 1x10 (32), Quire 5: 1x6 (38)","features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"dim":"112 x 87 mm (representative folio)","layer":[{"ark":"ark:/21198/s1zw4v","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Georgian NF M 61, Overtext (Nuskhurimt)","writing":[{"script":[{"id":"nuskhurimt","label":"Nuskhurimt","writing_system":"Georgian"}]}],"ink":[{"color":["black"]}],"text_unit":[{"ark":"ark:/21198/s1sh4h","reconstruction":false,"label":"Horologion","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"ark":"ark:/21198/s1dg6h","pref_title":"Horologion","alt_title":["Horologion"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"}],"rel_con":[],"refno":[],"bib":[]}}],"parent":["ark:/21198/s1zw4v"]}],"assoc_date":[{"value":"12th c.  CE","iso":{"not_before":"1101","not_after":"1200"},"type":{"id":"origin","label":"Date of Origin"}}],"parent":["ark:/21198/z1c83777"]},{"ark":"ark:/21198/s1d63m","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF M 61, Undertext (Nuskhurimt)","locus":"ff. 35–36","writing":[{"script":[{"id":"nuskhurimt","label":"Nuskhurimt","writing_system":"Georgian"}],"note":["Tiny, upright"]}],"layout":[{"columns":"1 columns","lines":"15 lines"}],"text_unit":[{"ark":"ark:/21198/s12671","reconstruction":false,"label":"Hymnary (Heirmologion with Theotokia)","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"ark":"ark:/21198/s1sp47","pref_title":"Heirmologion","alt_title":["Heirmologion"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"}],"rel_con":[{"label":"Heirmologion","uri":"http://viaf.org/viaf/213239652","source":"VIAF"}],"refno":[],"bib":[]},"alt_title":"Heirmologion with Theotokia"}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Jost Gippert, Bernard Outtier"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Metreveli ; Kiknadze"}],"parent":["ark:/21198/s1d63m"]}],"assoc_date":[{"value":"11th c.  CE","iso":{"not_before":"1001","not_after":"1100"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Jost Gippert, Bernard Outtier"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Metreveli ; Kiknadze"}],"parent":["ark:/21198/z1c83777"]},{"ark":"ark:/21198/s18h1q","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF M 61, Undertext (Nuskhurimt)","locus":"ff. 33–34, 37–38","writing":[{"script":[{"id":"nuskhurimt","label":"Nuskhurimt","writing_system":"Georgian"}]}],"text_unit":[{"ark":"ark:/21198/s1xh54","reconstruction":false,"label":"Unidentified","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"desc_title":"Unidentified text"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/s18h1q"]}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/z1c83777"]},{"ark":"ark:/21198/s14p7g","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF M 61, Undertext (Nuskhurimt)","locus":"ff. 23– 25, 30–32","writing":[{"script":[{"id":"nuskhurimt","label":"Nuskhurimt","writing_system":"Georgian"}],"note":["Slightly slanted"]}],"layout":[{"columns":"1 columns","lines":"16 lines, uncertain"}],"text_unit":[{"ark":"ark:/21198/s1sq4k","reconstruction":false,"label":"Psalter (version by George the Athonite)","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"ark":"ark:/21198/s1d886","pref_title":"Psalter","alt_title":["Psalter"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"biblical-texts","label":"Biblical texts"}],"rel_con":[],"refno":[],"bib":[]},"alt_title":"Psalter, redacted by George the Athonite"}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/s14p7g"]}],"assoc_date":[{"value":"12th-13th c.  CE","iso":{"not_before":"1101","not_after":"1300"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/z1c83777"]},{"ark":"ark:/21198/s11068","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF M 61, Undertext (Asomtavruli)","locus":"ff. 35–36","writing":[{"script":[{"id":"asomtavruli","label":"Asomtavruli","writing_system":"Georgian"}],"note":["Relatively small letters, initials nearly double-sized and in margins"]}],"layout":[{"note":["Original line and column numbers not determinable"]}],"text_unit":[{"ark":"ark:/21198/s1p099","reconstruction":false,"label":"Psalter","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"ark":"ark:/21198/s1d886","pref_title":"Psalter","alt_title":["Psalter"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"biblical-texts","label":"Biblical texts"}],"rel_con":[],"refno":[],"bib":[]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Psalms 73:22-23 and 74:b on fol. 35v, and Psalm 74:7-9 on fol. 36r can be identified, confirming that this is a fragment of a Psalter (Outtier)"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/s11068"]}],"assoc_date":[{"value":"ca. 9th-10th c.  CE","iso":{"not_before":"0801","not_after":"1000"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Lowest layer in double palimpsest folios"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/z1c83777"]},{"ark":"ark:/21198/s1w63z","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF M 61, Undertext (Nuskhurimt)","locus":"ff. 1–22, 26–29","writing":[{"script":[{"id":"nuskhurimt","label":"Nuskhurimt","writing_system":"Georgian"}],"note":["Slighly slanted, rather clumsy"]}],"layout":[{"columns":"1 columns","lines":"15 lines, uncertain"}],"text_unit":[{"ark":"ark:/21198/s1j68r","reconstruction":false,"label":"Horologion","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"ark":"ark:/21198/s1dg6h","pref_title":"Horologion","alt_title":["Horologion"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"}],"rel_con":[],"refno":[],"bib":[]}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/s1w63z"]}],"assoc_date":[{"value":"13th c.  CE","iso":{"not_before":"1201","not_after":"1300"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Jost Gippert, Bernard Outtier"}],"parent":["ark:/21198/z1c83777"]}]}],"location":[{"id":"sinai-nf","collection":"New Finds","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Pencil foliation beginning with 1 at top center (followed here); irregular alternative foliation in outer margin, not followed here; foliation in pencil, bottom (not followed)"},{"type":{"id":"binding","label":"Binding Note"},"value":"Covers missing"},{"type":{"id":"condition","label":"Condition Note"},"value":"Codex incomplete at beginning and end | Unbound quires, stitching largely intact | All folios very dark and stiff, fragmentary folios at front and back"},{"type":{"id":"general","label":"Other Notes"},"value":"The dating of this manuscript by Aleksidze, et al. is now called into question because of the erased undertexts of later date"},{"type":{"id":"general","label":"Other Notes"},"value":"Palimpsest discernible by surface reflection"}],"bib":[{"id":"087ba7ab-401c-4edc-b474-7b86bc83cbce","type":{"id":"ref","label":"Reference"},"range":"p. 419"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1c83777/manifest","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16x02s6/0,902,5412,5412/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z1c83777",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Georgian NF M 61",
+  "extent": "38 ff.",
+  "dim": "117 x 100 x 13 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "Quire 1: 5x1+1x2 (7), Quire 2: 1x8 (15), Quire 3: 1x2+5x1 (22), Quire 4: 1x10 (32), Quire 5: 1x6 (38)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "112 x 87 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s1zw4v",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1zw4v",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Georgian NF M 61, Overtext (Nuskhurimt)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "nuskhurimt",
+                    "label": "Nuskhurimt",
+                    "writing_system": "Georgian"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1sh4h",
+                "reconstruction": false,
+                "label": "Horologion",
+                "lang": [
+                  {
+                    "id": "nucl1302",
+                    "label": "Georgian"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s1dg6h",
+                      "pref_title": "Horologion",
+                      "alt_title": [
+                        "Horologion"
+                      ],
+                      "genre": [
+                        {
+                          "id": "liturgical-texts",
+                          "label": "Liturgical texts"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s1zw4v"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "12th c.  CE",
+                "iso": {
+                  "not_before": 1101,
+                  "not_after": 1200
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1c83777"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s1d63m",
+          "label": "Georgian Undertext: Heirmologion",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 35–36",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "11th c.  CE",
+              "iso": {
+                "not_before": 1001,
+                "not_after": 1100
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s18h1q",
+          "label": "Georgian Undertext: Unidentified text",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 33–34, 37–38",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "id": "ark:/21198/s14p7g",
+          "label": "Georgian Undertext: Psalter",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 23– 25, 30–32",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "12th-13th c.  CE",
+              "iso": {
+                "not_before": 1101,
+                "not_after": 1300
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s11068",
+          "label": "Georgian Undertext: Psalter",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 35–36",
+          "script": [
+            "Asomtavruli"
+          ],
+          "lang": [
+            "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "ca. 9th-10th c.  CE",
+              "iso": {
+                "not_before": 801,
+                "not_after": 1000
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1w63z",
+          "label": "Georgian Undertext: Horologion",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–22, 26–29",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "13th c.  CE",
+              "iso": {
+                "not_before": 1201,
+                "not_after": 1300
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation beginning with 1 at top center (followed here); irregular alternative foliation in outer margin, not followed here; foliation in pencil, bottom (not followed)"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Covers missing"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Codex incomplete at beginning and end | Unbound quires, stitching largely intact | All folios very dark and stiff, fragmentary folios at front and back"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "Other Notes"
+      },
+      "value": "The dating of this manuscript by Aleksidze, et al. is now called into question because of the erased undertexts of later date"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "Other Notes"
+      },
+      "value": "Palimpsest discernible by surface reflection"
+    }
+  ],
+  "bib": [
+    {
+      "id": "087ba7ab-401c-4edc-b474-7b86bc83cbce",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 419"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1c83777/manifest",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16x02s6/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ]
+}

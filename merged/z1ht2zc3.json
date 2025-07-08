@@ -1,1 +1,291 @@
-{"ark":"ark:/21198/z1ht2zc3","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai CPA NF frag 7","extent":"7 ff.","dim":"195 x 125 mm","state":{"id":"folio","label":"Folio(s)"},"features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"dim":"195 x 125 mm (representative folio)","layer":[{"ark":"ark:/21198/s15k7r","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai CPA NF frag 7, Overtext (Christian Palestinian Aramaic)","writing":[{"script":[{"id":"cpa","label":"Christian Palestinian Aramaic","writing_system":"Syriac"}]}],"ink":[{"color":["black-brown"]}],"text_unit":[{"ark":"ark:/21198/s10661","reconstruction":false,"label":"Homilies on the Gospel of Saint Matthew","lang":[{"id":"chri1239","label":"CPA"}],"work_wit":[{"work":{"ark":"ark:/21198/s1cg66","pref_title":"Homilies on the Gospel of Saint Matthew","alt_title":["John Chrysostom, Saint, -407. Homilies on the Gospel of Saint Matthew"],"genre":[{"id":"theological-works","label":"Theological works"},{"id":"commentaries","label":"Commentaries"}],"creator":[{"id":"ark:/21198/s1x303","role":{"id":"author","label":"Author"},"agent":{"ark":"ark:/21198/s1x303","type":{"id":"person","label":"Person"},"pref_name":"John Chrysostom","alt_name":[],"gender":{"id":"man","label":"Man"},"death":{"value":"407 CE","iso":{"not_before":"0407"}},"rel_con":[{"label":"John Chrysostom, Saint, -407","uri":"http://viaf.org/viaf/305214868","source":"VIAF"},{"label":"John Chrysostom, Saint, -407","uri":"http://id.loc.gov/authorities/names/n80001460","source":"LoC"},{"label":"John Chrysostom, Saint, -407","uri":"https://w3id.org/haf/person/873419758532","source":"HAF"},{"label":"John Chrysostom","uri":"http://syriaca.org/person/573","source":"Syriaca"},{"label":"Iohannes Chrysostomus","uri":"https://pinakes.irht.cnrs.fr/notices/auteur/1449/","source":"Pinakes"}]}}],"rel_con":[{"label":"John Chrysostom, Saint, -407. | Homilies on the Gospel of Saint Matthew","uri":"http://viaf.org/viaf/175558535","source":"VIAF"}],"refno":[],"bib":[]},"alt_title":"John Chrysostom, Homily on the Prodigal Son"}],"parent":["ark:/21198/s15k7r"]}],"assoc_date":[{"value":"10th c.  CE","iso":{"not_before":"0901","not_after":"1000"},"type":{"id":"origin","label":"Date of Origin"}}],"parent":["ark:/21198/z1ht2zc3"]},{"ark":"ark:/21198/s11d04","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai CPA NF frag 7, Undertext (Christian Palestinian Aramaic)","locus":"ff. 5bis, 5–6","writing":[{"script":[{"id":"cpa","label":"Christian Palestinian Aramaic","writing_system":"Syriac"}],"note":["Early CPA"]}],"layout":[{"columns":"2 columns","lines":"22 lines"}],"text_unit":[{"ark":"ark:/21198/s1pd7p","reconstruction":false,"label":"Martyr Acts","lang":[{"id":"chri1239","label":"CPA"}],"work_wit":[{"work":{"desc_title":"Martyr Acts","genre":[{"id":"hagiographies","label":"Hagiographies"},{"id":"martyrologies","label":"Martyrologies"}]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Although the context is not dissimilar, this is not from the Acts of Philemon"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Sebastian Brock"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Müller-Kessler 2023, pp. 5-15"}],"parent":["ark:/21198/s11d04"]}],"assoc_date":[{"value":"6th-7th c.  CE","iso":{"not_before":"0501","not_after":"0700"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Palestine","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 5v+6r, 5r+6v"},{"type":{"id":"foliation","label":"Foliation Note"},"value":"Sequence is probable, based on the general sense of the passage"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Sebastian Brock"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Müller-Kessler 2023, pp. 5-15"}],"parent":["ark:/21198/z1ht2zc3"]},{"ark":"ark:/21198/s1wp8p","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai CPA NF frag 7, Undertext (Christian Palestinian Aramaic)","locus":"ff. 1–4","writing":[{"script":[{"id":"cpa","label":"Christian Palestinian Aramaic","writing_system":"Syriac"}],"note":["Bold early CPA"]}],"layout":[{"columns":"2 columns","lines":"24 lines"}],"text_unit":[{"ark":"ark:/21198/s1jq2n","reconstruction":false,"label":"Gospel of Luke","lang":[{"id":"chri1239","label":"CPA"}],"work_wit":[{"work":{"ark":"ark:/21198/s1k88r","pref_title":"Luke","alt_title":["Bible. Luke"],"genre":[{"id":"biblical-texts","label":"Biblical texts"},{"id":"gospel-books","label":"Gospel books"}],"rel_con":[{"label":"Bible. Luke","uri":"http://viaf.org/viaf/257061095","source":"VIAF"}],"refno":[],"bib":[]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Edited in Müller-Kessler and Sokoloff, pp. 157-160, from photographs in Brock 1995; a number of small improvements can be made"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Sebastian Brock"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Müller-Kessler and Sokoloff ; Müller-Kessler 2014, pp. 263-309 ; Brock 1995"}],"parent":["ark:/21198/s1wp8p"]}],"assoc_date":[{"value":"6th-7th c.  CE","iso":{"not_before":"0501","not_after":"0700"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Palestine","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 1v+4r, 1r+4v, 2r+3v, 2v+3r"},{"type":{"id":"foliation","label":"Foliation Note"},"value":"Fols. 1 + 4 constitute a single folio of the undertext object, whereas fols. 2 + 3 constitute the upper half and lower half of a single folio"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Sebastian Brock"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Müller-Kessler and Sokoloff ; Müller-Kessler 2014, pp. 263-309 ; Brock 1995"}],"parent":["ark:/21198/z1ht2zc3"]}]}],"location":[{"id":"sinai-nf","collection":"New Finds","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Not foliated; sequence follows Brock 1995"},{"type":{"id":"condition","label":"Condition Note"},"value":"Two bifolios, two loose folios, and one fragment"}],"bib":[{"id":"6ced4f13-e0b7-43d6-aa6d-260c00656341","type":{"id":"ref","label":"Reference"},"range":"p. 83, pl. 394-401, 434-435"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ht2zc3/manifest","text_direction":"right-to-left","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11v5fkq/1022,0,6132,6132/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z1ht2zc3",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai CPA NF frag 7",
+  "extent": "7 ff.",
+  "dim": "195 x 125 mm",
+  "state": {
+    "id": "folio",
+    "label": "Folio(s)"
+  },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "195 x 125 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s15k7r",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s15k7r",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai CPA NF frag 7, Overtext (Christian Palestinian Aramaic)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black-brown"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s10661",
+                "reconstruction": false,
+                "label": "Homilies on the Gospel of Saint Matthew",
+                "lang": [
+                  {
+                    "id": "chri1239",
+                    "label": "CPA"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s1cg66",
+                      "pref_title": "Homilies on the Gospel of Saint Matthew",
+                      "alt_title": [
+                        "John Chrysostom, Saint, -407. Homilies on the Gospel of Saint Matthew"
+                      ],
+                      "genre": [
+                        {
+                          "id": "theological-works",
+                          "label": "Theological works"
+                        },
+                        {
+                          "id": "commentaries",
+                          "label": "Commentaries"
+                        }
+                      ],
+                      "creator": [
+                        {
+                          "id": "ark:/21198/s1x303",
+                          "agent_record": {
+                            "ark": "ark:/21198/s1x303",
+                            "type": {
+                              "id": "person",
+                              "label": "Person"
+                            },
+                            "pref_name": "John Chrysostom",
+                            "gender": {
+                              "id": "man",
+                              "label": "Man"
+                            },
+                            "death": {
+                              "value": "407 CE",
+                              "iso": {
+                                "not_before": 407,
+                                "not_after": 407
+                              }
+                            },
+                            "rel_con": [
+                              {
+                                "label": "John Chrysostom, Saint, -407",
+                                "uri": "http://viaf.org/viaf/305214868",
+                                "source": "VIAF"
+                              },
+                              {
+                                "label": "John Chrysostom, Saint, -407",
+                                "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                "source": "LoC"
+                              },
+                              {
+                                "label": "John Chrysostom, Saint, -407",
+                                "uri": "https://w3id.org/haf/person/873419758532",
+                                "source": "HAF"
+                              },
+                              {
+                                "label": "John Chrysostom",
+                                "uri": "http://syriaca.org/person/573",
+                                "source": "Syriaca"
+                              },
+                              {
+                                "label": "Iohannes Chrysostomus",
+                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                "source": "Pinakes"
+                              }
+                            ]
+                          },
+                          "role": {
+                            "id": "author",
+                            "label": "Author"
+                          }
+                        }
+                      ],
+                      "rel_con": [
+                        {
+                          "label": "John Chrysostom, Saint, -407. | Homilies on the Gospel of Saint Matthew",
+                          "uri": "http://viaf.org/viaf/175558535",
+                          "source": "VIAF"
+                        }
+                      ]
+                    },
+                    "alt_title": "John Chrysostom, Homily on the Prodigal Son"
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s15k7r"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "10th c.  CE",
+                "iso": {
+                  "not_before": 901,
+                  "not_after": 1000
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1ht2zc3"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s11d04",
+          "label": "CPA Undertext: Martyr Acts",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 5bis, 5–6",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c.  CE",
+              "iso": {
+                "not_before": 501,
+                "not_after": 700
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1wp8p",
+          "label": "CPA Undertext: Bible. Luke",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–4",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c.  CE",
+              "iso": {
+                "not_before": 501,
+                "not_after": 700
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation Note"
+      },
+      "value": "Not foliated; sequence follows Brock 1995"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Two bifolios, two loose folios, and one fragment"
+    }
+  ],
+  "bib": [
+    {
+      "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 83, pl. 394-401, 434-435"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ht2zc3/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11v5fkq/1022,0,6132,6132/150,150/0/default.jpg"
+    }
+  ]
+}

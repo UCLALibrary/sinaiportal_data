@@ -1,1 +1,203 @@
-{"ark":"ark:/21198/z1q25rdg","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Arabic 138","extent":"350 ff.","weight":"2084.7 g","dim":"266 x 187 x 99.0 mm","state":{"id":"codex","label":"Codex"},"part":[{"label":"Part 1","support":[{"id":"paper","label":"Paper"},{"id":"parchment","label":"Parchment"}],"layer":[{"ark":"ark:/21198/s1r01w","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Arabic 138, Overtext (Naskh)","writing":[{"script":[{"id":"naskh","label":"Naskh","writing_system":"Arabic"}]}],"text_unit":[{"ark":"ark:/21198/s1jm17","reconstruction":false,"label":"Evangelion","lang":[{"id":"arab1395","label":"Arabic"}],"work_wit":[{"work":{"ark":"ark:/21198/s19p4w","pref_title":"Evangelion","alt_title":["Evangelion"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"lectionaries","label":"Lectionaries"},{"id":"gospel-books","label":"Gospel books"},{"id":"biblical-texts","label":"Biblical texts"}],"rel_con":[],"refno":[],"bib":[]},"alt_title":"Lectionary (Gospels), with introduction and commentary","locus":"ff. 3v-346v"}],"parent":["ark:/21198/s1r01w"]}],"para":[{"type":{"id":"colophon","label":"Colophon"},"locus":"ff. 346v-347r","lang":[{"id":"arab1395","label":"Arabic"}],"as_written":"وكان الفراغ…ثلاثين يوم من شهر اب سنة ستة …وحمسة وعشرين العالم وكتبه … ه المعروف بمغارة  كفر قاهل الحقير الخاطئ المسكين المقدس …بالذنوب البائس جراسيموس…والزي راهب لا بالعمل …القس يوحنا من كفر عقا  وهو متوسل متضرع مبتهل … وقف عليه أو قرأ فيه او…منه ووجد فيه غلطا أو زللا أو…عليه لحال نقصه فكل مخلو…وحده هو التام والكامل فله الع…والقدرة والأفضال من الا…اوان والى دهر الداهرين…من قرأ فيه او قرئ عليه…الحقير المذكور غفر الله له و…المعمودية الارثذكسية امين…ري لختم بخير وحسبنا الله …"}],"assoc_date":[{"value":"1117 CE","iso":{"not_before":"1117"},"type":{"id":"origin","label":"Date of Origin"}}],"features":[{"id":"dated","label":"Dated"},{"id":"colophon","label":"Colophon"}],"parent":["ark:/21198/z1q25rdg"]}]}],"location":[{"id":"sinai-oc","collection":"Old Collection","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"support","label":"Support Note"},"value":"Ff. 1-2, 349-350 parchment"},{"type":{"id":"para","label":"Paracontent Note"},"value":"Greek, ff. 1-2, 349-350"}],"bib":[{"id":"deb668b6-feec-4828-8749-a97441881226","type":{"id":"ref","label":"Reference"},"range":"[221], p. 22"},{"id":"ec7c937f-655a-4459-b327-3793637b9db9","type":{"id":"otherdigversion","label":"Other Digital Version"},"url":"https://www.loc.gov/item/00279384246-ms/"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1q25rdg/manifest","text_direction":"right-to-left","behavior":"paged","thumbnail":"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1q25rdg%2F7j537m8p/full/!200,200/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z1q25rdg",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 138",
+  "extent": "350 ff.",
+  "weight": "2084.7 g",
+  "dim": "266 x 187 x 99.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        },
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "layer": [
+        {
+          "id": "ark:/21198/s1r01w",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1r01w",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 138, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1jm17",
+                "reconstruction": false,
+                "label": "Evangelion",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s19p4w",
+                      "pref_title": "Evangelion",
+                      "alt_title": [
+                        "Evangelion"
+                      ],
+                      "genre": [
+                        {
+                          "id": "liturgical-texts",
+                          "label": "Liturgical texts"
+                        },
+                        {
+                          "id": "lectionaries",
+                          "label": "Lectionaries"
+                        },
+                        {
+                          "id": "gospel-books",
+                          "label": "Gospel books"
+                        },
+                        {
+                          "id": "biblical-texts",
+                          "label": "Biblical texts"
+                        }
+                      ]
+                    },
+                    "alt_title": "Lectionary (Gospels), with introduction and commentary",
+                    "locus": "ff. 3v-346v"
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s1r01w"
+                ]
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "colophon",
+                  "label": "Colophon"
+                },
+                "locus": "ff. 346v-347r",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "وكان الفراغ…ثلاثين يوم من شهر اب سنة ستة …وحمسة وعشرين العالم وكتبه … ه المعروف بمغارة  كفر قاهل الحقير الخاطئ المسكين المقدس …بالذنوب البائس جراسيموس…والزي راهب لا بالعمل …القس يوحنا من كفر عقا  وهو متوسل متضرع مبتهل … وقف عليه أو قرأ فيه او…منه ووجد فيه غلطا أو زللا أو…عليه لحال نقصه فكل مخلو…وحده هو التام والكامل فله الع…والقدرة والأفضال من الا…اوان والى دهر الداهرين…من قرأ فيه او قرئ عليه…الحقير المذكور غفر الله له و…المعمودية الارثذكسية امين…ري لختم بخير وحسبنا الله …"
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "1117 CE",
+                "iso": {
+                  "not_before": 1117,
+                  "not_after": 1117
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1q25rdg"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "support",
+        "label": "Support Note"
+      },
+      "value": "Ff. 1-2, 349-350 parchment"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Greek, ff. 1-2, 349-350"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[221], p. 22"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "url": "https://www.loc.gov/item/00279384246-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1q25rdg/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1q25rdg%2F7j537m8p/full/!200,200/0/default.jpg"
+    }
+  ]
+}

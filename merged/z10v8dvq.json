@@ -1,1 +1,271 @@
-{"ark":"ark:/21198/z10v8dvq","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Syriac NF frag 53","extent":"5 ff.","state":{"id":"folio","label":"Folio(s)"},"features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"dim":"150 x 11 mm (representative folio)","layer":[{"ark":"ark:/21198/s1492s","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Syriac NF frag 53, Overtext (Estrangela)","writing":[{"script":[{"id":"estrangela","label":"Estrangela","writing_system":"Syriac"}],"note":["Late Estrangela with Serto daleth and resh"]}],"ink":[{"color":["black-brown"],"note":["Overtext ink is glossy"]}],"text_unit":[{"ark":"ark:/21198/s1xt23","reconstruction":false,"label":"Life of Ephrem ; Ephrem, Against Heresies","lang":[{"id":"class1252","label":"Syriac"}],"work_wit":[{"work":{"desc_title":"Life of Ephrem ; Ephrem, Against Heresies","creator":[{"ark":"ark:/21198/s1v887","type":{"id":"person","label":"Person"},"pref_name":"Ephrem","alt_name":["Ephrem the Syrian","ܐܦܪܝܡ"],"gender":{"id":"man","label":"Man"},"floruit":{"value":"303 CE-373 CE","iso":{"not_before":"0303","not_after":"0373"}},"rel_con":[{"label":"Ephraem, Syrus, Saint, 303-373","uri":"http://viaf.org/viaf/100177778","source":"VIAF"},{"label":"Ephraem, Syrus, Saint, 303-373","uri":"http://id.loc.gov/authorities/names/n50082928","source":"LoC"},{"label":"Ephrem, of Nisibis, 303-373","uri":"https://w3id.org/haf/person/818572788967","source":"HAF"},{"label":"Ephrem","uri":"http://syriaca.org/person/13","source":"Syriaca"},{"label":"Ephraem Graecus","uri":"https://pinakes.irht.cnrs.fr/notices/auteur/995/","source":"Pinakes"}]}],"genre":[{"id":"hagiographies","label":"Hagiographies"},{"id":"theological-works","label":"Theological works"}]}}],"parent":["ark:/21198/s1492s"]}],"assoc_date":[{"value":"Mid 10th c.  CE","iso":{"not_before":"0925","not_after":"0975"},"type":{"id":"origin","label":"Date of Origin"}}],"parent":["ark:/21198/z10v8dvq"]},{"ark":"ark:/21198/s1264w","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Syriac NF frag 53, Undertext (Estrangela)","locus":"ff. 1–5","writing":[{"script":[{"id":"estrangela","label":"Estrangela","writing_system":"Syriac"}],"note":["Medial Estrangela: closed waw etc."]}],"layout":[{"columns":"Partial lines visible. Varies from 20 to 25 lines. No complete column available"}],"text_unit":[{"ark":"ark:/21198/s1q69p","reconstruction":false,"label":"Asketikon","lang":[{"id":"class1252","label":"Syriac"}],"work_wit":[{"work":{"ark":"ark:/21198/s1501m","pref_title":"Asceticon","alt_title":["Isaiah, Abba, -489 or 491. Asceticon"],"genre":[{"id":"theological-works","label":"Theological works"}],"creator":[{"id":"ark:/21198/s15k50","role":{"id":"author","label":"Author"},"agent":{"ark":"ark:/21198/s15k50","type":{"id":"person","label":"Person"},"pref_name":"Abba Isaiah","alt_name":[],"gender":{"id":"man","label":"Man"},"death":{"value":"489 CE or 491 CE","iso":{"not_before":"0489","not_after":"0491"}},"rel_con":[{"label":"Isaiah, Abba, -489 or 491","uri":"http://viaf.org/viaf/79027721","source":"VIAF"},{"label":"Isaiah, Abba, -489 or 491","uri":"https://id.loc.gov/authorities/names/no2003039117","source":"LoC"},{"label":"Isaiah, of Scetis, active 5th century","uri":"https://w3id.org/haf/person/576491190443","source":"HAF"},{"label":"Isaiah of Scetis","uri":"http://syriaca.org/person/548","source":"Syriaca"},{"label":"Isaias Gazaeus abbas","uri":"https://pinakes.irht.cnrs.fr/notices/auteur/1560/","source":"Pinakes"}]}}],"rel_con":[{"label":"Isaiah, Abba, -489 or 491. | Asceticon","uri":"http://viaf.org/viaf/180983978","source":"VIAF"},{"label":"Isaiah, Abba, -489 or 491. Asceticon","uri":"https://w3id.org/haf/work/152400286849","source":"HAF"}],"refno":[],"bib":[]},"alt_title":"Asketikon of Abba Isaiah"}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description by Sebastian Brock"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Edition of the Syriac translation of Abba Isaiah's Asketikon in R. Draguet, “Les cinq recensions de l'Asceticon syriaque d'Abba Isaie,” Corpus Scriptorum Christianorum Orientalium 289/120, 290/121 (1968)"}],"parent":["ark:/21198/s1264w"]}],"assoc_date":[{"value":"8th-9th c.  CE","iso":{"not_before":"0701","not_after":"0900"},"type":{"id":"origin","label":"Date of Origin"}}],"assoc_place":[{"value":"Syria or Mesopotamia","event":{"id":"origin","label":"Place of Origin"}}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Reconstructed folio order, ff. 5v, 5r, 4v, 4r, 3v, 3r, 2v, 2r"},{"type":{"id":"foliation","label":"Foliation Note"},"value":"F. 1r and 1v are too blurred to identify the passage"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Sebastian Brock"},{"type":{"id":"general","label":"Other Notes"},"value":"Bibliography: Edition of the Syriac translation of Abba Isaiah's Asketikon in R. Draguet, “Les cinq recensions de l'Asceticon syriaque d'Abba Isaie,” Corpus Scriptorum Christianorum Orientalium 289/120, 290/121 (1968)"}],"parent":["ark:/21198/z10v8dvq"]}]}],"location":[{"id":"sinai-nf","collection":"New Finds","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"foliation","label":"Foliation Note"},"value":"Not foliated; sequence follows Brock 1995, pl. 301-310"},{"type":{"id":"foliation","label":"Foliation Note"},"value":"Current sequence of folios may not reflect their original order"},{"type":{"id":"condition","label":"Condition Note"},"value":"Five loose folios; burnt, cockled, curled at the edge; parchment extremely brittle; fragments from the middle of folios"}],"bib":[{"id":"6ced4f13-e0b7-43d6-aa6d-260c00656341","type":{"id":"ref","label":"Reference"},"range":"pp. 52-55, pl. 301-310 "},{"id":"b1a3a9c9-ed90-440a-9e37-fade7a17796d","type":{"id":"ref","label":"Reference"},"range":"p. 202"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10v8dvq/manifest","text_direction":"right-to-left","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1b56k4t/0,1022,6132,6132/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z10v8dvq",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac NF frag 53",
+  "extent": "5 ff.",
+  "state": {
+    "id": "folio",
+    "label": "Folio(s)"
+  },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "150 x 11 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s1492s",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1492s",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac NF frag 53, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Late Estrangela with Serto daleth and resh"
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black-brown"
+                ],
+                "note": [
+                  "Overtext ink is glossy"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1xt23",
+                "reconstruction": false,
+                "label": "Life of Ephrem ; Ephrem, Against Heresies",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "desc_title": "Life of Ephrem ; Ephrem, Against Heresies",
+                      "creator": [
+                        {
+                          "id": "ark:/21198/s1v887",
+                          "agent_record": {
+                            "ark": "ark:/21198/s1v887",
+                            "type": {
+                              "id": "person",
+                              "label": "Person"
+                            },
+                            "pref_name": "Ephrem",
+                            "alt_name": [
+                              "Ephrem the Syrian",
+                              "ܐܦܪܝܡ"
+                            ],
+                            "gender": {
+                              "id": "man",
+                              "label": "Man"
+                            },
+                            "floruit": {
+                              "value": "303 CE-373 CE",
+                              "iso": {
+                                "not_before": 303,
+                                "not_after": 373
+                              }
+                            },
+                            "rel_con": [
+                              {
+                                "label": "Ephraem, Syrus, Saint, 303-373",
+                                "uri": "http://viaf.org/viaf/100177778",
+                                "source": "VIAF"
+                              },
+                              {
+                                "label": "Ephraem, Syrus, Saint, 303-373",
+                                "uri": "http://id.loc.gov/authorities/names/n50082928",
+                                "source": "LoC"
+                              },
+                              {
+                                "label": "Ephrem, of Nisibis, 303-373",
+                                "uri": "https://w3id.org/haf/person/818572788967",
+                                "source": "HAF"
+                              },
+                              {
+                                "label": "Ephrem",
+                                "uri": "http://syriaca.org/person/13",
+                                "source": "Syriaca"
+                              },
+                              {
+                                "label": "Ephraem Graecus",
+                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/995/",
+                                "source": "Pinakes"
+                              }
+                            ]
+                          }
+                        }
+                      ],
+                      "genre": [
+                        {
+                          "id": "hagiographies",
+                          "label": "Hagiographies"
+                        },
+                        {
+                          "id": "theological-works",
+                          "label": "Theological works"
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s1492s"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "Mid 10th c.  CE",
+                "iso": {
+                  "not_before": 925,
+                  "not_after": 975
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z10v8dvq"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s1264w",
+          "label": "Syriac Undertext: Abba Isaiah, Asceticon",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–5",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "8th-9th c.  CE",
+              "iso": {
+                "not_before": 701,
+                "not_after": 900
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation Note"
+      },
+      "value": "Not foliated; sequence follows Brock 1995, pl. 301-310"
+    },
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation Note"
+      },
+      "value": "Current sequence of folios may not reflect their original order"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Five loose folios; burnt, cockled, curled at the edge; parchment extremely brittle; fragments from the middle of folios"
+    }
+  ],
+  "bib": [
+    {
+      "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "pp. 52-55, pl. 301-310 "
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 202"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10v8dvq/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1b56k4t/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ]
+}

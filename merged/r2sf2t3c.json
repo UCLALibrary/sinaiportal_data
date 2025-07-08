@@ -1,1 +1,196 @@
-{"ark":"ark:/21198/r2sf2t3c","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Georgian NF frag 73a","extent":"4 ff.","state":{"id":"folio","label":"Folio(s)"},"features":[{"id":"palimpsest","label":"Palimpsest"},{"id":"msi","label":"Multispectral Imaging"}],"part":[{"label":"Part 1","support":[{"id":"parchment","label":"Parchment"}],"layer":[{"ark":"ark:/21198/s1rd0n","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Georgian NF frag 73a, Overtext (Undetermined (Georgian))","writing":[{"script":[{"id":"georgian-undetermined","label":"Undetermined (Georgian)","writing_system":"Georgian"}]}],"text_unit":[{"ark":"ark:/21198/s1k080","reconstruction":false,"label":"Menaion by Mikael Modrekili (4th December)","lang":[{"id":"nucl1302","label":"Georgian"}],"work_wit":[{"work":{"ark":"ark:/21198/s1bg6w","pref_title":"Menaia","alt_title":["Menaia"],"genre":[{"id":"liturgical-texts","label":"Liturgical texts"},{"id":"hymnals","label":"Hymnals"}],"rel_con":[],"refno":[],"bib":[]},"alt_title":"Menaion by Mikael Modrekili (4th December)"}],"parent":["ark:/21198/s1rd0n"]}],"parent":["ark:/21198/r2sf2t3c"]},{"ark":"ark:/21198/s1z058","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF frag 73a, Undertext (Undetermined (Arabic))","locus":"ff. 1, 2v, 3","writing":[{"script":[{"id":"arabic-undetermined","label":"Undetermined (Arabic)","writing_system":"Arabic"}]}],"text_unit":[{"ark":"ark:/21198/s1m10m","reconstruction":false,"label":"Unidentified","lang":[{"id":"arab1395","label":"Arabic"}],"work_wit":[{"work":{"desc_title":"Unidentified text","genre":[{"id":"theological-works","label":"Theological works"}]}}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"Arabic is visible on fols. 1r-v, 2v (barely), 3r (two words can be recognized: “anger” – spelled colloquially, which may point to a Christian text – and “God”), and 3v. Fol. 1r has “upon the parents” and “by his/its rays”. This is probably a theological or ethical Christian text, perhaps Patristic"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Alexander Treiger"}],"parent":["ark:/21198/s1z058"]}],"assoc_date":[{"value":"10th-11th c.  CE","iso":{"not_before":"0901","not_after":"1100"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Alexander Treiger"}],"parent":["ark:/21198/r2sf2t3c"]},{"ark":"ark:/21198/s1t93c","reconstruction":false,"state":{"id":"undertext","label":"Undertext"},"label":"Sinai Georgian NF frag 73a, Undertext (Greek majuscule)","locus":"ff. 1–4","writing":[{"script":[{"id":"greek-maj","label":"Greek majuscule","writing_system":"Greek"}],"note":["Sloping pointed majuscule | Light contrast between thick and thin strokes; omega (in some cases also omicron) raised above the base line"]}],"text_unit":[{"ark":"ark:/21198/s1g97s","reconstruction":false,"label":"Unidentified Christian poem","lang":[{"id":"gree1276","label":"Greek"}],"work_wit":[{"work":{"desc_title":"Unidentified text","genre":[{"id":"poetry","label":"Poetry"}]},"alt_title":"Unidentified Christian poem"}],"note":[{"type":{"id":"contents","label":"Contents Note"},"value":"The text mentions names from the Old Testament"},{"type":{"id":"general","label":"Other Notes"},"value":"Description by Pasquale Orsini"}],"parent":["ark:/21198/s1t93c"]}],"assoc_date":[{"value":"mid 6th- mid 7th c.  CE","iso":{"not_before":"0551","not_after":"0650"},"type":{"id":"origin","label":"Date of Origin"}}],"note":[{"type":{"id":"general","label":"Other Notes"},"value":"The Greek UTOs of Sinai Georgian 49, ff. 57r-73v, 78r-95v, 112r-119v also belong to this manuscript"},{"type":{"id":"general","label":"Other Notes"},"value":"Description of undertext by Pasquale Orsini"}],"parent":["ark:/21198/r2sf2t3c"]}]}],"location":[{"id":"sinai-nf","collection":"New Finds","repository":"St. Catherine's Monastery of the Sinai"}],"note":[{"type":{"id":"binding","label":"Binding Note"},"value":"Binding absent"},{"type":{"id":"condition","label":"Condition Note"},"value":"Three detached leaves and one small fragment"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr2sf2t3c/manifest","behavior":"paged","thumbnail":"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10293t0/0,1022,6132,6132/150,150/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/r2sf2t3c",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Georgian NF frag 73a",
+  "extent": "4 ff.",
+  "state": {
+    "id": "folio",
+    "label": "Folio(s)"
+  },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "layer": [
+        {
+          "id": "ark:/21198/s1rd0n",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1rd0n",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Georgian NF frag 73a, Overtext (Undetermined (Georgian))",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "georgian-undetermined",
+                    "label": "Undetermined (Georgian)",
+                    "writing_system": "Georgian"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1k080",
+                "reconstruction": false,
+                "label": "Menaion by Mikael Modrekili (4th December)",
+                "lang": [
+                  {
+                    "id": "nucl1302",
+                    "label": "Georgian"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s1bg6w",
+                      "pref_title": "Menaia",
+                      "alt_title": [
+                        "Menaia"
+                      ],
+                      "genre": [
+                        {
+                          "id": "liturgical-texts",
+                          "label": "Liturgical texts"
+                        },
+                        {
+                          "id": "hymnals",
+                          "label": "Hymnals"
+                        }
+                      ]
+                    },
+                    "alt_title": "Menaion by Mikael Modrekili (4th December)"
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s1rd0n"
+                ]
+              }
+            ],
+            "parent": [
+              "ark:/21198/r2sf2t3c"
+            ]
+          }
+        },
+        {
+          "id": "ark:/21198/s1z058",
+          "label": "Arabic Undertext: Unidentified text",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 2v, 3",
+          "script": [
+            "Undetermined (Arabic)"
+          ],
+          "lang": [
+            "Arabic"
+          ],
+          "orig_date": [
+            {
+              "value": "10th-11th c.  CE",
+              "iso": {
+                "not_before": 901,
+                "not_after": 1100
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ark:/21198/s1t93c",
+          "label": "Greek Undertext: Unidentified text",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–4",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "mid 6th- mid 7th c.  CE",
+              "iso": {
+                "not_before": 551,
+                "not_after": 650
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Binding absent"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Three detached leaves and one small fragment"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr2sf2t3c/manifest",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10293t0/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ]
+}

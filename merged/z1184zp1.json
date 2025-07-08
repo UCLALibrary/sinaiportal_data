@@ -1,1 +1,153 @@
-{"ark":"ark:/21198/z1184zp1","reconstruction":false,"type":{"id":"manuscript","label":"Manuscript"},"shelfmark":"Sinai Syriac 205","extent":"328 ff.","weight":"2363.3 g","dim":"270 x 203 x 109.0 mm","state":{"id":"codex","label":"Codex"},"part":[{"label":"Part 1","support":[{"id":"paper","label":"Paper"}],"layer":[{"ark":"ark:/21198/s15g9g","reconstruction":false,"state":{"id":"overtext","label":"Overtext"},"label":"Sinai Syriac 205, Overtext (Melkite)","writing":[{"script":[{"id":"melkite","label":"Melkite","writing_system":"Syriac"}]}],"text_unit":[{"ark":"ark:/21198/s1037c","reconstruction":false,"label":"Homilies on Gospels and Epistles (Chrysostom)","lang":[{"id":"class1252","label":"Syriac"}],"work_wit":[{"work":{"ark":"ark:/21198/s10k5f","pref_title":"Gospels","alt_title":["Bible. Gospels"],"genre":[{"id":"biblical-texts","label":"Biblical texts"},{"id":"gospel-books","label":"Gospel books"}],"rel_con":[{"label":"Bible. Gospels ","uri":"https://viaf.org/viaf/317284260","source":"VIAF"},{"label":"Bible. Gospels","uri":"http://id.loc.gov/authorities/names/n79063688","source":"LoC"}],"refno":[],"bib":[]},"alt_title":"Four Gospels","locus":"ff. 1r-325bv"}],"parent":["ark:/21198/s15g9g"]}],"assoc_date":[{"value":"13th c. CE","iso":{"not_before":"1201","not_after":"1300"},"type":{"id":"origin","label":"Date of Origin"}}],"parent":["ark:/21198/z1184zp1"]}]}],"location":[{"id":"sinai-oc","collection":"Old Collection","repository":"St. Catherine's Monastery of the Sinai"}],"bib":[{"id":"deb668b6-feec-4828-8749-a97441881226","type":{"id":"ref","label":"Reference"},"range":"[45], p. 152"}],"iiif":[{"type":{"id":"main","label":"Main"},"manifest":"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1184zp1/manifest","text_direction":"right-to-left","behavior":"paged","thumbnail":"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1184zp1%2F06288f88/full/!200,200/0/default.jpg"}]}
+{
+  "ark": "ark:/21198/z1184zp1",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 205",
+  "extent": "328 ff.",
+  "weight": "2363.3 g",
+  "dim": "270 x 203 x 109.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "layer": [
+        {
+          "id": "ark:/21198/s15g9g",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s15g9g",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 205, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "ark": "ark:/21198/s1037c",
+                "reconstruction": false,
+                "label": "Homilies on Gospels and Epistles (Chrysostom)",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "work_wit": [
+                  {
+                    "work": {
+                      "ark": "ark:/21198/s10k5f",
+                      "pref_title": "Gospels",
+                      "alt_title": [
+                        "Bible. Gospels"
+                      ],
+                      "genre": [
+                        {
+                          "id": "biblical-texts",
+                          "label": "Biblical texts"
+                        },
+                        {
+                          "id": "gospel-books",
+                          "label": "Gospel books"
+                        }
+                      ],
+                      "rel_con": [
+                        {
+                          "label": "Bible. Gospels ",
+                          "uri": "https://viaf.org/viaf/317284260",
+                          "source": "VIAF"
+                        },
+                        {
+                          "label": "Bible. Gospels",
+                          "uri": "http://id.loc.gov/authorities/names/n79063688",
+                          "source": "LoC"
+                        }
+                      ]
+                    },
+                    "alt_title": "Four Gospels",
+                    "locus": "ff. 1r-325bv"
+                  }
+                ],
+                "parent": [
+                  "ark:/21198/s15g9g"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "13th c. CE",
+                "iso": {
+                  "not_before": 1201,
+                  "not_after": 1300
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1184zp1"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[45], p. 152"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1184zp1/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1184zp1%2F06288f88/full/!200,200/0/default.jpg"
+    }
+  ]
+}
