@@ -33,7 +33,25 @@
         }
       ],
       "dim": "183 x 128 mm (representative folio)",
-      "layer": [
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged to the same manuscript as Arabic NF M 27 and Arabic NF M 28",
+          "note": [
+            "Text continues in Arabic NF M 28, with consecutive pencil foliation"
+          ],
+          "mss": [
+            {
+              "label": "Sinai Arabic NF M28",
+              "id": "ark:/21198/z1n02zkr"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
         {
           "id": "ark:/21198/s19p6n",
           "label": "Overtext Layer",
@@ -73,52 +91,56 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s14668",
-                "reconstruction": false,
-                "label": "Gospels",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s10k5f",
-                      "pref_title": "Gospels",
-                      "alt_title": [
-                        "Bible. Gospels"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Gospels ",
-                          "uri": "https://viaf.org/viaf/317284260",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Gospels",
-                          "uri": "http://id.loc.gov/authorities/names/n79063688",
-                          "source": "LoC"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-stub 9v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s19p6n"
-                ]
+                "id": "ark:/21198/s14668",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s14668",
+                  "reconstruction": false,
+                  "label": "Gospels",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s10k5f",
+                        "pref_title": "Gospels",
+                        "alt_title": [
+                          "Bible. Gospels"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Gospels ",
+                            "uri": "https://viaf.org/viaf/317284260",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Gospels",
+                            "uri": "http://id.loc.gov/authorities/names/n79063688",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-stub 9v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s19p6n"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -153,9 +175,11 @@
               "ark:/21198/z1kd1z25"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1fs8p",
+          "uto_layer_ark": "ark:/21198/s1fs8p",
           "label": "Greek Undertext: Basil of Caesarea, Homily on the Martyr Julitta",
           "type": {
             "id": "undertext",
@@ -183,7 +207,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1b062",
+          "uto_layer_ark": "ark:/21198/s1b062",
           "label": "Greek Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -211,7 +235,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1692d",
+          "uto_layer_ark": "ark:/21198/s1692d",
           "label": "Latin Undertext: Athanasian Creed",
           "type": {
             "id": "undertext",
@@ -238,7 +262,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s12k86",
+          "uto_layer_ark": "ark:/21198/s12k86",
           "label": "Latin Undertext: Bible. Luke",
           "type": {
             "id": "undertext",
@@ -266,7 +290,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1xs7n",
+          "uto_layer_ark": "ark:/21198/s1xs7n",
           "label": "Greek Undertext: Hippocrates, Letters",
           "type": {
             "id": "undertext",
@@ -294,7 +318,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1t339",
+          "uto_layer_ark": "ark:/21198/s1t339",
           "label": "Arabic Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -308,7 +332,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1p91c",
+          "uto_layer_ark": "ark:/21198/s1p91c",
           "label": "Greek Undertext: Life of St. George",
           "type": {
             "id": "undertext",
@@ -336,7 +360,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1jk9x",
+          "uto_layer_ark": "ark:/21198/s1jk9x",
           "label": "Syriac Undertext: Unidentified theological or liturgical text",
           "type": {
             "id": "undertext",
@@ -364,7 +388,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1ds6m",
+          "uto_layer_ark": "ark:/21198/s1ds6m",
           "label": "Arabic and Coptic Undertext: Sales deed",
           "type": {
             "id": "undertext",
@@ -394,7 +418,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s19341",
+          "uto_layer_ark": "ark:/21198/s19341",
           "label": "Latin Undertext: Bible. 2 Peter",
           "type": {
             "id": "undertext",
@@ -421,7 +445,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1591q",
+          "uto_layer_ark": "ark:/21198/s1591q",
           "label": "Greek Undertext: Treatise on medical terms",
           "type": {
             "id": "undertext",
@@ -449,7 +473,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s11m06",
+          "uto_layer_ark": "ark:/21198/s11m06",
           "label": "Greek Undertext: Bible. Genesis",
           "type": {
             "id": "undertext",
@@ -477,7 +501,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1ws7b",
+          "uto_layer_ark": "ark:/21198/s1ws7b",
           "label": "Latin Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -504,7 +528,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1s34c",
+          "uto_layer_ark": "ark:/21198/s1s34c",
           "label": "Latin Undertext: Lucianus of Caphargamala, Discovery of the relics of Stephen",
           "type": {
             "id": "undertext",
@@ -531,7 +555,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1n92f",
+          "uto_layer_ark": "ark:/21198/s1n92f",
           "label": "Greek Undertext: Antyllus, Recipes for different diseases",
           "type": {
             "id": "undertext",
@@ -559,7 +583,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1hk9m",
+          "uto_layer_ark": "ark:/21198/s1hk9m",
           "label": "Latin Undertext: Bible. Mark",
           "type": {
             "id": "undertext",
@@ -587,7 +611,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1cs7p",
+          "uto_layer_ark": "ark:/21198/s1cs7p",
           "label": "Greek Undertext: List of holy vestments and objects",
           "type": {
             "id": "undertext",
@@ -616,7 +640,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1834q",
+          "uto_layer_ark": "ark:/21198/s1834q",
           "label": "Latin Undertext: Bible. Revelation",
           "type": {
             "id": "undertext",
@@ -644,7 +668,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s14d02",
+          "uto_layer_ark": "ark:/21198/s14d02",
           "label": "Latin Undertext: History of Apollonius of Tyre",
           "type": {
             "id": "undertext",
@@ -672,7 +696,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s10k9z",
+          "uto_layer_ark": "ark:/21198/s10k9z",
           "label": "Greek Undertext: Crateuas, Botanical collection",
           "type": {
             "id": "undertext",
@@ -700,7 +724,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1vw59",
+          "uto_layer_ark": "ark:/21198/s1vw59",
           "label": "Greek Undertext: Basil of Caesarea, Homily on Thanksgiving",
           "type": {
             "id": "undertext",
@@ -728,7 +752,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1r33p",
+          "uto_layer_ark": "ark:/21198/s1r33p",
           "label": "Greek Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -755,7 +779,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1md1s",
+          "uto_layer_ark": "ark:/21198/s1md1s",
           "label": "Greek Undertext: Bible. Matthew",
           "type": {
             "id": "undertext",
@@ -783,7 +807,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1gk8x",
+          "uto_layer_ark": "ark:/21198/s1gk8x",
           "label": "Greek Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -810,7 +834,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1bw61",
+          "uto_layer_ark": "ark:/21198/s1bw61",
           "label": "Greek Undertext: Inventory of books",
           "type": {
             "id": "undertext",
@@ -839,7 +863,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s17331",
+          "uto_layer_ark": "ark:/21198/s17331",
           "label": "Greek Undertext: Unidentified liturgical text",
           "type": {
             "id": "undertext",
@@ -867,7 +891,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s13d14",
+          "uto_layer_ark": "ark:/21198/s13d14",
           "label": "Greek Undertext: Exodus",
           "type": {
             "id": "undertext",
@@ -895,7 +919,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1zk88",
+          "uto_layer_ark": "ark:/21198/s1zk88",
           "label": "Greek Undertext: Hippocrates, Regimen",
           "type": {
             "id": "undertext",
@@ -923,7 +947,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1tw6c",
+          "uto_layer_ark": "ark:/21198/s1tw6c",
           "label": "Greek Undertext: Bible. John",
           "type": {
             "id": "undertext",
@@ -951,7 +975,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1q34r",
+          "uto_layer_ark": "ark:/21198/s1q34r",
           "label": "Greek Undertext: Bible. Ecclesiastes",
           "type": {
             "id": "undertext",
@@ -982,7 +1006,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1kd1g",
+          "uto_layer_ark": "ark:/21198/s1kd1g",
           "label": "Greek Undertext: Hippocrates, Epidemics",
           "type": {
             "id": "undertext",
@@ -1006,24 +1030,6 @@
                 "id": "origin",
                 "label": "Date of Origin"
               }
-            }
-          ]
-        }
-      ],
-      "related_mss": [
-        {
-          "type": {
-            "id": "disjecta",
-            "label": "Disjecta Membra"
-          },
-          "label": "Originally belonged to the same manuscript as Arabic NF M 27 and Arabic NF M 28",
-          "note": [
-            "Text continues in Arabic NF M 28, with consecutive pencil foliation"
-          ],
-          "mss": [
-            {
-              "label": "Sinai Arabic NF M28",
-              "id": "ark:/21198/z1n02zkr"
             }
           ]
         }

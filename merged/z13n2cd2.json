@@ -31,7 +31,26 @@
         }
       ],
       "dim": "191 x 130 mm (representative folio)",
-      "layer": [
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with Syriac NF M 29, Syriac NF M 74, Syriac NF frag 74",
+          "mss": [
+            {
+              "label": "Sinai Syriac NF M 74",
+              "id": "ark:/21198/z1m05xk5"
+            },
+            {
+              "label": "Sinai Syriac NF frag 74",
+              "id": "ark:/21198/z1w37xcr"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
         {
           "id": "ark:/21198/s1cs69",
           "label": "Overtext Layer",
@@ -67,102 +86,106 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1696x",
-                "reconstruction": false,
-                "label": "Homilies on John, Homily 20 (Chrysostom)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1n01z",
-                      "pref_title": "Homilies on John",
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "commentaries",
-                          "label": "Commentaries"
-                        }
-                      ],
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1x303",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1x303",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "John Chrysostom",
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "death": {
-                              "value": "407 CE",
-                              "iso": {
-                                "not_before": 407,
-                                "not_after": 407
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://viaf.org/viaf/305214868",
-                                "source": "VIAF"
-                              },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://id.loc.gov/authorities/names/n80001460",
-                                "source": "LoC"
-                              },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "https://w3id.org/haf/person/873419758532",
-                                "source": "HAF"
-                              },
-                              {
-                                "label": "John Chrysostom",
-                                "uri": "http://syriaca.org/person/573",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Iohannes Chrysostomus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                "id": "ark:/21198/s1696x",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1696x",
+                  "reconstruction": false,
+                  "label": "Homilies on John, Homily 20 (Chrysostom)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1n01z",
+                        "pref_title": "Homilies on John",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
                           },
-                          "role": {
-                            "id": "author",
-                            "label": "Author"
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
                           }
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "John Chrysostom, Saint, -407. Homilies on John",
-                          "uri": "http://id.loc.gov/authorities/names/n97054490",
-                          "source": "LoC"
-                        }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "407 CE",
+                                "iso": {
+                                  "not_before": 407,
+                                  "not_after": 407
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "John Chrysostom, Saint, -407. Homilies on John",
+                            "uri": "http://id.loc.gov/authorities/names/n97054490",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "John Chrysostom, Commentary on John, Homily 20",
+                      "note": [
+                        "Only the end of this homily is preserved, earlier portions are contained in Syriac NF frag 74"
                       ]
-                    },
-                    "alt_title": "John Chrysostom, Commentary on John, Homily 20",
-                    "note": [
-                      "Only the end of this homily is preserved, earlier portions are contained in Syriac NF frag 74"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1cs69"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1cs69"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -182,9 +205,11 @@
               "ark:/21198/z13n2cd2"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s19q0q",
+          "uto_layer_ark": "ark:/21198/s19q0q",
           "label": "Syriac Undertext: Bible. Genesis",
           "type": {
             "id": "undertext",
@@ -208,25 +233,6 @@
                 "id": "origin",
                 "label": "Date of Origin"
               }
-            }
-          ]
-        }
-      ],
-      "related_mss": [
-        {
-          "type": {
-            "id": "disjecta",
-            "label": "Disjecta Membra"
-          },
-          "label": "Originally belonged together with Syriac NF M 29, Syriac NF M 74, Syriac NF frag 74",
-          "mss": [
-            {
-              "label": "Sinai Syriac NF M 74",
-              "id": "ark:/21198/z1m05xk5"
-            },
-            {
-              "label": "Sinai Syriac NF frag 74",
-              "id": "ark:/21198/z1w37xcr"
             }
           ]
         }

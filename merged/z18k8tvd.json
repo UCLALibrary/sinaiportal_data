@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s18k7p",
           "label": "Overtext Layer",
@@ -51,32 +51,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1366z",
-                "reconstruction": false,
-                "label": "Services and Makarismatarion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Services and Makarismatarion",
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-203r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s18k7p"
-                ]
+                "id": "ark:/21198/s1366z",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1366z",
+                  "reconstruction": false,
+                  "label": "Services and Makarismatarion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Services and Makarismatarion",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-203r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s18k7p"
+                  ]
+                }
               }
             ],
             "assoc_date": [

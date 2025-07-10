@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1cp7n",
           "label": "Overtext Layer",
@@ -54,45 +54,49 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s16945",
-                "reconstruction": false,
-                "label": "Prophetologion for Lent and all the great feasts of the year",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1j30p",
-                      "pref_title": "Prophetologion",
-                      "alt_title": [
-                        "Prophetologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Prophetologion for Lent and all the great feasts of the year",
-                    "locus": "ff. 1r-214v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1cp7n"
-                ]
+                "id": "ark:/21198/s16945",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s16945",
+                  "reconstruction": false,
+                  "label": "Prophetologion for Lent and all the great feasts of the year",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1j30p",
+                        "pref_title": "Prophetologion",
+                        "alt_title": [
+                          "Prophetologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Prophetologion for Lent and all the great feasts of the year",
+                      "locus": "ff. 1r-214v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1cp7n"
+                  ]
+                }
               }
             ],
             "para": [

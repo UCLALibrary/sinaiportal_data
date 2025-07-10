@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1p02n",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1gm1m",
-                "reconstruction": false,
-                "label": "Menologion for the month of November",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion for the month of November",
-                    "locus": "ff. 1r-209r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1p02n"
-                ]
+                "id": "ark:/21198/s1gm1m",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1gm1m",
+                  "reconstruction": false,
+                  "label": "Menologion for the month of November",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menologion for the month of November",
+                      "locus": "ff. 1r-209r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1p02n"
+                  ]
+                }
               }
             ],
             "assoc_date": [

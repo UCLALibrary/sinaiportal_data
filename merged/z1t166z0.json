@@ -28,7 +28,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1990k",
           "label": "Overtext Layer",
@@ -65,56 +65,60 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s13w8m",
-                "reconstruction": false,
-                "label": "Book of Liturgy (Euchologia)",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  },
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tp4j",
-                      "pref_title": "Euchologion",
-                      "alt_title": [
-                        "Euchologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s13w8m",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s13w8m",
+                  "reconstruction": false,
+                  "label": "Book of Liturgy (Euchologia)",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     },
-                    "alt_title": "Book of Liturgy (Euchologia)",
-                    "locus": "ff. 1r - 120v"
-                  }
-                ],
-                "features": [
-                  {
-                    "id": "parallel-text",
-                    "label": "Parallel text"
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "contents",
-                      "label": "Contents Note"
-                    },
-                    "value": "Parallel Greek and Arabic text on ff. 104v-105r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1990k"
-                ]
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tp4j",
+                        "pref_title": "Euchologion",
+                        "alt_title": [
+                          "Euchologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Book of Liturgy (Euchologia)",
+                      "locus": "ff. 1r - 120v"
+                    }
+                  ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Parallel Greek and Arabic text on ff. 104v-105r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1990k"
+                  ]
+                }
               }
             ],
             "assoc_date": [

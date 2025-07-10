@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s16029",
           "label": "Overtext Layer",
@@ -51,45 +51,49 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s10m0w",
-                "reconstruction": false,
-                "label": "Lectionary (Gospels), Acts and Epistles with commentary",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1088g",
-                      "pref_title": "Lectionary",
-                      "alt_title": [
-                        "Lectionary"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Lectionary (Gospels), Acts and Epistles with commentary",
-                    "locus": "ff. 2r-314r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s16029"
-                ]
+                "id": "ark:/21198/s10m0w",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s10m0w",
+                  "reconstruction": false,
+                  "label": "Lectionary (Gospels), Acts and Epistles with commentary",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "alt_title": [
+                          "Lectionary"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary (Gospels), Acts and Epistles with commentary",
+                      "locus": "ff. 2r-314r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s16029"
+                  ]
+                }
               }
             ],
             "para": [

@@ -37,7 +37,7 @@
         }
       ],
       "dim": "153 x 115 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1xw5x",
           "label": "Overtext Layer",
@@ -73,31 +73,35 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1rh3t",
-                "reconstruction": false,
-                "label": "Paterikon",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Paterikon",
-                      "genre": [
-                        {
-                          "id": "apophthegmata",
-                          "label": "Apophthegmata"
-                        }
-                      ]
+                "id": "ark:/21198/s1rh3t",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1rh3t",
+                  "reconstruction": false,
+                  "label": "Paterikon",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1xw5x"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Paterikon",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1xw5x"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -117,9 +121,11 @@
               "ark:/21198/z1029pgj"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s15k9h",
+          "uto_layer_ark": "ark:/21198/s15k9h",
           "label": "Greek Undertext: Hymns",
           "type": {
             "id": "undertext",
@@ -148,7 +154,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s11s8z",
+          "uto_layer_ark": "ark:/21198/s11s8z",
           "label": "Arabic Undertext: John Chrysostom, Homily on the Rich and the Poor",
           "type": {
             "id": "undertext",
@@ -176,7 +182,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1x34m",
+          "uto_layer_ark": "ark:/21198/s1x34m",
           "label": "Greek Undertext: John Chrysostom, Homilies on Genesis",
           "type": {
             "id": "undertext",
@@ -204,7 +210,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1s92p",
+          "uto_layer_ark": "ark:/21198/s1s92p",
           "label": "Arabic Undertext: John of Damascus, Homily on the Dormition of the Virgin Mary",
           "type": {
             "id": "undertext",
@@ -232,7 +238,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1nm0s",
+          "uto_layer_ark": "ark:/21198/s1nm0s",
           "label": "Greek Undertext: Prayers",
           "type": {
             "id": "undertext",
@@ -260,7 +266,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1hs7x",
+          "uto_layer_ark": "ark:/21198/s1hs7x",
           "label": "Greek Undertext: Hymns",
           "type": {
             "id": "undertext",
@@ -288,7 +294,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1d35b",
+          "uto_layer_ark": "ark:/21198/s1d35b",
           "label": "Greek Undertext: Homilies of Hesychius of Jerusalem and Gregory of Nazianzus",
           "type": {
             "id": "undertext",

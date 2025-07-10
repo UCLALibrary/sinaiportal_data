@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1fs79",
           "label": "Overtext Layer",
@@ -75,59 +75,63 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s18d56",
-                "reconstruction": false,
-                "label": "Four Gospels (Pshitta)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1030q",
-                      "pref_title": "Triodion",
-                      "alt_title": [
-                        "Triodion"
-                      ],
-                      "genre": [
+                "id": "ark:/21198/s18d56",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s18d56",
+                  "reconstruction": false,
+                  "label": "Four Gospels (Pshitta)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1030q",
+                        "pref_title": "Triodion",
+                        "alt_title": [
+                          "Triodion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "alt_title": "Triodion II",
+                      "locus": "ff. 1r-212v",
+                      "excerpt": [
                         {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 1r",
+                          "as_written": "Incipit mut.: ܟܕ ܐܬܡ̇ܢܥܬ. ܕܬܥܘܠ ܒܖ̈ܚܡܝܟ. ܠܡܕܝܢܬܐ ܩܕܝܫܬܐ ܡܪܐ ܕܟܘܠܐ."
                         },
                         {
-                          "id": "hymnals",
-                          "label": "Hymnals"
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 214v",
+                          "as_written": "Desinit: ܘܡܫ̈ܟܢܝ ܐܢܬܘܢ ܐܣܝܘܬܐ ܠܟܠܗܘܢ ܡܗܝ̈ܡܢܐ܀"
                         }
                       ]
-                    },
-                    "alt_title": "Triodion II",
-                    "locus": "ff. 1r-212v",
-                    "excerpt": [
-                      {
-                        "type": {
-                          "id": "incipit",
-                          "label": "Incipit"
-                        },
-                        "locus": "f. 1r",
-                        "as_written": "Incipit mut.: ܟܕ ܐܬܡ̇ܢܥܬ. ܕܬܥܘܠ ܒܖ̈ܚܡܝܟ. ܠܡܕܝܢܬܐ ܩܕܝܫܬܐ ܡܪܐ ܕܟܘܠܐ."
-                      },
-                      {
-                        "type": {
-                          "id": "explicit",
-                          "label": "Explicit"
-                        },
-                        "locus": "f. 214v",
-                        "as_written": "Desinit: ܘܡܫ̈ܟܢܝ ܐܢܬܘܢ ܐܣܝܘܬܐ ܠܟܠܗܘܢ ܡܗܝ̈ܡܢܐ܀"
-                      }
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1fs79"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1fs79"
+                  ]
+                }
               }
             ],
             "assoc_date": [

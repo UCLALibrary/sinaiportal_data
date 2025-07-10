@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1jk75",
           "label": "Overtext Layer",
@@ -64,70 +64,74 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1c37s",
-                "reconstruction": false,
-                "label": "Lectionary of Gospels and Epistles",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s10k5f",
-                      "pref_title": "Gospels",
-                      "alt_title": [
-                        "Bible. Gospels"
-                      ],
-                      "genre": [
+                "id": "ark:/21198/s1c37s",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1c37s",
+                  "reconstruction": false,
+                  "label": "Lectionary of Gospels and Epistles",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s10k5f",
+                        "pref_title": "Gospels",
+                        "alt_title": [
+                          "Bible. Gospels"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Gospels ",
+                            "uri": "https://viaf.org/viaf/317284260",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Gospels",
+                            "uri": "http://id.loc.gov/authorities/names/n79063688",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Four Gospels (Pshitta)",
+                      "locus": "ff. 3v-124r",
+                      "contents": [
                         {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
+                          "label": "Gospel of Matthew (ff. 3v–39v)"
                         },
                         {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Gospels ",
-                          "uri": "https://viaf.org/viaf/317284260",
-                          "source": "VIAF"
+                          "label": "Gospel of Mark (ff. 40r–54r)"
                         },
                         {
-                          "label": "Bible. Gospels",
-                          "uri": "http://id.loc.gov/authorities/names/n79063688",
-                          "source": "LoC"
+                          "label": "Gospel of Luke (ff. 54v–91v)"
+                        },
+                        {
+                          "label": "Gospel of John (ff. 92r–124r)"
+                        },
+                        {
+                          "label": "Concluding rubric and doxology (f. 124r)"
                         }
                       ]
-                    },
-                    "alt_title": "Four Gospels (Pshitta)",
-                    "locus": "ff. 3v-124r",
-                    "contents": [
-                      {
-                        "label": "Gospel of Matthew (ff. 3v–39v)"
-                      },
-                      {
-                        "label": "Gospel of Mark (ff. 40r–54r)"
-                      },
-                      {
-                        "label": "Gospel of Luke (ff. 54v–91v)"
-                      },
-                      {
-                        "label": "Gospel of John (ff. 92r–124r)"
-                      },
-                      {
-                        "label": "Concluding rubric and doxology (f. 124r)"
-                      }
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1jk75"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1jk75"
+                  ]
+                }
               }
             ],
             "assoc_date": [

@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s18g7n",
           "label": "Overtext Layer",
@@ -51,32 +51,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1336x",
-                "reconstruction": false,
-                "label": "Canons",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Canons",
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 2v-70v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s18g7n"
-                ]
+                "id": "ark:/21198/s1336x",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1336x",
+                  "reconstruction": false,
+                  "label": "Canons",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Canons",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 2v-70v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s18g7n"
+                  ]
+                }
               }
             ],
             "para": [

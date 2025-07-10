@@ -28,7 +28,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1289g",
           "label": "Overtext Layer",
@@ -65,36 +65,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1vw8f",
-                "reconstruction": false,
-                "label": "Treatises (34) by John Chrysostom",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Treatises (34) by John Chrysostom",
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "apophthegmata",
-                          "label": "Apophthegmata"
-                        }
-                      ]
-                    },
-                    "locus": "ff .1r-128r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1289g"
-                ]
+                "id": "ark:/21198/s1vw8f",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1vw8f",
+                  "reconstruction": false,
+                  "label": "Treatises (34) by John Chrysostom",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Treatises (34) by John Chrysostom",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "locus": "ff .1r-128r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1289g"
+                  ]
+                }
               }
             ],
             "para": [

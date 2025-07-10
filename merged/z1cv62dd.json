@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1q320",
           "label": "Overtext Layer",
@@ -51,49 +51,53 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1hq1z",
-                "reconstruction": false,
-                "label": "Sayings of SS. Macarius, John Carpatheus, Isaac of Nineveh and Gregory Nazienzis",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s11c7f",
-                      "pref_title": "Psalms",
-                      "alt_title": [
-                        "Bible. Psalms"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Psalms",
-                          "uri": "https://viaf.org/viaf/60146153112905251951",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Psalms",
-                          "uri": "http://id.loc.gov/authorities/names/n79056804",
-                          "source": "LoC"
-                        }
-                      ]
-                    },
-                    "alt_title": "Psalms 3 : 7-53-6",
-                    "locus": "ff. 2r-47v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1q320"
-                ]
+                "id": "ark:/21198/s1hq1z",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1hq1z",
+                  "reconstruction": false,
+                  "label": "Sayings of SS. Macarius, John Carpatheus, Isaac of Nineveh and Gregory Nazienzis",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s11c7f",
+                        "pref_title": "Psalms",
+                        "alt_title": [
+                          "Bible. Psalms"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Psalms",
+                            "uri": "https://viaf.org/viaf/60146153112905251951",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Psalms",
+                            "uri": "http://id.loc.gov/authorities/names/n79056804",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Psalms 3 : 7-53-6",
+                      "locus": "ff. 2r-47v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1q320"
+                  ]
+                }
               }
             ],
             "assoc_date": [

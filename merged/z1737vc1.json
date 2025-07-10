@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1gc8v",
           "label": "Overtext Layer",
@@ -51,48 +51,52 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s18w7s",
-                "reconstruction": false,
-                "label": "Lectionary (Acts and Epistles)",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1088g",
-                      "pref_title": "Lectionary",
-                      "alt_title": [
-                        "Lectionary"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
+                "id": "ark:/21198/s18w7s",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s18w7s",
+                  "reconstruction": false,
+                  "label": "Lectionary (Acts and Epistles)",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "alt_title": [
+                          "Lectionary"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary (Acts and Epistles)",
+                      "locus": "ff. 2r-277v",
+                      "note": [
+                        "Lectionary of Acts of the Apostles, the Epistles of St. Paul and the Catholic Epistles"
                       ]
-                    },
-                    "alt_title": "Lectionary (Acts and Epistles)",
-                    "locus": "ff. 2r-277v",
-                    "note": [
-                      "Lectionary of Acts of the Apostles, the Epistles of St. Paul and the Catholic Epistles"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1gc8v"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1gc8v"
+                  ]
+                }
               }
             ],
             "para": [

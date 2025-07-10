@@ -31,7 +31,7 @@
         }
       ],
       "dim": "175 x 120 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1vs71",
           "label": "Overtext Layer",
@@ -70,36 +70,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1pd69",
-                "reconstruction": false,
-                "label": "Oktoechos for the ordinary days (Parakletike)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tg7m",
-                      "pref_title": "Octoechos",
-                      "alt_title": [
-                        "Octoechos"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Oktoechos for the ordinary days (Parakletike)"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1vs71"
-                ]
+                "id": "ark:/21198/s1pd69",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1pd69",
+                  "reconstruction": false,
+                  "label": "Oktoechos for the ordinary days (Parakletike)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tg7m",
+                        "pref_title": "Octoechos",
+                        "alt_title": [
+                          "Octoechos"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Oktoechos for the ordinary days (Parakletike)"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1vs71"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -137,9 +141,11 @@
               "ark:/21198/z1t448qz"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1sq02",
+          "uto_layer_ark": "ark:/21198/s1sq02",
           "label": "Syriac Undertext: Galen, On Simple Drugs",
           "type": {
             "id": "undertext",

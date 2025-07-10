@@ -28,7 +28,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1z31s",
           "label": "Overtext Layer",
@@ -57,36 +57,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1rp9t",
-                "reconstruction": false,
-                "label": "Commentary on Exodus",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Commentary on Exodus",
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "commentaries",
-                          "label": "Commentaries"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-308v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1z31s"
-                ]
+                "id": "ark:/21198/s1rp9t",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1rp9t",
+                  "reconstruction": false,
+                  "label": "Commentary on Exodus",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Commentary on Exodus",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-308v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1z31s"
+                  ]
+                }
               }
             ],
             "assoc_date": [

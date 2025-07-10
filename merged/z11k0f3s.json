@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1fs5j",
           "label": "Overtext Layer",
@@ -51,90 +51,94 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1893d",
-                "reconstruction": false,
-                "label": "Works of St. John Damascene",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Works of St. John Damascene",
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s18c7m",
-                          "agent_record": {
-                            "ark": "ark:/21198/s18c7m",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "John of Damascus",
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "death": {
-                              "value": "ca. 750 CE",
-                              "iso": {
-                                "not_before": 725,
-                                "not_after": 775
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "John, of Damascus, Saint",
-                                "uri": "http://viaf.org/viaf/44435485",
-                                "source": "VIAF"
+                "id": "ark:/21198/s1893d",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1893d",
+                  "reconstruction": false,
+                  "label": "Works of St. John Damascene",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Works of St. John Damascene",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s18c7m",
+                            "agent_record": {
+                              "ark": "ark:/21198/s18c7m",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
                               },
-                              {
-                                "label": "John, of Damascus, Saint",
-                                "uri": "https://id.loc.gov/authorities/names/n80032173",
-                                "source": "LoC"
+                              "pref_name": "John of Damascus",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
                               },
-                              {
-                                "label": "John, of Damascus, -approximately 750",
-                                "uri": "https://w3id.org/haf/person/353918456335",
-                                "source": "HAF"
+                              "death": {
+                                "value": "ca. 750 CE",
+                                "iso": {
+                                  "not_before": 725,
+                                  "not_after": 775
+                                }
                               },
-                              {
-                                "label": "John of Damascus",
-                                "uri": "http://syriaca.org/person/575",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Iohannes Damascenus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1464/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                              "rel_con": [
+                                {
+                                  "label": "John, of Damascus, Saint",
+                                  "uri": "http://viaf.org/viaf/44435485",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John, of Damascus, Saint",
+                                  "uri": "https://id.loc.gov/authorities/names/n80032173",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John, of Damascus, -approximately 750",
+                                  "uri": "https://w3id.org/haf/person/353918456335",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John of Damascus",
+                                  "uri": "http://syriaca.org/person/575",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Damascenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1464/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
                           }
-                        }
-                      ],
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "apophthegmata",
-                          "label": "Apophthegmata"
-                        }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-359v",
+                      "note": [
+                        "Theological discourses beginning with discourse 21 and ending with discourse 106 on Iconoclasts etc.; followed by treatise on Logic which ends in chapter 47"
                       ]
-                    },
-                    "locus": "ff. 1r-359v",
-                    "note": [
-                      "Theological discourses beginning with discourse 21 and ending with discourse 106 on Iconoclasts etc.; followed by treatise on Logic which ends in chapter 47"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1fs5j"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1fs5j"
+                  ]
+                }
               }
             ],
             "assoc_date": [

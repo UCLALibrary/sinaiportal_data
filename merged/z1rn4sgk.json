@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1hc9j",
           "label": "Overtext Layer",
@@ -54,53 +54,57 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1b096",
-                "reconstruction": false,
-                "label": "Lectionary of New Testament",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s10k5f",
-                      "pref_title": "Gospels",
-                      "alt_title": [
-                        "Bible. Gospels"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Gospels ",
-                          "uri": "https://viaf.org/viaf/317284260",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Gospels",
-                          "uri": "http://id.loc.gov/authorities/names/n79063688",
-                          "source": "LoC"
-                        }
-                      ]
-                    },
-                    "alt_title": "Gospels (Matthew and part of Mark)",
-                    "locus": "ff. 1r-172v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1hc9j"
-                ]
+                "id": "ark:/21198/s1b096",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1b096",
+                  "reconstruction": false,
+                  "label": "Lectionary of New Testament",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s10k5f",
+                        "pref_title": "Gospels",
+                        "alt_title": [
+                          "Bible. Gospels"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Gospels ",
+                            "uri": "https://viaf.org/viaf/317284260",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Gospels",
+                            "uri": "http://id.loc.gov/authorities/names/n79063688",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Gospels (Matthew and part of Mark)",
+                      "locus": "ff. 1r-172v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1hc9j"
+                  ]
+                }
               }
             ],
             "assoc_date": [

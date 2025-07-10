@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1dg7w",
           "label": "Overtext Layer",
@@ -51,62 +51,66 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s17365",
-                "reconstruction": false,
-                "label": "Menologion. For the month Kanun I (December)",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion. Lives of Saints for the month Kanun I (December)",
-                    "locus": "ff. 1v-310r",
-                    "excerpt": [
-                      {
-                        "type": {
-                          "id": "incipit",
-                          "label": "Incipit"
-                        },
-                        "locus": "f. 1v",
-                        "as_written": "نبتدي بمعونة الله و حسن توفيقه نكتب"
+                "id": "ark:/21198/s17365",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s17365",
+                  "reconstruction": false,
+                  "label": "Menologion. For the month Kanun I (December)",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
                       },
-                      {
-                        "type": {
-                          "id": "explicit",
-                          "label": "Explicit"
+                      "alt_title": "Menologion. Lives of Saints for the month Kanun I (December)",
+                      "locus": "ff. 1v-310r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 1v",
+                          "as_written": "نبتدي بمعونة الله و حسن توفيقه نكتب"
                         },
-                        "locus": "f. 310v",
-                        "as_written": "نجز"
-                      }
-                    ],
-                    "note": [
-                      "Menologion. Lives of Saints for the month Kanun I (December), beginning on the 1st with the Prophet Nahum and ending on the 31st with St. Melania"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1dg7w"
-                ]
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 310v",
+                          "as_written": "نجز"
+                        }
+                      ],
+                      "note": [
+                        "Menologion. Lives of Saints for the month Kanun I (December), beginning on the 1st with the Prophet Nahum and ending on the 31st with St. Melania"
+                      ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1dg7w"
+                  ]
+                }
               }
             ],
             "para": [

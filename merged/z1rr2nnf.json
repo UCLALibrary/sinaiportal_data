@@ -33,7 +33,7 @@
         }
       ],
       "dim": "158 x 115 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1w048",
           "label": "Overtext Layer",
@@ -73,36 +73,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1pm37",
-                "reconstruction": false,
-                "label": "Kathismata",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s18p4k",
-                      "pref_title": "Hymns",
-                      "alt_title": [
-                        "Hymns"
-                      ],
-                      "genre": [
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
-                    },
-                    "alt_title": "Kathismata"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1w048"
-                ]
+                "id": "ark:/21198/s1pm37",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1pm37",
+                  "reconstruction": false,
+                  "label": "Kathismata",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s18p4k",
+                        "pref_title": "Hymns",
+                        "alt_title": [
+                          "Hymns"
+                        ],
+                        "genre": [
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "alt_title": "Kathismata"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1w048"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -137,9 +141,11 @@
               "ark:/21198/z1rr2nnf"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1764f",
+          "uto_layer_ark": "ark:/21198/s1764f",
           "label": "Greek Undertext: Psalter",
           "type": {
             "id": "undertext",
@@ -167,7 +173,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s13h0s",
+          "uto_layer_ark": "ark:/21198/s13h0s",
           "label": "Greek Undertext: Psalter",
           "type": {
             "id": "undertext",
@@ -195,7 +201,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1zp89",
+          "uto_layer_ark": "ark:/21198/s1zp89",
           "label": "Greek Undertext: Basil, of Caesarea, Hexaemeron",
           "type": {
             "id": "undertext",
@@ -223,7 +229,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1v06q",
+          "uto_layer_ark": "ark:/21198/s1v06q",
           "label": "Greek Undertext: Psalter",
           "type": {
             "id": "undertext",
@@ -251,7 +257,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1q63d",
+          "uto_layer_ark": "ark:/21198/s1q63d",
           "label": "CPA Undertext: Acta Pilati",
           "type": {
             "id": "undertext",

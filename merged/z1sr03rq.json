@@ -28,7 +28,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1jw2c",
           "label": "Overtext Layer",
@@ -57,51 +57,55 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1ch21",
-                "reconstruction": false,
-                "label": "Old Testament",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1dk55",
-                      "pref_title": "Old Testament",
-                      "alt_title": [
-                        "Bible. Old Testament"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Old Testament",
-                          "uri": "http://viaf.org/viaf/4388149296279480670005",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Old Testament",
-                          "uri": "http://id.loc.gov/authorities/names/n79054379",
-                          "source": "LoC"
-                        }
+                "id": "ark:/21198/s1ch21",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1ch21",
+                  "reconstruction": false,
+                  "label": "Old Testament",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1dk55",
+                        "pref_title": "Old Testament",
+                        "alt_title": [
+                          "Bible. Old Testament"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Old Testament",
+                            "uri": "http://viaf.org/viaf/4388149296279480670005",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Old Testament",
+                            "uri": "http://id.loc.gov/authorities/names/n79054379",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1v-341r",
+                      "note": [
+                        "Books of Isaiah, Hosea, Joel, Amos, Obadiah, Jonas, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah. Malachi, Jeremiah, the Lamentations of Jeremiah, Ezekiel and Daniel. Also story of Susanna, according to the Septuagint."
                       ]
-                    },
-                    "locus": "ff. 1v-341r",
-                    "note": [
-                      "Books of Isaiah, Hosea, Joel, Amos, Obadiah, Jonas, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah. Malachi, Jeremiah, the Lamentations of Jeremiah, Ezekiel and Daniel. Also story of Susanna, according to the Septuagint."
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1jw2c"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1jw2c"
+                  ]
+                }
               }
             ],
             "assoc_date": [

@@ -31,7 +31,7 @@
         }
       ],
       "dim": "236 x 181 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1x32v",
           "label": "Overtext Layer",
@@ -67,40 +67,44 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1qq26",
-                "reconstruction": false,
-                "label": "Index of Lections",
-                "lang": [
-                  {
-                    "id": "chri1239",
-                    "label": "CPA"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Index of Lections",
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s1qq26",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1qq26",
+                  "reconstruction": false,
+                  "label": "Index of Lections",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
                     }
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "contents",
-                      "label": "Contents Note"
-                    },
-                    "value": "Fol. 2v has the beginnings of an index of lections in CPA"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1x32v"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Index of Lections",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Fol. 2v has the beginnings of an index of lections in CPA"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1x32v"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -135,9 +139,11 @@
               "ark:/21198/z1ft92mh"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1n63s",
+          "uto_layer_ark": "ark:/21198/s1n63s",
           "label": "CPA Undertext: Bible. John",
           "type": {
             "id": "undertext",
@@ -165,7 +171,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1hd1v",
+          "uto_layer_ark": "ark:/21198/s1hd1v",
           "label": "CPA Undertext: Unidentified text",
           "type": {
             "id": "undertext",

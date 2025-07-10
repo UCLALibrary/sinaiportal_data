@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1bc8m",
           "label": "Overtext Layer",
@@ -51,59 +51,63 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s15054",
-                "reconstruction": false,
-                "label": "Pentateuch",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s18w2w",
-                      "pref_title": "Pentateuch",
-                      "alt_title": [
-                        "Bible. Pentateuch"
-                      ],
-                      "genre": [
+                "id": "ark:/21198/s15054",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s15054",
+                  "reconstruction": false,
+                  "label": "Pentateuch",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s18w2w",
+                        "pref_title": "Pentateuch",
+                        "alt_title": [
+                          "Bible. Pentateuch"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Pentateuch",
+                            "uri": "https://viaf.org/viaf/194861095",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Pentateuch",
+                            "uri": "http://id.loc.gov/authorities/names/n79066420",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 2r-266v",
+                      "contents": [
                         {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Pentateuch",
-                          "uri": "https://viaf.org/viaf/194861095",
-                          "source": "VIAF"
+                          "label": "First Book of the Torah, ff. 002r-081r"
                         },
                         {
-                          "label": "Bible. Pentateuch",
-                          "uri": "http://id.loc.gov/authorities/names/n79066420",
-                          "source": "LoC"
+                          "label": "The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 081v-141r"
+                        },
+                        {
+                          "label": "The Third Book of the Torah, ff. 141v  - 178v"
                         }
                       ]
-                    },
-                    "locus": "ff. 2r-266v",
-                    "contents": [
-                      {
-                        "label": "First Book of the Torah, ff. 002r-081r"
-                      },
-                      {
-                        "label": "The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 081v-141r"
-                      },
-                      {
-                        "label": "The Third Book of the Torah, ff. 141v  - 178v"
-                      }
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1bc8m"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1bc8m"
+                  ]
+                }
               }
             ],
             "assoc_date": [

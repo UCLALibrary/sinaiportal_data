@@ -28,7 +28,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1j89t",
           "label": "Overtext Layer",
@@ -57,52 +57,56 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1bw8s",
-                "reconstruction": false,
-                "label": "Evangelion",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s19p4w",
-                      "pref_title": "Evangelion",
-                      "alt_title": [
-                        "Evangelion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
+                "id": "ark:/21198/s1bw8s",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1bw8s",
+                  "reconstruction": false,
+                  "label": "Evangelion",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "alt_title": [
+                          "Evangelion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary (Gospels)",
+                      "locus": "ff. 1v-375v",
+                      "note": [
+                        "With commentary on some lessons by St. John Chrysostom"
                       ]
-                    },
-                    "alt_title": "Lectionary (Gospels)",
-                    "locus": "ff. 1v-375v",
-                    "note": [
-                      "With commentary on some lessons by St. John Chrysostom"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1j89t"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1j89t"
+                  ]
+                }
               }
             ],
             "para": [

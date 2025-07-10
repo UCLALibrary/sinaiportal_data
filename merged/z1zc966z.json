@@ -28,7 +28,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1x604",
           "label": "Overtext Layer",
@@ -57,60 +57,64 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1qq0f",
-                "reconstruction": false,
-                "label": "Prophetologion",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1j30p",
-                      "pref_title": "Prophetologion",
-                      "alt_title": [
-                        "Prophetologion"
-                      ],
-                      "genre": [
+                "id": "ark:/21198/s1qq0f",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1qq0f",
+                  "reconstruction": false,
+                  "label": "Prophetologion",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1j30p",
+                        "pref_title": "Prophetologion",
+                        "alt_title": [
+                          "Prophetologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 2v-131r",
+                      "excerpt": [
                         {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "بسم الاب و الابن و الرّوح القدس الاله الواحد آمين نبتدي بعون الله تعالي [sic] نكتب"
                         },
                         {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "تَمّ كتاب النّبوات بمنّة الاله ربَّ القَوّات"
                         }
                       ]
-                    },
-                    "locus": "ff. 2v-131r",
-                    "excerpt": [
-                      {
-                        "type": {
-                          "id": "incipit",
-                          "label": "Incipit"
-                        },
-                        "as_written": "بسم الاب و الابن و الرّوح القدس الاله الواحد آمين نبتدي بعون الله تعالي [sic] نكتب"
-                      },
-                      {
-                        "type": {
-                          "id": "explicit",
-                          "label": "Explicit"
-                        },
-                        "as_written": "تَمّ كتاب النّبوات بمنّة الاله ربَّ القَوّات"
-                      }
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1x604"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1x604"
+                  ]
+                }
               }
             ],
             "assoc_date": [

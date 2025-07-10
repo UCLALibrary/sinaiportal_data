@@ -33,7 +33,7 @@
         }
       ],
       "dim": "148 x 117 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1ts6b",
           "label": "Overtext Layer",
@@ -69,93 +69,97 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1nd60",
-                "reconstruction": false,
-                "label": "Cyril of Scythopolis, Life of Sabas",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Cyril of Scythopolis, Life of Sabas",
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1w88j",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1w88j",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "Cyril of Scythopolis",
-                            "alt_name": [
-                              "Cyrillus Scythopolitanus",
-                              "Κύριλλος ο Σκυθοπολίτης"
-                            ],
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "floruit": {
-                              "value": "ca. 524 CE-ca. 558 CE",
-                              "iso": {
-                                "not_before": 499,
-                                "not_after": 583
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
-                                "uri": "http://viaf.org/viaf/8181483",
-                                "source": "VIAF"
+                "id": "ark:/21198/s1nd60",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1nd60",
+                  "reconstruction": false,
+                  "label": "Cyril of Scythopolis, Life of Sabas",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Cyril of Scythopolis, Life of Sabas",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1w88j",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1w88j",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
                               },
-                              {
-                                "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
-                                "uri": "https://id.loc.gov/authorities/names/n83228458",
-                                "source": "LoC"
+                              "pref_name": "Cyril of Scythopolis",
+                              "alt_name": [
+                                "Cyrillus Scythopolitanus",
+                                "Κύριλλος ο Σκυθοπολίτης"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
                               },
-                              {
-                                "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
-                                "uri": "https://w3id.org/haf/person/542390235937",
-                                "source": "HAF"
+                              "floruit": {
+                                "value": "ca. 524 CE-ca. 558 CE",
+                                "iso": {
+                                  "not_before": 499,
+                                  "not_after": 583
+                                }
                               },
-                              {
-                                "label": "Cyril of Scythopolis ",
-                                "uri": "http://syriaca.org/person/2806",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Cyrillus Scythopolitanus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/843/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                              "rel_con": [
+                                {
+                                  "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                                  "uri": "http://viaf.org/viaf/8181483",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                                  "uri": "https://id.loc.gov/authorities/names/n83228458",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                                  "uri": "https://w3id.org/haf/person/542390235937",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Cyril of Scythopolis ",
+                                  "uri": "http://syriaca.org/person/2806",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Cyrillus Scythopolitanus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/843/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
                           }
-                        }
-                      ],
-                      "genre": [
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        },
-                        {
-                          "id": "historical-works",
-                          "label": "Historical works"
-                        }
+                        ],
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "Divided into 90 chapters"
                       ]
-                    },
-                    "note": [
-                      "Divided into 90 chapters"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1ts6b"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1ts6b"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -175,9 +179,11 @@
               "ark:/21198/r1vd6wc9"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s19s6p",
+          "uto_layer_ark": "ark:/21198/s19s6p",
           "label": "Undertext: Unidentified Text",
           "type": {
             "id": "undertext",
@@ -192,7 +198,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1635g",
+          "uto_layer_ark": "ark:/21198/s1635g",
           "label": "CPA Undertext: Cyril of Jerusalem, Catecheses",
           "type": {
             "id": "undertext",
@@ -220,7 +226,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s12925",
+          "uto_layer_ark": "ark:/21198/s12925",
           "label": "CPA Undertext: Bible. Matthew",
           "type": {
             "id": "undertext",
@@ -248,7 +254,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1xm08",
+          "uto_layer_ark": "ark:/21198/s1xm08",
           "label": "CPA Undertext: Bible. Luke",
           "type": {
             "id": "undertext",
@@ -276,7 +282,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1ss7d",
+          "uto_layer_ark": "ark:/21198/s1ss7d",
           "label": "CPA Undertext: Bible. John",
           "type": {
             "id": "undertext",
@@ -304,7 +310,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1p366",
+          "uto_layer_ark": "ark:/21198/s1p366",
           "label": "CPA Undertext: Bible. Mark",
           "type": {
             "id": "undertext",

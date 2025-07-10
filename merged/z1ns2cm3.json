@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s17k8r",
           "label": "Overtext Layer",
@@ -51,32 +51,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1266n",
-                "reconstruction": false,
-                "label": "Services",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Services",
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. Fly Leaf 2v-83r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s17k8r"
-                ]
+                "id": "ark:/21198/s1266n",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1266n",
+                  "reconstruction": false,
+                  "label": "Services",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Services",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. Fly Leaf 2v-83r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s17k8r"
+                  ]
+                }
               }
             ],
             "assoc_date": [

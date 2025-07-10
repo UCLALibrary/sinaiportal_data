@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1pw30",
           "label": "Overtext Layer",
@@ -51,55 +51,59 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1hh1w",
-                "reconstruction": false,
-                "label": "Lectionary (Epistles)",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1088g",
-                      "pref_title": "Lectionary",
-                      "alt_title": [
-                        "Lectionary"
-                      ],
-                      "genre": [
+                "id": "ark:/21198/s1hh1w",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1hh1w",
+                  "reconstruction": false,
+                  "label": "Lectionary (Epistles)",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "alt_title": [
+                          "Lectionary"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary (Epistles)",
+                      "locus": "ff. 1r-125v",
+                      "excerpt": [
                         {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 117r",
+                          "as_written": "نبتدي بمعونة الله و حسن توفيقه نكتب"
                         }
                       ]
-                    },
-                    "alt_title": "Lectionary (Epistles)",
-                    "locus": "ff. 1r-125v",
-                    "excerpt": [
-                      {
-                        "type": {
-                          "id": "incipit",
-                          "label": "Incipit"
-                        },
-                        "locus": "f. 117r",
-                        "as_written": "نبتدي بمعونة الله و حسن توفيقه نكتب"
-                      }
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1pw30"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1pw30"
+                  ]
+                }
               }
             ],
             "assoc_date": [

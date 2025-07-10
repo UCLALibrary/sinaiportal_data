@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s13311",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1wm0z",
-                "reconstruction": false,
-                "label": "Synaxarium, Part I",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1h30c",
-                      "pref_title": "Synaxarion",
-                      "alt_title": [
-                        "Synaxarion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Synaxarium, Part I",
-                    "locus": "ff. 1v-206v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s13311"
-                ]
+                "id": "ark:/21198/s1wm0z",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1wm0z",
+                  "reconstruction": false,
+                  "label": "Synaxarium, Part I",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1h30c",
+                        "pref_title": "Synaxarion",
+                        "alt_title": [
+                          "Synaxarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Synaxarium, Part I",
+                      "locus": "ff. 1v-206v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s13311"
+                  ]
+                }
               }
             ],
             "assoc_date": [

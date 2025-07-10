@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s16042",
           "label": "Overtext Layer",
@@ -51,45 +51,49 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s10m31",
-                "reconstruction": false,
-                "label": "Lectionary of Old Testament",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1088g",
-                      "pref_title": "Lectionary",
-                      "alt_title": [
-                        "Lectionary"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Lectionary of Old Testament",
-                    "locus": "ff. 2r-155v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s16042"
-                ]
+                "id": "ark:/21198/s10m31",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s10m31",
+                  "reconstruction": false,
+                  "label": "Lectionary of Old Testament",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "alt_title": [
+                          "Lectionary"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary of Old Testament",
+                      "locus": "ff. 2r-155v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s16042"
+                  ]
+                }
               }
             ],
             "assoc_date": [

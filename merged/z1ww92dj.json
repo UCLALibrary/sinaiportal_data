@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1cs5x",
           "label": "Overtext Layer",
@@ -51,36 +51,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s16d5k",
-                "reconstruction": false,
-                "label": "Lives of Egyptian Fathers",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Lives of Egyptian Fathers",
-                      "genre": [
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        },
-                        {
-                          "id": "historical-works",
-                          "label": "Historical works"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-120v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1cs5x"
-                ]
+                "id": "ark:/21198/s16d5k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s16d5k",
+                  "reconstruction": false,
+                  "label": "Lives of Egyptian Fathers",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Lives of Egyptian Fathers",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-120v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1cs5x"
+                  ]
+                }
               }
             ],
             "assoc_date": [

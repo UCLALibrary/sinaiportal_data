@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1rs4z",
           "label": "Overtext Layer",
@@ -54,41 +54,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1k94k",
-                "reconstruction": false,
-                "label": "Menologion. For the months of February, March and April",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion. For the months of February, March and April",
-                    "locus": "ff. 1r-309v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1rs4z"
-                ]
+                "id": "ark:/21198/s1k94k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1k94k",
+                  "reconstruction": false,
+                  "label": "Menologion. For the months of February, March and April",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menologion. For the months of February, March and April",
+                      "locus": "ff. 1r-309v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1rs4z"
+                  ]
+                }
               }
             ],
             "assoc_date": [

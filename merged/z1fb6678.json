@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1402p",
           "label": "Overtext Layer",
@@ -51,44 +51,48 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1xm1n",
-                "reconstruction": false,
-                "label": "Menologion for the month of Ab ",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
+                "id": "ark:/21198/s1xm1n",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1xm1n",
+                  "reconstruction": false,
+                  "label": "Menologion for the month of Ab ",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menologion for the month of Ab ",
+                      "locus": "ff. 1r-201r",
+                      "note": [
+                        "Menologion written by Eusebius for the month of Ab, beginning on the 4th with the martyrdom of the Seven Saints of Ephesus and ending on the 31st by the Mimar of St. Germanus"
                       ]
-                    },
-                    "alt_title": "Menologion for the month of Ab ",
-                    "locus": "ff. 1r-201r",
-                    "note": [
-                      "Menologion written by Eusebius for the month of Ab, beginning on the 4th with the martyrdom of the Seven Saints of Ephesus and ending on the 31st by the Mimar of St. Germanus"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1402p"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1402p"
+                  ]
+                }
               }
             ],
             "assoc_date": [

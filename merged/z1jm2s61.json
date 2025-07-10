@@ -33,7 +33,7 @@
         }
       ],
       "dim": "128 x 110 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1s618",
           "label": "Overtext Layer",
@@ -69,35 +69,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1kt07",
-                "reconstruction": false,
-                "label": "Prayers for vespers and matins",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Prayers for vespers and matins",
-                      "genre": [
-                        {
-                          "id": "prayers",
-                          "label": "Prayers"
-                        },
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s1kt07",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1kt07",
+                  "reconstruction": false,
+                  "label": "Prayers for vespers and matins",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1s618"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Prayers for vespers and matins",
+                        "genre": [
+                          {
+                            "id": "prayers",
+                            "label": "Prayers"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1s618"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -117,9 +121,11 @@
               "ark:/21198/z1jm2s61"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s11p8x",
+          "uto_layer_ark": "ark:/21198/s11p8x",
           "label": "Greek Undertext: Typikon",
           "type": {
             "id": "undertext",
@@ -148,7 +154,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1ww60",
+          "uto_layer_ark": "ark:/21198/s1ww60",
           "label": "Latin Undertext: Hymns",
           "type": {
             "id": "undertext",

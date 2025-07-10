@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1xg7j",
           "label": "Overtext Layer",
@@ -51,45 +51,49 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1r342",
-                "reconstruction": false,
-                "label": "Lectionary (Gospels and Epistles)",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1088g",
-                      "pref_title": "Lectionary",
-                      "alt_title": [
-                        "Lectionary"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Lectionary (Gospels and Epistles)",
-                    "locus": "ff. 1r-303r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1xg7j"
-                ]
+                "id": "ark:/21198/s1r342",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1r342",
+                  "reconstruction": false,
+                  "label": "Lectionary (Gospels and Epistles)",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "alt_title": [
+                          "Lectionary"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary (Gospels and Epistles)",
+                      "locus": "ff. 1r-303r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1xg7j"
+                  ]
+                }
               }
             ],
             "assoc_date": [

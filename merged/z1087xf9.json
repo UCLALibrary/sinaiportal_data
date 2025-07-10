@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s17k94",
           "label": "Overtext Layer",
@@ -54,39 +54,43 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s15x0j",
-                "reconstruction": false,
-                "label": "Euchologion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tp4j",
-                      "pref_title": "Euchologion",
-                      "alt_title": [
-                        "Euchologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
+                "id": "ark:/21198/s15x0j",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s15x0j",
+                  "reconstruction": false,
+                  "label": "Euchologion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tp4j",
+                        "pref_title": "Euchologion",
+                        "alt_title": [
+                          "Euchologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-10v",
+                      "note": [
+                        "Long euchologue, with the eleven Resurrection Gospels"
                       ]
-                    },
-                    "locus": "ff. 1r-10v",
-                    "note": [
-                      "Long euchologue, with the eleven Resurrection Gospels"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s17k94"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s17k94"
+                  ]
+                }
               }
             ],
             "assoc_date": [

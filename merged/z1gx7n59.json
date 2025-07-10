@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1vg9p",
           "label": "Overtext Layer",
@@ -51,49 +51,53 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1p07j",
-                "reconstruction": false,
-                "label": "Synaxarion",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1h30c",
-                      "pref_title": "Synaxarion",
-                      "alt_title": [
-                        "Synaxarion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-8v "
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "contents",
-                      "label": "Contents Note"
-                    },
-                    "value": "Synaxarion dedicated at Mount Sinai. First and Fourteenth of September (Elul)"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1vg9p"
-                ]
+                "id": "ark:/21198/s1p07j",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1p07j",
+                  "reconstruction": false,
+                  "label": "Synaxarion",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1h30c",
+                        "pref_title": "Synaxarion",
+                        "alt_title": [
+                          "Synaxarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-8v "
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Synaxarion dedicated at Mount Sinai. First and Fourteenth of September (Elul)"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1vg9p"
+                  ]
+                }
               }
             ],
             "parent": [

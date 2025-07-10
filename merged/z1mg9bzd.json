@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1r329",
           "label": "Overtext Layer",
@@ -54,32 +54,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1jq18",
-                "reconstruction": false,
-                "label": "Mimars by St. Jacob",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Mimars by St. Jacob",
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-6v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1r329"
-                ]
+                "id": "ark:/21198/s1jq18",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1jq18",
+                  "reconstruction": false,
+                  "label": "Mimars by St. Jacob",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Mimars by St. Jacob",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-6v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1r329"
+                  ]
+                }
               }
             ],
             "assoc_date": [

@@ -33,7 +33,7 @@
         }
       ],
       "dim": "223 x 150 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s14k7f",
           "label": "Overtext Layer",
@@ -73,32 +73,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1z372",
-                "reconstruction": false,
-                "label": "Hagiographica",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Hagiographica",
-                      "genre": [
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1ar-175v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s14k7f"
-                ]
+                "id": "ark:/21198/s1z372",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1z372",
+                  "reconstruction": false,
+                  "label": "Hagiographica",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Hagiographica",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1ar-175v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s14k7f"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -118,9 +122,11 @@
               "ark:/21198/z1bc4wfw"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1gw5w",
+          "uto_layer_ark": "ark:/21198/s1gw5w",
           "label": "Syriac Undertext: Herbal",
           "type": {
             "id": "undertext",
@@ -148,7 +154,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1c639",
+          "uto_layer_ark": "ark:/21198/s1c639",
           "label": "Syriac Undertext: Bible. Zechariah",
           "type": {
             "id": "undertext",
@@ -176,7 +182,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s17d00",
+          "uto_layer_ark": "ark:/21198/s17d00",
           "label": "Arabic Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -204,7 +210,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s13p8j",
+          "uto_layer_ark": "ark:/21198/s13p8j",
           "label": "Syriac Undertext: Bible. Timothy",
           "type": {
             "id": "undertext",
@@ -232,7 +238,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1zw57",
+          "uto_layer_ark": "ark:/21198/s1zw57",
           "label": "Syriac Undertext: Unidentified liturgical text",
           "type": {
             "id": "undertext",
@@ -260,7 +266,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1v641",
+          "uto_layer_ark": "ark:/21198/s1v641",
           "label": "Syriac Undertext: Bible. John",
           "type": {
             "id": "undertext",
@@ -288,7 +294,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1qd1q",
+          "uto_layer_ark": "ark:/21198/s1qd1q",
           "label": "Syriac Undertext: Bible. Matthew",
           "type": {
             "id": "undertext",
@@ -316,7 +322,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1kp8w",
+          "uto_layer_ark": "ark:/21198/s1kp8w",
           "label": "Syriac Undertext: Numbers",
           "type": {
             "id": "undertext",
@@ -344,7 +350,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1fw6z",
+          "uto_layer_ark": "ark:/21198/s1fw6z",
           "label": "Syriac Undertext: Bible. Thessalonians",
           "type": {
             "id": "undertext",
@@ -372,7 +378,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1b64c",
+          "uto_layer_ark": "ark:/21198/s1b64c",
           "label": "Syriac Undertext: Bible. Daniel",
           "type": {
             "id": "undertext",
@@ -400,7 +406,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s16d2f",
+          "uto_layer_ark": "ark:/21198/s16d2f",
           "label": "Syriac Undertext: Bible. Samuel",
           "type": {
             "id": "undertext",
@@ -428,7 +434,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s12p87",
+          "uto_layer_ark": "ark:/21198/s12p87",
           "label": "Syriac Undertext: Judith",
           "type": {
             "id": "undertext",
@@ -456,7 +462,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1z04w",
+          "uto_layer_ark": "ark:/21198/s1z04w",
           "label": "Syriac Undertext: Jacob, of Serug, Ninth Homily on Joseph",
           "type": {
             "id": "undertext",
@@ -484,7 +490,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1t63b",
+          "uto_layer_ark": "ark:/21198/s1t63b",
           "label": "Syriac Undertext: Departure of Mary",
           "type": {
             "id": "undertext",
@@ -512,7 +518,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1pg94",
+          "uto_layer_ark": "ark:/21198/s1pg94",
           "label": "Syriac Undertext: Extracts from the Church Fathers",
           "type": {
             "id": "undertext",
@@ -540,7 +546,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1jp76",
+          "uto_layer_ark": "ark:/21198/s1jp76",
           "label": "Syriac Undertext: Unidentified biblical or theological text",
           "type": {
             "id": "undertext",
@@ -568,7 +574,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1f05m",
+          "uto_layer_ark": "ark:/21198/s1f05m",
           "label": "Greek Undertext: Funeral Service",
           "type": {
             "id": "undertext",
@@ -597,7 +603,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s19629",
+          "uto_layer_ark": "ark:/21198/s19629",
           "label": "Syriac Undertext: Bible. Acts",
           "type": {
             "id": "undertext",
@@ -625,7 +631,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s15h0d",
+          "uto_layer_ark": "ark:/21198/s15h0d",
           "label": "Syriac Undertext: Hymn with Verses from the Old Testament",
           "type": {
             "id": "undertext",
@@ -653,7 +659,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s11p7j",
+          "uto_layer_ark": "ark:/21198/s11p7j",
           "label": "Syriac Undertext: Ignatius of Antioch, Epistles",
           "type": {
             "id": "undertext",
@@ -681,7 +687,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1x06b",
+          "uto_layer_ark": "ark:/21198/s1x06b",
           "label": "Syriac Undertext: Ephrem the Syrian, Against the Jews (?)",
           "type": {
             "id": "undertext",
@@ -709,7 +715,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1s631",
+          "uto_layer_ark": "ark:/21198/s1s631",
           "label": "Syriac Undertext: Maʿnīthā (Hymns)",
           "type": {
             "id": "undertext",
@@ -737,7 +743,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1nh0r",
+          "uto_layer_ark": "ark:/21198/s1nh0r",
           "label": "Syriac Undertext: Hebrews",
           "type": {
             "id": "undertext",
@@ -765,7 +771,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1hp88",
+          "uto_layer_ark": "ark:/21198/s1hp88",
           "label": "Syriac Undertext: Bible. John",
           "type": {
             "id": "undertext",
@@ -793,7 +799,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1d06p",
+          "uto_layer_ark": "ark:/21198/s1d06p",
           "label": "Syriac Undertext: Passio of Sergius and Bacchus",
           "type": {
             "id": "undertext",
@@ -821,7 +827,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1864r",
+          "uto_layer_ark": "ark:/21198/s1864r",
           "label": "Syriac Undertext: Euchologion",
           "type": {
             "id": "undertext",
@@ -849,7 +855,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s14h03",
+          "uto_layer_ark": "ark:/21198/s14h03",
           "label": "Syriac Undertext: Bible. Matthew",
           "type": {
             "id": "undertext",
@@ -877,7 +883,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s10s6w",
+          "uto_layer_ark": "ark:/21198/s10s6w",
           "label": "Syriac Undertext: Gospel of James (Apocrypha)",
           "type": {
             "id": "undertext",
@@ -905,7 +911,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1w05n",
+          "uto_layer_ark": "ark:/21198/s1w05n",
           "label": "Syriac Undertext: Ephesians",
           "type": {
             "id": "undertext",
@@ -933,7 +939,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1r910",
+          "uto_layer_ark": "ark:/21198/s1r910",
           "label": "Syriac Undertext: Ritual for Easter (?)",
           "type": {
             "id": "undertext",
@@ -960,7 +966,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1mg9h",
+          "uto_layer_ark": "ark:/21198/s1mg9h",
           "label": "Syriac Undertext: Colossians",
           "type": {
             "id": "undertext",

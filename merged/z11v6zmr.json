@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s14c7c",
           "label": "Overtext Layer",
@@ -51,47 +51,51 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1z06n",
-                "reconstruction": false,
-                "label": "Lectionary",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1088g",
-                      "pref_title": "Lectionary",
-                      "alt_title": [
-                        "Lectionary"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
+                "id": "ark:/21198/s1z06n",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1z06n",
+                  "reconstruction": false,
+                  "label": "Lectionary",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "alt_title": [
+                          "Lectionary"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-352v",
+                      "note": [
+                        "Gospel lectionary followed by table of Gospel readings for the year, the Canons of Ammonius of Alexandria and Eusebius of Caesarea, and tables of Gospel Concordance"
                       ]
-                    },
-                    "locus": "ff. 1r-352v",
-                    "note": [
-                      "Gospel lectionary followed by table of Gospel readings for the year, the Canons of Ammonius of Alexandria and Eusebius of Caesarea, and tables of Gospel Concordance"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s14c7c"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s14c7c"
+                  ]
+                }
               }
             ],
             "assoc_date": [

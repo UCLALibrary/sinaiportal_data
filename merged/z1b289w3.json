@@ -33,7 +33,7 @@
         }
       ],
       "dim": "172 x 113 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1ng9t",
           "label": "Overtext Layer",
@@ -72,35 +72,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1g37q",
-                "reconstruction": false,
-                "label": "Horologion",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1dg6h",
-                      "pref_title": "Horologion",
-                      "alt_title": [
-                        "Horologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s1g37q",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1g37q",
+                  "reconstruction": false,
+                  "label": "Horologion",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1ng9t"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1dg6h",
+                        "pref_title": "Horologion",
+                        "alt_title": [
+                          "Horologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1ng9t"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -120,9 +124,11 @@
               "ark:/21198/z1b289w3"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1s64d",
+          "uto_layer_ark": "ark:/21198/s1s64d",
           "label": "Ge'ez Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -150,7 +156,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1nd13",
+          "uto_layer_ark": "ark:/21198/s1nd13",
           "label": "Ge'ez Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -178,7 +184,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1hp9n",
+          "uto_layer_ark": "ark:/21198/s1hp9n",
           "label": "Ge'ez Undertext: Horologion",
           "type": {
             "id": "undertext",

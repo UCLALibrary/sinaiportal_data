@@ -32,7 +32,7 @@
         }
       ],
       "dim": "89 x 79 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1c037",
           "label": "Overtext Layer",
@@ -68,49 +68,55 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s15m26",
-                "reconstruction": false,
-                "label": "Psalterium Demetrii Sinaitici",
-                "lang": [
-                  {
-                    "id": "chur1257",
-                    "label": "Church Slavonic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1d886",
-                      "pref_title": "Psalter",
-                      "alt_title": [
-                        "Psalter"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Psalterium Demetrii Sinaitici"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1c037"
-                ]
+                "id": "ark:/21198/s15m26",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s15m26",
+                  "reconstruction": false,
+                  "label": "Psalterium Demetrii Sinaitici",
+                  "lang": [
+                    {
+                      "id": "chur1257",
+                      "label": "Church Slavonic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1d886",
+                        "pref_title": "Psalter",
+                        "alt_title": [
+                          "Psalter"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Psalterium Demetrii Sinaitici"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1c037"
+                  ]
+                }
               }
             ],
             "parent": [
               "ark:/21198/z1rb7dmv"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1906r",
+          "uto_layer_ark": "ark:/21198/s1906r",
           "label": "Church Slavonic Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -138,7 +144,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s15923",
+          "uto_layer_ark": "ark:/21198/s15923",
           "label": "Church Slavonic Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -166,7 +172,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s11h05",
+          "uto_layer_ark": "ark:/21198/s11h05",
           "label": "Latin Undertext: Unidentified text",
           "type": {
             "id": "undertext",

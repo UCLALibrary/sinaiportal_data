@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1105w",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1th56",
-                "reconstruction": false,
-                "label": "Menologion (month of Ab)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion (month of Ab)",
-                    "locus": "ff. 1r-260v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1105w"
-                ]
+                "id": "ark:/21198/s1th56",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1th56",
+                  "reconstruction": false,
+                  "label": "Menologion (month of Ab)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menologion (month of Ab)",
+                      "locus": "ff. 1r-260v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1105w"
+                  ]
+                }
               }
             ],
             "para": [

@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s19k6m",
           "label": "Overtext Layer",
@@ -51,37 +51,41 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1464h",
-                "reconstruction": false,
-                "label": "Horologion according to Coptic rite",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1dg6h",
-                      "pref_title": "Horologion",
-                      "alt_title": [
-                        "Horologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Horologion according to Coptic rite",
-                    "locus": "ff. 1v-165v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s19k6m"
-                ]
+                "id": "ark:/21198/s1464h",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1464h",
+                  "reconstruction": false,
+                  "label": "Horologion according to Coptic rite",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1dg6h",
+                        "pref_title": "Horologion",
+                        "alt_title": [
+                          "Horologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Horologion according to Coptic rite",
+                      "locus": "ff. 1v-165v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s19k6m"
+                  ]
+                }
               }
             ],
             "assoc_date": [

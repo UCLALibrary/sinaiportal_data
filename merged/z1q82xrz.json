@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1vs6n",
           "label": "Overtext Layer",
@@ -51,49 +51,53 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1pd5x",
-                "reconstruction": false,
-                "label": "Kings",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1q307",
-                      "pref_title": "Kings",
-                      "alt_title": [
-                        "Bible. Kings"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Kings",
-                          "uri": "http://viaf.org/viaf/177005732",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Kings",
-                          "uri": "http://id.loc.gov/authorities/names/n82066851",
-                          "source": "LoC"
-                        }
-                      ]
-                    },
-                    "alt_title": "Book of Kings",
-                    "locus": "ff. 1r-97v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1vs6n"
-                ]
+                "id": "ark:/21198/s1pd5x",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1pd5x",
+                  "reconstruction": false,
+                  "label": "Kings",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1q307",
+                        "pref_title": "Kings",
+                        "alt_title": [
+                          "Bible. Kings"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Kings",
+                            "uri": "http://viaf.org/viaf/177005732",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Kings",
+                            "uri": "http://id.loc.gov/authorities/names/n82066851",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Book of Kings",
+                      "locus": "ff. 1r-97v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1vs6n"
+                  ]
+                }
               }
             ],
             "assoc_date": [

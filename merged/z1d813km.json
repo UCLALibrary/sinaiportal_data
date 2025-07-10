@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1ms7v",
           "label": "Overtext Layer",
@@ -51,37 +51,41 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1k39d",
-                "reconstruction": false,
-                "label": "Horologion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1dg6h",
-                      "pref_title": "Horologion",
-                      "alt_title": [
-                        "Horologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Book of Hours",
-                    "locus": "ff. 1r-18v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1ms7v"
-                ]
+                "id": "ark:/21198/s1k39d",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1k39d",
+                  "reconstruction": false,
+                  "label": "Horologion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1dg6h",
+                        "pref_title": "Horologion",
+                        "alt_title": [
+                          "Horologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Book of Hours",
+                      "locus": "ff. 1r-18v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1ms7v"
+                  ]
+                }
               }
             ],
             "parent": [

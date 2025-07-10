@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1gg8w",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1909w",
-                "reconstruction": false,
-                "label": "Menologion (1st Ilūl - 29 Ab)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion (1st Ilūl - 29 Ab)",
-                    "locus": "ff. 1r-345v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1gg8w"
-                ]
+                "id": "ark:/21198/s1909w",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1909w",
+                  "reconstruction": false,
+                  "label": "Menologion (1st Ilūl - 29 Ab)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menologion (1st Ilūl - 29 Ab)",
+                      "locus": "ff. 1r-345v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1gg8w"
+                  ]
+                }
               }
             ],
             "assoc_date": [

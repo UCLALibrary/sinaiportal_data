@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1vg89",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1p37k",
-                "reconstruction": false,
-                "label": "Synaxarium. Part 1, from months of Ilul (September) to Shbat (February)",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1h30c",
-                      "pref_title": "Synaxarion",
-                      "alt_title": [
-                        "Synaxarion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Synaxarium. First part of Synaxarium from months of Ilul (September) to Shbat (February)",
-                    "locus": "ff. 1r-164r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1vg89"
-                ]
+                "id": "ark:/21198/s1p37k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1p37k",
+                  "reconstruction": false,
+                  "label": "Synaxarium. Part 1, from months of Ilul (September) to Shbat (February)",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1h30c",
+                        "pref_title": "Synaxarion",
+                        "alt_title": [
+                          "Synaxarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Synaxarium. First part of Synaxarium from months of Ilul (September) to Shbat (February)",
+                      "locus": "ff. 1r-164r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1vg89"
+                  ]
+                }
               }
             ],
             "para": [

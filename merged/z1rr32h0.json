@@ -28,7 +28,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s10g6s",
           "label": "Overtext Layer",
@@ -65,58 +65,62 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1t352",
-                "reconstruction": false,
-                "label": "Evangelion",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s19p4w",
-                      "pref_title": "Evangelion",
-                      "alt_title": [
-                        "Evangelion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Lectionary (Gospels)",
-                    "locus": "ff. 2v-283v"
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "contents",
-                      "label": "Contents Note"
-                    },
-                    "value": "Tables of contents on ff. 284r-285v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s10g6s"
-                ]
+                "id": "ark:/21198/s1t352",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1t352",
+                  "reconstruction": false,
+                  "label": "Evangelion",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "alt_title": [
+                          "Evangelion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary (Gospels)",
+                      "locus": "ff. 2v-283v"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Tables of contents on ff. 284r-285v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s10g6s"
+                  ]
+                }
               }
             ],
             "para": [

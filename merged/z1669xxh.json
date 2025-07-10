@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s18g9d",
           "label": "Overtext Layer",
@@ -51,36 +51,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s13091",
-                "reconstruction": false,
-                "label": "Euchologion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tp4j",
-                      "pref_title": "Euchologion",
-                      "alt_title": [
-                        "Euchologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1ar-188v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s18g9d"
-                ]
+                "id": "ark:/21198/s13091",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s13091",
+                  "reconstruction": false,
+                  "label": "Euchologion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tp4j",
+                        "pref_title": "Euchologion",
+                        "alt_title": [
+                          "Euchologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1ar-188v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s18g9d"
+                  ]
+                }
               }
             ],
             "para": [

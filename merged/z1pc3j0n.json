@@ -33,7 +33,7 @@
         }
       ],
       "dim": "226 x 158 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1d326",
           "label": "Overtext Layer",
@@ -69,29 +69,33 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s16q2j",
-                "reconstruction": false,
-                "label": "Apostolos",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1c01g",
-                      "pref_title": "Apostolos",
-                      "alt_title": [
-                        "Apostolos"
-                      ]
+                "id": "ark:/21198/s16q2j",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s16q2j",
+                  "reconstruction": false,
+                  "label": "Apostolos",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1d326"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1c01g",
+                        "pref_title": "Apostolos",
+                        "alt_title": [
+                          "Apostolos"
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1d326"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -117,9 +121,11 @@
               "ark:/21198/z1pc3j0n"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1vp8c",
+          "uto_layer_ark": "ark:/21198/s1vp8c",
           "label": "Georgian Undertext: Lectionary",
           "type": {
             "id": "undertext",
@@ -147,7 +153,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1r041",
+          "uto_layer_ark": "ark:/21198/s1r041",
           "label": "Georgian Undertext: Mravaltavi",
           "type": {
             "id": "undertext",
@@ -175,7 +181,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1m623",
+          "uto_layer_ark": "ark:/21198/s1m623",
           "label": "Georgian Undertext: Iadgari",
           "type": {
             "id": "undertext",

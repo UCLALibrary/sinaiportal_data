@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1760x",
           "label": "Overtext Layer",
@@ -51,62 +51,66 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s11p99",
-                "reconstruction": false,
-                "label": "Four Gospels",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s10k5f",
-                      "pref_title": "Gospels",
-                      "alt_title": [
-                        "Bible. Gospels"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Gospels ",
-                          "uri": "https://viaf.org/viaf/317284260",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Gospels",
-                          "uri": "http://id.loc.gov/authorities/names/n79063688",
-                          "source": "LoC"
-                        }
+                "id": "ark:/21198/s11p99",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s11p99",
+                  "reconstruction": false,
+                  "label": "Four Gospels",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s10k5f",
+                        "pref_title": "Gospels",
+                        "alt_title": [
+                          "Bible. Gospels"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Gospels ",
+                            "uri": "https://viaf.org/viaf/317284260",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Gospels",
+                            "uri": "http://id.loc.gov/authorities/names/n79063688",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Four Gospels",
+                      "locus": "ff. 4v-267v",
+                      "note": [
+                        "Tables of contents follow each gospel, with the exception of Matthew, ff. 106v-107r,196r-197r, 267v"
                       ]
-                    },
-                    "alt_title": "Four Gospels",
-                    "locus": "ff. 4v-267v",
-                    "note": [
-                      "Tables of contents follow each gospel, with the exception of Matthew, ff. 106v-107r,196r-197r, 267v"
-                    ]
-                  }
-                ],
-                "features": [
-                  {
-                    "id": "toc",
-                    "label": "Table(s) of Contents"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1760x"
-                ]
+                    }
+                  ],
+                  "features": [
+                    {
+                      "id": "toc",
+                      "label": "Table(s) of Contents"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1760x"
+                  ]
+                }
               }
             ],
             "assoc_date": [

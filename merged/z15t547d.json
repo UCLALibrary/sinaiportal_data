@@ -28,7 +28,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1561p",
           "label": "Overtext Layer",
@@ -57,43 +57,47 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1zq10",
-                "reconstruction": false,
-                "label": "Heirmologion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1sp47",
-                      "pref_title": "Heirmologion",
-                      "alt_title": [
-                        "Heirmologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Heirmologion",
-                          "uri": "http://viaf.org/viaf/213239652",
-                          "source": "VIAF"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-155v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1561p"
-                ]
+                "id": "ark:/21198/s1zq10",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1zq10",
+                  "reconstruction": false,
+                  "label": "Heirmologion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1sp47",
+                        "pref_title": "Heirmologion",
+                        "alt_title": [
+                          "Heirmologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Heirmologion",
+                            "uri": "http://viaf.org/viaf/213239652",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-155v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1561p"
+                  ]
+                }
               }
             ],
             "assoc_date": [

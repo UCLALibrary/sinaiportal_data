@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1z03h",
           "label": "Overtext Layer",
@@ -51,45 +51,49 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1rm2g",
-                "reconstruction": false,
-                "label": "Psalms 3 : 7-53-6",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1088g",
-                      "pref_title": "Lectionary",
-                      "alt_title": [
-                        "Lectionary"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Lectionary of Old Testament",
-                    "locus": "ff. 1r-214r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1z03h"
-                ]
+                "id": "ark:/21198/s1rm2g",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1rm2g",
+                  "reconstruction": false,
+                  "label": "Psalms 3 : 7-53-6",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "alt_title": [
+                          "Lectionary"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary of Old Testament",
+                      "locus": "ff. 1r-214r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1z03h"
+                  ]
+                }
               }
             ],
             "para": [

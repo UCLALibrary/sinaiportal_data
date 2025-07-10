@@ -32,7 +32,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1zg9m",
           "label": "Overtext Layer",
@@ -61,41 +61,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1s097",
-                "reconstruction": false,
-                "label": "Menologion (month of Hazīrān)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion (month of Hazīrān)",
-                    "locus": "ff. 1r-236v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1zg9m"
-                ]
+                "id": "ark:/21198/s1s097",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1s097",
+                  "reconstruction": false,
+                  "label": "Menologion (month of Hazīrān)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menologion (month of Hazīrān)",
+                      "locus": "ff. 1r-236v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1zg9m"
+                  ]
+                }
               }
             ],
             "para": [

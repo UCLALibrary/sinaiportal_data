@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1xk7k",
           "label": "Overtext Layer",
@@ -51,35 +51,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1r36t",
-                "reconstruction": false,
-                "label": "Canons of Pope Clement | Canons of the Oecumenical Councils",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Canons of Pope Clement | Canons of the Oecumenical Councils",
-                      "genre": [
-                        {
-                          "id": "canon-law",
-                          "label": "Canon law"
-                        }
+                "id": "ark:/21198/s1r36t",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1r36t",
+                  "reconstruction": false,
+                  "label": "Canons of Pope Clement | Canons of the Oecumenical Councils",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Canons of Pope Clement | Canons of the Oecumenical Councils",
+                        "genre": [
+                          {
+                            "id": "canon-law",
+                            "label": "Canon law"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-85r",
+                      "note": [
+                        "Canons of Pope Clement together with some of the Canons of the Oecumenical Councils beginning with the second Council convened at Constantinople"
                       ]
-                    },
-                    "locus": "ff. 1r-85r",
-                    "note": [
-                      "Canons of Pope Clement together with some of the Canons of the Oecumenical Councils beginning with the second Council convened at Constantinople"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1xk7k"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1xk7k"
+                  ]
+                }
               }
             ],
             "assoc_date": [

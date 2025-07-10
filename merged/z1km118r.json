@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1n32c",
           "label": "Overtext Layer",
@@ -51,35 +51,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1fq0z",
-                "reconstruction": false,
-                "label": "Account book",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Account book",
-                      "genre": [
-                        {
-                          "id": "account-books",
-                          "label": "Account books"
-                        }
+                "id": "ark:/21198/s1fq0z",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1fq0z",
+                  "reconstruction": false,
+                  "label": "Account book",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Account book",
+                        "genre": [
+                          {
+                            "id": "account-books",
+                            "label": "Account books"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 2v-99r",
+                      "note": [
+                        "Consists of a record of arrival of couriers, receipt of goods and chattels, payments, some current affairs and a considerable number of treaties with the Arab tribes of Mt. Sinai"
                       ]
-                    },
-                    "locus": "ff. 2v-99r",
-                    "note": [
-                      "Consists of a record of arrival of couriers, receipt of goods and chattels, payments, some current affairs and a considerable number of treaties with the Arab tribes of Mt. Sinai"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1n32c"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1n32c"
+                  ]
+                }
               }
             ],
             "para": [

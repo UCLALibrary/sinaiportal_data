@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1m03d",
           "label": "Overtext Layer",
@@ -51,51 +51,55 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1dm10",
-                "reconstruction": false,
-                "label": "Synaxarium, Part I,  from the months of Ilul to Shbat",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1h30c",
-                      "pref_title": "Synaxarion",
-                      "alt_title": [
-                        "Synaxarion"
-                      ],
-                      "genre": [
+                "id": "ark:/21198/s1dm10",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1dm10",
+                  "reconstruction": false,
+                  "label": "Synaxarium, Part I,  from the months of Ilul to Shbat",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1h30c",
+                        "pref_title": "Synaxarion",
+                        "alt_title": [
+                          "Synaxarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Synaxarium, Part I of Synaxarium from the months of Ilul to Shbat",
+                      "locus": "ff. 1r-199r",
+                      "excerpt": [
                         {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 199r",
+                          "as_written": "نجز"
                         }
                       ]
-                    },
-                    "alt_title": "Synaxarium, Part I of Synaxarium from the months of Ilul to Shbat",
-                    "locus": "ff. 1r-199r",
-                    "excerpt": [
-                      {
-                        "type": {
-                          "id": "explicit",
-                          "label": "Explicit"
-                        },
-                        "locus": "f. 199r",
-                        "as_written": "نجز"
-                      }
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1m03d"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1m03d"
+                  ]
+                }
               }
             ],
             "assoc_date": [

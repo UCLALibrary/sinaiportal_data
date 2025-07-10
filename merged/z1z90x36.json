@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1bs60",
           "label": "Overtext Layer",
@@ -51,32 +51,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s15d4w",
-                "reconstruction": false,
-                "label": "Calendar for determining dates of Lent and Feasts from 1409 to 11938 A.D.",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Calendar for determining dates of Lent and Feasts from 1409 to 11938 A.D.",
-                      "genre": [
-                        {
-                          "id": "calendars",
-                          "label": "Calendars"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-153v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1bs60"
-                ]
+                "id": "ark:/21198/s15d4w",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s15d4w",
+                  "reconstruction": false,
+                  "label": "Calendar for determining dates of Lent and Feasts from 1409 to 11938 A.D.",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Calendar for determining dates of Lent and Feasts from 1409 to 11938 A.D.",
+                        "genre": [
+                          {
+                            "id": "calendars",
+                            "label": "Calendars"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-153v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1bs60"
+                  ]
+                }
               }
             ],
             "assoc_date": [

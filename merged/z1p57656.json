@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s14c94",
           "label": "Overtext Layer",
@@ -51,36 +51,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1z08d",
-                "reconstruction": false,
-                "label": "Pentekostarion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1x88v",
-                      "pref_title": "Pentekostarion",
-                      "alt_title": [
-                        "Pentekostarion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1br-262r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s14c94"
-                ]
+                "id": "ark:/21198/s1z08d",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1z08d",
+                  "reconstruction": false,
+                  "label": "Pentekostarion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1x88v",
+                        "pref_title": "Pentekostarion",
+                        "alt_title": [
+                          "Pentekostarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1br-262r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s14c94"
+                  ]
+                }
               }
             ],
             "assoc_date": [

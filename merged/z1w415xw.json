@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s17p61",
           "label": "Overtext Layer",
@@ -51,50 +51,54 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1294x",
-                "reconstruction": false,
-                "label": "Miracles and teachings of St. Simeon",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Miracles and teachings of St. Simeon",
-                      "genre": [
+                "id": "ark:/21198/s1294x",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1294x",
+                  "reconstruction": false,
+                  "label": "Miracles and teachings of St. Simeon",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Miracles and teachings of St. Simeon",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-22v",
+                      "contents": [
                         {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
+                          "label": "Miracles of St. Simeon, number 9-16"
                         },
                         {
-                          "id": "theological-works",
-                          "label": "Theological works"
+                          "label": "Excerpt from the teaching of St. Simeon"
+                        },
+                        {
+                          "label": "Miracles of St. Simeon, numbers 172-202"
+                        },
+                        {
+                          "label": "Testament of St. Simeon"
                         }
                       ]
-                    },
-                    "locus": "ff. 1r-22v",
-                    "contents": [
-                      {
-                        "label": "Miracles of St. Simeon, number 9-16"
-                      },
-                      {
-                        "label": "Excerpt from the teaching of St. Simeon"
-                      },
-                      {
-                        "label": "Miracles of St. Simeon, numbers 172-202"
-                      },
-                      {
-                        "label": "Testament of St. Simeon"
-                      }
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s17p61"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s17p61"
+                  ]
+                }
               }
             ],
             "parent": [

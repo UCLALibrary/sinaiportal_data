@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s11s5t",
           "label": "Overtext Layer",
@@ -51,37 +51,41 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1vd2b",
-                "reconstruction": false,
-                "label": "Book of Liturgy (Euchologia)",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tp4j",
-                      "pref_title": "Euchologion",
-                      "alt_title": [
-                        "Euchologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Book of Liturgy (Euchologia)",
-                    "locus": "ff. 2v-243r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s11s5t"
-                ]
+                "id": "ark:/21198/s1vd2b",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1vd2b",
+                  "reconstruction": false,
+                  "label": "Book of Liturgy (Euchologia)",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tp4j",
+                        "pref_title": "Euchologion",
+                        "alt_title": [
+                          "Euchologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Book of Liturgy (Euchologia)",
+                      "locus": "ff. 2v-243r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s11s5t"
+                  ]
+                }
               }
             ],
             "assoc_date": [

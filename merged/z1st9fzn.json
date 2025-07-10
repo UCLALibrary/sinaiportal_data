@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1260c",
           "label": "Overtext Layer",
@@ -51,35 +51,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1vs9s",
-                "reconstruction": false,
-                "label": "Canons of Oecumenical Councils",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Canons of Oecumenical Councils",
-                      "genre": [
-                        {
-                          "id": "canon-law",
-                          "label": "Canon law"
-                        }
+                "id": "ark:/21198/s1vs9s",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1vs9s",
+                  "reconstruction": false,
+                  "label": "Canons of Oecumenical Councils",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Canons of Oecumenical Councils",
+                        "genre": [
+                          {
+                            "id": "canon-law",
+                            "label": "Canon law"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1bv-303r",
+                      "note": [
+                        "Canons of Oecumenical Councils, beginning with the second Council of Constantinople, and including Canons of Clement Pope of Rome, Epiphanius Patriarch of Constantinople and St. Basil"
                       ]
-                    },
-                    "locus": "ff. 1bv-303r",
-                    "note": [
-                      "Canons of Oecumenical Councils, beginning with the second Council of Constantinople, and including Canons of Clement Pope of Rome, Epiphanius Patriarch of Constantinople and St. Basil"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1260c"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1260c"
+                  ]
+                }
               }
             ],
             "assoc_date": [

@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1ww47",
           "label": "Overtext Layer",
@@ -51,36 +51,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1qh24",
-                "reconstruction": false,
-                "label": "Paradise of the Fathers",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Paradise of the Fathers",
-                      "genre": [
-                        {
-                          "id": "historical-works",
-                          "label": "Historical works"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-300r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1ww47"
-                ]
+                "id": "ark:/21198/s1qh24",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1qh24",
+                  "reconstruction": false,
+                  "label": "Paradise of the Fathers",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Paradise of the Fathers",
+                        "genre": [
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-300r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1ww47"
+                  ]
+                }
               }
             ],
             "assoc_date": [

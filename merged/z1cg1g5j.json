@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s14g95",
           "label": "Overtext Layer",
@@ -56,53 +56,57 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1z38f",
-                "reconstruction": false,
-                "label": "Psalms with a translation in Arabic",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  },
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s11c7f",
-                      "pref_title": "Psalms",
-                      "alt_title": [
-                        "Bible. Psalms"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Psalms",
-                          "uri": "https://viaf.org/viaf/60146153112905251951",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Psalms",
-                          "uri": "http://id.loc.gov/authorities/names/n79056804",
-                          "source": "LoC"
-                        }
-                      ]
+                "id": "ark:/21198/s1z38f",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1z38f",
+                  "reconstruction": false,
+                  "label": "Psalms with a translation in Arabic",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
                     },
-                    "alt_title": "Psalms with a translation in Arabic",
-                    "locus": "Ff. 1r-116v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s14g95"
-                ]
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s11c7f",
+                        "pref_title": "Psalms",
+                        "alt_title": [
+                          "Bible. Psalms"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Psalms",
+                            "uri": "https://viaf.org/viaf/60146153112905251951",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Psalms",
+                            "uri": "http://id.loc.gov/authorities/names/n79056804",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Psalms with a translation in Arabic",
+                      "locus": "Ff. 1r-116v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s14g95"
+                  ]
+                }
               }
             ],
             "assoc_date": [

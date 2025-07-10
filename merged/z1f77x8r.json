@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1nw42",
           "label": "Overtext Layer",
@@ -54,53 +54,57 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1gd4p",
-                "reconstruction": false,
-                "label": "Lectionary of Acts and Epistles",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s10k5f",
-                      "pref_title": "Gospels",
-                      "alt_title": [
-                        "Bible. Gospels"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Gospels ",
-                          "uri": "https://viaf.org/viaf/317284260",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Gospels",
-                          "uri": "http://id.loc.gov/authorities/names/n79063688",
-                          "source": "LoC"
-                        }
-                      ]
-                    },
-                    "alt_title": "Four Gospels",
-                    "locus": "ff. 1r-178v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1nw42"
-                ]
+                "id": "ark:/21198/s1gd4p",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1gd4p",
+                  "reconstruction": false,
+                  "label": "Lectionary of Acts and Epistles",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s10k5f",
+                        "pref_title": "Gospels",
+                        "alt_title": [
+                          "Bible. Gospels"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Gospels ",
+                            "uri": "https://viaf.org/viaf/317284260",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Gospels",
+                            "uri": "http://id.loc.gov/authorities/names/n79063688",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Four Gospels",
+                      "locus": "ff. 1r-178v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1nw42"
+                  ]
+                }
               }
             ],
             "assoc_date": [

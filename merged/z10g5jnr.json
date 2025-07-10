@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1x92x",
           "label": "Overtext Layer",
@@ -59,96 +59,100 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1vm2d",
-                "reconstruction": false,
-                "label": "Anaphora of St. John Chrysostom",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  },
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1r59n",
-                      "pref_title": "Anaphora of St. John Chrysostom",
-                      "alt_title": [
-                        "Anaphora of St. John Chrysostom"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ],
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1x303",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1x303",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "John Chrysostom",
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "death": {
-                              "value": "407 CE",
-                              "iso": {
-                                "not_before": 407,
-                                "not_after": 407
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://viaf.org/viaf/305214868",
-                                "source": "VIAF"
-                              },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://id.loc.gov/authorities/names/n80001460",
-                                "source": "LoC"
-                              },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "https://w3id.org/haf/person/873419758532",
-                                "source": "HAF"
-                              },
-                              {
-                                "label": "John Chrysostom",
-                                "uri": "http://syriaca.org/person/573",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Iohannes Chrysostomus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
-                                "source": "Pinakes"
-                              }
-                            ]
-                          },
-                          "role": {
-                            "id": "author",
-                            "label": "Author"
-                          }
-                        }
-                      ]
+                "id": "ark:/21198/s1vm2d",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1vm2d",
+                  "reconstruction": false,
+                  "label": "Anaphora of St. John Chrysostom",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
                     },
-                    "alt_title": "Fragment of a bilingual anaphora of the Byzantine liturgy by Saint John Chrysostom",
-                    "locus": "ff. 1r-8v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1x92x"
-                ]
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1r59n",
+                        "pref_title": "Anaphora of St. John Chrysostom",
+                        "alt_title": [
+                          "Anaphora of St. John Chrysostom"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "407 CE",
+                                "iso": {
+                                  "not_before": 407,
+                                  "not_after": 407
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ]
+                      },
+                      "alt_title": "Fragment of a bilingual anaphora of the Byzantine liturgy by Saint John Chrysostom",
+                      "locus": "ff. 1r-8v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1x92x"
+                  ]
+                }
               }
             ],
             "assoc_date": [

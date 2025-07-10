@@ -31,7 +31,7 @@
         }
       ],
       "dim": "150 x 11 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1492s",
           "label": "Overtext Layer",
@@ -73,90 +73,94 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1xt23",
-                "reconstruction": false,
-                "label": "Life of Ephrem ; Ephrem, Against Heresies",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Life of Ephrem ; Ephrem, Against Heresies",
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1v887",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1v887",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "Ephrem",
-                            "alt_name": [
-                              "Ephrem the Syrian",
-                              "ܐܦܪܝܡ"
-                            ],
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "floruit": {
-                              "value": "303 CE-373 CE",
-                              "iso": {
-                                "not_before": 303,
-                                "not_after": 373
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "Ephraem, Syrus, Saint, 303-373",
-                                "uri": "http://viaf.org/viaf/100177778",
-                                "source": "VIAF"
-                              },
-                              {
-                                "label": "Ephraem, Syrus, Saint, 303-373",
-                                "uri": "http://id.loc.gov/authorities/names/n50082928",
-                                "source": "LoC"
-                              },
-                              {
-                                "label": "Ephrem, of Nisibis, 303-373",
-                                "uri": "https://w3id.org/haf/person/818572788967",
-                                "source": "HAF"
-                              },
-                              {
-                                "label": "Ephrem",
-                                "uri": "http://syriaca.org/person/13",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Ephraem Graecus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/995/",
-                                "source": "Pinakes"
-                              }
-                            ]
-                          }
-                        }
-                      ],
-                      "genre": [
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        },
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        }
-                      ]
+                "id": "ark:/21198/s1xt23",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1xt23",
+                  "reconstruction": false,
+                  "label": "Life of Ephrem ; Ephrem, Against Heresies",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1492s"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Life of Ephrem ; Ephrem, Against Heresies",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1v887",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1v887",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Ephrem",
+                              "alt_name": [
+                                "Ephrem the Syrian",
+                                "ܐܦܪܝܡ"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "303 CE-373 CE",
+                                "iso": {
+                                  "not_before": 303,
+                                  "not_after": 373
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://viaf.org/viaf/100177778",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://id.loc.gov/authorities/names/n50082928",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Ephrem, of Nisibis, 303-373",
+                                  "uri": "https://w3id.org/haf/person/818572788967",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Ephrem",
+                                  "uri": "http://syriaca.org/person/13",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Ephraem Graecus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/995/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1492s"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -176,9 +180,11 @@
               "ark:/21198/z10v8dvq"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1264w",
+          "uto_layer_ark": "ark:/21198/s1264w",
           "label": "Syriac Undertext: Abba Isaiah, Asceticon",
           "type": {
             "id": "undertext",

@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1jk8j",
           "label": "Overtext Layer",
@@ -51,44 +51,48 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1c66f",
-                "reconstruction": false,
-                "label": "Prophetologion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1j30p",
-                      "pref_title": "Prophetologion",
-                      "alt_title": [
-                        "Prophetologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-124r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1jk8j"
-                ]
+                "id": "ark:/21198/s1c66f",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1c66f",
+                  "reconstruction": false,
+                  "label": "Prophetologion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1j30p",
+                        "pref_title": "Prophetologion",
+                        "alt_title": [
+                          "Prophetologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-124r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1jk8j"
+                  ]
+                }
               }
             ],
             "para": [

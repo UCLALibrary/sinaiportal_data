@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1162t",
           "label": "Overtext Layer",
@@ -51,86 +51,90 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1tt0d",
-                "reconstruction": false,
-                "label": "Sayings of John Chrysostom",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Sayings of John Chrysostom",
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1x303",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1x303",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "John Chrysostom",
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "death": {
-                              "value": "407 CE",
-                              "iso": {
-                                "not_before": 407,
-                                "not_after": 407
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://viaf.org/viaf/305214868",
-                                "source": "VIAF"
+                "id": "ark:/21198/s1tt0d",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1tt0d",
+                  "reconstruction": false,
+                  "label": "Sayings of John Chrysostom",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Sayings of John Chrysostom",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
                               },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://id.loc.gov/authorities/names/n80001460",
-                                "source": "LoC"
+                              "pref_name": "John Chrysostom",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
                               },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "https://w3id.org/haf/person/873419758532",
-                                "source": "HAF"
+                              "death": {
+                                "value": "407 CE",
+                                "iso": {
+                                  "not_before": 407,
+                                  "not_after": 407
+                                }
                               },
-                              {
-                                "label": "John Chrysostom",
-                                "uri": "http://syriaca.org/person/573",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Iohannes Chrysostomus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
                           }
-                        }
-                      ],
-                      "genre": [
-                        {
-                          "id": "apophthegmata",
-                          "label": "Apophthegmata"
-                        }
+                        ],
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-6v",
+                      "note": [
+                        "Sayings of John Chrysostom, beginning, ‘I beseech you, O brothers, that you might desire to stand before Christ neither filthy nor unclean …’"
                       ]
-                    },
-                    "locus": "ff. 1r-6v",
-                    "note": [
-                      "Sayings of John Chrysostom, beginning, ‘I beseech you, O brothers, that you might desire to stand before Christ neither filthy nor unclean …’"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1162t"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1162t"
+                  ]
+                }
               }
             ],
             "parent": [

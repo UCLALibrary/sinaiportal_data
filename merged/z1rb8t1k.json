@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1xp5v",
           "label": "Overtext Layer",
@@ -51,43 +51,47 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1r944",
-                "reconstruction": false,
-                "label": "The book of history",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "The book of history",
-                      "genre": [
-                        {
-                          "id": "historical-works",
-                          "label": "Historical works"
-                        }
-                      ]
-                    },
-                    "alt_title": "Universal history",
-                    "as_written": "كتاب التاريخ",
-                    "locus": "ff. 1r-206v"
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "general",
-                      "label": "Other Notes"
-                    },
-                    "value": "Contributor(s): Chris PreJean"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1xp5v"
-                ]
+                "id": "ark:/21198/s1r944",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1r944",
+                  "reconstruction": false,
+                  "label": "The book of history",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "The book of history",
+                        "genre": [
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          }
+                        ]
+                      },
+                      "alt_title": "Universal history",
+                      "as_written": "كتاب التاريخ",
+                      "locus": "ff. 1r-206v"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "general",
+                        "label": "Other Notes"
+                      },
+                      "value": "Contributor(s): Chris PreJean"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1xp5v"
+                  ]
+                }
               }
             ],
             "para": [

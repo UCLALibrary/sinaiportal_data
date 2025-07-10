@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1n912",
           "label": "Overtext Layer",
@@ -51,49 +51,53 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1ft2r",
-                "reconstruction": false,
-                "label": "Maccabeans I-III",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1fk5g",
-                      "pref_title": "Maccabees",
-                      "alt_title": [
-                        "Bible. Maccabees"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Maccabees",
-                          "uri": "https://viaf.org/viaf/173837806",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Maccabees",
-                          "uri": "http://id.loc.gov/authorities/names/n88282498",
-                          "source": "LoC"
-                        }
-                      ]
-                    },
-                    "alt_title": "Maccabeans I-III",
-                    "locus": "ff. 1r-104v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1n912"
-                ]
+                "id": "ark:/21198/s1ft2r",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1ft2r",
+                  "reconstruction": false,
+                  "label": "Maccabeans I-III",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1fk5g",
+                        "pref_title": "Maccabees",
+                        "alt_title": [
+                          "Bible. Maccabees"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Maccabees",
+                            "uri": "https://viaf.org/viaf/173837806",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Maccabees",
+                            "uri": "http://id.loc.gov/authorities/names/n88282498",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Maccabeans I-III",
+                      "locus": "ff. 1r-104v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1n912"
+                  ]
+                }
               }
             ],
             "assoc_date": [

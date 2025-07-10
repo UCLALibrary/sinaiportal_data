@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1g61g",
           "label": "Overtext Layer",
@@ -51,51 +51,55 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s18s9h",
-                "reconstruction": false,
-                "label": "Evangelion",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s19p4w",
-                      "pref_title": "Evangelion",
-                      "alt_title": [
-                        "Evangelion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
+                "id": "ark:/21198/s18s9h",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s18s9h",
+                  "reconstruction": false,
+                  "label": "Evangelion",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "alt_title": [
+                          "Evangelion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-10v",
+                      "note": [
+                        "From Palm Sunday to the Feast of Pentecost"
                       ]
-                    },
-                    "locus": "ff. 1r-10v",
-                    "note": [
-                      "From Palm Sunday to the Feast of Pentecost"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1g61g"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1g61g"
+                  ]
+                }
               }
             ],
             "parent": [

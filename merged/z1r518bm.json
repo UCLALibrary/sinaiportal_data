@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s12k7t",
           "label": "Overtext Layer",
@@ -51,45 +51,49 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1w663",
-                "reconstruction": false,
-                "label": "Acts",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1088g",
-                      "pref_title": "Lectionary",
-                      "alt_title": [
-                        "Lectionary"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Lectionary of Acts and Epistles",
-                    "locus": "ff. 1r-254r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s12k7t"
-                ]
+                "id": "ark:/21198/s1w663",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1w663",
+                  "reconstruction": false,
+                  "label": "Acts",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "alt_title": [
+                          "Lectionary"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary of Acts and Epistles",
+                      "locus": "ff. 1r-254r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s12k7t"
+                  ]
+                }
               }
             ],
             "assoc_date": [

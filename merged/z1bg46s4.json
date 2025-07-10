@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1dp56",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1794g",
-                "reconstruction": false,
-                "label": "Calendar determining date of Easter from 1393 to 1409 A.D. ",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Calendar determining date of Easter from 1393 to 1409 A.D. ",
-                      "genre": [
-                        {
-                          "id": "calendars",
-                          "label": "Calendars"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 5v-148r"
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "contents",
-                      "label": "Contents Note"
-                    },
-                    "value": "Preceded by a concordance of numerals in Arabic and Epact up to forty million"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1dp56"
-                ]
+                "id": "ark:/21198/s1794g",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1794g",
+                  "reconstruction": false,
+                  "label": "Calendar determining date of Easter from 1393 to 1409 A.D. ",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Calendar determining date of Easter from 1393 to 1409 A.D. ",
+                        "genre": [
+                          {
+                            "id": "calendars",
+                            "label": "Calendars"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 5v-148r"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Preceded by a concordance of numerals in Arabic and Epact up to forty million"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1dp56"
+                  ]
+                }
               }
             ],
             "para": [

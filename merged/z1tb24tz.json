@@ -33,7 +33,22 @@
         }
       ],
       "dim": "83 x 114 mm (representative folio)",
-      "layer": [
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally formed one unit with Georgian NF M 84",
+          "mss": [
+            {
+              "label": "Sinai Georgian NF M 84",
+              "id": "ark:/21198/z14m9dms"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
         {
           "id": "ark:/21198/s1kp7h",
           "label": "Overtext Layer",
@@ -69,35 +84,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1d95d",
-                "reconstruction": false,
-                "label": "Sayings of the Desert Fathers",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1w89x",
-                      "pref_title": "Sayings of the Desert Fathers",
-                      "alt_title": [
-                        "Sayings of the Desert Fathers"
-                      ],
-                      "genre": [
-                        {
-                          "id": "apophthegmata",
-                          "label": "Apophthegmata"
-                        }
-                      ]
+                "id": "ark:/21198/s1d95d",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1d95d",
+                  "reconstruction": false,
+                  "label": "Sayings of the Desert Fathers",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1kp7h"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1w89x",
+                        "pref_title": "Sayings of the Desert Fathers",
+                        "alt_title": [
+                          "Sayings of the Desert Fathers"
+                        ],
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1kp7h"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -117,9 +136,11 @@
               "ark:/21198/z1tb24tz"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1006z",
+          "uto_layer_ark": "ark:/21198/s1006z",
           "label": "Georgian Undertext: Psalter",
           "type": {
             "id": "undertext",
@@ -147,7 +168,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1v929",
+          "uto_layer_ark": "ark:/21198/s1v929",
           "label": "Georgian Undertext: Bible. Matthew",
           "type": {
             "id": "undertext",
@@ -175,7 +196,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1qh0c",
+          "uto_layer_ark": "ark:/21198/s1qh0c",
           "label": "Georgian Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -203,7 +224,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1ks8x",
+          "uto_layer_ark": "ark:/21198/s1ks8x",
           "label": "Georgian Undertext: Khanmeti Mravaltavi",
           "type": {
             "id": "undertext",
@@ -231,7 +252,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1g05x",
+          "uto_layer_ark": "ark:/21198/s1g05x",
           "label": "Georgian Undertext: John Chrysostom, Homilies on the Dormition of the Holy Virgin",
           "type": {
             "id": "undertext",
@@ -259,7 +280,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1b931",
+          "uto_layer_ark": "ark:/21198/s1b931",
           "label": "Georgian Undertext: Life of St. Febronia",
           "type": {
             "id": "undertext",
@@ -283,21 +304,6 @@
                 "id": "origin",
                 "label": "Date of Origin"
               }
-            }
-          ]
-        }
-      ],
-      "related_mss": [
-        {
-          "type": {
-            "id": "disjecta",
-            "label": "Disjecta Membra"
-          },
-          "label": "Originally formed one unit with Georgian NF M 84",
-          "mss": [
-            {
-              "label": "Sinai Georgian NF M 84",
-              "id": "ark:/21198/z14m9dms"
             }
           ]
         }

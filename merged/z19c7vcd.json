@@ -33,7 +33,7 @@
         }
       ],
       "dim": "222 x 170 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1hg9k",
           "label": "Overtext Layer",
@@ -62,40 +62,44 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1b37g",
-                "reconstruction": false,
-                "label": "Psalter (Codex Armeniacus rescriptus)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1d886",
-                      "pref_title": "Psalter",
-                      "alt_title": [
-                        "Psalter"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Psalter (Codex Armeniacus rescriptus)"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1hg9k"
-                ]
+                "id": "ark:/21198/s1b37g",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1b37g",
+                  "reconstruction": false,
+                  "label": "Psalter (Codex Armeniacus rescriptus)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1d886",
+                        "pref_title": "Psalter",
+                        "alt_title": [
+                          "Psalter"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Psalter (Codex Armeniacus rescriptus)"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1hg9k"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -133,9 +137,11 @@
               "ark:/21198/z19c7vcd"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1fd0v",
+          "uto_layer_ark": "ark:/21198/s1fd0v",
           "label": "Armenian Undertext: John Chrysostom, Commentary on the Psalms",
           "type": {
             "id": "undertext",

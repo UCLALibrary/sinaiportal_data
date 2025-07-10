@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1pc93",
           "label": "Overtext Layer",
@@ -51,103 +51,107 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1h070",
-                "reconstruction": false,
-                "label": "Homilies on the Gospel of St. John (Chrysostom), Part I",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1n01z",
-                      "pref_title": "Homilies on John",
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "commentaries",
-                          "label": "Commentaries"
-                        }
-                      ],
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1x303",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1x303",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "John Chrysostom",
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "death": {
-                              "value": "407 CE",
-                              "iso": {
-                                "not_before": 407,
-                                "not_after": 407
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://viaf.org/viaf/305214868",
-                                "source": "VIAF"
-                              },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://id.loc.gov/authorities/names/n80001460",
-                                "source": "LoC"
-                              },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "https://w3id.org/haf/person/873419758532",
-                                "source": "HAF"
-                              },
-                              {
-                                "label": "John Chrysostom",
-                                "uri": "http://syriaca.org/person/573",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Iohannes Chrysostomus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                "id": "ark:/21198/s1h070",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1h070",
+                  "reconstruction": false,
+                  "label": "Homilies on the Gospel of St. John (Chrysostom), Part I",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1n01z",
+                        "pref_title": "Homilies on John",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
                           },
-                          "role": {
-                            "id": "author",
-                            "label": "Author"
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
                           }
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "John Chrysostom, Saint, -407. Homilies on John",
-                          "uri": "http://id.loc.gov/authorities/names/n97054490",
-                          "source": "LoC"
-                        }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "407 CE",
+                                "iso": {
+                                  "not_before": 407,
+                                  "not_after": 407
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "John Chrysostom, Saint, -407. Homilies on John",
+                            "uri": "http://id.loc.gov/authorities/names/n97054490",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Commentary on the Gospel of St. John by St. John Chrysostom, Part I",
+                      "locus": "ff. 1r-406v",
+                      "note": [
+                        "Commentary in 44 discourses"
                       ]
-                    },
-                    "alt_title": "Commentary on the Gospel of St. John by St. John Chrysostom, Part I",
-                    "locus": "ff. 1r-406v",
-                    "note": [
-                      "Commentary in 44 discourses"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1pc93"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1pc93"
+                  ]
+                }
               }
             ],
             "assoc_date": [

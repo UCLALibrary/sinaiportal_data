@@ -33,7 +33,7 @@
         }
       ],
       "dim": "112 x 87 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1zw4v",
           "label": "Overtext Layer",
@@ -69,35 +69,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1sh4h",
-                "reconstruction": false,
-                "label": "Horologion",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1dg6h",
-                      "pref_title": "Horologion",
-                      "alt_title": [
-                        "Horologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s1sh4h",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1sh4h",
+                  "reconstruction": false,
+                  "label": "Horologion",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1zw4v"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1dg6h",
+                        "pref_title": "Horologion",
+                        "alt_title": [
+                          "Horologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1zw4v"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -117,9 +121,11 @@
               "ark:/21198/z1c83777"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1d63m",
+          "uto_layer_ark": "ark:/21198/s1d63m",
           "label": "Georgian Undertext: Heirmologion",
           "type": {
             "id": "undertext",
@@ -147,7 +153,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s18h1q",
+          "uto_layer_ark": "ark:/21198/s18h1q",
           "label": "Georgian Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -162,7 +168,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s14p7g",
+          "uto_layer_ark": "ark:/21198/s14p7g",
           "label": "Georgian Undertext: Psalter",
           "type": {
             "id": "undertext",
@@ -190,7 +196,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s11068",
+          "uto_layer_ark": "ark:/21198/s11068",
           "label": "Georgian Undertext: Psalter",
           "type": {
             "id": "undertext",
@@ -218,7 +224,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1w63z",
+          "uto_layer_ark": "ark:/21198/s1w63z",
           "label": "Georgian Undertext: Horologion",
           "type": {
             "id": "undertext",

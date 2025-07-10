@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1fw46",
           "label": "Overtext Layer",
@@ -61,59 +61,63 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s18h3g",
-                "reconstruction": false,
-                "label": "Psalms. Greek and Arabic",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  },
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s11c7f",
-                      "pref_title": "Psalms",
-                      "alt_title": [
-                        "Bible. Psalms"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Psalms",
-                          "uri": "https://viaf.org/viaf/60146153112905251951",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Psalms",
-                          "uri": "http://id.loc.gov/authorities/names/n79056804",
-                          "source": "LoC"
-                        }
-                      ]
+                "id": "ark:/21198/s18h3g",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s18h3g",
+                  "reconstruction": false,
+                  "label": "Psalms. Greek and Arabic",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
                     },
-                    "alt_title": "Psalms. Greek and Arabic",
-                    "locus": "Ff. 1r-206v"
-                  }
-                ],
-                "features": [
-                  {
-                    "id": "parallel-text",
-                    "label": "Parallel text"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1fw46"
-                ]
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s11c7f",
+                        "pref_title": "Psalms",
+                        "alt_title": [
+                          "Bible. Psalms"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Psalms",
+                            "uri": "https://viaf.org/viaf/60146153112905251951",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Psalms",
+                            "uri": "http://id.loc.gov/authorities/names/n79056804",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Psalms. Greek and Arabic",
+                      "locus": "Ff. 1r-206v"
+                    }
+                  ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1fw46"
+                  ]
+                }
               }
             ],
             "assoc_date": [

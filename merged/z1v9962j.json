@@ -37,7 +37,7 @@
         }
       ],
       "dim": "149 x 126 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1f03v",
           "label": "Overtext Layer",
@@ -77,42 +77,46 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s17h4j",
-                "reconstruction": false,
-                "label": "Heirmologion",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1sp47",
-                      "pref_title": "Heirmologion",
-                      "alt_title": [
-                        "Heirmologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Heirmologion",
-                          "uri": "http://viaf.org/viaf/213239652",
-                          "source": "VIAF"
-                        }
-                      ]
+                "id": "ark:/21198/s17h4j",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s17h4j",
+                  "reconstruction": false,
+                  "label": "Heirmologion",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1f03v"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1sp47",
+                        "pref_title": "Heirmologion",
+                        "alt_title": [
+                          "Heirmologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Heirmologion",
+                            "uri": "http://viaf.org/viaf/213239652",
+                            "source": "VIAF"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1f03v"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -132,9 +136,11 @@
               "ark:/21198/z1v9962j"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s13m0t",
+          "uto_layer_ark": "ark:/21198/s13m0t",
           "label": "Arabic Undertext: Bible. Genesis",
           "type": {
             "id": "undertext",
@@ -162,7 +168,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1zw6m",
+          "uto_layer_ark": "ark:/21198/s1zw6m",
           "label": "Arabic Undertext: Exodus",
           "type": {
             "id": "undertext",
@@ -190,7 +196,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1v340",
+          "uto_layer_ark": "ark:/21198/s1v340",
           "label": "Arabic Undertext: Unidentified text",
           "type": {
             "id": "undertext",

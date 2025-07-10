@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1bg91",
           "label": "Overtext Layer",
@@ -51,51 +51,55 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1537x",
-                "reconstruction": false,
-                "label": "Evangelion",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s19p4w",
-                      "pref_title": "Evangelion",
-                      "alt_title": [
-                        "Evangelion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
+                "id": "ark:/21198/s1537x",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1537x",
+                  "reconstruction": false,
+                  "label": "Evangelion",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "alt_title": [
+                          "Evangelion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-4r",
+                      "note": [
+                        "Begins with Luke 23"
                       ]
-                    },
-                    "locus": "ff. 1r-4r",
-                    "note": [
-                      "Begins with Luke 23"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1bg91"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1bg91"
+                  ]
+                }
               }
             ],
             "parent": [

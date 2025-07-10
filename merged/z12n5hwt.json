@@ -31,7 +31,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1mc9g",
           "label": "Overtext Layer",
@@ -67,36 +67,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1dw9s",
-                "reconstruction": false,
-                "label": "Lives of Saints",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Lives of Saints",
-                      "genre": [
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        },
-                        {
-                          "id": "historical-works",
-                          "label": "Historical works"
-                        }
-                      ]
-                    },
-                    "alt_title": "Hagiographical Collection"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1mc9g"
-                ]
+                "id": "ark:/21198/s1dw9s",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1dw9s",
+                  "reconstruction": false,
+                  "label": "Lives of Saints",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Lives of Saints",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          }
+                        ]
+                      },
+                      "alt_title": "Hagiographical Collection"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1mc9g"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -153,9 +157,11 @@
               "ark:/21198/z12n5hwt"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1vs8d",
+          "uto_layer_ark": "ark:/21198/s1vs8d",
           "label": "Syriac Undertext: Dormition of the Virgin Mary",
           "type": {
             "id": "undertext",
@@ -183,7 +189,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1r05d",
+          "uto_layer_ark": "ark:/21198/s1r05d",
           "label": "Syriac Undertext: Bible. John",
           "type": {
             "id": "undertext",
@@ -211,7 +217,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1m93h",
+          "uto_layer_ark": "ark:/21198/s1m93h",
           "label": "Syriac Undertext: Bible. Matthew",
           "type": {
             "id": "undertext",
@@ -239,7 +245,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1gk99",
+          "uto_layer_ark": "ark:/21198/s1gk99",
           "label": "Greek Undertext: Ephrem the Syrian, Ascetical Homily",
           "type": {
             "id": "undertext",
@@ -267,7 +273,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1bs8r",
+          "uto_layer_ark": "ark:/21198/s1bs8r",
           "label": "Syriac Undertext: Bible. Mark",
           "type": {
             "id": "undertext",
@@ -295,7 +301,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1734d",
+          "uto_layer_ark": "ark:/21198/s1734d",
           "label": "Greek Undertext: Bible. John",
           "type": {
             "id": "undertext",
@@ -323,7 +329,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1393v",
+          "uto_layer_ark": "ark:/21198/s1393v",
           "label": "Greek Undertext: Ps.-Marcarius, Epistula magna",
           "type": {
             "id": "undertext",
@@ -351,7 +357,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1zk9n",
+          "uto_layer_ark": "ark:/21198/s1zk9n",
           "label": "Syriac Undertext: Acts of Thomas",
           "type": {
             "id": "undertext",
@@ -379,7 +385,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1ts7q",
+          "uto_layer_ark": "ark:/21198/s1ts7q",
           "label": "Syriac Undertext: Bible. Luke",
           "type": {
             "id": "undertext",

@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s17h01",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1238c",
-                "reconstruction": false,
-                "label": "Menologion (month of Tishrīn I)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion (month of Tishrīn I)",
-                    "locus": "ff. 1r-198r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s17h01"
-                ]
+                "id": "ark:/21198/s1238c",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1238c",
+                  "reconstruction": false,
+                  "label": "Menologion (month of Tishrīn I)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menologion (month of Tishrīn I)",
+                      "locus": "ff. 1r-198r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s17h01"
+                  ]
+                }
               }
             ],
             "para": [

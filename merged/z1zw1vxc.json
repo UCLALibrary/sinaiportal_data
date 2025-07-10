@@ -32,7 +32,22 @@
         }
       ],
       "dim": "73 x 132 mm (representative folio)",
-      "layer": [
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with Syriac NF M 57",
+          "mss": [
+            {
+              "label": "Sinai Syriac NF M 57",
+              "id": "ark:/21198/z15f22gs"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
         {
           "id": "ark:/21198/s18039",
           "label": "Overtext Layer",
@@ -71,31 +86,35 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s12m3n",
-                "reconstruction": false,
-                "label": "Life of St. Mary of Egypt",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Life of St. Mary of Egypt",
-                      "genre": [
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
+                "id": "ark:/21198/s12m3n",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s12m3n",
+                  "reconstruction": false,
+                  "label": "Life of St. Mary of Egypt",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s18039"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Life of St. Mary of Egypt",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s18039"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -115,9 +134,11 @@
               "ark:/21198/z1zw1vxc"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s15w6g",
+          "uto_layer_ark": "ark:/21198/s15w6g",
           "label": "Syriac Undertext: Paschal Calendar",
           "type": {
             "id": "undertext",
@@ -141,21 +162,6 @@
                 "id": "origin",
                 "label": "Date of Origin"
               }
-            }
-          ]
-        }
-      ],
-      "related_mss": [
-        {
-          "type": {
-            "id": "disjecta",
-            "label": "Disjecta Membra"
-          },
-          "label": "Originally belonged together with Syriac NF M 57",
-          "mss": [
-            {
-              "label": "Sinai Syriac NF M 57",
-              "id": "ark:/21198/z15f22gs"
             }
           ]
         }

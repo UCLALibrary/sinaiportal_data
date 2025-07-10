@@ -32,7 +32,7 @@
         }
       ],
       "dim": "136 x 97 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1v628",
           "label": "Overtext Layer",
@@ -68,57 +68,61 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1nq2k",
-                "reconstruction": false,
-                "label": "Evangelion",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s19p4w",
-                      "pref_title": "Evangelion",
-                      "alt_title": [
-                        "Evangelion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Gospel lectionary"
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "contents",
-                      "label": "Contents Note"
-                    },
-                    "value": "Contains index"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1v628"
-                ]
+                "id": "ark:/21198/s1nq2k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1nq2k",
+                  "reconstruction": false,
+                  "label": "Evangelion",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "alt_title": [
+                          "Evangelion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Gospel lectionary"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Contains index"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1v628"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -138,9 +142,11 @@
               "ark:/21198/z1z32wm6"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1rh12",
+          "uto_layer_ark": "ark:/21198/s1rh12",
           "label": "CPA Undertext: Cyril of Jerusalem, Catecheses",
           "type": {
             "id": "undertext",
@@ -168,7 +174,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1mp86",
+          "uto_layer_ark": "ark:/21198/s1mp86",
           "label": "CPA Undertext: Exodus",
           "type": {
             "id": "undertext",
@@ -196,7 +202,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1h06m",
+          "uto_layer_ark": "ark:/21198/s1h06m",
           "label": "CPA Undertext: Bible. Matthew",
           "type": {
             "id": "undertext",

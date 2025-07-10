@@ -30,7 +30,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1sd0z",
           "label": "Overtext Layer",
@@ -66,36 +66,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1kx08",
-                "reconstruction": false,
-                "label": "Sayings of Abba Zacharias",
-                "lang": [
-                  {
-                    "id": "chri1239",
-                    "label": "CPA"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1w89x",
-                      "pref_title": "Sayings of the Desert Fathers",
-                      "alt_title": [
-                        "Sayings of the Desert Fathers"
-                      ],
-                      "genre": [
-                        {
-                          "id": "apophthegmata",
-                          "label": "Apophthegmata"
-                        }
-                      ]
-                    },
-                    "alt_title": "Sayings of Abba Zacharias"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1sd0z"
-                ]
+                "id": "ark:/21198/s1kx08",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1kx08",
+                  "reconstruction": false,
+                  "label": "Sayings of Abba Zacharias",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1w89x",
+                        "pref_title": "Sayings of the Desert Fathers",
+                        "alt_title": [
+                          "Sayings of the Desert Fathers"
+                        ],
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "alt_title": "Sayings of Abba Zacharias"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1sd0z"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -115,9 +119,11 @@
               "ark:/21198/z1sb4fr7"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1cp9d",
+          "uto_layer_ark": "ark:/21198/s1cp9d",
           "label": "CPA Undertext: Unidentified text",
           "type": {
             "id": "undertext",

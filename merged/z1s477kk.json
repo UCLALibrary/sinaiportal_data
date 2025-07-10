@@ -33,7 +33,7 @@
         }
       ],
       "dim": "170 x 140 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1pd1d",
           "label": "Overtext Layer",
@@ -72,39 +72,43 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1h08c",
-                "reconstruction": false,
-                "label": "Kontakarion",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s17s3x",
-                      "pref_title": "Kontakarion",
-                      "alt_title": [
-                        "Kontakarion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
+                "id": "ark:/21198/s1h08c",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1h08c",
+                  "reconstruction": false,
+                  "label": "Kontakarion",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1pd1d"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s17s3x",
+                        "pref_title": "Kontakarion",
+                        "alt_title": [
+                          "Kontakarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1pd1d"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -133,9 +137,11 @@
               "ark:/21198/z1s477kk"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1gs80",
+          "uto_layer_ark": "ark:/21198/s1gs80",
           "label": "Greek Undertext: Sticherarion",
           "type": {
             "id": "undertext",

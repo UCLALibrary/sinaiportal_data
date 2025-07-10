@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1jg8h",
           "label": "Overtext Layer",
@@ -51,95 +51,99 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1c36d",
-                "reconstruction": false,
-                "label": "Teaching and Homilies of St. Theodore, Abbot of the Monastery of Stodion",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Teaching and Homilies of St. Theodore, Abbot of the Monastery of Stodion",
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1d01s",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1d01s",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "Theodore the Studite",
-                            "alt_name": [
-                              "Theodore Studites"
-                            ],
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "floruit": {
-                              "value": "759 CE-826 CE",
-                              "iso": {
-                                "not_before": 759,
-                                "not_after": 826
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "Theodore, Studites, Saint, 759-826",
-                                "uri": "http://viaf.org/viaf/62875165",
-                                "source": "VIAF"
+                "id": "ark:/21198/s1c36d",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1c36d",
+                  "reconstruction": false,
+                  "label": "Teaching and Homilies of St. Theodore, Abbot of the Monastery of Stodion",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Teaching and Homilies of St. Theodore, Abbot of the Monastery of Stodion",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1d01s",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1d01s",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
                               },
-                              {
-                                "label": "Theodore, Studites, Saint, 759-826",
-                                "uri": "https://id.loc.gov/authorities/names/n81118597",
-                                "source": "LoC"
+                              "pref_name": "Theodore the Studite",
+                              "alt_name": [
+                                "Theodore Studites"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
                               },
-                              {
-                                "label": "Theodore, Studites, 759-826",
-                                "uri": "https://w3id.org/haf/person/636228715607",
-                                "source": "HAF"
+                              "floruit": {
+                                "value": "759 CE-826 CE",
+                                "iso": {
+                                  "not_before": 759,
+                                  "not_after": 826
+                                }
                               },
-                              {
-                                "label": "Theodorus Studita",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/2685/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                              "rel_con": [
+                                {
+                                  "label": "Theodore, Studites, Saint, 759-826",
+                                  "uri": "http://viaf.org/viaf/62875165",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Theodore, Studites, Saint, 759-826",
+                                  "uri": "https://id.loc.gov/authorities/names/n81118597",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Theodore, Studites, 759-826",
+                                  "uri": "https://w3id.org/haf/person/636228715607",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Theodorus Studita",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/2685/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
                           }
-                        }
-                      ],
-                      "genre": [
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-214v",
+                      "excerpt": [
                         {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "apophthegmata",
-                          "label": "Apophthegmata"
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 214v",
+                          "as_written": "نجزت"
                         }
                       ]
-                    },
-                    "locus": "ff. 1r-214v",
-                    "excerpt": [
-                      {
-                        "type": {
-                          "id": "explicit",
-                          "label": "Explicit"
-                        },
-                        "locus": "f. 214v",
-                        "as_written": "نجزت"
-                      }
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1jg8h"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1jg8h"
+                  ]
+                }
               }
             ],
             "para": [

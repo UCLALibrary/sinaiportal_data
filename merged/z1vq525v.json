@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1sh00",
           "label": "Overtext Layer",
@@ -54,46 +54,50 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1qx1w",
-                "reconstruction": false,
-                "label": "Horologion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1dg6h",
-                      "pref_title": "Horologion",
-                      "alt_title": [
-                        "Horologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Book of Hours, circa 9th c.: Text following the Byzantine rite of the Cheesefare Week (the fifth week before Easter)",
-                    "locus": "ff. 1r-8v"
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "general",
-                      "label": "Other Notes"
-                    },
-                    "value": "Musical notation included throughout"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1sh00"
-                ]
+                "id": "ark:/21198/s1qx1w",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1qx1w",
+                  "reconstruction": false,
+                  "label": "Horologion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1dg6h",
+                        "pref_title": "Horologion",
+                        "alt_title": [
+                          "Horologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Book of Hours, circa 9th c.: Text following the Byzantine rite of the Cheesefare Week (the fifth week before Easter)",
+                      "locus": "ff. 1r-8v"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "general",
+                        "label": "Other Notes"
+                      },
+                      "value": "Musical notation included throughout"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1sh00"
+                  ]
+                }
               }
             ],
             "assoc_date": [

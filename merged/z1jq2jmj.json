@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1tk68",
           "label": "Overtext Layer",
@@ -51,94 +51,98 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1n36w",
-                "reconstruction": false,
-                "label": "Synaxarium for the whole year",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1h30c",
-                      "pref_title": "Synaxarion",
-                      "alt_title": [
-                        "Synaxarion"
-                      ],
-                      "genre": [
+                "id": "ark:/21198/s1n36w",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1n36w",
+                  "reconstruction": false,
+                  "label": "Synaxarium for the whole year",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1h30c",
+                        "pref_title": "Synaxarion",
+                        "alt_title": [
+                          "Synaxarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Synaxarium for the whole year, preceded by an introduction and followed by an appendix in different hands and in smaller format",
+                      "locus": "ff. 3v-248r",
+                      "contents": [
                         {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
+                          "label": "Preface, ff. 3v-5r"
                         },
                         {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
+                          "label": "Elul, ff. 5v-22v"
+                        },
+                        {
+                          "label": "Teshrin I, ff. 23r-37v"
+                        },
+                        {
+                          "label": "Teshrin II, ff. 38r-60v"
+                        },
+                        {
+                          "label": "Kanun I, ff. 61r-88r"
+                        },
+                        {
+                          "label": "Kanun II, ff. 88v-96v"
+                        },
+                        {
+                          "label": "Shbat, ff. 96v-115v"
+                        },
+                        {
+                          "label": "Adar, ff. 116v-134r"
+                        },
+                        {
+                          "label": "Nisan, ff. 134r-150v"
+                        },
+                        {
+                          "label": "Iyar, ff. 150v-177v"
+                        },
+                        {
+                          "label": "Haziran, ff. 177v-196v"
+                        },
+                        {
+                          "label": "Tammuz, ff. 196v-217r"
+                        },
+                        {
+                          "label": "Ab, ff. 217v-242v"
+                        },
+                        {
+                          "label": "Appendix, ff. 243r-248r"
                         }
                       ]
-                    },
-                    "alt_title": "Synaxarium for the whole year, preceded by an introduction and followed by an appendix in different hands and in smaller format",
-                    "locus": "ff. 3v-248r",
-                    "contents": [
-                      {
-                        "label": "Preface, ff. 3v-5r"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "general",
+                        "label": "Other Notes"
                       },
-                      {
-                        "label": "Elul, ff. 5v-22v"
-                      },
-                      {
-                        "label": "Teshrin I, ff. 23r-37v"
-                      },
-                      {
-                        "label": "Teshrin II, ff. 38r-60v"
-                      },
-                      {
-                        "label": "Kanun I, ff. 61r-88r"
-                      },
-                      {
-                        "label": "Kanun II, ff. 88v-96v"
-                      },
-                      {
-                        "label": "Shbat, ff. 96v-115v"
-                      },
-                      {
-                        "label": "Adar, ff. 116v-134r"
-                      },
-                      {
-                        "label": "Nisan, ff. 134r-150v"
-                      },
-                      {
-                        "label": "Iyar, ff. 150v-177v"
-                      },
-                      {
-                        "label": "Haziran, ff. 177v-196v"
-                      },
-                      {
-                        "label": "Tammuz, ff. 196v-217r"
-                      },
-                      {
-                        "label": "Ab, ff. 217v-242v"
-                      },
-                      {
-                        "label": "Appendix, ff. 243r-248r"
-                      }
-                    ]
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "general",
-                      "label": "Other Notes"
-                    },
-                    "value": "Contributor(s): Justin Arnwine"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1tk68"
-                ]
+                      "value": "Contributor(s): Justin Arnwine"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1tk68"
+                  ]
+                }
               }
             ],
             "para": [

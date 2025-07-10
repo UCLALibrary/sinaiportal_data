@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1v33m",
           "label": "Overtext Layer",
@@ -51,40 +51,44 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1nq3z",
-                "reconstruction": false,
-                "label": "Synaxarion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1h30c",
-                      "pref_title": "Synaxarion",
-                      "alt_title": [
-                        "Synaxarion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-208r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1v33m"
-                ]
+                "id": "ark:/21198/s1nq3z",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1nq3z",
+                  "reconstruction": false,
+                  "label": "Synaxarion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1h30c",
+                        "pref_title": "Synaxarion",
+                        "alt_title": [
+                          "Synaxarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-208r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1v33m"
+                  ]
+                }
               }
             ],
             "assoc_date": [

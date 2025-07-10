@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1h61s",
           "label": "Overtext Layer",
@@ -51,35 +51,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s19s9t",
-                "reconstruction": false,
-                "label": "Life of Saint Euthymius",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Life of Saint Euthymius",
-                      "genre": [
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
+                "id": "ark:/21198/s19s9t",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s19s9t",
+                  "reconstruction": false,
+                  "label": "Life of Saint Euthymius",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Life of Saint Euthymius",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-6v",
+                      "note": [
+                        "Chapters 17-24"
                       ]
-                    },
-                    "locus": "ff. 1r-6v",
-                    "note": [
-                      "Chapters 17-24"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1h61s"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1h61s"
+                  ]
+                }
               }
             ],
             "parent": [

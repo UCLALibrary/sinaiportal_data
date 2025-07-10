@@ -28,7 +28,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1wp6x",
           "label": "Overtext Layer",
@@ -57,32 +57,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1q94t",
-                "reconstruction": false,
-                "label": "Canons of Oecumenical and Local Councils",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Canons of Oecumenical and Local Councils",
-                      "genre": [
-                        {
-                          "id": "canon-law",
-                          "label": "Canon law"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 2r-162v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1wp6x"
-                ]
+                "id": "ark:/21198/s1q94t",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1q94t",
+                  "reconstruction": false,
+                  "label": "Canons of Oecumenical and Local Councils",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Canons of Oecumenical and Local Councils",
+                        "genre": [
+                          {
+                            "id": "canon-law",
+                            "label": "Canon law"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 2r-162v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1wp6x"
+                  ]
+                }
               }
             ],
             "assoc_date": [

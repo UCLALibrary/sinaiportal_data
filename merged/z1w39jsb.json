@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1b03x",
           "label": "Overtext Layer",
@@ -51,36 +51,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s14h2v",
-                "reconstruction": false,
-                "label": "A modern summary of the Paradise of the Fathers",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "A modern summary of the Paradise of the Fathers",
-                      "genre": [
-                        {
-                          "id": "historical-works",
-                          "label": "Historical works"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1v-131r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1b03x"
-                ]
+                "id": "ark:/21198/s14h2v",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s14h2v",
+                  "reconstruction": false,
+                  "label": "A modern summary of the Paradise of the Fathers",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "A modern summary of the Paradise of the Fathers",
+                        "genre": [
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1v-131r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1b03x"
+                  ]
+                }
               }
             ],
             "para": [

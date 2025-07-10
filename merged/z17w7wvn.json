@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1xs4h",
           "label": "Overtext Layer",
@@ -51,62 +51,66 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1rd2d",
-                "reconstruction": false,
-                "label": "Four Gospels, divided according to Greek Calendar",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s10k5f",
-                      "pref_title": "Gospels",
-                      "alt_title": [
-                        "Bible. Gospels"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Gospels ",
-                          "uri": "https://viaf.org/viaf/317284260",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Gospels",
-                          "uri": "http://id.loc.gov/authorities/names/n79063688",
-                          "source": "LoC"
-                        }
-                      ]
-                    },
-                    "alt_title": "Four Gospels, divided according to Greek Calendar",
-                    "locus": "ff. 7r-224v"
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "contents",
-                      "label": "Contents Note"
-                    },
-                    "value": "Preceded by an index of chapters and followed by general calendar of Gospel readings for the year"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1xs4h"
-                ]
+                "id": "ark:/21198/s1rd2d",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1rd2d",
+                  "reconstruction": false,
+                  "label": "Four Gospels, divided according to Greek Calendar",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s10k5f",
+                        "pref_title": "Gospels",
+                        "alt_title": [
+                          "Bible. Gospels"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Gospels ",
+                            "uri": "https://viaf.org/viaf/317284260",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Gospels",
+                            "uri": "http://id.loc.gov/authorities/names/n79063688",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Four Gospels, divided according to Greek Calendar",
+                      "locus": "ff. 7r-224v"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Preceded by an index of chapters and followed by general calendar of Gospel readings for the year"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1xs4h"
+                  ]
+                }
               }
             ],
             "para": [

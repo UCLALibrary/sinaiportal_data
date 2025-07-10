@@ -28,7 +28,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1z325",
           "label": "Overtext Layer",
@@ -57,40 +57,44 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1rq0r",
-                "reconstruction": false,
-                "label": "Troparion",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1vc88",
-                      "pref_title": "Troparion",
-                      "alt_title": [
-                        "Troparion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-46r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1z325"
-                ]
+                "id": "ark:/21198/s1rq0r",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1rq0r",
+                  "reconstruction": false,
+                  "label": "Troparion",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1vc88",
+                        "pref_title": "Troparion",
+                        "alt_title": [
+                          "Troparion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-46r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1z325"
+                  ]
+                }
               }
             ],
             "para": [

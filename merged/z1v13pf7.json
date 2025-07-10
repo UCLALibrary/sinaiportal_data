@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1hk87",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1b67h",
-                "reconstruction": false,
-                "label": "Menologion (8 Kānūn II - 15 Ab)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion (8 Kānūn II - 15 Ab)",
-                    "locus": "ff. 1r-172v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1hk87"
-                ]
+                "id": "ark:/21198/s1b67h",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1b67h",
+                  "reconstruction": false,
+                  "label": "Menologion (8 Kānūn II - 15 Ab)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menologion (8 Kānūn II - 15 Ab)",
+                      "locus": "ff. 1r-172v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1hk87"
+                  ]
+                }
               }
             ],
             "assoc_date": [

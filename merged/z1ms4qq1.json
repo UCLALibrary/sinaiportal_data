@@ -33,7 +33,7 @@
         }
       ],
       "dim": "239 x 180 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1mk9j",
           "label": "Overtext Layer",
@@ -77,35 +77,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1f662",
-                "reconstruction": false,
-                "label": "Collection of Chants",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Collection of Chants",
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
+                "id": "ark:/21198/s1f662",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1f662",
+                  "reconstruction": false,
+                  "label": "Collection of Chants",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1mk9j"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Collection of Chants",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1mk9j"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -125,9 +129,11 @@
               "ark:/21198/z1ms4qq1"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1234v",
+          "uto_layer_ark": "ark:/21198/s1234v",
           "label": "Georgian Undertext: Psalter",
           "type": {
             "id": "undertext",
@@ -155,7 +161,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1xd06",
+          "uto_layer_ark": "ark:/21198/s1xd06",
           "label": "Georgian Undertext: Psalter",
           "type": {
             "id": "undertext",
@@ -183,7 +189,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1sk8q",
+          "uto_layer_ark": "ark:/21198/s1sk8q",
           "label": "Georgian Undertext: Psalter",
           "type": {
             "id": "undertext",
@@ -211,7 +217,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1nw6t",
+          "uto_layer_ark": "ark:/21198/s1nw6t",
           "label": "Georgian Undertext: Hymns",
           "type": {
             "id": "undertext",

@@ -33,7 +33,7 @@
         }
       ],
       "dim": "169 x 110 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s11p65",
           "label": "Overtext Layer",
@@ -76,35 +76,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1v95f",
-                "reconstruction": false,
-                "label": "Euchologion",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tp4j",
-                      "pref_title": "Euchologion",
-                      "alt_title": [
-                        "Euchologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s1v95f",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1v95f",
+                  "reconstruction": false,
+                  "label": "Euchologion",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s11p65"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tp4j",
+                        "pref_title": "Euchologion",
+                        "alt_title": [
+                          "Euchologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s11p65"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -155,9 +159,11 @@
               "ark:/21198/z1cz3pr7"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1xw7p",
+          "uto_layer_ark": "ark:/21198/s1xw7p",
           "label": "Greek Undertext: Clement the Hymnographer, Kanon on Saint Eupraxia",
           "type": {
             "id": "undertext",
@@ -185,7 +191,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1t34p",
+          "uto_layer_ark": "ark:/21198/s1t34p",
           "label": "Greek Undertext: Questions and Answers",
           "type": {
             "id": "undertext",
@@ -213,7 +219,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1pd35",
+          "uto_layer_ark": "ark:/21198/s1pd35",
           "label": "Greek Undertext: Paraklesis",
           "type": {
             "id": "undertext",
@@ -241,7 +247,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1jm0v",
+          "uto_layer_ark": "ark:/21198/s1jm0v",
           "label": "Greek Undertext: Typikon",
           "type": {
             "id": "undertext",

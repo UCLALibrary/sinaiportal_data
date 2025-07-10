@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s17s62",
           "label": "Overtext Layer",
@@ -51,51 +51,55 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s12d5b",
-                "reconstruction": false,
-                "label": "Euchologion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tp4j",
-                      "pref_title": "Euchologion",
-                      "alt_title": [
-                        "Euchologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-47v"
-                  }
-                ],
-                "features": [
-                  {
-                    "id": "parallel-text",
-                    "label": "Parallel text"
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "contents",
-                      "label": "Contents Note"
-                    },
-                    "value": "Parallel text, f.1r, Greek, Arabic; ff 1v-4v, Syriac, Arabic"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s17s62"
-                ]
+                "id": "ark:/21198/s12d5b",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s12d5b",
+                  "reconstruction": false,
+                  "label": "Euchologion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tp4j",
+                        "pref_title": "Euchologion",
+                        "alt_title": [
+                          "Euchologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-47v"
+                    }
+                  ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Parallel text, f.1r, Greek, Arabic; ff 1v-4v, Syriac, Arabic"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s17s62"
+                  ]
+                }
               }
             ],
             "assoc_date": [

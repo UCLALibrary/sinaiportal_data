@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s13k74",
           "label": "Overtext Layer",
@@ -51,87 +51,91 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1x651",
-                "reconstruction": false,
-                "label": "Commentary on the Song of Songs by St. Gregory of Nyssa",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Commentary on the Song of Songs by St. Gregory of Nyssa",
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1z30d",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1z30d",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "Gregory of Nyssa",
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "floruit": {
-                              "value": "ca. 335 CE-ca. 394 CE",
-                              "iso": {
-                                "not_before": 310,
-                                "not_after": 419
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "Gregory, of Nyssa, Saint, approximately 335-approximately 394",
-                                "uri": "http://viaf.org/viaf/103646160",
-                                "source": "VIAF"
+                "id": "ark:/21198/s1x651",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1x651",
+                  "reconstruction": false,
+                  "label": "Commentary on the Song of Songs by St. Gregory of Nyssa",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Commentary on the Song of Songs by St. Gregory of Nyssa",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1z30d",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1z30d",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
                               },
-                              {
-                                "label": "Gregory, of Nyssa, Saint, approximately 335-approximately 394",
-                                "uri": "https://id.loc.gov/authorities/names/n79021401",
-                                "source": "LoC"
+                              "pref_name": "Gregory of Nyssa",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
                               },
-                              {
-                                "label": "Gregory, of Nyssa, approximately 335-approximately 394",
-                                "uri": "https://w3id.org/haf/person/805578325781",
-                                "source": "HAF"
+                              "floruit": {
+                                "value": "ca. 335 CE-ca. 394 CE",
+                                "iso": {
+                                  "not_before": 310,
+                                  "not_after": 419
+                                }
                               },
-                              {
-                                "label": "Gregory of Nyssa",
-                                "uri": "http://syriaca.org/person/512",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Gregorius Nyssenus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1240/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                              "rel_con": [
+                                {
+                                  "label": "Gregory, of Nyssa, Saint, approximately 335-approximately 394",
+                                  "uri": "http://viaf.org/viaf/103646160",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Gregory, of Nyssa, Saint, approximately 335-approximately 394",
+                                  "uri": "https://id.loc.gov/authorities/names/n79021401",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Gregory, of Nyssa, approximately 335-approximately 394",
+                                  "uri": "https://w3id.org/haf/person/805578325781",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Gregory of Nyssa",
+                                  "uri": "http://syriaca.org/person/512",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Gregorius Nyssenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1240/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
                           }
-                        }
-                      ],
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "commentaries",
-                          "label": "Commentaries"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-111v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s13k74"
-                ]
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-111v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s13k74"
+                  ]
+                }
               }
             ],
             "assoc_date": [

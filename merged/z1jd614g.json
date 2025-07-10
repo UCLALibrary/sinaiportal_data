@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1p60z",
           "label": "Overtext Layer",
@@ -51,35 +51,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1gt09",
-                "reconstruction": false,
-                "label": "A Universal History",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "A Universal History",
-                      "genre": [
-                        {
-                          "id": "historical-works",
-                          "label": "Historical works"
-                        }
+                "id": "ark:/21198/s1gt09",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1gt09",
+                  "reconstruction": false,
+                  "label": "A Universal History",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "A Universal History",
+                        "genre": [
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-162v",
+                      "note": [
+                        "Beginning with the story of Moses and ending by the reign of the Caliph al-Ma’mūn"
                       ]
-                    },
-                    "locus": "ff. 1r-162v",
-                    "note": [
-                      "Beginning with the story of Moses and ending by the reign of the Caliph al-Ma’mūn"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1p60z"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1p60z"
+                  ]
+                }
               }
             ],
             "assoc_date": [

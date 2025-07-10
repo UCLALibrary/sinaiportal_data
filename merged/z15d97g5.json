@@ -32,7 +32,25 @@
         }
       ],
       "dim": "112 x 91 mm (representative folio)",
-      "layer": [
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Possible additional bifolio of Georgian NF M 59",
+          "note": [
+            "Based on size of bifolios, texture and color of parchment, and appearance of overtext; but whereas the undertext of Georgian NF M 59 is Armenian, the undertext of this bifolio is Greek"
+          ],
+          "mss": [
+            {
+              "label": "Sinai Georgian NF M 59",
+              "id": "ark:/21198/z18d059m"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
         {
           "id": "ark:/21198/s1w33x",
           "label": "Overtext Layer",
@@ -68,43 +86,49 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1pq1h",
-                "reconstruction": false,
-                "label": "Unidentified",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Unidentified"
+                "id": "ark:/21198/s1pq1h",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1pq1h",
+                  "reconstruction": false,
+                  "label": "Unidentified",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
                     }
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "contents",
-                      "label": "Contents Note"
-                    },
-                    "value": "Possibly related to contents of Georgian NF 59 (Liturgical collection)"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1w33x"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Unidentified"
+                      }
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Possibly related to contents of Georgian NF 59 (Liturgical collection)"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1w33x"
+                  ]
+                }
               }
             ],
             "parent": [
               "ark:/21198/z15d97g5"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s12s88",
+          "uto_layer_ark": "ark:/21198/s12s88",
           "label": "Greek Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -128,24 +152,6 @@
                 "id": "origin",
                 "label": "Date of Origin"
               }
-            }
-          ]
-        }
-      ],
-      "related_mss": [
-        {
-          "type": {
-            "id": "disjecta",
-            "label": "Disjecta Membra"
-          },
-          "label": "Possible additional bifolio of Georgian NF M 59",
-          "note": [
-            "Based on size of bifolios, texture and color of parchment, and appearance of overtext; but whereas the undertext of Georgian NF M 59 is Armenian, the undertext of this bifolio is Greek"
-          ],
-          "mss": [
-            {
-              "label": "Sinai Georgian NF M 59",
-              "id": "ark:/21198/z18d059m"
             }
           ]
         }

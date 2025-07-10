@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1rc9q",
           "label": "Overtext Layer",
@@ -51,86 +51,90 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1k067",
-                "reconstruction": false,
-                "label": "Mimars of St. Gregory the Theologian",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Mimars of St. Gregory the Theologian",
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s12s3c",
-                          "agent_record": {
-                            "ark": "ark:/21198/s12s3c",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "Gregory of Nazianzus",
-                            "alt_name": [
-                              "Gregory the Theologian"
-                            ],
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "floruit": {
-                              "value": "ca. 329 CE-390 CE",
-                              "iso": {
-                                "not_before": 304,
-                                "not_after": 415
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "Gregory, of Nazianzus, Saint",
-                                "uri": "http://viaf.org/viaf/46897094",
-                                "source": "VIAF"
+                "id": "ark:/21198/s1k067",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1k067",
+                  "reconstruction": false,
+                  "label": "Mimars of St. Gregory the Theologian",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Mimars of St. Gregory the Theologian",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s12s3c",
+                            "agent_record": {
+                              "ark": "ark:/21198/s12s3c",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
                               },
-                              {
-                                "label": "Gregory, of Nazianzus, Saint",
-                                "uri": "https://id.loc.gov/authorities/names/n50082276",
-                                "source": "LoC"
+                              "pref_name": "Gregory of Nazianzus",
+                              "alt_name": [
+                                "Gregory the Theologian"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
                               },
-                              {
-                                "label": "Gregory, of Nazianzus, approximately 329-390",
-                                "uri": "https://w3id.org/haf/person/889037265072",
-                                "source": "HAF"
+                              "floruit": {
+                                "value": "ca. 329 CE-390 CE",
+                                "iso": {
+                                  "not_before": 304,
+                                  "not_after": 415
+                                }
                               },
-                              {
-                                "label": "Gregory Nazianzen",
-                                "uri": "http://syriaca.org/person/511",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Gregorius Nazianzenus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1239/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                              "rel_con": [
+                                {
+                                  "label": "Gregory, of Nazianzus, Saint",
+                                  "uri": "http://viaf.org/viaf/46897094",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Gregory, of Nazianzus, Saint",
+                                  "uri": "https://id.loc.gov/authorities/names/n50082276",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Gregory, of Nazianzus, approximately 329-390",
+                                  "uri": "https://w3id.org/haf/person/889037265072",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Gregory Nazianzen",
+                                  "uri": "http://syriaca.org/person/511",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Gregorius Nazianzenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1239/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
                           }
-                        }
-                      ],
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 2r-511r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1rc9q"
-                ]
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 2r-511r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1rc9q"
+                  ]
+                }
               }
             ],
             "assoc_date": [

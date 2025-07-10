@@ -32,7 +32,7 @@
         }
       ],
       "dim": "195 x 125 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s15k7r",
           "label": "Overtext Layer",
@@ -68,102 +68,106 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s10661",
-                "reconstruction": false,
-                "label": "Homilies on the Gospel of Saint Matthew",
-                "lang": [
-                  {
-                    "id": "chri1239",
-                    "label": "CPA"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1cg66",
-                      "pref_title": "Homilies on the Gospel of Saint Matthew",
-                      "alt_title": [
-                        "John Chrysostom, Saint, -407. Homilies on the Gospel of Saint Matthew"
-                      ],
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "commentaries",
-                          "label": "Commentaries"
-                        }
-                      ],
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1x303",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1x303",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "John Chrysostom",
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "death": {
-                              "value": "407 CE",
-                              "iso": {
-                                "not_before": 407,
-                                "not_after": 407
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://viaf.org/viaf/305214868",
-                                "source": "VIAF"
-                              },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://id.loc.gov/authorities/names/n80001460",
-                                "source": "LoC"
-                              },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "https://w3id.org/haf/person/873419758532",
-                                "source": "HAF"
-                              },
-                              {
-                                "label": "John Chrysostom",
-                                "uri": "http://syriaca.org/person/573",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Iohannes Chrysostomus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                "id": "ark:/21198/s10661",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s10661",
+                  "reconstruction": false,
+                  "label": "Homilies on the Gospel of Saint Matthew",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1cg66",
+                        "pref_title": "Homilies on the Gospel of Saint Matthew",
+                        "alt_title": [
+                          "John Chrysostom, Saint, -407. Homilies on the Gospel of Saint Matthew"
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
                           },
-                          "role": {
-                            "id": "author",
-                            "label": "Author"
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
                           }
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "John Chrysostom, Saint, -407. | Homilies on the Gospel of Saint Matthew",
-                          "uri": "http://viaf.org/viaf/175558535",
-                          "source": "VIAF"
-                        }
-                      ]
-                    },
-                    "alt_title": "John Chrysostom, Homily on the Prodigal Son"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s15k7r"
-                ]
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "407 CE",
+                                "iso": {
+                                  "not_before": 407,
+                                  "not_after": 407
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "John Chrysostom, Saint, -407. | Homilies on the Gospel of Saint Matthew",
+                            "uri": "http://viaf.org/viaf/175558535",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "John Chrysostom, Homily on the Prodigal Son"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s15k7r"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -183,9 +187,11 @@
               "ark:/21198/z1ht2zc3"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s11d04",
+          "uto_layer_ark": "ark:/21198/s11d04",
           "label": "CPA Undertext: Martyr Acts",
           "type": {
             "id": "undertext",
@@ -213,7 +219,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1wp8p",
+          "uto_layer_ark": "ark:/21198/s1wp8p",
           "label": "CPA Undertext: Bible. Luke",
           "type": {
             "id": "undertext",

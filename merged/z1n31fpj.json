@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s11c8t",
           "label": "Overtext Layer",
@@ -51,36 +51,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1v08g",
-                "reconstruction": false,
-                "label": "Sayings of St. Dorotheus. Different Mimars",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Sayings of St. Dorotheus. Different Mimars",
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "apophthegmata",
-                          "label": "Apophthegmata"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-266v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s11c8t"
-                ]
+                "id": "ark:/21198/s1v08g",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1v08g",
+                  "reconstruction": false,
+                  "label": "Sayings of St. Dorotheus. Different Mimars",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Sayings of St. Dorotheus. Different Mimars",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-266v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s11c8t"
+                  ]
+                }
               }
             ],
             "assoc_date": [

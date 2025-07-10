@@ -31,7 +31,7 @@
         }
       ],
       "dim": "165 x 130 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1d059",
           "label": "Overtext Layer",
@@ -71,39 +71,43 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s16m2h",
-                "reconstruction": false,
-                "label": "Troparion",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1vc88",
-                      "pref_title": "Troparion",
-                      "alt_title": [
-                        "Troparion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
+                "id": "ark:/21198/s16m2h",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s16m2h",
+                  "reconstruction": false,
+                  "label": "Troparion",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1d059"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1vc88",
+                        "pref_title": "Troparion",
+                        "alt_title": [
+                          "Troparion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1d059"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -123,9 +127,11 @@
               "ark:/21198/z10v8nt5"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s18654",
+          "uto_layer_ark": "ark:/21198/s18654",
           "label": "Greek Undertext: John Climacus, Ladder of Divine Ascent",
           "type": {
             "id": "undertext",

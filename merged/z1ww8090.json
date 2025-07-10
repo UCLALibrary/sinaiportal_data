@@ -32,7 +32,22 @@
         }
       ],
       "dim": "225 x 154 mm (representative folio)",
-      "layer": [
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally formed one unit with Georgian NF M 55",
+          "mss": [
+            {
+              "label": "Sinai Georgian NF M 55",
+              "id": "ark:/21198/z1d50wzn"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
         {
           "id": "ark:/21198/s1gw4h",
           "label": "Overtext Layer",
@@ -75,31 +90,35 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s19h45",
-                "reconstruction": false,
-                "label": "Ascetica and Hagiographica",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Ascetica and Hagiographica",
-                      "genre": [
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
+                "id": "ark:/21198/s19h45",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s19h45",
+                  "reconstruction": false,
+                  "label": "Ascetica and Hagiographica",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1gw4h"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Ascetica and Hagiographica",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1gw4h"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -131,9 +150,11 @@
               "ark:/21198/z1ww8090"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1j33t",
+          "uto_layer_ark": "ark:/21198/s1j33t",
           "label": "Georgian Undertext: Legend of St. Christopher",
           "type": {
             "id": "undertext",
@@ -161,7 +182,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1dd1x",
+          "uto_layer_ark": "ark:/21198/s1dd1x",
           "label": "Armenian Undertext: Wisdom of Solomon",
           "type": {
             "id": "undertext",
@@ -188,7 +209,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s18k82",
+          "uto_layer_ark": "ark:/21198/s18k82",
           "label": "Caucasian Albanian Undertext: Bible. John",
           "type": {
             "id": "undertext",
@@ -216,7 +237,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s14w8x",
+          "uto_layer_ark": "ark:/21198/s14w8x",
           "label": "Armenian Undertext: Bible. Ecclesiastes",
           "type": {
             "id": "undertext",
@@ -243,7 +264,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1134j",
+          "uto_layer_ark": "ark:/21198/s1134j",
           "label": "Caucasian Albanian Undertext: Lectionary",
           "type": {
             "id": "undertext",
@@ -271,7 +292,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1wd2n",
+          "uto_layer_ark": "ark:/21198/s1wd2n",
           "label": "Armenian Undertext: Song of Songs",
           "type": {
             "id": "undertext",
@@ -298,7 +319,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1rk9s",
+          "uto_layer_ark": "ark:/21198/s1rk9s",
           "label": "Armenian Undertext: Bible. Epistles of Paul",
           "type": {
             "id": "undertext",
@@ -322,21 +343,6 @@
                 "id": "origin",
                 "label": "Date of Origin"
               }
-            }
-          ]
-        }
-      ],
-      "related_mss": [
-        {
-          "type": {
-            "id": "disjecta",
-            "label": "Disjecta Membra"
-          },
-          "label": "Originally formed one unit with Georgian NF M 55",
-          "mss": [
-            {
-              "label": "Sinai Georgian NF M 55",
-              "id": "ark:/21198/z1d50wzn"
             }
           ]
         }

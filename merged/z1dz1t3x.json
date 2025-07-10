@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1b89z",
           "label": "Overtext Layer",
@@ -51,32 +51,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s14w99",
-                "reconstruction": false,
-                "label": "Prayers",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Prayers",
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-100v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1b89z"
-                ]
+                "id": "ark:/21198/s14w99",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s14w99",
+                  "reconstruction": false,
+                  "label": "Prayers",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Prayers",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-100v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1b89z"
+                  ]
+                }
               }
             ],
             "assoc_date": [

@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s17w3z",
           "label": "Overtext Layer",
@@ -51,92 +51,96 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s12h27",
-                "reconstruction": false,
-                "label": "St. Antiochus: Pandectes",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1gp4f",
-                      "pref_title": "Pandektēs",
-                      "orig_lang": {
-                        "id": "gree1276",
-                        "label": "Greek"
-                      },
-                      "alt_title": [
-                        "Antiochus, monk of Palestine, active 7th century. Pandektēs"
-                      ],
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1kw2p",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1kw2p",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "Antiochus of Palestine",
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "floruit": {
-                              "value": "7th c. CE",
-                              "iso": {
-                                "not_before": 601,
-                                "not_after": 700
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "Antiochus active 7th century monk of Palestine",
-                                "uri": "http://viaf.org/viaf/89050745",
-                                "source": "VIAF"
+                "id": "ark:/21198/s12h27",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s12h27",
+                  "reconstruction": false,
+                  "label": "St. Antiochus: Pandectes",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1gp4f",
+                        "pref_title": "Pandektēs",
+                        "orig_lang": {
+                          "id": "gree1276",
+                          "label": "Greek"
+                        },
+                        "alt_title": [
+                          "Antiochus, monk of Palestine, active 7th century. Pandektēs"
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1kw2p",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1kw2p",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
                               },
-                              {
-                                "label": "Antiochus, monk of Palestine, active 7th century",
-                                "uri": "http://id.loc.gov/authorities/names/no2005084640",
-                                "source": "LoC"
+                              "pref_name": "Antiochus of Palestine",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
                               },
-                              {
-                                "label": "Antiochus, monk of Palestine, active 7th century",
-                                "uri": "https://haf.vhmml.org/person/329286221270",
-                                "source": "HAF"
+                              "floruit": {
+                                "value": "7th c. CE",
+                                "iso": {
+                                  "not_before": 601,
+                                  "not_after": 700
+                                }
                               },
-                              {
-                                "label": "Antiochus monachus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/234/",
-                                "source": "Pinakes"
-                              }
-                            ]
-                          },
-                          "role": {
-                            "id": "author",
-                            "label": "Author"
+                              "rel_con": [
+                                {
+                                  "label": "Antiochus active 7th century monk of Palestine",
+                                  "uri": "http://viaf.org/viaf/89050745",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Antiochus, monk of Palestine, active 7th century",
+                                  "uri": "http://id.loc.gov/authorities/names/no2005084640",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Antiochus, monk of Palestine, active 7th century",
+                                  "uri": "https://haf.vhmml.org/person/329286221270",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Antiochus monachus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/234/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
                           }
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Antiochus monachus Pandecte de la Sainte Écriture",
-                          "uri": "http://viaf.org/viaf/292613749",
-                          "source": "VIAF"
-                        }
-                      ]
-                    },
-                    "alt_title": "St. Antiochus: Pandectes",
-                    "locus": "ff. 4v-185v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s17w3z"
-                ]
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Antiochus monachus Pandecte de la Sainte Écriture",
+                            "uri": "http://viaf.org/viaf/292613749",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "St. Antiochus: Pandectes",
+                      "locus": "ff. 4v-185v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s17w3z"
+                  ]
+                }
               }
             ],
             "para": [

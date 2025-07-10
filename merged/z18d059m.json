@@ -33,7 +33,7 @@
         }
       ],
       "dim": "105 x 92 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s13p6s",
           "label": "Overtext Layer",
@@ -73,31 +73,35 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1x67s",
-                "reconstruction": false,
-                "label": "Liturgical collection",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Liturgical collection",
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s1x67s",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1x67s",
+                  "reconstruction": false,
+                  "label": "Liturgical collection",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s13p6s"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Liturgical collection",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s13p6s"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -117,9 +121,11 @@
               "ark:/21198/z18d059m"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1j06x",
+          "uto_layer_ark": "ark:/21198/s1j06x",
           "label": "Georgian Undertext: Hymns",
           "type": {
             "id": "undertext",

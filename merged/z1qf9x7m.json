@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1cg7k",
           "label": "Overtext Layer",
@@ -51,62 +51,66 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1636v",
-                "reconstruction": false,
-                "label": "Menologion for the month of Tamuz (July)",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion for the month of Tamuz (July)",
-                    "locus": "ff. 1r-253r",
-                    "excerpt": [
-                      {
-                        "type": {
-                          "id": "incipit",
-                          "label": "Incipit"
-                        },
-                        "locus": "f. 1r",
-                        "as_written": "نبتدي بمعونة الله و حسن توفيقه نكتب"
+                "id": "ark:/21198/s1636v",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1636v",
+                  "reconstruction": false,
+                  "label": "Menologion for the month of Tamuz (July)",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
                       },
-                      {
-                        "type": {
-                          "id": "explicit",
-                          "label": "Explicit"
+                      "alt_title": "Menologion for the month of Tamuz (July)",
+                      "locus": "ff. 1r-253r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 1r",
+                          "as_written": "نبتدي بمعونة الله و حسن توفيقه نكتب"
                         },
-                        "locus": "f. 253r",
-                        "as_written": "نجز هذه [sic] الكتاب"
-                      }
-                    ],
-                    "note": [
-                      "Beginning on the 2nd with the manifestation of Our Lady’s dress and ending on the 29th with the martyrdom of St. Theodota and her children"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1cg7k"
-                ]
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 253r",
+                          "as_written": "نجز هذه [sic] الكتاب"
+                        }
+                      ],
+                      "note": [
+                        "Beginning on the 2nd with the manifestation of Our Lady’s dress and ending on the 29th with the martyrdom of St. Theodota and her children"
+                      ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1cg7k"
+                  ]
+                }
               }
             ],
             "para": [

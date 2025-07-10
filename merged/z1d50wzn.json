@@ -32,7 +32,22 @@
         }
       ],
       "dim": "150 x 140 mm (representative folio)",
-      "layer": [
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally formed one unit with Georgian NF M 13",
+          "mss": [
+            {
+              "label": "Sinai Georgian NF M 13",
+              "id": "ark:/21198/z1ww8090"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
         {
           "id": "ark:/21198/s17c92",
           "label": "Overtext Layer",
@@ -68,35 +83,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1208b",
-                "reconstruction": false,
-                "label": "Sayings of the Desert Fathers",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1w89x",
-                      "pref_title": "Sayings of the Desert Fathers",
-                      "alt_title": [
-                        "Sayings of the Desert Fathers"
-                      ],
-                      "genre": [
-                        {
-                          "id": "apophthegmata",
-                          "label": "Apophthegmata"
-                        }
-                      ]
+                "id": "ark:/21198/s1208b",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1208b",
+                  "reconstruction": false,
+                  "label": "Sayings of the Desert Fathers",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s17c92"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1w89x",
+                        "pref_title": "Sayings of the Desert Fathers",
+                        "alt_title": [
+                          "Sayings of the Desert Fathers"
+                        ],
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s17c92"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -125,9 +144,11 @@
               "ark:/21198/z1d50wzn"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1pp96",
+          "uto_layer_ark": "ark:/21198/s1pp96",
           "label": "Armenian Undertext: Hebrews",
           "type": {
             "id": "undertext",
@@ -155,7 +176,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1jw6w",
+          "uto_layer_ark": "ark:/21198/s1jw6w",
           "label": "CPA Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -182,7 +203,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1f649",
+          "uto_layer_ark": "ark:/21198/s1f649",
           "label": "Armenian Undertext: Song of Songs",
           "type": {
             "id": "undertext",
@@ -209,7 +230,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s19h0n",
+          "uto_layer_ark": "ark:/21198/s19h0n",
           "label": "Caucasian Albanian Undertext: Bible. John",
           "type": {
             "id": "undertext",
@@ -237,7 +258,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s15p9j",
+          "uto_layer_ark": "ark:/21198/s15p9j",
           "label": "Caucasian Albanian Undertext: Lectionary",
           "type": {
             "id": "undertext",
@@ -265,7 +286,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s12056",
+          "uto_layer_ark": "ark:/21198/s12056",
           "label": "Armenian Undertext: Bible. Ecclesiastes",
           "type": {
             "id": "undertext",
@@ -292,7 +313,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1x64n",
+          "uto_layer_ark": "ark:/21198/s1x64n",
           "label": "Armenian Undertext: Bible. Epistles of Paul",
           "type": {
             "id": "undertext",
@@ -320,7 +341,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1sh1c",
+          "uto_layer_ark": "ark:/21198/s1sh1c",
           "label": "Armenian Undertext: Wisdom of Solomon",
           "type": {
             "id": "undertext",
@@ -347,7 +368,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1np8h",
+          "uto_layer_ark": "ark:/21198/s1np8h",
           "label": "CPA Undertext: Bible. Mark",
           "type": {
             "id": "undertext",
@@ -371,21 +392,6 @@
                 "id": "origin",
                 "label": "Date of Origin"
               }
-            }
-          ]
-        }
-      ],
-      "related_mss": [
-        {
-          "type": {
-            "id": "disjecta",
-            "label": "Disjecta Membra"
-          },
-          "label": "Originally formed one unit with Georgian NF M 13",
-          "mss": [
-            {
-              "label": "Sinai Georgian NF M 13",
-              "id": "ark:/21198/z1ww8090"
             }
           ]
         }

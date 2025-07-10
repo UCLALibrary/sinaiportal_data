@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1k334",
           "label": "Overtext Layer",
@@ -51,52 +51,56 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1cq1q",
-                "reconstruction": false,
-                "label": "Evangelion",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s19p4w",
-                      "pref_title": "Evangelion",
-                      "alt_title": [
-                        "Evangelion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
+                "id": "ark:/21198/s1cq1q",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1cq1q",
+                  "reconstruction": false,
+                  "label": "Evangelion",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "alt_title": [
+                          "Evangelion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Gospels of Matthew, Mark, Luke, and John",
+                      "locus": "ff. 2r-108v",
+                      "note": [
+                        "Each Gospel is preceded by a table of pericopes"
                       ]
-                    },
-                    "alt_title": "Gospels of Matthew, Mark, Luke, and John",
-                    "locus": "ff. 2r-108v",
-                    "note": [
-                      "Each Gospel is preceded by a table of pericopes"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1k334"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1k334"
+                  ]
+                }
               }
             ],
             "parent": [

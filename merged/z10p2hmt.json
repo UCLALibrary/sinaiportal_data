@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1n03q",
           "label": "Overtext Layer",
@@ -51,36 +51,40 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1fm2p",
-                "reconstruction": false,
-                "label": "Octoechos",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tg7m",
-                      "pref_title": "Octoechos",
-                      "alt_title": [
-                        "Octoechos"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-258r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1n03q"
-                ]
+                "id": "ark:/21198/s1fm2p",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1fm2p",
+                  "reconstruction": false,
+                  "label": "Octoechos",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tg7m",
+                        "pref_title": "Octoechos",
+                        "alt_title": [
+                          "Octoechos"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-258r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1n03q"
+                  ]
+                }
               }
             ],
             "assoc_date": [

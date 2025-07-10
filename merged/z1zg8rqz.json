@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1f92k",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1cm22",
-                "reconstruction": false,
-                "label": "Triodion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1030q",
-                      "pref_title": "Triodion",
-                      "alt_title": [
-                        "Triodion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
-                    },
-                    "alt_title": "Triodion containing all the proper rights for the offices of the Great Lent (the Great Fast)",
-                    "locus": "ff. 1v-58v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1f92k"
-                ]
+                "id": "ark:/21198/s1cm22",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1cm22",
+                  "reconstruction": false,
+                  "label": "Triodion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1030q",
+                        "pref_title": "Triodion",
+                        "alt_title": [
+                          "Triodion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "alt_title": "Triodion containing all the proper rights for the offices of the Great Lent (the Great Fast)",
+                      "locus": "ff. 1v-58v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1f92k"
+                  ]
+                }
               }
             ],
             "parent": [

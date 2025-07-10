@@ -32,7 +32,7 @@
         }
       ],
       "dim": "40 x 55 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1gg98",
           "label": "Overtext Layer",
@@ -71,31 +71,35 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s19375",
-                "reconstruction": false,
-                "label": "Liturgies for Holy Week and Resurrection",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Liturgies for Holy Week and Resurrection",
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s19375",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s19375",
+                  "reconstruction": false,
+                  "label": "Liturgies for Holy Week and Resurrection",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1gg98"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Liturgies for Holy Week and Resurrection",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1gg98"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -124,9 +128,11 @@
               "ark:/21198/z1qc0cjx"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1dh0k",
+          "uto_layer_ark": "ark:/21198/s1dh0k",
           "label": "Armenian Undertext: Athanasius, Life of Saint Antony",
           "type": {
             "id": "undertext",

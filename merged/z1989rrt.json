@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s12s4r",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1wd31",
-                "reconstruction": false,
-                "label": "Sticherarion and Canons",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1ms4q",
-                      "pref_title": "Sticherarion",
-                      "alt_title": [
-                        "Sticherarion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
-                    },
-                    "alt_title": "Sticherarion and Canons",
-                    "locus": "ff. 1v- 144v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s12s4r"
-                ]
+                "id": "ark:/21198/s1wd31",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1wd31",
+                  "reconstruction": false,
+                  "label": "Sticherarion and Canons",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1ms4q",
+                        "pref_title": "Sticherarion",
+                        "alt_title": [
+                          "Sticherarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "alt_title": "Sticherarion and Canons",
+                      "locus": "ff. 1v- 144v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s12s4r"
+                  ]
+                }
               }
             ],
             "assoc_date": [

@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s14032",
           "label": "Overtext Layer",
@@ -51,32 +51,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1xh3c",
-                "reconstruction": false,
-                "label": "Teachings of St. Simeon",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Teachings of St. Simeon",
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1v-8v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s14032"
-                ]
+                "id": "ark:/21198/s1xh3c",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1xh3c",
+                  "reconstruction": false,
+                  "label": "Teachings of St. Simeon",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Teachings of St. Simeon",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1v-8v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s14032"
+                  ]
+                }
               }
             ],
             "parent": [

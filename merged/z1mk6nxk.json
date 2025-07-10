@@ -31,7 +31,7 @@
         }
       ],
       "dim": "137 x 105 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1790z",
           "label": "Overtext Layer",
@@ -76,39 +76,43 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s11t1n",
-                "reconstruction": false,
-                "label": "Euchologion",
-                "lang": [
-                  {
-                    "id": "chur1257",
-                    "label": "Church Slavonic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tp4j",
-                      "pref_title": "Euchologion",
-                      "alt_title": [
-                        "Euchologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
+                "id": "ark:/21198/s11t1n",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s11t1n",
+                  "reconstruction": false,
+                  "label": "Euchologion",
+                  "lang": [
+                    {
+                      "id": "chur1257",
+                      "label": "Church Slavonic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tp4j",
+                        "pref_title": "Euchologion",
+                        "alt_title": [
+                          "Euchologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Liturgiarium sive Euchologium glagoliticum secundum (olim Missale)",
+                      "note": [
+                        "Missal (according to Tarnanidis)"
                       ]
-                    },
-                    "alt_title": "Liturgiarium sive Euchologium glagoliticum secundum (olim Missale)",
-                    "note": [
-                      "Missal (according to Tarnanidis)"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1790z"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1790z"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -156,9 +160,11 @@
               "ark:/21198/z1mk6nxk"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1ws8q",
+          "uto_layer_ark": "ark:/21198/s1ws8q",
           "label": "Church Slavonic Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -186,7 +192,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1s05q",
+          "uto_layer_ark": "ark:/21198/s1s05q",
           "label": "Church Slavonic Undertext: Unidentified text",
           "type": {
             "id": "undertext",

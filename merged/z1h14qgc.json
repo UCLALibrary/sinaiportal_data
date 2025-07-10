@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1xp4g",
           "label": "Overtext Layer",
@@ -51,49 +51,53 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1r93r",
-                "reconstruction": false,
-                "label": "Lectionary (Gospels)",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s19p4w",
-                      "pref_title": "Evangelion",
-                      "alt_title": [
-                        "Evangelion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Lectionary (Gospels)",
-                    "locus": "ff. 1v-434v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1xp4g"
-                ]
+                "id": "ark:/21198/s1r93r",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1r93r",
+                  "reconstruction": false,
+                  "label": "Lectionary (Gospels)",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "alt_title": [
+                          "Evangelion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary (Gospels)",
+                      "locus": "ff. 1v-434v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1xp4g"
+                  ]
+                }
               }
             ],
             "para": [

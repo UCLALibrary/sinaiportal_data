@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s19g9q",
           "label": "Overtext Layer",
@@ -51,44 +51,48 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s17t1h",
-                "reconstruction": false,
-                "label": "Lectionary",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1088g",
-                      "pref_title": "Lectionary",
-                      "alt_title": [
-                        "Lectionary"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-45v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s19g9q"
-                ]
+                "id": "ark:/21198/s17t1h",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s17t1h",
+                  "reconstruction": false,
+                  "label": "Lectionary",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "alt_title": [
+                          "Lectionary"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-45v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s19g9q"
+                  ]
+                }
               }
             ],
             "assoc_date": [

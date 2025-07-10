@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s14s64",
           "label": "Overtext Layer",
@@ -51,37 +51,41 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1zd3n",
-                "reconstruction": false,
-                "label": "Inspired sayings from the Old and New Testament",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1q59b",
-                      "pref_title": "Bible",
-                      "alt_title": [
-                        "Bible"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Inspired sayings from the Old and New Testament",
-                    "locus": "ff. 1r-37v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s14s64"
-                ]
+                "id": "ark:/21198/s1zd3n",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1zd3n",
+                  "reconstruction": false,
+                  "label": "Inspired sayings from the Old and New Testament",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1q59b",
+                        "pref_title": "Bible",
+                        "alt_title": [
+                          "Bible"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Inspired sayings from the Old and New Testament",
+                      "locus": "ff. 1r-37v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s14s64"
+                  ]
+                }
               }
             ],
             "features": [

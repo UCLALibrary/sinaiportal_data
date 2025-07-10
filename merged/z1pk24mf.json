@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1631z",
           "label": "Overtext Layer",
@@ -51,91 +51,95 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s10q0x",
-                "reconstruction": false,
-                "label": "Mimars of St. Isaac the Syrian",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Mimars of St. Isaac the Syrian",
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s19888",
-                          "agent_record": {
-                            "ark": "ark:/21198/s19888",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "Isaac of Nineveh",
-                            "alt_name": [
-                              "Isaac the Syrian",
-                              "Isaac of Beth Qatraye"
-                            ],
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "floruit": {
-                              "value": "7th c. CE",
-                              "iso": {
-                                "not_before": 601,
-                                "not_after": 700
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "Isaac, Bishop of Nineveh, active 7th century",
-                                "uri": "http://viaf.org/viaf/401332",
-                                "source": "VIAF"
+                "id": "ark:/21198/s10q0x",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s10q0x",
+                  "reconstruction": false,
+                  "label": "Mimars of St. Isaac the Syrian",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Mimars of St. Isaac the Syrian",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s19888",
+                            "agent_record": {
+                              "ark": "ark:/21198/s19888",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
                               },
-                              {
-                                "label": "Isaac, Bishop of Nineveh, active 7th century",
-                                "uri": "https://id.loc.gov/authorities/names/n85275908",
-                                "source": "LoC"
+                              "pref_name": "Isaac of Nineveh",
+                              "alt_name": [
+                                "Isaac the Syrian",
+                                "Isaac of Beth Qatraye"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
                               },
-                              {
-                                "label": "Isaac, Bishop of Nineveh, active 7th century",
-                                "uri": "https://w3id.org/haf/person/433885618574",
-                                "source": "HAF"
+                              "floruit": {
+                                "value": "7th c. CE",
+                                "iso": {
+                                  "not_before": 601,
+                                  "not_after": 700
+                                }
                               },
-                              {
-                                "label": "Isaac of Nineveh",
-                                "uri": "http://syriaca.org/person/550",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Isaac Niniuita Syrus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1555/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                              "rel_con": [
+                                {
+                                  "label": "Isaac, Bishop of Nineveh, active 7th century",
+                                  "uri": "http://viaf.org/viaf/401332",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Isaac, Bishop of Nineveh, active 7th century",
+                                  "uri": "https://id.loc.gov/authorities/names/n85275908",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Isaac, Bishop of Nineveh, active 7th century",
+                                  "uri": "https://w3id.org/haf/person/433885618574",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Isaac of Nineveh",
+                                  "uri": "http://syriaca.org/person/550",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Isaac Niniuita Syrus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1555/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
                           }
-                        }
-                      ],
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "mimars",
-                          "label": "Mimars"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1v-329r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1631z"
-                ]
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "mimars",
+                            "label": "Mimars"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1v-329r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1631z"
+                  ]
+                }
               }
             ],
             "assoc_date": [

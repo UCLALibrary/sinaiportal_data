@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1rh0p",
           "label": "Overtext Layer",
@@ -51,32 +51,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1k381",
-                "reconstruction": false,
-                "label": "Services",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Services",
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-232v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1rh0p"
-                ]
+                "id": "ark:/21198/s1k381",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1k381",
+                  "reconstruction": false,
+                  "label": "Services",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Services",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-232v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1rh0p"
+                  ]
+                }
               }
             ],
             "para": [

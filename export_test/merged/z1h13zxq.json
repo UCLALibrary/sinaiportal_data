@@ -37,7 +37,7 @@
         }
       ],
       "dim": "180 x 142 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s18d1p",
           "label": "Overtext Layer",
@@ -77,31 +77,35 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1308n",
-                "reconstruction": false,
-                "label": "Liturgical collection",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Liturgical collection",
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s1308n",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1308n",
+                  "reconstruction": false,
+                  "label": "Liturgical collection",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s18d1p"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Liturgical collection",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s18d1p"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -136,9 +140,11 @@
               "ark:/21198/z1h13zxq"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1gh06",
+          "uto_layer_ark": "ark:/21198/s1gh06",
           "label": "Georgian Undertext: Iadgari, Assumption",
           "type": {
             "id": "undertext",
@@ -166,7 +172,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1bp7b",
+          "uto_layer_ark": "ark:/21198/s1bp7b",
           "label": "Georgian Undertext: Heirmologion",
           "type": {
             "id": "undertext",
@@ -194,7 +200,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1705r",
+          "uto_layer_ark": "ark:/21198/s1705r",
           "label": "Georgian Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -222,7 +228,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1362f",
+          "uto_layer_ark": "ark:/21198/s1362f",
           "label": "Georgian Undertext: Hymns",
           "type": {
             "id": "undertext",
@@ -250,7 +256,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1zh1x",
+          "uto_layer_ark": "ark:/21198/s1zh1x",
           "label": "Greek Undertext: Unidentified text",
           "type": {
             "id": "undertext",

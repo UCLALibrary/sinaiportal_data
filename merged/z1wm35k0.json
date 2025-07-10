@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s11s7k",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1vd5g",
-                "reconstruction": false,
-                "label": "Menologion (12-28 Shabāt)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion (12-28 Shabāt)",
-                    "locus": "ff. 1r-188v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s11s7k"
-                ]
+                "id": "ark:/21198/s1vd5g",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1vd5g",
+                  "reconstruction": false,
+                  "label": "Menologion (12-28 Shabāt)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menologion (12-28 Shabāt)",
+                      "locus": "ff. 1r-188v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s11s7k"
+                  ]
+                }
               }
             ],
             "assoc_date": [

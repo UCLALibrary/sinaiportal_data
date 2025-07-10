@@ -33,7 +33,7 @@
         }
       ],
       "dim": "150 x 142 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1961x",
           "label": "Overtext Layer",
@@ -76,35 +76,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s13t0w",
-                "reconstruction": false,
-                "label": "Euchologion",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tp4j",
-                      "pref_title": "Euchologion",
-                      "alt_title": [
-                        "Euchologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s13t0w",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s13t0w",
+                  "reconstruction": false,
+                  "label": "Euchologion",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1961x"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tp4j",
+                        "pref_title": "Euchologion",
+                        "alt_title": [
+                          "Euchologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1961x"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -159,9 +163,11 @@
               "ark:/21198/z1hm5r33"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1qd23",
+          "uto_layer_ark": "ark:/21198/s1qd23",
           "label": "Greek Undertext: Liturgy of Saint Basil",
           "type": {
             "id": "undertext",
@@ -189,7 +195,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1kk97",
+          "uto_layer_ark": "ark:/21198/s1kk97",
           "label": "Greek Undertext: Sticherarion",
           "type": {
             "id": "undertext",

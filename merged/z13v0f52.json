@@ -33,7 +33,7 @@
         }
       ],
       "dim": "152 x 105 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s12p7v",
           "label": "Overtext Layer",
@@ -72,31 +72,35 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1w964",
-                "reconstruction": false,
-                "label": "Discourses on Asceticism",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Discourses on Asceticism",
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        }
-                      ]
+                "id": "ark:/21198/s1w964",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1w964",
+                  "reconstruction": false,
+                  "label": "Discourses on Asceticism",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s12p7v"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Discourses on Asceticism",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s12p7v"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -116,9 +120,11 @@
               "ark:/21198/z13v0f52"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1js90",
+          "uto_layer_ark": "ark:/21198/s1js90",
           "label": "Greek Undertext: Blessing of the waters for Epiphany",
           "type": {
             "id": "undertext",
@@ -146,7 +152,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1f060",
+          "uto_layer_ark": "ark:/21198/s1f060",
           "label": "Greek Undertext: Collection of liturgical hymns",
           "type": {
             "id": "undertext",
@@ -174,7 +180,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1993q",
+          "uto_layer_ark": "ark:/21198/s1993q",
           "label": "Greek Undertext: John Chrysostom, Homilies on Genesis",
           "type": {
             "id": "undertext",

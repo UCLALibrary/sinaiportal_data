@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1991z",
           "label": "Overtext Layer",
@@ -51,46 +51,50 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s13w90",
-                "reconstruction": false,
-                "label": "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker",
-                      "genre": [
+                "id": "ark:/21198/s13w90",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s13w90",
+                  "reconstruction": false,
+                  "label": "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker",
+                        "genre": [
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 4r-79r",
+                      "excerpt": [
                         {
-                          "id": "historical-works",
-                          "label": "Historical works"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 79r",
+                          "as_written": "تمّت (f. 62r)؛ نجزت"
                         }
                       ]
-                    },
-                    "locus": "ff. 4r-79r",
-                    "excerpt": [
-                      {
-                        "type": {
-                          "id": "explicit",
-                          "label": "Explicit"
-                        },
-                        "locus": "f. 79r",
-                        "as_written": "تمّت (f. 62r)؛ نجزت"
-                      }
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1991z"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1991z"
+                  ]
+                }
               }
             ],
             "para": [

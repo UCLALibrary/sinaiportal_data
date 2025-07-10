@@ -28,7 +28,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1533d",
           "label": "Overtext Layer",
@@ -65,37 +65,41 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1zq0m",
-                "reconstruction": false,
-                "label": "Anthologion for the whole year",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1mg6c",
-                      "pref_title": "Anthologion",
-                      "alt_title": [
-                        "Anthologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": "Anthologion for the whole year",
-                    "locus": "ff. 1v-200v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1533d"
-                ]
+                "id": "ark:/21198/s1zq0m",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1zq0m",
+                  "reconstruction": false,
+                  "label": "Anthologion for the whole year",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1mg6c",
+                        "pref_title": "Anthologion",
+                        "alt_title": [
+                          "Anthologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Anthologion for the whole year",
+                      "locus": "ff. 1v-200v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1533d"
+                  ]
+                }
               }
             ],
             "assoc_date": [

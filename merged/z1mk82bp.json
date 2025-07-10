@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1s03z",
           "label": "Overtext Layer",
@@ -51,102 +51,106 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1km2x",
-                "reconstruction": false,
-                "label": "Homilies on the Epistle to the Hebrews",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1h884",
-                      "pref_title": "Homilies on the Epistle to the Hebrews",
-                      "alt_title": [
-                        "John Chrysostom, Saint, -407. Homilies on the Epistle to the Hebrews"
-                      ],
-                      "genre": [
-                        {
-                          "id": "theological-works",
-                          "label": "Theological works"
-                        },
-                        {
-                          "id": "commentaries",
-                          "label": "Commentaries"
-                        }
-                      ],
-                      "creator": [
-                        {
-                          "id": "ark:/21198/s1x303",
-                          "agent_record": {
-                            "ark": "ark:/21198/s1x303",
-                            "type": {
-                              "id": "person",
-                              "label": "Person"
-                            },
-                            "pref_name": "John Chrysostom",
-                            "gender": {
-                              "id": "man",
-                              "label": "Man"
-                            },
-                            "death": {
-                              "value": "407 CE",
-                              "iso": {
-                                "not_before": 407,
-                                "not_after": 407
-                              }
-                            },
-                            "rel_con": [
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://viaf.org/viaf/305214868",
-                                "source": "VIAF"
-                              },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "http://id.loc.gov/authorities/names/n80001460",
-                                "source": "LoC"
-                              },
-                              {
-                                "label": "John Chrysostom, Saint, -407",
-                                "uri": "https://w3id.org/haf/person/873419758532",
-                                "source": "HAF"
-                              },
-                              {
-                                "label": "John Chrysostom",
-                                "uri": "http://syriaca.org/person/573",
-                                "source": "Syriaca"
-                              },
-                              {
-                                "label": "Iohannes Chrysostomus",
-                                "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
-                                "source": "Pinakes"
-                              }
-                            ]
+                "id": "ark:/21198/s1km2x",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1km2x",
+                  "reconstruction": false,
+                  "label": "Homilies on the Epistle to the Hebrews",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1h884",
+                        "pref_title": "Homilies on the Epistle to the Hebrews",
+                        "alt_title": [
+                          "John Chrysostom, Saint, -407. Homilies on the Epistle to the Hebrews"
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
                           },
-                          "role": {
-                            "id": "author",
-                            "label": "Author"
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
                           }
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "John Chrysostom, Saint, -407. | Homilies on the Epistle to the Hebrews",
-                          "uri": "http://viaf.org/viaf/309536147",
-                          "source": "VIAF"
-                        }
-                      ]
-                    },
-                    "locus": "Flyleaf 1r-f. 148v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1s03z"
-                ]
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "407 CE",
+                                "iso": {
+                                  "not_before": 407,
+                                  "not_after": 407
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "John Chrysostom, Saint, -407. | Homilies on the Epistle to the Hebrews",
+                            "uri": "http://viaf.org/viaf/309536147",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "locus": "Flyleaf 1r-f. 148v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1s03z"
+                  ]
+                }
               }
             ],
             "assoc_date": [

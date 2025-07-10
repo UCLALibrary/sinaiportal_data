@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1nk6q",
           "label": "Overtext Layer",
@@ -56,40 +56,44 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1g650",
-                "reconstruction": false,
-                "label": "Typikon",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  },
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1qk5z",
-                      "pref_title": "Typikon",
-                      "alt_title": [
-                        "Typikon"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s1g650",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1g650",
+                  "reconstruction": false,
+                  "label": "Typikon",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
                     },
-                    "locus": "ff. 1r-160r"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1nk6q"
-                ]
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1qk5z",
+                        "pref_title": "Typikon",
+                        "alt_title": [
+                          "Typikon"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-160r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1nk6q"
+                  ]
+                }
               }
             ],
             "assoc_date": [

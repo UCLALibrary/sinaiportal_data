@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1th09",
           "label": "Overtext Layer",
@@ -51,37 +51,41 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1rt0s",
-                "reconstruction": false,
-                "label": "Euchologion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1tp4j",
-                      "pref_title": "Euchologion",
-                      "alt_title": [
-                        "Euchologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        }
-                      ]
-                    },
-                    "alt_title": " Euchologion (collection of prayers) ",
-                    "locus": "ff. 1r-50v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1th09"
-                ]
+                "id": "ark:/21198/s1rt0s",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1rt0s",
+                  "reconstruction": false,
+                  "label": "Euchologion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tp4j",
+                        "pref_title": "Euchologion",
+                        "alt_title": [
+                          "Euchologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": " Euchologion (collection of prayers) ",
+                      "locus": "ff. 1r-50v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1th09"
+                  ]
+                }
               }
             ],
             "assoc_date": [

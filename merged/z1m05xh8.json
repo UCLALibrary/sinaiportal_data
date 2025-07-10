@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1v91x",
           "label": "Overtext Layer",
@@ -59,53 +59,57 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1sq36",
-                "reconstruction": false,
-                "label": "Book of the Translator",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  },
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s10c74",
-                      "pref_title": "Book of the Translator",
-                      "alt_title": [
-                        "The Book of the Interpreter",
-                        "Book of the Translator",
-                        "ܟܬܐܒ ܐܠܬܪܓܡܐܢ"
-                      ],
-                      "genre": [
-                        {
-                          "id": "dictionaries",
-                          "label": "Dictionaries"
-                        }
-                      ]
+                "id": "ark:/21198/s1sq36",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1sq36",
+                  "reconstruction": false,
+                  "label": "Book of the Translator",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
                     },
-                    "alt_title": "The Book of the Interpreter",
-                    "as_written": "ܟܬܐܒ ܐܠܬܪܓܡܐܢ",
-                    "locus": "ff. 1r-89v"
-                  }
-                ],
-                "note": [
-                  {
-                    "type": {
-                      "id": "contents",
-                      "label": "Contents Note"
-                    },
-                    "value": "Bilingual Syriac-Arabic"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1v91x"
-                ]
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s10c74",
+                        "pref_title": "Book of the Translator",
+                        "alt_title": [
+                          "The Book of the Interpreter",
+                          "Book of the Translator",
+                          "ܟܬܐܒ ܐܠܬܪܓܡܐܢ"
+                        ],
+                        "genre": [
+                          {
+                            "id": "dictionaries",
+                            "label": "Dictionaries"
+                          }
+                        ]
+                      },
+                      "alt_title": "The Book of the Interpreter",
+                      "as_written": "ܟܬܐܒ ܐܠܬܪܓܡܐܢ",
+                      "locus": "ff. 1r-89v"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Bilingual Syriac-Arabic"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1v91x"
+                  ]
+                }
               }
             ],
             "assoc_date": [

@@ -33,7 +33,7 @@
         }
       ],
       "dim": "157 x 135 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s14k8t",
           "label": "Overtext Layer",
@@ -73,39 +73,43 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1z66q",
-                "reconstruction": false,
-                "label": "Menaion",
-                "lang": [
-                  {
-                    "id": "nucl1302",
-                    "label": "Georgian"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1bg6w",
-                      "pref_title": "Menaia",
-                      "alt_title": [
-                        "Menaia"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
+                "id": "ark:/21198/s1z66q",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1z66q",
+                  "reconstruction": false,
+                  "label": "Menaion",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s14k8t"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1bg6w",
+                        "pref_title": "Menaia",
+                        "alt_title": [
+                          "Menaia"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s14k8t"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -125,9 +129,11 @@
               "ark:/21198/z12v3d24"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1tp82",
+          "uto_layer_ark": "ark:/21198/s1tp82",
           "label": "Syriac Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -155,7 +161,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1q053",
+          "uto_layer_ark": "ark:/21198/s1q053",
           "label": "Syriac Undertext: Unidentified liturgical text",
           "type": {
             "id": "undertext",
@@ -183,7 +189,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1k635",
+          "uto_layer_ark": "ark:/21198/s1k635",
           "label": "Arabic Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -211,7 +217,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1fh18",
+          "uto_layer_ark": "ark:/21198/s1fh18",
           "label": "Syriac Undertext: Unidentified theological, liturgical text",
           "type": {
             "id": "undertext",
@@ -239,7 +245,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s19p9s",
+          "uto_layer_ark": "ark:/21198/s19p9s",
           "label": "Syriac Undertext: Bible. Mark",
           "type": {
             "id": "undertext",
@@ -267,7 +273,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1605f",
+          "uto_layer_ark": "ark:/21198/s1605f",
           "label": "Syriac Undertext: Unidentified Liturgical Text, Prayers, and Hymns",
           "type": {
             "id": "undertext",
@@ -295,7 +301,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1291s",
+          "uto_layer_ark": "ark:/21198/s1291s",
           "label": "Syriac Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -323,7 +329,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1xh07",
+          "uto_layer_ark": "ark:/21198/s1xh07",
           "label": "Greek Undertext: Divine Liturgy of St. James",
           "type": {
             "id": "undertext",
@@ -352,7 +358,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1ss61",
+          "uto_layer_ark": "ark:/21198/s1ss61",
           "label": "Syriac Undertext: Bible. Matthew",
           "type": {
             "id": "undertext",
@@ -380,7 +386,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1p04d",
+          "uto_layer_ark": "ark:/21198/s1p04d",
           "label": "Greek Undertext: Unidentified liturgical text",
           "type": {
             "id": "undertext",
@@ -409,7 +415,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1j92h",
+          "uto_layer_ark": "ark:/21198/s1j92h",
           "label": "Syriac Undertext: Bible. Matthew",
           "type": {
             "id": "undertext",
@@ -437,7 +443,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1dg9n",
+          "uto_layer_ark": "ark:/21198/s1dg9n",
           "label": "Syriac Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -465,7 +471,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s18s7r",
+          "uto_layer_ark": "ark:/21198/s18s7r",
           "label": "Syriac Undertext: Hymns and Homilies",
           "type": {
             "id": "undertext",
@@ -493,7 +499,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1504r",
+          "uto_layer_ark": "ark:/21198/s1504r",
           "label": "Syriac Undertext: Unidentified theological text",
           "type": {
             "id": "undertext",
@@ -521,7 +527,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s11937",
+          "uto_layer_ark": "ark:/21198/s11937",
           "label": "Syriac Undertext: Life of Saint Pelagia",
           "type": {
             "id": "undertext",
@@ -549,7 +555,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1wh0x",
+          "uto_layer_ark": "ark:/21198/s1wh0x",
           "label": "Greek Undertext: Unidentified Christian poem",
           "type": {
             "id": "undertext",
@@ -577,7 +583,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1rs73",
+          "uto_layer_ark": "ark:/21198/s1rs73",
           "label": "Syriac Undertext: Bible. Luke",
           "type": {
             "id": "undertext",
@@ -605,7 +611,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1n05g",
+          "uto_layer_ark": "ark:/21198/s1n05g",
           "label": "Syriac Undertext: Bible. Matthew",
           "type": {
             "id": "undertext",
@@ -633,7 +639,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1h93k",
+          "uto_layer_ark": "ark:/21198/s1h93k",
           "label": "Syriac Undertext: Unidentified liturgical or theological text",
           "type": {
             "id": "undertext",
@@ -661,7 +667,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1ch1n",
+          "uto_layer_ark": "ark:/21198/s1ch1n",
           "label": "Georgian Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -689,7 +695,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s17s7f",
+          "uto_layer_ark": "ark:/21198/s17s7f",
           "label": "Syriac and Greek Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -718,7 +724,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s14333",
+          "uto_layer_ark": "ark:/21198/s14333",
           "label": "Syriac Undertext: Exodus",
           "type": {
             "id": "undertext",
@@ -746,7 +752,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1092j",
+          "uto_layer_ark": "ark:/21198/s1092j",
           "label": "Greek Undertext: Menaion",
           "type": {
             "id": "undertext",
@@ -775,7 +781,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1vk8b",
+          "uto_layer_ark": "ark:/21198/s1vk8b",
           "label": "Syriac Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -803,7 +809,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1qs6d",
+          "uto_layer_ark": "ark:/21198/s1qs6d",
           "label": "Syriac Undertext: Unidentified theological text or homily",
           "type": {
             "id": "undertext",
@@ -831,7 +837,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1m34t",
+          "uto_layer_ark": "ark:/21198/s1m34t",
           "label": "Greek Undertext: Bible. John",
           "type": {
             "id": "undertext",
@@ -859,7 +865,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1g91h",
+          "uto_layer_ark": "ark:/21198/s1g91h",
           "label": "Syriac Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -887,7 +893,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1bk92",
+          "uto_layer_ark": "ark:/21198/s1bk92",
           "label": "Syriac Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -915,7 +921,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s16s6r",
+          "uto_layer_ark": "ark:/21198/s16s6r",
           "label": "Syriac Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -943,7 +949,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1335j",
+          "uto_layer_ark": "ark:/21198/s1335j",
           "label": "Syriac Undertext: Unidentified theological text",
           "type": {
             "id": "undertext",
@@ -971,7 +977,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1z927",
+          "uto_layer_ark": "ark:/21198/s1z927",
           "label": "Syriac Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -999,7 +1005,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1tk9d",
+          "uto_layer_ark": "ark:/21198/s1tk9d",
           "label": "Coptic Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -1013,7 +1019,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1ps7g",
+          "uto_layer_ark": "ark:/21198/s1ps7g",
           "label": "Syriac Undertext: Bible. Amos",
           "type": {
             "id": "undertext",
@@ -1041,7 +1047,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1k35w",
+          "uto_layer_ark": "ark:/21198/s1k35w",
           "label": "Syriac Undertext: Unidentified text",
           "type": {
             "id": "undertext",
@@ -1069,7 +1075,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1f93z",
+          "uto_layer_ark": "ark:/21198/s1f93z",
           "label": "Greek Undertext: Unidentified liturgical text",
           "type": {
             "id": "undertext",
@@ -1097,7 +1103,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s19k9r",
+          "uto_layer_ark": "ark:/21198/s19k9r",
           "label": "Arabic Undertext: Months of the Zodiac",
           "type": {
             "id": "undertext",
@@ -1125,7 +1131,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s15w53",
+          "uto_layer_ark": "ark:/21198/s15w53",
           "label": "Greek Undertext: Bible. Mark",
           "type": {
             "id": "undertext",

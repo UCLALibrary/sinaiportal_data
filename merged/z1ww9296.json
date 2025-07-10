@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s13c9t",
           "label": "Overtext Layer",
@@ -51,49 +51,53 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1ww94",
-                "reconstruction": false,
-                "label": "Typikon (St. Sabas)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1n30m",
-                      "pref_title": "Samuel",
-                      "alt_title": [
-                        "Bible. Samuel"
-                      ],
-                      "genre": [
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ],
-                      "rel_con": [
-                        {
-                          "label": "Bible. Samuel",
-                          "uri": "https://viaf.org/viaf/180630917",
-                          "source": "VIAF"
-                        },
-                        {
-                          "label": "Bible. Samuel",
-                          "uri": "http://id.loc.gov/authorities/names/n80008475",
-                          "source": "LoC"
-                        }
-                      ]
-                    },
-                    "alt_title": "Book of Samuel I and part of II",
-                    "locus": "ff. 1v-109v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s13c9t"
-                ]
+                "id": "ark:/21198/s1ww94",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1ww94",
+                  "reconstruction": false,
+                  "label": "Typikon (St. Sabas)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1n30m",
+                        "pref_title": "Samuel",
+                        "alt_title": [
+                          "Bible. Samuel"
+                        ],
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Samuel",
+                            "uri": "https://viaf.org/viaf/180630917",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Bible. Samuel",
+                            "uri": "http://id.loc.gov/authorities/names/n80008475",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "Book of Samuel I and part of II",
+                      "locus": "ff. 1v-109v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s13c9t"
+                  ]
+                }
               }
             ],
             "assoc_date": [

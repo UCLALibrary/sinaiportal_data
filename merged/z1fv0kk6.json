@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1c338",
           "label": "Overtext Layer",
@@ -51,32 +51,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s15q1v",
-                "reconstruction": false,
-                "label": "Canons of Ecumenical Councils",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Canons of Ecumenical Councils",
-                      "genre": [
-                        {
-                          "id": "canon-law",
-                          "label": "Canon law"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-136v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1c338"
-                ]
+                "id": "ark:/21198/s15q1v",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s15q1v",
+                  "reconstruction": false,
+                  "label": "Canons of Ecumenical Councils",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Canons of Ecumenical Councils",
+                        "genre": [
+                          {
+                            "id": "canon-law",
+                            "label": "Canon law"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-136v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1c338"
+                  ]
+                }
               }
             ],
             "assoc_date": [

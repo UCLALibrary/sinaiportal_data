@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1nw3p",
           "label": "Overtext Layer",
@@ -51,32 +51,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1gh2z",
-                "reconstruction": false,
-                "label": "The story of Julian the Apostate and the family of Constantine",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "The story of Julian the Apostate and the family of Constantine",
-                      "genre": [
-                        {
-                          "id": "historical-works",
-                          "label": "Historical works"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-6v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1nw3p"
-                ]
+                "id": "ark:/21198/s1gh2z",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1gh2z",
+                  "reconstruction": false,
+                  "label": "The story of Julian the Apostate and the family of Constantine",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "The story of Julian the Apostate and the family of Constantine",
+                        "genre": [
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-6v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1nw3p"
+                  ]
+                }
               }
             ],
             "parent": [

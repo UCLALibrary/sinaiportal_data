@@ -32,7 +32,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1d928",
           "label": "Overtext Layer",
@@ -61,41 +61,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1bm2r",
-                "reconstruction": false,
-                "label": "Stichera for morning and evening",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1ms4q",
-                      "pref_title": "Sticherarion",
-                      "alt_title": [
-                        "Sticherarion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
-                    },
-                    "alt_title": "Stichera for morning and evening",
-                    "locus": "ff. 1r-21v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1d928"
-                ]
+                "id": "ark:/21198/s1bm2r",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1bm2r",
+                  "reconstruction": false,
+                  "label": "Stichera for morning and evening",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1ms4q",
+                        "pref_title": "Sticherarion",
+                        "alt_title": [
+                          "Sticherarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "alt_title": "Stichera for morning and evening",
+                      "locus": "ff. 1r-21v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1d928"
+                  ]
+                }
               }
             ],
             "features": [

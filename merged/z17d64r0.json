@@ -28,7 +28,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1m04s",
           "label": "Overtext Layer",
@@ -57,32 +57,36 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1dm2c",
-                "reconstruction": false,
-                "label": "Life of St. Anthony",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Life of St. Anthony",
-                      "genre": [
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-8v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1m04s"
-                ]
+                "id": "ark:/21198/s1dm2c",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1dm2c",
+                  "reconstruction": false,
+                  "label": "Life of St. Anthony",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Life of St. Anthony",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-8v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1m04s"
+                  ]
+                }
               }
             ],
             "parent": [

@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1431b",
           "label": "Overtext Layer",
@@ -51,35 +51,39 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1xq09",
-                "reconstruction": false,
-                "label": "Receipt book",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Receipt book",
-                      "genre": [
-                        {
-                          "id": "account-books",
-                          "label": "Account books"
-                        }
+                "id": "ark:/21198/s1xq09",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1xq09",
+                  "reconstruction": false,
+                  "label": "Receipt book",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Receipt book",
+                        "genre": [
+                          {
+                            "id": "account-books",
+                            "label": "Account books"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-44br",
+                      "note": [
+                        "Book of receipts taken by trustee of the Wakfs of the Monastery of Mt. Sinai against payment of taxes and dues to the Government authorities in Cairo"
                       ]
-                    },
-                    "locus": "ff. 1r-44br",
-                    "note": [
-                      "Book of receipts taken by trustee of the Wakfs of the Monastery of Mt. Sinai against payment of taxes and dues to the Government authorities in Cairo"
-                    ]
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1431b"
-                ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1431b"
+                  ]
+                }
               }
             ],
             "assoc_date": [

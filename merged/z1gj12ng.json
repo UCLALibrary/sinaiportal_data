@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1bs47",
           "label": "Overtext Layer",
@@ -56,53 +56,57 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1593g",
-                "reconstruction": false,
-                "label": "Evangelion, the Eleven Gospel chapters recited on Sundays",
-                "lang": [
-                  {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                  },
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s19p4w",
-                      "pref_title": "Evangelion",
-                      "alt_title": [
-                        "Evangelion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "lectionaries",
-                          "label": "Lectionaries"
-                        },
-                        {
-                          "id": "gospel-books",
-                          "label": "Gospel books"
-                        },
-                        {
-                          "id": "biblical-texts",
-                          "label": "Biblical texts"
-                        }
-                      ]
+                "id": "ark:/21198/s1593g",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1593g",
+                  "reconstruction": false,
+                  "label": "Evangelion, the Eleven Gospel chapters recited on Sundays",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
                     },
-                    "alt_title": "Lectionary (Gospels), the Eleven Gospel chapters recited on Sundays",
-                    "locus": "ff. 49v-124v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1bs47"
-                ]
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "alt_title": [
+                          "Evangelion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary (Gospels), the Eleven Gospel chapters recited on Sundays",
+                      "locus": "ff. 49v-124v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1bs47"
+                  ]
+                }
               }
             ],
             "assoc_date": [

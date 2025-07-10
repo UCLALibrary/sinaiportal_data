@@ -22,7 +22,7 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s19w5b",
           "label": "Overtext Layer",
@@ -51,41 +51,45 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s14h37",
-                "reconstruction": false,
-                "label": "Menologion (1st Ilūl - 30 Tishrīn II)",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s16s3m",
-                      "pref_title": "Menologion",
-                      "alt_title": [
-                        "Menologion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
-                    },
-                    "alt_title": "Menologion (1st Ilūl - 30 Tishrīn II)",
-                    "locus": "ff. 1r-227v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s19w5b"
-                ]
+                "id": "ark:/21198/s14h37",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s14h37",
+                  "reconstruction": false,
+                  "label": "Menologion (1st Ilūl - 30 Tishrīn II)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "alt_title": [
+                          "Menologion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menologion (1st Ilūl - 30 Tishrīn II)",
+                      "locus": "ff. 1r-227v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s19w5b"
+                  ]
+                }
               }
             ],
             "assoc_date": [

@@ -22,7 +22,7 @@
           "label": "Paper"
         }
       ],
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s1cw4k",
           "label": "Overtext Layer",
@@ -51,40 +51,44 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s16h3v",
-                "reconstruction": false,
-                "label": "Kontakarion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s17s3x",
-                      "pref_title": "Kontakarion",
-                      "alt_title": [
-                        "Kontakarion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-25v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1cw4k"
-                ]
+                "id": "ark:/21198/s16h3v",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s16h3v",
+                  "reconstruction": false,
+                  "label": "Kontakarion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s17s3x",
+                        "pref_title": "Kontakarion",
+                        "alt_title": [
+                          "Kontakarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-25v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1cw4k"
+                  ]
+                }
               }
             ],
             "assoc_date": [

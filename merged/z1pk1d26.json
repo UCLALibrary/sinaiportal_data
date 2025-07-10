@@ -33,7 +33,7 @@
         }
       ],
       "dim": "194 x 127 mm (representative folio)",
-      "layer": [
+      "ot_layer": [
         {
           "id": "ark:/21198/s10p77",
           "label": "Overtext Layer",
@@ -69,31 +69,35 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1t954",
-                "reconstruction": false,
-                "label": "Lives of Saints ; Encomium on the Theotokos",
-                "lang": [
-                  {
-                    "id": "gree1276",
-                    "label": "Greek"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "desc_title": "Lives of Saints ; Encomium on the Theotokos",
-                      "genre": [
-                        {
-                          "id": "hagiographies",
-                          "label": "Hagiographies"
-                        }
-                      ]
+                "id": "ark:/21198/s1t954",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1t954",
+                  "reconstruction": false,
+                  "label": "Lives of Saints ; Encomium on the Theotokos",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
                     }
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s10p77"
-                ]
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Lives of Saints ; Encomium on the Theotokos",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s10p77"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -113,9 +117,11 @@
               "ark:/21198/z1pk1d26"
             ]
           }
-        },
+        }
+      ],
+      "uto": [
         {
-          "id": "ark:/21198/s1r65g",
+          "uto_layer_ark": "ark:/21198/s1r65g",
           "label": "CPA Undertext: Bible. Proverbs",
           "type": {
             "id": "undertext",
@@ -143,7 +149,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1md25",
+          "uto_layer_ark": "ark:/21198/s1md25",
           "label": "Greek Undertext: Numbers",
           "type": {
             "id": "undertext",
@@ -171,7 +177,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1gp9b",
+          "uto_layer_ark": "ark:/21198/s1gp9b",
           "label": "CPA Undertext: Bible. Job",
           "type": {
             "id": "undertext",
@@ -199,7 +205,7 @@
           ]
         },
         {
-          "id": "ark:/21198/s1c050",
+          "uto_layer_ark": "ark:/21198/s1c050",
           "label": "CPA Undertext: Bible. Samuel",
           "type": {
             "id": "undertext",

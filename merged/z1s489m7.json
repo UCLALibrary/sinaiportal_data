@@ -22,7 +22,26 @@
           "label": "Parchment"
         }
       ],
-      "layer": [
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with Syriac NF M 50; Syriac NF M 63; and Milan, Biblioteca Ambrosiana, A 296 inf., ff. 214–216, 219–221 (= Chabot 75)",
+          "mss": [
+            {
+              "label": "Sinai Syriac NF M 50",
+              "id": "ark:/21198/z1jq49kz"
+            },
+            {
+              "label": "Sinai Syriac NF M 63",
+              "id": "ark:/21198/z1rn510k"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
         {
           "id": "ark:/21198/s1sw5p",
           "label": "Overtext Layer",
@@ -51,40 +70,44 @@
             ],
             "text_unit": [
               {
-                "ark": "ark:/21198/s1mh3k",
-                "reconstruction": false,
-                "label": "Sticherarion",
-                "lang": [
-                  {
-                    "id": "class1252",
-                    "label": "Syriac"
-                  }
-                ],
-                "work_wit": [
-                  {
-                    "work": {
-                      "ark": "ark:/21198/s1ms4q",
-                      "pref_title": "Sticherarion",
-                      "alt_title": [
-                        "Sticherarion"
-                      ],
-                      "genre": [
-                        {
-                          "id": "liturgical-texts",
-                          "label": "Liturgical texts"
-                        },
-                        {
-                          "id": "hymnals",
-                          "label": "Hymnals"
-                        }
-                      ]
-                    },
-                    "locus": "ff. 1r-99v"
-                  }
-                ],
-                "parent": [
-                  "ark:/21198/s1sw5p"
-                ]
+                "id": "ark:/21198/s1mh3k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1mh3k",
+                  "reconstruction": false,
+                  "label": "Sticherarion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1ms4q",
+                        "pref_title": "Sticherarion",
+                        "alt_title": [
+                          "Sticherarion"
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-99v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1sw5p"
+                  ]
+                }
               }
             ],
             "assoc_date": [
@@ -104,25 +127,6 @@
               "ark:/21198/z1s489m7"
             ]
           }
-        }
-      ],
-      "related_mss": [
-        {
-          "type": {
-            "id": "disjecta",
-            "label": "Disjecta Membra"
-          },
-          "label": "Originally belonged together with Syriac NF M 50; Syriac NF M 63; and Milan, Biblioteca Ambrosiana, A 296 inf., ff. 214–216, 219–221 (= Chabot 75)",
-          "mss": [
-            {
-              "label": "Sinai Syriac NF M 50",
-              "id": "ark:/21198/z1jq49kz"
-            },
-            {
-              "label": "Sinai Syriac NF M 63",
-              "id": "ark:/21198/z1rn510k"
-            }
-          ]
         }
       ]
     }
