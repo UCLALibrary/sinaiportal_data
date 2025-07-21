@@ -1,0 +1,93 @@
+{
+  "id": "ark:/21198/z1bg3sbz",
+  "ark": "ark:/21198/z1bg3sbz",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "year_isim": [
+    1294
+  ],
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [
+    "Decoration, Geometric",
+    "Dated",
+    "Headpiece(s)"
+  ],
+  "support_ssim": [
+    "Paper"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [
+    "Date of Origin"
+  ],
+  "program_ssim": [],
+  "ot_script_ssim": [
+    "Melkite"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Liturgical texts"
+  ],
+  "ot_date_isim": [
+    1294
+  ],
+  "ot_language_ssim": [
+    "Syriac"
+  ],
+  "ot_works_ssim": [],
+  "ot_names_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_genre_ssim": [],
+  "para_date_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_date_isim": [],
+  "uto_language_ssim": [],
+  "shelfmark_ssi": "Sinai Syriac 127",
+  "titles_tesim": [
+    "Services"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Services"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Paper",
+    "Services",
+    "ark:/21198/z1bg3sbz",
+    "f. 55 lacking",
+    "Syriac",
+    "Ornate headpiece on f. 4r, two large knots in the center, two leaves, fleur de lis and cross motifs, bordered by knotwork, with an elevated cross | Minor geometric headpieces throughout, beginning on f. 8r I Geometric headpieces, cross motif, red and black ink, ff. 169r, 177v, 186v, 199v",
+    "Melkite",
+    "Sinai Syriac 127"
+  ],
+  "all_fields_tesim": [
+    "Paper",
+    "Services",
+    "ark:/21198/z1bg3sbz",
+    "f. 55 lacking",
+    "Syriac",
+    "Ornate headpiece on f. 4r, two large knots in the center, two leaves, fleur de lis and cross motifs, bordered by knotwork, with an elevated cross | Minor geometric headpieces throughout, beginning on f. 8r I Geometric headpieces, cross motif, red and black ink, ff. 169r, 177v, 186v, 199v",
+    "Melkite",
+    "Sinai Syriac 127"
+  ],
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1bg3sbz\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 127\",\"extent\":\"202 ff.\",\"weight\":\"959.7 g\",\"dim\":\"193 x 149 x 76 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1k34h\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1k34h\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 127, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1cq23\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1cq23\",\"reconstruction\":false,\"label\":\"Services\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Services\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 4r-199v\"}],\"parent\":[\"ark:/21198/s1k34h\"]}}],\"assoc_date\":[{\"value\":\"1294 CE\",\"iso\":{\"not_before\":1294,\"not_after\":1294},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate headpiece on f. 4r, two large knots in the center, two leaves, fleur de lis and cross motifs, bordered by knotwork, with an elevated cross | Minor geometric headpieces throughout, beginning on f. 8r I Geometric headpieces, cross motif, red and black ink, ff. 169r, 177v, 186v, 199v\"}],\"parent\":[\"ark:/21198/z1bg3sbz\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"f. 55 lacking\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[228], p. 159\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917200205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bg3sbz/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bg3sbz%2Fq2646q5q/full/!200,200/0/default.jpg\"}]}"
+}

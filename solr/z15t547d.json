@@ -1,0 +1,90 @@
+{
+  "id": "ark:/21198/z15t547d",
+  "ark": "ark:/21198/z15t547d",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "year_isim": [
+    1254
+  ],
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [
+    "Palimpsest",
+    "Dated"
+  ],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [
+    "Date of Origin"
+  ],
+  "program_ssim": [],
+  "ot_script_ssim": [
+    "Melkite"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Liturgical texts"
+  ],
+  "ot_date_isim": [
+    1254
+  ],
+  "ot_language_ssim": [
+    "Syriac"
+  ],
+  "ot_works_ssim": [
+    "Heirmologion"
+  ],
+  "ot_names_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_genre_ssim": [],
+  "para_date_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_date_isim": [],
+  "uto_language_ssim": [],
+  "shelfmark_ssi": "Sinai Syriac 64",
+  "titles_tesim": [
+    "Heirmologion"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Heirmologion"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Parchment",
+    "Sinai Syriac 64",
+    "Melkite",
+    "Heirmologion",
+    "ark:/21198/z15t547d",
+    "Syriac"
+  ],
+  "all_fields_tesim": [
+    "Parchment",
+    "Sinai Syriac 64",
+    "Melkite",
+    "Heirmologion",
+    "ark:/21198/z15t547d",
+    "Syriac"
+  ],
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z15t547d\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 64\",\"extent\":\"159 ff.\",\"weight\":\"569.9 g\",\"dim\":\"163 x 122 x 75.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1561p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1561p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 64, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zq10\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zq10\",\"reconstruction\":false,\"label\":\"Heirmologion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1sp47\",\"pref_title\":\"Heirmologion\",\"alt_title\":[\"Heirmologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}],\"rel_con\":[{\"label\":\"Heirmologion\",\"uri\":\"http://viaf.org/viaf/213239652\",\"source\":\"VIAF\"}]},\"locus\":\"ff. 1r-155v\"}],\"parent\":[\"ark:/21198/s1561p\"]}}],\"assoc_date\":[{\"value\":\"1254 CE\",\"iso\":{\"not_before\":1254,\"not_after\":1254},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"}],\"parent\":[\"ark:/21198/z15t547d\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[190], p. 158\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279387430-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz15t547d/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15t547d%2F8n54kb72/full/!200,200/0/default.jpg\"}]}"
+}

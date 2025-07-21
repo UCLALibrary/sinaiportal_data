@@ -1,0 +1,83 @@
+{
+  "id": "ark:/21198/z17d64r0",
+  "ark": "ark:/21198/z17d64r0",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "year_isim": [],
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Quire(s)",
+  "features_ssim": [
+    "Palimpsest"
+  ],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [],
+  "ot_script_ssim": [
+    "Naskh"
+  ],
+  "ot_writing_system_ssim": [
+    "Arabic"
+  ],
+  "ot_genre_ssim": [
+    "Hagiographies"
+  ],
+  "ot_date_isim": [],
+  "ot_language_ssim": [
+    "Arabic"
+  ],
+  "ot_works_ssim": [],
+  "ot_names_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_genre_ssim": [],
+  "para_date_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_date_isim": [],
+  "uto_language_ssim": [],
+  "shelfmark_ssi": "Sinai Arabic NF M 62",
+  "titles_tesim": [
+    "Life of St. Anthony"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Life of St. Anthony"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Sinai Arabic NF M 62",
+    "Parchment",
+    "Naskh",
+    "Palimpsest with very faint Syriac undertext",
+    "Life of St. Anthony",
+    "Arabic",
+    "ark:/21198/z17d64r0"
+  ],
+  "all_fields_tesim": [
+    "Sinai Arabic NF M 62",
+    "Parchment",
+    "Naskh",
+    "Palimpsest with very faint Syriac undertext",
+    "Life of St. Anthony",
+    "Arabic",
+    "ark:/21198/z17d64r0"
+  ],
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z17d64r0\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 62\",\"extent\":\"8 ff.\",\"weight\":\"38.8 g\",\"dim\":\"150 x 134 x 15.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1m04s\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1m04s\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 62, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1dm2c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1dm2c\",\"reconstruction\":false,\"label\":\"Life of St. Anthony\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Life of St. Anthony\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"locus\":\"ff. 1r-8v\"}],\"parent\":[\"ark:/21198/s1m04s\"]}}],\"parent\":[\"ark:/21198/z17d64r0\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Palimpsest with very faint Syriac undertext\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 34; ٣٥\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz17d64r0/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz17d64r0%2F9d20x19k/full/!200,200/0/default.jpg\"}]}"
+}

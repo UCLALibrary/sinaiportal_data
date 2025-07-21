@@ -1,0 +1,104 @@
+{
+  "id": "ark:/21198/z1mg975v",
+  "ark": "ark:/21198/z1mg975v",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "year_isim": [
+    1092
+  ],
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [
+    "Decoration, Calligraphic",
+    "Decoration, Geometric",
+    "Dated",
+    "Headpiece(s)"
+  ],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [
+    "Date of Origin"
+  ],
+  "program_ssim": [],
+  "ot_script_ssim": [
+    "Christian Palestinian Aramaic"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Biblical texts",
+    "Liturgical texts",
+    "Gospel books",
+    "Lectionaries"
+  ],
+  "ot_date_isim": [
+    1092
+  ],
+  "ot_language_ssim": [
+    "CPA"
+  ],
+  "ot_works_ssim": [
+    "Evangelion"
+  ],
+  "ot_names_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_genre_ssim": [],
+  "para_date_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_date_isim": [],
+  "uto_language_ssim": [],
+  "shelfmark_ssi": "Sinai Syriac 2 B",
+  "titles_tesim": [
+    "Evangelion"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Lectionary of Gospels",
+    "Evangelion"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Parchment",
+    "Christian Palestinian Aramaic",
+    "ark:/21198/z1mg975v",
+    "CPA",
+    "Evangelion",
+    "Ornate geometric decorated cross with knot motif and end pieces, red and black ink, f. 154v; minor decorated cross, 153v",
+    "Syriac",
+    "Sinai Syriac 2 B",
+    "Minor geometric headpieces with end tails throughout, ff. 7v-154v",
+    "Minor decorative calligraphy, red and black ink, f. 83v"
+  ],
+  "all_fields_tesim": [
+    "Parchment",
+    "Christian Palestinian Aramaic",
+    "ark:/21198/z1mg975v",
+    "CPA",
+    "Evangelion",
+    "Ornate geometric decorated cross with knot motif and end pieces, red and black ink, f. 154v; minor decorated cross, 153v",
+    "Syriac",
+    "Sinai Syriac 2 B",
+    "Minor geometric headpieces with end tails throughout, ff. 7v-154v",
+    "Minor decorative calligraphy, red and black ink, f. 83v"
+  ],
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1mg975v\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 2 B\",\"extent\":\"152 ff.\",\"weight\":\"1490.1 g\",\"dim\":\"239 x 196 x 89 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1q91p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1q91p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 2 B, Overtext (Christian Palestinian Aramaic)\",\"writing\":[{\"script\":[{\"id\":\"cpa\",\"label\":\"Christian Palestinian Aramaic\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1hw9q\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1hw9q\",\"reconstruction\":false,\"label\":\"Evangelion\",\"lang\":[{\"id\":\"chri1239\",\"label\":\"CPA\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s19p4w\",\"pref_title\":\"Evangelion\",\"alt_title\":[\"Evangelion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Lectionary of Gospels\",\"locus\":\"ff. 3r-153v\"}],\"parent\":[\"ark:/21198/s1q91p\"]}}],\"assoc_date\":[{\"value\":\"1092 CE\",\"iso\":{\"not_before\":1092,\"not_after\":1092},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-calligraphic\",\"label\":\"Decoration, Calligraphic\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces with end tails throughout, ff. 7v-154v\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate geometric decorated cross with knot motif and end pieces, red and black ink, f. 154v; minor decorated cross, 153v\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor decorative calligraphy, red and black ink, f. 83v\"}],\"parent\":[\"ark:/21198/z1mg975v\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[2], p. 161\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1mg975v/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1mg975v%2F1055qt8x/full/!200,200/0/default.jpg\"}]}"
+}

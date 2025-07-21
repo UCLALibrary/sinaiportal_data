@@ -1,0 +1,94 @@
+{
+  "id": "ark:/21198/z13j5cfm",
+  "ark": "ark:/21198/z13j5cfm",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "year_isim": [
+    1216
+  ],
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [
+    "Dated"
+  ],
+  "support_ssim": [
+    "Paper"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [
+    "Date of Origin"
+  ],
+  "program_ssim": [],
+  "ot_script_ssim": [
+    "Naskh"
+  ],
+  "ot_writing_system_ssim": [
+    "Arabic"
+  ],
+  "ot_genre_ssim": [
+    "Theological works"
+  ],
+  "ot_date_isim": [
+    1216
+  ],
+  "ot_language_ssim": [
+    "Arabic"
+  ],
+  "ot_works_ssim": [],
+  "ot_names_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_genre_ssim": [],
+  "para_date_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_date_isim": [],
+  "uto_language_ssim": [],
+  "shelfmark_ssi": "Sinai Arabic 273",
+  "titles_tesim": [
+    "Mimars of St. Gregory the Theologian"
+  ],
+  "names_tesim": [
+    "Gregory of Nazianzus",
+    "Gregory the Theologian"
+  ],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Mimars of St. Gregory the Theologian"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Paper",
+    "Mimars of St. Gregory the Theologian",
+    "Naskh",
+    "Sinai Arabic 273",
+    "Gregory of Nazianzus",
+    "Gregory the Theologian",
+    "Arabic",
+    "ark:/21198/z13j5cfm"
+  ],
+  "all_fields_tesim": [
+    "Paper",
+    "Mimars of St. Gregory the Theologian",
+    "Naskh",
+    "Sinai Arabic 273",
+    "Gregory of Nazianzus",
+    "Gregory the Theologian",
+    "Arabic",
+    "ark:/21198/z13j5cfm"
+  ],
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z13j5cfm\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 273\",\"extent\":\"507 ff.\",\"weight\":\"3562.4 g\",\"dim\":\"271 x 201 x 138.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1rc9q\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1rc9q\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 273, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1k067\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1k067\",\"reconstruction\":false,\"label\":\"Mimars of St. Gregory the Theologian\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Mimars of St. Gregory the Theologian\",\"creator\":[{\"id\":\"ark:/21198/s12s3c\",\"agent_record\":{\"ark\":\"ark:/21198/s12s3c\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Gregory of Nazianzus\",\"alt_name\":[\"Gregory the Theologian\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"ca. 329 CE-390 CE\",\"iso\":{\"not_before\":304,\"not_after\":415}},\"rel_con\":[{\"label\":\"Gregory, of Nazianzus, Saint\",\"uri\":\"http://viaf.org/viaf/46897094\",\"source\":\"VIAF\"},{\"label\":\"Gregory, of Nazianzus, Saint\",\"uri\":\"https://id.loc.gov/authorities/names/n50082276\",\"source\":\"LoC\"},{\"label\":\"Gregory, of Nazianzus, approximately 329-390\",\"uri\":\"https://w3id.org/haf/person/889037265072\",\"source\":\"HAF\"},{\"label\":\"Gregory Nazianzen\",\"uri\":\"http://syriaca.org/person/511\",\"source\":\"Syriaca\"},{\"label\":\"Gregorius Nazianzenus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1239/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}]},\"locus\":\"ff. 2r-511r\"}],\"parent\":[\"ark:/21198/s1rc9q\"]}}],\"assoc_date\":[{\"value\":\"1216 CE\",\"iso\":{\"not_before\":1216,\"not_after\":1216},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"}],\"parent\":[\"ark:/21198/z13j5cfm\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[445], p. 36\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038709940205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz13j5cfm/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13j5cfm%2Fgt82fv9q/full/!200,200/0/default.jpg\"}]}"
+}

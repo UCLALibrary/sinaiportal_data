@@ -1,0 +1,89 @@
+{
+  "id": "ark:/21198/z1cc241z",
+  "ark": "ark:/21198/z1cc241z",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "year_isim": [
+    1243
+  ],
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [
+    "Dated"
+  ],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [
+    "Date of Origin"
+  ],
+  "program_ssim": [],
+  "ot_script_ssim": [
+    "Estrangela"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Liturgical texts"
+  ],
+  "ot_date_isim": [
+    1243
+  ],
+  "ot_language_ssim": [
+    "Syriac"
+  ],
+  "ot_works_ssim": [
+    "Horologion"
+  ],
+  "ot_names_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_genre_ssim": [],
+  "para_date_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_date_isim": [],
+  "uto_language_ssim": [],
+  "shelfmark_ssi": "Sinai Syriac 43",
+  "titles_tesim": [
+    "Horologion"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Horologion"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Parchment",
+    "Sinai Syriac 43",
+    "Horologion",
+    "Syriac",
+    "Estrangela",
+    "ark:/21198/z1cc241z"
+  ],
+  "all_fields_tesim": [
+    "Parchment",
+    "Sinai Syriac 43",
+    "Horologion",
+    "Syriac",
+    "Estrangela",
+    "ark:/21198/z1cc241z"
+  ],
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1cc241z\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 43\",\"extent\":\"87 ff.\",\"weight\":\"673.9 g\",\"dim\":\"187 x 154 x 57 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1fk77\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1fk77\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 43, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1867w\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1867w\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1v-85v\"}],\"parent\":[\"ark:/21198/s1fk77\"]}}],\"assoc_date\":[{\"value\":\"1243 CE\",\"iso\":{\"not_before\":1243,\"not_after\":1243},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"}],\"parent\":[\"ark:/21198/z1cc241z\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[107], p. 155\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/0027938653A-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cc241z/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+}

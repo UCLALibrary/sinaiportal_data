@@ -1,0 +1,117 @@
+{
+  "id": "ark:/21198/z13n36rv",
+  "ark": "ark:/21198/z13n36rv",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "year_isim": [
+    1329
+  ],
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [
+    "Decoration, Geometric",
+    "Dated",
+    "Headpiece(s)",
+    "Colophon"
+  ],
+  "support_ssim": [
+    "Paper"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [
+    "Date of Origin"
+  ],
+  "program_ssim": [],
+  "ot_script_ssim": [
+    "Naskh"
+  ],
+  "ot_writing_system_ssim": [
+    "Arabic"
+  ],
+  "ot_genre_ssim": [
+    "Liturgical texts",
+    "Hagiographies"
+  ],
+  "ot_date_isim": [
+    1329
+  ],
+  "ot_language_ssim": [
+    "Arabic"
+  ],
+  "ot_works_ssim": [
+    "Menologion"
+  ],
+  "ot_names_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_genre_ssim": [],
+  "para_date_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_date_isim": [],
+  "uto_language_ssim": [],
+  "shelfmark_ssi": "Sinai Arabic 395",
+  "titles_tesim": [
+    "Menologion"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [
+    "Holy Mount Sinai Monastery",
+    "Saint Catherine's Monastery (Sinai)"
+  ],
+  "contents_tesim": [
+    "Menologion. Lives of Saints for month of Ilul (September)",
+    "Menologion. Lives of Saints for month of Ilul (September), beginning on the 21st with the Prophet Jonas and ending on the 30th with Gregory Bishop of Armenia",
+    "Menologion"
+  ],
+  "paracontent_tesim": [
+    "وذلك بتأريخ سنة ستة آلاف وثمانمائة وسبع وثلاثين لأبونا آدم احن الله العافي (؟) وذلك بدير طور سيناء المقدس وهو برسم كنيسة السيدة ",
+    "Colophon",
+    "And it was [i.e. copying finished] in the Year of Our Father Adam [Anno Mundi] 6837 …, which happened at Holy Mount Sinai Monastery …",
+    "Arabic"
+  ],
+  "full_text_tesim": [
+    "Paper",
+    "ark:/21198/z13n36rv",
+    "Rodent damage affecting text on ff. 1–11",
+    "Menologion",
+    "Holy Mount Sinai Monastery",
+    "Geometric headpiece on f. 134v",
+    "Saint Catherine's Monastery (Sinai)",
+    "Naskh",
+    "Sinai Arabic 395",
+    "Arabic",
+    "Menologion. Lives of Saints for month of Ilul (September)",
+    "F. 213v",
+    "Menologion. Lives of Saints for month of Ilul (September), beginning on the 21st with the Prophet Jonas and ending on the 30th with Gregory Bishop of Armenia"
+  ],
+  "all_fields_tesim": [
+    "Paper",
+    "ark:/21198/z13n36rv",
+    "Rodent damage affecting text on ff. 1–11",
+    "Menologion",
+    "Holy Mount Sinai Monastery",
+    "Geometric headpiece on f. 134v",
+    "Saint Catherine's Monastery (Sinai)",
+    "Naskh",
+    "Sinai Arabic 395",
+    "Arabic",
+    "Menologion. Lives of Saints for month of Ilul (September)",
+    "F. 213v",
+    "Menologion. Lives of Saints for month of Ilul (September), beginning on the 21st with the Prophet Jonas and ending on the 30th with Gregory Bishop of Armenia"
+  ],
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z13n36rv\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 395\",\"extent\":\"213 ff.\",\"weight\":\"2686.3 g\",\"dim\":\"333 x 240 x 84 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1sp60\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1sp60\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 395, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1m94w\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1m94w\",\"reconstruction\":false,\"label\":\"Menologion. Lives of Saints for month of Ilul (September)\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion. Lives of Saints for month of Ilul (September)\",\"locus\":\"ff. 1r-213v\",\"note\":[\"Menologion. Lives of Saints for month of Ilul (September), beginning on the 21st with the Prophet Jonas and ending on the 30th with Gregory Bishop of Armenia\"]}],\"parent\":[\"ark:/21198/s1sp60\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 213v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"وذلك بتأريخ سنة ستة آلاف وثمانمائة وسبع وثلاثين لأبونا آدم احن الله العافي (؟) وذلك بدير طور سيناء المقدس وهو برسم كنيسة السيدة \",\"translation\":[\"And it was [i.e. copying finished] in the Year of Our Father Adam [Anno Mundi] 6837 …, which happened at Holy Mount Sinai Monastery …\"],\"assoc_place\":[{\"value\":\"Holy Mount Sinai Monastery\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"assoc_date\":[{\"value\":\"6837\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}],\"assoc_date\":[{\"value\":\"1329 CE\",\"iso\":{\"not_before\":1329,\"not_after\":1329},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Saint Catherine's Monastery (Sinai)\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"},\"note\":[\"F. 213v\"]}],\"features\":[{\"id\":\"colophon\",\"label\":\"Colophon\"},{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric headpiece on f. 134v\"}],\"parent\":[\"ark:/21198/z13n36rv\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Rodent damage affecting text on ff. 1–11\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[155], p. 18\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279389918-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz13n36rv/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+}

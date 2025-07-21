@@ -1,0 +1,98 @@
+{
+  "id": "ark:/21198/z1224cf3",
+  "ark": "ark:/21198/z1224cf3",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "year_isim": [
+    1286
+  ],
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [
+    "Dated",
+    "Colophon"
+  ],
+  "support_ssim": [
+    "Paper"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [
+    "Date of Origin"
+  ],
+  "program_ssim": [],
+  "ot_script_ssim": [
+    "Melkite"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Liturgical texts",
+    "Hagiographies"
+  ],
+  "ot_date_isim": [
+    1286
+  ],
+  "ot_language_ssim": [
+    "Syriac"
+  ],
+  "ot_works_ssim": [
+    "Menologion"
+  ],
+  "ot_names_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_genre_ssim": [],
+  "para_date_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_date_isim": [],
+  "uto_language_ssim": [],
+  "shelfmark_ssi": "Sinai Syriac 91",
+  "titles_tesim": [
+    "Menologion"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Menologion (1st Shabāt - 29 Ab)",
+    "Menologion"
+  ],
+  "paracontent_tesim": [
+    "ܘܨܠܝ ܥܠ ܟܬܘܒܐ ܒܬܟܫ ܕܝܠܕܬ ܐܠܗܐ ܐܚܝ ܨܠܝ ܥܠ ܟܬܘܒܗ+",
+    "Colophon",
+    "Syriac"
+  ],
+  "full_text_tesim": [
+    "Paper",
+    "Melkite",
+    "Menologion",
+    "Syriac",
+    "Menologion (1st Shabāt - 29 Ab)",
+    "ark:/21198/z1224cf3",
+    "Sinai Syriac 91"
+  ],
+  "all_fields_tesim": [
+    "Paper",
+    "Melkite",
+    "Menologion",
+    "Syriac",
+    "Menologion (1st Shabāt - 29 Ab)",
+    "ark:/21198/z1224cf3",
+    "Sinai Syriac 91"
+  ],
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1224cf3\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 91\",\"extent\":\"316 ff.\",\"weight\":\"1456.6 g\",\"dim\":\"202 x 160 x 92.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1k61d\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1k61d\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 91, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1ct0c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1ct0c\",\"reconstruction\":false,\"label\":\"Menologion (1st Shabāt - 29 Ab)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion (1st Shabāt - 29 Ab)\",\"locus\":\"ff. 1r-312v\"}],\"parent\":[\"ark:/21198/s1k61d\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"312v\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܘܨܠܝ ܥܠ ܟܬܘܒܐ ܒܬܟܫ ܕܝܠܕܬ ܐܠܗܐ ܐܚܝ ܨܠܝ ܥܠ ܟܬܘܒܗ+\"},{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"92v\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}]}],\"assoc_date\":[{\"value\":\"1286 CE\",\"iso\":{\"not_before\":1286,\"not_after\":1286},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1224cf3\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"viscodex\":[{\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"label\":\"Collation Visualization for Sinai Syriac 91\",\"url\":\"https://vceditor.library.upenn.edu/project/668db1cf5d696800014595c3/viewOnly\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[133], p. 156\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279387715-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1224cf3/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1224cf3%2Ft932bb2d/full/!200,200/0/default.jpg\"}]}"
+}

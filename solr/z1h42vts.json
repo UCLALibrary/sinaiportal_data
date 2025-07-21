@@ -1,0 +1,103 @@
+{
+  "id": "ark:/21198/z1h42vts",
+  "ark": "ark:/21198/z1h42vts",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "year_isim": [
+    1104
+  ],
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [
+    "Decoration, Geometric",
+    "Dated",
+    "Headpiece(s)"
+  ],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [
+    "Date of Origin"
+  ],
+  "program_ssim": [],
+  "ot_script_ssim": [
+    "Christian Palestinian Aramaic"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Biblical texts",
+    "Liturgical texts",
+    "Gospel books",
+    "Lectionaries"
+  ],
+  "ot_date_isim": [
+    1104
+  ],
+  "ot_language_ssim": [
+    "CPA"
+  ],
+  "ot_works_ssim": [
+    "Evangelion"
+  ],
+  "ot_names_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_genre_ssim": [],
+  "para_date_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_date_isim": [],
+  "uto_language_ssim": [],
+  "shelfmark_ssi": "Sinai Syriac 1 B",
+  "titles_tesim": [
+    "Evangelion"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Lectionary of Gospels",
+    "Evangelion"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Parchment",
+    "Christian Palestinian Aramaic",
+    "CPA",
+    "Evangelion",
+    "Syriac",
+    "Sinai Syriac 1 B",
+    "Leather on spine split",
+    "Geometric headpieces throughout, beginning on f. 32v I Geometric decoration, square with overlapping geometric grid, f. 151r",
+    "f. 1 lacking",
+    "ark:/21198/z1h42vts"
+  ],
+  "all_fields_tesim": [
+    "Parchment",
+    "Christian Palestinian Aramaic",
+    "CPA",
+    "Evangelion",
+    "Syriac",
+    "Sinai Syriac 1 B",
+    "Leather on spine split",
+    "Geometric headpieces throughout, beginning on f. 32v I Geometric decoration, square with overlapping geometric grid, f. 151r",
+    "f. 1 lacking",
+    "ark:/21198/z1h42vts"
+  ],
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1h42vts\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 1 B\",\"extent\":\"155 ff.\",\"weight\":\"2047.4 g\",\"dim\":\"258 x 209 x 105 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1zs6k\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1zs6k\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 1 B, Overtext (Christian Palestinian Aramaic)\",\"writing\":[{\"script\":[{\"id\":\"cpa\",\"label\":\"Christian Palestinian Aramaic\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1s95t\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1s95t\",\"reconstruction\":false,\"label\":\"Evangelion\",\"lang\":[{\"id\":\"chri1239\",\"label\":\"CPA\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s19p4w\",\"pref_title\":\"Evangelion\",\"alt_title\":[\"Evangelion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Lectionary of Gospels\",\"locus\":\"ff. 2r-151r\"}],\"parent\":[\"ark:/21198/s1zs6k\"]}}],\"assoc_date\":[{\"value\":\"1104 CE\",\"iso\":{\"not_before\":1104,\"not_after\":1104},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric headpieces throughout, beginning on f. 32v I Geometric decoration, square with overlapping geometric grid, f. 151r\"}],\"parent\":[\"ark:/21198/z1h42vts\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"f. 1 lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Leather on spine split\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[1], p. 161\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1h42vts/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+}

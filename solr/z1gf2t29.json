@@ -1,0 +1,99 @@
+{
+  "id": "ark:/21198/z1gf2t29",
+  "ark": "ark:/21198/z1gf2t29",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "year_isim": [],
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [
+    "Palimpsest",
+    "Headpiece(s)"
+  ],
+  "support_ssim": [
+    "Paper",
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [],
+  "ot_script_ssim": [
+    "Melkite"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Liturgical texts",
+    "Hymnals"
+  ],
+  "ot_date_isim": [],
+  "ot_language_ssim": [
+    "Syriac"
+  ],
+  "ot_works_ssim": [
+    "Sticherarion"
+  ],
+  "ot_names_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_genre_ssim": [],
+  "para_date_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_date_isim": [],
+  "uto_language_ssim": [],
+  "shelfmark_ssi": "Sinai Syriac NF X 17",
+  "titles_tesim": [
+    "Sticherarion"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Sticherarion",
+    "Stichera for morning and evening"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Paper",
+    "Parchment",
+    "Palimpsest and parchment front and end fly-leaves",
+    "Syro-Palestinian script on the flyleaves",
+    "Headpiece (f. 1r)",
+    "Syriac",
+    "ark:/21198/z1gf2t29",
+    "Sinai Syriac NF X 17",
+    "Stichera for morning and evening",
+    "Melkite",
+    "The front and end fly-leaves each consist of two glued together leaves",
+    "Sticherarion"
+  ],
+  "all_fields_tesim": [
+    "Paper",
+    "Parchment",
+    "Palimpsest and parchment front and end fly-leaves",
+    "Syro-Palestinian script on the flyleaves",
+    "Headpiece (f. 1r)",
+    "Syriac",
+    "ark:/21198/z1gf2t29",
+    "Sinai Syriac NF X 17",
+    "Stichera for morning and evening",
+    "Melkite",
+    "The front and end fly-leaves each consist of two glued together leaves",
+    "Sticherarion"
+  ],
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1gf2t29\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF X 17\",\"extent\":\"26 ff.\",\"weight\":\"49.6 g\",\"dim\":\"150 x 119 x 15.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"},{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1d928\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1d928\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF X 17, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1bm2r\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1bm2r\",\"reconstruction\":false,\"label\":\"Stichera for morning and evening\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1ms4q\",\"pref_title\":\"Sticherarion\",\"alt_title\":[\"Sticherarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"alt_title\":\"Stichera for morning and evening\",\"locus\":\"ff. 1r-21v\"}],\"parent\":[\"ark:/21198/s1d928\"]}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Headpiece (f. 1r)\"}],\"parent\":[\"ark:/21198/z1gf2t29\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Syro-Palestinian script on the flyleaves\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"The front and end fly-leaves each consist of two glued together leaves\"},{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Palimpsest and parchment front and end fly-leaves\"}],\"bib\":[{\"id\":\"220eeb5e-ef2f-4ddd-96e5-47e2220aa409\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[X17N], pp. 161-166\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gf2t29/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gf2t29%2Fv276m584/full/!200,200/0/default.jpg\"}]}"
+}
