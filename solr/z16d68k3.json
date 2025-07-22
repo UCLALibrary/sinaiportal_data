@@ -1,19 +1,17 @@
 {
   "id": "ark:/21198/z16d68k3",
-  "ark": "ark:/21198/z16d68k3",
+  "ark_ssi": "ark:/21198/z16d68k3",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    980
-  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1hh6xc3/0,902,5412,5412/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
     "Palimpsest",
-    "Dated",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Dated"
   ],
   "support_ssim": [
     "Parchment"
@@ -26,10 +24,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Nuskhurimt"
   ],
@@ -48,20 +45,23 @@
   "ot_works_ssim": [
     "Octoechos"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [
-    "Greek majuscule",
     "Undetermined (Greek)",
+    "Greek majuscule",
     "Christian Palestinian Aramaic",
     "Greek minuscule"
+  ],
+  "uto_language_ssim": [
+    "Greek",
+    "CPA"
   ],
   "uto_date_isim": [
     501,
@@ -616,12 +616,9 @@
     1074,
     1075
   ],
-  "uto_language_ssim": [
-    "Greek",
-    "CPA"
-  ],
   "shelfmark_ssi": "Sinai Georgian NF M 19",
   "titles_tesim": [
+    "Iadgari",
     "Octoechos"
   ],
   "names_tesim": [
@@ -632,41 +629,25 @@
     "Saint Catherine's Monastery (Sinai)"
   ],
   "contents_tesim": [
-    "Octoechos",
-    "Iadgari"
+    "Iadgari",
+    "Octoechos"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Parchment",
-    "Warped back, with parchment reinforcements (with writing in CPA)",
-    "Foliation in pencil at the center or top of outer margin",
-    "Nuskhurimt",
-    "Sinai Georgian NF M 19",
-    "Octoechos",
-    "All quires are quaternions, except quires 1 and 8; quire 8 consists only of f. 61 | Quire signatures at the beginning of most quires | Quires are tightly stitched | Relations within the quires are difficult to establish | Only quires 1, 7, and 8 are palimpsested",
-    "ark:/21198/z16d68k3",
-    "Unbound codex, incomplete at beginning and end | Tightly stitched quires | Most folios are stitched together from several pieces",
-    "Iovane",
     "Saint Catherine's Monastery (Sinai)",
-    "Written, and dated, by a scribe named Iovane",
     "black",
-    "Georgian"
-  ],
-  "all_fields_tesim": [
-    "Parchment",
-    "Warped back, with parchment reinforcements (with writing in CPA)",
-    "Foliation in pencil at the center or top of outer margin",
-    "Nuskhurimt",
-    "Sinai Georgian NF M 19",
     "Octoechos",
-    "All quires are quaternions, except quires 1 and 8; quire 8 consists only of f. 61 | Quire signatures at the beginning of most quires | Quires are tightly stitched | Relations within the quires are difficult to establish | Only quires 1, 7, and 8 are palimpsested",
-    "ark:/21198/z16d68k3",
-    "Unbound codex, incomplete at beginning and end | Tightly stitched quires | Most folios are stitched together from several pieces",
     "Iovane",
-    "Saint Catherine's Monastery (Sinai)",
+    "Parchment",
+    "All quires are quaternions, except quires 1 and 8; quire 8 consists only of f. 61 | Quire signatures at the beginning of most quires | Quires are tightly stitched | Relations within the quires are difficult to establish | Only quires 1, 7, and 8 are palimpsested",
+    "Sinai Georgian NF M 19",
+    "ark:/21198/z16d68k3",
+    "Warped back, with parchment reinforcements (with writing in CPA)",
+    "Nuskhurimt",
+    "Foliation in pencil at the center or top of outer margin",
+    "Georgian",
     "Written, and dated, by a scribe named Iovane",
-    "black",
-    "Georgian"
+    "Unbound codex, incomplete at beginning and end | Tightly stitched quires | Most folios are stitched together from several pieces"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z16d68k3\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Georgian NF M 19\",\"extent\":\"61 ff.\",\"dim\":\"200 x 165 x 38 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"coll\":\"Quire 1 (12), Quire 2 (20), Quire 3 (28), Quire 4 (36), Quire 5 (44), Quire 6 (52), Quire 7 (60), Quire 8 (61\",\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"197 x 143 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1c61j\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1c61j\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Georgian NF M 19, Overtext (Nuskhurimt)\",\"writing\":[{\"script\":[{\"id\":\"nuskhurimt\",\"label\":\"Nuskhurimt\",\"writing_system\":\"Georgian\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s15q27\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s15q27\",\"reconstruction\":false,\"label\":\"Octoechos\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tg7m\",\"pref_title\":\"Octoechos\",\"alt_title\":[\"Octoechos\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Iadgari\"}],\"parent\":[\"ark:/21198/s1c61j\"]}}],\"assoc_date\":[{\"value\":\"980  CE\",\"iso\":{\"not_before\":980,\"not_after\":980},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_name\":[{\"value\":\"Iovane\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"},\"note\":[\"Written, and dated, by a scribe named Iovane\"]}],\"assoc_place\":[{\"value\":\"Saint Catherine's Monastery (Sinai)\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"}],\"parent\":[\"ark:/21198/z16d68k3\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1mw7w\",\"label\":\"CPA Undertext: Bible. Matthew\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1h358\",\"label\":\"Greek Undertext: Hymns\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 10–11\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Mid-10th c.  CE\",\"iso\":{\"not_before\":1025,\"not_after\":1075},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1cd20\",\"label\":\"Greek Undertext: Liturgy \",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 4–5, 8–9 \",\"script\":[\"Greek minuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"9th-10th c.  CE\",\"iso\":{\"not_before\":801,\"not_after\":1000},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s17p8s\",\"label\":\"CPA Undertext: Lectionary\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 58\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th–7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s13w77\",\"label\":\"CPA Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 59\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1063w\",\"label\":\"CPA Undertext: Cyril of Jerusalem, Catecheses\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 2–3, 6–7, 55, 60\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1vd1z\",\"label\":\"Greek Undertext: Bible. John\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 54\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1qp9h\",\"label\":\"Greek Undertext: Bible. Matthew\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 56\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1kw66\",\"label\":\"Greek Undertext: Bible. Kings\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 53\",\"script\":[\"Undetermined (Greek)\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Early 8th c.  CE\",\"iso\":{\"not_before\":701,\"not_after\":750},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1g64m\",\"label\":\"CPA Undertext: Dormition of the Virgin Mary\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 4–5\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1bd19\",\"label\":\"Greek Undertext: Bible. Luke\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 57\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s16q0s\",\"label\":\"CPA Undertext: Pseudo-Chrysostom, On Penitence \",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 61\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s12w6j\",\"label\":\"CPA Undertext: Bible. Jeremiah\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 10–11\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1z64z\",\"label\":\"CPA Undertext: Dormition of the Virgin Mary\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 8–9\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"7th-8th c.  CE\",\"iso\":{\"not_before\":601,\"not_after\":800},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1td1n\",\"label\":\"CPA Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 62\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"8th c.  CE\",\"iso\":{\"not_before\":701,\"not_after\":800},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Foliation in pencil at the center or top of outer margin\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Warped back, with parchment reinforcements (with writing in CPA)\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Unbound codex, incomplete at beginning and end | Tightly stitched quires | Most folios are stitched together from several pieces\"},{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"All quires are quaternions, except quires 1 and 8; quire 8 consists only of f. 61 | Quire signatures at the beginning of most quires | Quires are tightly stitched | Relations within the quires are difficult to establish | Only quires 1, 7, and 8 are palimpsested\"}],\"bib\":[{\"id\":\"087ba7ab-401c-4edc-b474-7b86bc83cbce\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 391-393\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16d68k3/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1hh6xc3/0,902,5412,5412/150,150/0/default.jpg\"}]}"
 }

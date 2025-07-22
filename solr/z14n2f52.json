@@ -1,11 +1,11 @@
 {
   "id": "ark:/21198/z14n2f52",
-  "ark": "ark:/21198/z14n2f52",
+  "ark_ssi": "ark:/21198/z14n2f52",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n2f52%2Fzf656r3q/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Quire(s)",
   "features_ssim": [],
@@ -22,6 +22,7 @@
   "places_ssim": [],
   "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -36,18 +37,17 @@
     "Arabic"
   ],
   "ot_works_ssim": [],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF M 47",
   "titles_tesim": [
     "Life of Saint Euthymius"
@@ -56,27 +56,18 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Chapters 17-24",
-    "Life of Saint Euthymius"
+    "Life of Saint Euthymius",
+    "Chapters 17-24"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Parchment",
     "Naskh",
-    "Sinai Arabic NF M 47",
     "ark:/21198/z14n2f52",
     "Arabic",
-    "Chapters 17-24",
-    "Life of Saint Euthymius"
-  ],
-  "all_fields_tesim": [
     "Parchment",
-    "Naskh",
-    "Sinai Arabic NF M 47",
-    "ark:/21198/z14n2f52",
-    "Arabic",
+    "Life of Saint Euthymius",
     "Chapters 17-24",
-    "Life of Saint Euthymius"
+    "Sinai Arabic NF M 47"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z14n2f52\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 47\",\"extent\":\"6 ff.\",\"weight\":\"32.1 g\",\"dim\":\"226 x 176 x 11.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1h61s\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1h61s\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 47, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s19s9t\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s19s9t\",\"reconstruction\":false,\"label\":\"Life of Saint Euthymius\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Life of Saint Euthymius\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"locus\":\"ff. 1r-6v\",\"note\":[\"Chapters 17-24\"]}],\"parent\":[\"ark:/21198/s1h61s\"]}}],\"parent\":[\"ark:/21198/z14n2f52\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 32; ٣٢\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14n2f52/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14n2f52%2Fzf656r3q/full/!200,200/0/default.jpg\"}]}"
 }

@@ -1,112 +1,11 @@
 {
   "id": "ark:/21198/z1z32wm6",
-  "ark": "ark:/21198/z1z32wm6",
+  "ark_ssi": "ark:/21198/z1z32wm6",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    901,
-    902,
-    903,
-    904,
-    905,
-    906,
-    907,
-    908,
-    909,
-    910,
-    911,
-    912,
-    913,
-    914,
-    915,
-    916,
-    917,
-    918,
-    919,
-    920,
-    921,
-    922,
-    923,
-    924,
-    925,
-    926,
-    927,
-    928,
-    929,
-    930,
-    931,
-    932,
-    933,
-    934,
-    935,
-    936,
-    937,
-    938,
-    939,
-    940,
-    941,
-    942,
-    943,
-    944,
-    945,
-    946,
-    947,
-    948,
-    949,
-    950,
-    951,
-    952,
-    953,
-    954,
-    955,
-    956,
-    957,
-    958,
-    959,
-    960,
-    961,
-    962,
-    963,
-    964,
-    965,
-    966,
-    967,
-    968,
-    969,
-    970,
-    971,
-    972,
-    973,
-    974,
-    975,
-    976,
-    977,
-    978,
-    979,
-    980,
-    981,
-    982,
-    983,
-    984,
-    985,
-    986,
-    987,
-    988,
-    989,
-    990,
-    991,
-    992,
-    993,
-    994,
-    995,
-    996,
-    997,
-    998,
-    999,
-    1000
-  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2xzg/0,902,5412,5412/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Quire(s)",
   "features_ssim": [
@@ -124,10 +23,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Nuskhurimt"
   ],
@@ -135,10 +33,10 @@
     "Georgian"
   ],
   "ot_genre_ssim": [
-    "Biblical texts",
+    "Lectionaries",
     "Liturgical texts",
-    "Gospel books",
-    "Lectionaries"
+    "Biblical texts",
+    "Gospel books"
   ],
   "ot_date_isim": [
     901,
@@ -248,17 +146,19 @@
   "ot_works_ssim": [
     "Evangelion"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [
     "Christian Palestinian Aramaic"
+  ],
+  "uto_language_ssim": [
+    "CPA"
   ],
   "uto_date_isim": [
     512,
@@ -462,42 +362,29 @@
     510,
     511
   ],
-  "uto_language_ssim": [
-    "CPA"
-  ],
   "shelfmark_ssi": "Sinai Georgian NF M 71",
   "titles_tesim": [
-    "Evangelion"
+    "Evangelion",
+    "Gospel lectionary"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Gospel lectionary",
-    "Evangelion"
+    "Evangelion",
+    "Gospel lectionary"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
     "Parchment",
-    "light-brown",
-    "Sinai Georgian NF M 71",
-    "Nuskhurimt",
-    "Evangelion",
-    "ark:/21198/z1z32wm6",
     "Sewn quire (quaternion); this was quire 2 of the original manuscript as indicated by quire signature",
-    "Contains index",
-    "Georgian"
-  ],
-  "all_fields_tesim": [
-    "Parchment",
-    "light-brown",
-    "Sinai Georgian NF M 71",
-    "Nuskhurimt",
     "Evangelion",
-    "ark:/21198/z1z32wm6",
-    "Sewn quire (quaternion); this was quire 2 of the original manuscript as indicated by quire signature",
     "Contains index",
-    "Georgian"
+    "Nuskhurimt",
+    "Sinai Georgian NF M 71",
+    "light-brown",
+    "Georgian",
+    "ark:/21198/z1z32wm6"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1z32wm6\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Georgian NF M 71\",\"extent\":\"8 ff.\",\"dim\":\"136 x 97 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"136 x 97 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1v628\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1v628\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Georgian NF M 71, Overtext (Nuskhurimt)\",\"writing\":[{\"script\":[{\"id\":\"nuskhurimt\",\"label\":\"Nuskhurimt\",\"writing_system\":\"Georgian\"}]}],\"ink\":[{\"color\":[\"light-brown\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1nq2k\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1nq2k\",\"reconstruction\":false,\"label\":\"Evangelion\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s19p4w\",\"pref_title\":\"Evangelion\",\"alt_title\":[\"Evangelion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Gospel lectionary\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Contains index\"}],\"parent\":[\"ark:/21198/s1v628\"]}}],\"assoc_date\":[{\"value\":\"10th c.  CE\",\"iso\":{\"not_before\":901,\"not_after\":1000},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1z32wm6\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1rh12\",\"label\":\"CPA Undertext: Cyril of Jerusalem, Catecheses\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 2–3, 6–7\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1mp86\",\"label\":\"CPA Undertext: Exodus\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1, 8\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1h06m\",\"label\":\"CPA Undertext: Bible. Matthew\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 4–5\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Sewn quire (quaternion); this was quire 2 of the original manuscript as indicated by quire signature\"}],\"bib\":[{\"id\":\"087ba7ab-401c-4edc-b474-7b86bc83cbce\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 424-425\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z32wm6/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2xzg/0,902,5412,5412/150,150/0/default.jpg\"}]}"
 }

@@ -1,13 +1,11 @@
 {
   "id": "ark:/21198/z1km0wfz",
-  "ark": "ark:/21198/z1km0wfz",
+  "ark_ssi": "ark:/21198/z1km0wfz",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1622
-  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1km0wfz%2F35777v7m/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -26,10 +24,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -47,18 +44,17 @@
     "Arabic"
   ],
   "ot_works_ssim": [],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 565",
   "titles_tesim": [
     "Paradise of the Fathers"
@@ -70,25 +66,17 @@
     "Paradise of the Fathers"
   ],
   "paracontent_tesim": [
-    "وكان الفراغ من كتابه هذا الكتاب المبارك المسمى باتاريكوت في العاشر من شهر آذار سنة سبعة آلاف مائه وثلاثين  على يد أقل العباد واحقرهم سيماون باسم شماس من مدينة حمص المحروسة فكل من قرأ فيه ووجد شيء من النقص او الغلط واصلحه يصلح الرب أحواله وكتبه في دير طور سيناء المقدس في رئاسة الاب الاقدس السيد الاسقف كير يواصف قد جعله أن يكون وقفا بعد بعد عينه على دير المذكور وان (؟) الأب السيد الأسقف  وضع علامته تحقيقا لصحة الوقف فكل من جلسة او سرقة او استخص به نفسه ليبيعه أو يوهبه يكون تحت حرمات ولعنات الآباء الثلاثمائة وثمانية عشر ويكون ماري موسى خصمه والسبح لله دائما  ",
     "Colophon",
-    "Arabic"
+    "Arabic",
+    "وكان الفراغ من كتابه هذا الكتاب المبارك المسمى باتاريكوت في العاشر من شهر آذار سنة سبعة آلاف مائه وثلاثين  على يد أقل العباد واحقرهم سيماون باسم شماس من مدينة حمص المحروسة فكل من قرأ فيه ووجد شيء من النقص او الغلط واصلحه يصلح الرب أحواله وكتبه في دير طور سيناء المقدس في رئاسة الاب الاقدس السيد الاسقف كير يواصف قد جعله أن يكون وقفا بعد بعد عينه على دير المذكور وان (؟) الأب السيد الأسقف  وضع علامته تحقيقا لصحة الوقف فكل من جلسة او سرقة او استخص به نفسه ليبيعه أو يوهبه يكون تحت حرمات ولعنات الآباء الثلاثمائة وثمانية عشر ويكون ماري موسى خصمه والسبح لله دائما  "
   ],
   "full_text_tesim": [
-    "Paper",
+    "ark:/21198/z1km0wfz",
     "Naskh",
+    "Sinai Arabic 565",
     "Paradise of the Fathers",
     "Arabic",
-    "Sinai Arabic 565",
-    "ark:/21198/z1km0wfz"
-  ],
-  "all_fields_tesim": [
-    "Paper",
-    "Naskh",
-    "Paradise of the Fathers",
-    "Arabic",
-    "Sinai Arabic 565",
-    "ark:/21198/z1km0wfz"
+    "Paper"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1km0wfz\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 565\",\"extent\":\"476 ff.\",\"weight\":\"1866.3 g\",\"dim\":\"229 x 169 x 94 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1762p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1762p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 565, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s11t08\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s11t08\",\"reconstruction\":false,\"label\":\"Paradise of the Fathers\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Paradise of the Fathers\",\"genre\":[{\"id\":\"historical-works\",\"label\":\"Historical works\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"locus\":\"ff. 1r-468r\"}],\"parent\":[\"ark:/21198/s1762p\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 468v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"وكان الفراغ من كتابه هذا الكتاب المبارك المسمى باتاريكوت في العاشر من شهر آذار سنة سبعة آلاف مائه وثلاثين  على يد أقل العباد واحقرهم سيماون باسم شماس من مدينة حمص المحروسة فكل من قرأ فيه ووجد شيء من النقص او الغلط واصلحه يصلح الرب أحواله وكتبه في دير طور سيناء المقدس في رئاسة الاب الاقدس السيد الاسقف كير يواصف قد جعله أن يكون وقفا بعد بعد عينه على دير المذكور وان (؟) الأب السيد الأسقف  وضع علامته تحقيقا لصحة الوقف فكل من جلسة او سرقة او استخص به نفسه ليبيعه أو يوهبه يكون تحت حرمات ولعنات الآباء الثلاثمائة وثمانية عشر ويكون ماري موسى خصمه والسبح لله دائما  \"}],\"assoc_date\":[{\"value\":\"1622 CE\",\"iso\":{\"not_before\":1622,\"not_after\":1622},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1km0wfz\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[562], p. 48\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390593-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1km0wfz/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1km0wfz%2F35777v7m/full/!200,200/0/default.jpg\"}]}"
 }

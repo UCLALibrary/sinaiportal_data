@@ -1,13 +1,10 @@
 {
   "id": "ark:/21198/z11c315s",
-  "ark": "ark:/21198/z11c315s",
+  "ark_ssi": "ark:/21198/z11c315s",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1684
-  ],
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -26,13 +23,12 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
-    "Ottoman Turkish",
-    "Undetermined (Arabic)"
+    "Undetermined (Arabic)",
+    "Ottoman Turkish"
   ],
   "ot_writing_system_ssim": [
     "Arabic"
@@ -44,22 +40,21 @@
     1684
   ],
   "ot_language_ssim": [
-    "Turkish",
-    "Arabic"
+    "Arabic",
+    "Turkish"
   ],
   "ot_works_ssim": [],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 695",
   "titles_tesim": [
     "Covenant of the Prophet Muhammad in Arabic"
@@ -76,32 +71,18 @@
     "Arabic"
   ],
   "full_text_tesim": [
-    "Paper",
+    "Sinai Arabic 695",
     "cyan",
-    "Turkish",
-    "Undetermined (Arabic)",
-    "Ottoman Turkish",
+    "Covenant of the Prophet Muhammad in Arabic",
     "Used for rubrics",
     "ark:/21198/z11c315s",
-    "Copy of the Covenant of the Prophet Muhammad in Arabic, followed by a Turkish translation",
-    "Circular stamp with text in the center, ff. 11r, 24v",
-    "Arabic",
-    "Sinai Arabic 695",
-    "Covenant of the Prophet Muhammad in Arabic"
-  ],
-  "all_fields_tesim": [
-    "Paper",
-    "cyan",
-    "Turkish",
     "Undetermined (Arabic)",
-    "Ottoman Turkish",
-    "Used for rubrics",
-    "ark:/21198/z11c315s",
     "Copy of the Covenant of the Prophet Muhammad in Arabic, followed by a Turkish translation",
-    "Circular stamp with text in the center, ff. 11r, 24v",
+    "Ottoman Turkish",
+    "Paper",
     "Arabic",
-    "Sinai Arabic 695",
-    "Covenant of the Prophet Muhammad in Arabic"
+    "Circular stamp with text in the center, ff. 11r, 24v",
+    "Turkish"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z11c315s\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 695\",\"extent\":\"25 ff.\",\"weight\":\"91.3 g\",\"dim\":\"149 x 105 x 9 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1vk6k\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1vk6k\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 695, Overtext (Undetermined (Arabic), Ottoman Turkish)\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"},{\"id\":\"ottoman-turkish\",\"label\":\"Ottoman Turkish\",\"writing_system\":\"Arabic\"}]}],\"ink\":[{\"locus\":\"f. 11v, 12r\",\"color\":[\"cyan\"],\"note\":[\"Used for rubrics\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1p65v\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1p65v\",\"reconstruction\":false,\"label\":\"Covenant of the Prophet Muhammad in Arabic\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"nucl1301\",\"label\":\"Turkish\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Covenant of the Prophet Muhammad in Arabic\",\"genre\":[{\"id\":\"charters\",\"label\":\"Charters\"}]},\"locus\":\"ff. 1v-24v\",\"note\":[\"Copy of the Covenant of the Prophet Muhammad in Arabic, followed by a Turkish translation\"]}],\"parent\":[\"ark:/21198/s1vk6k\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 11r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}]}],\"assoc_date\":[{\"value\":\"1684 CE\",\"iso\":{\"not_before\":1684,\"not_after\":1684},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z11c315s\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"provenance\",\"label\":\"Provenance Note\"},\"value\":\"Circular stamp with text in the center, ff. 11r, 24v\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[599], p. 52\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279391500-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz11c315s/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"individuals\"}]}"
 }

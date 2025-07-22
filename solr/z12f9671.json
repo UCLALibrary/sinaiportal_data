@@ -1,20 +1,18 @@
 {
   "id": "ark:/21198/z12f9671",
-  "ark": "ark:/21198/z12f9671",
+  "ark_ssi": "ark:/21198/z12f9671",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1219
-  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12f9671%2Fkb35vq8v/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
     "Decoration, Geometric",
-    "Decoration, Full-page",
-    "Colophon"
+    "Dated",
+    "Colophon",
+    "Decoration, Full-page"
   ],
   "support_ssim": [
     "Paper"
@@ -27,10 +25,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -38,9 +35,9 @@
     "Syriac"
   ],
   "ot_genre_ssim": [
+    "Lectionaries",
     "Liturgical texts",
-    "Biblical texts",
-    "Lectionaries"
+    "Biblical texts"
   ],
   "ot_date_isim": [
     1219
@@ -51,58 +48,46 @@
   "ot_works_ssim": [
     "Lectionary"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Syriac 215",
   "titles_tesim": [
-    "Lectionary"
+    "Lectionary",
+    "Lectionary of Acts and Epistles"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Lectionary of Acts and Epistles",
-    "Lectionary"
+    "Lectionary",
+    "Lectionary of Acts and Epistles"
   ],
   "paracontent_tesim": [
-    "Colophon",
-    "Syriac",
     "ܐܬܟܬܒ ܕܝܢ ܒܩܪܝܬܐ ܕܝܛܪܬ̤ ܒܐܠܗܐ ܘܪܚܡܬ̤ ܠܡܫܝܚܐ ܩܪܝܬܐ ܕܝܢ ܕܝܐܝܢ ܘܒܗܝܡܢ ܟܠܡܢ ܕܦܓܥ ܒܟܬܒܐ ܗܢܐ. ܝܐ ܡܪܒܟܨܠܘܬܐ. ܐܠܗܐ ܣܓܝ ܪ̈ܡܚܐ ܚܘܢܝܗܝ ܠܪ ܦܝܥ ܒܪ ܝܘܢܢ. ܡܢܝܚ ܢܦܫܐ ܐܡܝܢ ܐܝܟ ܥܝܣܐ ܒܐܩܝܦܐ. ܒܨ̈ܠܘܬܗ̇ ܐܠܗܐ. ܘܲܪܟ̇ܠ ܩܕ̈ܝܫܝܟ ܐܡܢ ܘܐܡܝܢ. ܒܫܡܐ ܕܐܠܗܐ ܚ̇ܝܐ: ܐܬܪܗܒ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪܐ ܕܟܬܝܪ ܒܪ ܝܘܚܢܢx ܘܕܝܪܝܐ ܝܘܣܦ ܒܪ ܣܪܘܪ ܒܪ ܢ̇ܥܡ̣ܐ ܝܘ̄ܡ ܒ̄ ܝ̄ܪ ܒܝܪܚ ܟܢܘܢ ܬܪܝܢܐ ܫܢܬ ܐܠܦ: ܘܗ: ܡܐܐ: ܘܡ: ̣ܘ̣ܙ̣ ܡܢ ܫܢܝܐ ܕܠܟܣܢܕܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܪܝܐ ܐܠܗܐ ܢܢܛܪ ܐܢܘܢ̇ ܡܢ ܟܠܗ̈ܝܢ ܒܝ̈ܫܬܐ ܒܨ̈ܠܘܬܐ ܕܟܠܗܘܢ ܕܡܪܝܡ ܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝ̈ܫܝܟ ܕܥܒ̣ܕ ܨܒܝܢܟ ܗ̄ܫ",
+    "Colophon",
     "Attested names: Rafa' bar Younan (ܪܐܦܥ ܒܪ ܝܘܢܢ) ; John son of Kathir son of John (ܝܘܚܢܢ ܒܪ ܟܬܝܕ ܒܪ ܝܘܚܢܢ) ; Yoseph son of Sarour son of Na'meh (ܝܘܣܦ ܒܪ ܣܪܘܪ ܒܕ ܢܥܡܐ)",
+    "Syriac",
     "Attested places:  in Saidnaya"
   ],
   "full_text_tesim": [
-    "Paper",
-    "Syriac",
-    "Full page cross decoration on f. 1v",
+    "Attested names: Rafa' bar Younan (ܪܐܦܥ ܒܪ ܝܘܢܢ) ; John son of Kathir son of John (ܝܘܚܢܢ ܒܪ ܟܬܝܕ ܒܪ ܝܘܚܢܢ) ; Yoseph son of Sarour son of Na'meh (ܝܘܣܦ ܒܪ ܣܪܘܪ ܒܕ ܢܥܡܐ)",
+    "ark:/21198/z12f9671",
     "Lectionary of Acts and Epistles",
     "Melkite",
-    "Sinai Syriac 215",
-    "ark:/21198/z12f9671",
-    "Lectionary",
-    "Attested names: Rafa' bar Younan (ܪܐܦܥ ܒܪ ܝܘܢܢ) ; John son of Kathir son of John (ܝܘܚܢܢ ܒܪ ܟܬܝܕ ܒܪ ܝܘܚܢܢ) ; Yoseph son of Sarour son of Na'meh (ܝܘܣܦ ܒܪ ܣܪܘܪ ܒܕ ܢܥܡܐ)",
-    "Attested places:  in Saidnaya"
-  ],
-  "all_fields_tesim": [
     "Paper",
-    "Syriac",
-    "Full page cross decoration on f. 1v",
-    "Lectionary of Acts and Epistles",
-    "Melkite",
-    "Sinai Syriac 215",
-    "ark:/21198/z12f9671",
     "Lectionary",
-    "Attested names: Rafa' bar Younan (ܪܐܦܥ ܒܪ ܝܘܢܢ) ; John son of Kathir son of John (ܝܘܚܢܢ ܒܪ ܟܬܝܕ ܒܪ ܝܘܚܢܢ) ; Yoseph son of Sarour son of Na'meh (ܝܘܣܦ ܒܪ ܣܪܘܪ ܒܕ ܢܥܡܐ)",
+    "Full page cross decoration on f. 1v",
+    "Syriac",
+    "Sinai Syriac 215",
     "Attested places:  in Saidnaya"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z12f9671\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 215\",\"extent\":\"191 ff.\",\"weight\":\"1421.9 g\",\"dim\":\"252 x 178 x 68.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1w349\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1w349\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 215, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1pq2w\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1pq2w\",\"reconstruction\":false,\"label\":\"Lectionary of Acts and Epistles\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1088g\",\"pref_title\":\"Lectionary\",\"alt_title\":[\"Lectionary\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Lectionary of Acts and Epistles\",\"locus\":\"ff. 1v-189r\"}],\"parent\":[\"ark:/21198/s1w349\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"188v-189r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܐܬܟܬܒ ܕܝܢ ܒܩܪܝܬܐ ܕܝܛܪܬ̤ ܒܐܠܗܐ ܘܪܚܡܬ̤ ܠܡܫܝܚܐ ܩܪܝܬܐ ܕܝܢ ܕܝܐܝܢ ܘܒܗܝܡܢ ܟܠܡܢ ܕܦܓܥ ܒܟܬܒܐ ܗܢܐ. ܝܐ ܡܪܒܟܨܠܘܬܐ. ܐܠܗܐ ܣܓܝ ܪ̈ܡܚܐ ܚܘܢܝܗܝ ܠܪ ܦܝܥ ܒܪ ܝܘܢܢ. ܡܢܝܚ ܢܦܫܐ ܐܡܝܢ ܐܝܟ ܥܝܣܐ ܒܐܩܝܦܐ. ܒܨ̈ܠܘܬܗ̇ ܐܠܗܐ. ܘܲܪܟ̇ܠ ܩܕ̈ܝܫܝܟ ܐܡܢ ܘܐܡܝܢ. ܒܫܡܐ ܕܐܠܗܐ ܚ̇ܝܐ: ܐܬܪܗܒ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪܐ ܕܟܬܝܪ ܒܪ ܝܘܚܢܢx ܘܕܝܪܝܐ ܝܘܣܦ ܒܪ ܣܪܘܪ ܒܪ ܢ̇ܥܡ̣ܐ ܝܘ̄ܡ ܒ̄ ܝ̄ܪ ܒܝܪܚ ܟܢܘܢ ܬܪܝܢܐ ܫܢܬ ܐܠܦ: ܘܗ: ܡܐܐ: ܘܡ: ̣ܘ̣ܙ̣ ܡܢ ܫܢܝܐ ܕܠܟܣܢܕܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܪܝܐ ܐܠܗܐ ܢܢܛܪ ܐܢܘܢ̇ ܡܢ ܟܠܗ̈ܝܢ ܒܝ̈ܫܬܐ ܒܨ̈ܠܘܬܐ ܕܟܠܗܘܢ ܕܡܪܝܡ ܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝ̈ܫܝܟ ܕܥܒ̣ܕ ܨܒܝܢܟ ܗ̄ܫ\",\"note\":[\"Attested names: Rafa' bar Younan (ܪܐܦܥ ܒܪ ܝܘܢܢ) ; John son of Kathir son of John (ܝܘܚܢܢ ܒܪ ܟܬܝܕ ܒܪ ܝܘܚܢܢ) ; Yoseph son of Sarour son of Na'meh (ܝܘܣܦ ܒܪ ܣܪܘܪ ܒܕ ܢܥܡܐ)\",\"Attested places:  in Saidnaya\"]}],\"assoc_date\":[{\"value\":\"1219 CE\",\"iso\":{\"not_before\":1219,\"not_after\":1219},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-full-page\",\"label\":\"Decoration, Full-page\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Full page cross decoration on f. 1v\"}],\"parent\":[\"ark:/21198/z12f9671\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[102], p. 155\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz12f9671/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12f9671%2Fkb35vq8v/full/!200,200/0/default.jpg\"}]}"

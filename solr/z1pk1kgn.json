@@ -1,21 +1,19 @@
 {
   "id": "ark:/21198/z1pk1kgn",
-  "ark": "ark:/21198/z1pk1kgn",
+  "ark_ssi": "ark:/21198/z1pk1kgn",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1336
-  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1pk1kgn%2Fs836n85m/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Initial(s), Decorated",
-    "Inscription(s)",
-    "Headpiece(s)",
     "Dated",
-    "Decoration, Zoomorphic"
+    "Decoration, Zoomorphic",
+    "Initial(s), Decorated",
+    "Headpiece(s)",
+    "Inscription(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -28,10 +26,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Naskh",
     "Greek minuscule"
@@ -53,21 +50,21 @@
   "ot_works_ssim": [
     "Typikon"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 264",
   "titles_tesim": [
-    "Typikon"
+    "Typikon",
+    "Typikon, preceded by an introduction"
   ],
   "names_tesim": [],
   "exerpts_tesim": [
@@ -75,38 +72,24 @@
   ],
   "places_tesim": [],
   "contents_tesim": [
-    "نبتدي بعَون الله و حسن توفيقه نكتُب",
     "Typikon, preceded by an introduction",
-    "Typikon"
+    "Typikon",
+    "نبتدي بعَون الله و حسن توفيقه نكتُب"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Paper",
-    "ark:/21198/z1pk1kgn",
-    "Greek minuscule",
     "Typikon",
-    "Minor zoomorphic tailpiece on f. 205v | Decorated Greek initials throughout",
-    "Typikon, preceded by an introduction",
-    "Naskh",
-    "نبتدي بعَون الله و حسن توفيقه نكتُب",
-    "Arabic",
-    "Greek",
-    "Sinai Arabic 264",
-    "Supplicant inscriptions, upside down, f. 1ar | Inscription, upside down, f. 1av | Donation inscriptions, f. 1br | Reader inscription, f. 206v"
-  ],
-  "all_fields_tesim": [
-    "Paper",
-    "ark:/21198/z1pk1kgn",
     "Greek minuscule",
-    "Typikon",
-    "Minor zoomorphic tailpiece on f. 205v | Decorated Greek initials throughout",
-    "Typikon, preceded by an introduction",
-    "Naskh",
-    "نبتدي بعَون الله و حسن توفيقه نكتُب",
-    "Arabic",
     "Greek",
+    "نبتدي بعَون الله و حسن توفيقه نكتُب",
     "Sinai Arabic 264",
-    "Supplicant inscriptions, upside down, f. 1ar | Inscription, upside down, f. 1av | Donation inscriptions, f. 1br | Reader inscription, f. 206v"
+    "Naskh",
+    "Typikon, preceded by an introduction",
+    "Paper",
+    "Arabic",
+    "Supplicant inscriptions, upside down, f. 1ar | Inscription, upside down, f. 1av | Donation inscriptions, f. 1br | Reader inscription, f. 206v",
+    "ark:/21198/z1pk1kgn",
+    "Minor zoomorphic tailpiece on f. 205v | Decorated Greek initials throughout"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1pk1kgn\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 264\",\"extent\":\"207 ff.\",\"weight\":\"1628.6 g\",\"dim\":\"250 x 177 x 68 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1sc8n\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1sc8n\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 264, Overtext (Naskh, Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1kw8z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1kw8z\",\"reconstruction\":false,\"label\":\"Typikon, preceded by an introduction\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1qk5z\",\"pref_title\":\"Typikon\",\"alt_title\":[\"Typikon\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Typikon, preceded by an introduction\",\"locus\":\"ff. 2v-206r\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"locus\":\"f. 2v\",\"as_written\":\"نبتدي بعَون الله و حسن توفيقه نكتُب\"}]}],\"parent\":[\"ark:/21198/s1sc8n\"]}}],\"assoc_date\":[{\"value\":\"1336 CE\",\"iso\":{\"not_before\":1336,\"not_after\":1336},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-zoomorph\",\"label\":\"Decoration, Zoomorphic\"},{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"inscription\",\"label\":\"Inscription(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor zoomorphic tailpiece on f. 205v | Decorated Greek initials throughout\"}],\"parent\":[\"ark:/21198/z1pk1kgn\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Supplicant inscriptions, upside down, f. 1ar | Inscription, upside down, f. 1av | Donation inscriptions, f. 1br | Reader inscription, f. 206v\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[151], p. 18\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279384623-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1pk1kgn/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1pk1kgn%2Fs836n85m/full/!200,200/0/default.jpg\"}]}"
 }

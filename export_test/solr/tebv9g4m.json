@@ -1,11 +1,10 @@
 {
   "id": "ark:/21198/tebv9g4m",
-  "ark": "ark:/21198/tebv9g4m",
+  "ark_ssi": "ark:/21198/tebv9g4m",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [],
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Quire(s)",
   "features_ssim": [],
@@ -22,6 +21,7 @@
   "places_ssim": [],
   "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -38,18 +38,17 @@
   "ot_works_ssim": [
     "Horologion"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Arabic NF X 42",
   "titles_tesim": [
     "Horologion"
@@ -62,20 +61,12 @@
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Paper",
-    "Arabic",
-    "Horologion",
-    "ark:/21198/tebv9g4m",
     "Naskh",
-    "Arabic NF X 42"
-  ],
-  "all_fields_tesim": [
-    "Paper",
-    "Arabic",
+    "Arabic NF X 42",
     "Horologion",
+    "Arabic",
     "ark:/21198/tebv9g4m",
-    "Naskh",
-    "Arabic NF X 42"
+    "Paper"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/tebv9g4m\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Arabic NF X 42\",\"extent\":\"14 ff.\",\"state\":{\"id\":\"quires\",\"label\":\"Quire(s)\"},\"part\":[{\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/tebvp1ol\",\"label\":\"Overtext\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/tebvp1ol\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Arabic NF X 42, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/tebvp1olt1\",\"label\":\"Text unit 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/tebvp1olt1\",\"reconstruction\":false,\"label\":\"Horologion\",\"locus\":\"ff. 1-14\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]}}],\"parent\":[\"ark:/21198/tebvp1ol\"]}}],\"parent\":[\"ark:/21198/tebv9g4m\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}]}"
 }

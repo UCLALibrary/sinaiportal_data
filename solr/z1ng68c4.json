@@ -1,13 +1,11 @@
 {
   "id": "ark:/21198/z1ng68c4",
-  "ark": "ark:/21198/z1ng68c4",
+  "ark_ssi": "ark:/21198/z1ng68c4",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1044
-  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ng68c4%2Fd048k70w/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -23,12 +21,13 @@
   "collection_ssim": [
     "Old Collection"
   ],
-  "names_ssim": [],
-  "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
+  "names_ssim": [
+    "John Chrysostom"
   ],
+  "places_ssim": [],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -36,8 +35,8 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Apophthegmata",
-    "Theological works"
+    "Theological works",
+    "Apophthegmata"
   ],
   "ot_date_isim": [
     1044
@@ -46,18 +45,17 @@
     "Arabic"
   ],
   "ot_works_ssim": [],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 305",
   "titles_tesim": [
     "Homilies of St. John Chrysostom, to be read on Sundays in the Coptic Church"
@@ -77,24 +75,14 @@
     "Arabic"
   ],
   "full_text_tesim": [
-    "Paper",
-    "Attested places:  Monastery of Saint Basil the Great (Jerusalem)",
+    "John Chrysostom",
+    "Sinai Arabic 305",
+    "ark:/21198/z1ng68c4",
     "Naskh",
     "Arabic",
-    "ark:/21198/z1ng68c4",
-    "John Chrysostom",
-    "Homilies of St. John Chrysostom, to be read on Sundays in the Coptic Church",
-    "Sinai Arabic 305"
-  ],
-  "all_fields_tesim": [
     "Paper",
     "Attested places:  Monastery of Saint Basil the Great (Jerusalem)",
-    "Naskh",
-    "Arabic",
-    "ark:/21198/z1ng68c4",
-    "John Chrysostom",
-    "Homilies of St. John Chrysostom, to be read on Sundays in the Coptic Church",
-    "Sinai Arabic 305"
+    "Homilies of St. John Chrysostom, to be read on Sundays in the Coptic Church"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1ng68c4\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 305\",\"extent\":\"212 ff.\",\"weight\":\"888.1 g\",\"dim\":\"218 x 159 x 56.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s14g8s\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s14g8s\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 305, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1z36p\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1z36p\",\"reconstruction\":false,\"label\":\"Homilies of St. John Chrysostom, to be read on Sundays in the Coptic Church\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Homilies of St. John Chrysostom, to be read on Sundays in the Coptic Church\",\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"407 CE\",\"iso\":{\"not_before\":407,\"not_after\":407}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]},\"locus\":\"ff. 1v-210br\"}],\"parent\":[\"ark:/21198/s14g8s\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"ff. 210br-210bv\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"وكان النجاز من هذه المواعظ المقدسة نهار الاثنين ثامن يوم مضى من شهر كانون الأول من شهور سنة سبع ألف ومائة وثلاثة وأربعين ثاني سنة الخلاف التي صارت إلى الطوائف الموافق سنة ألف وأربعة وأربعين للهجرة الاسلامية وذلك على يد أحقرعبيد الله الراجي العفو والغفران الأنام الغارق في بحر الخطايا والذنوب والآثام الإسم لا بالفعل عبد المسيح اسمه مليح وعمله قبيح وهو بريء كاهن خوري امدي مشرقي مجاور القدس الشريف خادم دير القديس الكبير باسيليوس داخل القدس الشريف وهو يسأل من الاخوة الابهات رئيسات الكهنة والكهنة والشماسين الأراخنة وجميع الواقف من إخوتنا على هذه الأسطر الحقيرة بأن يطلب من السيد المسيح ومن ابهاتنا الناظرين هذا السجل بغفران الخطايا والمسامحة في يوم موقف العظيم المسامحة الغفران لأن الحقير كان قليل العلم والعبارة في القرائي والنساخة زياد الآخر الشيخوخة وقلة النظر ما كان يقرأ وينسخ الا بالعيون وهو نجل الشماس سمعون ابن الحج سمرا بيد مسيحيين ارثوذوكسين منيحين راقدين في بلادهم الذي ذكرنا سابقا اللهم يغفر خطاياهم وخطايا من يقول الله يرحمهم وللناسخ في جملتهم آمين والسبح لله دائما علينا وعليكم رحمته آمين\",\"assoc_date\":[{\"value\":\"Monday 8 Kanun I 7143 :: 1044 (hijrah)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[\"Attested places:  Monastery of Saint Basil the Great (Jerusalem)\"]}],\"assoc_date\":[{\"value\":\"1044 CE\",\"iso\":{\"not_before\":1044,\"not_after\":1044},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1ng68c4\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[363], p. 29\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038710110205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ng68c4/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ng68c4%2Fd048k70w/full/!200,200/0/default.jpg\"}]}"
 }
