@@ -1,13 +1,11 @@
 {
   "id": "ark:/21198/z1zg8jc0",
-  "ark": "ark:/21198/z1zg8jc0",
+  "ark_ssi": "ark:/21198/z1zg8jc0",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1250
-  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ck05m9%2Fcn541j1g/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -25,10 +23,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -36,10 +33,10 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Biblical texts",
+    "Lectionaries",
     "Liturgical texts",
-    "Gospel books",
-    "Lectionaries"
+    "Biblical texts",
+    "Gospel books"
   ],
   "ot_date_isim": [
     1250
@@ -50,20 +47,20 @@
   "ot_works_ssim": [
     "Evangelion"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 125",
   "titles_tesim": [
+    "Lectionary (Gospels), with commentary",
     "Evangelion"
   ],
   "names_tesim": [],
@@ -79,20 +76,12 @@
     "Arabic"
   ],
   "full_text_tesim": [
-    "Paper",
     "Naskh",
-    "Sinai Arabic 125",
-    "Evangelion",
+    "ark:/21198/z1zg8jc0",
     "Arabic",
-    "ark:/21198/z1zg8jc0"
-  ],
-  "all_fields_tesim": [
     "Paper",
-    "Naskh",
-    "Sinai Arabic 125",
     "Evangelion",
-    "Arabic",
-    "ark:/21198/z1zg8jc0"
+    "Sinai Arabic 125"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1zg8jc0\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 125\",\"extent\":\"248 ff.\",\"weight\":\"1743.6 g\",\"dim\":\"264 x 204 x 67.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s19027\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s19027\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 125, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s13h15\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13h15\",\"reconstruction\":false,\"label\":\"Evangelion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s19p4w\",\"pref_title\":\"Evangelion\",\"alt_title\":[\"Evangelion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Lectionary (Gospels), with commentary\",\"locus\":\"ff. 3r-247r\"}],\"parent\":[\"ark:/21198/s19027\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"ff. 247r-248r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"انجز نسخ هذا الإنجيل المقدس يوم الأربعاء الحادي عشر من شهر كانون الأول سنة ألف ومائتي وخمسين للتجسد الإلهي لذكره السجود والاكرام وهو يشتمل على ما قالته الأربعة الانجيليون الأطهار الحواريون الأنقياء الأخيار ويتضمن مواعظ رادعة وعمود أمره زاجرة وتعاليم نافعة للنفوس وكاشفة كل همّ وبوس الذين اجتذبوا الانام الى الايمان انقذوهم من معرفة الضلال والطغيان بالآيات الباهرة والمعجزات الظاهرة الأفاعيل الإلهية والأعمال الربانية وتمموا الخدمة المعول فيها عليهم أحسن تمام واجمل نظام / وقد فسّر ما قالوه وأشادوه وتلوه ولخصه وبلوه مصباح الديانة المنير وكوكب الأمانة الخطير ابونا المعظم في القديسين يوحنا الذهبي الفم ينبوع المواعظ والعلم وابان معانيها إبانة طربت لها الأرواح وصار إليها السعادة والنجاح وفتح مستغلق أبوابها فتحا لجات إليه الالباب الصافية وتمسكت به العقول الوافية واقتدت به فازت ملازمته فأصابت وما خابت / فنسأل السيد المسيح أن ينعم علينا بنعيم معاني أوردوه والعمل بما شروحوه وسطروه وبشفاعة السيدة أم النور والدة الضياء والسرور وبشفاعة الأربعة الانجيليون الأطهار والقديس الفاضل المختار يوحنا فم الذهب مفرّج الهم والكرب وبشفاعة يوحنا المعمدان وبشفاعة القديسين آمين وهو قاثيمارنيون يخدم لكل يوم جميع أيام السنة وناسخة يسأل كل من قرا فيه ونطلع في معانيه أن يترحم عليه وعلى والديْه وان يسامحه بما يوجد فيه من الغلط والنقصان والفرط فان الطبيعة البشرية  عبر معصومة من  الزلل ولا معارة من الخطل في القول والعمل غفر الله لمن كتبه واستكتبه ولي جميع بني المعمودية الارثوذكسية الأحياء ومنهم الأموات  ورزقنا جميع العمل بما نسمعه ليخطئ و بشفاعة السيدة الثاوطوقس وجميع القديسين آمين\",\"assoc_date\":[{\"value\":\"Thursday, 11 Kanun I 1250 (incarnation)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}],\"assoc_date\":[{\"value\":\"1250 CE\",\"iso\":{\"not_before\":1250,\"not_after\":1250},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1zg8jc0\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[208], p. 21\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386814-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zg8jc0/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ck05m9%2Fcn541j1g/full/!200,200/0/default.jpg\"}]}"
 }

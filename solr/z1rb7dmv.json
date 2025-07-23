@@ -1,11 +1,11 @@
 {
   "id": "ark:/21198/z1rb7dmv",
-  "ark": "ark:/21198/z1rb7dmv",
+  "ark_ssi": "ark:/21198/z1rb7dmv",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1g44s4f/0,902,5412,5412/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -23,10 +23,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Glagolitic"
   ],
@@ -44,20 +43,23 @@
   "ot_works_ssim": [
     "Psalter"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [
+    "Undetermined (Cyrillic)",
     "Carolingian majuscule",
-    "Carolingian minuscule",
     "Glagolitic",
-    "Undetermined (Cyrillic)"
+    "Carolingian minuscule"
+  ],
+  "uto_language_ssim": [
+    "Latin",
+    "Church Slavonic"
   ],
   "uto_date_isim": [
     1024,
@@ -361,12 +363,9 @@
     1022,
     1023
   ],
-  "uto_language_ssim": [
-    "Latin",
-    "Church Slavonic"
-  ],
   "shelfmark_ssi": "Sinai Slavonic NF M 3",
   "titles_tesim": [
+    "Psalterium Demetrii Sinaitici",
     "Psalter"
   ],
   "names_tesim": [],
@@ -378,30 +377,17 @@
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
+    "Glagolitic",
+    "black",
     "Parchment",
     "Sinai Slavonic NF M 3",
+    "Psalter",
     "Unsewn palimpsest quire of three bifolios of smaller size, inserted after fol. 141: 1x6 (6)",
-    "Psalterium Demetrii Sinaitici",
-    "ark:/21198/z1rb7dmv",
-    "Foliated in pencil, ff. 141a-141c; the last three folios are unnumbered and are identified by their conjoin and preceded by a minus sign, for example -141ar (recto) or -141av (verso)",
-    "Leather on wood. Lower board fragmentary; damaged spine",
-    "black",
     "Church Slavonic",
-    "Glagolitic",
-    "Psalter"
-  ],
-  "all_fields_tesim": [
-    "Parchment",
-    "Sinai Slavonic NF M 3",
-    "Unsewn palimpsest quire of three bifolios of smaller size, inserted after fol. 141: 1x6 (6)",
-    "Psalterium Demetrii Sinaitici",
-    "ark:/21198/z1rb7dmv",
-    "Foliated in pencil, ff. 141a-141c; the last three folios are unnumbered and are identified by their conjoin and preceded by a minus sign, for example -141ar (recto) or -141av (verso)",
     "Leather on wood. Lower board fragmentary; damaged spine",
-    "black",
-    "Church Slavonic",
-    "Glagolitic",
-    "Psalter"
+    "Psalterium Demetrii Sinaitici",
+    "Foliated in pencil, ff. 141a-141c; the last three folios are unnumbered and are identified by their conjoin and preceded by a minus sign, for example -141ar (recto) or -141av (verso)",
+    "ark:/21198/z1rb7dmv"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1rb7dmv\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Slavonic NF M 3\",\"extent\":\"151 ff.\",\"dim\":\"89 x 79 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"89 x 79 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1c037\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1c037\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Slavonic NF M 3, Overtext (Glagolitic)\",\"writing\":[{\"script\":[{\"id\":\"glagolitic\",\"label\":\"Glagolitic\",\"writing_system\":\"Glagolitic\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s15m26\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s15m26\",\"reconstruction\":false,\"label\":\"Psalterium Demetrii Sinaitici\",\"lang\":[{\"id\":\"chur1257\",\"label\":\"Church Slavonic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1d886\",\"pref_title\":\"Psalter\",\"alt_title\":[\"Psalter\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Psalterium Demetrii Sinaitici\"}],\"parent\":[\"ark:/21198/s1c037\"]}}],\"parent\":[\"ark:/21198/z1rb7dmv\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1906r\",\"label\":\"Church Slavonic Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 141a, stub-141a, 141b, stub-141b, 141c, stub-141c\",\"script\":[\"Glagolitic\"],\"lang\":[\"Church Slavonic\"],\"orig_date\":[{\"value\":\"11th c.  CE\",\"iso\":{\"not_before\":1001,\"not_after\":1100},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s15923\",\"label\":\"Church Slavonic Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 141av, 141bv, stub-141br\",\"script\":[\"Undetermined (Cyrillic)\"],\"lang\":[\"Church Slavonic\"],\"orig_date\":[{\"value\":\"mid 11th c.  CE\",\"iso\":{\"not_before\":1025,\"not_after\":1075},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s11h05\",\"label\":\"Latin Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 141av\",\"script\":[\"Carolingian majuscule\",\"Carolingian minuscule\"],\"lang\":[\"Latin\"],\"orig_date\":[{\"value\":\"9th-10th c.  CE\",\"iso\":{\"not_before\":801,\"not_after\":1000},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Foliated in pencil, ff. 141a-141c; the last three folios are unnumbered and are identified by their conjoin and preceded by a minus sign, for example -141ar (recto) or -141av (verso)\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Leather on wood. Lower board fragmentary; damaged spine\"},{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Unsewn palimpsest quire of three bifolios of smaller size, inserted after fol. 141: 1x6 (6)\"}],\"bib\":[{\"id\":\"03f2516b-1a60-4cb9-89de-24c655df4020\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"}}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rb7dmv/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1g44s4f/0,902,5412,5412/150,150/0/default.jpg\"}]}"
 }

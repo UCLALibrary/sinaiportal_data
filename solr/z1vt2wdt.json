@@ -1,13 +1,11 @@
 {
   "id": "ark:/21198/z1vt2wdt",
-  "ark": "ark:/21198/z1vt2wdt",
+  "ark_ssi": "ark:/21198/z1vt2wdt",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1248
-  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vt2wdt%2Fmh47ng03/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -27,10 +25,9 @@
     "Antiochus of Palestine"
   ],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -47,24 +44,22 @@
   "ot_works_ssim": [
     "Pandektēs"
   ],
-  "ot_names_ssim": [
-    "Antiochus of Palestine"
-  ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 378",
   "titles_tesim": [
+    "Antiochus, monk of Palestine, active 7th century. Pandektēs",
     "Pandektēs",
-    "Antiochus, monk of Palestine, active 7th century. Pandektēs"
+    "St. Antiochus: Pandectes"
   ],
   "names_tesim": [
     "Antiochus of Palestine"
@@ -72,46 +67,31 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Antiochus, monk of Palestine, active 7th century. Pandektēs",
     "Pandektēs",
-    "St. Antiochus: Pandectes",
-    "Antiochus, monk of Palestine, active 7th century. Pandektēs"
+    "St. Antiochus: Pandectes"
   ],
   "paracontent_tesim": [
-    "Written by another hand",
+    "وكان الفراغ هذا الكتاب المبارك في تاريخ الرابع وعشرين من شهر حزيران المبارك لسنة ستة آلاف وسبعمائة ستة وخمسين للعالم وكبت بدير طور سيناء المقدس على عهد الاب انبا مقاري الدمشقي رحم الله من قرأ ومن كتب ",
     "Colophon",
     "Arabic",
-    "وكان الفراغ هذا الكتاب المبارك في تاريخ الرابع وعشرين من شهر حزيران المبارك لسنة ستة آلاف وسبعمائة ستة وخمسين للعالم وكبت بدير طور سيناء المقدس على عهد الاب انبا مقاري الدمشقي رحم الله من قرأ ومن كتب ",
-    "Attested places:  Mount Sinai"
+    "Attested places:  Mount Sinai",
+    "Written by another hand"
   ],
   "full_text_tesim": [
-    "Paper",
+    "f. 177 lacking",
+    "F. 177 lacking",
     "Antiochus, monk of Palestine, active 7th century. Pandektēs",
     "Antiochus of Palestine",
-    "ark:/21198/z1vt2wdt",
-    "Sinai Arabic 378",
-    "F. 177 lacking",
-    "f. 177 lacking",
-    "Naskh",
-    "Written by another hand",
-    "St. Antiochus: Pandectes",
-    "Arabic",
     "Pandektēs",
-    "Attested places:  Mount Sinai"
-  ],
-  "all_fields_tesim": [
+    "Attested places:  Mount Sinai",
+    "Naskh",
+    "Sinai Arabic 378",
+    "Arabic",
     "Paper",
-    "Antiochus, monk of Palestine, active 7th century. Pandektēs",
-    "Antiochus of Palestine",
-    "ark:/21198/z1vt2wdt",
-    "Sinai Arabic 378",
-    "F. 177 lacking",
-    "f. 177 lacking",
-    "Naskh",
-    "Written by another hand",
     "St. Antiochus: Pandectes",
-    "Arabic",
-    "Pandektēs",
-    "Attested places:  Mount Sinai"
+    "ark:/21198/z1vt2wdt",
+    "Written by another hand"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1vt2wdt\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 378\",\"extent\":\"371 ff.\",\"weight\":\"1778.8 g\",\"dim\":\"221 x 154 x 108 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1qw4p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1qw4p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 378, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1jh2k\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1jh2k\",\"reconstruction\":false,\"label\":\"St. Antiochus: Pandectes\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1gp4f\",\"pref_title\":\"Pandektēs\",\"orig_lang\":{\"id\":\"gree1276\",\"label\":\"Greek\"},\"alt_title\":[\"Antiochus, monk of Palestine, active 7th century. Pandektēs\"],\"creator\":[{\"id\":\"ark:/21198/s1kw2p\",\"agent_record\":{\"ark\":\"ark:/21198/s1kw2p\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Antiochus of Palestine\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"7th c. CE\",\"iso\":{\"not_before\":601,\"not_after\":700}},\"rel_con\":[{\"label\":\"Antiochus active 7th century monk of Palestine\",\"uri\":\"http://viaf.org/viaf/89050745\",\"source\":\"VIAF\"},{\"label\":\"Antiochus, monk of Palestine, active 7th century\",\"uri\":\"http://id.loc.gov/authorities/names/no2005084640\",\"source\":\"LoC\"},{\"label\":\"Antiochus, monk of Palestine, active 7th century\",\"uri\":\"https://haf.vhmml.org/person/329286221270\",\"source\":\"HAF\"},{\"label\":\"Antiochus monachus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/234/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Antiochus monachus Pandecte de la Sainte Écriture\",\"uri\":\"http://viaf.org/viaf/292613749\",\"source\":\"VIAF\"}]},\"alt_title\":\"St. Antiochus: Pandectes\",\"locus\":\"ff. 2r-372r\"}],\"parent\":[\"ark:/21198/s1qw4p\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 372r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"وكان الفراغ هذا الكتاب المبارك في تاريخ الرابع وعشرين من شهر حزيران المبارك لسنة ستة آلاف وسبعمائة ستة وخمسين للعالم وكبت بدير طور سيناء المقدس على عهد الاب انبا مقاري الدمشقي رحم الله من قرأ ومن كتب \",\"assoc_date\":[{\"value\":\"24 Huzayran 6756 (world)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[\"Written by another hand\",\"Attested places:  Mount Sinai\"]}],\"assoc_date\":[{\"value\":\"1248 CE\",\"iso\":{\"not_before\":1248,\"not_after\":1248},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1vt2wdt\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"f. 177 lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"F. 177 lacking\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[392], p. 31\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279389773-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1vt2wdt/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vt2wdt%2Fmh47ng03/full/!200,200/0/default.jpg\"}]}"
 }

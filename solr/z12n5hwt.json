@@ -1,20 +1,18 @@
 {
   "id": "ark:/21198/z12n5hwt",
-  "ark": "ark:/21198/z12n5hwt",
+  "ark_ssi": "ark:/21198/z12n5hwt",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    779
-  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1988nbt/0,1022,6132,6132/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
     "Palimpsest",
+    "Multispectral Imaging",
     "Dated",
-    "Headpiece(s)",
-    "Multispectral Imaging"
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Parchment"
@@ -27,10 +25,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Estrangela"
   ],
@@ -48,18 +45,21 @@
     "Syriac"
   ],
   "ot_works_ssim": [],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [
-    "Greek majuscule",
-    "Estrangela"
+    "Estrangela",
+    "Greek majuscule"
+  ],
+  "uto_language_ssim": [
+    "Greek",
+    "Syriac"
   ],
   "uto_date_isim": [
     512,
@@ -314,13 +314,10 @@
     510,
     511
   ],
-  "uto_language_ssim": [
-    "Greek",
-    "Syriac"
-  ],
   "shelfmark_ssi": "Sinai Syriac 30",
   "titles_tesim": [
-    "Lives of Saints"
+    "Lives of Saints",
+    "Hagiographical Collection"
   ],
   "names_tesim": [
     "John of Mar Conon, Ma'arret Misrin (Syria)"
@@ -330,49 +327,29 @@
     "Ma‘arret Mesrin (northern Syria)"
   ],
   "contents_tesim": [
-    "Lives of Saints",
-    "Hagiographical Collection"
+    "Hagiographical Collection",
+    "Lives of Saints"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Parchment",
-    "Lives of Saints",
-    "Syriac",
     "John of Mar Conon, Ma'arret Misrin (Syria)",
-    "Unbound quires until f. 150; large number of singletons at the beginning and end of quires (usually quinions) that may originally have been bifolios belonging to a quire",
-    "ark:/21198/z12n5hwt",
-    "Pencil foliation beginning with '4', intending to include exposed unnumbered front pastedown as f. 1",
-    "Mostly unbound quires",
     "Sinai Syriac 30",
     "Estrangela",
-    "This is the well-known Codex Sinaiticus Syriacus",
-    "Most folios severely cockled, with raised ridges appearing as glossy; various degrees of discoloration, at least in part due to application of liquid in the course of prior scholarly investigation",
-    "Reinforced leather. Large parts missing in front; back cover in two vertical parts, reattached with thread; exposed spine",
-    "The presence of quire signatures in Georgian, probably by a binder, points to the fact the manuscript was probably in Palestine between the 9th and the 10th c. CE",
     "Black and red dots, in the shape of a cross or other shapes, mark titles or new segments of text",
-    "Ma‘arret Mesrin (northern Syria)",
-    "black",
-    "Quires are established according to natural movement of folios and do not correspond to original Georgian quire signatures in overtext"
-  ],
-  "all_fields_tesim": [
-    "Parchment",
-    "Lives of Saints",
-    "Syriac",
-    "John of Mar Conon, Ma'arret Misrin (Syria)",
-    "Unbound quires until f. 150; large number of singletons at the beginning and end of quires (usually quinions) that may originally have been bifolios belonging to a quire",
     "ark:/21198/z12n5hwt",
-    "Pencil foliation beginning with '4', intending to include exposed unnumbered front pastedown as f. 1",
     "Mostly unbound quires",
-    "Sinai Syriac 30",
-    "Estrangela",
-    "This is the well-known Codex Sinaiticus Syriacus",
-    "Most folios severely cockled, with raised ridges appearing as glossy; various degrees of discoloration, at least in part due to application of liquid in the course of prior scholarly investigation",
     "Reinforced leather. Large parts missing in front; back cover in two vertical parts, reattached with thread; exposed spine",
-    "The presence of quire signatures in Georgian, probably by a binder, points to the fact the manuscript was probably in Palestine between the 9th and the 10th c. CE",
-    "Black and red dots, in the shape of a cross or other shapes, mark titles or new segments of text",
-    "Ma‘arret Mesrin (northern Syria)",
+    "Pencil foliation beginning with '4', intending to include exposed unnumbered front pastedown as f. 1",
     "black",
-    "Quires are established according to natural movement of folios and do not correspond to original Georgian quire signatures in overtext"
+    "Parchment",
+    "This is the well-known Codex Sinaiticus Syriacus",
+    "Lives of Saints",
+    "Ma‘arret Mesrin (northern Syria)",
+    "Most folios severely cockled, with raised ridges appearing as glossy; various degrees of discoloration, at least in part due to application of liquid in the course of prior scholarly investigation",
+    "Quires are established according to natural movement of folios and do not correspond to original Georgian quire signatures in overtext",
+    "The presence of quire signatures in Georgian, probably by a binder, points to the fact the manuscript was probably in Palestine between the 9th and the 10th c. CE",
+    "Syriac",
+    "Unbound quires until f. 150; large number of singletons at the beginning and end of quires (usually quinions) that may originally have been bifolios belonging to a quire"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z12n5hwt\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 30\",\"extent\":\"181 ff.\",\"dim\":\"220 x 160 x 127 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1mc9g\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1mc9g\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 30, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1dw9s\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1dw9s\",\"reconstruction\":false,\"label\":\"Lives of Saints\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Lives of Saints\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"},{\"id\":\"historical-works\",\"label\":\"Historical works\"}]},\"alt_title\":\"Hagiographical Collection\"}],\"parent\":[\"ark:/21198/s1mc9g\"]}}],\"assoc_date\":[{\"value\":\"779  CE\",\"iso\":{\"not_before\":779,\"not_after\":779},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_name\":[{\"value\":\"John of Mar Conon, Ma'arret Misrin (Syria)\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}],\"assoc_place\":[{\"value\":\"Ma‘arret Mesrin (northern Syria)\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"dated\",\"label\":\"Dated\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Black and red dots, in the shape of a cross or other shapes, mark titles or new segments of text\"}],\"parent\":[\"ark:/21198/z12n5hwt\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1vs8d\",\"label\":\"Syriac Undertext: Dormition of the Virgin Mary\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 151, 155, 156, 159r, 160\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1r05d\",\"label\":\"Syriac Undertext: Bible. John\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 3, 8, 11, 15, 16, 20, 35, 36, 54, 57, 61, 62, 69, 70, 73, 78, 93, 98, 102, 105, 106, 109, 112, 114, 117, 119, 123–128, 131, 132, 139, 140\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"Late 5th-6th c.  CE\",\"iso\":{\"not_before\":450,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1m93h\",\"label\":\"Syriac Undertext: Bible. Matthew\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1, 10, 14, 17, 24r, 27, 31, 34, 37, 40, 42, 45–46, 49, 55–56, 71, 74–77, 80, 82, 89, 91, 95, 96, 100, 113, 115–116, 118, 134r–136\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"Late 5th-6th c.  CE\",\"iso\":{\"not_before\":450,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1gk99\",\"label\":\"Greek Undertext: Ephrem the Syrian, Ascetical Homily\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 172v, 173, 174–175, 178–180\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"7th c.  CE\",\"iso\":{\"not_before\":601,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1bs8r\",\"label\":\"Syriac Undertext: Bible. Mark\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 12, 19, 21, 23, 25, 26, 28, 30, 41, 43, 48, 50, 53, 58, 64, 67, 94, 97, 101, 110, 137, 143, 148\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"Late 5th-6th c.  CE\",\"iso\":{\"not_before\":450,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1734d\",\"label\":\"Greek Undertext: Bible. John\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 142, 144, 147, 149\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1393v\",\"label\":\"Greek Undertext: Ps.-Marcarius, Epistula magna\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 171, 172r, 176–177, 181,182r\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"7th c.  CE\",\"iso\":{\"not_before\":601,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1zk9n\",\"label\":\"Syriac Undertext: Acts of Thomas\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 141, 145, 146, 150, 152–154, 157, 158, 159v, 161–170\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1ts7q\",\"label\":\"Syriac Undertext: Bible. Luke\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 2, 4–6, 7v, 9, 13, 18, 22, 23, 24v, 29, 32, 33, 38, 39, 44, 47, 51, 52, 59, 60, 63, 65, 66, 68, 72, 79, 81, 83–90, 92, 99, 103, 104, 107, 108, 111, 120–122, 129, 130, 133, 138\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"Late 5th-6th c.  CE\",\"iso\":{\"not_before\":450,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"provenance\",\"label\":\"Provenance Note\"},\"value\":\"The presence of quire signatures in Georgian, probably by a binder, points to the fact the manuscript was probably in Palestine between the 9th and the 10th c. CE\"},{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Pencil foliation beginning with '4', intending to include exposed unnumbered front pastedown as f. 1\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Reinforced leather. Large parts missing in front; back cover in two vertical parts, reattached with thread; exposed spine\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Mostly unbound quires\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Most folios severely cockled, with raised ridges appearing as glossy; various degrees of discoloration, at least in part due to application of liquid in the course of prior scholarly investigation\"},{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Quires are established according to natural movement of folios and do not correspond to original Georgian quire signatures in overtext\"},{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Unbound quires until f. 150; large number of singletons at the beginning and end of quires (usually quinions) that may originally have been bifolios belonging to a quire\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"This is the well-known Codex Sinaiticus Syriacus\"}],\"bib\":[{\"id\":\"33aadcf6-1e7a-4533-abd9-052809f06b83\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 43-47 \"},{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[81], p. 154\"},{\"id\":\"34ba1655-f27f-4da2-9234-a09e9b3d7922\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 106, notes 16, 12 \"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386462-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12n5hwt/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1988nbt/0,1022,6132,6132/150,150/0/default.jpg\"}]}"
 }

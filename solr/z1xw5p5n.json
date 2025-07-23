@@ -1,19 +1,16 @@
 {
   "id": "ark:/21198/z1xw5p5n",
-  "ark": "ark:/21198/z1xw5p5n",
+  "ark_ssi": "ark:/21198/z1xw5p5n",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1240
-  ],
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
     "Dated",
-    "Headpiece(s)",
     "Colophon",
+    "Headpiece(s)",
     "Decoration, Vegetative"
   ],
   "support_ssim": [
@@ -27,10 +24,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -48,18 +44,17 @@
     "Arabic"
   ],
   "ot_works_ssim": [],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 503",
   "titles_tesim": [
     "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker"
@@ -78,39 +73,25 @@
     "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker"
   ],
   "paracontent_tesim": [
-    "نجز قصص القديسين الآباء الأطهار بعون الله وإرشاده وكان الفراغ وكتبها يوم الاثنين الثامن والعشرين في شهر أيار سنى ستة آلاف وسبعمائة وثمانية وأربعين لأبينا آدم عليه السلام وكتبه عبد الخاطئ اغاتون بطور سيناء الجبل المقدس فهو يسأل كل من قرأ فيه يسامحني في الغلط والزلل ويذكر في صلوات وترحم عليه وعلى والديه غفر الله لمن فعل ذلك وغفر والديه ولجميع بني المعمودية آمين  آمين والسبح لله دائما آمين ",
     "The [copying of the] stories of the saints the immaculate fathers were finished …, and that was on Monday [?] 28 in the month of Iyār [May] in the Year of Our Father Adam, peace be upon him, [Anno Mundi] 6748, and Aghātūn … copied it at Holy Mount Sinai [Monastery] …",
     "Colophon",
     "Arabic",
+    "نجز قصص القديسين الآباء الأطهار بعون الله وإرشاده وكان الفراغ وكتبها يوم الاثنين الثامن والعشرين في شهر أيار سنى ستة آلاف وسبعمائة وثمانية وأربعين لأبينا آدم عليه السلام وكتبه عبد الخاطئ اغاتون بطور سيناء الجبل المقدس فهو يسأل كل من قرأ فيه يسامحني في الغلط والزلل ويذكر في صلوات وترحم عليه وعلى والديه غفر الله لمن فعل ذلك وغفر والديه ولجميع بني المعمودية آمين  آمين والسبح لله دائما آمين ",
     "Attested places:  Mount Sinai"
   ],
   "full_text_tesim": [
-    "Sinai Arabic 503",
-    "Paper",
-    "Vegetative tailpiece, f. 62r",
-    "Inscription, front flyleaf 1r",
-    "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker",
     "تمّت (f. 62r)؛ نجزت",
     "ark:/21198/z1xw5p5n",
-    "Naskh",
-    "Aghātūn (f. 79r)",
-    "Arabic",
-    "Holy Mount Sinai [Monastery]",
-    "Attested places:  Mount Sinai"
-  ],
-  "all_fields_tesim": [
-    "Sinai Arabic 503",
-    "Paper",
-    "Vegetative tailpiece, f. 62r",
     "Inscription, front flyleaf 1r",
-    "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker",
-    "تمّت (f. 62r)؛ نجزت",
-    "ark:/21198/z1xw5p5n",
+    "Attested places:  Mount Sinai",
+    "Sinai Arabic 503",
     "Naskh",
+    "Vegetative tailpiece, f. 62r",
     "Aghātūn (f. 79r)",
-    "Arabic",
     "Holy Mount Sinai [Monastery]",
-    "Attested places:  Mount Sinai"
+    "Arabic",
+    "Paper",
+    "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1xw5p5n\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 503\",\"extent\":\"79 ff.\",\"weight\":\"731.6 g\",\"dim\":\"230 x 161 x 47 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1991z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1991z\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 503, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s13w90\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13w90\",\"reconstruction\":false,\"label\":\"Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker\",\"genre\":[{\"id\":\"historical-works\",\"label\":\"Historical works\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"locus\":\"ff. 4r-79r\",\"excerpt\":[{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"locus\":\"f. 79r\",\"as_written\":\"تمّت (f. 62r)؛ نجزت\"}]}],\"parent\":[\"ark:/21198/s1991z\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 79r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"نجز قصص القديسين الآباء الأطهار بعون الله وإرشاده وكان الفراغ وكتبها يوم الاثنين الثامن والعشرين في شهر أيار سنى ستة آلاف وسبعمائة وثمانية وأربعين لأبينا آدم عليه السلام وكتبه عبد الخاطئ اغاتون بطور سيناء الجبل المقدس فهو يسأل كل من قرأ فيه يسامحني في الغلط والزلل ويذكر في صلوات وترحم عليه وعلى والديه غفر الله لمن فعل ذلك وغفر والديه ولجميع بني المعمودية آمين  آمين والسبح لله دائما آمين \",\"translation\":[\"The [copying of the] stories of the saints the immaculate fathers were finished …, and that was on Monday [?] 28 in the month of Iyār [May] in the Year of Our Father Adam, peace be upon him, [Anno Mundi] 6748, and Aghātūn … copied it at Holy Mount Sinai [Monastery] …\"],\"assoc_name\":[{\"value\":\"Aghātūn (f. 79r)\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}],\"assoc_place\":[{\"value\":\"Holy Mount Sinai [Monastery]\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"assoc_date\":[{\"value\":\"Monday 28 Ayyar 6748 (adam)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[\"Attested places:  Mount Sinai\"]}],\"assoc_date\":[{\"value\":\"1240 CE\",\"iso\":{\"not_before\":1240,\"not_after\":1240},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"colophon\",\"label\":\"Colophon\"},{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Vegetative tailpiece, f. 62r\"}],\"parent\":[\"ark:/21198/z1xw5p5n\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Inscription, front flyleaf 1r\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[530], p. 45\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/0027939012A-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1xw5p5n/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
 }

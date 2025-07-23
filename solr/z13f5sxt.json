@@ -1,22 +1,20 @@
 {
   "id": "ark:/21198/z13f5sxt",
-  "ark": "ark:/21198/z13f5sxt",
+  "ark_ssi": "ark:/21198/z13f5sxt",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1742
-  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13f5sxt%2F2256cg57/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
     "Dated",
     "Border(s), Decorative",
     "Headpiece(s)",
-    "Colophon",
+    "Decoration, Geometric",
     "Catchwords",
-    "Decoration, Geometric"
+    "Colophon"
   ],
   "support_ssim": [
     "Paper"
@@ -29,10 +27,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -51,18 +48,17 @@
   "ot_works_ssim": [
     "Horologion"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 196",
   "titles_tesim": [
     "Horologion"
@@ -79,26 +75,15 @@
     "Arabic"
   ],
   "full_text_tesim": [
+    "Three cords as bookmarks (labelled f. 58r-2, photographed laid on f. 58r)",
+    "Headpiece, f. 1r, red and black vine motif with ascending cross ; f. 85r, vine ; minor geometric headpiece, f. 8v ; tailpiece with red partial border, f. 34r | Minor vegetative decorations, ff. 8v, 16v, 22v, 29v, 34r, 39r 45v, 52v, 96r-96v, vine motif ; minor geometric decorations, ff. 10r, 32v",
+    "Naskh",
+    "Sinai Arabic 196",
+    "Horologion",
+    "Arabic",
     "Paper",
     "F. 103 loose",
-    "ark:/21198/z13f5sxt",
-    "Naskh",
-    "Headpiece, f. 1r, red and black vine motif with ascending cross ; f. 85r, vine ; minor geometric headpiece, f. 8v ; tailpiece with red partial border, f. 34r | Minor vegetative decorations, ff. 8v, 16v, 22v, 29v, 34r, 39r 45v, 52v, 96r-96v, vine motif ; minor geometric decorations, ff. 10r, 32v",
-    "Arabic",
-    "Three cords as bookmarks (labelled f. 58r-2, photographed laid on f. 58r)",
-    "Sinai Arabic 196",
-    "Horologion"
-  ],
-  "all_fields_tesim": [
-    "Paper",
-    "F. 103 loose",
-    "ark:/21198/z13f5sxt",
-    "Naskh",
-    "Headpiece, f. 1r, red and black vine motif with ascending cross ; f. 85r, vine ; minor geometric headpiece, f. 8v ; tailpiece with red partial border, f. 34r | Minor vegetative decorations, ff. 8v, 16v, 22v, 29v, 34r, 39r 45v, 52v, 96r-96v, vine motif ; minor geometric decorations, ff. 10r, 32v",
-    "Arabic",
-    "Three cords as bookmarks (labelled f. 58r-2, photographed laid on f. 58r)",
-    "Sinai Arabic 196",
-    "Horologion"
+    "ark:/21198/z13f5sxt"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z13f5sxt\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 196\",\"extent\":\"103 ff.\",\"weight\":\"234.8 g\",\"dim\":\"158 x 118 x 34 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1161f\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1161f\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 196, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1ts83\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1ts83\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-103v\"}],\"parent\":[\"ark:/21198/s1161f\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 102v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"تم بهذا الكتاب بعون الله تعالى بيد العبد الفقير الحقير جبرائيل ولد جرجس الطبيب الجلى الكاتب الكاتوليكي  الإيمان في مدينة حمص المحمية سنة ألف وتسعمائة واثنين وأربعين في شهر تشرين الثاني مسيحية \"}],\"assoc_date\":[{\"value\":\"1742 CE\",\"iso\":{\"not_before\":1742,\"not_after\":1742},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Headpiece, f. 1r, red and black vine motif with ascending cross ; f. 85r, vine ; minor geometric headpiece, f. 8v ; tailpiece with red partial border, f. 34r | Minor vegetative decorations, ff. 8v, 16v, 22v, 29v, 34r, 39r 45v, 52v, 96r-96v, vine motif ; minor geometric decorations, ff. 10r, 32v\"}],\"parent\":[\"ark:/21198/z13f5sxt\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"F. 103 loose\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Three cords as bookmarks (labelled f. 58r-2, photographed laid on f. 58r)\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[269], p. 24\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916520205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz13f5sxt/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"individuals\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13f5sxt%2F2256cg57/full/!200,200/0/default.jpg\"}]}"
 }

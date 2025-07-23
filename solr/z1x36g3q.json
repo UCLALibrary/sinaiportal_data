@@ -1,19 +1,17 @@
 {
   "id": "ark:/21198/z1x36g3q",
-  "ark": "ark:/21198/z1x36g3q",
+  "ark_ssi": "ark:/21198/z1x36g3q",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1281
-  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1x36g3q%2Fhp36gr3j/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Decoration, Geometric",
     "Dated",
     "Headpiece(s)",
+    "Decoration, Geometric",
     "Decoration, Vegetative"
   ],
   "support_ssim": [
@@ -27,10 +25,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -50,63 +47,50 @@
   "ot_works_ssim": [
     "Gospels"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 104",
   "titles_tesim": [
     "Gospels",
+    "Four Gospels",
     "Bible. Gospels"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Four Gospels",
     "Gospels",
+    "Four Gospels",
     "Bible. Gospels",
     "Followed by chapter index and divided according to Greek Calendar"
   ],
   "paracontent_tesim": [
-    "نجزت الاربعة مقالات المقدسة على تمامها وكمالها وكذلك عدد فصولها وكان الفراغ منها يوم الثلاثاء الرابع وعشرين من شهر حزيران سنة ست آلاف وسبعمائة تسعة وثمانين للعالم وذلك بجبل الله المقدس طور سيناء وهو برسم الشيخ أنبا ميخائيل الخمسي نفعه الله به وكل من قرأ فيه ودعا لناسخ الخاطئ بمغفرة خطاياه يكون له من السيد المسيح نظير ذلك والسبح لله دائما أبدا آمين ",
-    "Colophon",
     "Attested places:  Mount Sinai",
-    "Arabic"
+    "Colophon",
+    "Arabic",
+    "نجزت الاربعة مقالات المقدسة على تمامها وكمالها وكذلك عدد فصولها وكان الفراغ منها يوم الثلاثاء الرابع وعشرين من شهر حزيران سنة ست آلاف وسبعمائة تسعة وثمانين للعالم وذلك بجبل الله المقدس طور سيناء وهو برسم الشيخ أنبا ميخائيل الخمسي نفعه الله به وكل من قرأ فيه ودعا لناسخ الخاطئ بمغفرة خطاياه يكون له من السيد المسيح نظير ذلك والسبح لله دائما أبدا آمين "
   ],
   "full_text_tesim": [
-    "Paper",
-    "Ornate geometric headpiece, f. 135r, cross and knot motif, f. 1r ascending knots; f. 83r, knot motif with fleur de lis; f. 225r, vegetative and fleur de lis motif",
-    "Sinai Arabic 104",
-    "Followed by chapter index and divided according to Greek Calendar",
-    "Naskh",
-    "ark:/21198/z1x36g3q",
+    "Four Gospels",
     "Gospels",
+    "Followed by chapter index and divided according to Greek Calendar",
+    "Attested places:  Mount Sinai",
+    "ark:/21198/z1x36g3q",
+    "Naskh",
+    "Sinai Arabic 104",
     "Bible. Gospels",
     "Arabic",
-    "Four Gospels",
-    "Attested places:  Mount Sinai"
-  ],
-  "all_fields_tesim": [
     "Paper",
-    "Ornate geometric headpiece, f. 135r, cross and knot motif, f. 1r ascending knots; f. 83r, knot motif with fleur de lis; f. 225r, vegetative and fleur de lis motif",
-    "Sinai Arabic 104",
-    "Followed by chapter index and divided according to Greek Calendar",
-    "Naskh",
-    "ark:/21198/z1x36g3q",
-    "Gospels",
-    "Bible. Gospels",
-    "Arabic",
-    "Four Gospels",
-    "Attested places:  Mount Sinai"
+    "Ornate geometric headpiece, f. 135r, cross and knot motif, f. 1r ascending knots; f. 83r, knot motif with fleur de lis; f. 225r, vegetative and fleur de lis motif"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1x36g3q\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 104\",\"extent\":\"295 ff.\",\"weight\":\"1668.2 g\",\"dim\":\"227 x 163 x 92 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1gp5t\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1gp5t\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 104, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s19642\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s19642\",\"reconstruction\":false,\"label\":\"Four Gospels\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 1r-293r\",\"note\":[\"Followed by chapter index and divided according to Greek Calendar\"]}],\"parent\":[\"ark:/21198/s1gp5t\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 294r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"نجزت الاربعة مقالات المقدسة على تمامها وكمالها وكذلك عدد فصولها وكان الفراغ منها يوم الثلاثاء الرابع وعشرين من شهر حزيران سنة ست آلاف وسبعمائة تسعة وثمانين للعالم وذلك بجبل الله المقدس طور سيناء وهو برسم الشيخ أنبا ميخائيل الخمسي نفعه الله به وكل من قرأ فيه ودعا لناسخ الخاطئ بمغفرة خطاياه يكون له من السيد المسيح نظير ذلك والسبح لله دائما أبدا آمين \",\"assoc_date\":[{\"value\":\"Tuesday 14 Huzayran 6789 (world)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[\"Attested places:  Mount Sinai\"]}],\"assoc_date\":[{\"value\":\"1281 CE\",\"iso\":{\"not_before\":1281,\"not_after\":1281},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate geometric headpiece, f. 135r, cross and knot motif, f. 1r ascending knots; f. 83r, knot motif with fleur de lis; f. 225r, vegetative and fleur de lis motif\"}],\"parent\":[\"ark:/21198/z1x36g3q\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"viscodex\":[{\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"label\":\"Collation Visualization for Sinai Arabic 104\",\"url\":\"https://vceditor.library.upenn.edu/project/668da0ed5d696800014566c5/viewOnly\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[96], p. 15\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x36g3q/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1x36g3q%2Fhp36gr3j/full/!200,200/0/default.jpg\"}]}"
 }

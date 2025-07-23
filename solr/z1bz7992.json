@@ -1,13 +1,11 @@
 {
   "id": "ark:/21198/z1bz7992",
-  "ark": "ark:/21198/z1bz7992",
+  "ark_ssi": "ark:/21198/z1bz7992",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1255
-  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bz7992%2Fzd05kt52/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -25,10 +23,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -47,18 +44,17 @@
   "ot_works_ssim": [
     "Pauline Epistles"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 167",
   "titles_tesim": [
     "Pauline Epistles",
@@ -76,26 +72,15 @@
     "Arabic"
   ],
   "full_text_tesim": [
-    "Paper",
-    "Pauline Epistles",
     "Sinai Arabic 167",
-    "Undetermined (Arabic)",
-    "ark:/21198/z1bz7992",
     "Has signatures, beginning f. 11r",
-    "Manuscript of Coptic provenance",
-    "Arabic",
-    "Bible. Epistles of Paul"
-  ],
-  "all_fields_tesim": [
-    "Paper",
     "Pauline Epistles",
-    "Sinai Arabic 167",
-    "Undetermined (Arabic)",
-    "ark:/21198/z1bz7992",
-    "Has signatures, beginning f. 11r",
     "Manuscript of Coptic provenance",
+    "Undetermined (Arabic)",
+    "Bible. Epistles of Paul",
     "Arabic",
-    "Bible. Epistles of Paul"
+    "Paper",
+    "ark:/21198/z1bz7992"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1bz7992\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 167\",\"extent\":\"133 ff.\",\"weight\":\"570.3 g\",\"dim\":\"570 x 216 x 41 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1430z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1430z\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 167, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1xp9c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1xp9c\",\"reconstruction\":false,\"label\":\"Pauline Epistles\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1hg6f\",\"pref_title\":\"Pauline Epistles\",\"alt_title\":[\"Bible. Epistles of Paul\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Epistles of Paul\",\"uri\":\"https://viaf.org/viaf/176999286\",\"source\":\"VIAF\"},{\"label\":\"Bible. Epistles of Paul\",\"uri\":\"http://id.loc.gov/authorities/names/n79139623\",\"source\":\"LoC\"}]},\"alt_title\":\"Pauline Epistles\",\"locus\":\"ff. 2r-131v\"}],\"parent\":[\"ark:/21198/s1430z\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"ff. 131v-132v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}]}],\"assoc_date\":[{\"value\":\"1255 CE\",\"iso\":{\"not_before\":1255,\"not_after\":1255},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"provenance\",\"label\":\"Provenance Note\"},\"value\":\"Manuscript of Coptic provenance\"}],\"parent\":[\"ark:/21198/z1bz7992\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Has signatures, beginning f. 11r\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[120], p. 16\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\" https://www.loc.gov/item/00279384453-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bz7992/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bz7992%2Fzd05kt52/full/!200,200/0/default.jpg\"}]}"
 }

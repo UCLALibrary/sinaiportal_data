@@ -1,13 +1,11 @@
 {
   "id": "ark:/21198/z1pr9dm4",
-  "ark": "ark:/21198/z1pr9dm4",
+  "ark_ssi": "ark:/21198/z1pr9dm4",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    1708
-  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1pr9dm4%2Fh420pq6n/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -25,10 +23,9 @@
   ],
   "names_ssim": [],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -47,18 +44,17 @@
   "ot_works_ssim": [
     "Octoechos"
   ],
-  "ot_names_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [],
-  "uto_date_isim": [],
   "uto_language_ssim": [],
+  "uto_date_isim": [],
   "shelfmark_ssi": "Sinai Arabic 675",
   "titles_tesim": [
     "Octoechos"
@@ -74,19 +70,11 @@
     "Arabic"
   ],
   "full_text_tesim": [
-    "Paper",
-    "Sinai Arabic 675",
     "Undetermined (Arabic)",
-    "Arabic",
-    "Octoechos",
-    "ark:/21198/z1pr9dm4"
-  ],
-  "all_fields_tesim": [
-    "Paper",
     "Sinai Arabic 675",
-    "Undetermined (Arabic)",
-    "Arabic",
     "Octoechos",
+    "Arabic",
+    "Paper",
     "ark:/21198/z1pr9dm4"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1pr9dm4\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 675\",\"extent\":\"208 ff.\",\"weight\":\"533.7 g\",\"dim\":\"170 x 128 x 58.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1632b\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1632b\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 675, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s10m2n\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s10m2n\",\"reconstruction\":false,\"label\":\"Octoechos\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tg7m\",\"pref_title\":\"Octoechos\",\"alt_title\":[\"Octoechos\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-205v\"}],\"parent\":[\"ark:/21198/s1632b\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 206r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}]}],\"assoc_date\":[{\"value\":\"1708 CE\",\"iso\":{\"not_before\":1708,\"not_after\":1708},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1pr9dm4\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[187], p. 20\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714410205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1pr9dm4/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1pr9dm4%2Fh420pq6n/full/!200,200/0/default.jpg\"}]}"

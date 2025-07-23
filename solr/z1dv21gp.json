@@ -1,43 +1,17 @@
 {
   "id": "ark:/21198/z1dv21gp",
-  "ark": "ark:/21198/z1dv21gp",
+  "ark_ssi": "ark:/21198/z1dv21gp",
   "has_model_ssim": [
     "Work"
   ],
   "visibility_ssi": "open",
-  "year_isim": [
-    901,
-    902,
-    903,
-    904,
-    905,
-    906,
-    907,
-    908,
-    909,
-    910,
-    911,
-    912,
-    913,
-    914,
-    915,
-    916,
-    917,
-    918,
-    919,
-    920,
-    921,
-    922,
-    923,
-    924,
-    925
-  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jh42t4/0,1022,6132,6132/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Folio(s)",
   "features_ssim": [
     "Palimpsest",
-    "Colophon",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Colophon"
   ],
   "support_ssim": [
     "Parchment"
@@ -52,10 +26,9 @@
     "Cyril of Scythopolis"
   ],
   "places_ssim": [],
-  "date_types_ssim": [
-    "Date of Origin"
-  ],
+  "date_types_ssim": [],
   "program_ssim": [],
+  "reconstructed_from_ssim": [],
   "ot_script_ssim": [
     "Kufic"
   ],
@@ -98,20 +71,21 @@
   "ot_works_ssim": [
     "Lives of the monks of Palestine"
   ],
-  "ot_names_ssim": [
-    "Cyril of Scythopolis"
-  ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_genre_ssim": [],
   "para_date_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
+  "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [
     "Greek majuscule",
     "Christian Palestinian Aramaic"
+  ],
+  "uto_language_ssim": [
+    "Greek",
+    "CPA"
   ],
   "uto_date_isim": [
     401,
@@ -515,18 +489,14 @@
     799,
     800
   ],
-  "uto_language_ssim": [
-    "Greek",
-    "CPA"
-  ],
   "shelfmark_ssi": "Sinai Arabic NF M 66",
   "titles_tesim": [
     "Lives of the monks of Palestine"
   ],
   "names_tesim": [
     "Cyrillus Scythopolitanus",
-    "Κύριλλος ο Σκυθοπολίτης",
-    "Cyril of Scythopolis"
+    "Cyril of Scythopolis",
+    "Κύριλλος ο Σκυθοπολίτης"
   ],
   "exerpts_tesim": [],
   "places_tesim": [
@@ -537,34 +507,19 @@
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Parchment",
-    "Cyril of Scythopolis",
-    "Kufic",
-    "Sinai Arabic NF M 66",
-    "Decorative use of red ink in overtext",
-    "Six fragmented folios fused together, and three fragments",
-    "Lives of the monks of Palestine",
-    "ark:/21198/z1dv21gp",
-    "black",
     "Mar Saba Monastery (Jerusalem)",
-    "Arabic",
-    "Cyrillus Scythopolitanus",
-    "Κύριλλος ο Σκυθοπολίτης"
-  ],
-  "all_fields_tesim": [
-    "Parchment",
-    "Cyril of Scythopolis",
-    "Kufic",
-    "Sinai Arabic NF M 66",
-    "Decorative use of red ink in overtext",
-    "Six fragmented folios fused together, and three fragments",
-    "Lives of the monks of Palestine",
-    "ark:/21198/z1dv21gp",
     "black",
-    "Mar Saba Monastery (Jerusalem)",
+    "Decorative use of red ink in overtext",
+    "Cyril of Scythopolis",
+    "Parchment",
+    "Kufic",
+    "Lives of the monks of Palestine",
+    "Sinai Arabic NF M 66",
+    "ark:/21198/z1dv21gp",
+    "Six fragmented folios fused together, and three fragments",
+    "Κύριλλος ο Σκυθοπολίτης",
     "Arabic",
-    "Cyrillus Scythopolitanus",
-    "Κύριλλος ο Σκυθοπολίτης"
+    "Cyrillus Scythopolitanus"
   ],
   "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1dv21gp\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 66\",\"extent\":\"9 ff.\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"290 x 240 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s13044\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s13044\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 66, Overtext (Kufic)\",\"writing\":[{\"script\":[{\"id\":\"kufic\",\"label\":\"Kufic\",\"writing_system\":\"Arabic\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1wm1b\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1wm1b\",\"reconstruction\":false,\"label\":\"Lives of the monks of Palestine\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1bp46\",\"pref_title\":\"Lives of the monks of Palestine\",\"orig_lang\":{\"id\":\"gree1276\",\"label\":\"Greek\"},\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}],\"creator\":[{\"id\":\"ark:/21198/s1w88j\",\"agent_record\":{\"ark\":\"ark:/21198/s1w88j\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Cyril of Scythopolis\",\"alt_name\":[\"Cyrillus Scythopolitanus\",\"Κύριλλος ο Σκυθοπολίτης\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"ca. 524 CE-ca. 558 CE\",\"iso\":{\"not_before\":499,\"not_after\":583}},\"rel_con\":[{\"label\":\"Cyril, of Scythopolis, approximately 524-approximately 558\",\"uri\":\"http://viaf.org/viaf/8181483\",\"source\":\"VIAF\"},{\"label\":\"Cyril, of Scythopolis, approximately 524-approximately 558\",\"uri\":\"https://id.loc.gov/authorities/names/n83228458\",\"source\":\"LoC\"},{\"label\":\"Cyril, of Scythopolis, approximately 524-approximately 558\",\"uri\":\"https://w3id.org/haf/person/542390235937\",\"source\":\"HAF\"},{\"label\":\"Cyril of Scythopolis \",\"uri\":\"http://syriaca.org/person/2806\",\"source\":\"Syriaca\"},{\"label\":\"Cyrillus Scythopolitanus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/843/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Cyril,‏ ‎of Scythopolis,‏ ‎approximately 524-approximately 558.‏ ‎Lives of the monks of Palestine\",\"uri\":\"http://viaf.org/viaf/309551685\",\"source\":\"VIAF\"}]},\"locus\":\"ff. 1r-9v\"}],\"parent\":[\"ark:/21198/s13044\"]}}],\"assoc_date\":[{\"value\":\"First quarter 10th c. CE\",\"iso\":{\"not_before\":901,\"not_after\":925},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Mar Saba Monastery (Jerusalem)\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"features\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorative use of red ink in overtext\"}],\"parent\":[\"ark:/21198/z1dv21gp\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1662c\",\"label\":\"CPA Undertext: Martyrdom of Arianos and the Four Protectores\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 3\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s12d1t\",\"label\":\"CPA Undertext: Martyrdom of Mamas of Caesarea in Cappadocia\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 4\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1xp7m\",\"label\":\"Greek Undertext: Mythological Poem in Hexameters\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 2, 4-r, 4-v, 6r, 6–8\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"5th-6th c.  CE\",\"iso\":{\"not_before\":401,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1sw62\",\"label\":\"CPA Undertext: Martyrdom of Partiklos of Caesarea, Follower of Pamphilos\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1, 5\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1p62q\",\"label\":\"Greek Undertext: Unidentified grammatical or biblical text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 9\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"7th-8th c.  CE\",\"iso\":{\"not_before\":601,\"not_after\":800},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Six fragmented folios fused together, and three fragments\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 35; ٣٦ \"},{\"id\":\"3a20a9e1-0b02-476c-966e-649b62ac5761\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 79-117, esp. pp. 100-106 \"},{\"id\":\"2d85be7b-2722-4e39-8417-bc67a3075bd8\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. X-XI \"},{\"id\":\"2bb3cbdc-6f7f-42e7-897a-27f992599c59\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 188-227, esp. pp. 197-198, n. 41\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1dv21gp/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jh42t4/0,1022,6132,6132/150,150/0/default.jpg\"}]}"
 }
