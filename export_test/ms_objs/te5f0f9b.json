@@ -118,10 +118,14 @@
             ], 
             "para": [
                 { 
-                    "type": { 
+                    "type": {
+                        "id": "history",
+                        "label": "History"
+                    },
+                    "subtype": [{ 
                         "id": "transfer-of-ownership", 
                         "label": "Transfer of Ownership" 
-                    },
+                    }],
                     "locus": "f. 55r", 
                     "lang": [
                         { 
@@ -279,10 +283,14 @@
     ], 
     "para": [
         { 
-            "type": { 
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [{ 
                 "id": "prayer-request", 
                 "label": "Prayer Request" 
-            }, 
+            }], 
             "locus": "Front board inside, f. 1", 
             "lang": [
                 { 
@@ -307,10 +315,14 @@
             ] 
         }, 
         { 
-            "type": { 
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [{ 
                 "id": "reader-note", 
                 "label": "Reader's Note" 
-            }, 
+            }], 
             "locus": "f. 2a", 
             "lang": [
                 { 

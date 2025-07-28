@@ -87,8 +87,8 @@
                               "floruit": {
                                 "value": "759 CE-826 CE",
                                 "iso": {
-                                  "not_before": 759,
-                                  "not_after": 826
+                                  "not_before": "0759",
+                                  "not_after": "0826"
                                 }
                               },
                               "rel_con": [
@@ -149,9 +149,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "ff. 214v-215r",
                 "lang": [
                   {
@@ -187,8 +193,7 @@
               {
                 "value": "1244 CE",
                 "iso": {
-                  "not_before": 1244,
-                  "not_after": 1244
+                  "not_before": "1244"
                 },
                 "type": {
                   "id": "origin",

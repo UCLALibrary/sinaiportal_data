@@ -36,9 +36,15 @@
     "para": [
         {
             "type": {
-                "id": "colophon",
-                "label": "Colophon"
+                "id": "history",
+                "label": "History"
             },
+            "subtype": [
+                {
+                    "id": "colophon",
+                    "label": "Colophon"
+                }
+            ],
             "locus": "260v-261v",
             "lang": [
                 {

@@ -100,9 +100,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 39v",
                 "lang": [
                   {
@@ -128,8 +134,7 @@
               {
                 "value": "1732 CE",
                 "iso": {
-                  "not_before": 1732,
-                  "not_after": 1732
+                  "not_before": "1732"
                 },
                 "type": {
                   "id": "origin",

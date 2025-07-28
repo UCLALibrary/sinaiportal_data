@@ -116,9 +116,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 206v",
                 "lang": [
                   {
@@ -140,8 +146,7 @@
                   {
                     "value": "Monday, 14 Tammuz 6796 Adam :: Monday, July 14, 1287 CE",
                     "iso": {
-                      "not_before": 1287,
-                      "not_after": 1287
+                      "not_before": "1287-07-14"
                     },
                     "type": {
                       "id": "origin",
@@ -152,9 +157,15 @@
               },
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "ff. 225v-226r",
                 "lang": [
                   {
@@ -169,8 +180,7 @@
               {
                 "value": "1287 CE",
                 "iso": {
-                  "not_before": 1287,
-                  "not_after": 1287
+                  "not_before": "1287"
                 },
                 "type": {
                   "id": "origin",

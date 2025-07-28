@@ -94,9 +94,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "191v",
                 "lang": [
                   {
@@ -120,8 +126,7 @@
               {
                 "value": "1312 CE",
                 "iso": {
-                  "not_before": 1312,
-                  "not_after": 1312
+                  "not_before": "1312"
                 },
                 "type": {
                   "id": "origin",

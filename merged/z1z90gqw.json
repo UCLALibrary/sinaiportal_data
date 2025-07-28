@@ -87,8 +87,8 @@
                               "floruit": {
                                 "value": "ca. 329 CE-390 CE",
                                 "iso": {
-                                  "not_before": 304,
-                                  "not_after": 415
+                                  "not_before": "0304",
+                                  "not_after": "0415"
                                 }
                               },
                               "rel_con": [
@@ -144,9 +144,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 360r",
                 "lang": [
                   {
@@ -182,8 +188,7 @@
               {
                 "value": "1223 CE",
                 "iso": {
-                  "not_before": 1223,
-                  "not_after": 1223
+                  "not_before": "1223"
                 },
                 "type": {
                   "id": "origin",

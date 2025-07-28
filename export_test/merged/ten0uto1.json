@@ -141,8 +141,8 @@
               {
                 "value": "6th c. CE",
                 "iso": {
-                  "not_before": 501,
-                  "not_after": 600
+                  "not_before": "0501",
+                  "not_after": "0600"
                 },
                 "type": {
                   "id": "origin",
@@ -174,8 +174,8 @@
                   "floruit": {
                     "value": "303 CE-373 CE",
                     "iso": {
-                      "not_before": 303,
-                      "not_after": 373
+                      "not_before": "0303",
+                      "not_after": "0373"
                     }
                   },
                   "rel_con": [
@@ -381,7 +381,10 @@
     "This record is used only for purposes of developing the data portal and should therefore not be published, and should be deleted when development is complete"
   ],
   "reconstructed_from": [
-    "ark:/21198/ten02zkr"
+    {
+      "id": "ark:/21198/ten02zkr",
+      "shelfmark": "Sinai Arabic NF M 28"
+    }
   ],
   "has_bind": false
 }

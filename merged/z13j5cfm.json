@@ -87,8 +87,8 @@
                               "floruit": {
                                 "value": "ca. 329 CE-390 CE",
                                 "iso": {
-                                  "not_before": 304,
-                                  "not_after": 415
+                                  "not_before": "0304",
+                                  "not_after": "0415"
                                 }
                               },
                               "rel_con": [
@@ -141,8 +141,7 @@
               {
                 "value": "1216 CE",
                 "iso": {
-                  "not_before": 1216,
-                  "not_after": 1216
+                  "not_before": "1216"
                 },
                 "type": {
                   "id": "origin",

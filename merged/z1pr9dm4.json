@@ -90,9 +90,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 206r",
                 "lang": [
                   {
@@ -106,8 +112,7 @@
               {
                 "value": "1708 CE",
                 "iso": {
-                  "not_before": 1708,
-                  "not_after": 1708
+                  "not_before": "1708"
                 },
                 "type": {
                   "id": "origin",

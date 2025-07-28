@@ -117,9 +117,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "ff. 189v-190r",
                 "lang": [
                   {
@@ -133,8 +139,7 @@
               {
                 "value": "1488 CE",
                 "iso": {
-                  "not_before": 1488,
-                  "not_after": 1488
+                  "not_before": "1488"
                 },
                 "type": {
                   "id": "origin",

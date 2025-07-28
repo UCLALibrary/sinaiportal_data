@@ -113,8 +113,8 @@
                               "death": {
                                 "value": "489 CE or 491 CE",
                                 "iso": {
-                                  "not_before": 489,
-                                  "not_after": 491
+                                  "not_before": "0489",
+                                  "not_after": "0491"
                                 }
                               },
                               "rel_con": [
@@ -209,8 +209,8 @@
               {
                 "value": "6th c. CE",
                 "iso": {
-                  "not_before": 501,
-                  "not_after": 600
+                  "not_before": "0501",
+                  "not_after": "0600"
                 },
                 "type": {
                   "id": "origin",
@@ -332,7 +332,10 @@
     "This record is used only for purposes of developing the data portal and should therefore not be published, and should be deleted when development is complete"
   ],
   "reconstructed_from": [
-    "ark:/21198/ten02zkr"
+    {
+      "id": "ark:/21198/ten02zkr",
+      "shelfmark": "Sinai Arabic NF M 28"
+    }
   ],
   "has_bind": false
 }
