@@ -72,9 +72,15 @@
     "para": [
         {
             "type": {
-                "id": "colophon",
-                "label": "Colophon"
+                "id": "history",
+                "label": "History"
             },
+            "subtype": [
+                {
+                    "id": "colophon",
+                    "label": "Colophon"
+                }
+            ],
             "locus": "ff. 340ar-340av",
             "lang": [
                 {
