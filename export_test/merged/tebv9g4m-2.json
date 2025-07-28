@@ -124,6 +124,29 @@
                 ]
               }
             ],
+            "assoc_name": [
+              {
+                "value": "Guest layer associated name value",
+                "role": {
+                  "id": "unkwnown",
+                  "label": "Unknown"
+                },
+                "as_written": "As written person name, Guest Layer"
+              }
+            ],
+            "assoc_place": [
+              {
+                "place_record": {
+                  "pref_name": "Edessa, Guest Layer"
+                },
+                "value": "Edessa (value), Guest Layer",
+                "as_writen": "As written place name, Guest Layer",
+                "event": {
+                  "id": "unknown",
+                  "label": "Unknown"
+                }
+              }
+            ],
             "writing": [
               {
                 "script": [
@@ -170,7 +193,8 @@
                                 "Saint Arsenius the Deacon",
                                 "Arsenius of Scetis and Turah",
                                 "Arsenius the Roman",
-                                "Abba Arsenius"
+                                "Abba Arsenius",
+                                "Creator Alt Name"
                               ],
                               "gender": {
                                 "id": "man",
@@ -258,14 +282,15 @@
                           }
                         ]
                       },
-                      "as_written": "ܐܘܢܓܠܝܘܢ [ܩܕ]ܝܫܐ ܟܪܘܙܘܬܐ [ܕ]ܠ[ܘ]ܩܐ",
+                      "alt_title": "Work wit alt title",
+                      "as_written": "GUEST ܐܘܢܓܠܝܘܢ [ܩܕ]ܝܫܐ ܟܪܘܙܘܬܐ [ܕ]ܠ[ܘ]ܩܐ",
                       "locus": "ff. 55v-144v",
                       "contents": [
                         {
-                          "label": "Easter",
+                          "label": "Easter, GUEST CONTENT",
                           "locus": "f. 3r",
                           "note": [
-                            "A note about the Easter season liturigical section"
+                            "A note about the Easter season liturigical section GUEST CONTENTS NOTE"
                           ]
                         },
                         {
@@ -282,7 +307,8 @@
                             "label": "Incipit"
                           },
                           "locus": "f. 55v",
-                          "as_written": "ܡܛܠ ܕܤܓܝ̈ܐܐ ܨܒ̣ܘ ܕܢܟܬܒܘܢ ܬܫܥܝ̈ܬܐ ܕܤܘܥܖ̈ܢܐ …"
+                          "as_written": "ܡܛܠ ܕܤܓܝ̈ܐܐ ܨܒ̣ܘ ܕܢܟܬܒܘܢ ܬܫܥܝ̈ܬܐ ܕܤܘܥܖ̈ܢܐ …GUEST",
+                          "translation": "Guest layer excerpt translation"
                         },
                         {
                           "type": {
@@ -292,7 +318,7 @@
                           "locus": "f. 144v",
                           "as_written": "ܐܬܝ̈ ܠܒܝܬ ܩܒܘܪܐ ܘܐܝܬܝ",
                           "note": [
-                            "Corresponds to Luke 24:1"
+                            "Guest excerpt. Corresponds to Luke 24:1"
                           ]
                         }
                       ],
