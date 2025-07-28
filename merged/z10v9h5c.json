@@ -84,8 +84,8 @@
                               "floruit": {
                                 "value": "6th century CE",
                                 "iso": {
-                                  "not_before": 501,
-                                  "not_after": 600
+                                  "not_before": "0501",
+                                  "not_after": "0600"
                                 }
                               },
                               "rel_con": [
@@ -159,9 +159,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 208v",
                 "lang": [
                   {
@@ -206,8 +212,7 @@
               {
                 "value": "1227 CE",
                 "iso": {
-                  "not_before": 1227,
-                  "not_after": 1227
+                  "not_before": "1227"
                 },
                 "type": {
                   "id": "origin",

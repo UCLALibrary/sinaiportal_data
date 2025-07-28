@@ -110,9 +110,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 166v",
                 "lang": [
                   {
@@ -146,8 +152,8 @@
                   {
                     "value": "1489 AG (=1177/8 CE)",
                     "iso": {
-                      "not_before": 1177,
-                      "not_after": 1178
+                      "not_before": "1177",
+                      "not_after": "1178"
                     },
                     "type": {
                       "id": "origin",
@@ -161,8 +167,7 @@
               {
                 "value": "1178 CE",
                 "iso": {
-                  "not_before": 1178,
-                  "not_after": 1178
+                  "not_before": "1178"
                 },
                 "type": {
                   "id": "origin",

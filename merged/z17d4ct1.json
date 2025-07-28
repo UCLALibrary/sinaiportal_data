@@ -104,8 +104,7 @@
                               "death": {
                                 "value": "407 CE",
                                 "iso": {
-                                  "not_before": 407,
-                                  "not_after": 407
+                                  "not_before": "0407"
                                 }
                               },
                               "rel_con": [
@@ -163,9 +162,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 334r",
                 "lang": [
                   {
@@ -208,8 +213,7 @@
               {
                 "value": "1053 CE",
                 "iso": {
-                  "not_before": 1053,
-                  "not_after": 1053
+                  "not_before": "1053"
                 },
                 "type": {
                   "id": "origin",

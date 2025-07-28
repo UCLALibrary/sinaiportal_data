@@ -107,9 +107,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 155r",
                 "lang": [
                   {
@@ -123,8 +129,7 @@
               {
                 "value": "1065 CE",
                 "iso": {
-                  "not_before": 1065,
-                  "not_after": 1065
+                  "not_before": "1065"
                 },
                 "type": {
                   "id": "origin",

@@ -84,8 +84,8 @@
                               "death": {
                                 "value": "ca. 750 CE",
                                 "iso": {
-                                  "not_before": 725,
-                                  "not_after": 775
+                                  "not_before": "0725",
+                                  "not_after": "0775"
                                 }
                               },
                               "rel_con": [
@@ -144,9 +144,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 412r",
                 "lang": [
                   {
@@ -160,8 +166,7 @@
               {
                 "value": "1226 CE",
                 "iso": {
-                  "not_before": 1226,
-                  "not_after": 1226
+                  "not_before": "1226"
                 },
                 "type": {
                   "id": "origin",

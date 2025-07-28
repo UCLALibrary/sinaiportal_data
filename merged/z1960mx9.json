@@ -96,9 +96,15 @@
             "para": [
               {
                 "type": {
-                  "id": "colophon",
-                  "label": "Colophon"
+                  "id": "history",
+                  "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "back board inside",
                 "lang": [
                   {
@@ -112,8 +118,7 @@
               {
                 "value": "1780 CE",
                 "iso": {
-                  "not_before": 1780,
-                  "not_after": 1780
+                  "not_before": "1780"
                 },
                 "type": {
                   "id": "origin",
