@@ -55,10 +55,14 @@
     ], 
     "para": [
         { 
-            "type": { 
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [{ 
                 "id": "colophon", 
                 "label": "Colophon" 
-            }, 
+            }], 
             "locus": "f. 54v", 
             "lang": [
                 { 

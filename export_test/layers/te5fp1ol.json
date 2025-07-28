@@ -91,10 +91,14 @@
     ], 
     "para": [
         { 
-            "type": { 
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [{ 
                 "id": "colophon", 
                 "label": "Colophon" 
-            }, 
+            }], 
             "locus": "f. 54v", 
             "lang": [
                 { 
@@ -164,9 +168,13 @@
         } ,
         {
             "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [{
                 "id": "colophon",
                 "label": "Colophon"
-            },
+            }],
             "locus": "f. 55r",
             "lang": [
                 {
@@ -189,9 +197,13 @@
         },
         {
             "type": {
+                "id": "framing",
+                "label": "Framing"
+            },
+            "subtype": [{
                 "id": "toc",
                 "label": "Table of Contents"
-            },
+            }],
             "locus": "f. 3",
             "lang": [
                 {
