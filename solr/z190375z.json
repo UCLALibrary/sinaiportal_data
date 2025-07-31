@@ -1,19 +1,13 @@
 {
-  "id": "ark:/21198/z190375z",
   "ark_ssi": "ark:/21198/z190375z",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz190375z%2Fnq14s22c/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
     "Border(s), Decorative",
-    "Headpiece(s)",
+    "Colophon",
+    "Dated",
     "Decoration, Geometric",
-    "Colophon"
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -29,6 +23,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -36,10 +31,10 @@
     "Syriac"
   ],
   "ot_genre_ssim": [
-    "Liturgical texts",
-    "Hagiographies"
+    "Hagiographies",
+    "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1257
   ],
   "ot_language_ssim": [
@@ -50,47 +45,79 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Syriac"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 195",
   "titles_tesim": [
-    "Menologion (month of Ilūl)",
-    "Menologion"
+    "Menologion",
+    "Menologion (month of Ilūl)"
   ],
   "names_tesim": [
-    "ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ",
-    "Yuhannon bar Mansour"
+    "Yuhannon bar Mansour",
+    "ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ"
   ],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Menologion (month of Ilūl)",
-    "Menologion"
+    "Item 1",
+    "Menologion",
+    "Menologion (month of Ilūl)"
   ],
   "paracontent_tesim": [
-    "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܐܝܟ ܕܠܗܕܪ ܐܘ ܐܝܩܪܐ ܕܬܠܝܬܝ̄ܘ ܩܕܝ̄ܫ ܘܫܘܝܬ ܒܐܘܣܝܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩܘ̄ܕ ܐܠܗܘܬܐ ܚܕܐ ܒܬܠܬܐ ܩܢܘܡ̈ܐ ܟܬܒܐ ܗܕܐܡܢܐܘܢ܀ ܝܘܡ ܐܪܒܥܐ ܒܙ̄: ܒܝܪܚܐ ܐܒ : ܫܢܬܐ ܫܬ ܐܠܦ̈ܝܢ ܘܫܒ̈ܥܡܐܐ ܘܫܬܝܢ ܘܫܬܐ ܠܐܒܘܢ ܐܕܡ܀ ܡܢ ܫ̈ܢܝܐ ܐܠܟܣܢܕܪܘ̄ ܫܢܬ ܠܐܦ ܘܚܡܣܡܐܐ ܘܫܬܝܢ ܘܛ̄: ܘܝܠܝܕܘܬܗ ܕܡܪܢ ܘܐܠܗܢ ܝܫܘܥ ܡܫܝܚܐ ܒܦܓܪ ܫܢܬ ܐܠܦ ܘܡ̈ܐܬܝܢ ܘܫܬܝܢ ܘܫܬܐ ܒܕܝܪܐ ܘܡܩܕܫܐ ܛܘܪ ܣܢܢܐ ܬܐܝܕܝ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪ ܡܢ ܟܠܗܘܢ ܒܢܝܢܫܐ ܕܠܐ ܫ̇ܘܐ ܢܬܩܪܐ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ ܠܥܕܬܐ ܩܕܝܫܬܐ ܕܝܠܕܬ ܐܠܗܐ ܒܗ ܒܕܝܪܐ. ܐܠܗܐ ܢܚܣܐ ܠܗ ܘܠܐ ܒܗ̈ܘܗܝ ܒܬܟܫ̈ܦܬܐ ܕܝܠܕܬܐܠܗܐ ܘܡܘܫܐ ܘܓܠܝܐ ܘܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ",
-    "Syriac",
-    "Colophon"
+    "Yuhannon bar Mansour",
+    "ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ"
   ],
   "full_text_tesim": [
-    "ark:/21198/z190375z",
-    "Sinai Syriac 195",
-    "Minor geometric headpieces/tailpieces throughout, beginning on f. 16r | Border, f. 172v",
-    "ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ",
-    "Menologion",
-    "Yuhannon bar Mansour",
-    "Menologion (month of Ilūl)",
     "Melkite",
+    "Menologion",
+    "Menologion (month of Ilūl)",
+    "Minor geometric headpieces/tailpieces throughout, beginning on f. 16r | Border, f. 172v",
     "Paper",
+    "Sinai Syriac 195",
     "Syriac",
-    "f. 1 lacking"
+    "Yuhannon bar Mansour",
+    "ark:/21198/z190375z",
+    "f. 1 lacking",
+    "ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ",
+    "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܐܝܟ ܕܠܗܕܪ ܐܘ ܐܝܩܪܐ ܕܬܠܝܬܝ̄ܘ ܩܕܝ̄ܫ ܘܫܘܝܬ ܒܐܘܣܝܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩܘ̄ܕ ܐܠܗܘܬܐ ܚܕܐ ܒܬܠܬܐ ܩܢܘܡ̈ܐ ܟܬܒܐ ܗܕܐܡܢܐܘܢ܀ ܝܘܡ ܐܪܒܥܐ ܒܙ̄: ܒܝܪܚܐ ܐܒ : ܫܢܬܐ ܫܬ ܐܠܦ̈ܝܢ ܘܫܒ̈ܥܡܐܐ ܘܫܬܝܢ ܘܫܬܐ ܠܐܒܘܢ ܐܕܡ܀ ܡܢ ܫ̈ܢܝܐ ܐܠܟܣܢܕܪܘ̄ ܫܢܬ ܠܐܦ ܘܚܡܣܡܐܐ ܘܫܬܝܢ ܘܛ̄: ܘܝܠܝܕܘܬܗ ܕܡܪܢ ܘܐܠܗܢ ܝܫܘܥ ܡܫܝܚܐ ܒܦܓܪ ܫܢܬ ܐܠܦ ܘܡ̈ܐܬܝܢ ܘܫܬܝܢ ܘܫܬܐ ܒܕܝܪܐ ܘܡܩܕܫܐ ܛܘܪ ܣܢܢܐ ܬܐܝܕܝ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪ ܡܢ ܟܠܗܘܢ ܒܢܝܢܫܐ ܕܠܐ ܫ̇ܘܐ ܢܬܩܪܐ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ ܠܥܕܬܐ ܩܕܝܫܬܐ ܕܝܠܕܬ ܐܠܗܐ ܒܗ ܒܕܝܪܐ. ܐܠܗܐ ܢܚܣܐ ܠܗ ܘܠܐ ܒܗ̈ܘܗܝ ܒܬܟܫ̈ܦܬܐ ܕܝܠܕܬܐܠܗܐ ܘܡܘܫܐ ܘܓܠܝܐ ܘܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z190375z\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 195\",\"extent\":\"324 ff.\",\"weight\":\"1750.4 g\",\"dim\":\"226 x 155 x 111 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1g04j\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1g04j\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 195, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s18m24\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s18m24\",\"reconstruction\":false,\"label\":\"Menologion (month of Ilūl)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion (month of Ilūl)\",\"locus\":\"ff. 2r-314ar\"}],\"parent\":[\"ark:/21198/s1g04j\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"314ar\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܐܝܟ ܕܠܗܕܪ ܐܘ ܐܝܩܪܐ ܕܬܠܝܬܝ̄ܘ ܩܕܝ̄ܫ ܘܫܘܝܬ ܒܐܘܣܝܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩܘ̄ܕ ܐܠܗܘܬܐ ܚܕܐ ܒܬܠܬܐ ܩܢܘܡ̈ܐ ܟܬܒܐ ܗܕܐܡܢܐܘܢ܀ ܝܘܡ ܐܪܒܥܐ ܒܙ̄: ܒܝܪܚܐ ܐܒ : ܫܢܬܐ ܫܬ ܐܠܦ̈ܝܢ ܘܫܒ̈ܥܡܐܐ ܘܫܬܝܢ ܘܫܬܐ ܠܐܒܘܢ ܐܕܡ܀ ܡܢ ܫ̈ܢܝܐ ܐܠܟܣܢܕܪܘ̄ ܫܢܬ ܠܐܦ ܘܚܡܣܡܐܐ ܘܫܬܝܢ ܘܛ̄: ܘܝܠܝܕܘܬܗ ܕܡܪܢ ܘܐܠܗܢ ܝܫܘܥ ܡܫܝܚܐ ܒܦܓܪ ܫܢܬ ܐܠܦ ܘܡ̈ܐܬܝܢ ܘܫܬܝܢ ܘܫܬܐ ܒܕܝܪܐ ܘܡܩܕܫܐ ܛܘܪ ܣܢܢܐ ܬܐܝܕܝ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪ ܡܢ ܟܠܗܘܢ ܒܢܝܢܫܐ ܕܠܐ ܫ̇ܘܐ ܢܬܩܪܐ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ ܠܥܕܬܐ ܩܕܝܫܬܐ ܕܝܠܕܬ ܐܠܗܐ ܒܗ ܒܕܝܪܐ. ܐܠܗܐ ܢܚܣܐ ܠܗ ܘܠܐ ܒܗ̈ܘܗܝ ܒܬܟܫ̈ܦܬܐ ܕܝܠܕܬܐܠܗܐ ܘܡܘܫܐ ܘܓܠܝܐ ܘܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ\",\"assoc_name\":[{\"value\":\"Yuhannon bar Mansour\",\"as_written\":\"ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}]}],\"assoc_date\":[{\"value\":\"1257 CE\",\"iso\":{\"not_before\":1257,\"not_after\":1257},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"colophon\",\"label\":\"Colophon\"},{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces/tailpieces throughout, beginning on f. 16r | Border, f. 172v\"}],\"parent\":[\"ark:/21198/z190375z\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"f. 1 lacking\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[140], p. 156\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917330205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz190375z/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz190375z%2Fnq14s22c/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z190375z\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 195\",\"extent\":\"324 ff.\",\"weight\":\"1750.4 g\",\"dim\":\"226 x 155 x 111 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1g04j\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1g04j\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 195, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s18m24\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s18m24\",\"reconstruction\":false,\"label\":\"Menologion (month of Ilūl)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion (month of Ilūl)\",\"locus\":\"ff. 2r-314ar\"}],\"parent\":[\"ark:/21198/s1g04j\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"314ar\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܐܝܟ ܕܠܗܕܪ ܐܘ ܐܝܩܪܐ ܕܬܠܝܬܝ̄ܘ ܩܕܝ̄ܫ ܘܫܘܝܬ ܒܐܘܣܝܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩܘ̄ܕ ܐܠܗܘܬܐ ܚܕܐ ܒܬܠܬܐ ܩܢܘܡ̈ܐ ܟܬܒܐ ܗܕܐܡܢܐܘܢ܀ ܝܘܡ ܐܪܒܥܐ ܒܙ̄: ܒܝܪܚܐ ܐܒ : ܫܢܬܐ ܫܬ ܐܠܦ̈ܝܢ ܘܫܒ̈ܥܡܐܐ ܘܫܬܝܢ ܘܫܬܐ ܠܐܒܘܢ ܐܕܡ܀ ܡܢ ܫ̈ܢܝܐ ܐܠܟܣܢܕܪܘ̄ ܫܢܬ ܠܐܦ ܘܚܡܣܡܐܐ ܘܫܬܝܢ ܘܛ̄: ܘܝܠܝܕܘܬܗ ܕܡܪܢ ܘܐܠܗܢ ܝܫܘܥ ܡܫܝܚܐ ܒܦܓܪ ܫܢܬ ܐܠܦ ܘܡ̈ܐܬܝܢ ܘܫܬܝܢ ܘܫܬܐ ܒܕܝܪܐ ܘܡܩܕܫܐ ܛܘܪ ܣܢܢܐ ܬܐܝܕܝ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪ ܡܢ ܟܠܗܘܢ ܒܢܝܢܫܐ ܕܠܐ ܫ̇ܘܐ ܢܬܩܪܐ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ ܠܥܕܬܐ ܩܕܝܫܬܐ ܕܝܠܕܬ ܐܠܗܐ ܒܗ ܒܕܝܪܐ. ܐܠܗܐ ܢܚܣܐ ܠܗ ܘܠܐ ܒܗ̈ܘܗܝ ܒܬܟܫ̈ܦܬܐ ܕܝܠܕܬܐܠܗܐ ܘܡܘܫܐ ܘܓܠܝܐ ܘܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ\",\"assoc_name\":[{\"value\":\"Yuhannon bar Mansour\",\"as_written\":\"ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}]}],\"assoc_date\":[{\"value\":\"1257 CE\",\"iso\":{\"not_before\":\"1257\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"colophon\",\"label\":\"Colophon\"},{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces/tailpieces throughout, beginning on f. 16r | Border, f. 172v\"}],\"parent\":[\"ark:/21198/z190375z\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"f. 1 lacking\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[140], p. 156\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917330205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz190375z/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz190375z%2Fnq14s22c/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z190375z",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz190375z%2Fnq14s22c/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz190375z/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 195",
+    "324 ff."
+  ],
+  "ot_date_tesim": [
+    "1257 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1257 CE"
+  ]
 }

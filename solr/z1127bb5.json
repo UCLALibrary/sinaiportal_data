@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z1127bb5",
   "ark_ssi": "ark:/21198/z1127bb5",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1127bb5%2F2078s411/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
-    "Colophon"
+    "Colophon",
+    "Dated"
   ],
   "support_ssim": [
     "Paper"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Estrangela"
   ],
@@ -36,7 +31,7 @@
     "Biblical texts",
     "Gospel books"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1188
   ],
   "ot_language_ssim": [
@@ -47,51 +42,82 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Syriac"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 145",
   "titles_tesim": [
-    "Gospels",
+    "Bible. Gospels",
     "Four Gospels",
-    "Bible. Gospels"
+    "Gospels"
   ],
   "names_tesim": [
-    "ܐܝܣܚܩ ܝܚܝܕܝܐ",
-    "Isaac the Solitary"
+    "Isaac the Solitary",
+    "ܐܝܣܚܩ ܝܚܝܕܝܐ"
   ],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Gospels",
-    "Four Gospels",
     "Bible. Gospels",
-    "Troparia (for the Apostles)"
+    "Four Gospels",
+    "Gospels",
+    "Item 1"
   ],
   "paracontent_tesim": [
-    "Difficult handwriting; incomplete rendering",
-    "ܫܠܡ ܒܥܘܕܪܢ ܡܪܢ ܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ ܫܘܝܬ ܒܐܘܣܝܐ ܡܪ̤ܬ ܛܘܒ̈ܐ ܘܡܚܝܠܬ ܡܚ̈ܝܠܐ ܕܐܟܘܬܝ. ܐܫܬܠܡ ܟܬܒܐ ܗܢܐ ܕܐܘܢܓܠܝܘܢ ܒܝܪܚ ܐܒ ܐܬܟܬܒ ܟܬܒܐ ܗܢܐ ܒܥܘ ܡܪܗ ܕܣܗܕܐ ܡܪܓܝܘܪܓܝܣ ܕܡܬܝܕܥ ܕܒܝܬ ܙܚ̈ܐ ܕܝܐܠܥܝܫ ܩܪܝܬܐ ܒܝܪܬ ܡܥܡܪ ܠܗ̇ ܡܪܢ. ܐܬܟܬܒ ܟܬܒܐ ܗܢܐ ܡܠ̤ܠ ܚܝ̈ܐ. ܒܫ̄ܬ ܒܫܢܬ ܬ̈ܠܦܐ ܫ̈ܬܐ ܘܫܬ ܡܐܐ ܘܬܫܥܝܲܢ ܘܫܬ̄ ܫܚܢ ܠܒܪܝܬܗ ܕܐܕܡ.. ܘܫܢܬ ܐܠܦܐ ܘܬ. ܩ ܘܫܒܥܡܐܐ ܘܫܒܥܣܪ ܫܢ̈ܝܢ ܠܒܪܝܬܗ̣ ܕܐܕܡ .. ܘܫܢܬ ܘܚܡܫܡܐܐ ܘܫܒܥܬ ܕܣܠܘܩܘܣ ܡܐܟܐ ܩܕܡܝܐ ܕܝܘܚ̈ܐ. ܘܠܘ ܕܐܠܟܣܝܕܪܘܣ ܐܝܟ ܕܟܬܒܝܢ ܐܘܫ̈ܝܢ ܒܠܐ ܝܕܥܬܐ. ܕܐܝܬܝܗ̇",
-    "Syriac",
-    "Colophon"
+    "Isaac the Solitary",
+    "ܐܝܣܚܩ ܝܚܝܕܝܐ"
   ],
   "full_text_tesim": [
+    "Bible. Gospels",
     "Difficult handwriting; incomplete rendering",
-    "Sinai Syriac 145",
-    "ܐܝܣܚܩ ܝܚܝܕܝܐ",
+    "Estrangela",
+    "Four Gospels",
     "Gospels",
+    "Isaac the Solitary",
+    "Paper",
+    "Sinai Syriac 145",
+    "Syriac",
     "Troparia (for the Apostles)",
     "ark:/21198/z1127bb5",
-    "Estrangela",
-    "Bible. Gospels",
-    "Paper",
-    "Syriac",
-    "Isaac the Solitary"
+    "ܐܝܣܚܩ ܝܚܝܕܝܐ",
+    "ܫܠܡ ܒܥܘܕܪܢ ܡܪܢ ܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ ܫܘܝܬ ܒܐܘܣܝܐ ܡܪ̤ܬ ܛܘܒ̈ܐ ܘܡܚܝܠܬ ܡܚ̈ܝܠܐ ܕܐܟܘܬܝ. ܐܫܬܠܡ ܟܬܒܐ ܗܢܐ ܕܐܘܢܓܠܝܘܢ ܒܝܪܚ ܐܒ ܐܬܟܬܒ ܟܬܒܐ ܗܢܐ ܒܥܘ ܡܪܗ ܕܣܗܕܐ ܡܪܓܝܘܪܓܝܣ ܕܡܬܝܕܥ ܕܒܝܬ ܙܚ̈ܐ ܕܝܐܠܥܝܫ ܩܪܝܬܐ ܒܝܪܬ ܡܥܡܪ ܠܗ̇ ܡܪܢ. ܐܬܟܬܒ ܟܬܒܐ ܗܢܐ ܡܠ̤ܠ ܚܝ̈ܐ. ܒܫ̄ܬ ܒܫܢܬ ܬ̈ܠܦܐ ܫ̈ܬܐ ܘܫܬ ܡܐܐ ܘܬܫܥܝܲܢ ܘܫܬ̄ ܫܚܢ ܠܒܪܝܬܗ ܕܐܕܡ.. ܘܫܢܬ ܐܠܦܐ ܘܬ. ܩ ܘܫܒܥܡܐܐ ܘܫܒܥܣܪ ܫܢ̈ܝܢ ܠܒܪܝܬܗ̣ ܕܐܕܡ .. ܘܫܢܬ ܘܚܡܫܡܐܐ ܘܫܒܥܬ ܕܣܠܘܩܘܣ ܡܐܟܐ ܩܕܡܝܐ ܕܝܘܚ̈ܐ. ܘܠܘ ܕܐܠܟܣܝܕܪܘܣ ܐܝܟ ܕܟܬܒܝܢ ܐܘܫ̈ܝܢ ܒܠܐ ܝܕܥܬܐ. ܕܐܝܬܝܗ̇"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1127bb5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 145\",\"extent\":\"240 ff.\",\"weight\":\"962.5 g\",\"dim\":\"183 x 145 x 70.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1h33h\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1h33h\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 145, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s19q2g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s19q2g\",\"reconstruction\":false,\"label\":\"Troparia (for the Apostles)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 3r-237v\"}],\"parent\":[\"ark:/21198/s1h33h\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"237r-237v\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܫܠܡ ܒܥܘܕܪܢ ܡܪܢ ܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ ܫܘܝܬ ܒܐܘܣܝܐ ܡܪ̤ܬ ܛܘܒ̈ܐ ܘܡܚܝܠܬ ܡܚ̈ܝܠܐ ܕܐܟܘܬܝ. ܐܫܬܠܡ ܟܬܒܐ ܗܢܐ ܕܐܘܢܓܠܝܘܢ ܒܝܪܚ ܐܒ ܐܬܟܬܒ ܟܬܒܐ ܗܢܐ ܒܥܘ ܡܪܗ ܕܣܗܕܐ ܡܪܓܝܘܪܓܝܣ ܕܡܬܝܕܥ ܕܒܝܬ ܙܚ̈ܐ ܕܝܐܠܥܝܫ ܩܪܝܬܐ ܒܝܪܬ ܡܥܡܪ ܠܗ̇ ܡܪܢ. ܐܬܟܬܒ ܟܬܒܐ ܗܢܐ ܡܠ̤ܠ ܚܝ̈ܐ. ܒܫ̄ܬ ܒܫܢܬ ܬ̈ܠܦܐ ܫ̈ܬܐ ܘܫܬ ܡܐܐ ܘܬܫܥܝܲܢ ܘܫܬ̄ ܫܚܢ ܠܒܪܝܬܗ ܕܐܕܡ.. ܘܫܢܬ ܐܠܦܐ ܘܬ. ܩ ܘܫܒܥܡܐܐ ܘܫܒܥܣܪ ܫܢ̈ܝܢ ܠܒܪܝܬܗ̣ ܕܐܕܡ .. ܘܫܢܬ ܘܚܡܫܡܐܐ ܘܫܒܥܬ ܕܣܠܘܩܘܣ ܡܐܟܐ ܩܕܡܝܐ ܕܝܘܚ̈ܐ. ܘܠܘ ܕܐܠܟܣܝܕܪܘܣ ܐܝܟ ܕܟܬܒܝܢ ܐܘܫ̈ܝܢ ܒܠܐ ܝܕܥܬܐ. ܕܐܝܬܝܗ̇\",\"assoc_name\":[{\"value\":\"Isaac the Solitary\",\"as_written\":\"ܐܝܣܚܩ ܝܚܝܕܝܐ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}],\"note\":[\"Difficult handwriting; incomplete rendering\"]}],\"assoc_date\":[{\"value\":\"1188 CE\",\"iso\":{\"not_before\":1188,\"not_after\":1188},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1127bb5\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[43], p. 152\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279388495-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1127bb5/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1127bb5%2F2078s411/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1127bb5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 145\",\"extent\":\"240 ff.\",\"weight\":\"962.5 g\",\"dim\":\"183 x 145 x 70.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1h33h\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1h33h\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 145, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s19q2g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s19q2g\",\"reconstruction\":false,\"label\":\"Troparia (for the Apostles)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 3r-237v\"}],\"parent\":[\"ark:/21198/s1h33h\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"237r-237v\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܫܠܡ ܒܥܘܕܪܢ ܡܪܢ ܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ ܫܘܝܬ ܒܐܘܣܝܐ ܡܪ̤ܬ ܛܘܒ̈ܐ ܘܡܚܝܠܬ ܡܚ̈ܝܠܐ ܕܐܟܘܬܝ. ܐܫܬܠܡ ܟܬܒܐ ܗܢܐ ܕܐܘܢܓܠܝܘܢ ܒܝܪܚ ܐܒ ܐܬܟܬܒ ܟܬܒܐ ܗܢܐ ܒܥܘ ܡܪܗ ܕܣܗܕܐ ܡܪܓܝܘܪܓܝܣ ܕܡܬܝܕܥ ܕܒܝܬ ܙܚ̈ܐ ܕܝܐܠܥܝܫ ܩܪܝܬܐ ܒܝܪܬ ܡܥܡܪ ܠܗ̇ ܡܪܢ. ܐܬܟܬܒ ܟܬܒܐ ܗܢܐ ܡܠ̤ܠ ܚܝ̈ܐ. ܒܫ̄ܬ ܒܫܢܬ ܬ̈ܠܦܐ ܫ̈ܬܐ ܘܫܬ ܡܐܐ ܘܬܫܥܝܲܢ ܘܫܬ̄ ܫܚܢ ܠܒܪܝܬܗ ܕܐܕܡ.. ܘܫܢܬ ܐܠܦܐ ܘܬ. ܩ ܘܫܒܥܡܐܐ ܘܫܒܥܣܪ ܫܢ̈ܝܢ ܠܒܪܝܬܗ̣ ܕܐܕܡ .. ܘܫܢܬ ܘܚܡܫܡܐܐ ܘܫܒܥܬ ܕܣܠܘܩܘܣ ܡܐܟܐ ܩܕܡܝܐ ܕܝܘܚ̈ܐ. ܘܠܘ ܕܐܠܟܣܝܕܪܘܣ ܐܝܟ ܕܟܬܒܝܢ ܐܘܫ̈ܝܢ ܒܠܐ ܝܕܥܬܐ. ܕܐܝܬܝܗ̇\",\"assoc_name\":[{\"value\":\"Isaac the Solitary\",\"as_written\":\"ܐܝܣܚܩ ܝܚܝܕܝܐ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}],\"note\":[\"Difficult handwriting; incomplete rendering\"]}],\"assoc_date\":[{\"value\":\"1188 CE\",\"iso\":{\"not_before\":\"1188\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1127bb5\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[43], p. 152\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279388495-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1127bb5/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1127bb5%2F2078s411/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1127bb5",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1127bb5%2F2078s411/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1127bb5/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 145",
+    "240 ff."
+  ],
+  "ot_date_tesim": [
+    "1188 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1188 CE"
+  ]
 }

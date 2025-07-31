@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1vq525v",
   "ark_ssi": "ark:/21198/z1vq525v",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vq525v%2F46501q6q/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Quire(s)",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -32,7 +27,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     801,
     802,
     803,
@@ -142,7 +137,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -150,7 +145,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac NF X 12",
   "titles_tesim": [
     "Book of Hours, circa 9th c.: Text following the Byzantine rite of the Cheesefare Week (the fifth week before Easter)",
@@ -161,18 +156,47 @@
   "places_tesim": [],
   "contents_tesim": [
     "Book of Hours, circa 9th c.: Text following the Byzantine rite of the Cheesefare Week (the fifth week before Easter)",
-    "Horologion"
+    "Horologion",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "ark:/21198/z1vq525v",
-    "Musical notation included throughout",
-    "Musical notation",
-    "Sinai Syriac NF X 12",
+    "Book of Hours, circa 9th c.: Text following the Byzantine rite of the Cheesefare Week (the fifth week before Easter)",
     "Horologion",
     "Melkite",
+    "Musical notation",
+    "Musical notation included throughout",
     "Paper",
-    "Syriac"
+    "Sinai Syriac NF X 12",
+    "Syriac",
+    "ark:/21198/z1vq525v"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1vq525v\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF X 12\",\"extent\":\"8 ff.\",\"weight\":\"21.7 g\",\"dim\":\"173 x 130 x 5.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1sh00\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1sh00\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF X 12, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}],\"note\":[\"Musical notation\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1qx1w\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1qx1w\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Book of Hours, circa 9th c.: Text following the Byzantine rite of the Cheesefare Week (the fifth week before Easter)\",\"locus\":\"ff. 1r-8v\"}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Musical notation included throughout\"}],\"parent\":[\"ark:/21198/s1sh00\"]}}],\"assoc_date\":[{\"value\":\"9th c. CE\",\"iso\":{\"not_before\":801,\"not_after\":900},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1vq525v\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"220eeb5e-ef2f-4ddd-96e5-47e2220aa409\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[X12N], pp. 139-141\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1vq525v/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vq525v%2F46501q6q/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1vq525v\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF X 12\",\"extent\":\"8 ff.\",\"weight\":\"21.7 g\",\"dim\":\"173 x 130 x 5.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1sh00\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1sh00\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF X 12, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}],\"note\":[\"Musical notation\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1qx1w\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1qx1w\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Book of Hours, circa 9th c.: Text following the Byzantine rite of the Cheesefare Week (the fifth week before Easter)\",\"locus\":\"ff. 1r-8v\"}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Musical notation included throughout\"}],\"parent\":[\"ark:/21198/s1sh00\"]}}],\"assoc_date\":[{\"value\":\"9th c. CE\",\"iso\":{\"not_before\":\"0801\",\"not_after\":\"0900\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1vq525v\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"220eeb5e-ef2f-4ddd-96e5-47e2220aa409\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[X12N], pp. 139-141\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1vq525v/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vq525v%2F46501q6q/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1vq525v",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vq525v%2F46501q6q/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1vq525v/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac NF X 12",
+    "8 ff."
+  ],
+  "ot_date_tesim": [
+    "9th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "9th c. CE"
+  ]
 }

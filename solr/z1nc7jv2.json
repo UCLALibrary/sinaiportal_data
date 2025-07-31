@@ -1,19 +1,13 @@
 {
-  "id": "ark:/21198/z1nc7jv2",
   "ark_ssi": "ark:/21198/z1nc7jv2",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1nc7jv2%2Fbr05tt05/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
     "Border(s), Decorative",
-    "Headpiece(s)",
     "Colophon",
-    "Decoration, Vegetative"
+    "Dated",
+    "Decoration, Vegetative",
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -29,6 +23,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -38,7 +33,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1290
   ],
   "ot_language_ssim": [
@@ -47,44 +42,76 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Syriac"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 203",
   "titles_tesim": [
     "Services"
   ],
   "names_tesim": [
-    "ܡܬܝ ܕܝܪܝܐ",
-    "Matthew the Monk"
+    "Matthew the Monk",
+    "ܡܬܝ ܕܝܪܝܐ"
   ],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Services"
   ],
   "paracontent_tesim": [
-    ":ܐܣܬܝܟ ܘܫܬܡܠܝ ܟܬܒܐ ܗܢܐ ܩܕܝܫܐ ܕܗܘܐ ܀ ܩܢܘ̈ܢܐ ܥܠ܀ ܚ̄ ܀ ܪ̈ܘܟܢܐ ܀ ܩܕܡܝܐ ܠܩܝܡܬܐ ܀ ܘܠܬܝܒܘܬܐ ܘܠܡ̈ܐܠܟܐ܀ ܘܠܡܪܝ ܝܘܚܢܢ ܘܠܝܠܕܐ ܐܠܗܐ ܘܠܨܠܝܒܐ ܘܠܣܗ̈ܕܐ ܘܥܢ̈ܝܕܐ܀ ܘܠܬܠܝܬ̤̄ܝܘ܀ ܢܣܒ ܫܘܠܡܐ ܝܘܡ ܫܒܬܐ܀ ܐܠܦ̈ܝ܀ ܘ̄܀ ܫܥ̈ܝܢ܀ ܀ ܝ̄ܒ܀ ܒܝܪܚܐ ܫܒ̄ܛ: ܐܫܢܬ̤ ܀ ܘ̄ ܀ ܐܠܦ̈ܐ܀ ܘ̄ܫܒܥ ܡܐܐ ܀ ܘܚ̄܀ ܘܨ̄܀ ܠܐܒܘܢ ܐܕܡ܀ ܒܐܝܕܐ ܐܢܫ ܡܚܝܠܐ ܘܚܛܝܐ ܒܨܝܪܐ ܡܢ ܟܠܗܘܢ ܥܒ̈ܕܐ ܛ̈ܒܐ. ܘܢܦܬ̤ܐ ܕܟܠܗܘܢ ܒܢܝ̈ܢܫܐ ܡܬ̤ܝ ܕܝܪ̈ܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ ܐܬܟܬܒ ܒܕܝܪܐ ܩܕܝܫܐ ܕܛܘܪܣܝܢܝ ܕܡܬܝܕܥ ܒܡܕܒܪܐ ܒܝܘܡܝ ܐܦܣܩܘܦܐ ܐܪܣܢܝܘܣ ܨܠܘܬܗ̣ ܬܗܘܐ ܠܢ ܫܘܪܐ ܟܬܒܗ ܠܢܦܫܗ̣ ܕܢܬܒ̈ܐܝܐ ܒܗ̰. ܐܘ ܢܬܥܕܪ ܒܗ̣ ܥܠ ܩܪܒܐ ܕܣܛܢܐ ܒܨ̈ܠܘܬܐ ܕܩܕܝܫ̈ܐ ܕܡܬܕܟܪ̈ܝܢ ܒܗ̣܀ ܐܠܐ ܐܘ ܐܚ̈ܝ ܐܝܠܝܢ ܕܩܪ̈ܝܢ: ܒܗ ܡܬܢܗܪ̈ܝܢ ܡܢܗ̣܀ ܫܐܠ ܡܢ ܪܚܡܬܟܘܢ ܟܠ ܡܢ ܕܫܟܚ ܒܗ ܦܘܕܐ ܐܘ ܓܠܛܐ ܐܘ ܡܕܡܕ ܚܣܝܪ ܝܬܪܨܗ̇ ܗܘ ܒܡܗܝܪܘܬܗ̣܀ ܘܢܣܪܚ ܠܝ܀ ܫܘܒܩܢܐ ܡܛܠ ܕܝܠܘܦܐ ܐܝܬ̤ܝ ܘܚܣܝܪ ܡܢ ܟܠܗܘܢ ܒܢܝܢܫ̈ܐ܀ ܐܠܗܐ ܗܘ̣ ܫܘܡܠܝܐ ܠܗ̣ ܫ̄ܘ ܥܠܝܢ ܪ̈ܚܡ̄ܘ: : ܐܠܗܐ ܢܚܣܐ ܠܟܬܘܒܐ ܘܢܫܒܘܩ ܠܗ ܣܘ̈ܓܐܐ ܕܚܘܒ̈ܘܗܝ ܘܢܢܚܝ ܠܥܢܝܕ̈ܘܗܝ ܘܢܬܪܚܡ ܥܠ ܝܠܕܝܗܝ ܘܢܗܘܐ ܠܗ ܥܘܕܪܢܐ ܥܠ ܟܠܗܘܢ ܒܥܠܕܒ̈ܒܘܗܝ ܨ̈ܠܘܢܬܐ ܕܝܠܕܐ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝܫ̈ܘܗܝ ܐܡܝܢ ܘܐܡܝܢ",
-    "Syriac",
-    "Colophon"
+    "Matthew the Monk",
+    "ܡܬܝ ܕܝܪܝܐ"
   ],
   "full_text_tesim": [
-    "Ornate headpieces, knotted vine motif with tails, ff. 31v, 54v; knotted roundel, f. 72v | Headpieces throughout beginning f. 11v, knotted vine motif",
-    "ܡܬܝ ܕܝܪܝܐ",
-    "Services",
+    ":ܐܣܬܝܟ ܘܫܬܡܠܝ ܟܬܒܐ ܗܢܐ ܩܕܝܫܐ ܕܗܘܐ ܀ ܩܢܘ̈ܢܐ ܥܠ܀ ܚ̄ ܀ ܪ̈ܘܟܢܐ ܀ ܩܕܡܝܐ ܠܩܝܡܬܐ ܀ ܘܠܬܝܒܘܬܐ ܘܠܡ̈ܐܠܟܐ܀ ܘܠܡܪܝ ܝܘܚܢܢ ܘܠܝܠܕܐ ܐܠܗܐ ܘܠܨܠܝܒܐ ܘܠܣܗ̈ܕܐ ܘܥܢ̈ܝܕܐ܀ ܘܠܬܠܝܬ̤̄ܝܘ܀ ܢܣܒ ܫܘܠܡܐ ܝܘܡ ܫܒܬܐ܀ ܐܠܦ̈ܝ܀ ܘ̄܀ ܫܥ̈ܝܢ܀ ܀ ܝ̄ܒ܀ ܒܝܪܚܐ ܫܒ̄ܛ: ܐܫܢܬ̤ ܀ ܘ̄ ܀ ܐܠܦ̈ܐ܀ ܘ̄ܫܒܥ ܡܐܐ ܀ ܘܚ̄܀ ܘܨ̄܀ ܠܐܒܘܢ ܐܕܡ܀ ܒܐܝܕܐ ܐܢܫ ܡܚܝܠܐ ܘܚܛܝܐ ܒܨܝܪܐ ܡܢ ܟܠܗܘܢ ܥܒ̈ܕܐ ܛ̈ܒܐ. ܘܢܦܬ̤ܐ ܕܟܠܗܘܢ ܒܢܝ̈ܢܫܐ ܡܬ̤ܝ ܕܝܪ̈ܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ ܐܬܟܬܒ ܒܕܝܪܐ ܩܕܝܫܐ ܕܛܘܪܣܝܢܝ ܕܡܬܝܕܥ ܒܡܕܒܪܐ ܒܝܘܡܝ ܐܦܣܩܘܦܐ ܐܪܣܢܝܘܣ ܨܠܘܬܗ̣ ܬܗܘܐ ܠܢ ܫܘܪܐ ܟܬܒܗ ܠܢܦܫܗ̣ ܕܢܬܒ̈ܐܝܐ ܒܗ̰. ܐܘ ܢܬܥܕܪ ܒܗ̣ ܥܠ ܩܪܒܐ ܕܣܛܢܐ ܒܨ̈ܠܘܬܐ ܕܩܕܝܫ̈ܐ ܕܡܬܕܟܪ̈ܝܢ ܒܗ̣܀ ܐܠܐ ܐܘ ܐܚ̈ܝ ܐܝܠܝܢ ܕܩܪ̈ܝܢ: ܒܗ ܡܬܢܗܪ̈ܝܢ ܡܢܗ̣܀ ܫܐܠ ܡܢ ܪܚܡܬܟܘܢ ܟܠ ܡܢ ܕܫܟܚ ܒܗ ܦܘܕܐ ܐܘ ܓܠܛܐ ܐܘ ܡܕܡܕ ܚܣܝܪ ܝܬܪܨܗ̇ ܗܘ ܒܡܗܝܪܘܬܗ̣܀ ܘܢܣܪܚ ܠܝ܀ ܫܘܒܩܢܐ ܡܛܠ ܕܝܠܘܦܐ ܐܝܬ̤ܝ ܘܚܣܝܪ ܡܢ ܟܠܗܘܢ ܒܢܝܢܫ̈ܐ܀ ܐܠܗܐ ܗܘ̣ ܫܘܡܠܝܐ ܠܗ̣ ܫ̄ܘ ܥܠܝܢ ܪ̈ܚܡ̄ܘ: : ܐܠܗܐ ܢܚܣܐ ܠܟܬܘܒܐ ܘܢܫܒܘܩ ܠܗ ܣܘ̈ܓܐܐ ܕܚܘܒ̈ܘܗܝ ܘܢܢܚܝ ܠܥܢܝܕ̈ܘܗܝ ܘܢܬܪܚܡ ܥܠ ܝܠܕܝܗܝ ܘܢܗܘܐ ܠܗ ܥܘܕܪܢܐ ܥܠ ܟܠܗܘܢ ܒܥܠܕܒ̈ܒܘܗܝ ܨ̈ܠܘܢܬܐ ܕܝܠܕܐ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝܫ̈ܘܗܝ ܐܡܝܢ ܘܐܡܝܢ",
     "Bordered text, 215r, minor cloud motif.",
-    "Sinai Syriac 203",
+    "Matthew the Monk",
     "Melkite",
+    "Ornate headpieces, knotted vine motif with tails, ff. 31v, 54v; knotted roundel, f. 72v | Headpieces throughout beginning f. 11v, knotted vine motif",
     "Paper",
-    "ark:/21198/z1nc7jv2",
+    "Services",
+    "Sinai Syriac 203",
     "Syriac",
-    "Matthew the Monk"
+    "ark:/21198/z1nc7jv2",
+    "ܡܬܝ ܕܝܪܝܐ"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1nc7jv2\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 203\",\"extent\":\"222 ff.\",\"weight\":\"2102.1 g\",\"dim\":\"274 x 210 x 85 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1f047\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1f047\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 203, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s17m2t\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s17m2t\",\"reconstruction\":false,\"label\":\"Services\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Services\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 4r-215r\"}],\"parent\":[\"ark:/21198/s1f047\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"214v-215r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\":ܐܣܬܝܟ ܘܫܬܡܠܝ ܟܬܒܐ ܗܢܐ ܩܕܝܫܐ ܕܗܘܐ ܀ ܩܢܘ̈ܢܐ ܥܠ܀ ܚ̄ ܀ ܪ̈ܘܟܢܐ ܀ ܩܕܡܝܐ ܠܩܝܡܬܐ ܀ ܘܠܬܝܒܘܬܐ ܘܠܡ̈ܐܠܟܐ܀ ܘܠܡܪܝ ܝܘܚܢܢ ܘܠܝܠܕܐ ܐܠܗܐ ܘܠܨܠܝܒܐ ܘܠܣܗ̈ܕܐ ܘܥܢ̈ܝܕܐ܀ ܘܠܬܠܝܬ̤̄ܝܘ܀ ܢܣܒ ܫܘܠܡܐ ܝܘܡ ܫܒܬܐ܀ ܐܠܦ̈ܝ܀ ܘ̄܀ ܫܥ̈ܝܢ܀ ܀ ܝ̄ܒ܀ ܒܝܪܚܐ ܫܒ̄ܛ: ܐܫܢܬ̤ ܀ ܘ̄ ܀ ܐܠܦ̈ܐ܀ ܘ̄ܫܒܥ ܡܐܐ ܀ ܘܚ̄܀ ܘܨ̄܀ ܠܐܒܘܢ ܐܕܡ܀ ܒܐܝܕܐ ܐܢܫ ܡܚܝܠܐ ܘܚܛܝܐ ܒܨܝܪܐ ܡܢ ܟܠܗܘܢ ܥܒ̈ܕܐ ܛ̈ܒܐ. ܘܢܦܬ̤ܐ ܕܟܠܗܘܢ ܒܢܝ̈ܢܫܐ ܡܬ̤ܝ ܕܝܪ̈ܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ ܐܬܟܬܒ ܒܕܝܪܐ ܩܕܝܫܐ ܕܛܘܪܣܝܢܝ ܕܡܬܝܕܥ ܒܡܕܒܪܐ ܒܝܘܡܝ ܐܦܣܩܘܦܐ ܐܪܣܢܝܘܣ ܨܠܘܬܗ̣ ܬܗܘܐ ܠܢ ܫܘܪܐ ܟܬܒܗ ܠܢܦܫܗ̣ ܕܢܬܒ̈ܐܝܐ ܒܗ̰. ܐܘ ܢܬܥܕܪ ܒܗ̣ ܥܠ ܩܪܒܐ ܕܣܛܢܐ ܒܨ̈ܠܘܬܐ ܕܩܕܝܫ̈ܐ ܕܡܬܕܟܪ̈ܝܢ ܒܗ̣܀ ܐܠܐ ܐܘ ܐܚ̈ܝ ܐܝܠܝܢ ܕܩܪ̈ܝܢ: ܒܗ ܡܬܢܗܪ̈ܝܢ ܡܢܗ̣܀ ܫܐܠ ܡܢ ܪܚܡܬܟܘܢ ܟܠ ܡܢ ܕܫܟܚ ܒܗ ܦܘܕܐ ܐܘ ܓܠܛܐ ܐܘ ܡܕܡܕ ܚܣܝܪ ܝܬܪܨܗ̇ ܗܘ ܒܡܗܝܪܘܬܗ̣܀ ܘܢܣܪܚ ܠܝ܀ ܫܘܒܩܢܐ ܡܛܠ ܕܝܠܘܦܐ ܐܝܬ̤ܝ ܘܚܣܝܪ ܡܢ ܟܠܗܘܢ ܒܢܝܢܫ̈ܐ܀ ܐܠܗܐ ܗܘ̣ ܫܘܡܠܝܐ ܠܗ̣ ܫ̄ܘ ܥܠܝܢ ܪ̈ܚܡ̄ܘ: : ܐܠܗܐ ܢܚܣܐ ܠܟܬܘܒܐ ܘܢܫܒܘܩ ܠܗ ܣܘ̈ܓܐܐ ܕܚܘܒ̈ܘܗܝ ܘܢܢܚܝ ܠܥܢܝܕ̈ܘܗܝ ܘܢܬܪܚܡ ܥܠ ܝܠܕܝܗܝ ܘܢܗܘܐ ܠܗ ܥܘܕܪܢܐ ܥܠ ܟܠܗܘܢ ܒܥܠܕܒ̈ܒܘܗܝ ܨ̈ܠܘܢܬܐ ܕܝܠܕܐ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝܫ̈ܘܗܝ ܐܡܝܢ ܘܐܡܝܢ\",\"assoc_name\":[{\"value\":\"Matthew the Monk\",\"as_written\":\"ܡܬܝ ܕܝܪܝܐ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}]}],\"assoc_date\":[{\"value\":\"1290 CE\",\"iso\":{\"not_before\":1290,\"not_after\":1290},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate headpieces, knotted vine motif with tails, ff. 31v, 54v; knotted roundel, f. 72v | Headpieces throughout beginning f. 11v, knotted vine motif\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Bordered text, 215r, minor cloud motif.\"}],\"parent\":[\"ark:/21198/z1nc7jv2\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[242], p. 160\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279388665-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1nc7jv2/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"individuals\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1nc7jv2%2Fbr05tt05/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1nc7jv2\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 203\",\"extent\":\"222 ff.\",\"weight\":\"2102.1 g\",\"dim\":\"274 x 210 x 85 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1f047\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1f047\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 203, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s17m2t\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s17m2t\",\"reconstruction\":false,\"label\":\"Services\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Services\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 4r-215r\"}],\"parent\":[\"ark:/21198/s1f047\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"214v-215r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\":ܐܣܬܝܟ ܘܫܬܡܠܝ ܟܬܒܐ ܗܢܐ ܩܕܝܫܐ ܕܗܘܐ ܀ ܩܢܘ̈ܢܐ ܥܠ܀ ܚ̄ ܀ ܪ̈ܘܟܢܐ ܀ ܩܕܡܝܐ ܠܩܝܡܬܐ ܀ ܘܠܬܝܒܘܬܐ ܘܠܡ̈ܐܠܟܐ܀ ܘܠܡܪܝ ܝܘܚܢܢ ܘܠܝܠܕܐ ܐܠܗܐ ܘܠܨܠܝܒܐ ܘܠܣܗ̈ܕܐ ܘܥܢ̈ܝܕܐ܀ ܘܠܬܠܝܬ̤̄ܝܘ܀ ܢܣܒ ܫܘܠܡܐ ܝܘܡ ܫܒܬܐ܀ ܐܠܦ̈ܝ܀ ܘ̄܀ ܫܥ̈ܝܢ܀ ܀ ܝ̄ܒ܀ ܒܝܪܚܐ ܫܒ̄ܛ: ܐܫܢܬ̤ ܀ ܘ̄ ܀ ܐܠܦ̈ܐ܀ ܘ̄ܫܒܥ ܡܐܐ ܀ ܘܚ̄܀ ܘܨ̄܀ ܠܐܒܘܢ ܐܕܡ܀ ܒܐܝܕܐ ܐܢܫ ܡܚܝܠܐ ܘܚܛܝܐ ܒܨܝܪܐ ܡܢ ܟܠܗܘܢ ܥܒ̈ܕܐ ܛ̈ܒܐ. ܘܢܦܬ̤ܐ ܕܟܠܗܘܢ ܒܢܝ̈ܢܫܐ ܡܬ̤ܝ ܕܝܪ̈ܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ ܐܬܟܬܒ ܒܕܝܪܐ ܩܕܝܫܐ ܕܛܘܪܣܝܢܝ ܕܡܬܝܕܥ ܒܡܕܒܪܐ ܒܝܘܡܝ ܐܦܣܩܘܦܐ ܐܪܣܢܝܘܣ ܨܠܘܬܗ̣ ܬܗܘܐ ܠܢ ܫܘܪܐ ܟܬܒܗ ܠܢܦܫܗ̣ ܕܢܬܒ̈ܐܝܐ ܒܗ̰. ܐܘ ܢܬܥܕܪ ܒܗ̣ ܥܠ ܩܪܒܐ ܕܣܛܢܐ ܒܨ̈ܠܘܬܐ ܕܩܕܝܫ̈ܐ ܕܡܬܕܟܪ̈ܝܢ ܒܗ̣܀ ܐܠܐ ܐܘ ܐܚ̈ܝ ܐܝܠܝܢ ܕܩܪ̈ܝܢ: ܒܗ ܡܬܢܗܪ̈ܝܢ ܡܢܗ̣܀ ܫܐܠ ܡܢ ܪܚܡܬܟܘܢ ܟܠ ܡܢ ܕܫܟܚ ܒܗ ܦܘܕܐ ܐܘ ܓܠܛܐ ܐܘ ܡܕܡܕ ܚܣܝܪ ܝܬܪܨܗ̇ ܗܘ ܒܡܗܝܪܘܬܗ̣܀ ܘܢܣܪܚ ܠܝ܀ ܫܘܒܩܢܐ ܡܛܠ ܕܝܠܘܦܐ ܐܝܬ̤ܝ ܘܚܣܝܪ ܡܢ ܟܠܗܘܢ ܒܢܝܢܫ̈ܐ܀ ܐܠܗܐ ܗܘ̣ ܫܘܡܠܝܐ ܠܗ̣ ܫ̄ܘ ܥܠܝܢ ܪ̈ܚܡ̄ܘ: : ܐܠܗܐ ܢܚܣܐ ܠܟܬܘܒܐ ܘܢܫܒܘܩ ܠܗ ܣܘ̈ܓܐܐ ܕܚܘܒ̈ܘܗܝ ܘܢܢܚܝ ܠܥܢܝܕ̈ܘܗܝ ܘܢܬܪܚܡ ܥܠ ܝܠܕܝܗܝ ܘܢܗܘܐ ܠܗ ܥܘܕܪܢܐ ܥܠ ܟܠܗܘܢ ܒܥܠܕܒ̈ܒܘܗܝ ܨ̈ܠܘܢܬܐ ܕܝܠܕܐ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝܫ̈ܘܗܝ ܐܡܝܢ ܘܐܡܝܢ\",\"assoc_name\":[{\"value\":\"Matthew the Monk\",\"as_written\":\"ܡܬܝ ܕܝܪܝܐ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}]}],\"assoc_date\":[{\"value\":\"1290 CE\",\"iso\":{\"not_before\":\"1290\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate headpieces, knotted vine motif with tails, ff. 31v, 54v; knotted roundel, f. 72v | Headpieces throughout beginning f. 11v, knotted vine motif\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Bordered text, 215r, minor cloud motif.\"}],\"parent\":[\"ark:/21198/z1nc7jv2\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[242], p. 160\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279388665-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1nc7jv2/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"individuals\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1nc7jv2%2Fbr05tt05/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1nc7jv2",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1nc7jv2%2Fbr05tt05/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1nc7jv2/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 203",
+    "222 ff."
+  ],
+  "ot_date_tesim": [
+    "1290 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1290 CE"
+  ]
 }

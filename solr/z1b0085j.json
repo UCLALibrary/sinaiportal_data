@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1b0085j",
   "ark_ssi": "ark:/21198/z1b0085j",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1b0085j%2Fkb799q76/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -27,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -34,10 +29,10 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Historical works",
-    "Hagiographies"
+    "Hagiographies",
+    "Historical works"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1601,
     1602,
     1603,
@@ -245,7 +240,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -253,7 +248,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 246",
   "titles_tesim": [
     "Life of Mary the Egyptian"
@@ -264,18 +259,46 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Life of Mary the Egyptian"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Minor geometric tailpiece, f. 26r I Border, f. 27r",
-    "Life of Mary the Egyptian",
-    "Sinai Arabic 246",
-    "Undetermined (Arabic)",
-    "ark:/21198/z1b0085j",
     "Arabic",
+    "Life of Mary the Egyptian",
+    "Minor geometric tailpiece, f. 26r I Border, f. 27r",
     "Paper",
-    "Sophronius of Jerusalem"
+    "Sinai Arabic 246",
+    "Sophronius of Jerusalem",
+    "Undetermined (Arabic)",
+    "ark:/21198/z1b0085j"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1b0085j\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 246\",\"extent\":\"68 ff.\",\"weight\":\"196.9 g\",\"dim\":\"173 x 116 x 18 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1003t\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1003t\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 246, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1sk93\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1sk93\",\"reconstruction\":false,\"label\":\"Life of Mary the Egyptian\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Life of Mary the Egyptian\",\"creator\":[{\"id\":\"ark:/21198/s1nc71\",\"agent_record\":{\"ark\":\"ark:/21198/s1nc71\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Sophronius of Jerusalem\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\" ca. 560 CE-ca. 638 CE\",\"iso\":{\"not_before\":535,\"not_after\":663}},\"rel_con\":[{\"label\":\"Sophronius, Saint, Patriarch of Jerusalem, approximately 560-approximately 638\",\"uri\":\"https://viaf.org/viaf/20473427/\",\"source\":\"VIAF\"},{\"label\":\"Sophronius, Saint, Patriarch of Jerusalem, approximately 560-approximately 638\",\"uri\":\"https://id.loc.gov/authorities/names/n83180836\",\"source\":\"LoC\"},{\"label\":\"Sophronius, Patriarch of Jerusalem, approximately 560-approximately 638\",\"uri\":\"https://w3id.org/haf/person/836003904700\",\"source\":\"HAF\"},{\"label\":\"Sophronius of Jerusalem\",\"uri\":\"http://syriaca.org/person/757\",\"source\":\"Syriaca\"},{\"label\":\"Sophronius Hierosolymitanus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/2543/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"historical-works\",\"label\":\"Historical works\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"locus\":\"ff. 1r-26r\"}],\"parent\":[\"ark:/21198/s1003t\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":1601,\"not_after\":1800},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"border\",\"label\":\"Border(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric tailpiece, f. 26r I Border, f. 27r\"}],\"parent\":[\"ark:/21198/z1b0085j\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[510], p. 42\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714080205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1b0085j/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1b0085j%2Fkb799q76/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1b0085j\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 246\",\"extent\":\"68 ff.\",\"weight\":\"196.9 g\",\"dim\":\"173 x 116 x 18 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1003t\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1003t\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 246, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1sk93\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1sk93\",\"reconstruction\":false,\"label\":\"Life of Mary the Egyptian\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Life of Mary the Egyptian\",\"creator\":[{\"id\":\"ark:/21198/s1nc71\",\"agent_record\":{\"ark\":\"ark:/21198/s1nc71\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Sophronius of Jerusalem\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\" ca. 560 CE-ca. 638 CE\",\"iso\":{\"not_before\":\"0535\",\"not_after\":\"0663\"}},\"rel_con\":[{\"label\":\"Sophronius, Saint, Patriarch of Jerusalem, approximately 560-approximately 638\",\"uri\":\"https://viaf.org/viaf/20473427/\",\"source\":\"VIAF\"},{\"label\":\"Sophronius, Saint, Patriarch of Jerusalem, approximately 560-approximately 638\",\"uri\":\"https://id.loc.gov/authorities/names/n83180836\",\"source\":\"LoC\"},{\"label\":\"Sophronius, Patriarch of Jerusalem, approximately 560-approximately 638\",\"uri\":\"https://w3id.org/haf/person/836003904700\",\"source\":\"HAF\"},{\"label\":\"Sophronius of Jerusalem\",\"uri\":\"http://syriaca.org/person/757\",\"source\":\"Syriaca\"},{\"label\":\"Sophronius Hierosolymitanus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/2543/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"historical-works\",\"label\":\"Historical works\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"locus\":\"ff. 1r-26r\"}],\"parent\":[\"ark:/21198/s1003t\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":\"1601\",\"not_after\":\"1800\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"border\",\"label\":\"Border(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric tailpiece, f. 26r I Border, f. 27r\"}],\"parent\":[\"ark:/21198/z1b0085j\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[510], p. 42\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714080205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1b0085j/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1b0085j%2Fkb799q76/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1b0085j",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1b0085j%2Fkb799q76/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1b0085j/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 246",
+    "68 ff."
+  ],
+  "ot_date_tesim": [
+    "17th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "17th c. CE"
+  ]
 }

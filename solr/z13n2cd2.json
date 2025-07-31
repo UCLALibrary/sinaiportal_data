@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z13n2cd2",
   "ark_ssi": "ark:/21198/z13n2cd2",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qf8tzd/1022,0,6132,6132/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Quire(s)",
   "features_ssim": [
-    "Palimpsest",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Palimpsest"
   ],
   "support_ssim": [
     "Parchment"
@@ -28,6 +22,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Estrangela"
   ],
@@ -35,10 +30,10 @@
     "Syriac"
   ],
   "ot_genre_ssim": [
-    "Theological works",
-    "Commentaries"
+    "Commentaries",
+    "Theological works"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     801,
     802,
     803,
@@ -148,7 +143,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -160,7 +155,18 @@
   "uto_language_ssim": [
     "Syriac"
   ],
-  "uto_date_isim": [
+  "uto_years_isim": [
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
     512,
     513,
     514,
@@ -249,23 +255,12 @@
     597,
     598,
     599,
-    600,
-    501,
-    502,
-    503,
-    504,
-    505,
-    506,
-    507,
-    508,
-    509,
-    510,
-    511
+    600
   ],
   "shelfmark_ssi": "Sinai Syriac NF frag 28",
   "titles_tesim": [
-    "John Chrysostom, Commentary on John, Homily 20",
-    "Homilies on John"
+    "Homilies on John",
+    "John Chrysostom, Commentary on John, Homily 20"
   ],
   "names_tesim": [
     "John Chrysostom"
@@ -273,25 +268,56 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "John Chrysostom, Commentary on John, Homily 20",
     "Homilies on John",
-    "Homilies on John, Homily 20 (Chrysostom)",
-    "Only the end of this homily is preserved, earlier portions are contained in Syriac NF frag 74"
+    "Item 1",
+    "John Chrysostom, Commentary on John, Homily 20"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "John Chrysostom",
-    "brown",
-    "Homilies on John, Homily 20 (Chrysostom)",
-    "Parchment",
-    "Only the end of this homily is preserved, earlier portions are contained in Syriac NF frag 74",
-    "Two bifolios forming one unsewn quire",
-    "Syriac",
-    "Not foliated; sequence follows Brock 1995, pl. 172-174",
+    "Disjecta Membra",
     "Estrangela",
     "Homilies on John",
+    "Homilies on John, Homily 20 (Chrysostom)",
+    "John Chrysostom",
+    "John Chrysostom, Commentary on John, Homily 20",
+    "Not foliated; sequence follows Brock 1995, pl. 172-174",
+    "Only the end of this homily is preserved, earlier portions are contained in Syriac NF frag 74",
+    "Originally belonged together with Syriac NF M 29, Syriac NF M 74, Syriac NF frag 74",
+    "Parchment",
+    "Sinai Syriac NF M 74",
     "Sinai Syriac NF frag 28",
-    "ark:/21198/z13n2cd2"
+    "Sinai Syriac NF frag 74",
+    "Syriac",
+    "Two bifolios forming one unsewn quire",
+    "ark:/21198/z13n2cd2",
+    "brown"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z13n2cd2\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF frag 28\",\"extent\":\"5 ff.\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"191 x 130 mm (representative folio)\",\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Originally belonged together with Syriac NF M 29, Syriac NF M 74, Syriac NF frag 74\",\"mss\":[{\"label\":\"Sinai Syriac NF M 74\",\"id\":\"ark:/21198/z1m05xk5\"},{\"label\":\"Sinai Syriac NF frag 74\",\"id\":\"ark:/21198/z1w37xcr\"}]}],\"ot_layer\":[{\"id\":\"ark:/21198/s1cs69\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1cs69\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF frag 28, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"brown\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1696x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1696x\",\"reconstruction\":false,\"label\":\"Homilies on John, Homily 20 (Chrysostom)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1n01z\",\"pref_title\":\"Homilies on John\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"commentaries\",\"label\":\"Commentaries\"}],\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"407 CE\",\"iso\":{\"not_before\":407,\"not_after\":407}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407. Homilies on John\",\"uri\":\"http://id.loc.gov/authorities/names/n97054490\",\"source\":\"LoC\"}]},\"alt_title\":\"John Chrysostom, Commentary on John, Homily 20\",\"note\":[\"Only the end of this homily is preserved, earlier portions are contained in Syriac NF frag 74\"]}],\"parent\":[\"ark:/21198/s1cs69\"]}}],\"assoc_date\":[{\"value\":\"9th c.  CE\",\"iso\":{\"not_before\":801,\"not_after\":900},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z13n2cd2\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s19q0q\",\"label\":\"Syriac Undertext: Bible. Genesis\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1, 1bis, 2–4\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated; sequence follows Brock 1995, pl. 172-174\"},{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Two bifolios forming one unsewn quire\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 22-23, pl. 172-174\"},{\"id\":\"220eeb5e-ef2f-4ddd-96e5-47e2220aa409\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"Brock 1995, p. 22-23, pl. 172-174 ; Philothée, p. 381-383 ; Géhin 2017, p. 187-188, 201\"},{\"id\":\"b1a3a9c9-ed90-440a-9e37-fade7a17796d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 381-383 \"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13n2cd2/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qf8tzd/1022,0,6132,6132/150,150/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z13n2cd2\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF frag 28\",\"extent\":\"5 ff.\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"191 x 130 mm (representative folio)\",\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Originally belonged together with Syriac NF M 29, Syriac NF M 74, Syriac NF frag 74\",\"mss\":[{\"label\":\"Sinai Syriac NF M 74\",\"id\":\"ark:/21198/z1m05xk5\"},{\"label\":\"Sinai Syriac NF frag 74\",\"id\":\"ark:/21198/z1w37xcr\"}]}],\"ot_layer\":[{\"id\":\"ark:/21198/s1cs69\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1cs69\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF frag 28, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"brown\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1696x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1696x\",\"reconstruction\":false,\"label\":\"Homilies on John, Homily 20 (Chrysostom)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1n01z\",\"pref_title\":\"Homilies on John\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"commentaries\",\"label\":\"Commentaries\"}],\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"407 CE\",\"iso\":{\"not_before\":\"0407\"}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407. Homilies on John\",\"uri\":\"http://id.loc.gov/authorities/names/n97054490\",\"source\":\"LoC\"}]},\"alt_title\":\"John Chrysostom, Commentary on John, Homily 20\",\"note\":[\"Only the end of this homily is preserved, earlier portions are contained in Syriac NF frag 74\"]}],\"parent\":[\"ark:/21198/s1cs69\"]}}],\"assoc_date\":[{\"value\":\"9th c.  CE\",\"iso\":{\"not_before\":\"0801\",\"not_after\":\"0900\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z13n2cd2\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s19q0q\",\"label\":\"Syriac Undertext: Bible. Genesis\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1, 1bis, 2–4\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":\"0501\",\"not_after\":\"0600\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated; sequence follows Brock 1995, pl. 172-174\"},{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Two bifolios forming one unsewn quire\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 22-23, pl. 172-174\"},{\"id\":\"220eeb5e-ef2f-4ddd-96e5-47e2220aa409\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"Brock 1995, p. 22-23, pl. 172-174 ; Philothée, p. 381-383 ; Géhin 2017, p. 187-188, 201\"},{\"id\":\"b1a3a9c9-ed90-440a-9e37-fade7a17796d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 381-383 \"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13n2cd2/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qf8tzd/1022,0,6132,6132/150,150/0/default.jpg\"}]}",
+  "id": "ark:/21198/z13n2cd2",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qf8tzd/1022,0,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13n2cd2/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac NF frag 28",
+    "5 ff."
+  ],
+  "ot_date_tesim": [
+    "9th c.  CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "9th c.  CE"
+  ]
 }

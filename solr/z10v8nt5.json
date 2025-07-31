@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z10v8nt5",
   "ark_ssi": "ark:/21198/z10v8nt5",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16110vp/0,1022,6132,6132/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Folio(s)",
   "features_ssim": [
-    "Palimpsest",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Palimpsest"
   ],
   "support_ssim": [
     "Parchment"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Greek minuscule"
   ],
@@ -36,7 +31,7 @@
     "Hymnals",
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1101,
     1102,
     1103,
@@ -246,7 +241,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -258,7 +253,30 @@
   "uto_language_ssim": [
     "Greek"
   ],
-  "uto_date_isim": [
+  "uto_years_isim": [
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023,
     1024,
     1025,
     1026,
@@ -335,30 +353,7 @@
     1097,
     1098,
     1099,
-    1100,
-    1001,
-    1002,
-    1003,
-    1004,
-    1005,
-    1006,
-    1007,
-    1008,
-    1009,
-    1010,
-    1011,
-    1012,
-    1013,
-    1014,
-    1015,
-    1016,
-    1017,
-    1018,
-    1019,
-    1020,
-    1021,
-    1022,
-    1023
+    1100
   ],
   "shelfmark_ssi": "Sinai Greek NF M 130",
   "titles_tesim": [
@@ -368,21 +363,49 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Troparion"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "red",
-    "black",
-    "Greek minuscule",
-    "Parchment",
     "Greek",
-    "Troparion",
+    "Greek minuscule",
     "Initials overlaid in red",
     "Not foliated",
+    "One folio, fragmented, with two small pieces of conjoin attached; the lower one of these has a small piece of parchment folded in on the recto; diagonal crease across bottom",
+    "Parchment",
     "Sinai Greek NF M 130",
+    "Troparion",
     "ark:/21198/z10v8nt5",
-    "One folio, fragmented, with two small pieces of conjoin attached; the lower one of these has a small piece of parchment folded in on the recto; diagonal crease across bottom"
+    "black",
+    "red"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10v8nt5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek NF M 130\",\"extent\":\"1 ff.\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"165 x 130 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1d059\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1d059\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek NF M 130, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"ink\":[{\"color\":[\"black\",\"red\"],\"note\":[\"Initials overlaid in red\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s16m2h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s16m2h\",\"reconstruction\":false,\"label\":\"Troparion\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1vc88\",\"pref_title\":\"Troparion\",\"alt_title\":[\"Troparion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]}}],\"parent\":[\"ark:/21198/s1d059\"]}}],\"assoc_date\":[{\"value\":\"12th-13th c.  CE\",\"iso\":{\"not_before\":1101,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z10v8nt5\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s18654\",\"label\":\"Greek Undertext: John Climacus, Ladder of Divine Ascent\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Greek minuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"11th c.  CE\",\"iso\":{\"not_before\":1001,\"not_after\":1100},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"One folio, fragmented, with two small pieces of conjoin attached; the lower one of these has a small piece of parchment folded in on the recto; diagonal crease across bottom\"}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 177\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10v8nt5/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16110vp/0,1022,6132,6132/150,150/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10v8nt5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek NF M 130\",\"extent\":\"1 ff.\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"165 x 130 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1d059\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1d059\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek NF M 130, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"ink\":[{\"color\":[\"black\",\"red\"],\"note\":[\"Initials overlaid in red\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s16m2h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s16m2h\",\"reconstruction\":false,\"label\":\"Troparion\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1vc88\",\"pref_title\":\"Troparion\",\"alt_title\":[\"Troparion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]}}],\"parent\":[\"ark:/21198/s1d059\"]}}],\"assoc_date\":[{\"value\":\"12th-13th c.  CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z10v8nt5\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s18654\",\"label\":\"Greek Undertext: John Climacus, Ladder of Divine Ascent\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Greek minuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"11th c.  CE\",\"iso\":{\"not_before\":\"1001\",\"not_after\":\"1100\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"One folio, fragmented, with two small pieces of conjoin attached; the lower one of these has a small piece of parchment folded in on the recto; diagonal crease across bottom\"}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 177\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10v8nt5/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16110vp/0,1022,6132,6132/150,150/0/default.jpg\"}]}",
+  "id": "ark:/21198/z10v8nt5",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16110vp/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10v8nt5/manifest",
+  "header_index_tesim": [
+    "Sinai Greek NF M 130",
+    "1 ff."
+  ],
+  "ot_date_tesim": [
+    "12th-13th c.  CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "12th-13th c.  CE"
+  ]
 }

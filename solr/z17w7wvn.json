@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z17w7wvn",
   "ark_ssi": "ark:/21198/z17w7wvn",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz17w7wvn%2F4q27vj4d/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
-    "Colophon"
+    "Colophon",
+    "Dated"
   ],
   "support_ssim": [
     "Paper"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -36,7 +31,7 @@
     "Biblical texts",
     "Gospel books"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1287
   ],
   "ot_language_ssim": [
@@ -47,20 +42,24 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Arabic"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 82",
   "titles_tesim": [
-    "Gospels",
     "Bible. Gospels",
-    "Four Gospels, divided according to Greek Calendar"
+    "Four Gospels, divided according to Greek Calendar",
+    "Gospels"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
@@ -68,27 +67,54 @@
     "Mount Sinai"
   ],
   "contents_tesim": [
-    "Gospels",
     "Bible. Gospels",
-    "Four Gospels, divided according to Greek Calendar"
+    "Four Gospels, divided according to Greek Calendar",
+    "Gospels",
+    "Item 1"
   ],
   "paracontent_tesim": [
-    "وكتب المسكين الخاطئ يراسمه المسمى راهب فهو يسأل كلمن قرأ فيه يدعى لصاحبة وكاتبه ولمهتم في نساخته بغفران الخطايا والخلا من عدونا الطالب هلاكنا إلى الاهنا وربنا ومخلصنا ايسوع المسيح ابن الله بشفاعة والدته العذراء البتول مرت مريم حكمة الله الذي عملت ان لا يشد عن كيف المصلوب عنّا قيامتنا وحياتنا حكمت الله السيد الالاه الأب الضابط الكل وقوته ذلك أيها القارئ  والسامع وكل بني المعمودية الارتذكسية وجميع السامعين والقائلين آمين والسبح لله دائما وعلينا رحمته آمين ",
-    "كملت هذه النسخة المقدسة بجبل الله المقدس طور سيناء نهار الخميس عاشر يوم مضامير شهر تموز الموافق لشهورسنة ستالف وسبعمائة وخمسة وتسعين سنة للعالم  وذلك في رئاسة الأب القديس أنبا أرسانيوس أسقف جبل الله طور سيناء ادام الله دوام المنيرين  رئاسة ورحمنا جميعا بصلواته وكان المهتم والمعتني بالورق وما يحتاج لنساخته القسيس أنبا أكليمي شيخي القديس برسم الراهب الأخ الروحاني أنبا معاري ينفعه الله بما فيه ويرحمني انا الخاطئ بصلواتهم دلنا أجمعين آمين والسبح لله دائما وعلينا رحمته آمين",
-    "Colophon",
-    "Arabic"
+    "Mount Sinai"
   ],
   "full_text_tesim": [
+    "Arabic",
+    "Bible. Gospels",
+    "Four Gospels, divided according to Greek Calendar",
     "Gospels",
     "Mount Sinai",
-    "Four Gospels, divided according to Greek Calendar",
-    "Sinai Arabic 82",
-    "Preceded by an index of chapters and followed by general calendar of Gospel readings for the year",
     "Naskh",
-    "Bible. Gospels",
-    "Arabic",
     "Paper",
-    "ark:/21198/z17w7wvn"
+    "Preceded by an index of chapters and followed by general calendar of Gospel readings for the year",
+    "Sinai Arabic 82",
+    "ark:/21198/z17w7wvn",
+    "كملت هذه النسخة المقدسة بجبل الله المقدس طور سيناء نهار الخميس عاشر يوم مضامير شهر تموز الموافق لشهورسنة ستالف وسبعمائة وخمسة وتسعين سنة للعالم  وذلك في رئاسة الأب القديس أنبا أرسانيوس أسقف جبل الله طور سيناء ادام الله دوام المنيرين  رئاسة ورحمنا جميعا بصلواته وكان المهتم والمعتني بالورق وما يحتاج لنساخته القسيس أنبا أكليمي شيخي القديس برسم الراهب الأخ الروحاني أنبا معاري ينفعه الله بما فيه ويرحمني انا الخاطئ بصلواتهم دلنا أجمعين آمين والسبح لله دائما وعلينا رحمته آمين",
+    "وكتب المسكين الخاطئ يراسمه المسمى راهب فهو يسأل كلمن قرأ فيه يدعى لصاحبة وكاتبه ولمهتم في نساخته بغفران الخطايا والخلا من عدونا الطالب هلاكنا إلى الاهنا وربنا ومخلصنا ايسوع المسيح ابن الله بشفاعة والدته العذراء البتول مرت مريم حكمة الله الذي عملت ان لا يشد عن كيف المصلوب عنّا قيامتنا وحياتنا حكمت الله السيد الالاه الأب الضابط الكل وقوته ذلك أيها القارئ  والسامع وكل بني المعمودية الارتذكسية وجميع السامعين والقائلين آمين والسبح لله دائما وعلينا رحمته آمين "
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z17w7wvn\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 82\",\"extent\":\"246 ff.\",\"weight\":\"1377.9 g\",\"dim\":\"229 x 157 x 79.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1xs4h\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1xs4h\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 82, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1rd2d\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rd2d\",\"reconstruction\":false,\"label\":\"Four Gospels, divided according to Greek Calendar\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels, divided according to Greek Calendar\",\"locus\":\"ff. 7r-224v\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Preceded by an index of chapters and followed by general calendar of Gospel readings for the year\"}],\"parent\":[\"ark:/21198/s1xs4h\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 206v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"كملت هذه النسخة المقدسة بجبل الله المقدس طور سيناء نهار الخميس عاشر يوم مضامير شهر تموز الموافق لشهورسنة ستالف وسبعمائة وخمسة وتسعين سنة للعالم  وذلك في رئاسة الأب القديس أنبا أرسانيوس أسقف جبل الله طور سيناء ادام الله دوام المنيرين  رئاسة ورحمنا جميعا بصلواته وكان المهتم والمعتني بالورق وما يحتاج لنساخته القسيس أنبا أكليمي شيخي القديس برسم الراهب الأخ الروحاني أنبا معاري ينفعه الله بما فيه ويرحمني انا الخاطئ بصلواتهم دلنا أجمعين آمين والسبح لله دائما وعلينا رحمته آمين\",\"assoc_place\":[{\"value\":\"Mount Sinai\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"assoc_date\":[{\"value\":\"Monday, 14 Tammuz 6796 Adam :: Monday, July 14, 1287 CE\",\"iso\":{\"not_before\":1287,\"not_after\":1287},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"ff. 225v-226r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"وكتب المسكين الخاطئ يراسمه المسمى راهب فهو يسأل كلمن قرأ فيه يدعى لصاحبة وكاتبه ولمهتم في نساخته بغفران الخطايا والخلا من عدونا الطالب هلاكنا إلى الاهنا وربنا ومخلصنا ايسوع المسيح ابن الله بشفاعة والدته العذراء البتول مرت مريم حكمة الله الذي عملت ان لا يشد عن كيف المصلوب عنّا قيامتنا وحياتنا حكمت الله السيد الالاه الأب الضابط الكل وقوته ذلك أيها القارئ  والسامع وكل بني المعمودية الارتذكسية وجميع السامعين والقائلين آمين والسبح لله دائما وعلينا رحمته آمين \"}],\"assoc_date\":[{\"value\":\"1287 CE\",\"iso\":{\"not_before\":1287,\"not_after\":1287},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z17w7wvn\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[75], p. 14\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386073-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz17w7wvn/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz17w7wvn%2F4q27vj4d/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z17w7wvn\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 82\",\"extent\":\"246 ff.\",\"weight\":\"1377.9 g\",\"dim\":\"229 x 157 x 79.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1xs4h\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1xs4h\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 82, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1rd2d\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rd2d\",\"reconstruction\":false,\"label\":\"Four Gospels, divided according to Greek Calendar\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels, divided according to Greek Calendar\",\"locus\":\"ff. 7r-224v\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Preceded by an index of chapters and followed by general calendar of Gospel readings for the year\"}],\"parent\":[\"ark:/21198/s1xs4h\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 206v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"كملت هذه النسخة المقدسة بجبل الله المقدس طور سيناء نهار الخميس عاشر يوم مضامير شهر تموز الموافق لشهورسنة ستالف وسبعمائة وخمسة وتسعين سنة للعالم  وذلك في رئاسة الأب القديس أنبا أرسانيوس أسقف جبل الله طور سيناء ادام الله دوام المنيرين  رئاسة ورحمنا جميعا بصلواته وكان المهتم والمعتني بالورق وما يحتاج لنساخته القسيس أنبا أكليمي شيخي القديس برسم الراهب الأخ الروحاني أنبا معاري ينفعه الله بما فيه ويرحمني انا الخاطئ بصلواتهم دلنا أجمعين آمين والسبح لله دائما وعلينا رحمته آمين\",\"assoc_place\":[{\"value\":\"Mount Sinai\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"assoc_date\":[{\"value\":\"Monday, 14 Tammuz 6796 Adam :: Monday, July 14, 1287 CE\",\"iso\":{\"not_before\":\"1287-07-14\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"ff. 225v-226r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"وكتب المسكين الخاطئ يراسمه المسمى راهب فهو يسأل كلمن قرأ فيه يدعى لصاحبة وكاتبه ولمهتم في نساخته بغفران الخطايا والخلا من عدونا الطالب هلاكنا إلى الاهنا وربنا ومخلصنا ايسوع المسيح ابن الله بشفاعة والدته العذراء البتول مرت مريم حكمة الله الذي عملت ان لا يشد عن كيف المصلوب عنّا قيامتنا وحياتنا حكمت الله السيد الالاه الأب الضابط الكل وقوته ذلك أيها القارئ  والسامع وكل بني المعمودية الارتذكسية وجميع السامعين والقائلين آمين والسبح لله دائما وعلينا رحمته آمين \"}],\"assoc_date\":[{\"value\":\"1287 CE\",\"iso\":{\"not_before\":\"1287\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z17w7wvn\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[75], p. 14\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386073-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz17w7wvn/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz17w7wvn%2F4q27vj4d/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z17w7wvn",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz17w7wvn%2F4q27vj4d/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz17w7wvn/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 82",
+    "246 ff."
+  ],
+  "ot_date_tesim": [
+    "1287 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1287 CE"
+  ]
 }

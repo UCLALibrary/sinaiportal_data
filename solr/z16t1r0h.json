@@ -1,17 +1,11 @@
 {
-  "id": "ark:/21198/z16t1r0h",
   "ark_ssi": "ark:/21198/z16t1r0h",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16t1r0h%2Fcx06nb17/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
+    "Border(s), Decorative",
     "Catchwords",
-    "Border(s), Decorative"
+    "Dated"
   ],
   "support_ssim": [
     "Paper"
@@ -27,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -36,7 +31,7 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1358
   ],
   "ot_language_ssim": [
@@ -47,30 +42,34 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Arabic"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 3",
   "titles_tesim": [
-    "The fifth book of the Torah, Deuteronomy, ff. 272v-330v",
-    "The third book of the Torah, Leviticus, ff. 165v-207v",
-    "The book of Joshua, ff. 331v-372v",
-    "The fourth book of the Torah, Numbers, ff. 208v-272r",
+    "Bible. Pentateuch",
+    "First book of the Torah, ff. 24v - 104r",
     "Pentateuch",
     "Preface, ff. 2v - 23v",
+    "The book of Joshua, ff. 331v-372v",
     "The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 104v-165r",
-    "Bible. Pentateuch",
-    "First book of the Torah, ff. 24v - 104r"
+    "The fifth book of the Torah, Deuteronomy, ff. 272v-330v",
+    "The fourth book of the Torah, Numbers, ff. 208v-272r",
+    "The third book of the Torah, Leviticus, ff. 165v-207v"
   ],
   "names_tesim": [
-    "يوسف ابن سباط",
-    "Joseph Ibn Sbat"
+    "Joseph Ibn Sbat",
+    "يوسف ابن سباط"
   ],
   "exerpts_tesim": [
     "بسم الله الرّحمٰن الرّحيم نبتدي بعون الله تعالیٰ بكتب",
@@ -78,46 +77,73 @@
   ],
   "places_tesim": [],
   "contents_tesim": [
-    "بسم الله الرّحمٰن الرّحيم نبتدي بعون الله تعالیٰ بكتب",
-    "The fifth book of the Torah, Deuteronomy, ff. 272v-330v",
+    "Bible. Pentateuch",
+    "First book of the Torah, ff. 24v - 104r",
+    "Item 1",
+    "Pentateuch",
+    "Preface, ff. 2v - 23v",
     "The book of Joshua, ff. 331v-372v",
     "The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 104v-165r",
+    "The fifth book of the Torah, Deuteronomy, ff. 272v-330v",
     "The fourth book of the Torah, Numbers, ff. 208v-272r",
-    "Preface, ff. 2v - 23v",
-    "Pentateuch",
-    "First book of the Torah, ff. 24v - 104r",
-    "تمّ سْفر يشوع ابن نون تلميذَ مُوسیٰ. و مانح العطايا و غافر الخطايا و مجزل الخيرات و سابغ النّعم المجد و الاكرام الی الدّهر […]. اللّهم سامح القاري و السّامع و الكاتب و القاني […].",
-    "Bible. Pentateuch",
-    "The third book of the Torah, Leviticus, ff. 165v-207v"
+    "The third book of the Torah, Leviticus, ff. 165v-207v",
+    "بسم الله الرّحمٰن الرّحيم نبتدي بعون الله تعالیٰ بكتب",
+    "تمّ سْفر يشوع ابن نون تلميذَ مُوسیٰ. و مانح العطايا و غافر الخطايا و مجزل الخيرات و سابغ النّعم المجد و الاكرام الی الدّهر […]. اللّهم سامح القاري و السّامع و الكاتب و القاني […]."
   ],
   "paracontent_tesim": [
-    "Attested places:  Famagusta, Cyprus",
-    "Colophon",
-    "Arabic",
-    "وكان الفراغ من كتابة هذا الكتاب المعظم الخمسة أسفار التوراة الذي أنزلها على موسى ابن عمران باللسان السرياني الترجوم ونقلها الى لسان العبراني وذلك في يوم الاربعاء تاسع شهر كانون الثاني سنة ألف وستمائة وسبعين الاسكندر اليوناني الموافق لسنة أدم سنة ستة ألف وثمان مائة وثانية وستين الموافق لسنة ألف وثلثمائة وثمانية وخمسين للمسيح وكاتبها أحقرمخلوقات الله الفقر الى رحمة ربه من لا يستحق يسمى  إنسان لا سيما بـاسم  شماس يوسف ابن سباط الأمد السرياني الآمدي السرياني ونقلت هذه النسخة السعيدة من السرياني والعبراني الى لسان العربي باجتهاد العظيم ما نالني من التعب على تحرير صحة كلام هذا التوراة وكتبت هذه التوراة في مدينة الماغوصة المحروسة أيام الملك البار المؤمن الرايوك خلد الله ملكه وأجرك بالنصر والسعد فلكه وامن بإنشاء هذه النسخة السعيدة مما أنعم الله عليه بماله لنفسه وهو المولى الاجل والكهف الاضل اوحد الفضلا قدرة العلماء للشيخ ابي الفضائل شرف الدولة عيسى ابن سعيد المتطبب يومئذ بجزيرة قبرص المحروسة وللأصله منسوبة من اهل بغداد نفعه الله فيها وعانه بحفظ ما يتليها والناسح المسيكين يسأل من كل واقف عليها ونسخها أم قرى فيها أن يدعى له بكل المخير والمغفرة وكذلك للممتم فيها وكل من وجد فيها شيء من الغلط يسامح الناسخ الحقير ويصلحه كما يليق بالصحيح حسب قول بعضهم فان وجدت عيباً فسُد الخلالا جل وعز من لا عيبا فيه وعلا والسبح لله دائما ابدا "
+    "Joseph Ibn Sbat",
+    "يوسف ابن سباط"
   ],
   "full_text_tesim": [
-    "بسم الله الرّحمٰن الرّحيم نبتدي بعون الله تعالیٰ بكتب",
-    "The fifth book of the Torah, Deuteronomy, ff. 272v-330v",
-    "Red border on ff. 330v, 331r",
-    "Joseph Ibn Sbat",
-    "The book of Joshua, ff. 331v-372v",
-    "يوسف ابن سباط",
-    "The fourth book of the Torah, Numbers, ff. 208v-272r",
     "Arabic",
-    "Pentateuch",
-    "Bible. Pentateuch",
     "Attested places:  Famagusta, Cyprus",
-    "ark:/21198/z16t1r0h",
+    "Bible. Pentateuch",
+    "First book of the Torah, ff. 24v - 104r",
     "Greek text on f. 373r",
-    "The third book of the Torah, Leviticus, ff. 165v-207v",
+    "Joseph Ibn Sbat",
     "Naskh",
     "Paper",
-    "Sinai Arabic 3",
-    "The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 104v-165r",
+    "Pentateuch",
     "Preface, ff. 2v - 23v",
+    "Red border on ff. 330v, 331r",
+    "Sinai Arabic 3",
+    "The book of Joshua, ff. 331v-372v",
+    "The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 104v-165r",
+    "The fifth book of the Torah, Deuteronomy, ff. 272v-330v",
+    "The fourth book of the Torah, Numbers, ff. 208v-272r",
+    "The third book of the Torah, Leviticus, ff. 165v-207v",
+    "ark:/21198/z16t1r0h",
+    "بسم الله الرّحمٰن الرّحيم نبتدي بعون الله تعالیٰ بكتب",
     "تمّ سْفر يشوع ابن نون تلميذَ مُوسیٰ. و مانح العطايا و غافر الخطايا و مجزل الخيرات و سابغ النّعم المجد و الاكرام الی الدّهر […]. اللّهم سامح القاري و السّامع و الكاتب و القاني […].",
-    "First book of the Torah, ff. 24v - 104r"
+    "وكان الفراغ من كتابة هذا الكتاب المعظم الخمسة أسفار التوراة الذي أنزلها على موسى ابن عمران باللسان السرياني الترجوم ونقلها الى لسان العبراني وذلك في يوم الاربعاء تاسع شهر كانون الثاني سنة ألف وستمائة وسبعين الاسكندر اليوناني الموافق لسنة أدم سنة ستة ألف وثمان مائة وثانية وستين الموافق لسنة ألف وثلثمائة وثمانية وخمسين للمسيح وكاتبها أحقرمخلوقات الله الفقر الى رحمة ربه من لا يستحق يسمى  إنسان لا سيما بـاسم  شماس يوسف ابن سباط الأمد السرياني الآمدي السرياني ونقلت هذه النسخة السعيدة من السرياني والعبراني الى لسان العربي باجتهاد العظيم ما نالني من التعب على تحرير صحة كلام هذا التوراة وكتبت هذه التوراة في مدينة الماغوصة المحروسة أيام الملك البار المؤمن الرايوك خلد الله ملكه وأجرك بالنصر والسعد فلكه وامن بإنشاء هذه النسخة السعيدة مما أنعم الله عليه بماله لنفسه وهو المولى الاجل والكهف الاضل اوحد الفضلا قدرة العلماء للشيخ ابي الفضائل شرف الدولة عيسى ابن سعيد المتطبب يومئذ بجزيرة قبرص المحروسة وللأصله منسوبة من اهل بغداد نفعه الله فيها وعانه بحفظ ما يتليها والناسح المسيكين يسأل من كل واقف عليها ونسخها أم قرى فيها أن يدعى له بكل المخير والمغفرة وكذلك للممتم فيها وكل من وجد فيها شيء من الغلط يسامح الناسخ الحقير ويصلحه كما يليق بالصحيح حسب قول بعضهم فان وجدت عيباً فسُد الخلالا جل وعز من لا عيبا فيه وعلا والسبح لله دائما ابدا ",
+    "يوسف ابن سباط"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z16t1r0h\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 3\",\"extent\":\"373 ff.\",\"weight\":\"2219.5 g\",\"dim\":\"251 x 185 x 91 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s16k6p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s16k6p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 3, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1164k\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1164k\",\"reconstruction\":false,\"label\":\"Pentateuch\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s18w2w\",\"pref_title\":\"Pentateuch\",\"alt_title\":[\"Bible. Pentateuch\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Pentateuch\",\"uri\":\"https://viaf.org/viaf/194861095\",\"source\":\"VIAF\"},{\"label\":\"Bible. Pentateuch\",\"uri\":\"http://id.loc.gov/authorities/names/n79066420\",\"source\":\"LoC\"}]},\"locus\":\"ff. 1r-372v\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"as_written\":\"بسم الله الرّحمٰن الرّحيم نبتدي بعون الله تعالیٰ بكتب\"},{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"as_written\":\"تمّ سْفر يشوع ابن نون تلميذَ مُوسیٰ. و مانح العطايا و غافر الخطايا و مجزل الخيرات و سابغ النّعم المجد و الاكرام الی الدّهر […]. اللّهم سامح القاري و السّامع و الكاتب و القاني […].\"}],\"contents\":[{\"label\":\"Preface, ff. 2v - 23v\"},{\"label\":\"First book of the Torah, ff. 24v - 104r\"},{\"label\":\"The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 104v-165r\"},{\"label\":\"The third book of the Torah, Leviticus, ff. 165v-207v\"},{\"label\":\"The fourth book of the Torah, Numbers, ff. 208v-272r\"},{\"label\":\"The fifth book of the Torah, Deuteronomy, ff. 272v-330v\"},{\"label\":\"The book of Joshua, ff. 331v-372v\"}]}],\"parent\":[\"ark:/21198/s16k6p\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"ff. 330v-331r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"وكان الفراغ من كتابة هذا الكتاب المعظم الخمسة أسفار التوراة الذي أنزلها على موسى ابن عمران باللسان السرياني الترجوم ونقلها الى لسان العبراني وذلك في يوم الاربعاء تاسع شهر كانون الثاني سنة ألف وستمائة وسبعين الاسكندر اليوناني الموافق لسنة أدم سنة ستة ألف وثمان مائة وثانية وستين الموافق لسنة ألف وثلثمائة وثمانية وخمسين للمسيح وكاتبها أحقرمخلوقات الله الفقر الى رحمة ربه من لا يستحق يسمى  إنسان لا سيما بـاسم  شماس يوسف ابن سباط الأمد السرياني الآمدي السرياني ونقلت هذه النسخة السعيدة من السرياني والعبراني الى لسان العربي باجتهاد العظيم ما نالني من التعب على تحرير صحة كلام هذا التوراة وكتبت هذه التوراة في مدينة الماغوصة المحروسة أيام الملك البار المؤمن الرايوك خلد الله ملكه وأجرك بالنصر والسعد فلكه وامن بإنشاء هذه النسخة السعيدة مما أنعم الله عليه بماله لنفسه وهو المولى الاجل والكهف الاضل اوحد الفضلا قدرة العلماء للشيخ ابي الفضائل شرف الدولة عيسى ابن سعيد المتطبب يومئذ بجزيرة قبرص المحروسة وللأصله منسوبة من اهل بغداد نفعه الله فيها وعانه بحفظ ما يتليها والناسح المسيكين يسأل من كل واقف عليها ونسخها أم قرى فيها أن يدعى له بكل المخير والمغفرة وكذلك للممتم فيها وكل من وجد فيها شيء من الغلط يسامح الناسخ الحقير ويصلحه كما يليق بالصحيح حسب قول بعضهم فان وجدت عيباً فسُد الخلالا جل وعز من لا عيبا فيه وعلا والسبح لله دائما ابدا \",\"assoc_name\":[{\"value\":\"Joseph Ibn Sbat\",\"as_written\":\"يوسف ابن سباط\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}],\"note\":[\"Attested places:  Famagusta, Cyprus\"]}],\"assoc_date\":[{\"value\":\"1358 CE\",\"iso\":{\"not_before\":1358,\"not_after\":1358},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Red border on ff. 330v, 331r\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Greek text on f. 373r\"}],\"parent\":[\"ark:/21198/z16t1r0h\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[3], p. 11\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279385743-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz16t1r0h/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16t1r0h%2Fcx06nb17/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z16t1r0h\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 3\",\"extent\":\"373 ff.\",\"weight\":\"2219.5 g\",\"dim\":\"251 x 185 x 91 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s16k6p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s16k6p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 3, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1164k\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1164k\",\"reconstruction\":false,\"label\":\"Pentateuch\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s18w2w\",\"pref_title\":\"Pentateuch\",\"alt_title\":[\"Bible. Pentateuch\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Pentateuch\",\"uri\":\"https://viaf.org/viaf/194861095\",\"source\":\"VIAF\"},{\"label\":\"Bible. Pentateuch\",\"uri\":\"http://id.loc.gov/authorities/names/n79066420\",\"source\":\"LoC\"}]},\"locus\":\"ff. 1r-372v\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"as_written\":\"بسم الله الرّحمٰن الرّحيم نبتدي بعون الله تعالیٰ بكتب\"},{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"as_written\":\"تمّ سْفر يشوع ابن نون تلميذَ مُوسیٰ. و مانح العطايا و غافر الخطايا و مجزل الخيرات و سابغ النّعم المجد و الاكرام الی الدّهر […]. اللّهم سامح القاري و السّامع و الكاتب و القاني […].\"}],\"contents\":[{\"label\":\"Preface, ff. 2v - 23v\"},{\"label\":\"First book of the Torah, ff. 24v - 104r\"},{\"label\":\"The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 104v-165r\"},{\"label\":\"The third book of the Torah, Leviticus, ff. 165v-207v\"},{\"label\":\"The fourth book of the Torah, Numbers, ff. 208v-272r\"},{\"label\":\"The fifth book of the Torah, Deuteronomy, ff. 272v-330v\"},{\"label\":\"The book of Joshua, ff. 331v-372v\"}]}],\"parent\":[\"ark:/21198/s16k6p\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"ff. 330v-331r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"وكان الفراغ من كتابة هذا الكتاب المعظم الخمسة أسفار التوراة الذي أنزلها على موسى ابن عمران باللسان السرياني الترجوم ونقلها الى لسان العبراني وذلك في يوم الاربعاء تاسع شهر كانون الثاني سنة ألف وستمائة وسبعين الاسكندر اليوناني الموافق لسنة أدم سنة ستة ألف وثمان مائة وثانية وستين الموافق لسنة ألف وثلثمائة وثمانية وخمسين للمسيح وكاتبها أحقرمخلوقات الله الفقر الى رحمة ربه من لا يستحق يسمى  إنسان لا سيما بـاسم  شماس يوسف ابن سباط الأمد السرياني الآمدي السرياني ونقلت هذه النسخة السعيدة من السرياني والعبراني الى لسان العربي باجتهاد العظيم ما نالني من التعب على تحرير صحة كلام هذا التوراة وكتبت هذه التوراة في مدينة الماغوصة المحروسة أيام الملك البار المؤمن الرايوك خلد الله ملكه وأجرك بالنصر والسعد فلكه وامن بإنشاء هذه النسخة السعيدة مما أنعم الله عليه بماله لنفسه وهو المولى الاجل والكهف الاضل اوحد الفضلا قدرة العلماء للشيخ ابي الفضائل شرف الدولة عيسى ابن سعيد المتطبب يومئذ بجزيرة قبرص المحروسة وللأصله منسوبة من اهل بغداد نفعه الله فيها وعانه بحفظ ما يتليها والناسح المسيكين يسأل من كل واقف عليها ونسخها أم قرى فيها أن يدعى له بكل المخير والمغفرة وكذلك للممتم فيها وكل من وجد فيها شيء من الغلط يسامح الناسخ الحقير ويصلحه كما يليق بالصحيح حسب قول بعضهم فان وجدت عيباً فسُد الخلالا جل وعز من لا عيبا فيه وعلا والسبح لله دائما ابدا \",\"assoc_name\":[{\"value\":\"Joseph Ibn Sbat\",\"as_written\":\"يوسف ابن سباط\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}],\"note\":[\"Attested places:  Famagusta, Cyprus\"]}],\"assoc_date\":[{\"value\":\"1358 CE\",\"iso\":{\"not_before\":\"1358\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Red border on ff. 330v, 331r\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Greek text on f. 373r\"}],\"parent\":[\"ark:/21198/z16t1r0h\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[3], p. 11\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279385743-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz16t1r0h/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16t1r0h%2Fcx06nb17/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z16t1r0h",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16t1r0h%2Fcx06nb17/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz16t1r0h/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 3",
+    "373 ff."
+  ],
+  "ot_date_tesim": [
+    "1358 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1358 CE"
+  ]
 }

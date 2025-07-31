@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z1tf1g2w",
   "ark_ssi": "ark:/21198/z1tf1g2w",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1tf1g2w%2Fw651911g/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
-    "Colophon"
+    "Colophon",
+    "Dated"
   ],
   "support_ssim": [
     "Paper"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -35,7 +30,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1234
   ],
   "ot_language_ssim": [
@@ -44,15 +39,19 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Syriac"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 261",
   "titles_tesim": [
     "Services"
@@ -61,22 +60,46 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Services"
   ],
-  "paracontent_tesim": [
-    "Syriac",
-    "Colophon",
-    "ܐܚ̈ܝ ܨ̈ܠܘ ܥܠ ܚܛܝܐ ܕܣܪܛ ܡܛܠ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܢܬܚܢܢ ܥܠܘܗܝ ܒܝܘܡܐ ܕܕܝܢܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ܀ ܀ ܟܬܒܗ ܚܛܝܐ ܕܠܐ ܫܘܐ ܕܢܬܟܬܒ ܫܡܗ̣ ܒܟܬܒܐ ܗܢܐ܀ ܟܬܒܗ ܟܛܘܪ ܣܝܢܣ ܒܕܝܪܐ ܡܩܕܫܐ ܫܢܬ ܫ̈ܬ ܐܠܦ ܘܫܒ̈ܥ ܡ̈ܐܐ ܘܐܪ̈ܒܥܝܢ ܘܒ̄[ ] ܠܐܒܘܢ ܐܕܡ ܡ̣ܢ ܩܪܝܬܐ ܢܛܝܪܐ ܡ̣ܢ ܐܠܗܐ ܢܣܐ ܠܗܘܢ ܚܘܒܝܗܘܢ ܒܨܢܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܦܕ ܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ",
-    "Attested places:  from Ma`lula, Sinai"
-  ],
+  "paracontent_tesim": [],
   "full_text_tesim": [
-    "ark:/21198/z1tf1g2w",
+    "Attested places:  from Ma`lula, Sinai",
     "Melkite",
     "Paper",
     "Services",
+    "Sinai Syriac 261",
     "Syriac",
-    "Attested places:  from Ma`lula, Sinai",
-    "Sinai Syriac 261"
+    "ark:/21198/z1tf1g2w",
+    "ܐܚ̈ܝ ܨ̈ܠܘ ܥܠ ܚܛܝܐ ܕܣܪܛ ܡܛܠ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܢܬܚܢܢ ܥܠܘܗܝ ܒܝܘܡܐ ܕܕܝܢܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ܀ ܀ ܟܬܒܗ ܚܛܝܐ ܕܠܐ ܫܘܐ ܕܢܬܟܬܒ ܫܡܗ̣ ܒܟܬܒܐ ܗܢܐ܀ ܟܬܒܗ ܟܛܘܪ ܣܝܢܣ ܒܕܝܪܐ ܡܩܕܫܐ ܫܢܬ ܫ̈ܬ ܐܠܦ ܘܫܒ̈ܥ ܡ̈ܐܐ ܘܐܪ̈ܒܥܝܢ ܘܒ̄[ ] ܠܐܒܘܢ ܐܕܡ ܡ̣ܢ ܩܪܝܬܐ ܢܛܝܪܐ ܡ̣ܢ ܐܠܗܐ ܢܣܐ ܠܗܘܢ ܚܘܒܝܗܘܢ ܒܨܢܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܦܕ ܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1tf1g2w\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 261\",\"extent\":\"256 ff.\",\"weight\":\"829.2 g\",\"dim\":\"179 x 140 x 68.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1kg96\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1kg96\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 261, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1d10r\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1d10r\",\"reconstruction\":false,\"label\":\"Services\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Services\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-257r\"}],\"parent\":[\"ark:/21198/s1kg96\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"257r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܐܚ̈ܝ ܨ̈ܠܘ ܥܠ ܚܛܝܐ ܕܣܪܛ ܡܛܠ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܢܬܚܢܢ ܥܠܘܗܝ ܒܝܘܡܐ ܕܕܝܢܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ܀ ܀ ܟܬܒܗ ܚܛܝܐ ܕܠܐ ܫܘܐ ܕܢܬܟܬܒ ܫܡܗ̣ ܒܟܬܒܐ ܗܢܐ܀ ܟܬܒܗ ܟܛܘܪ ܣܝܢܣ ܒܕܝܪܐ ܡܩܕܫܐ ܫܢܬ ܫ̈ܬ ܐܠܦ ܘܫܒ̈ܥ ܡ̈ܐܐ ܘܐܪ̈ܒܥܝܢ ܘܒ̄[ ] ܠܐܒܘܢ ܐܕܡ ܡ̣ܢ ܩܪܝܬܐ ܢܛܝܪܐ ܡ̣ܢ ܐܠܗܐ ܢܣܐ ܠܗܘܢ ܚܘܒܝܗܘܢ ܒܨܢܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܦܕ ܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ\",\"note\":[\"Attested places:  from Ma`lula, Sinai\"]}],\"assoc_date\":[{\"value\":\"1234 CE\",\"iso\":{\"not_before\":1234,\"not_after\":1234},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1tf1g2w\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[247], p. 160\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1tf1g2w/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1tf1g2w%2Fw651911g/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1tf1g2w\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 261\",\"extent\":\"256 ff.\",\"weight\":\"829.2 g\",\"dim\":\"179 x 140 x 68.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1kg96\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1kg96\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 261, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1d10r\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1d10r\",\"reconstruction\":false,\"label\":\"Services\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Services\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-257r\"}],\"parent\":[\"ark:/21198/s1kg96\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"257r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܐܚ̈ܝ ܨ̈ܠܘ ܥܠ ܚܛܝܐ ܕܣܪܛ ܡܛܠ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܢܬܚܢܢ ܥܠܘܗܝ ܒܝܘܡܐ ܕܕܝܢܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ܀ ܀ ܟܬܒܗ ܚܛܝܐ ܕܠܐ ܫܘܐ ܕܢܬܟܬܒ ܫܡܗ̣ ܒܟܬܒܐ ܗܢܐ܀ ܟܬܒܗ ܟܛܘܪ ܣܝܢܣ ܒܕܝܪܐ ܡܩܕܫܐ ܫܢܬ ܫ̈ܬ ܐܠܦ ܘܫܒ̈ܥ ܡ̈ܐܐ ܘܐܪ̈ܒܥܝܢ ܘܒ̄[ ] ܠܐܒܘܢ ܐܕܡ ܡ̣ܢ ܩܪܝܬܐ ܢܛܝܪܐ ܡ̣ܢ ܐܠܗܐ ܢܣܐ ܠܗܘܢ ܚܘܒܝܗܘܢ ܒܨܢܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܦܕ ܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ\",\"note\":[\"Attested places:  from Ma`lula, Sinai\"]}],\"assoc_date\":[{\"value\":\"1234 CE\",\"iso\":{\"not_before\":\"1234\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1tf1g2w\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[247], p. 160\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1tf1g2w/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1tf1g2w%2Fw651911g/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1tf1g2w",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1tf1g2w%2Fw651911g/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1tf1g2w/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 261",
+    "256 ff."
+  ],
+  "ot_date_tesim": [
+    "1234 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1234 CE"
+  ]
 }

@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z1029pgj",
   "ark_ssi": "ark:/21198/z1029pgj",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Palimpsest",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Palimpsest"
   ],
   "support_ssim": [
     "Paper",
@@ -27,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Greek minuscule"
   ],
@@ -36,7 +31,7 @@
   "ot_genre_ssim": [
     "Apophthegmata"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -244,22 +239,22 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
   "para_type_ssim": [],
   "uto_script_ssim": [
-    "Naskh",
     "Greek majuscule",
-    "Minuscule bouclée"
+    "Minuscule bouclée",
+    "Naskh"
   ],
   "uto_language_ssim": [
-    "Greek",
-    "Arabic"
+    "Arabic",
+    "Greek"
   ],
-  "uto_date_isim": [
+  "uto_years_isim": [
     850,
     851,
     852,
@@ -620,20 +615,48 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Paterikon"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "black",
-    "Parchment",
-    "Greek minuscule",
     "Greek",
-    "Sinai Greek 468",
-    "Paterikon",
-    "ark:/21198/z1029pgj",
-    "Pencil foliation beginning with front pastedown (f. 1v); foliation of parchment leaves begins with f. 5r",
+    "Greek minuscule",
+    "Leather on wood, Greek binding; paper fly leaves in front and back. Broken leather spine",
     "Paper",
-    "Leather on wood, Greek binding; paper fly leaves in front and back. Broken leather spine"
+    "Parchment",
+    "Paterikon",
+    "Pencil foliation beginning with front pastedown (f. 1v); foliation of parchment leaves begins with f. 5r",
+    "Sinai Greek 468",
+    "ark:/21198/z1029pgj",
+    "black"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1029pgj\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek 468\",\"extent\":\"134 ff.\",\"dim\":\"160 x 115 x 49 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"coll\":\"flyleaf+1x2+1 (4, paper), Quires 1-2 : 2x10 (24), Quire 3 : 1x8 (32), Quire 4 : 1x10 (42), Quires 5-7 : 3x8 (66), Quire 8 : 1x4 (70), Quires 9-14 : 6x8 (118), Quire 15 : 1x6 + 1 (125), Quire 16 : 1x2+1x4 (131); 1x2+pastedown (134, paper)\",\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"},{\"id\":\"paper\",\"label\":\"Paper\"}],\"dim\":\"153 x 115 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1xw5x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1xw5x\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek 468, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1rh3t\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rh3t\",\"reconstruction\":false,\"label\":\"Paterikon\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Paterikon\",\"genre\":[{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]}}],\"parent\":[\"ark:/21198/s1xw5x\"]}}],\"assoc_date\":[{\"value\":\"13th-14th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1400},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1029pgj\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s15k9h\",\"label\":\"Greek Undertext: Hymns\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 33–70\",\"script\":[\"Minuscule bouclée\",\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Late 9th-Early 10th c.  CE\",\"iso\":{\"not_before\":875,\"not_after\":925},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s11s8z\",\"label\":\"Arabic Undertext: John Chrysostom, Homily on the Rich and the Poor\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 28–29\",\"script\":[\"Naskh\"],\"lang\":[\"Arabic\"],\"orig_date\":[{\"value\":\"Late 10th-beginning 11th c. CE\",\"iso\":{\"not_before\":975,\"not_after\":1150},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1x34m\",\"label\":\"Greek Undertext: John Chrysostom, Homilies on Genesis\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 128–131\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"late 11th-early 12th c.  CE\",\"iso\":{\"not_before\":1075,\"not_after\":1125},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1s92p\",\"label\":\"Arabic Undertext: John of Damascus, Homily on the Dormition of the Virgin Mary\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 5–27, 30–32\",\"script\":[\"Naskh\"],\"lang\":[\"Arabic\"],\"orig_date\":[{\"value\":\"Late 10th-beginning 11th c. CE\",\"iso\":{\"not_before\":975,\"not_after\":1050},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1nm0s\",\"label\":\"Greek Undertext: Prayers\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 132–134r\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"12th c.  CE\",\"iso\":{\"not_before\":1101,\"not_after\":1200},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1hs7x\",\"label\":\"Greek Undertext: Hymns\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 71–110, 119, 121–123, 125–127\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Mid 9th c. ca. CE\",\"iso\":{\"not_before\":850,\"not_after\":965},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1d35b\",\"label\":\"Greek Undertext: Homilies of Hesychius of Jerusalem and Gregory of Nazianzus\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 111–118, 120, 124\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"late 10th c.  CE\",\"iso\":{\"not_before\":951,\"not_after\":1000},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Pencil foliation beginning with front pastedown (f. 1v); foliation of parchment leaves begins with f. 5r\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Leather on wood, Greek binding; paper fly leaves in front and back. Broken leather spine\"}],\"bib\":[{\"id\":\"55eae5e7-ad84-46af-a814-4f5524b2d09d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 114-115\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1029pgj\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek 468\",\"extent\":\"134 ff.\",\"dim\":\"160 x 115 x 49 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"coll\":\"flyleaf+1x2+1 (4, paper), Quires 1-2 : 2x10 (24), Quire 3 : 1x8 (32), Quire 4 : 1x10 (42), Quires 5-7 : 3x8 (66), Quire 8 : 1x4 (70), Quires 9-14 : 6x8 (118), Quire 15 : 1x6 + 1 (125), Quire 16 : 1x2+1x4 (131); 1x2+pastedown (134, paper)\",\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"},{\"id\":\"paper\",\"label\":\"Paper\"}],\"dim\":\"153 x 115 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1xw5x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1xw5x\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek 468, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1rh3t\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rh3t\",\"reconstruction\":false,\"label\":\"Paterikon\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Paterikon\",\"genre\":[{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]}}],\"parent\":[\"ark:/21198/s1xw5x\"]}}],\"assoc_date\":[{\"value\":\"13th-14th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1400\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1029pgj\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s15k9h\",\"label\":\"Greek Undertext: Hymns\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 33–70\",\"script\":[\"Minuscule bouclée\",\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Late 9th-Early 10th c.  CE\",\"iso\":{\"not_before\":\"0875\",\"not_after\":\"0925\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s11s8z\",\"label\":\"Arabic Undertext: John Chrysostom, Homily on the Rich and the Poor\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 28–29\",\"script\":[\"Naskh\"],\"lang\":[\"Arabic\"],\"orig_date\":[{\"value\":\"Late 10th-beginning 11th c. CE\",\"iso\":{\"not_before\":\"0975\",\"not_after\":\"1150\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1x34m\",\"label\":\"Greek Undertext: John Chrysostom, Homilies on Genesis\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 128–131\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"late 11th-early 12th c.  CE\",\"iso\":{\"not_before\":\"1075\",\"not_after\":\"1125\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1s92p\",\"label\":\"Arabic Undertext: John of Damascus, Homily on the Dormition of the Virgin Mary\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 5–27, 30–32\",\"script\":[\"Naskh\"],\"lang\":[\"Arabic\"],\"orig_date\":[{\"value\":\"Late 10th-beginning 11th c. CE\",\"iso\":{\"not_before\":\"0975\",\"not_after\":\"1050\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1nm0s\",\"label\":\"Greek Undertext: Prayers\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 132–134r\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"12th c.  CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1hs7x\",\"label\":\"Greek Undertext: Hymns\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 71–110, 119, 121–123, 125–127\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Mid 9th c. ca. CE\",\"iso\":{\"not_before\":\"0850\",\"not_after\":\"0965\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1d35b\",\"label\":\"Greek Undertext: Homilies of Hesychius of Jerusalem and Gregory of Nazianzus\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 111–118, 120, 124\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"late 10th c.  CE\",\"iso\":{\"not_before\":\"0951\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Pencil foliation beginning with front pastedown (f. 1v); foliation of parchment leaves begins with f. 5r\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Leather on wood, Greek binding; paper fly leaves in front and back. Broken leather spine\"}],\"bib\":[{\"id\":\"55eae5e7-ad84-46af-a814-4f5524b2d09d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 114-115\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1029pgj",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest",
+  "header_index_tesim": [
+    "Sinai Greek 468",
+    "134 ff."
+  ],
+  "ot_date_tesim": [
+    "13th-14th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th-14th c. CE"
+  ]
 }

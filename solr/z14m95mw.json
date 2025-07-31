@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z14m95mw",
   "ark_ssi": "ark:/21198/z14m95mw",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz37hq/1022,0,6132,6132/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Bifolio(s)",
   "features_ssim": [
-    "Palimpsest",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Palimpsest"
   ],
   "support_ssim": [
     "Parchment"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Christian Palestinian Aramaic"
   ],
@@ -35,7 +30,7 @@
   "ot_genre_ssim": [
     "Theological works"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     801,
     802,
     803,
@@ -243,7 +238,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -255,7 +250,18 @@
   "uto_language_ssim": [
     "CPA"
   ],
-  "uto_date_isim": [
+  "uto_years_isim": [
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
     512,
     513,
     514,
@@ -444,18 +450,7 @@
     697,
     698,
     699,
-    700,
-    501,
-    502,
-    503,
-    504,
-    505,
-    506,
-    507,
-    508,
-    509,
-    510,
-    511
+    700
   ],
   "shelfmark_ssi": "Sinai CPA NF frag 5",
   "titles_tesim": [
@@ -465,21 +460,49 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body"
+    "Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Sinai CPA NF frag 5",
-    "CPA",
-    "black",
-    "Parchment",
     "Bifolio and two fragments; the larger of the two fragments is now in two pieces",
-    "ark:/21198/z14m95mw",
+    "CPA",
     "Christian Palestinian Aramaic",
-    "The larger of the two fragments, now in two pieces, is treated as one (fol. 2 bis)",
+    "Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body",
     "Not foliated; sequence follows Brock 1995, pl. 387-388",
+    "Parchment",
+    "Sinai CPA NF frag 5",
     "Syriac",
-    "Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body"
+    "The larger of the two fragments, now in two pieces, is treated as one (fol. 2 bis)",
+    "ark:/21198/z14m95mw",
+    "black"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z14m95mw\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai CPA NF frag 5\",\"extent\":\"4 ff.\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s19c9p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s19c9p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai CPA NF frag 5, Overtext (Christian Palestinian Aramaic)\",\"writing\":[{\"script\":[{\"id\":\"cpa\",\"label\":\"Christian Palestinian Aramaic\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s13x0x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13x0x\",\"reconstruction\":false,\"label\":\"Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body\",\"lang\":[{\"id\":\"chri1239\",\"label\":\"CPA\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}]}}],\"parent\":[\"ark:/21198/s19c9p\"]}}],\"assoc_date\":[{\"value\":\"9th-10th c.  CE\",\"iso\":{\"not_before\":801,\"not_after\":1000},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z14m95mw\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1dp8b\",\"label\":\"CPA Undertext: Bible. Isaiah\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"Early 6th-7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s18w51\",\"label\":\"CPA Undertext: Bible. Daniel\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 2\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"Early 6th - 7th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1563f\",\"label\":\"CPA Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1bis, 2bis\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated; sequence follows Brock 1995, pl. 387-388\"},{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"The larger of the two fragments, now in two pieces, is treated as one (fol. 2 bis)\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Bifolio and two fragments; the larger of the two fragments is now in two pieces\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 82, pl. 387-388\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m95mw/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz37hq/1022,0,6132,6132/150,150/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z14m95mw\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai CPA NF frag 5\",\"extent\":\"4 ff.\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s19c9p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s19c9p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai CPA NF frag 5, Overtext (Christian Palestinian Aramaic)\",\"writing\":[{\"script\":[{\"id\":\"cpa\",\"label\":\"Christian Palestinian Aramaic\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s13x0x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13x0x\",\"reconstruction\":false,\"label\":\"Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body\",\"lang\":[{\"id\":\"chri1239\",\"label\":\"CPA\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}]}}],\"parent\":[\"ark:/21198/s19c9p\"]}}],\"assoc_date\":[{\"value\":\"9th-10th c.  CE\",\"iso\":{\"not_before\":\"0801\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z14m95mw\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1dp8b\",\"label\":\"CPA Undertext: Bible. Isaiah\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"Early 6th-7th c.  CE\",\"iso\":{\"not_before\":\"0501\",\"not_after\":\"0700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s18w51\",\"label\":\"CPA Undertext: Bible. Daniel\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 2\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"Early 6th - 7th c.  CE\",\"iso\":{\"not_before\":\"0501\",\"not_after\":\"0700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1563f\",\"label\":\"CPA Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1bis, 2bis\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated; sequence follows Brock 1995, pl. 387-388\"},{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"The larger of the two fragments, now in two pieces, is treated as one (fol. 2 bis)\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Bifolio and two fragments; the larger of the two fragments is now in two pieces\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 82, pl. 387-388\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m95mw/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz37hq/1022,0,6132,6132/150,150/0/default.jpg\"}]}",
+  "id": "ark:/21198/z14m95mw",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz37hq/1022,0,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m95mw/manifest",
+  "header_index_tesim": [
+    "Sinai CPA NF frag 5",
+    "4 ff."
+  ],
+  "ot_date_tesim": [
+    "9th-10th c.  CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "9th-10th c.  CE"
+  ]
 }

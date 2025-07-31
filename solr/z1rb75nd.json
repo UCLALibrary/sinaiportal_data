@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z1rb75nd",
   "ark_ssi": "ark:/21198/z1rb75nd",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1gb24c1/1022,0,6132,6132/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Folio Fragment(s)",
   "features_ssim": [
-    "Palimpsest",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Palimpsest"
   ],
   "support_ssim": [
     "Parchment"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -35,7 +30,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -143,7 +138,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -155,7 +150,18 @@
   "uto_language_ssim": [
     "Syriac"
   ],
-  "uto_date_isim": [
+  "uto_years_isim": [
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
     512,
     513,
     514,
@@ -244,18 +250,7 @@
     597,
     598,
     599,
-    600,
-    501,
-    502,
-    503,
-    504,
-    505,
-    506,
-    507,
-    508,
-    509,
-    510,
-    511
+    600
   ],
   "shelfmark_ssi": "Sinai Syriac NF frag 75",
   "titles_tesim": [
@@ -267,20 +262,48 @@
   "places_tesim": [],
   "contents_tesim": [
     "Index of Lections",
-    "Index of New Testament lections for the moveable cycle"
+    "Index of New Testament lections for the moveable cycle",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "red",
-    "Sinai Syriac NF frag 75",
-    "black",
-    "ark:/21198/z1rb75nd",
-    "Parchment",
-    "Index of New Testament lections for the moveable cycle",
     "Index of Lections",
+    "Index of New Testament lections for the moveable cycle",
     "Melkite",
+    "Parchment",
     "Red used for rubrics",
-    "Syriac"
+    "Sinai Syriac NF frag 75",
+    "Syriac",
+    "ark:/21198/z1rb75nd",
+    "black",
+    "red"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1rb75nd\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF frag 75\",\"extent\":\"1 ff.\",\"state\":{\"id\":\"folio-fragment\",\"label\":\"Folio Fragment(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1m924\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1m924\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF frag 75, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"black\",\"red\"],\"note\":[\"Red used for rubrics\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1dx0q\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1dx0q\",\"reconstruction\":false,\"label\":\"Index of New Testament lections for the moveable cycle\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Index of Lections\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Index of New Testament lections for the moveable cycle\"}],\"parent\":[\"ark:/21198/s1m924\"]}}],\"assoc_date\":[{\"value\":\"13th c.  CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1rb75nd\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1j647\",\"label\":\"Syriac Undertext: Bible. Jeremiah\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 71, pl. 359-360\"},{\"id\":\"b1a3a9c9-ed90-440a-9e37-fade7a17796d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 205\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rb75nd/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1gb24c1/1022,0,6132,6132/150,150/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1rb75nd\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF frag 75\",\"extent\":\"1 ff.\",\"state\":{\"id\":\"folio-fragment\",\"label\":\"Folio Fragment(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1m924\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1m924\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF frag 75, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"black\",\"red\"],\"note\":[\"Red used for rubrics\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1dx0q\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1dx0q\",\"reconstruction\":false,\"label\":\"Index of New Testament lections for the moveable cycle\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Index of Lections\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Index of New Testament lections for the moveable cycle\"}],\"parent\":[\"ark:/21198/s1m924\"]}}],\"assoc_date\":[{\"value\":\"13th c.  CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1rb75nd\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1j647\",\"label\":\"Syriac Undertext: Bible. Jeremiah\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":\"0501\",\"not_after\":\"0600\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 71, pl. 359-360\"},{\"id\":\"b1a3a9c9-ed90-440a-9e37-fade7a17796d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 205\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rb75nd/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1gb24c1/1022,0,6132,6132/150,150/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1rb75nd",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1gb24c1/1022,0,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rb75nd/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac NF frag 75",
+    "1 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c.  CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c.  CE"
+  ]
 }

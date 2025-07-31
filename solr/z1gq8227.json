@@ -1,10 +1,5 @@
 {
-  "id": "ark:/21198/z1gq8227",
   "ark_ssi": "ark:/21198/z1gq8227",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -26,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh",
     "Thuluth"
@@ -36,7 +32,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1601,
     1602,
     1603,
@@ -146,7 +142,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -154,7 +150,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 683",
   "titles_tesim": [
     "Anthologion",
@@ -164,21 +160,48 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Anthologion",
     "Anthologion for the whole year",
-    "Anthologion"
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
     "Anthologion",
-    "Section headings written with thuluth",
     "Anthologion for the whole year",
+    "Arabic",
     "Decoration on f. 26r",
-    "ark:/21198/z1gq8227",
     "Naskh",
     "Paper",
+    "Section headings written with thuluth",
+    "Sinai Arabic 683",
     "Thuluth",
-    "Arabic",
-    "Sinai Arabic 683"
+    "ark:/21198/z1gq8227"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1gq8227\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 683\",\"extent\":\"200 ff.\",\"weight\":\"1479.6 g\",\"dim\":\"313 x 224 x 55 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1533d\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1533d\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 683, Overtext (Naskh, Thuluth)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"thuluth\",\"label\":\"Thuluth\",\"writing_system\":\"Arabic\"}],\"note\":[\"Section headings written with thuluth\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zq0m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zq0m\",\"reconstruction\":false,\"label\":\"Anthologion for the whole year\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1mg6c\",\"pref_title\":\"Anthologion\",\"alt_title\":[\"Anthologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Anthologion for the whole year\",\"locus\":\"ff. 1v-200v\"}],\"parent\":[\"ark:/21198/s1533d\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":1601,\"not_after\":1700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decoration on f. 26r\"}],\"parent\":[\"ark:/21198/z1gq8227\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[189], p. 20\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279391482-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gq8227/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1gq8227\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 683\",\"extent\":\"200 ff.\",\"weight\":\"1479.6 g\",\"dim\":\"313 x 224 x 55 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1533d\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1533d\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 683, Overtext (Naskh, Thuluth)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"thuluth\",\"label\":\"Thuluth\",\"writing_system\":\"Arabic\"}],\"note\":[\"Section headings written with thuluth\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zq0m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zq0m\",\"reconstruction\":false,\"label\":\"Anthologion for the whole year\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1mg6c\",\"pref_title\":\"Anthologion\",\"alt_title\":[\"Anthologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Anthologion for the whole year\",\"locus\":\"ff. 1v-200v\"}],\"parent\":[\"ark:/21198/s1533d\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":\"1601\",\"not_after\":\"1700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decoration on f. 26r\"}],\"parent\":[\"ark:/21198/z1gq8227\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[189], p. 20\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279391482-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gq8227/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "id": "ark:/21198/z1gq8227",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gq8227/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 683",
+    "200 ff."
+  ],
+  "ot_date_tesim": [
+    "17th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "17th c. CE"
+  ]
 }

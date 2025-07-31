@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1qj921m",
   "ark_ssi": "ark:/21198/z1qj921m",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1qj921m%2Fcv40pc6w/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Estrangela"
   ],
@@ -33,7 +28,7 @@
     "Hymnals",
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     801,
     802,
     803,
@@ -143,7 +138,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -151,7 +146,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 274",
   "titles_tesim": [
     "Sticherarion"
@@ -160,21 +155,49 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Sticherarion"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
+    "Bordered text, 21r",
+    "Elements of Serto",
     "Estrangela",
-    "Sticherarion",
-    "Sinai Syriac 274",
-    "Paper",
-    "ark:/21198/z1qj921m",
-    "Minor line and geometric headpieces between ff.1v-47r, 81v",
     "Ff. 142-147 detached",
     "Last folio in Arabic of the 10th c.",
-    "Bordered text, 21r",
+    "Minor line and geometric headpieces between ff.1v-47r, 81v",
+    "Paper",
+    "Sinai Syriac 274",
+    "Sticherarion",
     "Syriac",
-    "Elements of Serto"
+    "ark:/21198/z1qj921m"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1qj921m\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 274\",\"extent\":\"154 ff.\",\"weight\":\"588.2 g\",\"dim\":\"174 x 141 x 61.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s15622\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s15622\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 274, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}],\"note\":[\"Elements of Serto\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zt11\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zt11\",\"reconstruction\":false,\"label\":\"Sticherarion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1ms4q\",\"pref_title\":\"Sticherarion\",\"alt_title\":[\"Sticherarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 3r-147v\"}],\"parent\":[\"ark:/21198/s15622\"]}}],\"assoc_date\":[{\"value\":\"9th c. CE\",\"iso\":{\"not_before\":801,\"not_after\":900},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor line and geometric headpieces between ff.1v-47r, 81v\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Bordered text, 21r\"}],\"parent\":[\"ark:/21198/z1qj921m\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Ff. 142-147 detached\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Last folio in Arabic of the 10th c.\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[264], p. 160\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1qj921m/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1qj921m%2Fcv40pc6w/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1qj921m\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 274\",\"extent\":\"154 ff.\",\"weight\":\"588.2 g\",\"dim\":\"174 x 141 x 61.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s15622\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s15622\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 274, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}],\"note\":[\"Elements of Serto\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zt11\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zt11\",\"reconstruction\":false,\"label\":\"Sticherarion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1ms4q\",\"pref_title\":\"Sticherarion\",\"alt_title\":[\"Sticherarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 3r-147v\"}],\"parent\":[\"ark:/21198/s15622\"]}}],\"assoc_date\":[{\"value\":\"9th c. CE\",\"iso\":{\"not_before\":\"0801\",\"not_after\":\"0900\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor line and geometric headpieces between ff.1v-47r, 81v\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Bordered text, 21r\"}],\"parent\":[\"ark:/21198/z1qj921m\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Ff. 142-147 detached\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Last folio in Arabic of the 10th c.\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[264], p. 160\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1qj921m/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1qj921m%2Fcv40pc6w/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1qj921m",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1qj921m%2Fcv40pc6w/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1qj921m/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 274",
+    "154 ff."
+  ],
+  "ot_date_tesim": [
+    "9th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "9th c. CE"
+  ]
 }

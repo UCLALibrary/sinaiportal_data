@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z13v0f52",
   "ark_ssi": "ark:/21198/z13v0f52",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz41bc/0,1022,6132,6132/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Palimpsest",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Palimpsest"
   ],
   "support_ssim": [
     "Parchment"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Greek minuscule"
   ],
@@ -35,7 +30,7 @@
   "ot_genre_ssim": [
     "Theological works"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -243,7 +238,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -256,7 +251,7 @@
   "uto_language_ssim": [
     "Greek"
   ],
-  "uto_date_isim": [
+  "uto_years_isim": [
     801,
     802,
     803,
@@ -416,23 +411,51 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Discourses on Asceticism"
+    "Discourses on Asceticism",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "The number 59 was omitted in the foliation sequence; f. 58 is foliated '58+59', with the following leaf foliated as number 60",
-    "Sinai Greek 446",
-    "The modern headband and footband have already broken because of the lack of flexibility in the binding",
-    "black",
-    "Greek minuscule",
-    "Parchment",
-    "Greek",
-    "Discourses on Asceticism",
     "A few large initials at the beginning of sections",
     "All leaves palimpsested, some stitched together from two separate leaves of parchment | The parchment varies in color, thickness, and quality, because the leaves were taken from several different original manuscripts; the leaves are irregular in size, since they were left untrimmed after binding",
-    "The original sewn book block (sewn on only three cords), and the original boards have been recently rebound with new headband and footband, the whole covered in a deep red polished calfskin of cheap quality, the inside of each board lined in modern paper, in contradistinction to Byzantine binding techniques; the metal post in the middle of the top board was retained, but no attempt was made to replicate the braided cord and loop that would have attached to this from the bottom board, providing the manuscript with a slight pressure when closed",
+    "Discourses on Asceticism",
     "Each quire was numbered in the center of the lower margin on the concluding verso and the following recto, using the letters of the Greek alphabet, to ensure proper order when the manuscript was bound",
-    "ark:/21198/z13v0f52"
+    "Greek",
+    "Greek minuscule",
+    "Parchment",
+    "Sinai Greek 446",
+    "The modern headband and footband have already broken because of the lack of flexibility in the binding",
+    "The number 59 was omitted in the foliation sequence; f. 58 is foliated '58+59', with the following leaf foliated as number 60",
+    "The original sewn book block (sewn on only three cords), and the original boards have been recently rebound with new headband and footband, the whole covered in a deep red polished calfskin of cheap quality, the inside of each board lined in modern paper, in contradistinction to Byzantine binding techniques; the metal post in the middle of the top board was retained, but no attempt was made to replicate the braided cord and loop that would have attached to this from the bottom board, providing the manuscript with a slight pressure when closed",
+    "ark:/21198/z13v0f52",
+    "black"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z13v0f52\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek 446\",\"extent\":\"204 ff.\",\"dim\":\"166 x 125 x 107 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"coll\":\"Quire 1: 1x8 (8), Quire 2: 1x4 (12), Quires 3 to 5: 3x8 (36), Quire 6: 1x6 (42), Quires 7 to 9: 3x8 (67; there is no number 59 in the foliation sequence), Quire 10: 1x10 (77), Quires 11 to 18: 7x8 (133), Quire 19: 1x6+1 (I140), Quires 20 to 25: 6x8 (188), Quire 26: 1x6+1+1 (196), Quire 27: 1x8 (204)\",\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"152 x 105 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s12p7v\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s12p7v\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek 446, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"A few large initials at the beginning of sections\"]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1w964\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1w964\",\"reconstruction\":false,\"label\":\"Discourses on Asceticism\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Discourses on Asceticism\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}]}}],\"parent\":[\"ark:/21198/s12p7v\"]}}],\"assoc_date\":[{\"value\":\"13th-14th c.  CE\",\"iso\":{\"not_before\":1201,\"not_after\":1400},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z13v0f52\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1js90\",\"label\":\"Greek Undertext: Blessing of the waters for Epiphany\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 21–58, 60–67, 136–139\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Mid 9th-mid 10th c.  CE\",\"iso\":{\"not_before\":850,\"not_after\":950},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1f060\",\"label\":\"Greek Undertext: Collection of liturgical hymns\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 68–135, 140–170, 171v–204\",\"script\":[\"Greek minuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"9th c.  CE\",\"iso\":{\"not_before\":801,\"not_after\":900},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1993q\",\"label\":\"Greek Undertext: John Chrysostom, Homilies on Genesis\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–20\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Mid 9th-mid 10th c.  CE\",\"iso\":{\"not_before\":850,\"not_after\":950},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"The number 59 was omitted in the foliation sequence; f. 58 is foliated '58+59', with the following leaf foliated as number 60\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"The original sewn book block (sewn on only three cords), and the original boards have been recently rebound with new headband and footband, the whole covered in a deep red polished calfskin of cheap quality, the inside of each board lined in modern paper, in contradistinction to Byzantine binding techniques; the metal post in the middle of the top board was retained, but no attempt was made to replicate the braided cord and loop that would have attached to this from the bottom board, providing the manuscript with a slight pressure when closed\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"The modern headband and footband have already broken because of the lack of flexibility in the binding\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"All leaves palimpsested, some stitched together from two separate leaves of parchment | The parchment varies in color, thickness, and quality, because the leaves were taken from several different original manuscripts; the leaves are irregular in size, since they were left untrimmed after binding\"},{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Each quire was numbered in the center of the lower margin on the concluding verso and the following recto, using the letters of the Greek alphabet, to ensure proper order when the manuscript was bound\"}],\"bib\":[{\"id\":\"55eae5e7-ad84-46af-a814-4f5524b2d09d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 108 \"},{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[670], p. 89\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13v0f52/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz41bc/0,1022,6132,6132/150,150/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z13v0f52\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek 446\",\"extent\":\"204 ff.\",\"dim\":\"166 x 125 x 107 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"coll\":\"Quire 1: 1x8 (8), Quire 2: 1x4 (12), Quires 3 to 5: 3x8 (36), Quire 6: 1x6 (42), Quires 7 to 9: 3x8 (67; there is no number 59 in the foliation sequence), Quire 10: 1x10 (77), Quires 11 to 18: 7x8 (133), Quire 19: 1x6+1 (I140), Quires 20 to 25: 6x8 (188), Quire 26: 1x6+1+1 (196), Quire 27: 1x8 (204)\",\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"152 x 105 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s12p7v\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s12p7v\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek 446, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"A few large initials at the beginning of sections\"]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1w964\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1w964\",\"reconstruction\":false,\"label\":\"Discourses on Asceticism\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Discourses on Asceticism\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}]}}],\"parent\":[\"ark:/21198/s12p7v\"]}}],\"assoc_date\":[{\"value\":\"13th-14th c.  CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1400\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z13v0f52\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1js90\",\"label\":\"Greek Undertext: Blessing of the waters for Epiphany\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 21–58, 60–67, 136–139\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Mid 9th-mid 10th c.  CE\",\"iso\":{\"not_before\":\"0850\",\"not_after\":\"0950\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1f060\",\"label\":\"Greek Undertext: Collection of liturgical hymns\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 68–135, 140–170, 171v–204\",\"script\":[\"Greek minuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"9th c.  CE\",\"iso\":{\"not_before\":\"0801\",\"not_after\":\"0900\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1993q\",\"label\":\"Greek Undertext: John Chrysostom, Homilies on Genesis\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–20\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Mid 9th-mid 10th c.  CE\",\"iso\":{\"not_before\":\"0850\",\"not_after\":\"0950\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"The number 59 was omitted in the foliation sequence; f. 58 is foliated '58+59', with the following leaf foliated as number 60\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"The original sewn book block (sewn on only three cords), and the original boards have been recently rebound with new headband and footband, the whole covered in a deep red polished calfskin of cheap quality, the inside of each board lined in modern paper, in contradistinction to Byzantine binding techniques; the metal post in the middle of the top board was retained, but no attempt was made to replicate the braided cord and loop that would have attached to this from the bottom board, providing the manuscript with a slight pressure when closed\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"The modern headband and footband have already broken because of the lack of flexibility in the binding\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"All leaves palimpsested, some stitched together from two separate leaves of parchment | The parchment varies in color, thickness, and quality, because the leaves were taken from several different original manuscripts; the leaves are irregular in size, since they were left untrimmed after binding\"},{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Each quire was numbered in the center of the lower margin on the concluding verso and the following recto, using the letters of the Greek alphabet, to ensure proper order when the manuscript was bound\"}],\"bib\":[{\"id\":\"55eae5e7-ad84-46af-a814-4f5524b2d09d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 108 \"},{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[670], p. 89\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13v0f52/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz41bc/0,1022,6132,6132/150,150/0/default.jpg\"}]}",
+  "id": "ark:/21198/z13v0f52",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz41bc/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13v0f52/manifest",
+  "header_index_tesim": [
+    "Sinai Greek 446",
+    "204 ff."
+  ],
+  "ot_date_tesim": [
+    "13th-14th c.  CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th-14th c.  CE"
+  ]
 }

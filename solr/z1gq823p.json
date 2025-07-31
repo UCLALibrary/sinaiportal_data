@@ -1,17 +1,11 @@
 {
-  "id": "ark:/21198/z1gq823p",
   "ark_ssi": "ark:/21198/z1gq823p",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gq823p%2Ff934z73s/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
+    "Decoration, Geometric",
     "Decoration, Zoomorphic",
-    "Headpiece(s)",
-    "Decoration, Geometric"
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -27,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -34,11 +29,11 @@
     "Syriac"
   ],
   "ot_genre_ssim": [
+    "Biblical texts",
     "Lectionaries",
-    "Liturgical texts",
-    "Biblical texts"
+    "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -148,7 +143,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -156,7 +151,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 216",
   "titles_tesim": [
     "Lectionary",
@@ -166,20 +161,48 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Lectionary",
     "Lectionary of Acts and Epistles"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
     "Flyleaves in Estrangela",
+    "Lectionary",
     "Lectionary of Acts and Epistles",
-    "ark:/21198/z1gq823p",
     "Melkite",
     "Paper",
-    "Zoomorphic decorations throughout, stylized bird figures, beginning f. 48v; geometric decorations throughout, beginning f. 124v | Geometric headpieces and minor headpieces throughout, beginning on f. 8r; repeating geometric pattern with tailends, f. 32r",
-    "Lectionary",
+    "Sinai Syriac 216",
     "Syriac",
-    "Sinai Syriac 216"
+    "Zoomorphic decorations throughout, stylized bird figures, beginning f. 48v; geometric decorations throughout, beginning f. 124v | Geometric headpieces and minor headpieces throughout, beginning on f. 8r; repeating geometric pattern with tailends, f. 32r",
+    "ark:/21198/z1gq823p"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1gq823p\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 216\",\"extent\":\"151 ff.\",\"weight\":\"1302.0 g\",\"dim\":\"241 x 211 x 59 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1r90m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1r90m\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 216, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1jw91\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1jw91\",\"reconstruction\":false,\"label\":\"Lectionary of Acts and Epistles\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1088g\",\"pref_title\":\"Lectionary\",\"alt_title\":[\"Lectionary\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Lectionary of Acts and Epistles\",\"locus\":\"ff. 3r-148r\"}],\"parent\":[\"ark:/21198/s1r90m\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-zoomorph\",\"label\":\"Decoration, Zoomorphic\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Zoomorphic decorations throughout, stylized bird figures, beginning f. 48v; geometric decorations throughout, beginning f. 124v | Geometric headpieces and minor headpieces throughout, beginning on f. 8r; repeating geometric pattern with tailends, f. 32r\"}],\"parent\":[\"ark:/21198/z1gq823p\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Flyleaves in Estrangela\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[103], p. 155\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gq823p/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gq823p%2Ff934z73s/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1gq823p\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 216\",\"extent\":\"151 ff.\",\"weight\":\"1302.0 g\",\"dim\":\"241 x 211 x 59 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1r90m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1r90m\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 216, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1jw91\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1jw91\",\"reconstruction\":false,\"label\":\"Lectionary of Acts and Epistles\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1088g\",\"pref_title\":\"Lectionary\",\"alt_title\":[\"Lectionary\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Lectionary of Acts and Epistles\",\"locus\":\"ff. 3r-148r\"}],\"parent\":[\"ark:/21198/s1r90m\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-zoomorph\",\"label\":\"Decoration, Zoomorphic\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Zoomorphic decorations throughout, stylized bird figures, beginning f. 48v; geometric decorations throughout, beginning f. 124v | Geometric headpieces and minor headpieces throughout, beginning on f. 8r; repeating geometric pattern with tailends, f. 32r\"}],\"parent\":[\"ark:/21198/z1gq823p\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Flyleaves in Estrangela\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[103], p. 155\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gq823p/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gq823p%2Ff934z73s/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1gq823p",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1gq823p%2Ff934z73s/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gq823p/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 216",
+    "151 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

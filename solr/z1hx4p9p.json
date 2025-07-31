@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1hx4p9p",
   "ark_ssi": "ark:/21198/z1hx4p9p",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1hx4p9p%2F7t99mn2k/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Quire(s)",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -30,12 +25,12 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Lectionaries",
-    "Liturgical texts",
     "Biblical texts",
-    "Gospel books"
+    "Gospel books",
+    "Lectionaries",
+    "Liturgical texts"
   ],
-  "ot_date_isim": [],
+  "ot_years_isim": [],
   "ot_language_ssim": [
     "Arabic"
   ],
@@ -44,7 +39,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -52,7 +47,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF M 44",
   "titles_tesim": [
     "Evangelion"
@@ -61,16 +56,40 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Evangelion"
+    "Evangelion",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Naskh",
-    "Sinai Arabic NF M 44",
     "Arabic",
-    "Parchment",
     "Evangelion",
+    "Naskh",
+    "Parchment",
+    "Sinai Arabic NF M 44",
     "ark:/21198/z1hx4p9p"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1hx4p9p\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 44\",\"extent\":\"16 ff.\",\"weight\":\"113.6 g\",\"dim\":\"124 x 176 x 19.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1wd0w\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1wd0w\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 44, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1q07v\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1q07v\",\"reconstruction\":false,\"label\":\"Evangelion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s19p4w\",\"pref_title\":\"Evangelion\",\"alt_title\":[\"Evangelion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"locus\":\"ff. 1r-16v\"}],\"parent\":[\"ark:/21198/s1wd0w\"]}}],\"parent\":[\"ark:/21198/z1hx4p9p\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 32; ٣١\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1hx4p9p/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1hx4p9p%2F7t99mn2k/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1hx4p9p\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 44\",\"extent\":\"16 ff.\",\"weight\":\"113.6 g\",\"dim\":\"124 x 176 x 19.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1wd0w\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1wd0w\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 44, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1q07v\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1q07v\",\"reconstruction\":false,\"label\":\"Evangelion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s19p4w\",\"pref_title\":\"Evangelion\",\"alt_title\":[\"Evangelion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"locus\":\"ff. 1r-16v\"}],\"parent\":[\"ark:/21198/s1wd0w\"]}}],\"parent\":[\"ark:/21198/z1hx4p9p\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 32; ٣١\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1hx4p9p/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1hx4p9p%2F7t99mn2k/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1hx4p9p",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1hx4p9p%2F7t99mn2k/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1hx4p9p/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic NF M 44",
+    "16 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": []
 }

@@ -1,21 +1,15 @@
 {
-  "id": "ark:/21198/z1bg46rp",
   "ark_ssi": "ark:/21198/z1bg46rp",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bg46rp%2Fb783rx80/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
     "Border(s)",
-    "Decoration, Architectural",
     "Border(s), Decorative",
-    "Headpiece(s)",
-    "Decoration, Geometric",
+    "Decoration, Architectural",
     "Decoration, Calligraphic",
-    "Decoration, Vegetative"
+    "Decoration, Geometric",
+    "Decoration, Vegetative",
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -31,6 +25,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -41,7 +36,7 @@
     "Hymnals",
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -151,7 +146,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -159,7 +154,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 118",
   "titles_tesim": [
     "Sticherarion"
@@ -168,18 +163,46 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Sticherarion"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Sinai Syriac 118",
-    "Ornate arched headpiece with volutes and vine motif and ascending cross, f. 9r | Geometric and vegetative headpieces throughout",
-    "ark:/21198/z1bg46rp",
-    "Sticherarion",
-    "Paper",
-    "Melkite",
     "Bordered calligraphy, ff.54r, 70v, 135v | Bordered text, f.308r",
-    "Syriac"
+    "Melkite",
+    "Ornate arched headpiece with volutes and vine motif and ascending cross, f. 9r | Geometric and vegetative headpieces throughout",
+    "Paper",
+    "Sinai Syriac 118",
+    "Sticherarion",
+    "Syriac",
+    "ark:/21198/z1bg46rp"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1bg46rp\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 118\",\"extent\":\"336 ff.\",\"weight\":\"1128.6 g\",\"dim\":\"185 x 151 x 86.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1m322\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1m322\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 118, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1dm3r\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1dm3r\",\"reconstruction\":false,\"label\":\"Sticherarion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1ms4q\",\"pref_title\":\"Sticherarion\",\"alt_title\":[\"Sticherarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 1r-334v\"}],\"parent\":[\"ark:/21198/s1m322\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"border\",\"label\":\"Border(s)\"},{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"},{\"id\":\"deco-architectural\",\"label\":\"Decoration, Architectural\"},{\"id\":\"deco-calligraphic\",\"label\":\"Decoration, Calligraphic\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate arched headpiece with volutes and vine motif and ascending cross, f. 9r | Geometric and vegetative headpieces throughout\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Bordered calligraphy, ff.54r, 70v, 135v | Bordered text, f.308r\"}],\"parent\":[\"ark:/21198/z1bg46rp\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[258], p. 160\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917150205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bg46rp/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bg46rp%2Fb783rx80/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1bg46rp\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 118\",\"extent\":\"336 ff.\",\"weight\":\"1128.6 g\",\"dim\":\"185 x 151 x 86.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1m322\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1m322\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 118, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1dm3r\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1dm3r\",\"reconstruction\":false,\"label\":\"Sticherarion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1ms4q\",\"pref_title\":\"Sticherarion\",\"alt_title\":[\"Sticherarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 1r-334v\"}],\"parent\":[\"ark:/21198/s1m322\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"border\",\"label\":\"Border(s)\"},{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"},{\"id\":\"deco-architectural\",\"label\":\"Decoration, Architectural\"},{\"id\":\"deco-calligraphic\",\"label\":\"Decoration, Calligraphic\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate arched headpiece with volutes and vine motif and ascending cross, f. 9r | Geometric and vegetative headpieces throughout\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Bordered calligraphy, ff.54r, 70v, 135v | Bordered text, f.308r\"}],\"parent\":[\"ark:/21198/z1bg46rp\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[258], p. 160\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917150205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bg46rp/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bg46rp%2Fb783rx80/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1bg46rp",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bg46rp%2Fb783rx80/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bg46rp/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 118",
+    "336 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

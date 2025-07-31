@@ -1,10 +1,5 @@
 {
-  "id": "ark:/21198/z1863krg",
   "ark_ssi": "ark:/21198/z1863krg",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -24,6 +19,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -33,7 +29,7 @@
   "ot_genre_ssim": [
     "Theological works"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -143,7 +139,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -151,12 +147,12 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 569",
   "titles_tesim": [
+    "Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs",
     "Pandektēs",
-    "The Great Pandectes by St. Nicon",
-    "Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs"
+    "The Great Pandectes by St. Nicon"
   ],
   "names_tesim": [
     "Nikon of the Black Mountain",
@@ -165,27 +161,53 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Beginning with discourse 2 and ending with discourse 63",
+    "Item 1",
+    "Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs",
     "Pandektēs",
-    "The Great Pandectes by St. Nicon",
-    "Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs"
+    "The Great Pandectes by St. Nicon"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Sinai Arabic 569",
-    "ark:/21198/z1863krg",
-    "Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs",
-    "Nikon of the Black Mountain, ca. 1025-ca. 1100",
+    "Arabic",
+    "Beginning with discourse 2 and ending with discourse 63",
+    "Binding lacking",
     "Double-lined chevron marking new sections, throughout",
-    "Pandektēs",
-    "The Great Pandectes by St. Nicon",
     "Naskh",
     "Nikon of the Black Mountain",
-    "Arabic",
+    "Nikon of the Black Mountain, ca. 1025-ca. 1100",
+    "Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs",
+    "Pandektēs",
     "Paper",
-    "Binding lacking",
-    "Beginning with discourse 2 and ending with discourse 63",
-    "Rodent damage affecting text on ff. 1–15"
+    "Rodent damage affecting text on ff. 1–15",
+    "Sinai Arabic 569",
+    "The Great Pandectes by St. Nicon",
+    "ark:/21198/z1863krg"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1863krg\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 569\",\"extent\":\"460 ff.\",\"weight\":\"3743.7 g\",\"dim\":\"323 x 242 x 98 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1q61n\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1q61n\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 569, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1ht0m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1ht0m\",\"reconstruction\":false,\"label\":\"The Great Pandectes by St. Nicon\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1z885\",\"pref_title\":\"Pandektēs\",\"alt_title\":[\"Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs\"],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}],\"creator\":[{\"id\":\"ark:/21198/s1qc7n\",\"agent_record\":{\"ark\":\"ark:/21198/s1qc7n\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Nikon of the Black Mountain\",\"alt_name\":[\"Nikon of the Black Mountain, ca. 1025-ca. 1100\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"ca. 1025 CE-ca. 1100 CE\",\"iso\":{\"not_before\":1010,\"not_after\":1115}},\"rel_con\":[{\"label\":\"Nikon, Chernogoret︠s︡, -1088\",\"uri\":\"http://viaf.org/viaf/315521737\",\"source\":\"VIAF\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Nikon, Chernogoret︠s︡, -1088. | Pandects\",\"uri\":\"http://viaf.org/viaf/186277094\",\"source\":\"VIAF\"}]},\"alt_title\":\"The Great Pandectes by St. Nicon\",\"locus\":\"ff. 1r-460v\",\"note\":[\"Beginning with discourse 2 and ending with discourse 63\"]}],\"parent\":[\"ark:/21198/s1q61n\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Double-lined chevron marking new sections, throughout\"}],\"parent\":[\"ark:/21198/z1863krg\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Binding lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Rodent damage affecting text on ff. 1–15\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[436], p. 35\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390581-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1863krg/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1863krg\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 569\",\"extent\":\"460 ff.\",\"weight\":\"3743.7 g\",\"dim\":\"323 x 242 x 98 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1q61n\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1q61n\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 569, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1ht0m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1ht0m\",\"reconstruction\":false,\"label\":\"The Great Pandectes by St. Nicon\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1z885\",\"pref_title\":\"Pandektēs\",\"alt_title\":[\"Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs\"],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}],\"creator\":[{\"id\":\"ark:/21198/s1qc7n\",\"agent_record\":{\"ark\":\"ark:/21198/s1qc7n\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Nikon of the Black Mountain\",\"alt_name\":[\"Nikon of the Black Mountain, ca. 1025-ca. 1100\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"ca. 1025 CE-ca. 1100 CE\",\"iso\":{\"not_before\":\"1010\",\"not_after\":\"1115\"}},\"rel_con\":[{\"label\":\"Nikon, Chernogoret︠s︡, -1088\",\"uri\":\"http://viaf.org/viaf/315521737\",\"source\":\"VIAF\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Nikon, Chernogoret︠s︡, -1088. | Pandects\",\"uri\":\"http://viaf.org/viaf/186277094\",\"source\":\"VIAF\"}]},\"alt_title\":\"The Great Pandectes by St. Nicon\",\"locus\":\"ff. 1r-460v\",\"note\":[\"Beginning with discourse 2 and ending with discourse 63\"]}],\"parent\":[\"ark:/21198/s1q61n\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Double-lined chevron marking new sections, throughout\"}],\"parent\":[\"ark:/21198/z1863krg\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Binding lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Rodent damage affecting text on ff. 1–15\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[436], p. 35\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390581-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1863krg/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "id": "ark:/21198/z1863krg",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1863krg/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 569",
+    "460 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

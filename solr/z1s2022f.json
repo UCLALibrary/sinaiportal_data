@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1s2022f",
   "ark_ssi": "ark:/21198/z1s2022f",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1s2022f%2F4218n41s/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -25,6 +19,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -34,7 +29,7 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_date_isim": [],
+  "ot_years_isim": [],
   "ot_language_ssim": [
     "Arabic"
   ],
@@ -43,7 +38,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -51,7 +46,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF X 29",
   "titles_tesim": [
     "Bible",
@@ -62,18 +57,42 @@
   "places_tesim": [],
   "contents_tesim": [
     "Bible",
-    "Inspired sayings from the Old and New Testament"
+    "Inspired sayings from the Old and New Testament",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Inspired sayings from the Old and New Testament",
-    "Decorative borders (f. 22r)",
-    "Naskh",
-    "Sinai Arabic NF X 29",
     "Arabic",
+    "Bible",
+    "Decorative borders (f. 22r)",
+    "Inspired sayings from the Old and New Testament",
+    "Naskh",
     "Paper",
-    "ark:/21198/z1s2022f",
-    "Bible"
+    "Sinai Arabic NF X 29",
+    "ark:/21198/z1s2022f"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1s2022f\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF X 29\",\"extent\":\"37 ff.\",\"weight\":\"100.3 g\",\"dim\":\"184 x 136 x 15.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s14s64\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s14s64\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF X 29, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zd3n\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zd3n\",\"reconstruction\":false,\"label\":\"Inspired sayings from the Old and New Testament\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1q59b\",\"pref_title\":\"Bible\",\"alt_title\":[\"Bible\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Inspired sayings from the Old and New Testament\",\"locus\":\"ff. 1r-37v\"}],\"parent\":[\"ark:/21198/s14s64\"]}}],\"features\":[{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorative borders (f. 22r)\"}],\"parent\":[\"ark:/21198/z1s2022f\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 45; ٤٨\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1s2022f/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1s2022f%2F4218n41s/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1s2022f\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF X 29\",\"extent\":\"37 ff.\",\"weight\":\"100.3 g\",\"dim\":\"184 x 136 x 15.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s14s64\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s14s64\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF X 29, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zd3n\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zd3n\",\"reconstruction\":false,\"label\":\"Inspired sayings from the Old and New Testament\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1q59b\",\"pref_title\":\"Bible\",\"alt_title\":[\"Bible\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Inspired sayings from the Old and New Testament\",\"locus\":\"ff. 1r-37v\"}],\"parent\":[\"ark:/21198/s14s64\"]}}],\"features\":[{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorative borders (f. 22r)\"}],\"parent\":[\"ark:/21198/z1s2022f\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 45; ٤٨\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1s2022f/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1s2022f%2F4218n41s/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1s2022f",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1s2022f%2F4218n41s/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1s2022f/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic NF X 29",
+    "37 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": []
 }

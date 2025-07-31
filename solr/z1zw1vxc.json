@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z1zw1vxc",
   "ark_ssi": "ark:/21198/z1zw1vxc",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1474bdk/1022,0,6132,6132/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Folio Fragment(s)",
   "features_ssim": [
-    "Palimpsest",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Palimpsest"
   ],
   "support_ssim": [
     "Parchment"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Estrangela"
   ],
@@ -35,7 +30,7 @@
   "ot_genre_ssim": [
     "Hagiographies"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     801,
     802,
     803,
@@ -243,7 +238,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -255,7 +250,18 @@
   "uto_language_ssim": [
     "Syriac"
   ],
-  "uto_date_isim": [
+  "uto_years_isim": [
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
     512,
     513,
     514,
@@ -344,18 +350,7 @@
     597,
     598,
     599,
-    600,
-    501,
-    502,
-    503,
-    504,
-    505,
-    506,
-    507,
-    508,
-    509,
-    510,
-    511
+    600
   ],
   "shelfmark_ssi": "Sinai Syriac NF frag 46",
   "titles_tesim": [
@@ -365,20 +360,51 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Life of St. Mary of Egypt"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Fragment of single folio, poor condition",
-    "black",
-    "Sinai Syriac NF frag 46",
-    "ark:/21198/z1zw1vxc",
-    "Parchment",
     "Careful, late Estrangela, with an occasional Serto alaph at the end of a line",
+    "Disjecta Membra",
     "Estrangela",
-    "Not foliated",
+    "Fragment of single folio, poor condition",
     "Life of St. Mary of Egypt",
-    "Syriac"
+    "Not foliated",
+    "Originally belonged together with Syriac NF M 57",
+    "Parchment",
+    "Sinai Syriac NF M 57",
+    "Sinai Syriac NF frag 46",
+    "Syriac",
+    "ark:/21198/z1zw1vxc",
+    "black"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1zw1vxc\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF frag 46\",\"extent\":\"1 ff.\",\"dim\":\"73 x 132 mm\",\"state\":{\"id\":\"folio-fragment\",\"label\":\"Folio Fragment(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"73 x 132 mm (representative folio)\",\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Originally belonged together with Syriac NF M 57\",\"mss\":[{\"label\":\"Sinai Syriac NF M 57\",\"id\":\"ark:/21198/z15f22gs\"}]}],\"ot_layer\":[{\"id\":\"ark:/21198/s18039\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s18039\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF frag 46, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}],\"note\":[\"Careful, late Estrangela, with an occasional Serto alaph at the end of a line\"]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s12m3n\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s12m3n\",\"reconstruction\":false,\"label\":\"Life of St. Mary of Egypt\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Life of St. Mary of Egypt\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]}}],\"parent\":[\"ark:/21198/s18039\"]}}],\"assoc_date\":[{\"value\":\"9th-10th c.  CE\",\"iso\":{\"not_before\":801,\"not_after\":1000},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1zw1vxc\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s15w6g\",\"label\":\"Syriac Undertext: Paschal Calendar\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":501,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Fragment of single folio, poor condition\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 44-47, 119-121, pl. 274-275 \"},{\"id\":\"b1a3a9c9-ed90-440a-9e37-fade7a17796d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 192-193, 202\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zw1vxc/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1474bdk/1022,0,6132,6132/150,150/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1zw1vxc\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF frag 46\",\"extent\":\"1 ff.\",\"dim\":\"73 x 132 mm\",\"state\":{\"id\":\"folio-fragment\",\"label\":\"Folio Fragment(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"73 x 132 mm (representative folio)\",\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Originally belonged together with Syriac NF M 57\",\"mss\":[{\"label\":\"Sinai Syriac NF M 57\",\"id\":\"ark:/21198/z15f22gs\"}]}],\"ot_layer\":[{\"id\":\"ark:/21198/s18039\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s18039\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF frag 46, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}],\"note\":[\"Careful, late Estrangela, with an occasional Serto alaph at the end of a line\"]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s12m3n\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s12m3n\",\"reconstruction\":false,\"label\":\"Life of St. Mary of Egypt\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Life of St. Mary of Egypt\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]}}],\"parent\":[\"ark:/21198/s18039\"]}}],\"assoc_date\":[{\"value\":\"9th-10th c.  CE\",\"iso\":{\"not_before\":\"0801\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1zw1vxc\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s15w6g\",\"label\":\"Syriac Undertext: Paschal Calendar\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"],\"orig_date\":[{\"value\":\"6th c.  CE\",\"iso\":{\"not_before\":\"0501\",\"not_after\":\"0600\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Fragment of single folio, poor condition\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 44-47, 119-121, pl. 274-275 \"},{\"id\":\"b1a3a9c9-ed90-440a-9e37-fade7a17796d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 192-193, 202\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zw1vxc/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1474bdk/1022,0,6132,6132/150,150/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1zw1vxc",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1474bdk/1022,0,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zw1vxc/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac NF frag 46",
+    "1 ff."
+  ],
+  "ot_date_tesim": [
+    "9th-10th c.  CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "9th-10th c.  CE"
+  ]
 }
