@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z13r2bkx",
   "ark_ssi": "ark:/21198/z13r2bkx",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13r2bkx%2F4d46xc1d/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -25,6 +19,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -34,7 +29,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -144,7 +139,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -152,7 +147,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 192",
   "titles_tesim": [
     "Horologion"
@@ -161,17 +156,45 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Horologion"
+    "Horologion",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "ark:/21198/z13r2bkx",
-    "Naskh",
-    "Horologion",
     "Arabic",
+    "Headpieces on ff. 46v, 69v",
+    "Horologion",
+    "Naskh",
     "Paper",
     "Sinai Arabic 192",
-    "Headpieces on ff. 46v, 69v"
+    "ark:/21198/z13r2bkx"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z13r2bkx\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 192\",\"extent\":\"130 ff.\",\"weight\":\"276.8 g\",\"dim\":\"145 x 120 x 39.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1j60q\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1j60q\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 192, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1bp93\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1bp93\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-130v\"}],\"parent\":[\"ark:/21198/s1j60q\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Headpieces on ff. 46v, 69v\"}],\"parent\":[\"ark:/21198/z13r2bkx\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[265], p. 24\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916480205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz13r2bkx/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13r2bkx%2F4d46xc1d/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z13r2bkx\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 192\",\"extent\":\"130 ff.\",\"weight\":\"276.8 g\",\"dim\":\"145 x 120 x 39.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1j60q\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1j60q\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 192, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1bp93\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1bp93\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-130v\"}],\"parent\":[\"ark:/21198/s1j60q\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Headpieces on ff. 46v, 69v\"}],\"parent\":[\"ark:/21198/z13r2bkx\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[265], p. 24\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916480205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz13r2bkx/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13r2bkx%2F4d46xc1d/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z13r2bkx",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13r2bkx%2F4d46xc1d/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz13r2bkx/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 192",
+    "130 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

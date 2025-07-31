@@ -1,10 +1,5 @@
 {
-  "id": "ark:/21198/z1c54q8t",
   "ark_ssi": "ark:/21198/z1c54q8t",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -24,6 +19,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -31,10 +27,10 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Liturgical texts",
-    "Hagiographies"
+    "Hagiographies",
+    "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -144,7 +140,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -152,11 +148,11 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 401",
   "titles_tesim": [
-    "Menologion. Lives of Saints for the month of Kanun II (January)",
-    "Menologion"
+    "Menologion",
+    "Menologion. Lives of Saints for the month of Kanun II (January)"
   ],
   "names_tesim": [],
   "exerpts_tesim": [
@@ -164,26 +160,52 @@
   ],
   "places_tesim": [],
   "contents_tesim": [
-    "Menologion. Lives of Saints for the month of Kanun II (January), beginning on the 1st (same as Codex 160), and ending on the 16th with the death of Xenophon and his wife in the city of Ernes (Homs)",
+    "Item 1",
+    "Menologion",
     "Menologion. Lives of Saints for the month of Kanun II (January)",
-    "Menologion. For the month of Kanun II (January)",
-    "نبتدي علیٰ إسم الله و معونته نكتب",
-    "Menologion"
+    "نبتدي علیٰ إسم الله و معونته نكتب"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Decorative border with cross motif on inside of front board",
-    "Rodent damage affecting text on ff. 229–back board inside",
-    "Menologion. For the month of Kanun II (January)",
-    "Reader inscriptions, front board inside, f. 271v",
-    "Menologion",
-    "ark:/21198/z1c54q8t",
-    "Naskh",
-    "Menologion. Lives of Saints for the month of Kanun II (January), beginning on the 1st (same as Codex 160), and ending on the 16th with the death of Xenophon and his wife in the city of Ernes (Homs)",
     "Arabic",
+    "Decorative border with cross motif on inside of front board",
+    "Menologion",
+    "Menologion. For the month of Kanun II (January)",
+    "Menologion. Lives of Saints for the month of Kanun II (January)",
+    "Menologion. Lives of Saints for the month of Kanun II (January), beginning on the 1st (same as Codex 160), and ending on the 16th with the death of Xenophon and his wife in the city of Ernes (Homs)",
+    "Naskh",
     "Paper",
-    "نبتدي علیٰ إسم الله و معونته نكتب",
-    "Sinai Arabic 401"
+    "Reader inscriptions, front board inside, f. 271v",
+    "Rodent damage affecting text on ff. 229–back board inside",
+    "Sinai Arabic 401",
+    "ark:/21198/z1c54q8t",
+    "نبتدي علیٰ إسم الله و معونته نكتب"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1c54q8t\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 401\",\"extent\":\"273 ff.\",\"weight\":\"3814.6 g\",\"dim\":\"365 x 277 x 70 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"border-deco\",\"label\":\"Border(s)\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s11895\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s11895\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 401, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1ts9g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1ts9g\",\"reconstruction\":false,\"label\":\"Menologion. For the month of Kanun II (January)\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion. Lives of Saints for the month of Kanun II (January)\",\"locus\":\"ff. 1v-271v\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"locus\":\"f. 1v\",\"as_written\":\"نبتدي علیٰ إسم الله و معونته نكتب\"}],\"note\":[\"Menologion. Lives of Saints for the month of Kanun II (January), beginning on the 1st (same as Codex 160), and ending on the 16th with the death of Xenophon and his wife in the city of Ernes (Homs)\"]}],\"parent\":[\"ark:/21198/s11895\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1c54q8t\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Reader inscriptions, front board inside, f. 271v\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Rodent damage affecting text on ff. 229–back board inside\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorative border with cross motif on inside of front board\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[161], p. 18\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279389931-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c54q8t/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1c54q8t\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 401\",\"extent\":\"273 ff.\",\"weight\":\"3814.6 g\",\"dim\":\"365 x 277 x 70 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"border-deco\",\"label\":\"Border(s)\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s11895\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s11895\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 401, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1ts9g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1ts9g\",\"reconstruction\":false,\"label\":\"Menologion. For the month of Kanun II (January)\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion. Lives of Saints for the month of Kanun II (January)\",\"locus\":\"ff. 1v-271v\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"locus\":\"f. 1v\",\"as_written\":\"نبتدي علیٰ إسم الله و معونته نكتب\"}],\"note\":[\"Menologion. Lives of Saints for the month of Kanun II (January), beginning on the 1st (same as Codex 160), and ending on the 16th with the death of Xenophon and his wife in the city of Ernes (Homs)\"]}],\"parent\":[\"ark:/21198/s11895\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1c54q8t\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Reader inscriptions, front board inside, f. 271v\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Rodent damage affecting text on ff. 229–back board inside\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorative border with cross motif on inside of front board\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[161], p. 18\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279389931-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c54q8t/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "id": "ark:/21198/z1c54q8t",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c54q8t/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 401",
+    "273 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

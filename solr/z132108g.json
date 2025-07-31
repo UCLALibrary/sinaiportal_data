@@ -1,20 +1,15 @@
 {
-  "id": "ark:/21198/z132108g",
   "ark_ssi": "ark:/21198/z132108g",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Decoration, Zoomorphic",
-    "Initial(s), Decorated",
     "Decoration, Anthropomorphic",
-    "Illustration(s)",
-    "Headpiece(s)",
+    "Decoration, Full-page",
     "Decoration, Vegetative",
-    "Decoration, Full-page"
+    "Decoration, Zoomorphic",
+    "Headpiece(s)",
+    "Illustration(s)",
+    "Initial(s), Decorated"
   ],
   "support_ssim": [
     "Paper"
@@ -30,18 +25,19 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
-    "Naskh",
-    "Greek minuscule"
+    "Greek minuscule",
+    "Naskh"
   ],
   "ot_writing_system_ssim": [
-    "Greek",
-    "Arabic"
+    "Arabic",
+    "Greek"
   ],
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -144,15 +140,15 @@
     1300
   ],
   "ot_language_ssim": [
-    "Greek",
-    "Arabic"
+    "Arabic",
+    "Greek"
   ],
   "ot_works_ssim": [
     "Typikon"
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -160,7 +156,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 265",
   "titles_tesim": [
     "Typikon"
@@ -169,22 +165,49 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Typikon"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Typikon",
-    "Ff. 161r-192v Greek text",
-    "Manicule emerging from a decorated initial, f. 175r",
-    "Greek minuscule",
-    "Only a fragment of f. 150 remains",
-    "Greek",
-    "ark:/21198/z132108g",
-    "Ornate headpiece on f. 190v, interlace with leaves, elevated cross | Headpieces on f. 1r, black volutes and a red outline; f. 56v, with red vines and geometric motif; f. 61r, with fleur de lis and circles; ff. 86r, 93r, 143r, 146v, with knotwork motif; f. 126v, arrow motif; f.131r, volutes; f. 164r, knotwork with fleur de lis | Minor geometric and vegetative headpieces throughout, beginning on f. 7r | Zoomorphic, geometric, and vegetative decorations on f. 140r, small knot; f. 184v, red fish; ff. 188r, 189r, red vines | Decorated Greek initials throughout ff. 161r-190r | Illustration on f. 163r, bowing figure, red with green background, enclosed by a decorated red circle | llustration of a face in a decorated initial, f. 190v | Full page illustration in red ink on f. 191v, robed figure with nimbus ascending above border and decorated cross outside of border; f. 192r, red and black ink of John the Baptist holding a scroll that reads 'behold the Lamb of God', hand of God, vegetative motifs, border, Greek text",
-    "Naskh",
-    "Paper",
     "Arabic",
-    "Sinai Arabic 265"
+    "Ff. 161r-192v Greek text",
+    "Greek",
+    "Greek minuscule",
+    "Manicule emerging from a decorated initial, f. 175r",
+    "Naskh",
+    "Only a fragment of f. 150 remains",
+    "Ornate headpiece on f. 190v, interlace with leaves, elevated cross | Headpieces on f. 1r, black volutes and a red outline; f. 56v, with red vines and geometric motif; f. 61r, with fleur de lis and circles; ff. 86r, 93r, 143r, 146v, with knotwork motif; f. 126v, arrow motif; f.131r, volutes; f. 164r, knotwork with fleur de lis | Minor geometric and vegetative headpieces throughout, beginning on f. 7r | Zoomorphic, geometric, and vegetative decorations on f. 140r, small knot; f. 184v, red fish; ff. 188r, 189r, red vines | Decorated Greek initials throughout ff. 161r-190r | Illustration on f. 163r, bowing figure, red with green background, enclosed by a decorated red circle | llustration of a face in a decorated initial, f. 190v | Full page illustration in red ink on f. 191v, robed figure with nimbus ascending above border and decorated cross outside of border; f. 192r, red and black ink of John the Baptist holding a scroll that reads 'behold the Lamb of God', hand of God, vegetative motifs, border, Greek text",
+    "Paper",
+    "Sinai Arabic 265",
+    "Typikon",
+    "ark:/21198/z132108g"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z132108g\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 265\",\"extent\":\"192 ff.\",\"weight\":\"790.1 g\",\"dim\":\"189 x 133 x 62 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1nk6q\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1nk6q\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 265, Overtext (Naskh, Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1g650\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1g650\",\"reconstruction\":false,\"label\":\"Typikon\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1qk5z\",\"pref_title\":\"Typikon\",\"alt_title\":[\"Typikon\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-160r\"}],\"parent\":[\"ark:/21198/s1nk6q\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"illustration\",\"label\":\"Illustration(s)\"},{\"id\":\"deco-zoomorph\",\"label\":\"Decoration, Zoomorphic\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"deco-anthropomorph\",\"label\":\"Decoration, Anthropomorphic\"},{\"id\":\"deco-full-page\",\"label\":\"Decoration, Full-page\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Ff. 161r-192v Greek text\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate headpiece on f. 190v, interlace with leaves, elevated cross | Headpieces on f. 1r, black volutes and a red outline; f. 56v, with red vines and geometric motif; f. 61r, with fleur de lis and circles; ff. 86r, 93r, 143r, 146v, with knotwork motif; f. 126v, arrow motif; f.131r, volutes; f. 164r, knotwork with fleur de lis | Minor geometric and vegetative headpieces throughout, beginning on f. 7r | Zoomorphic, geometric, and vegetative decorations on f. 140r, small knot; f. 184v, red fish; ff. 188r, 189r, red vines | Decorated Greek initials throughout ff. 161r-190r | Illustration on f. 163r, bowing figure, red with green background, enclosed by a decorated red circle | llustration of a face in a decorated initial, f. 190v | Full page illustration in red ink on f. 191v, robed figure with nimbus ascending above border and decorated cross outside of border; f. 192r, red and black ink of John the Baptist holding a scroll that reads 'behold the Lamb of God', hand of God, vegetative motifs, border, Greek text\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Manicule emerging from a decorated initial, f. 175r\"}],\"parent\":[\"ark:/21198/z132108g\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Only a fragment of f. 150 remains\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[152], p. 18\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714160205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz132108g/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z132108g\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 265\",\"extent\":\"192 ff.\",\"weight\":\"790.1 g\",\"dim\":\"189 x 133 x 62 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1nk6q\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1nk6q\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 265, Overtext (Naskh, Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1g650\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1g650\",\"reconstruction\":false,\"label\":\"Typikon\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1qk5z\",\"pref_title\":\"Typikon\",\"alt_title\":[\"Typikon\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-160r\"}],\"parent\":[\"ark:/21198/s1nk6q\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"illustration\",\"label\":\"Illustration(s)\"},{\"id\":\"deco-zoomorph\",\"label\":\"Decoration, Zoomorphic\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"deco-anthropomorph\",\"label\":\"Decoration, Anthropomorphic\"},{\"id\":\"deco-full-page\",\"label\":\"Decoration, Full-page\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Ff. 161r-192v Greek text\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate headpiece on f. 190v, interlace with leaves, elevated cross | Headpieces on f. 1r, black volutes and a red outline; f. 56v, with red vines and geometric motif; f. 61r, with fleur de lis and circles; ff. 86r, 93r, 143r, 146v, with knotwork motif; f. 126v, arrow motif; f.131r, volutes; f. 164r, knotwork with fleur de lis | Minor geometric and vegetative headpieces throughout, beginning on f. 7r | Zoomorphic, geometric, and vegetative decorations on f. 140r, small knot; f. 184v, red fish; ff. 188r, 189r, red vines | Decorated Greek initials throughout ff. 161r-190r | Illustration on f. 163r, bowing figure, red with green background, enclosed by a decorated red circle | llustration of a face in a decorated initial, f. 190v | Full page illustration in red ink on f. 191v, robed figure with nimbus ascending above border and decorated cross outside of border; f. 192r, red and black ink of John the Baptist holding a scroll that reads 'behold the Lamb of God', hand of God, vegetative motifs, border, Greek text\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Manicule emerging from a decorated initial, f. 175r\"}],\"parent\":[\"ark:/21198/z132108g\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Only a fragment of f. 150 remains\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[152], p. 18\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714160205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz132108g/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "id": "ark:/21198/z132108g",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz132108g/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 265",
+    "192 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

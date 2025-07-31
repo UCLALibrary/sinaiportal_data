@@ -1,17 +1,11 @@
 {
-  "id": "ark:/21198/z1bv8kxs",
   "ark_ssi": "ark:/21198/z1bv8kxs",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bv8kxs%2Fhn12m55r/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
+    "Decoration, Geometric",
     "Decoration, Zoomorphic",
-    "Headpiece(s)",
-    "Decoration, Geometric"
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -27,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -34,10 +29,10 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Liturgical texts",
-    "Hagiographies"
+    "Hagiographies",
+    "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -147,7 +142,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -155,29 +150,57 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 414",
   "titles_tesim": [
-    "Synaxarium, Part I, from the months of Ilul to Shbat",
-    "Synaxarion"
+    "Synaxarion",
+    "Synaxarium, Part I, from the months of Ilul to Shbat"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Synaxarium, Part I, from the months of Ilul to Shbat",
-    "Synaxarion"
+    "Item 1",
+    "Synaxarion",
+    "Synaxarium, Part I, from the months of Ilul to Shbat"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
+    "Arabic",
     "Ornate geometric headpieces on ff. 28r, 77r | Headpiece on f. 48v, elongated fleur de lis with chain motif; f. 109r, geometric and zoomorphic, with entwined snake heads on left edge",
+    "Paper",
     "Sinai Arabic 414",
+    "Synaxarion",
     "Synaxarium, Part I, from the months of Ilul to Shbat",
     "Undetermined (Arabic)",
-    "Synaxarion",
-    "Arabic",
-    "Paper",
     "ark:/21198/z1bv8kxs"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1bv8kxs\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 414\",\"extent\":\"166 ff.\",\"weight\":\"905.5 g\",\"dim\":\"321 x 175 x 52 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1bg8n\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1bg8n\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 414, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1536j\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1536j\",\"reconstruction\":false,\"label\":\"Synaxarium, Part I, from the months of Ilul to Shbat\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1h30c\",\"pref_title\":\"Synaxarion\",\"alt_title\":[\"Synaxarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Synaxarium, Part I, from the months of Ilul to Shbat\",\"locus\":\"ff. 1r-164r\"}],\"parent\":[\"ark:/21198/s1bg8n\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-zoomorph\",\"label\":\"Decoration, Zoomorphic\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate geometric headpieces on ff. 28r, 77r | Headpiece on f. 48v, elongated fleur de lis with chain motif; f. 109r, geometric and zoomorphic, with entwined snake heads on left edge\"}],\"parent\":[\"ark:/21198/z1bv8kxs\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[173], p. 19\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390817-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bv8kxs/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bv8kxs%2Fhn12m55r/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1bv8kxs\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 414\",\"extent\":\"166 ff.\",\"weight\":\"905.5 g\",\"dim\":\"321 x 175 x 52 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1bg8n\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1bg8n\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 414, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1536j\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1536j\",\"reconstruction\":false,\"label\":\"Synaxarium, Part I, from the months of Ilul to Shbat\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1h30c\",\"pref_title\":\"Synaxarion\",\"alt_title\":[\"Synaxarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Synaxarium, Part I, from the months of Ilul to Shbat\",\"locus\":\"ff. 1r-164r\"}],\"parent\":[\"ark:/21198/s1bg8n\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-zoomorph\",\"label\":\"Decoration, Zoomorphic\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate geometric headpieces on ff. 28r, 77r | Headpiece on f. 48v, elongated fleur de lis with chain motif; f. 109r, geometric and zoomorphic, with entwined snake heads on left edge\"}],\"parent\":[\"ark:/21198/z1bv8kxs\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[173], p. 19\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390817-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bv8kxs/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bv8kxs%2Fhn12m55r/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1bv8kxs",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bv8kxs%2Fhn12m55r/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bv8kxs/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 414",
+    "166 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

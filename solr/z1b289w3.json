@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z1b289w3",
   "ark_ssi": "ark:/21198/z1b289w3",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19z9hdb/0,1022,6132,6132/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Quire(s)",
   "features_ssim": [
-    "Palimpsest",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Palimpsest"
   ],
   "support_ssim": [
     "Parchment"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Greek minuscule"
   ],
@@ -35,7 +30,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -145,7 +140,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -157,7 +152,7 @@
   "uto_language_ssim": [
     "Ge'ez"
   ],
-  "uto_date_isim": [
+  "uto_years_isim": [
     600,
     601,
     602,
@@ -868,20 +863,48 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Horologion"
+    "Horologion",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "ark:/21198/z1b289w3",
-    "black",
-    "Greek minuscule",
-    "Parchment",
-    "Greek",
-    "Unsewn quires, one small fragment; folios partially fragmentary and badly damaged | Text may be missing",
-    "Horologion",
-    "Sinai Greek NF M 90",
     "Diacritics in red",
-    "Foliation in pencil provisional, not sequential"
+    "Foliation in pencil provisional, not sequential",
+    "Greek",
+    "Greek minuscule",
+    "Horologion",
+    "Parchment",
+    "Sinai Greek NF M 90",
+    "Unsewn quires, one small fragment; folios partially fragmentary and badly damaged | Text may be missing",
+    "ark:/21198/z1b289w3",
+    "black"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1b289w3\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek NF M 90\",\"extent\":\"17 ff.\",\"dim\":\"172 x 113 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"coll\":\"Quire 1: 1x6+1 (7, fol. 6 single-folio);  Quire 2: 1+1 (9); Quire 3: 1x2 (11); Quire 4: 1x2 (13); Quire 5: 1x4 (17)\",\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"172 x 113 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1ng9t\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1ng9t\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek NF M 90, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Diacritics in red\"]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1g37q\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1g37q\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]}}],\"parent\":[\"ark:/21198/s1ng9t\"]}}],\"assoc_date\":[{\"value\":\"13th c.  CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1b289w3\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1s64d\",\"label\":\"Ge'ez Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 15\",\"script\":[\"Undetermined (Geʽez)\"],\"lang\":[\"Ge'ez\"],\"orig_date\":[{\"value\":\"Before the 13th c. CE\",\"iso\":{\"not_before\":600,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1nd13\",\"label\":\"Ge'ez Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1, 7\",\"script\":[\"Undetermined (Geʽez)\"],\"lang\":[\"Ge'ez\"],\"orig_date\":[{\"value\":\"Before the 13th c. CE\",\"iso\":{\"not_before\":600,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1hp9n\",\"label\":\"Ge'ez Undertext: Horologion\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 12–13\",\"script\":[\"Undetermined (Geʽez)\"],\"lang\":[\"Ge'ez\"],\"orig_date\":[{\"value\":\"Before the 13th c. CE\",\"iso\":{\"not_before\":600,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Foliation in pencil provisional, not sequential\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Unsewn quires, one small fragment; folios partially fragmentary and badly damaged | Text may be missing\"}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 172\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1b289w3/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19z9hdb/0,1022,6132,6132/150,150/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1b289w3\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek NF M 90\",\"extent\":\"17 ff.\",\"dim\":\"172 x 113 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"coll\":\"Quire 1: 1x6+1 (7, fol. 6 single-folio);  Quire 2: 1+1 (9); Quire 3: 1x2 (11); Quire 4: 1x2 (13); Quire 5: 1x4 (17)\",\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"172 x 113 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1ng9t\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1ng9t\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek NF M 90, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Diacritics in red\"]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1g37q\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1g37q\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]}}],\"parent\":[\"ark:/21198/s1ng9t\"]}}],\"assoc_date\":[{\"value\":\"13th c.  CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1b289w3\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1s64d\",\"label\":\"Ge'ez Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 15\",\"script\":[\"Undetermined (Geʽez)\"],\"lang\":[\"Ge'ez\"],\"orig_date\":[{\"value\":\"Before the 13th c. CE\",\"iso\":{\"not_before\":\"0600\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1nd13\",\"label\":\"Ge'ez Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1, 7\",\"script\":[\"Undetermined (Geʽez)\"],\"lang\":[\"Ge'ez\"],\"orig_date\":[{\"value\":\"Before the 13th c. CE\",\"iso\":{\"not_before\":\"0600\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1hp9n\",\"label\":\"Ge'ez Undertext: Horologion\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 12–13\",\"script\":[\"Undetermined (Geʽez)\"],\"lang\":[\"Ge'ez\"],\"orig_date\":[{\"value\":\"Before the 13th c. CE\",\"iso\":{\"not_before\":\"0600\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Foliation in pencil provisional, not sequential\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Unsewn quires, one small fragment; folios partially fragmentary and badly damaged | Text may be missing\"}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 172\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1b289w3/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19z9hdb/0,1022,6132,6132/150,150/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1b289w3",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19z9hdb/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1b289w3/manifest",
+  "header_index_tesim": [
+    "Sinai Greek NF M 90",
+    "17 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c.  CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c.  CE"
+  ]
 }

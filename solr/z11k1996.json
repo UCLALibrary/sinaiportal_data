@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z11k1996",
   "ark_ssi": "ark:/21198/z11k1996",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11k1996%2Fjc76xj19/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -25,6 +19,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -34,7 +29,7 @@
   "ot_genre_ssim": [
     "Apophthegmata"
   ],
-  "ot_date_isim": [],
+  "ot_years_isim": [],
   "ot_language_ssim": [
     "Arabic"
   ],
@@ -43,7 +38,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -51,14 +46,14 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF X 25",
   "titles_tesim": [
-    "Quaestiones et responsiones",
+    "Caesarius, of Nazianzus, Saint, -369. Dialogi quatuor‏",
     "Dialogi quatuor‏",
     "Four Dialogues",
-    "Caesarius, of Nazianzus, Saint, -369. Dialogi quatuor‏",
-    "One hundred questions posed to the Holy Father Caesarius and the answers he gave to them, and this is the first part of the Questions, translated from Greek into clear Arabic"
+    "One hundred questions posed to the Holy Father Caesarius and the answers he gave to them, and this is the first part of the Questions, translated from Greek into clear Arabic",
+    "Quaestiones et responsiones"
   ],
   "names_tesim": [
     "Caesarius of Nazianzus"
@@ -66,24 +61,49 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Quaestiones et responsiones",
-    "Four Dialogues",
-    "Dialogi quatuor‏",
     "Caesarius, of Nazianzus, Saint, -369. Dialogi quatuor‏",
-    "One hundred questions posed to the Holy Father Caesarius and the answers he gave to them, and this is the first part of the Questions, translated from Greek into clear Arabic"
+    "Dialogi quatuor‏",
+    "Four Dialogues",
+    "Item 1",
+    "One hundred questions posed to the Holy Father Caesarius and the answers he gave to them, and this is the first part of the Questions, translated from Greek into clear Arabic",
+    "Quaestiones et responsiones"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Quaestiones et responsiones",
-    "Caesarius of Nazianzus",
-    "Dialogi quatuor‏",
-    "Naskh",
     "Arabic",
-    "Paper",
+    "Caesarius of Nazianzus",
+    "Caesarius, of Nazianzus, Saint, -369. Dialogi quatuor‏",
+    "Dialogi quatuor‏",
     "Four Dialogues",
+    "Naskh",
+    "One hundred questions posed to the Holy Father Caesarius and the answers he gave to them, and this is the first part of the Questions, translated from Greek into clear Arabic",
+    "Paper",
+    "Quaestiones et responsiones",
     "Sinai Arabic NF X 25",
-    "ark:/21198/z11k1996",
-    "Caesarius, of Nazianzus, Saint, -369. Dialogi quatuor‏"
+    "ark:/21198/z11k1996"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z11k1996\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF X 25\",\"extent\":\"128 ff.\",\"weight\":\"259.4 g\",\"dim\":\"142 x 121 x 43.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1d91w\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1d91w\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF X 25, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s16w9x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s16w9x\",\"reconstruction\":false,\"label\":\"Dialogi quatuor‏\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1vp4v\",\"pref_title\":\"Dialogi quatuor‏\",\"alt_title\":[\"Four Dialogues\",\"Quaestiones et responsiones\",\"Caesarius, of Nazianzus, Saint, -369. Dialogi quatuor‏\"],\"genre\":[{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}],\"creator\":[{\"id\":\"ark:/21198/s1j011\",\"agent_record\":{\"ark\":\"ark:/21198/s1j011\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Caesarius of Nazianzus\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"369 CE\",\"iso\":{\"not_before\":369,\"not_after\":369}},\"rel_con\":[{\"label\":\"Caesarius, of Nazianzus, Saint, -369\",\"uri\":\"http://viaf.org/viaf/35250536\",\"source\":\"VIAF\"},{\"label\":\"Caesarius, of Nazianzus, Saint, -369\",\"uri\":\"http://id.loc.gov/authorities/names/no2002065897\",\"source\":\"LoC\"},{\"label\":\"Caesarius, of Nazianzus, -369\",\"uri\":\"https://w3id.org/haf/person/299305271727\",\"source\":\"HAF\"},{\"label\":\"Caesarius\",\"uri\":\"http://syriaca.org/person/1640\",\"source\":\"Syriaca\"},{\"label\":\"Caesarius frater Gregorii Theologi\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/saint/157/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Caesarii Dialogi quatuor\",\"uri\":\"http://viaf.org/viaf/181110100\",\"source\":\"VIAF\"},{\"label\":\"Caesarii Dialogi quatuor\",\"uri\":\"http://id.loc.gov/authorities/names/n91012876\",\"source\":\"LoC\"}]},\"alt_title\":\"One hundred questions posed to the Holy Father Caesarius and the answers he gave to them, and this is the first part of the Questions, translated from Greek into clear Arabic\",\"locus\":\"ff. 1r-127v\"}],\"parent\":[\"ark:/21198/s1d91w\"]}}],\"parent\":[\"ark:/21198/z11k1996\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 44; ٤٧\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz11k1996/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11k1996%2Fjc76xj19/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z11k1996\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF X 25\",\"extent\":\"128 ff.\",\"weight\":\"259.4 g\",\"dim\":\"142 x 121 x 43.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1d91w\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1d91w\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF X 25, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s16w9x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s16w9x\",\"reconstruction\":false,\"label\":\"Dialogi quatuor‏\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1vp4v\",\"pref_title\":\"Dialogi quatuor‏\",\"alt_title\":[\"Four Dialogues\",\"Quaestiones et responsiones\",\"Caesarius, of Nazianzus, Saint, -369. Dialogi quatuor‏\"],\"genre\":[{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}],\"creator\":[{\"id\":\"ark:/21198/s1j011\",\"agent_record\":{\"ark\":\"ark:/21198/s1j011\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Caesarius of Nazianzus\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"369 CE\",\"iso\":{\"not_before\":\"0369\"}},\"rel_con\":[{\"label\":\"Caesarius, of Nazianzus, Saint, -369\",\"uri\":\"http://viaf.org/viaf/35250536\",\"source\":\"VIAF\"},{\"label\":\"Caesarius, of Nazianzus, Saint, -369\",\"uri\":\"http://id.loc.gov/authorities/names/no2002065897\",\"source\":\"LoC\"},{\"label\":\"Caesarius, of Nazianzus, -369\",\"uri\":\"https://w3id.org/haf/person/299305271727\",\"source\":\"HAF\"},{\"label\":\"Caesarius\",\"uri\":\"http://syriaca.org/person/1640\",\"source\":\"Syriaca\"},{\"label\":\"Caesarius frater Gregorii Theologi\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/saint/157/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Caesarii Dialogi quatuor\",\"uri\":\"http://viaf.org/viaf/181110100\",\"source\":\"VIAF\"},{\"label\":\"Caesarii Dialogi quatuor\",\"uri\":\"http://id.loc.gov/authorities/names/n91012876\",\"source\":\"LoC\"}]},\"alt_title\":\"One hundred questions posed to the Holy Father Caesarius and the answers he gave to them, and this is the first part of the Questions, translated from Greek into clear Arabic\",\"locus\":\"ff. 1r-127v\"}],\"parent\":[\"ark:/21198/s1d91w\"]}}],\"parent\":[\"ark:/21198/z11k1996\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 44; ٤٧\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz11k1996/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11k1996%2Fjc76xj19/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z11k1996",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11k1996%2Fjc76xj19/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz11k1996/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic NF X 25",
+    "128 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": []
 }

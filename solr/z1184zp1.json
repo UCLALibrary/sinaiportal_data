@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1184zp1",
   "ark_ssi": "ark:/21198/z1184zp1",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1184zp1%2F06288f88/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -33,7 +28,7 @@
     "Biblical texts",
     "Gospel books"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -143,7 +138,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -151,32 +146,60 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 205",
   "titles_tesim": [
-    "Gospels",
+    "Bible. Gospels",
     "Four Gospels",
-    "Bible. Gospels"
+    "Gospels"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Gospels",
-    "Four Gospels",
     "Bible. Gospels",
-    "Homilies on Gospels and Epistles (Chrysostom)"
+    "Four Gospels",
+    "Gospels",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Sinai Syriac 205",
-    "Gospels",
-    "ark:/21198/z1184zp1",
     "Bible. Gospels",
+    "Four Gospels",
+    "Gospels",
+    "Homilies on Gospels and Epistles (Chrysostom)",
     "Melkite",
     "Paper",
+    "Sinai Syriac 205",
     "Syriac",
-    "Homilies on Gospels and Epistles (Chrysostom)"
+    "ark:/21198/z1184zp1"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1184zp1\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 205\",\"extent\":\"328 ff.\",\"weight\":\"2363.3 g\",\"dim\":\"270 x 203 x 109.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s15g9g\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s15g9g\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 205, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1037c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1037c\",\"reconstruction\":false,\"label\":\"Homilies on Gospels and Epistles (Chrysostom)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 1r-325bv\"}],\"parent\":[\"ark:/21198/s15g9g\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1184zp1\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[45], p. 152\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1184zp1/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1184zp1%2F06288f88/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1184zp1\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 205\",\"extent\":\"328 ff.\",\"weight\":\"2363.3 g\",\"dim\":\"270 x 203 x 109.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s15g9g\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s15g9g\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 205, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1037c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1037c\",\"reconstruction\":false,\"label\":\"Homilies on Gospels and Epistles (Chrysostom)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 1r-325bv\"}],\"parent\":[\"ark:/21198/s15g9g\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1184zp1\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[45], p. 152\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1184zp1/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1184zp1%2F06288f88/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1184zp1",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1184zp1%2F06288f88/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1184zp1/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 205",
+    "328 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

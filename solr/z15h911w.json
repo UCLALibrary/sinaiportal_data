@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z15h911w",
   "ark_ssi": "ark:/21198/z15h911w",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15h911w%2Fdh78rm59/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -33,7 +28,7 @@
     "Hymnals",
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -143,7 +138,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -151,7 +146,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 256",
   "titles_tesim": [
     "Troparion"
@@ -160,17 +155,45 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Troparion"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Naskh",
-    "ark:/21198/z15h911w",
-    "Ff. 161r-192v Greek text",
     "Arabic",
+    "Ff. 161r-192v Greek text",
+    "Naskh",
     "Paper",
+    "Sinai Arabic 256",
     "Troparion",
-    "Sinai Arabic 256"
+    "ark:/21198/z15h911w"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z15h911w\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 256\",\"extent\":\"151 ff.\",\"weight\":\"419.3 g\",\"dim\":\"175 x 138 x 44.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1pk7d\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1pk7d\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 256, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1h64x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1h64x\",\"reconstruction\":false,\"label\":\"Troparion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1vc88\",\"pref_title\":\"Troparion\",\"alt_title\":[\"Troparion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 1r-152r\"}],\"parent\":[\"ark:/21198/s1pk7d\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Ff. 161r-192v Greek text\"}],\"parent\":[\"ark:/21198/z15h911w\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[149], p. 18\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714150205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz15h911w/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15h911w%2Fdh78rm59/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z15h911w\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 256\",\"extent\":\"151 ff.\",\"weight\":\"419.3 g\",\"dim\":\"175 x 138 x 44.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1pk7d\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1pk7d\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 256, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1h64x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1h64x\",\"reconstruction\":false,\"label\":\"Troparion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1vc88\",\"pref_title\":\"Troparion\",\"alt_title\":[\"Troparion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 1r-152r\"}],\"parent\":[\"ark:/21198/s1pk7d\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Ff. 161r-192v Greek text\"}],\"parent\":[\"ark:/21198/z15h911w\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[149], p. 18\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714150205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz15h911w/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15h911w%2Fdh78rm59/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z15h911w",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15h911w%2Fdh78rm59/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz15h911w/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 256",
+    "151 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

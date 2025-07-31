@@ -1,17 +1,11 @@
 {
-  "id": "ark:/21198/z1v99ss0",
   "ark_ssi": "ark:/21198/z1v99ss0",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v99ss0%2Fsx81b03d/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Headpiece(s)",
     "Decoration, Geometric",
-    "Decoration, Vegetative"
+    "Decoration, Vegetative",
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -27,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -36,7 +31,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -146,7 +141,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -154,7 +149,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 263",
   "titles_tesim": [
     "Octoechos"
@@ -163,18 +158,46 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Octoechos"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
+    "Geometric and vegetative headpieces throughout, ff.28v-190r",
+    "Melkite",
     "Octoechos",
     "Paper",
-    "ark:/21198/z1v99ss0",
-    "Melkite",
     "Rosette, f.60v; cross with ornamentation, f. 75v",
     "Sinai Syriac 263",
     "Syriac",
-    "Geometric and vegetative headpieces throughout, ff.28v-190r"
+    "ark:/21198/z1v99ss0"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1v99ss0\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 263\",\"extent\":\"226 ff.\",\"weight\":\"676 g\",\"dim\":\"185 x 140 x 64.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1b05p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1b05p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 263, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s14h4m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s14h4m\",\"reconstruction\":false,\"label\":\"Octoechos\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tg7m\",\"pref_title\":\"Octoechos\",\"alt_title\":[\"Octoechos\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-224v\"}],\"parent\":[\"ark:/21198/s1b05p\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric and vegetative headpieces throughout, ff.28v-190r\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Rosette, f.60v; cross with ornamentation, f. 75v\"}],\"parent\":[\"ark:/21198/z1v99ss0\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[175], p. 157\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v99ss0/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v99ss0%2Fsx81b03d/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1v99ss0\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 263\",\"extent\":\"226 ff.\",\"weight\":\"676 g\",\"dim\":\"185 x 140 x 64.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1b05p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1b05p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 263, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s14h4m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s14h4m\",\"reconstruction\":false,\"label\":\"Octoechos\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tg7m\",\"pref_title\":\"Octoechos\",\"alt_title\":[\"Octoechos\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-224v\"}],\"parent\":[\"ark:/21198/s1b05p\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric and vegetative headpieces throughout, ff.28v-190r\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Rosette, f.60v; cross with ornamentation, f. 75v\"}],\"parent\":[\"ark:/21198/z1v99ss0\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[175], p. 157\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v99ss0/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v99ss0%2Fsx81b03d/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1v99ss0",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v99ss0%2Fsx81b03d/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v99ss0/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 263",
+    "226 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

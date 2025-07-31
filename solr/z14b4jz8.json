@@ -1,18 +1,12 @@
 {
-  "id": "ark:/21198/z14b4jz8",
   "ark_ssi": "ark:/21198/z14b4jz8",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14b4jz8%2Ffv953n98/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
     "Border(s)",
-    "Headpiece(s)",
     "Decoration, Geometric",
-    "Decoration, Vegetative"
+    "Decoration, Vegetative",
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -28,6 +22,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -38,7 +33,7 @@
     "Hymnals",
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -148,7 +143,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -156,7 +151,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 230",
   "titles_tesim": [
     "Troparion"
@@ -165,18 +160,46 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Troparion"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Sinai Syriac 230",
-    "ark:/21198/z14b4jz8",
-    "Syriac",
     "Headpieces, knotted vine motif, ff. 229r, 278v, 304v, 489r; chevron motif, f. 340r.",
+    "Knotted Rosette, f. 487; pair, 1rI~IBordered text, full page, f. 182r; text, f. 382v",
     "Melkite",
     "Paper",
+    "Sinai Syriac 230",
+    "Syriac",
     "Troparion",
-    "Knotted Rosette, f. 487; pair, 1rI~IBordered text, full page, f. 182r; text, f. 382v"
+    "ark:/21198/z14b4jz8"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z14b4jz8\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 230\",\"extent\":\"559 ff.\",\"weight\":\"2058.1 g\",\"dim\":\"205 x 162 x 128 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1xw69\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1xw69\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 230, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1rh46\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rh46\",\"reconstruction\":false,\"label\":\"Troparion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1vc88\",\"pref_title\":\"Troparion\",\"alt_title\":[\"Troparion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 1r-564r\"}],\"parent\":[\"ark:/21198/s1xw69\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"border\",\"label\":\"Border(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Headpieces, knotted vine motif, ff. 229r, 278v, 304v, 489r; chevron motif, f. 340r.\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Knotted Rosette, f. 487; pair, 1rI~IBordered text, full page, f. 182r; text, f. 382v\"}],\"parent\":[\"ark:/21198/z14b4jz8\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[198], p. 158\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14b4jz8/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14b4jz8%2Ffv953n98/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z14b4jz8\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 230\",\"extent\":\"559 ff.\",\"weight\":\"2058.1 g\",\"dim\":\"205 x 162 x 128 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1xw69\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1xw69\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 230, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1rh46\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rh46\",\"reconstruction\":false,\"label\":\"Troparion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1vc88\",\"pref_title\":\"Troparion\",\"alt_title\":[\"Troparion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 1r-564r\"}],\"parent\":[\"ark:/21198/s1xw69\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"border\",\"label\":\"Border(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Headpieces, knotted vine motif, ff. 229r, 278v, 304v, 489r; chevron motif, f. 340r.\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Knotted Rosette, f. 487; pair, 1rI~IBordered text, full page, f. 182r; text, f. 382v\"}],\"parent\":[\"ark:/21198/z14b4jz8\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[198], p. 158\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14b4jz8/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14b4jz8%2Ffv953n98/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z14b4jz8",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14b4jz8%2Ffv953n98/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14b4jz8/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 230",
+    "559 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

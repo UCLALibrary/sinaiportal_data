@@ -1,19 +1,13 @@
 {
-  "id": "ark:/21198/z1rn4sgk",
   "ark_ssi": "ark:/21198/z1rn4sgk",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1rn4sgk%2Fzq28bx35/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
     "Border(s)",
-    "Headpiece(s)",
-    "Illumination(s)",
     "Calligraphic Practice",
-    "Decoration, Anthropomorphic"
+    "Decoration, Anthropomorphic",
+    "Headpiece(s)",
+    "Illumination(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -29,6 +23,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Estrangela"
   ],
@@ -39,7 +34,7 @@
     "Biblical texts",
     "Gospel books"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -149,7 +144,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -157,36 +152,64 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 74",
   "titles_tesim": [
+    "Bible. Gospels",
     "Gospels",
-    "Gospels (Matthew and part of Mark)",
-    "Bible. Gospels"
+    "Gospels (Matthew and part of Mark)"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Bible. Gospels",
     "Gospels",
     "Gospels (Matthew and part of Mark)",
-    "Lectionary of New Testament",
-    "Bible. Gospels"
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Vocalisation ; Elements of Serto",
-    "Gospels",
-    "Syriac",
-    "Bordered text, marginalia, throughout.",
-    "Sinai Syriac 74",
-    "Estrangela",
-    "Partial anthropomorphic figure and decorative calligraphy practice, f. 75r",
     "Bible. Gospels",
-    "Paper",
-    "ark:/21198/z1rn4sgk",
+    "Bordered text, marginalia, throughout.",
+    "Estrangela",
+    "Gospels",
+    "Gospels (Matthew and part of Mark)",
     "Lectionary of New Testament",
-    "Ornate knotted headpiece, f. 110r, bordered, Chrysography"
+    "Ornate knotted headpiece, f. 110r, bordered, Chrysography",
+    "Paper",
+    "Partial anthropomorphic figure and decorative calligraphy practice, f. 75r",
+    "Sinai Syriac 74",
+    "Syriac",
+    "Vocalisation ; Elements of Serto",
+    "ark:/21198/z1rn4sgk"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1rn4sgk\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 74\",\"extent\":\"176 ff.\",\"weight\":\"1431.7 g\",\"dim\":\"252 x 174 x 77.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1hc9j\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1hc9j\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 74, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}],\"note\":[\"Vocalisation ; Elements of Serto\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1b096\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1b096\",\"reconstruction\":false,\"label\":\"Lectionary of New Testament\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Gospels (Matthew and part of Mark)\",\"locus\":\"ff. 1r-172v\"}],\"parent\":[\"ark:/21198/s1hc9j\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"border\",\"label\":\"Border(s)\"},{\"id\":\"illumination\",\"label\":\"Illumination(s)\"},{\"id\":\"calligraphic-practice\",\"label\":\"Calligraphic Practice\"},{\"id\":\"deco-anthropomorph\",\"label\":\"Decoration, Anthropomorphic\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate knotted headpiece, f. 110r, bordered, Chrysography\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Partial anthropomorphic figure and decorative calligraphy practice, f. 75r\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Bordered text, marginalia, throughout.\"}],\"parent\":[\"ark:/21198/z1rn4sgk\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[41], p. 152\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279387521-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1rn4sgk/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1rn4sgk%2Fzq28bx35/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1rn4sgk\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 74\",\"extent\":\"176 ff.\",\"weight\":\"1431.7 g\",\"dim\":\"252 x 174 x 77.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1hc9j\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1hc9j\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 74, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}],\"note\":[\"Vocalisation ; Elements of Serto\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1b096\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1b096\",\"reconstruction\":false,\"label\":\"Lectionary of New Testament\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Gospels (Matthew and part of Mark)\",\"locus\":\"ff. 1r-172v\"}],\"parent\":[\"ark:/21198/s1hc9j\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"border\",\"label\":\"Border(s)\"},{\"id\":\"illumination\",\"label\":\"Illumination(s)\"},{\"id\":\"calligraphic-practice\",\"label\":\"Calligraphic Practice\"},{\"id\":\"deco-anthropomorph\",\"label\":\"Decoration, Anthropomorphic\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Ornate knotted headpiece, f. 110r, bordered, Chrysography\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Partial anthropomorphic figure and decorative calligraphy practice, f. 75r\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Bordered text, marginalia, throughout.\"}],\"parent\":[\"ark:/21198/z1rn4sgk\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[41], p. 152\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279387521-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1rn4sgk/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1rn4sgk%2Fzq28bx35/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1rn4sgk",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1rn4sgk%2Fzq28bx35/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1rn4sgk/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 74",
+    "176 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

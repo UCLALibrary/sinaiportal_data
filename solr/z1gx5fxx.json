@@ -1,10 +1,5 @@
 {
-  "id": "ark:/21198/z1gx5fxx",
   "ark_ssi": "ark:/21198/z1gx5fxx",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -22,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -29,10 +25,10 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Liturgical texts",
-    "Hagiographies"
+    "Hagiographies",
+    "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -142,7 +138,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -150,11 +146,11 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 400",
   "titles_tesim": [
-    "Menologion. Lives of Saints for the month of Kanun II (January)",
-    "Menologion"
+    "Menologion",
+    "Menologion. Lives of Saints for the month of Kanun II (January)"
   ],
   "names_tesim": [],
   "exerpts_tesim": [
@@ -162,25 +158,51 @@
   ],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
+    "Menologion",
     "Menologion. Lives of Saints for the month of Kanun II (January)",
-    "Menologion. For the month of Kanun II (January)",
-    "Menologion. Lives of Saints for the month of Kanun II (January), beginning on the 1st with a Mimar by St. Cyril, Patriarch of Alexandria, on the circumcision of Our Lord, and ending on the 15th with the life of St. John the Monk who owned a hut and a golden Gospel",
-    "نبتدي علیٰ إسم الله و بمعونته نكتب",
-    "Menologion"
+    "نبتدي علیٰ إسم الله و بمعونته نكتب"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "ark:/21198/z1gx5fxx",
-    "Menologion. For the month of Kanun II (January)",
-    "Menologion. Lives of Saints for the month of Kanun II (January), beginning on the 1st with a Mimar by St. Cyril, Patriarch of Alexandria, on the circumcision of Our Lord, and ending on the 15th with the life of St. John the Monk who owned a hut and a golden Gospel",
-    "نبتدي علیٰ إسم الله و بمعونته نكتب",
-    "Menologion",
-    "Naskh",
     "Arabic",
+    "Menologion",
+    "Menologion. For the month of Kanun II (January)",
+    "Menologion. Lives of Saints for the month of Kanun II (January)",
+    "Menologion. Lives of Saints for the month of Kanun II (January), beginning on the 1st with a Mimar by St. Cyril, Patriarch of Alexandria, on the circumcision of Our Lord, and ending on the 15th with the life of St. John the Monk who owned a hut and a golden Gospel",
+    "Naskh",
     "Paper",
-    "Rodent damage affecting text on ff. 1–5",
     "Reader inscription, f. 1r | Supplicant inscription, f. 214v | Reader and supplicant inscriptions, f. 215r",
-    "Sinai Arabic 400"
+    "Rodent damage affecting text on ff. 1–5",
+    "Sinai Arabic 400",
+    "ark:/21198/z1gx5fxx",
+    "نبتدي علیٰ إسم الله و بمعونته نكتب"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1gx5fxx\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 400\",\"extent\":\"216 ff.\",\"weight\":\"3286.2 g\",\"dim\":\"332 x 238 x 78 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s15020\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s15020\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 400, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zm1z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zm1z\",\"reconstruction\":false,\"label\":\"Menologion. For the month of Kanun II (January)\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion. Lives of Saints for the month of Kanun II (January)\",\"locus\":\"ff. 1v-214v\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"locus\":\"f. 1v\",\"as_written\":\"نبتدي علیٰ إسم الله و بمعونته نكتب\"}],\"note\":[\"Menologion. Lives of Saints for the month of Kanun II (January), beginning on the 1st with a Mimar by St. Cyril, Patriarch of Alexandria, on the circumcision of Our Lord, and ending on the 15th with the life of St. John the Monk who owned a hut and a golden Gospel\"]}],\"parent\":[\"ark:/21198/s15020\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1gx5fxx\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Reader inscription, f. 1r | Supplicant inscription, f. 214v | Reader and supplicant inscriptions, f. 215r\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Rodent damage affecting text on ff. 1–5\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[160], p. 18\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279389888-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gx5fxx/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1gx5fxx\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 400\",\"extent\":\"216 ff.\",\"weight\":\"3286.2 g\",\"dim\":\"332 x 238 x 78 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s15020\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s15020\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 400, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zm1z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zm1z\",\"reconstruction\":false,\"label\":\"Menologion. For the month of Kanun II (January)\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion. Lives of Saints for the month of Kanun II (January)\",\"locus\":\"ff. 1v-214v\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"locus\":\"f. 1v\",\"as_written\":\"نبتدي علیٰ إسم الله و بمعونته نكتب\"}],\"note\":[\"Menologion. Lives of Saints for the month of Kanun II (January), beginning on the 1st with a Mimar by St. Cyril, Patriarch of Alexandria, on the circumcision of Our Lord, and ending on the 15th with the life of St. John the Monk who owned a hut and a golden Gospel\"]}],\"parent\":[\"ark:/21198/s15020\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1gx5fxx\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Reader inscription, f. 1r | Supplicant inscription, f. 214v | Reader and supplicant inscriptions, f. 215r\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Rodent damage affecting text on ff. 1–5\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[160], p. 18\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279389888-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gx5fxx/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "id": "ark:/21198/z1gx5fxx",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1gx5fxx/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 400",
+    "216 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

@@ -1,17 +1,11 @@
 {
-  "id": "ark:/21198/z12n6kvk",
   "ark_ssi": "ark:/21198/z12n6kvk",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12n6kvk%2Ft548hb7h/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
+    "Catchwords",
     "Colophon",
-    "Catchwords"
+    "Dated"
   ],
   "support_ssim": [
     "Paper"
@@ -27,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh",
     "Thuluth"
@@ -35,10 +30,10 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Theological works",
-    "Apophthegmata"
+    "Apophthegmata",
+    "Theological works"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1607
   ],
   "ot_language_ssim": [
@@ -47,15 +42,19 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Arabic"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 676",
   "titles_tesim": [
     "Treatises (34) by John Chrysostom"
@@ -64,22 +63,47 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Treatises (34) by John Chrysostom"
   ],
-  "paracontent_tesim": [
-    "Colophon",
-    "Arabic"
-  ],
+  "paracontent_tesim": [],
   "full_text_tesim": [
-    "Section headings written with thuluth",
-    "Naskh",
-    "ff. 34-36 repeat",
-    "Treatises (34) by John Chrysostom",
-    "Paper",
-    "ark:/21198/z12n6kvk",
-    "Thuluth",
     "Arabic",
-    "Sinai Arabic 676"
+    "Naskh",
+    "Paper",
+    "Section headings written with thuluth",
+    "Sinai Arabic 676",
+    "Thuluth",
+    "Treatises (34) by John Chrysostom",
+    "ark:/21198/z12n6kvk",
+    "ff. 34-36 repeat"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z12n6kvk\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 676\",\"extent\":\"131 ff.\",\"weight\":\"597.1 g\",\"dim\":\"224 x 162 x 33 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1289g\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1289g\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 676, Overtext (Naskh, Thuluth)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"thuluth\",\"label\":\"Thuluth\",\"writing_system\":\"Arabic\"}],\"note\":[\"Section headings written with thuluth\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1vw8f\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1vw8f\",\"reconstruction\":false,\"label\":\"Treatises (34) by John Chrysostom\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Treatises (34) by John Chrysostom\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]},\"locus\":\"ff .1r-128r\"}],\"parent\":[\"ark:/21198/s1289g\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 128r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}]}],\"assoc_date\":[{\"value\":\"1607 CE\",\"iso\":{\"not_before\":1607,\"not_after\":1607},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z12n6kvk\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"ff. 34-36 repeat\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[442], p. 36\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038909870205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz12n6kvk/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12n6kvk%2Ft548hb7h/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z12n6kvk\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 676\",\"extent\":\"131 ff.\",\"weight\":\"597.1 g\",\"dim\":\"224 x 162 x 33 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1289g\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1289g\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 676, Overtext (Naskh, Thuluth)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"thuluth\",\"label\":\"Thuluth\",\"writing_system\":\"Arabic\"}],\"note\":[\"Section headings written with thuluth\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1vw8f\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1vw8f\",\"reconstruction\":false,\"label\":\"Treatises (34) by John Chrysostom\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Treatises (34) by John Chrysostom\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]},\"locus\":\"ff .1r-128r\"}],\"parent\":[\"ark:/21198/s1289g\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 128r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}]}],\"assoc_date\":[{\"value\":\"1607 CE\",\"iso\":{\"not_before\":\"1607\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z12n6kvk\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"ff. 34-36 repeat\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[442], p. 36\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038909870205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz12n6kvk/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12n6kvk%2Ft548hb7h/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z12n6kvk",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz12n6kvk%2Ft548hb7h/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz12n6kvk/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 676",
+    "131 ff."
+  ],
+  "ot_date_tesim": [
+    "1607 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1607 CE"
+  ]
 }

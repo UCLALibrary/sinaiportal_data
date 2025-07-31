@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1989wgw",
   "ark_ssi": "ark:/21198/z1989wgw",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1989wgw%2F1z449m5f/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -32,7 +27,7 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     901,
     902,
     903,
@@ -142,7 +137,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -150,43 +145,71 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 4",
   "titles_tesim": [
-    "Leviticus, ff. 126v-170v",
-    "Genesis, ff. 001r-064v",
-    "Exodus, ff. 065v-125v",
-    "Deuteronomy, ff. 230v-280v",
-    "Pentateuch",
     "Bible. Pentateuch",
-    "Numbers, ff. 171v-229v"
+    "Deuteronomy, ff. 230v-280v",
+    "Exodus, ff. 065v-125v",
+    "Genesis, ff. 001r-064v",
+    "Leviticus, ff. 126v-170v",
+    "Numbers, ff. 171v-229v",
+    "Pentateuch"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Pentateuch",
-    "Leviticus, ff. 126v-170v",
-    "Deuteronomy, ff. 230v-280v",
-    "Genesis, ff. 001r-064v",
-    "Exodus, ff. 065v-125v",
     "Bible. Pentateuch",
-    "Numbers, ff. 171v-229v"
+    "Deuteronomy, ff. 230v-280v",
+    "Exodus, ff. 065v-125v",
+    "Genesis, ff. 001r-064v",
+    "Item 1",
+    "Leviticus, ff. 126v-170v",
+    "Numbers, ff. 171v-229v",
+    "Pentateuch"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Leviticus, ff. 126v-170v",
-    "Genesis, ff. 001r-064v",
-    "ark:/21198/z1989wgw",
-    "Naskh",
-    "Pentateuch",
     "Arabic",
-    "Paper",
+    "Bible. Pentateuch",
     "Deuteronomy, ff. 230v-280v",
     "Exodus, ff. 065v-125v",
-    "Bible. Pentateuch",
+    "Genesis, ff. 001r-064v",
+    "Leviticus, ff. 126v-170v",
+    "Naskh",
+    "Numbers, ff. 171v-229v",
+    "Paper",
+    "Pentateuch",
     "Sinai Arabic 4",
-    "Numbers, ff. 171v-229v"
+    "ark:/21198/z1989wgw"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1989wgw\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 4\",\"extent\":\"281 ff.\",\"weight\":\"1561 g\",\"dim\":\"268 x 176 x 83.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s12w21\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s12w21\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 4, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1wh19\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1wh19\",\"reconstruction\":false,\"label\":\"Pentateuch\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s18w2w\",\"pref_title\":\"Pentateuch\",\"alt_title\":[\"Bible. Pentateuch\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Pentateuch\",\"uri\":\"https://viaf.org/viaf/194861095\",\"source\":\"VIAF\"},{\"label\":\"Bible. Pentateuch\",\"uri\":\"http://id.loc.gov/authorities/names/n79066420\",\"source\":\"LoC\"}]},\"locus\":\"ff. 1r-280v\",\"contents\":[{\"label\":\"Genesis, ff. 001r-064v\"},{\"label\":\"Exodus, ff. 065v-125v\"},{\"label\":\"Leviticus, ff. 126v-170v\"},{\"label\":\"Numbers, ff. 171v-229v\"},{\"label\":\"Deuteronomy, ff. 230v-280v\"}]}],\"parent\":[\"ark:/21198/s12w21\"]}}],\"assoc_date\":[{\"value\":\"10th c. CE\",\"iso\":{\"not_before\":901,\"not_after\":1000},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1989wgw\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[4], p. 11\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279385731-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1989wgw/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1989wgw%2F1z449m5f/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1989wgw\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 4\",\"extent\":\"281 ff.\",\"weight\":\"1561 g\",\"dim\":\"268 x 176 x 83.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s12w21\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s12w21\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 4, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1wh19\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1wh19\",\"reconstruction\":false,\"label\":\"Pentateuch\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s18w2w\",\"pref_title\":\"Pentateuch\",\"alt_title\":[\"Bible. Pentateuch\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Pentateuch\",\"uri\":\"https://viaf.org/viaf/194861095\",\"source\":\"VIAF\"},{\"label\":\"Bible. Pentateuch\",\"uri\":\"http://id.loc.gov/authorities/names/n79066420\",\"source\":\"LoC\"}]},\"locus\":\"ff. 1r-280v\",\"contents\":[{\"label\":\"Genesis, ff. 001r-064v\"},{\"label\":\"Exodus, ff. 065v-125v\"},{\"label\":\"Leviticus, ff. 126v-170v\"},{\"label\":\"Numbers, ff. 171v-229v\"},{\"label\":\"Deuteronomy, ff. 230v-280v\"}]}],\"parent\":[\"ark:/21198/s12w21\"]}}],\"assoc_date\":[{\"value\":\"10th c. CE\",\"iso\":{\"not_before\":\"0901\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1989wgw\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[4], p. 11\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279385731-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1989wgw/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1989wgw%2F1z449m5f/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1989wgw",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1989wgw%2F1z449m5f/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1989wgw/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 4",
+    "281 ff."
+  ],
+  "ot_date_tesim": [
+    "10th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "10th c. CE"
+  ]
 }

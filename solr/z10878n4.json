@@ -1,15 +1,10 @@
 {
-  "id": "ark:/21198/z10878n4",
   "ark_ssi": "ark:/21198/z10878n4",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Headpiece(s)",
-    "Decoration, Geometric"
+    "Decoration, Geometric",
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -25,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -34,7 +30,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -144,7 +140,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -152,7 +148,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 195",
   "titles_tesim": [
     "Horologion"
@@ -161,20 +157,47 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Horologion"
+    "Horologion",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
     "All pages stained with brown wax | Ff. 111–126 loose | Many leaves damaged with minor loss of text at the edges",
-    "Naskh",
-    "Geometric headpiece with ascending cross, ff. 23r, 26r; motif in black and red, f.24r",
-    "Sinai Arabic 195",
-    "Horologion",
     "Arabic",
+    "Back board lacking",
+    "Geometric headpiece with ascending cross, ff. 23r, 26r; motif in black and red, f.24r",
+    "Horologion",
+    "Naskh",
     "Paper",
+    "Sinai Arabic 195",
     "ark:/21198/z10878n4",
-    "ff. 78 and 91 lacking",
-    "Back board lacking"
+    "ff. 78 and 91 lacking"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10878n4\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 195\",\"extent\":\"140 ff.\",\"weight\":\"841.5 g\",\"dim\":\"193 x 154 x 64 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s14w31\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s14w31\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 195, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zh29\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zh29\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-140v\"}],\"parent\":[\"ark:/21198/s14w31\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric headpiece with ascending cross, ff. 23r, 26r; motif in black and red, f.24r\"}],\"parent\":[\"ark:/21198/z10878n4\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"ff. 78 and 91 lacking\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Back board lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"All pages stained with brown wax | Ff. 111–126 loose | Many leaves damaged with minor loss of text at the edges\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[268], p. 24\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916510205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10878n4/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10878n4\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 195\",\"extent\":\"140 ff.\",\"weight\":\"841.5 g\",\"dim\":\"193 x 154 x 64 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s14w31\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s14w31\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 195, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zh29\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zh29\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-140v\"}],\"parent\":[\"ark:/21198/s14w31\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric headpiece with ascending cross, ff. 23r, 26r; motif in black and red, f.24r\"}],\"parent\":[\"ark:/21198/z10878n4\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"ff. 78 and 91 lacking\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Back board lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"All pages stained with brown wax | Ff. 111–126 loose | Many leaves damaged with minor loss of text at the edges\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[268], p. 24\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916510205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10878n4/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "id": "ark:/21198/z10878n4",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10878n4/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 195",
+    "140 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1t17368",
   "ark_ssi": "ark:/21198/z1t17368",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t17368%2F49103v24/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Quire(s)",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -32,14 +27,14 @@
   "ot_genre_ssim": [
     "Poetry"
   ],
-  "ot_date_isim": [],
+  "ot_years_isim": [],
   "ot_language_ssim": [
     "Arabic"
   ],
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -47,18 +42,18 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF X 12",
   "titles_tesim": [
-    "Poem 2 (ff. 4v-10r), On the First Miracle of Saint George, Incipit (f. 4v), Desinit (f. 10r)",
     "Poem 1 (ff. 1v-4v), Incipit (f. 1b), Desinit (f. 4v)",
-    "Poem 5 (ff. 15r-17r), Incipit (f. 15r), Desinit (f. 17r)",
-    "Poem 7 (ff. 20r-23r), Incipit (f. 20r), Desinit (f. 22v), Subscription (f. 23r)",
+    "Poem 2 (ff. 4v-10r), On the First Miracle of Saint George, Incipit (f. 4v), Desinit (f. 10r)",
     "Poem 3 (ff. 10v-13r), On the Second Miracle of Saint George, Incipit (f. 10v), Desinit (f. 13r)",
-    "Unidentified",
-    "Poem 8 (ff. 23r-24r), To Our Lady, Incipit (f. 23r), Desinit (f. 24r)",
     "Poem 4 (ff. 13r-14v)",
-    "Poem 6 (ff. 17v-19v), Incipit (f. 17v), Desinit (f. 19v), Subscription (f. 19v)"
+    "Poem 5 (ff. 15r-17r), Incipit (f. 15r), Desinit (f. 17r)",
+    "Poem 6 (ff. 17v-19v), Incipit (f. 17v), Desinit (f. 19v), Subscription (f. 19v)",
+    "Poem 7 (ff. 20r-23r), Incipit (f. 20r), Desinit (f. 22v), Subscription (f. 23r)",
+    "Poem 8 (ff. 23r-24r), To Our Lady, Incipit (f. 23r), Desinit (f. 24r)",
+    "Unidentified"
   ],
   "names_tesim": [],
   "exerpts_tesim": [
@@ -67,40 +62,63 @@
   ],
   "places_tesim": [],
   "contents_tesim": [
-    "Poem 2 (ff. 4v-10r), On the First Miracle of Saint George, Incipit (f. 4v), Desinit (f. 10r)",
-    "Poem 1 (ff. 1v-4v), Incipit (f. 1b), Desinit (f. 4v)",
-    "This is a collection of poems apparently by a single author. The poems and the collection are untitled: 1. My heart yearns for the land of Jerusalem, my abode, may it please God to make it my homeland; 2. Lord, I am concerned with the marvels of George ...; 3. The second marvel of St. George ...; 4. The nature of the fast; 5. Praise God, O all peoples, praise God day and night; 6. O my eyes, do not weep for the dead ...; 7. Praise God, O all peoples, the Lord of Lords, the Omniscient; 8. I beheld the birth of the Virgin ....",
-    "Poem 5 (ff. 15r-17r), Incipit (f. 15r), Desinit (f. 17r)",
-    "Poem 7 (ff. 20r-23r), Incipit (f. 20r), Desinit (f. 22v), Subscription (f. 23r)",
-    "Unidentified",
-    "Poem 3 (ff. 10v-13r), On the Second Miracle of Saint George, Incipit (f. 10v), Desinit (f. 13r)",
-    "Poem 8 (ff. 23r-24r), To Our Lady, Incipit (f. 23r), Desinit (f. 24r)",
-    "يا رب اغفر لمن هذه مقالة واغفر لمن هو بالإيمان قد أنمي",
-    "Poem 4 (ff. 13r-14v)",
     " حي الفؤاد إلى الأرض القدس / يا أحلى يا ليتها من بلاد الله لي وطني / او ليتني زرتها قبل الممات  عشار في السما في كرامتها يخلصني",
-    "Poem 6 (ff. 17v-19v), Incipit (f. 17v), Desinit (f. 19v), Subscription (f. 19v)"
+    "Item 1",
+    "Poem 1 (ff. 1v-4v), Incipit (f. 1b), Desinit (f. 4v)",
+    "Poem 2 (ff. 4v-10r), On the First Miracle of Saint George, Incipit (f. 4v), Desinit (f. 10r)",
+    "Poem 3 (ff. 10v-13r), On the Second Miracle of Saint George, Incipit (f. 10v), Desinit (f. 13r)",
+    "Poem 4 (ff. 13r-14v)",
+    "Poem 5 (ff. 15r-17r), Incipit (f. 15r), Desinit (f. 17r)",
+    "Poem 6 (ff. 17v-19v), Incipit (f. 17v), Desinit (f. 19v), Subscription (f. 19v)",
+    "Poem 7 (ff. 20r-23r), Incipit (f. 20r), Desinit (f. 22v), Subscription (f. 23r)",
+    "Poem 8 (ff. 23r-24r), To Our Lady, Incipit (f. 23r), Desinit (f. 24r)",
+    "Unidentified",
+    "يا رب اغفر لمن هذه مقالة واغفر لمن هو بالإيمان قد أنمي"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Poem 2 (ff. 4v-10r), On the First Miracle of Saint George, Incipit (f. 4v), Desinit (f. 10r)",
-    "Rubric on f. 1v: بسم الله الحي الأزلي على بركة الله",
-    "ark:/21198/z1t17368",
-    "Poem 5 (ff. 15r-17r), Incipit (f. 15r), Desinit (f. 17r)",
-    "Sinai Arabic NF X 12",
+    " حي الفؤاد إلى الأرض القدس / يا أحلى يا ليتها من بلاد الله لي وطني / او ليتني زرتها قبل الممات  عشار في السما في كرامتها يخلصني",
     "Arabic",
-    "Poem 8 (ff. 23r-24r), To Our Lady, Incipit (f. 23r), Desinit (f. 24r)",
-    "Poem 4 (ff. 13r-14v)",
     "Contributor(s): Chris PreJean",
-    "Poem 6 (ff. 17v-19v), Incipit (f. 17v), Desinit (f. 19v), Subscription (f. 19v)",
-    "Poem 1 (ff. 1v-4v), Incipit (f. 1b), Desinit (f. 4v)",
-    "This is a collection of poems apparently by a single author. The poems and the collection are untitled: 1. My heart yearns for the land of Jerusalem, my abode, may it please God to make it my homeland; 2. Lord, I am concerned with the marvels of George ...; 3. The second marvel of St. George ...; 4. The nature of the fast; 5. Praise God, O all peoples, praise God day and night; 6. O my eyes, do not weep for the dead ...; 7. Praise God, O all peoples, the Lord of Lords, the Omniscient; 8. I beheld the birth of the Virgin ....",
     "Naskh",
     "Paper",
-    "Poem 7 (ff. 20r-23r), Incipit (f. 20r), Desinit (f. 22v), Subscription (f. 23r)",
-    "Unidentified",
+    "Poem 1 (ff. 1v-4v), Incipit (f. 1b), Desinit (f. 4v)",
+    "Poem 2 (ff. 4v-10r), On the First Miracle of Saint George, Incipit (f. 4v), Desinit (f. 10r)",
     "Poem 3 (ff. 10v-13r), On the Second Miracle of Saint George, Incipit (f. 10v), Desinit (f. 13r)",
-    " حي الفؤاد إلى الأرض القدس / يا أحلى يا ليتها من بلاد الله لي وطني / او ليتني زرتها قبل الممات  عشار في السما في كرامتها يخلصني",
+    "Poem 4 (ff. 13r-14v)",
+    "Poem 5 (ff. 15r-17r), Incipit (f. 15r), Desinit (f. 17r)",
+    "Poem 6 (ff. 17v-19v), Incipit (f. 17v), Desinit (f. 19v), Subscription (f. 19v)",
+    "Poem 7 (ff. 20r-23r), Incipit (f. 20r), Desinit (f. 22v), Subscription (f. 23r)",
+    "Poem 8 (ff. 23r-24r), To Our Lady, Incipit (f. 23r), Desinit (f. 24r)",
+    "Rubric on f. 1v: بسم الله الحي الأزلي على بركة الله",
+    "Sinai Arabic NF X 12",
+    "This is a collection of poems apparently by a single author. The poems and the collection are untitled: 1. My heart yearns for the land of Jerusalem, my abode, may it please God to make it my homeland; 2. Lord, I am concerned with the marvels of George ...; 3. The second marvel of St. George ...; 4. The nature of the fast; 5. Praise God, O all peoples, praise God day and night; 6. O my eyes, do not weep for the dead ...; 7. Praise God, O all peoples, the Lord of Lords, the Omniscient; 8. I beheld the birth of the Virgin ....",
+    "Unidentified",
+    "ark:/21198/z1t17368",
     "يا رب اغفر لمن هذه مقالة واغفر لمن هو بالإيمان قد أنمي"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1t17368\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF X 12\",\"extent\":\"24 ff.\",\"weight\":\"46.2 g\",\"dim\":\"163 x 121 x 10.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1203f\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1203f\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF X 12, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1vm11\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1vm11\",\"reconstruction\":false,\"label\":\"Unidentified\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Unidentified\",\"genre\":[{\"id\":\"poetry\",\"label\":\"Poetry\"}]},\"locus\":\"ff. 1v-24r\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"locus\":\"f. 1v\",\"as_written\":\" حي الفؤاد إلى الأرض القدس / يا أحلى يا ليتها من بلاد الله لي وطني / او ليتني زرتها قبل الممات  عشار في السما في كرامتها يخلصني\"},{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"locus\":\"f. 24r\",\"as_written\":\"يا رب اغفر لمن هذه مقالة واغفر لمن هو بالإيمان قد أنمي\"}],\"contents\":[{\"label\":\"Poem 1 (ff. 1v-4v), Incipit (f. 1b), Desinit (f. 4v)\"},{\"label\":\"Poem 2 (ff. 4v-10r), On the First Miracle of Saint George, Incipit (f. 4v), Desinit (f. 10r)\"},{\"label\":\"Poem 3 (ff. 10v-13r), On the Second Miracle of Saint George, Incipit (f. 10v), Desinit (f. 13r)\"},{\"label\":\"Poem 4 (ff. 13r-14v)\"},{\"label\":\"Poem 5 (ff. 15r-17r), Incipit (f. 15r), Desinit (f. 17r)\"},{\"label\":\"Poem 6 (ff. 17v-19v), Incipit (f. 17v), Desinit (f. 19v), Subscription (f. 19v)\"},{\"label\":\"Poem 7 (ff. 20r-23r), Incipit (f. 20r), Desinit (f. 22v), Subscription (f. 23r)\"},{\"label\":\"Poem 8 (ff. 23r-24r), To Our Lady, Incipit (f. 23r), Desinit (f. 24r)\"}],\"note\":[\"This is a collection of poems apparently by a single author. The poems and the collection are untitled: 1. My heart yearns for the land of Jerusalem, my abode, may it please God to make it my homeland; 2. Lord, I am concerned with the marvels of George ...; 3. The second marvel of St. George ...; 4. The nature of the fast; 5. Praise God, O all peoples, praise God day and night; 6. O my eyes, do not weep for the dead ...; 7. Praise God, O all peoples, the Lord of Lords, the Omniscient; 8. I beheld the birth of the Virgin ....\"]}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Rubric on f. 1v: بسم الله الحي الأزلي على بركة الله\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Contributor(s): Chris PreJean\"}],\"parent\":[\"ark:/21198/s1203f\"]}}],\"parent\":[\"ark:/21198/z1t17368\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 40; ٤٢\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t17368/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t17368%2F49103v24/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1t17368\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF X 12\",\"extent\":\"24 ff.\",\"weight\":\"46.2 g\",\"dim\":\"163 x 121 x 10.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1203f\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1203f\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF X 12, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1vm11\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1vm11\",\"reconstruction\":false,\"label\":\"Unidentified\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Unidentified\",\"genre\":[{\"id\":\"poetry\",\"label\":\"Poetry\"}]},\"locus\":\"ff. 1v-24r\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"locus\":\"f. 1v\",\"as_written\":\" حي الفؤاد إلى الأرض القدس / يا أحلى يا ليتها من بلاد الله لي وطني / او ليتني زرتها قبل الممات  عشار في السما في كرامتها يخلصني\"},{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"locus\":\"f. 24r\",\"as_written\":\"يا رب اغفر لمن هذه مقالة واغفر لمن هو بالإيمان قد أنمي\"}],\"contents\":[{\"label\":\"Poem 1 (ff. 1v-4v), Incipit (f. 1b), Desinit (f. 4v)\"},{\"label\":\"Poem 2 (ff. 4v-10r), On the First Miracle of Saint George, Incipit (f. 4v), Desinit (f. 10r)\"},{\"label\":\"Poem 3 (ff. 10v-13r), On the Second Miracle of Saint George, Incipit (f. 10v), Desinit (f. 13r)\"},{\"label\":\"Poem 4 (ff. 13r-14v)\"},{\"label\":\"Poem 5 (ff. 15r-17r), Incipit (f. 15r), Desinit (f. 17r)\"},{\"label\":\"Poem 6 (ff. 17v-19v), Incipit (f. 17v), Desinit (f. 19v), Subscription (f. 19v)\"},{\"label\":\"Poem 7 (ff. 20r-23r), Incipit (f. 20r), Desinit (f. 22v), Subscription (f. 23r)\"},{\"label\":\"Poem 8 (ff. 23r-24r), To Our Lady, Incipit (f. 23r), Desinit (f. 24r)\"}],\"note\":[\"This is a collection of poems apparently by a single author. The poems and the collection are untitled: 1. My heart yearns for the land of Jerusalem, my abode, may it please God to make it my homeland; 2. Lord, I am concerned with the marvels of George ...; 3. The second marvel of St. George ...; 4. The nature of the fast; 5. Praise God, O all peoples, praise God day and night; 6. O my eyes, do not weep for the dead ...; 7. Praise God, O all peoples, the Lord of Lords, the Omniscient; 8. I beheld the birth of the Virgin ....\"]}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Rubric on f. 1v: بسم الله الحي الأزلي على بركة الله\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Contributor(s): Chris PreJean\"}],\"parent\":[\"ark:/21198/s1203f\"]}}],\"parent\":[\"ark:/21198/z1t17368\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 40; ٤٢\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t17368/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t17368%2F49103v24/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1t17368",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t17368%2F49103v24/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t17368/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic NF X 12",
+    "24 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": []
 }

@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1418frr",
   "ark_ssi": "ark:/21198/z1418frr",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1418frr%2Ftj72rz07/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -25,6 +19,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -32,10 +27,10 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Liturgical texts",
-    "Hagiographies"
+    "Hagiographies",
+    "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1103
   ],
   "ot_language_ssim": [
@@ -46,7 +41,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -54,29 +49,57 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 410A",
   "titles_tesim": [
-    "Synaxarium. Second part of Synaxarium from the month of Nisan (April) to Ab (August)",
-    "Synaxarion"
+    "Synaxarion",
+    "Synaxarium. Second part of Synaxarium from the month of Nisan (April) to Ab (August)"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Synaxarium. Second part of Synaxarium from the month of Nisan (April) to Ab (August)",
-    "Synaxarium. Part II, from the month of Nisan (April) to Ab (August)",
-    "Synaxarion"
+    "Item 1",
+    "Synaxarion",
+    "Synaxarium. Second part of Synaxarium from the month of Nisan (April) to Ab (August)"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Sinai Arabic 410A",
-    "Naskh",
-    "ark:/21198/z1418frr",
-    "Synaxarion",
     "Arabic",
+    "Naskh",
     "Paper",
-    "Synaxarium. Part II, from the month of Nisan (April) to Ab (August)"
+    "Sinai Arabic 410A",
+    "Synaxarion",
+    "Synaxarium. Part II, from the month of Nisan (April) to Ab (August)",
+    "Synaxarium. Second part of Synaxarium from the month of Nisan (April) to Ab (August)",
+    "ark:/21198/z1418frr"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1418frr\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 410A\",\"extent\":\"143 ff.\",\"weight\":\"347.9 g\",\"dim\":\"174 x 133 x 41 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1090s\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1090s\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 410A, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1sw8t\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1sw8t\",\"reconstruction\":false,\"label\":\"Synaxarium. Part II, from the month of Nisan (April) to Ab (August)\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1h30c\",\"pref_title\":\"Synaxarion\",\"alt_title\":[\"Synaxarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Synaxarium. Second part of Synaxarium from the month of Nisan (April) to Ab (August)\",\"locus\":\"ff. 1r-142v\"}],\"parent\":[\"ark:/21198/s1090s\"]}}],\"assoc_date\":[{\"value\":\"1103 CE\",\"iso\":{\"not_before\":1103,\"not_after\":1103},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"}],\"parent\":[\"ark:/21198/z1418frr\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[169], p. 19\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/0027938846A-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1418frr/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1418frr%2Ftj72rz07/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1418frr\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 410A\",\"extent\":\"143 ff.\",\"weight\":\"347.9 g\",\"dim\":\"174 x 133 x 41 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1090s\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1090s\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 410A, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1sw8t\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1sw8t\",\"reconstruction\":false,\"label\":\"Synaxarium. Part II, from the month of Nisan (April) to Ab (August)\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1h30c\",\"pref_title\":\"Synaxarion\",\"alt_title\":[\"Synaxarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Synaxarium. Second part of Synaxarium from the month of Nisan (April) to Ab (August)\",\"locus\":\"ff. 1r-142v\"}],\"parent\":[\"ark:/21198/s1090s\"]}}],\"assoc_date\":[{\"value\":\"1103 CE\",\"iso\":{\"not_before\":\"1103\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"}],\"parent\":[\"ark:/21198/z1418frr\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[169], p. 19\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/0027938846A-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1418frr/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1418frr%2Ftj72rz07/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1418frr",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1418frr%2Ftj72rz07/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1418frr/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 410A",
+    "143 ff."
+  ],
+  "ot_date_tesim": [
+    "1103 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1103 CE"
+  ]
 }

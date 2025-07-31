@@ -1,15 +1,10 @@
 {
-  "id": "ark:/21198/z10v9h5c",
   "ark_ssi": "ark:/21198/z10v9h5c",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
-    "Colophon"
+    "Colophon",
+    "Dated"
   ],
   "support_ssim": [
     "Paper"
@@ -27,6 +22,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -37,7 +33,7 @@
     "Mimars",
     "Theological works"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1227
   ],
   "ot_language_ssim": [
@@ -46,15 +42,19 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Arabic"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 331",
   "titles_tesim": [
     "Mimars of St. John Climax"
@@ -68,33 +68,61 @@
     "نبتدي بعون الله و حسن تأييده و إرشاده نكتب"
   ],
   "places_tesim": [
-    "Damascus"
+    "Damascus",
+    "F. 208v"
   ],
   "contents_tesim": [
-    "نبتدي بعون الله و حسن تأييده و إرشاده نكتب",
+    "Item 1",
+    "Mimars of St. John Climax",
     "كملت هذه النّسخة",
-    "Mimars of St. John Climax"
+    "نبتدي بعون الله و حسن تأييده و إرشاده نكتب"
   ],
   "paracontent_tesim": [
-    "Colophon",
-    "Arabic",
-    "This copy was completed on Tuesday 27 in the month of Nīsān [March–April] in the Year of the World [Anno Mundi] 6735 …, and it was copied by Nasrullah[?] … in Damascus …",
-    "كملت هذه النسخة يوم الثلاثاء سابع وعشرين نيسان سنة ست آلاف وسبعمائة وخمسة وثلاثين للعالم وبالله التوفيق / وكتب نصر الله الحقير المسكين الخاطئ بدمشق لنفسه فمن قرأ فيها او نسخ منها ووجد فيها غلط او ذلك وكان عارف فليصلحه ولا تجد علي لأن كل مخلوق ناقص والله وحده الكامل / وهو يتضرع ويسأل كل من قرأ فيه ان يدعوا له بالغفران ولجميع بني المعمودية بشفاعة السيدة وجميع القديسين آمين آمين آمين / ويعلم قراي هذا الكتاب أنه منقول من أم انطاكية محررة ولربنا المجد إلى الدهور كلها آمين آمين آمين"
+    "Damascus",
+    "Nasrullah[?] (f. 208v)"
   ],
   "full_text_tesim": [
-    "Nasrullah[?] (f. 208v)",
-    "Damascus",
-    "ark:/21198/z10v9h5c",
-    "Mimars of St. John Climax",
-    "نبتدي بعون الله و حسن تأييده و إرشاده نكتب",
-    "Naskh",
-    "F. 208v",
     "Arabic",
-    "Paper",
+    "Damascus",
     "Donation inscription, f. 1r | Supplicant inscription, f. 208v",
+    "F. 208v",
     "John Climacus",
+    "Mimars of St. John Climax",
+    "Naskh",
+    "Nasrullah[?] (f. 208v)",
+    "Paper",
+    "Sinai Arabic 331",
+    "This copy was completed on Tuesday 27 in the month of Nīsān [March–April] in the Year of the World [Anno Mundi] 6735 …, and it was copied by Nasrullah[?] … in Damascus …",
+    "ark:/21198/z10v9h5c",
+    "كملت هذه النسخة يوم الثلاثاء سابع وعشرين نيسان سنة ست آلاف وسبعمائة وخمسة وثلاثين للعالم وبالله التوفيق / وكتب نصر الله الحقير المسكين الخاطئ بدمشق لنفسه فمن قرأ فيها او نسخ منها ووجد فيها غلط او ذلك وكان عارف فليصلحه ولا تجد علي لأن كل مخلوق ناقص والله وحده الكامل / وهو يتضرع ويسأل كل من قرأ فيه ان يدعوا له بالغفران ولجميع بني المعمودية بشفاعة السيدة وجميع القديسين آمين آمين آمين / ويعلم قراي هذا الكتاب أنه منقول من أم انطاكية محررة ولربنا المجد إلى الدهور كلها آمين آمين آمين",
     "كملت هذه النّسخة",
-    "Sinai Arabic 331"
+    "نبتدي بعون الله و حسن تأييده و إرشاده نكتب"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10v9h5c\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 331\",\"extent\":\"210 ff.\",\"weight\":\"1720.6 g\",\"dim\":\"258 x 185 x 70 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1ws46\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1ws46\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 331, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1qd4v\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1qd4v\",\"reconstruction\":false,\"label\":\"Mimars of St. John Climax\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Mimars of St. John Climax\",\"creator\":[{\"id\":\"ark:/21198/s1d30f\",\"agent_record\":{\"ark\":\"ark:/21198/s1d30f\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Climacus\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"6th century CE\",\"iso\":{\"not_before\":501,\"not_after\":600}},\"rel_con\":[{\"label\":\"John, Climacus, Saint, active 6th century\",\"uri\":\"http://viaf.org/viaf/100159871\",\"source\":\"VIAF\"},{\"label\":\"John, Climacus, Saint, active 6th century\",\"uri\":\"https://id.loc.gov/authorities/names/n81018313\",\"source\":\"LoC\"},{\"label\":\"John, Climacus, active 6th century\",\"uri\":\"https://w3id.org/haf/person/224438251608\",\"source\":\"HAF\"},{\"label\":\"John Climacus\",\"uri\":\"http://syriaca.org/person/574\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Climacus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1452/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"mimars\",\"label\":\"Mimars\"}]},\"locus\":\"ff. 1r-208v\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"locus\":\"f. 1r\",\"as_written\":\"نبتدي بعون الله و حسن تأييده و إرشاده نكتب\"},{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"locus\":\"f. 208v\",\"as_written\":\"كملت هذه النّسخة\"}]}],\"parent\":[\"ark:/21198/s1ws46\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 208v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"كملت هذه النسخة يوم الثلاثاء سابع وعشرين نيسان سنة ست آلاف وسبعمائة وخمسة وثلاثين للعالم وبالله التوفيق / وكتب نصر الله الحقير المسكين الخاطئ بدمشق لنفسه فمن قرأ فيها او نسخ منها ووجد فيها غلط او ذلك وكان عارف فليصلحه ولا تجد علي لأن كل مخلوق ناقص والله وحده الكامل / وهو يتضرع ويسأل كل من قرأ فيه ان يدعوا له بالغفران ولجميع بني المعمودية بشفاعة السيدة وجميع القديسين آمين آمين آمين / ويعلم قراي هذا الكتاب أنه منقول من أم انطاكية محررة ولربنا المجد إلى الدهور كلها آمين آمين آمين\",\"translation\":[\"This copy was completed on Tuesday 27 in the month of Nīsān [March–April] in the Year of the World [Anno Mundi] 6735 …, and it was copied by Nasrullah[?] … in Damascus …\"],\"assoc_name\":[{\"value\":\"Nasrullah[?] (f. 208v)\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}],\"assoc_place\":[{\"value\":\"Damascus\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"assoc_date\":[{\"value\":\"Tuesday 27 Nisan 6735 (world)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}],\"assoc_date\":[{\"value\":\"1227 CE\",\"iso\":{\"not_before\":1227,\"not_after\":1227},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Damascus\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"},\"note\":[\"F. 208v\"]}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z10v9h5c\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Donation inscription, f. 1r | Supplicant inscription, f. 208v\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[458], p. 37\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279385366-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10v9h5c/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10v9h5c\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 331\",\"extent\":\"210 ff.\",\"weight\":\"1720.6 g\",\"dim\":\"258 x 185 x 70 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1ws46\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1ws46\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 331, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1qd4v\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1qd4v\",\"reconstruction\":false,\"label\":\"Mimars of St. John Climax\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Mimars of St. John Climax\",\"creator\":[{\"id\":\"ark:/21198/s1d30f\",\"agent_record\":{\"ark\":\"ark:/21198/s1d30f\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Climacus\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"6th century CE\",\"iso\":{\"not_before\":\"0501\",\"not_after\":\"0600\"}},\"rel_con\":[{\"label\":\"John, Climacus, Saint, active 6th century\",\"uri\":\"http://viaf.org/viaf/100159871\",\"source\":\"VIAF\"},{\"label\":\"John, Climacus, Saint, active 6th century\",\"uri\":\"https://id.loc.gov/authorities/names/n81018313\",\"source\":\"LoC\"},{\"label\":\"John, Climacus, active 6th century\",\"uri\":\"https://w3id.org/haf/person/224438251608\",\"source\":\"HAF\"},{\"label\":\"John Climacus\",\"uri\":\"http://syriaca.org/person/574\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Climacus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1452/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"mimars\",\"label\":\"Mimars\"}]},\"locus\":\"ff. 1r-208v\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"locus\":\"f. 1r\",\"as_written\":\"نبتدي بعون الله و حسن تأييده و إرشاده نكتب\"},{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"locus\":\"f. 208v\",\"as_written\":\"كملت هذه النّسخة\"}]}],\"parent\":[\"ark:/21198/s1ws46\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 208v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"كملت هذه النسخة يوم الثلاثاء سابع وعشرين نيسان سنة ست آلاف وسبعمائة وخمسة وثلاثين للعالم وبالله التوفيق / وكتب نصر الله الحقير المسكين الخاطئ بدمشق لنفسه فمن قرأ فيها او نسخ منها ووجد فيها غلط او ذلك وكان عارف فليصلحه ولا تجد علي لأن كل مخلوق ناقص والله وحده الكامل / وهو يتضرع ويسأل كل من قرأ فيه ان يدعوا له بالغفران ولجميع بني المعمودية بشفاعة السيدة وجميع القديسين آمين آمين آمين / ويعلم قراي هذا الكتاب أنه منقول من أم انطاكية محررة ولربنا المجد إلى الدهور كلها آمين آمين آمين\",\"translation\":[\"This copy was completed on Tuesday 27 in the month of Nīsān [March–April] in the Year of the World [Anno Mundi] 6735 …, and it was copied by Nasrullah[?] … in Damascus …\"],\"assoc_name\":[{\"value\":\"Nasrullah[?] (f. 208v)\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}],\"assoc_place\":[{\"value\":\"Damascus\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"assoc_date\":[{\"value\":\"Tuesday 27 Nisan 6735 (world)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}],\"assoc_date\":[{\"value\":\"1227 CE\",\"iso\":{\"not_before\":\"1227\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Damascus\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"},\"note\":[\"F. 208v\"]}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z10v9h5c\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Donation inscription, f. 1r | Supplicant inscription, f. 208v\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[458], p. 37\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279385366-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10v9h5c/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "id": "ark:/21198/z10v9h5c",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10v9h5c/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 331",
+    "210 ff."
+  ],
+  "ot_date_tesim": [
+    "1227 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1227 CE"
+  ]
 }

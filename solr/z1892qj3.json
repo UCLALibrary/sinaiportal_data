@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1892qj3",
   "ark_ssi": "ark:/21198/z1892qj3",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1892qj3%2F0v573w70/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -32,7 +27,7 @@
   "ot_genre_ssim": [
     "Philosophical works"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1101,
     1102,
     1103,
@@ -140,7 +135,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -148,7 +143,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 579",
   "titles_tesim": [
     "Long treatise on Logic"
@@ -157,16 +152,44 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Long treatise on Logic"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Naskh",
-    "Sinai Arabic 579",
     "Arabic",
+    "Long treatise on Logic",
+    "Naskh",
     "Paper",
-    "ark:/21198/z1892qj3",
-    "Long treatise on Logic"
+    "Sinai Arabic 579",
+    "ark:/21198/z1892qj3"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1892qj3\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 579\",\"extent\":\"180 ff.\",\"weight\":\"684.9 g\",\"dim\":\"237 x 177 x 47 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s12g85\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s12g85\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 579, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1w08s\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1w08s\",\"reconstruction\":false,\"label\":\"Long treatise on Logic\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Long treatise on Logic\",\"genre\":[{\"id\":\"philosophical-works\",\"label\":\"Philosophical works\"}]},\"locus\":\"ff. 1av-179v\"}],\"parent\":[\"ark:/21198/s12g85\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":1101,\"not_after\":1200},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1892qj3\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[592], p. 52\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390659-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1892qj3/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1892qj3%2F0v573w70/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1892qj3\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 579\",\"extent\":\"180 ff.\",\"weight\":\"684.9 g\",\"dim\":\"237 x 177 x 47 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s12g85\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s12g85\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 579, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1w08s\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1w08s\",\"reconstruction\":false,\"label\":\"Long treatise on Logic\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Long treatise on Logic\",\"genre\":[{\"id\":\"philosophical-works\",\"label\":\"Philosophical works\"}]},\"locus\":\"ff. 1av-179v\"}],\"parent\":[\"ark:/21198/s12g85\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1892qj3\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[592], p. 52\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390659-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1892qj3/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1892qj3%2F0v573w70/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1892qj3",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1892qj3%2F0v573w70/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1892qj3/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 579",
+    "180 ff."
+  ],
+  "ot_date_tesim": [
+    "12th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "12th c. CE"
+  ]
 }

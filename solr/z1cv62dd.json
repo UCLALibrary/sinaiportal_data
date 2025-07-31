@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1cv62dd",
   "ark_ssi": "ark:/21198/z1cv62dd",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cv62dd%2Ffq53hr01/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Estrangela"
   ],
@@ -32,7 +27,7 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     801,
     802,
     803,
@@ -142,7 +137,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -150,32 +145,60 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 41",
   "titles_tesim": [
+    "Bible. Psalms",
     "Psalms",
-    "Psalms 3 : 7-53-6",
-    "Bible. Psalms"
+    "Psalms 3 : 7-53-6"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Sayings of SS. Macarius, John Carpatheus, Isaac of Nineveh and Gregory Nazienzis",
+    "Bible. Psalms",
+    "Item 1",
     "Psalms",
-    "Psalms 3 : 7-53-6",
-    "Bible. Psalms"
+    "Psalms 3 : 7-53-6"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "ark:/21198/z1cv62dd",
-    "Parchment",
-    "Sinai Syriac 41",
     "Bible. Psalms",
-    "Sayings of SS. Macarius, John Carpatheus, Isaac of Nineveh and Gregory Nazienzis",
-    "Psalms",
     "Estrangela",
-    "Syriac"
+    "Parchment",
+    "Psalms",
+    "Psalms 3 : 7-53-6",
+    "Sayings of SS. Macarius, John Carpatheus, Isaac of Nineveh and Gregory Nazienzis",
+    "Sinai Syriac 41",
+    "Syriac",
+    "ark:/21198/z1cv62dd"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1cv62dd\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 41\",\"extent\":\"47 ff.\",\"weight\":\"118.7 g\",\"dim\":\"140 x 98 x 26.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1q320\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1q320\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 41, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1hq1z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1hq1z\",\"reconstruction\":false,\"label\":\"Sayings of SS. Macarius, John Carpatheus, Isaac of Nineveh and Gregory Nazienzis\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s11c7f\",\"pref_title\":\"Psalms\",\"alt_title\":[\"Bible. Psalms\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Psalms\",\"uri\":\"https://viaf.org/viaf/60146153112905251951\",\"source\":\"VIAF\"},{\"label\":\"Bible. Psalms\",\"uri\":\"http://id.loc.gov/authorities/names/n79056804\",\"source\":\"LoC\"}]},\"alt_title\":\"Psalms 3 : 7-53-6\",\"locus\":\"ff. 2r-47v\"}],\"parent\":[\"ark:/21198/s1q320\"]}}],\"assoc_date\":[{\"value\":\"9th c. CE\",\"iso\":{\"not_before\":801,\"not_after\":900},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1cv62dd\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[3], p. 151\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386553-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cv62dd/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cv62dd%2Ffq53hr01/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1cv62dd\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 41\",\"extent\":\"47 ff.\",\"weight\":\"118.7 g\",\"dim\":\"140 x 98 x 26.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1q320\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1q320\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 41, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1hq1z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1hq1z\",\"reconstruction\":false,\"label\":\"Sayings of SS. Macarius, John Carpatheus, Isaac of Nineveh and Gregory Nazienzis\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s11c7f\",\"pref_title\":\"Psalms\",\"alt_title\":[\"Bible. Psalms\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Psalms\",\"uri\":\"https://viaf.org/viaf/60146153112905251951\",\"source\":\"VIAF\"},{\"label\":\"Bible. Psalms\",\"uri\":\"http://id.loc.gov/authorities/names/n79056804\",\"source\":\"LoC\"}]},\"alt_title\":\"Psalms 3 : 7-53-6\",\"locus\":\"ff. 2r-47v\"}],\"parent\":[\"ark:/21198/s1q320\"]}}],\"assoc_date\":[{\"value\":\"9th c. CE\",\"iso\":{\"not_before\":\"0801\",\"not_after\":\"0900\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1cv62dd\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[3], p. 151\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386553-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cv62dd/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cv62dd%2Ffq53hr01/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1cv62dd",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cv62dd%2Ffq53hr01/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cv62dd/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 41",
+    "47 ff."
+  ],
+  "ot_date_tesim": [
+    "9th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "9th c. CE"
+  ]
 }

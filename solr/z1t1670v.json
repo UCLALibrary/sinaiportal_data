@@ -1,17 +1,11 @@
 {
-  "id": "ark:/21198/z1t1670v",
   "ark_ssi": "ark:/21198/z1t1670v",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t1670v%2F3t56w73z/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
     "Dated",
-    "Headpiece(s)",
-    "Decoration, Geometric"
+    "Decoration, Geometric",
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -27,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -37,7 +32,7 @@
     "Hymnals",
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1312
   ],
   "ot_language_ssim": [
@@ -48,42 +43,74 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Syriac"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 183",
   "titles_tesim": [
     "Triodion"
   ],
   "names_tesim": [
-    "يحنا ابن يعقوب",
-    "Yuhanna ibn Ya'qob"
+    "Yuhanna ibn Ya'qob",
+    "يحنا ابن يعقوب"
   ],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Triodion"
   ],
   "paracontent_tesim": [
-    "Syriac",
-    "Colophon"
+    "Yuhanna ibn Ya'qob",
+    "يحنا ابن يعقوب"
   ],
   "full_text_tesim": [
+    "Melkite",
     "Minor geometric headpieces and tailpieces throughout, beginning f.84v | Aleph decorations throughout",
-    "يحنا ابن يعقوب",
+    "Paper",
+    "Sinai Syriac 183",
+    "Syriac",
+    "Triodion",
     "Yuhanna ibn Ya'qob",
     "ark:/21198/z1t1670v",
-    "Triodion",
-    "Melkite",
-    "Paper",
-    "Syriac",
-    "Sinai Syriac 183"
+    "يحنا ابن يعقوب"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1t1670v\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 183\",\"extent\":\"192 ff.\",\"weight\":\"2046.8 g\",\"dim\":\"282 x 208 x 87 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1w616\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1w616\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 183, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1pt05\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1pt05\",\"reconstruction\":false,\"label\":\"Triodion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1030q\",\"pref_title\":\"Triodion\",\"alt_title\":[\"Triodion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 1r-191v\"}],\"parent\":[\"ark:/21198/s1w616\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"191v\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"assoc_name\":[{\"value\":\"Yuhanna ibn Ya'qob\",\"as_written\":\"يحنا ابن يعقوب\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}]}],\"assoc_date\":[{\"value\":\"1312 CE\",\"iso\":{\"not_before\":1312,\"not_after\":1312},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces and tailpieces throughout, beginning f.84v | Aleph decorations throughout\"}],\"parent\":[\"ark:/21198/z1t1670v\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[209], p. 159\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714610205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t1670v/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t1670v%2F3t56w73z/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1t1670v\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 183\",\"extent\":\"192 ff.\",\"weight\":\"2046.8 g\",\"dim\":\"282 x 208 x 87 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1w616\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1w616\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 183, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1pt05\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1pt05\",\"reconstruction\":false,\"label\":\"Triodion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1030q\",\"pref_title\":\"Triodion\",\"alt_title\":[\"Triodion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 1r-191v\"}],\"parent\":[\"ark:/21198/s1w616\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"191v\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"assoc_name\":[{\"value\":\"Yuhanna ibn Ya'qob\",\"as_written\":\"يحنا ابن يعقوب\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}]}],\"assoc_date\":[{\"value\":\"1312 CE\",\"iso\":{\"not_before\":\"1312\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces and tailpieces throughout, beginning f.84v | Aleph decorations throughout\"}],\"parent\":[\"ark:/21198/z1t1670v\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[209], p. 159\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714610205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t1670v/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t1670v%2F3t56w73z/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1t1670v",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t1670v%2F3t56w73z/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t1670v/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 183",
+    "192 ff."
+  ],
+  "ot_date_tesim": [
+    "1312 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1312 CE"
+  ]
 }

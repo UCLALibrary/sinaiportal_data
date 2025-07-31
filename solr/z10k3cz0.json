@@ -1,17 +1,11 @@
 {
-  "id": "ark:/21198/z10k3cz0",
   "ark_ssi": "ark:/21198/z10k3cz0",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10k3cz0%2F5t06bx5j/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
     "Dated",
-    "Headpiece(s)",
-    "Decoration, Geometric"
+    "Decoration, Geometric",
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -27,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -34,11 +29,11 @@
     "Syriac"
   ],
   "ot_genre_ssim": [
+    "Biblical texts",
     "Lectionaries",
-    "Liturgical texts",
-    "Biblical texts"
+    "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1214
   ],
   "ot_language_ssim": [
@@ -49,47 +44,77 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Syriac"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 234",
   "titles_tesim": [
     "Prophetologion"
   ],
   "names_tesim": [
-    "ܩܫܝܫܐ ܡܬܝ",
-    "Priest Mattai"
+    "Priest Mattai",
+    "ܩܫܝܫܐ ܡܬܝ"
   ],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Prophetologion"
   ],
   "paracontent_tesim": [
-    "Attested places:  Tripolis",
-    "Colophon",
-    "ܫ̄ܘ ܠܐܒܐ ܕܓܕܪ ܘܠܒܪܐ ܕܣܝܕ ܘܠܪܘܚܐ ܕܩܘܕܫܐ ܕܓܠܝ ܘܫܡܠܝ. ܗܫܐ ܘܒܟܠܙܒܢ ܘܠܥܠܡ ܥܡܠܝܢ ܐܡܝܢ܀ ܫܠܡ ܒܥܘܕܪܢ ܡܪܢ ܟܬܒܐ ܗܢܐ ܕܩܪܝܢܐ ܕܚܘܕܪܐ ܕܟܠܗ̇ ܫܢܬܐ ܐܝܟ ܛܟܣܐ ܕܝܘܢܐ ܕܡܫܬܡܗ ܠܘܬܗܘܢ ܦܪܡܘܢ܀ ܫܢܬ̤ ܐܠܦ ܘܚܡܫܡܐܐ ܟ̄ܘ. ܡܢ ܫܢ̈ܝܐ ܕܠܟܣ ܕܠܟܣܢܕܪܘܣ ܡܩܕܘܢܝܐ. ܝܘܡ ܫ̄ܒ ܒ̄ܫ. ܟ̄ܓ ܒܝܪܚ ܐܕܪ ܠܐܦܝ ܫ̈ܢܬ̤ ܫ̈ܥܝܢ ܒܘܢܡܐ. ܒܩܪܝܬܐ ܪܚܡܬ̤ ܠܡܫܝܚܐ ܒܬܪܘܡܝܢ. ܒܟܘܪܐ ܕܛܪܘܦܘܠܝܣ ܡܕܝܢܬܐ ܕܣܘܪܝܐ. ܟܬܒܗ ܕܝܢ ܐܢܫ ܚܛܝܐ ܘܕܘܝܐ ܡܦܠܦܠ ܒܟܢܙܗ̈ܝܢ ܣܢ̈ܝܬܐ ܘܣ̣̈ܡ̣̈ܕ ܘܣܢܝܩ ܥܠ ܪ̈ܚܡܐ ܕܡܪܝܐ ܩܫܝܫܐ ܡܬܝ ܘܠܐ ܫܘܝܐ ܕܢܬܩܪܐ ܟܗܢܐ. ܐܠܐ ܐܠܗܐ ܐܒܐ ܕܟܠ ܪ̈ܚܡܐ ܢܚܣܐ ܚܘܒܘܗ̈ܝ ܘܢܫܒܘܩ ܚܛܘ̈ܗܝ ܘܢܢܛܪ ܠܝܚܘܪ̈ܘܝ ܘܢܢܝܥ ܠܠܚܕܘ̈ܝ ܒܨ̄ܠܘ ܕܝܠܕܬ ܐܠܗܐ ܡܪܝܡ ܘܕܡܪܝ ܝܘܚܢܢ ܡܢܡܕܢܐ ܘܕܢܒ̈ܝܐ ̱ ܘܕܫܠܝܚ̈ܐ ܘܕܘܗܕܐ ܘܚܣܝܐ ܘܢ̈ܫܐ ܩܕ̈ܝܫܬܐ ܐܡܝ̈ܢ܀ ܦܓܘܕܐ ܐܘ ܓܠܛܐ. ܐܣܪܘܚܘ ܠܝ ܫܘܒܩܢܐ ܡܛܠ ܐܠܗܐ ܘܨܠܘ ܥܠܝ ܕܐܬܚܢܢ ܒܝܘܡ ܕܝܢܐ. ܘܟܠܢܫ ܐܝܟ ܣܠܘܬܗ ܡܬܦܪܥ ܐܡܝܢ x ܐܠܗܐ ܢܚܣܐ ܠܟܠܡܢ ܕܐܬ ܠܗ̣ ܒܗ ܫܘܬܦܘܬܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܡܗܘܢ ܩܕܝܫܐ ܐܡܝܢ++++++++",
-    "Syriac",
-    "Smudged and difficult to discern text. A Garshuni template follows."
+    "Priest Mattai",
+    "ܩܫܝܫܐ ܡܬܝ"
   ],
   "full_text_tesim": [
+    "Attested places:  Tripolis",
+    "Melkite",
+    "Minor geometric headpieces throughout, beginning on f. 13v",
+    "Paper",
+    "Priest Mattai",
+    "Prophetologion",
     "Sinai Syriac 234",
+    "Smudged and difficult to discern text. A Garshuni template follows.",
+    "Syriac",
     "ark:/21198/z10k3cz0",
     "ܩܫܝܫܐ ܡܬܝ",
-    "Prophetologion",
-    "Minor geometric headpieces throughout, beginning on f. 13v",
-    "Priest Mattai",
-    "Attested places:  Tripolis",
-    "Paper",
-    "Melkite",
-    "Syriac",
-    "Smudged and difficult to discern text. A Garshuni template follows."
+    "ܫ̄ܘ ܠܐܒܐ ܕܓܕܪ ܘܠܒܪܐ ܕܣܝܕ ܘܠܪܘܚܐ ܕܩܘܕܫܐ ܕܓܠܝ ܘܫܡܠܝ. ܗܫܐ ܘܒܟܠܙܒܢ ܘܠܥܠܡ ܥܡܠܝܢ ܐܡܝܢ܀ ܫܠܡ ܒܥܘܕܪܢ ܡܪܢ ܟܬܒܐ ܗܢܐ ܕܩܪܝܢܐ ܕܚܘܕܪܐ ܕܟܠܗ̇ ܫܢܬܐ ܐܝܟ ܛܟܣܐ ܕܝܘܢܐ ܕܡܫܬܡܗ ܠܘܬܗܘܢ ܦܪܡܘܢ܀ ܫܢܬ̤ ܐܠܦ ܘܚܡܫܡܐܐ ܟ̄ܘ. ܡܢ ܫܢ̈ܝܐ ܕܠܟܣ ܕܠܟܣܢܕܪܘܣ ܡܩܕܘܢܝܐ. ܝܘܡ ܫ̄ܒ ܒ̄ܫ. ܟ̄ܓ ܒܝܪܚ ܐܕܪ ܠܐܦܝ ܫ̈ܢܬ̤ ܫ̈ܥܝܢ ܒܘܢܡܐ. ܒܩܪܝܬܐ ܪܚܡܬ̤ ܠܡܫܝܚܐ ܒܬܪܘܡܝܢ. ܒܟܘܪܐ ܕܛܪܘܦܘܠܝܣ ܡܕܝܢܬܐ ܕܣܘܪܝܐ. ܟܬܒܗ ܕܝܢ ܐܢܫ ܚܛܝܐ ܘܕܘܝܐ ܡܦܠܦܠ ܒܟܢܙܗ̈ܝܢ ܣܢ̈ܝܬܐ ܘܣ̣̈ܡ̣̈ܕ ܘܣܢܝܩ ܥܠ ܪ̈ܚܡܐ ܕܡܪܝܐ ܩܫܝܫܐ ܡܬܝ ܘܠܐ ܫܘܝܐ ܕܢܬܩܪܐ ܟܗܢܐ. ܐܠܐ ܐܠܗܐ ܐܒܐ ܕܟܠ ܪ̈ܚܡܐ ܢܚܣܐ ܚܘܒܘܗ̈ܝ ܘܢܫܒܘܩ ܚܛܘ̈ܗܝ ܘܢܢܛܪ ܠܝܚܘܪ̈ܘܝ ܘܢܢܝܥ ܠܠܚܕܘ̈ܝ ܒܨ̄ܠܘ ܕܝܠܕܬ ܐܠܗܐ ܡܪܝܡ ܘܕܡܪܝ ܝܘܚܢܢ ܡܢܡܕܢܐ ܘܕܢܒ̈ܝܐ ̱ ܘܕܫܠܝܚ̈ܐ ܘܕܘܗܕܐ ܘܚܣܝܐ ܘܢ̈ܫܐ ܩܕ̈ܝܫܬܐ ܐܡܝ̈ܢ܀ ܦܓܘܕܐ ܐܘ ܓܠܛܐ. ܐܣܪܘܚܘ ܠܝ ܫܘܒܩܢܐ ܡܛܠ ܐܠܗܐ ܘܨܠܘ ܥܠܝ ܕܐܬܚܢܢ ܒܝܘܡ ܕܝܢܐ. ܘܟܠܢܫ ܐܝܟ ܣܠܘܬܗ ܡܬܦܪܥ ܐܡܝܢ x ܐܠܗܐ ܢܚܣܐ ܠܟܠܡܢ ܕܐܬ ܠܗ̣ ܒܗ ܫܘܬܦܘܬܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܡܗܘܢ ܩܕܝܫܐ ܐܡܝܢ++++++++"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10k3cz0\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 234\",\"extent\":\"124 ff.\",\"weight\":\"1225.6 g\",\"dim\":\"264 x 190 x 51 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1jk8j\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1jk8j\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 234, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1c66f\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1c66f\",\"reconstruction\":false,\"label\":\"Prophetologion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1j30p\",\"pref_title\":\"Prophetologion\",\"alt_title\":[\"Prophetologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"locus\":\"ff. 1r-124r\"}],\"parent\":[\"ark:/21198/s1jk8j\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"123r-123v\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܫ̄ܘ ܠܐܒܐ ܕܓܕܪ ܘܠܒܪܐ ܕܣܝܕ ܘܠܪܘܚܐ ܕܩܘܕܫܐ ܕܓܠܝ ܘܫܡܠܝ. ܗܫܐ ܘܒܟܠܙܒܢ ܘܠܥܠܡ ܥܡܠܝܢ ܐܡܝܢ܀ ܫܠܡ ܒܥܘܕܪܢ ܡܪܢ ܟܬܒܐ ܗܢܐ ܕܩܪܝܢܐ ܕܚܘܕܪܐ ܕܟܠܗ̇ ܫܢܬܐ ܐܝܟ ܛܟܣܐ ܕܝܘܢܐ ܕܡܫܬܡܗ ܠܘܬܗܘܢ ܦܪܡܘܢ܀ ܫܢܬ̤ ܐܠܦ ܘܚܡܫܡܐܐ ܟ̄ܘ. ܡܢ ܫܢ̈ܝܐ ܕܠܟܣ ܕܠܟܣܢܕܪܘܣ ܡܩܕܘܢܝܐ. ܝܘܡ ܫ̄ܒ ܒ̄ܫ. ܟ̄ܓ ܒܝܪܚ ܐܕܪ ܠܐܦܝ ܫ̈ܢܬ̤ ܫ̈ܥܝܢ ܒܘܢܡܐ. ܒܩܪܝܬܐ ܪܚܡܬ̤ ܠܡܫܝܚܐ ܒܬܪܘܡܝܢ. ܒܟܘܪܐ ܕܛܪܘܦܘܠܝܣ ܡܕܝܢܬܐ ܕܣܘܪܝܐ. ܟܬܒܗ ܕܝܢ ܐܢܫ ܚܛܝܐ ܘܕܘܝܐ ܡܦܠܦܠ ܒܟܢܙܗ̈ܝܢ ܣܢ̈ܝܬܐ ܘܣ̣̈ܡ̣̈ܕ ܘܣܢܝܩ ܥܠ ܪ̈ܚܡܐ ܕܡܪܝܐ ܩܫܝܫܐ ܡܬܝ ܘܠܐ ܫܘܝܐ ܕܢܬܩܪܐ ܟܗܢܐ. ܐܠܐ ܐܠܗܐ ܐܒܐ ܕܟܠ ܪ̈ܚܡܐ ܢܚܣܐ ܚܘܒܘܗ̈ܝ ܘܢܫܒܘܩ ܚܛܘ̈ܗܝ ܘܢܢܛܪ ܠܝܚܘܪ̈ܘܝ ܘܢܢܝܥ ܠܠܚܕܘ̈ܝ ܒܨ̄ܠܘ ܕܝܠܕܬ ܐܠܗܐ ܡܪܝܡ ܘܕܡܪܝ ܝܘܚܢܢ ܡܢܡܕܢܐ ܘܕܢܒ̈ܝܐ ̱ ܘܕܫܠܝܚ̈ܐ ܘܕܘܗܕܐ ܘܚܣܝܐ ܘܢ̈ܫܐ ܩܕ̈ܝܫܬܐ ܐܡܝ̈ܢ܀ ܦܓܘܕܐ ܐܘ ܓܠܛܐ. ܐܣܪܘܚܘ ܠܝ ܫܘܒܩܢܐ ܡܛܠ ܐܠܗܐ ܘܨܠܘ ܥܠܝ ܕܐܬܚܢܢ ܒܝܘܡ ܕܝܢܐ. ܘܟܠܢܫ ܐܝܟ ܣܠܘܬܗ ܡܬܦܪܥ ܐܡܝܢ x ܐܠܗܐ ܢܚܣܐ ܠܟܠܡܢ ܕܐܬ ܠܗ̣ ܒܗ ܫܘܬܦܘܬܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܡܗܘܢ ܩܕܝܫܐ ܐܡܝܢ++++++++\",\"assoc_name\":[{\"value\":\"Priest Mattai\",\"as_written\":\"ܩܫܝܫܐ ܡܬܝ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}],\"note\":[\"Smudged and difficult to discern text. A Garshuni template follows.\",\"Attested places:  Tripolis\"]}],\"assoc_date\":[{\"value\":\"1214 CE\",\"iso\":{\"not_before\":1214,\"not_after\":1214},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces throughout, beginning on f. 13v\"}],\"parent\":[\"ark:/21198/z10k3cz0\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[186], p. 158\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10k3cz0/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10k3cz0%2F5t06bx5j/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10k3cz0\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 234\",\"extent\":\"124 ff.\",\"weight\":\"1225.6 g\",\"dim\":\"264 x 190 x 51 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1jk8j\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1jk8j\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 234, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1c66f\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1c66f\",\"reconstruction\":false,\"label\":\"Prophetologion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1j30p\",\"pref_title\":\"Prophetologion\",\"alt_title\":[\"Prophetologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"locus\":\"ff. 1r-124r\"}],\"parent\":[\"ark:/21198/s1jk8j\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"123r-123v\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܫ̄ܘ ܠܐܒܐ ܕܓܕܪ ܘܠܒܪܐ ܕܣܝܕ ܘܠܪܘܚܐ ܕܩܘܕܫܐ ܕܓܠܝ ܘܫܡܠܝ. ܗܫܐ ܘܒܟܠܙܒܢ ܘܠܥܠܡ ܥܡܠܝܢ ܐܡܝܢ܀ ܫܠܡ ܒܥܘܕܪܢ ܡܪܢ ܟܬܒܐ ܗܢܐ ܕܩܪܝܢܐ ܕܚܘܕܪܐ ܕܟܠܗ̇ ܫܢܬܐ ܐܝܟ ܛܟܣܐ ܕܝܘܢܐ ܕܡܫܬܡܗ ܠܘܬܗܘܢ ܦܪܡܘܢ܀ ܫܢܬ̤ ܐܠܦ ܘܚܡܫܡܐܐ ܟ̄ܘ. ܡܢ ܫܢ̈ܝܐ ܕܠܟܣ ܕܠܟܣܢܕܪܘܣ ܡܩܕܘܢܝܐ. ܝܘܡ ܫ̄ܒ ܒ̄ܫ. ܟ̄ܓ ܒܝܪܚ ܐܕܪ ܠܐܦܝ ܫ̈ܢܬ̤ ܫ̈ܥܝܢ ܒܘܢܡܐ. ܒܩܪܝܬܐ ܪܚܡܬ̤ ܠܡܫܝܚܐ ܒܬܪܘܡܝܢ. ܒܟܘܪܐ ܕܛܪܘܦܘܠܝܣ ܡܕܝܢܬܐ ܕܣܘܪܝܐ. ܟܬܒܗ ܕܝܢ ܐܢܫ ܚܛܝܐ ܘܕܘܝܐ ܡܦܠܦܠ ܒܟܢܙܗ̈ܝܢ ܣܢ̈ܝܬܐ ܘܣ̣̈ܡ̣̈ܕ ܘܣܢܝܩ ܥܠ ܪ̈ܚܡܐ ܕܡܪܝܐ ܩܫܝܫܐ ܡܬܝ ܘܠܐ ܫܘܝܐ ܕܢܬܩܪܐ ܟܗܢܐ. ܐܠܐ ܐܠܗܐ ܐܒܐ ܕܟܠ ܪ̈ܚܡܐ ܢܚܣܐ ܚܘܒܘܗ̈ܝ ܘܢܫܒܘܩ ܚܛܘ̈ܗܝ ܘܢܢܛܪ ܠܝܚܘܪ̈ܘܝ ܘܢܢܝܥ ܠܠܚܕܘ̈ܝ ܒܨ̄ܠܘ ܕܝܠܕܬ ܐܠܗܐ ܡܪܝܡ ܘܕܡܪܝ ܝܘܚܢܢ ܡܢܡܕܢܐ ܘܕܢܒ̈ܝܐ ̱ ܘܕܫܠܝܚ̈ܐ ܘܕܘܗܕܐ ܘܚܣܝܐ ܘܢ̈ܫܐ ܩܕ̈ܝܫܬܐ ܐܡܝ̈ܢ܀ ܦܓܘܕܐ ܐܘ ܓܠܛܐ. ܐܣܪܘܚܘ ܠܝ ܫܘܒܩܢܐ ܡܛܠ ܐܠܗܐ ܘܨܠܘ ܥܠܝ ܕܐܬܚܢܢ ܒܝܘܡ ܕܝܢܐ. ܘܟܠܢܫ ܐܝܟ ܣܠܘܬܗ ܡܬܦܪܥ ܐܡܝܢ x ܐܠܗܐ ܢܚܣܐ ܠܟܠܡܢ ܕܐܬ ܠܗ̣ ܒܗ ܫܘܬܦܘܬܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܡܗܘܢ ܩܕܝܫܐ ܐܡܝܢ++++++++\",\"assoc_name\":[{\"value\":\"Priest Mattai\",\"as_written\":\"ܩܫܝܫܐ ܡܬܝ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}],\"note\":[\"Smudged and difficult to discern text. A Garshuni template follows.\",\"Attested places:  Tripolis\"]}],\"assoc_date\":[{\"value\":\"1214 CE\",\"iso\":{\"not_before\":\"1214\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces throughout, beginning on f. 13v\"}],\"parent\":[\"ark:/21198/z10k3cz0\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[186], p. 158\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10k3cz0/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10k3cz0%2F5t06bx5j/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z10k3cz0",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10k3cz0%2F5t06bx5j/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10k3cz0/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 234",
+    "124 ff."
+  ],
+  "ot_date_tesim": [
+    "1214 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1214 CE"
+  ]
 }

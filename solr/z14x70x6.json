@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z14x70x6",
   "ark_ssi": "ark:/21198/z14x70x6",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14x70x6%2Ft5195z81/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Quire(s)",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -32,7 +27,7 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_date_isim": [],
+  "ot_years_isim": [],
   "ot_language_ssim": [
     "Arabic"
   ],
@@ -41,7 +36,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -49,7 +44,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF M 5",
   "titles_tesim": [
     "Bible",
@@ -60,17 +55,41 @@
   "places_tesim": [],
   "contents_tesim": [
     "Bible",
-    "Excerpts from the Bible"
+    "Excerpts from the Bible",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Naskh",
     "Arabic",
-    "Parchment",
     "Bible",
-    "ark:/21198/z14x70x6",
     "Excerpts from the Bible",
-    "Sinai Arabic NF M 5"
+    "Naskh",
+    "Parchment",
+    "Sinai Arabic NF M 5",
+    "ark:/21198/z14x70x6"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z14x70x6\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 5\",\"extent\":\"8 ff.\",\"weight\":\"23.7 g\",\"dim\":\"205 x 140 x 15.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1pw4c\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1pw4c\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 5, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1hh3n\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1hh3n\",\"reconstruction\":false,\"label\":\"Excerpts from the Bible\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1q59b\",\"pref_title\":\"Bible\",\"alt_title\":[\"Bible\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Excerpts from the Bible\",\"locus\":\"ff. 1r-8v \"}],\"parent\":[\"ark:/21198/s1pw4c\"]}}],\"parent\":[\"ark:/21198/z14x70x6\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 23; ١٩\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14x70x6/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14x70x6%2Ft5195z81/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z14x70x6\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 5\",\"extent\":\"8 ff.\",\"weight\":\"23.7 g\",\"dim\":\"205 x 140 x 15.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1pw4c\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1pw4c\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 5, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1hh3n\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1hh3n\",\"reconstruction\":false,\"label\":\"Excerpts from the Bible\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1q59b\",\"pref_title\":\"Bible\",\"alt_title\":[\"Bible\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Excerpts from the Bible\",\"locus\":\"ff. 1r-8v \"}],\"parent\":[\"ark:/21198/s1pw4c\"]}}],\"parent\":[\"ark:/21198/z14x70x6\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 23; ١٩\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14x70x6/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14x70x6%2Ft5195z81/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z14x70x6",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14x70x6%2Ft5195z81/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14x70x6/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic NF M 5",
+    "8 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": []
 }

@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z1w385bk",
   "ark_ssi": "ark:/21198/z1w385bk",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14t6jxd/1022,0,6132,6132/150,150/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Bifolio(s)",
   "features_ssim": [
-    "Palimpsest",
-    "Multispectral Imaging"
+    "Multispectral Imaging",
+    "Palimpsest"
   ],
   "support_ssim": [
     "Parchment"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Greek minuscule"
   ],
@@ -35,7 +30,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -95,7 +90,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -107,9 +102,7 @@
   "uto_language_ssim": [
     "Greek"
   ],
-  "uto_date_isim": [
-    1024,
-    1025,
+  "uto_years_isim": [
     975,
     976,
     977,
@@ -158,7 +151,9 @@
     1020,
     1021,
     1022,
-    1023
+    1023,
+    1024,
+    1025
   ],
   "shelfmark_ssi": "Sinai Greek NF M 98",
   "titles_tesim": [
@@ -169,23 +164,51 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Liturgical canons of the Parakletike",
     "Octoechos"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "red",
-    "black",
     "Detached bifolio; irregular margin at the top",
-    "ark:/21198/z1w385bk",
-    "Greek minuscule",
-    "Parchment",
-    "Initials and titles in red",
     "Greek",
-    "Octoechos",
+    "Greek minuscule",
+    "Initials and titles in red",
     "Liturgical canons of the Parakletike",
+    "Octoechos",
+    "Parchment",
+    "Previous catalogs dated this manuscript to the 12th-13th c. CE",
     "Sinai Greek NF M 98",
-    "Previous catalogs dated this manuscript to the 12th-13th c. CE"
+    "ark:/21198/z1w385bk",
+    "black",
+    "red"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1w385bk\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek NF M 98\",\"extent\":\"2 ff.\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"136 x 113 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1hp6h\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1hp6h\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek NF M 98, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"ink\":[{\"color\":[\"black\",\"red\"],\"note\":[\"Initials and titles in red\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1b95s\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1b95s\",\"reconstruction\":false,\"label\":\"Liturgical canons of the Parakletike\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tg7m\",\"pref_title\":\"Octoechos\",\"alt_title\":[\"Octoechos\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Liturgical canons of the Parakletike\"}],\"parent\":[\"ark:/21198/s1hp6h\"]}}],\"assoc_date\":[{\"value\":\"First half 13th c.  CE\",\"iso\":{\"not_before\":1201,\"not_after\":1250},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Previous catalogs dated this manuscript to the 12th-13th c. CE\"}],\"parent\":[\"ark:/21198/z1w385bk\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1cw5z\",\"label\":\"Greek Undertext: Bible. Luke\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–2\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Late 10th-early 11th c.  CE\",\"iso\":{\"not_before\":975,\"not_after\":1025},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Detached bifolio; irregular margin at the top\"}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 173\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w385bk/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14t6jxd/1022,0,6132,6132/150,150/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1w385bk\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek NF M 98\",\"extent\":\"2 ff.\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"136 x 113 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1hp6h\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1hp6h\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek NF M 98, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"ink\":[{\"color\":[\"black\",\"red\"],\"note\":[\"Initials and titles in red\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1b95s\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1b95s\",\"reconstruction\":false,\"label\":\"Liturgical canons of the Parakletike\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tg7m\",\"pref_title\":\"Octoechos\",\"alt_title\":[\"Octoechos\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Liturgical canons of the Parakletike\"}],\"parent\":[\"ark:/21198/s1hp6h\"]}}],\"assoc_date\":[{\"value\":\"First half 13th c.  CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1250\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Previous catalogs dated this manuscript to the 12th-13th c. CE\"}],\"parent\":[\"ark:/21198/z1w385bk\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1cw5z\",\"label\":\"Greek Undertext: Bible. Luke\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–2\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"Late 10th-early 11th c.  CE\",\"iso\":{\"not_before\":\"0975\",\"not_after\":\"1025\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Detached bifolio; irregular margin at the top\"}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 173\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w385bk/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14t6jxd/1022,0,6132,6132/150,150/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1w385bk",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14t6jxd/1022,0,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w385bk/manifest",
+  "header_index_tesim": [
+    "Sinai Greek NF M 98",
+    "2 ff."
+  ],
+  "ot_date_tesim": [
+    "First half 13th c.  CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "First half 13th c.  CE"
+  ]
 }

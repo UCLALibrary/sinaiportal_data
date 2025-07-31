@@ -1,19 +1,13 @@
 {
-  "id": "ark:/21198/z1kh1rmw",
   "ark_ssi": "ark:/21198/z1kh1rmw",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kh1rmw%2F3340fv5h/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Initial(s), Decorated",
-    "Headpiece(s)",
-    "Parallel text",
     "Catchwords",
-    "Illumination(s)"
+    "Headpiece(s)",
+    "Illumination(s)",
+    "Initial(s), Decorated",
+    "Parallel text"
   ],
   "support_ssim": [
     "Paper"
@@ -29,18 +23,19 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
-    "Naskh",
-    "Greek minuscule"
+    "Greek minuscule",
+    "Naskh"
   ],
   "ot_writing_system_ssim": [
-    "Greek",
-    "Arabic"
+    "Arabic",
+    "Greek"
   ],
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1401,
     1402,
     1403,
@@ -143,13 +138,13 @@
     1500
   ],
   "ot_language_ssim": [
-    "Greek",
-    "Arabic"
+    "Arabic",
+    "Greek"
   ],
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -157,7 +152,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 224",
   "titles_tesim": [
     "Consecration of Deacons, Arabic and Greek"
@@ -166,19 +161,47 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Consecration of Deacons, Arabic and Greek"
+    "Consecration of Deacons, Arabic and Greek",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Greek minuscule",
-    "Greek",
-    "Consecration of Deacons, Arabic and Greek",
-    "Naskh",
-    "Sinai Arabic 224",
-    "Minor headpiece, interlace, f. 3r. | Ornate headpiece, interlace, chrysography, f. 17v | Decorated Greek initals throughout",
-    "Paper",
     "Arabic",
+    "Consecration of Deacons, Arabic and Greek",
+    "Greek",
+    "Greek minuscule",
+    "Minor headpiece, interlace, f. 3r. | Ornate headpiece, interlace, chrysography, f. 17v | Decorated Greek initals throughout",
+    "Naskh",
+    "Paper",
+    "Sinai Arabic 224",
     "ark:/21198/z1kh1rmw"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1kh1rmw\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 224\",\"extent\":\"43 ff.\",\"weight\":\"142.2 g\",\"dim\":\"152 x 107 x 16 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s19g7z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s19g7z\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 224, Overtext (Naskh, Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1435v\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1435v\",\"reconstruction\":false,\"label\":\"Consecration of Deacons, Arabic and Greek\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Consecration of Deacons, Arabic and Greek\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 3r-41v\"}],\"features\":[{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"parent\":[\"ark:/21198/s19g7z\"]}}],\"assoc_date\":[{\"value\":\"15th c. CE\",\"iso\":{\"not_before\":1401,\"not_after\":1500},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"illumination\",\"label\":\"Illumination(s)\"},{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor headpiece, interlace, f. 3r. | Ornate headpiece, interlace, chrysography, f. 17v | Decorated Greek initals throughout\"}],\"parent\":[\"ark:/21198/z1kh1rmw\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[311], p. 25\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916670205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1kh1rmw/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kh1rmw%2F3340fv5h/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1kh1rmw\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 224\",\"extent\":\"43 ff.\",\"weight\":\"142.2 g\",\"dim\":\"152 x 107 x 16 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s19g7z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s19g7z\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 224, Overtext (Naskh, Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1435v\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1435v\",\"reconstruction\":false,\"label\":\"Consecration of Deacons, Arabic and Greek\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Consecration of Deacons, Arabic and Greek\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 3r-41v\"}],\"features\":[{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"parent\":[\"ark:/21198/s19g7z\"]}}],\"assoc_date\":[{\"value\":\"15th c. CE\",\"iso\":{\"not_before\":\"1401\",\"not_after\":\"1500\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"illumination\",\"label\":\"Illumination(s)\"},{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor headpiece, interlace, f. 3r. | Ornate headpiece, interlace, chrysography, f. 17v | Decorated Greek initals throughout\"}],\"parent\":[\"ark:/21198/z1kh1rmw\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[311], p. 25\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916670205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1kh1rmw/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kh1rmw%2F3340fv5h/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1kh1rmw",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1kh1rmw%2F3340fv5h/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1kh1rmw/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 224",
+    "43 ff."
+  ],
+  "ot_date_tesim": [
+    "15th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "15th c. CE"
+  ]
 }

@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1zc966z",
   "ark_ssi": "ark:/21198/z1zc966z",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zc966z%2Fzj22hj63/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -25,6 +19,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -32,11 +27,11 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
+    "Biblical texts",
     "Lectionaries",
-    "Liturgical texts",
-    "Biblical texts"
+    "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1601,
     1602,
     1603,
@@ -146,7 +141,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -154,32 +149,60 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 14",
   "titles_tesim": [
     "Prophetologion"
   ],
   "names_tesim": [],
   "exerpts_tesim": [
-    "تَمّ كتاب النّبوات بمنّة الاله ربَّ القَوّات",
-    "بسم الاب و الابن و الرّوح القدس الاله الواحد آمين نبتدي بعون الله تعالي [sic] نكتب"
+    "بسم الاب و الابن و الرّوح القدس الاله الواحد آمين نبتدي بعون الله تعالي [sic] نكتب",
+    "تَمّ كتاب النّبوات بمنّة الاله ربَّ القَوّات"
   ],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
+    "Prophetologion",
     "بسم الاب و الابن و الرّوح القدس الاله الواحد آمين نبتدي بعون الله تعالي [sic] نكتب",
-    "تَمّ كتاب النّبوات بمنّة الاله ربَّ القَوّات",
-    "Prophetologion"
+    "تَمّ كتاب النّبوات بمنّة الاله ربَّ القَوّات"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "ark:/21198/z1zc966z",
-    "Prophetologion",
-    "Naskh",
     "Arabic",
+    "Naskh",
     "Paper",
-    "بسم الاب و الابن و الرّوح القدس الاله الواحد آمين نبتدي بعون الله تعالي [sic] نكتب",
+    "Prophetologion",
     "Sinai Arabic 14",
+    "ark:/21198/z1zc966z",
+    "بسم الاب و الابن و الرّوح القدس الاله الواحد آمين نبتدي بعون الله تعالي [sic] نكتب",
     "تَمّ كتاب النّبوات بمنّة الاله ربَّ القَوّات"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1zc966z\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 14\",\"extent\":\"132 ff.\",\"weight\":\"1207.4 g\",\"dim\":\"315 x 216 x 40 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1x604\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1x604\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 14, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1qq0f\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1qq0f\",\"reconstruction\":false,\"label\":\"Prophetologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1j30p\",\"pref_title\":\"Prophetologion\",\"alt_title\":[\"Prophetologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"locus\":\"ff. 2v-131r\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"as_written\":\"بسم الاب و الابن و الرّوح القدس الاله الواحد آمين نبتدي بعون الله تعالي [sic] نكتب\"},{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"as_written\":\"تَمّ كتاب النّبوات بمنّة الاله ربَّ القَوّات\"}]}],\"parent\":[\"ark:/21198/s1x604\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":1601,\"not_after\":1700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1zc966z\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[193], p. 21\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038915730205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zc966z/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zc966z%2Fzj22hj63/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1zc966z\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 14\",\"extent\":\"132 ff.\",\"weight\":\"1207.4 g\",\"dim\":\"315 x 216 x 40 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1x604\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1x604\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 14, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1qq0f\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1qq0f\",\"reconstruction\":false,\"label\":\"Prophetologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1j30p\",\"pref_title\":\"Prophetologion\",\"alt_title\":[\"Prophetologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"locus\":\"ff. 2v-131r\",\"excerpt\":[{\"type\":{\"id\":\"incipit\",\"label\":\"Incipit\"},\"as_written\":\"بسم الاب و الابن و الرّوح القدس الاله الواحد آمين نبتدي بعون الله تعالي [sic] نكتب\"},{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"as_written\":\"تَمّ كتاب النّبوات بمنّة الاله ربَّ القَوّات\"}]}],\"parent\":[\"ark:/21198/s1x604\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":\"1601\",\"not_after\":\"1700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1zc966z\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[193], p. 21\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038915730205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zc966z/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zc966z%2Fzj22hj63/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1zc966z",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zc966z%2Fzj22hj63/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zc966z/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 14",
+    "132 ff."
+  ],
+  "ot_date_tesim": [
+    "17th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "17th c. CE"
+  ]
 }

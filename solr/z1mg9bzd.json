@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1mg9bzd",
   "ark_ssi": "ark:/21198/z1mg9bzd",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1mg9bzd%2Fj275474q/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Estrangela"
   ],
@@ -32,7 +27,7 @@
   "ot_genre_ssim": [
     "Theological works"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -140,7 +135,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -148,7 +143,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 29",
   "titles_tesim": [
     "Mimars by St. Jacob"
@@ -157,18 +152,46 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
+    "Item 1",
     "Mimars by St. Jacob"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "ark:/21198/z1mg9bzd",
-    "Transitional Estrangela",
-    "Parchment",
-    "Mimars by St. Jacob",
-    "Sinai Syriac 29",
-    "Estrangela",
     "6 singletons",
-    "Syriac"
+    "Estrangela",
+    "Mimars by St. Jacob",
+    "Parchment",
+    "Sinai Syriac 29",
+    "Syriac",
+    "Transitional Estrangela",
+    "ark:/21198/z1mg9bzd"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1mg9bzd\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 29\",\"extent\":\"6 ff.\",\"weight\":\"47.1 g\",\"dim\":\"258 x 165 x 20.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1r329\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1r329\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 29, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}],\"note\":[\"Transitional Estrangela\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1jq18\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1jq18\",\"reconstruction\":false,\"label\":\"Mimars by St. Jacob\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Mimars by St. Jacob\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}]},\"locus\":\"ff. 1r-6v\"}],\"parent\":[\"ark:/21198/s1r329\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1mg9bzd\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"6 singletons\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[63], p. 153\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386401-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1mg9bzd/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1mg9bzd%2Fj275474q/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1mg9bzd\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 29\",\"extent\":\"6 ff.\",\"weight\":\"47.1 g\",\"dim\":\"258 x 165 x 20.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1r329\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1r329\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 29, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}],\"note\":[\"Transitional Estrangela\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1jq18\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1jq18\",\"reconstruction\":false,\"label\":\"Mimars by St. Jacob\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Mimars by St. Jacob\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}]},\"locus\":\"ff. 1r-6v\"}],\"parent\":[\"ark:/21198/s1r329\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1mg9bzd\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"6 singletons\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[63], p. 153\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386401-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1mg9bzd/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1mg9bzd%2Fj275474q/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1mg9bzd",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1mg9bzd%2Fj275474q/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz1mg9bzd/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 29",
+    "6 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }

@@ -1,15 +1,10 @@
 {
-  "id": "ark:/21198/z1k087nm",
   "ark_ssi": "ark:/21198/z1k087nm",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
-    "Colophon"
+    "Colophon",
+    "Dated"
   ],
   "support_ssim": [
     "Paper"
@@ -25,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -32,10 +28,10 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Liturgical texts",
-    "Hagiographies"
+    "Hagiographies",
+    "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1258
   ],
   "ot_language_ssim": [
@@ -46,45 +42,71 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Arabic"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 408",
   "titles_tesim": [
-    "Menologion for the month of Ab ",
-    "Menologion"
+    "Menologion",
+    "Menologion for the month of Ab "
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Menologion for the month of Ab ",
+    "Item 1",
     "Menologion",
-    "Menologion for the month of Ab (August), beginning on the 7th with the martyrdom of St. Dometius and ending on the 31st with a Mimar by St. Germanus Archbishop of Constantinople on the restoration of Our Lady's Sanctuary"
+    "Menologion for the month of Ab "
   ],
-  "paracontent_tesim": [
-    "Colophon",
+  "paracontent_tesim": [],
+  "full_text_tesim": [
     "Arabic",
     "Attested places:  Antioch",
+    "Menologion",
+    "Menologion for the month of Ab ",
+    "Menologion for the month of Ab (August), beginning on the 7th with the martyrdom of St. Dometius and ending on the 31st with a Mimar by St. Germanus Archbishop of Constantinople on the restoration of Our Lady's Sanctuary",
+    "Naskh",
+    "Paper",
+    "Readers' notes, f. 164r",
+    "Sinai Arabic 408",
+    "ark:/21198/z1k087nm",
     "نجز الجزء التاسع من الدولاب وهو شهر آب بمعونة الله حسن توفيقه نهار الاربعاء من الشبه الصغيرة في الصوم المقدس السادس شهر آذار التاريخ الأول الجاري في سنة ستة آلاف وسبعمائة وستة وستين  لأبينا آدم بمدينة أنطاكية المحروسة  "
   ],
-  "full_text_tesim": [
-    "Readers' notes, f. 164r",
-    "Menologion for the month of Ab ",
-    "Sinai Arabic 408",
-    "Menologion",
-    "ark:/21198/z1k087nm",
-    "Naskh",
-    "Arabic",
-    "Paper",
-    "Menologion for the month of Ab (August), beginning on the 7th with the martyrdom of St. Dometius and ending on the 31st with a Mimar by St. Germanus Archbishop of Constantinople on the restoration of Our Lady's Sanctuary",
-    "Attested places:  Antioch"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1k087nm\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 408\",\"extent\":\"165 ff.\",\"weight\":\"3296.2 g\",\"dim\":\"373 x 270 x 73 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s17s5p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s17s5p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 408, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s12d3k\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s12d3k\",\"reconstruction\":false,\"label\":\"Menologion for the month of Ab \",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion for the month of Ab \",\"locus\":\"ff. 1r-163v\",\"note\":[\"Menologion for the month of Ab (August), beginning on the 7th with the martyrdom of St. Dometius and ending on the 31st with a Mimar by St. Germanus Archbishop of Constantinople on the restoration of Our Lady's Sanctuary\"]}],\"parent\":[\"ark:/21198/s17s5p\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 163v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"نجز الجزء التاسع من الدولاب وهو شهر آب بمعونة الله حسن توفيقه نهار الاربعاء من الشبه الصغيرة في الصوم المقدس السادس شهر آذار التاريخ الأول الجاري في سنة ستة آلاف وسبعمائة وستة وستين  لأبينا آدم بمدينة أنطاكية المحروسة  \",\"assoc_date\":[{\"value\":\"Wednesday 6 Adhar 6766 (Adam)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[\"Attested places:  Antioch\"]}],\"assoc_date\":[{\"value\":\"1258 CE\",\"iso\":{\"not_before\":\"1258\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1k087nm\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Readers' notes, f. 164r\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[167], p. 19\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279389980-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1k087nm/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "id": "ark:/21198/z1k087nm",
+  "has_model_ssim": [
+    "Work"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1k087nm\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 408\",\"extent\":\"165 ff.\",\"weight\":\"3296.2 g\",\"dim\":\"373 x 270 x 73 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s17s5p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s17s5p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 408, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s12d3k\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s12d3k\",\"reconstruction\":false,\"label\":\"Menologion for the month of Ab \",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion for the month of Ab \",\"locus\":\"ff. 1r-163v\",\"note\":[\"Menologion for the month of Ab (August), beginning on the 7th with the martyrdom of St. Dometius and ending on the 31st with a Mimar by St. Germanus Archbishop of Constantinople on the restoration of Our Lady's Sanctuary\"]}],\"parent\":[\"ark:/21198/s17s5p\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 163v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"نجز الجزء التاسع من الدولاب وهو شهر آب بمعونة الله حسن توفيقه نهار الاربعاء من الشبه الصغيرة في الصوم المقدس السادس شهر آذار التاريخ الأول الجاري في سنة ستة آلاف وسبعمائة وستة وستين  لأبينا آدم بمدينة أنطاكية المحروسة  \",\"assoc_date\":[{\"value\":\"Wednesday 6 Adhar 6766 (Adam)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[\"Attested places:  Antioch\"]}],\"assoc_date\":[{\"value\":\"1258 CE\",\"iso\":{\"not_before\":1258,\"not_after\":1258},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1k087nm\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Readers' notes, f. 164r\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[167], p. 19\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279389980-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1k087nm/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1k087nm/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 408",
+    "165 ff."
+  ],
+  "ot_date_tesim": [
+    "1258 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1258 CE"
+  ]
 }

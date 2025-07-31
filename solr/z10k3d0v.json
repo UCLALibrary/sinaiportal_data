@@ -1,16 +1,10 @@
 {
-  "id": "ark:/21198/z10k3d0v",
   "ark_ssi": "ark:/21198/z10k3d0v",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10k3d0v%2Fvm57pb5k/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Headpiece(s)",
-    "Decoration, Geometric"
+    "Decoration, Geometric",
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -36,7 +31,7 @@
     "Biblical texts",
     "Gospel books"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1101,
     1102,
     1103,
@@ -146,7 +141,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -154,32 +149,60 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 113",
   "titles_tesim": [
-    "Gospels",
+    "Bible. Gospels",
     "Four Gospels",
-    "Bible. Gospels"
+    "Gospels"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Gospels",
+    "Bible. Gospels",
     "Four Gospels",
-    "Bible. Gospels"
+    "Gospels",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
+    "Arabic",
+    "Bible. Gospels",
     "Four Gospels",
-    "ark:/21198/z10k3d0v",
+    "Geometric headpiece on Front Board Inside, f. 3r | Geometric decoration, ff. 23v, 37r, 83r, 98r, 114v",
     "Gospels",
     "Naskh",
-    "Bible. Gospels",
-    "Arabic",
     "Paper",
     "Sinai Arabic 113",
-    "Geometric headpiece on Front Board Inside, f. 3r | Geometric decoration, ff. 23v, 37r, 83r, 98r, 114v"
+    "ark:/21198/z10k3d0v"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10k3d0v\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 113\",\"extent\":\"183 ff.\",\"weight\":\"1384.7 g\",\"dim\":\"267 x 208 x 65 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1q608\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1q608\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 113, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1hs89\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1hs89\",\"reconstruction\":false,\"label\":\"Four Gospels\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 3r-182v\"}],\"parent\":[\"ark:/21198/s1q608\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":1101,\"not_after\":1200},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric headpiece on Front Board Inside, f. 3r | Geometric decoration, ff. 23v, 37r, 83r, 98r, 114v\"}],\"parent\":[\"ark:/21198/z10k3d0v\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"viscodex\":[{\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"label\":\"Collation Visualization for Sinai Arabic 113\",\"url\":\"https://vceditor.library.upenn.edu/project/668d9e2a5d69680001455c9d/viewOnly\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[105], p. 15\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10k3d0v/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10k3d0v%2Fvm57pb5k/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10k3d0v\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 113\",\"extent\":\"183 ff.\",\"weight\":\"1384.7 g\",\"dim\":\"267 x 208 x 65 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1q608\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1q608\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 113, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1hs89\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1hs89\",\"reconstruction\":false,\"label\":\"Four Gospels\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 3r-182v\"}],\"parent\":[\"ark:/21198/s1q608\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric headpiece on Front Board Inside, f. 3r | Geometric decoration, ff. 23v, 37r, 83r, 98r, 114v\"}],\"parent\":[\"ark:/21198/z10k3d0v\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"viscodex\":[{\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"label\":\"Collation Visualization for Sinai Arabic 113\",\"url\":\"https://vceditor.library.upenn.edu/project/668d9e2a5d69680001455c9d/viewOnly\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[105], p. 15\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10k3d0v/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10k3d0v%2Fvm57pb5k/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z10k3d0v",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10k3d0v%2Fvm57pb5k/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10k3d0v/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 113",
+    "183 ff."
+  ],
+  "ot_date_tesim": [
+    "12th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "12th c. CE"
+  ]
 }

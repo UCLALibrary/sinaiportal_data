@@ -1,17 +1,11 @@
 {
-  "id": "ark:/21198/z16d7bmr",
   "ark_ssi": "ark:/21198/z16d7bmr",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16d7bmr%2F7x18dh0t/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Headpiece(s)",
     "Colophon",
-    "Decoration, Geometric"
+    "Decoration, Geometric",
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -27,6 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -34,10 +29,45 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Theological works",
-    "Apophthegmata"
+    "Apophthegmata",
+    "Theological works"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
+    1501,
+    1502,
+    1503,
+    1504,
+    1505,
+    1506,
+    1507,
+    1508,
+    1509,
+    1510,
+    1511,
+    1512,
+    1513,
+    1514,
+    1515,
+    1516,
+    1517,
+    1518,
+    1519,
+    1520,
+    1521,
+    1522,
+    1523,
+    1524,
+    1525,
+    1526,
+    1527,
+    1528,
+    1529,
+    1530,
+    1531,
+    1532,
+    1533,
+    1534,
+    1535,
     1536,
     1537,
     1538,
@@ -102,42 +132,7 @@
     1597,
     1598,
     1599,
-    1600,
-    1501,
-    1502,
-    1503,
-    1504,
-    1505,
-    1506,
-    1507,
-    1508,
-    1509,
-    1510,
-    1511,
-    1512,
-    1513,
-    1514,
-    1515,
-    1516,
-    1517,
-    1518,
-    1519,
-    1520,
-    1521,
-    1522,
-    1523,
-    1524,
-    1525,
-    1526,
-    1527,
-    1528,
-    1529,
-    1530,
-    1531,
-    1532,
-    1533,
-    1534,
-    1535
+    1600
   ],
   "ot_language_ssim": [
     "Arabic"
@@ -145,7 +140,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -153,7 +148,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 625",
   "titles_tesim": [
     "Two religious debates between a Moslem prince and a Christian monk in presence of the Caliph"
@@ -162,19 +157,46 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Two religious debates between a Moslem prince and a Christian monk in presence of the Caliph",
-    "Beginning of first debate lost. Second debate is between a monk (Ibrahim at-Tabarani) and a prince (Abd ar-Rahman ibn nbd al-Malik ibn Salih al-Hashimi). Subject of second debate is the sonship of Christ to God and God’s Trinity"
+    "Item 1",
+    "Two religious debates between a Moslem prince and a Christian monk in presence of the Caliph"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Sinai Arabic 625",
-    "Beginning of first debate lost. Second debate is between a monk (Ibrahim at-Tabarani) and a prince (Abd ar-Rahman ibn nbd al-Malik ibn Salih al-Hashimi). Subject of second debate is the sonship of Christ to God and God’s Trinity",
-    "Two religious debates between a Moslem prince and a Christian monk in presence of the Caliph",
-    "Naskh",
     "Arabic",
+    "Beginning of first debate lost. Second debate is between a monk (Ibrahim at-Tabarani) and a prince (Abd ar-Rahman ibn nbd al-Malik ibn Salih al-Hashimi). Subject of second debate is the sonship of Christ to God and God’s Trinity",
+    "Minor decorative tailpiece, f. 68v | Geometric decoration, f. 109r, cross",
+    "Naskh",
     "Paper",
-    "ark:/21198/z16d7bmr",
-    "Minor decorative tailpiece, f. 68v | Geometric decoration, f. 109r, cross"
+    "Sinai Arabic 625",
+    "Two religious debates between a Moslem prince and a Christian monk in presence of the Caliph",
+    "ark:/21198/z16d7bmr"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z16d7bmr\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 625\",\"extent\":\"110 ff.\",\"weight\":\"613.5 g\",\"dim\":\"220 x 161 x 43 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1ts5z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1ts5z\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 625, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1nd47\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1nd47\",\"reconstruction\":false,\"label\":\"Two religious debates between a Moslem prince and a Christian monk in presence of the Caliph\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Two religious debates between a Moslem prince and a Christian monk in presence of the Caliph\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]},\"locus\":\"ff. 1ar-108v\",\"note\":[\"Beginning of first debate lost. Second debate is between a monk (Ibrahim at-Tabarani) and a prince (Abd ar-Rahman ibn nbd al-Malik ibn Salih al-Hashimi). Subject of second debate is the sonship of Christ to God and God’s Trinity\"]}],\"parent\":[\"ark:/21198/s1ts5z\"]}}],\"assoc_date\":[{\"value\":\"16th c. CE\",\"iso\":{\"not_before\":1501,\"not_after\":1600},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"colophon\",\"label\":\"Colophon\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor decorative tailpiece, f. 68v | Geometric decoration, f. 109r, cross\"}],\"parent\":[\"ark:/21198/z16d7bmr\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[440], p. 35\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390763-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz16d7bmr/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16d7bmr%2F7x18dh0t/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z16d7bmr\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 625\",\"extent\":\"110 ff.\",\"weight\":\"613.5 g\",\"dim\":\"220 x 161 x 43 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1ts5z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1ts5z\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 625, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1nd47\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1nd47\",\"reconstruction\":false,\"label\":\"Two religious debates between a Moslem prince and a Christian monk in presence of the Caliph\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Two religious debates between a Moslem prince and a Christian monk in presence of the Caliph\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]},\"locus\":\"ff. 1ar-108v\",\"note\":[\"Beginning of first debate lost. Second debate is between a monk (Ibrahim at-Tabarani) and a prince (Abd ar-Rahman ibn nbd al-Malik ibn Salih al-Hashimi). Subject of second debate is the sonship of Christ to God and God’s Trinity\"]}],\"parent\":[\"ark:/21198/s1ts5z\"]}}],\"assoc_date\":[{\"value\":\"16th c. CE\",\"iso\":{\"not_before\":\"1501\",\"not_after\":\"1600\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"colophon\",\"label\":\"Colophon\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor decorative tailpiece, f. 68v | Geometric decoration, f. 109r, cross\"}],\"parent\":[\"ark:/21198/z16d7bmr\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[440], p. 35\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390763-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz16d7bmr/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16d7bmr%2F7x18dh0t/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z16d7bmr",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16d7bmr%2F7x18dh0t/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz16d7bmr/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 625",
+    "110 ff."
+  ],
+  "ot_date_tesim": [
+    "16th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "16th c. CE"
+  ]
 }

@@ -1,20 +1,14 @@
 {
-  "id": "ark:/21198/z1db9kk4",
   "ark_ssi": "ark:/21198/z1db9kk4",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1db9kk4%2Fbp29kk13/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Dated",
-    "Initial(s), Decorated",
-    "Parallel text",
     "Catchwords",
     "Colophon",
-    "Decoration, Vegetative"
+    "Dated",
+    "Decoration, Vegetative",
+    "Initial(s), Decorated",
+    "Parallel text"
   ],
   "support_ssim": [
     "Paper"
@@ -30,6 +24,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -39,7 +34,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1656
   ],
   "ot_language_ssim": [
@@ -50,15 +45,19 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Arabic"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 682",
   "titles_tesim": [
     "Book of Liturgy (Euchologia)",
@@ -69,22 +68,48 @@
   "places_tesim": [],
   "contents_tesim": [
     "Book of Liturgy (Euchologia)",
-    "Euchologion"
-  ],
-  "paracontent_tesim": [
-    "Colophon",
-    "Arabic"
-  ],
-  "full_text_tesim": [
-    "Decorated Greek initials, ff. 180t, 196v, 199r, 213r",
-    "ark:/21198/z1db9kk4",
     "Euchologion",
-    "Naskh",
+    "Item 1"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
     "Arabic",
+    "Book of Liturgy (Euchologia)",
+    "Catchwords throughout",
+    "Decorated Greek initials, ff. 180t, 196v, 199r, 213r",
+    "Euchologion",
+    "Fleur de Lis. f.42r",
+    "Naskh",
     "Paper",
     "Sinai Arabic 682",
-    "Catchwords throughout",
-    "Fleur de Lis. f.42r"
+    "ark:/21198/z1db9kk4"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1db9kk4\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 682\",\"extent\":\"226 ff.\",\"weight\":\"682.6 g\",\"dim\":\"207 x 149 x 56 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s18s4m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s18s4m\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 682, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s13d3w\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13d3w\",\"reconstruction\":false,\"label\":\"Euchologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tp4j\",\"pref_title\":\"Euchologion\",\"alt_title\":[\"Euchologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Book of Liturgy (Euchologia)\",\"locus\":\"ff. 2r-223v\"}],\"features\":[{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"parent\":[\"ark:/21198/s18s4m\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 224v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}]}],\"assoc_date\":[{\"value\":\"1656 CE\",\"iso\":{\"not_before\":1656,\"not_after\":1656},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"},{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorated Greek initials, ff. 180t, 196v, 199r, 213r\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Fleur de Lis. f.42r\"}],\"parent\":[\"ark:/21198/z1db9kk4\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Catchwords throughout\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[320], p. 26\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1db9kk4/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1db9kk4%2Fbp29kk13/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1db9kk4\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 682\",\"extent\":\"226 ff.\",\"weight\":\"682.6 g\",\"dim\":\"207 x 149 x 56 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s18s4m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s18s4m\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 682, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s13d3w\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13d3w\",\"reconstruction\":false,\"label\":\"Euchologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tp4j\",\"pref_title\":\"Euchologion\",\"alt_title\":[\"Euchologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Book of Liturgy (Euchologia)\",\"locus\":\"ff. 2r-223v\"}],\"features\":[{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"parent\":[\"ark:/21198/s18s4m\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 224v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}]}],\"assoc_date\":[{\"value\":\"1656 CE\",\"iso\":{\"not_before\":\"1656\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"},{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorated Greek initials, ff. 180t, 196v, 199r, 213r\"},{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Fleur de Lis. f.42r\"}],\"parent\":[\"ark:/21198/z1db9kk4\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"collation\",\"label\":\"Collation Note\"},\"value\":\"Catchwords throughout\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[320], p. 26\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1db9kk4/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1db9kk4%2Fbp29kk13/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1db9kk4",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1db9kk4%2Fbp29kk13/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1db9kk4/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 682",
+    "226 ff."
+  ],
+  "ot_date_tesim": [
+    "1656 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1656 CE"
+  ]
 }

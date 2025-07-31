@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1np3p1j",
   "ark_ssi": "ark:/21198/z1np3p1j",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1np3p1j%2F2812bv2m/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
@@ -26,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -36,7 +31,7 @@
     "Biblical texts",
     "Gospel books"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1259
   ],
   "ot_language_ssim": [
@@ -47,47 +42,75 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
-  "para_language_ssim": [],
+  "para_years_isim": [],
+  "para_language_ssim": [
+    "Arabic"
+  ],
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 112",
   "titles_tesim": [
-    "Gospels",
+    "Bible. Gospels",
     "Four Gospels",
-    "Bible. Gospels"
+    "Gospels"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Gospels",
-    "Four Gospels",
     "Bible. Gospels",
-    "St. Matthew begins with I, 22"
+    "Four Gospels",
+    "Gospels",
+    "Item 1"
   ],
-  "paracontent_tesim": [
-    "Colophon",
-    "Arabic",
-    "نجز نسخ هذه الأربعة الأناجيل المقدسة متى ومرقس ولوقا ويوحنا ينابيع ماء الحياة ومصابيح النور ل[صر]ي النجاة و مفاتيح ملكوت السماء المشفيين لأنفس القارئين فيها منير عقول الناظرين فيها ومصلحين  قلوب العاملين بها في كير (؟) الست الطاهرة البتول مرت مريم والدة الإله بطاهرة (ين) في قلاية للأب القديس الطاهرللرب حاني ولي الله مصطفيه المؤيد بالنعمة الإلهية ثالث عشر الحواريين بطريرك المدينة العظماء أنطاكية وما جمع إليها أدام الله تعيزه ورزق كافة شعبه ومحبيه بركة صلواته آمين في ثلاث وعشرين تشرين الأول ست ألف وخمسمائة إحدى وسبعين الموافق لخامس من شوال  سنة سبع وخمسين وستمائة للهجرة"
-  ],
+  "paracontent_tesim": [],
   "full_text_tesim": [
+    "Arabic",
+    "Bible. Gospels",
     "Four Gospels",
     "Geometric roundel, f. 127v, red and green ink",
-    "Preceded by introduction and chapter index.",
     "Gospels",
+    "Naskh",
+    "Paper",
+    "Preceded by introduction and chapter index.",
     "Sinai Arabic 112",
     "St. Matthew begins with I, 22",
-    "Naskh",
-    "Bible. Gospels",
-    "Arabic",
-    "Paper",
-    "ark:/21198/z1np3p1j"
+    "ark:/21198/z1np3p1j",
+    "نجز نسخ هذه الأربعة الأناجيل المقدسة متى ومرقس ولوقا ويوحنا ينابيع ماء الحياة ومصابيح النور ل[صر]ي النجاة و مفاتيح ملكوت السماء المشفيين لأنفس القارئين فيها منير عقول الناظرين فيها ومصلحين  قلوب العاملين بها في كير (؟) الست الطاهرة البتول مرت مريم والدة الإله بطاهرة (ين) في قلاية للأب القديس الطاهرللرب حاني ولي الله مصطفيه المؤيد بالنعمة الإلهية ثالث عشر الحواريين بطريرك المدينة العظماء أنطاكية وما جمع إليها أدام الله تعيزه ورزق كافة شعبه ومحبيه بركة صلواته آمين في ثلاث وعشرين تشرين الأول ست ألف وخمسمائة إحدى وسبعين الموافق لخامس من شوال  سنة سبع وخمسين وستمائة للهجرة"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1np3p1j\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 112\",\"extent\":\"168 ff.\",\"weight\":\"717.8 g\",\"dim\":\"231 x 165 x 42 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1tw2v\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1tw2v\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 112, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1nh14\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1nh14\",\"reconstruction\":false,\"label\":\"Four Gospels\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 3r-167v\",\"note\":[\"St. Matthew begins with I, 22\"]}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Preceded by introduction and chapter index.\"}],\"parent\":[\"ark:/21198/s1tw2v\"]}}],\"para\":[{\"type\":{\"id\":\"colophon\",\"label\":\"Colophon\"},\"locus\":\"f. 168r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"نجز نسخ هذه الأربعة الأناجيل المقدسة متى ومرقس ولوقا ويوحنا ينابيع ماء الحياة ومصابيح النور ل[صر]ي النجاة و مفاتيح ملكوت السماء المشفيين لأنفس القارئين فيها منير عقول الناظرين فيها ومصلحين  قلوب العاملين بها في كير (؟) الست الطاهرة البتول مرت مريم والدة الإله بطاهرة (ين) في قلاية للأب القديس الطاهرللرب حاني ولي الله مصطفيه المؤيد بالنعمة الإلهية ثالث عشر الحواريين بطريرك المدينة العظماء أنطاكية وما جمع إليها أدام الله تعيزه ورزق كافة شعبه ومحبيه بركة صلواته آمين في ثلاث وعشرين تشرين الأول ست ألف وخمسمائة إحدى وسبعين الموافق لخامس من شوال  سنة سبع وخمسين وستمائة للهجرة\",\"assoc_date\":[{\"value\":\"Thursday 23 Tishrin I 1571 Seleucid (Greek) :: Thursday 10 October 1259 :: Thursday 27 Shawwal 667 hijri\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}],\"assoc_date\":[{\"value\":\"1259 CE\",\"iso\":{\"not_before\":1259,\"not_after\":1259},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric roundel, f. 127v, red and green ink\"}],\"parent\":[\"ark:/21198/z1np3p1j\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"viscodex\":[{\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"label\":\"Collation Visualization for Sinai Arabic 112\",\"url\":\"https://vceditor.library.upenn.edu/project/668d9e775d69680001455ede/viewOnly\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[104], p. 15\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386784-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1np3p1j/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1np3p1j%2F2812bv2m/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1np3p1j\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 112\",\"extent\":\"168 ff.\",\"weight\":\"717.8 g\",\"dim\":\"231 x 165 x 42 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1tw2v\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1tw2v\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 112, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1nh14\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1nh14\",\"reconstruction\":false,\"label\":\"Four Gospels\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 3r-167v\",\"note\":[\"St. Matthew begins with I, 22\"]}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Preceded by introduction and chapter index.\"}],\"parent\":[\"ark:/21198/s1tw2v\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 168r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"نجز نسخ هذه الأربعة الأناجيل المقدسة متى ومرقس ولوقا ويوحنا ينابيع ماء الحياة ومصابيح النور ل[صر]ي النجاة و مفاتيح ملكوت السماء المشفيين لأنفس القارئين فيها منير عقول الناظرين فيها ومصلحين  قلوب العاملين بها في كير (؟) الست الطاهرة البتول مرت مريم والدة الإله بطاهرة (ين) في قلاية للأب القديس الطاهرللرب حاني ولي الله مصطفيه المؤيد بالنعمة الإلهية ثالث عشر الحواريين بطريرك المدينة العظماء أنطاكية وما جمع إليها أدام الله تعيزه ورزق كافة شعبه ومحبيه بركة صلواته آمين في ثلاث وعشرين تشرين الأول ست ألف وخمسمائة إحدى وسبعين الموافق لخامس من شوال  سنة سبع وخمسين وستمائة للهجرة\",\"assoc_date\":[{\"value\":\"Thursday 23 Tishrin I 1571 Seleucid (Greek) :: Thursday 10 October 1259 :: Thursday 27 Shawwal 667 hijri\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}],\"assoc_date\":[{\"value\":\"1259 CE\",\"iso\":{\"not_before\":\"1259\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric roundel, f. 127v, red and green ink\"}],\"parent\":[\"ark:/21198/z1np3p1j\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"viscodex\":[{\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"label\":\"Collation Visualization for Sinai Arabic 112\",\"url\":\"https://vceditor.library.upenn.edu/project/668d9e775d69680001455ede/viewOnly\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[104], p. 15\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386784-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1np3p1j/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1np3p1j%2F2812bv2m/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1np3p1j",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1np3p1j%2F2812bv2m/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1np3p1j/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 112",
+    "168 ff."
+  ],
+  "ot_date_tesim": [
+    "1259 CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "1259 CE"
+  ]
 }

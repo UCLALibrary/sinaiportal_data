@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z16d7gf5",
   "ark_ssi": "ark:/21198/z16d7gf5",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16d7gf5%2Ffs555d6h/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -32,7 +27,7 @@
   "ot_genre_ssim": [
     "Account books"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1677,
     1678,
     1679,
@@ -64,7 +59,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -72,7 +67,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 690",
   "titles_tesim": [
     "Record book of treaties with the Arab tribes of Mt. Sinai"
@@ -81,18 +76,45 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Record book of treaties with the Arab tribes of Mt. Sinai",
-    "Summary record of treaties with the Arab tribes of Mt. Sinai in the form of a Calendar of Treaty Index. It does not contain texts or treaties"
+    "Item 1",
+    "Record book of treaties with the Arab tribes of Mt. Sinai"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Naskh",
-    "Summary record of treaties with the Arab tribes of Mt. Sinai in the form of a Calendar of Treaty Index. It does not contain texts or treaties",
     "Arabic",
+    "Naskh",
     "Paper",
-    "Sinai Arabic 690",
     "Record book of treaties with the Arab tribes of Mt. Sinai",
+    "Sinai Arabic 690",
+    "Summary record of treaties with the Arab tribes of Mt. Sinai in the form of a Calendar of Treaty Index. It does not contain texts or treaties",
     "ark:/21198/z16d7gf5"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z16d7gf5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 690\",\"extent\":\"39 ff.\",\"weight\":\"229.5 g\",\"dim\":\"290 x 104 x 17.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s17w4b\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s17w4b\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 690, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s12d4z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s12d4z\",\"reconstruction\":false,\"label\":\"Record book of treaties with the Arab tribes of Mt. Sinai\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Record book of treaties with the Arab tribes of Mt. Sinai\",\"genre\":[{\"id\":\"account-books\",\"label\":\"Account books\"}]},\"locus\":\"ff. 1r-10r\",\"note\":[\"Summary record of treaties with the Arab tribes of Mt. Sinai in the form of a Calendar of Treaty Index. It does not contain texts or treaties\"]}],\"parent\":[\"ark:/21198/s17w4b\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":1677,\"not_after\":1700},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z16d7gf5\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[597], p. 52\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279391548-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz16d7gf5/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16d7gf5%2Ffs555d6h/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z16d7gf5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 690\",\"extent\":\"39 ff.\",\"weight\":\"229.5 g\",\"dim\":\"290 x 104 x 17.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s17w4b\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s17w4b\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 690, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s12d4z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s12d4z\",\"reconstruction\":false,\"label\":\"Record book of treaties with the Arab tribes of Mt. Sinai\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Record book of treaties with the Arab tribes of Mt. Sinai\",\"genre\":[{\"id\":\"account-books\",\"label\":\"Account books\"}]},\"locus\":\"ff. 1r-10r\",\"note\":[\"Summary record of treaties with the Arab tribes of Mt. Sinai in the form of a Calendar of Treaty Index. It does not contain texts or treaties\"]}],\"parent\":[\"ark:/21198/s17w4b\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":\"1677\",\"not_after\":\"1700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z16d7gf5\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[597], p. 52\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279391548-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz16d7gf5/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16d7gf5%2Ffs555d6h/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z16d7gf5",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16d7gf5%2Ffs555d6h/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://ingest.iiif.library.ucla.edu/ark%3A%2F21198%2Fz16d7gf5/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 690",
+    "39 ff."
+  ],
+  "ot_date_tesim": [
+    "17th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "17th c. CE"
+  ]
 }

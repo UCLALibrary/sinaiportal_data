@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/z1f77x8r",
   "ark_ssi": "ark:/21198/z1f77x8r",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1f77x8r%2F0r609z4h/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [],
@@ -23,6 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Estrangela"
   ],
@@ -33,7 +28,7 @@
     "Biblical texts",
     "Gospel books"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1101,
     1102,
     1103,
@@ -243,7 +238,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -251,33 +246,61 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Syriac 135",
   "titles_tesim": [
-    "Gospels",
+    "Bible. Gospels",
     "Four Gospels",
-    "Bible. Gospels"
+    "Gospels"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Gospels",
-    "Four Gospels",
     "Bible. Gospels",
-    "Lectionary of Acts and Epistles"
+    "Four Gospels",
+    "Gospels",
+    "Item 1"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Gospels",
-    "ark:/21198/z1f77x8r",
-    "Lectionary of Acts and Epistles",
-    "Estrangela",
     "Bible. Gospels",
+    "Elements of Serto",
+    "Estrangela",
+    "Four Gospels",
+    "Gospels",
+    "Lectionary of Acts and Epistles",
     "Paper",
     "Sinai Syriac 135",
     "Syriac",
-    "Elements of Serto"
+    "ark:/21198/z1f77x8r"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1f77x8r\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 135\",\"extent\":\"179 ff.\",\"weight\":\"757.5 g\",\"dim\":\"182 x 143 x 59.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1nw42\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1nw42\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 135, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}],\"note\":[\"Elements of Serto\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1gd4p\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1gd4p\",\"reconstruction\":false,\"label\":\"Lectionary of Acts and Epistles\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 1r-178v\"}],\"parent\":[\"ark:/21198/s1nw42\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":1101,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1f77x8r\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[42], p. 152\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279387892-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1f77x8r/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1f77x8r%2F0r609z4h/full/!200,200/0/default.jpg\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1f77x8r\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 135\",\"extent\":\"179 ff.\",\"weight\":\"757.5 g\",\"dim\":\"182 x 143 x 59.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1nw42\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1nw42\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 135, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}],\"note\":[\"Elements of Serto\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1gd4p\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1gd4p\",\"reconstruction\":false,\"label\":\"Lectionary of Acts and Epistles\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s10k5f\",\"pref_title\":\"Gospels\",\"alt_title\":[\"Bible. Gospels\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Gospels \",\"uri\":\"https://viaf.org/viaf/317284260\",\"source\":\"VIAF\"},{\"label\":\"Bible. Gospels\",\"uri\":\"http://id.loc.gov/authorities/names/n79063688\",\"source\":\"LoC\"}]},\"alt_title\":\"Four Gospels\",\"locus\":\"ff. 1r-178v\"}],\"parent\":[\"ark:/21198/s1nw42\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1f77x8r\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[42], p. 152\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279387892-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1f77x8r/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1f77x8r%2F0r609z4h/full/!200,200/0/default.jpg\"}]}",
+  "id": "ark:/21198/z1f77x8r",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1f77x8r%2F0r609z4h/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1f77x8r/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 135",
+    "179 ff."
+  ],
+  "ot_date_tesim": [
+    "12th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "12th c. CE"
+  ]
 }

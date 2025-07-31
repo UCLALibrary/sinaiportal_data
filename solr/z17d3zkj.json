@@ -1,15 +1,10 @@
 {
-  "id": "ark:/21198/z17d3zkj",
   "ark_ssi": "ark:/21198/z17d3zkj",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
   "features_ssim": [
-    "Headpiece(s)",
-    "Decoration, Geometric"
+    "Decoration, Geometric",
+    "Headpiece(s)"
   ],
   "support_ssim": [
     "Paper"
@@ -25,6 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -32,10 +28,10 @@
     "Arabic"
   ],
   "ot_genre_ssim": [
-    "Liturgical texts",
-    "Hagiographies"
+    "Hagiographies",
+    "Liturgical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
     1201,
     1202,
     1203,
@@ -145,7 +141,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -153,7 +149,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic 402",
   "titles_tesim": [
     "Menologion",
@@ -163,24 +159,50 @@
   "exerpts_tesim": [],
   "places_tesim": [],
   "contents_tesim": [
-    "Menologion. Lives of Saints for the months of Shbat (February), Adhar (March) and Nisan (April), beginning on the 12th of Shbat with the life of St. Maletius and ending on the 30th of Nisan with the life of Jacob the Apostle",
-    "Menologion. For the months of Shbat (February), Adhar (March) and Nisan (April)",
+    "Item 1",
     "Menologion",
     "Menologion. Lives of Saints for the months of Shbat (February), Adhar (March) and Nisan (April)"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
-    "Minor geometric headpieces on ff. 11r, 24v, 36r, 39v",
-    "Menologion. Lives of Saints for the months of Shbat (February), Adhar (March) and Nisan (April), beginning on the 12th of Shbat with the life of St. Maletius and ending on the 30th of Nisan with the life of Jacob the Apostle",
-    "Menologion. For the months of Shbat (February), Adhar (March) and Nisan (April)",
-    "Menologion",
-    "Naskh",
     "Arabic",
-    "Paper",
     "Binding lacking",
-    "ff. 65–67 lacking",
+    "Menologion",
+    "Menologion. For the months of Shbat (February), Adhar (March) and Nisan (April)",
+    "Menologion. Lives of Saints for the months of Shbat (February), Adhar (March) and Nisan (April)",
+    "Menologion. Lives of Saints for the months of Shbat (February), Adhar (March) and Nisan (April), beginning on the 12th of Shbat with the life of St. Maletius and ending on the 30th of Nisan with the life of Jacob the Apostle",
+    "Minor geometric headpieces on ff. 11r, 24v, 36r, 39v",
+    "Naskh",
+    "Paper",
     "Sinai Arabic 402",
-    "ark:/21198/z17d3zkj"
+    "ark:/21198/z17d3zkj",
+    "ff. 65–67 lacking"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z17d3zkj\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 402\",\"extent\":\"129 ff.\",\"weight\":\"1214.5 g\",\"dim\":\"320 x 237 x 35 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1wg77\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1wg77\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 402, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1q36h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1q36h\",\"reconstruction\":false,\"label\":\"Menologion. For the months of Shbat (February), Adhar (March) and Nisan (April)\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion. Lives of Saints for the months of Shbat (February), Adhar (March) and Nisan (April)\",\"locus\":\"ff. 1r-131v\",\"note\":[\"Menologion. Lives of Saints for the months of Shbat (February), Adhar (March) and Nisan (April), beginning on the 12th of Shbat with the life of St. Maletius and ending on the 30th of Nisan with the life of Jacob the Apostle\"]}],\"parent\":[\"ark:/21198/s1wg77\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":1201,\"not_after\":1300},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces on ff. 11r, 24v, 36r, 39v\"}],\"parent\":[\"ark:/21198/z17d3zkj\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"ff. 65–67 lacking\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Binding lacking\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[162], p. 19\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279389943-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz17d3zkj/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z17d3zkj\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 402\",\"extent\":\"129 ff.\",\"weight\":\"1214.5 g\",\"dim\":\"320 x 237 x 35 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1wg77\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1wg77\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 402, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1q36h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1q36h\",\"reconstruction\":false,\"label\":\"Menologion. For the months of Shbat (February), Adhar (March) and Nisan (April)\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion. Lives of Saints for the months of Shbat (February), Adhar (March) and Nisan (April)\",\"locus\":\"ff. 1r-131v\",\"note\":[\"Menologion. Lives of Saints for the months of Shbat (February), Adhar (March) and Nisan (April), beginning on the 12th of Shbat with the life of St. Maletius and ending on the 30th of Nisan with the life of Jacob the Apostle\"]}],\"parent\":[\"ark:/21198/s1wg77\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces on ff. 11r, 24v, 36r, 39v\"}],\"parent\":[\"ark:/21198/z17d3zkj\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"ff. 65–67 lacking\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Binding lacking\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[162], p. 19\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279389943-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz17d3zkj/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "id": "ark:/21198/z17d3zkj",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "iiif_manifest_url_ssi": "http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz17d3zkj/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 402",
+    "129 ff."
+  ],
+  "ot_date_tesim": [
+    "13th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "13th c. CE"
+  ]
 }
