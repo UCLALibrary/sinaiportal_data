@@ -1,5 +1,5 @@
 {
-  "ark": "ark:/21198/tebv9g4m/2",
+  "ark": "ark:/21198/tebv9g4m-2",
   "reconstruction": false,
   "type": {
     "id": "manuscript",
@@ -21,14 +21,14 @@
       ],
       "ot_layer": [
         {
-          "id": "ark:/21198/tebvp1ol",
+          "id": "ark:/21198/tebvp1ol-2",
           "label": "Overtext",
           "type": {
             "id": "overtext",
             "label": "Overtext"
           },
           "layer_record": {
-            "ark": "ark:/21198/tebvp1ol",
+            "ark": "ark:/21198/tebvp1ol-2",
             "reconstruction": false,
             "state": {
               "id": "overtext",
@@ -48,10 +48,10 @@
             ],
             "text_unit": [
               {
-                "id": "ark:/21198/tebvp1olt1",
+                "id": "ark:/21198/tebvp1olt1-2",
                 "label": "Text unit 1",
                 "text_unit_record": {
-                  "ark": "ark:/21198/tebvp1olt1",
+                  "ark": "ark:/21198/tebvp1olt1-2",
                   "reconstruction": false,
                   "label": "Horologion",
                   "locus": "ff. 1-14",
@@ -79,27 +79,27 @@
                     }
                   ],
                   "parent": [
-                    "ark:/21198/tebvp1ol"
+                    "ark:/21198/tebvp1ol-2"
                   ]
                 }
               }
             ],
             "parent": [
-              "ark:/21198/tebv9g4m"
+              "ark:/21198/tebv9g4m-2"
             ]
           }
         }
       ],
       "guest_layer": [
         {
-          "id": "ark:/21198/te5fmsg1",
+          "id": "ark:/21198/te5fmsg1-2",
           "label": "Guest layer 1 label",
           "type": {
             "id": "guest",
             "label": "Guest Content"
           },
           "layer_record": {
-            "ark": "ark:/21198/te5fmsg1",
+            "ark": "ark:/21198/te5fmsg1-2",
             "reconstruction": false,
             "state": {
               "id": "guest",
@@ -108,45 +108,6 @@
             "label": "Guest layer 1 record label",
             "locus": "ff. 58–64, 142–144",
             "summary": "Guest layer 1 summary",
-            "assoc_date": [
-              {
-                "value": "1292 CE",
-                "iso": {
-                  "not_before": "1292-01",
-                  "not_after": "1292-12"
-                },
-                "type": {
-                  "id": "origin",
-                  "label": "Origin Date"
-                },
-                "note": [
-                  "Guest origin date"
-                ]
-              }
-            ],
-            "assoc_name": [
-              {
-                "value": "Guest layer associated name value",
-                "role": {
-                  "id": "unkwnown",
-                  "label": "Unknown"
-                },
-                "as_written": "As written person name, Guest Layer"
-              }
-            ],
-            "assoc_place": [
-              {
-                "place_record": {
-                  "pref_name": "Edessa, Guest Layer"
-                },
-                "value": "Edessa (value), Guest Layer",
-                "as_writen": "As written place name, Guest Layer",
-                "event": {
-                  "id": "unknown",
-                  "label": "Unknown"
-                }
-              }
-            ],
             "writing": [
               {
                 "script": [
@@ -160,10 +121,10 @@
             ],
             "text_unit": [
               {
-                "id": "ark:/21198/te5fmsg1t1",
+                "id": "ark:/21198/te5fmsg1t1-2",
                 "label": "Guest text unit 1",
                 "text_unit_record": {
-                  "ark": "ark:/21198/te5fmsg1t1",
+                  "ark": "ark:/21198/te5fmsg1t1-2",
                   "reconstruction": false,
                   "label": "Guest 1 text unit label",
                   "summary": "Guest 1 text unit summary",
@@ -193,8 +154,7 @@
                                 "Saint Arsenius the Deacon",
                                 "Arsenius of Scetis and Turah",
                                 "Arsenius the Roman",
-                                "Abba Arsenius",
-                                "Creator Alt Name"
+                                "Abba Arsenius"
                               ],
                               "gender": {
                                 "id": "man",
@@ -285,6 +245,30 @@
                       "alt_title": "Work wit alt title",
                       "as_written": "GUEST ܐܘܢܓܠܝܘܢ [ܩܕ]ܝܫܐ ܟܪܘܙܘܬܐ [ܕ]ܠ[ܘ]ܩܐ",
                       "locus": "ff. 55v-144v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 55v",
+                          "as_written": "ܡܛܠ ܕܤܓܝ̈ܐܐ ܨܒ̣ܘ ܕܢܟܬܒܘܢ ܬܫܥܝ̈ܬܐ ܕܤܘܥܖ̈ܢܐ …GUEST",
+                          "translation": [
+                            "Guest layer excerpt translation"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 144v",
+                          "as_written": "ܐܬܝ̈ ܠܒܝܬ ܩܒܘܪܐ ܘܐܝܬܝ",
+                          "note": [
+                            "Guest excerpt. Corresponds to Luke 24:1"
+                          ]
+                        }
+                      ],
                       "contents": [
                         {
                           "label": "Easter, GUEST CONTENT",
@@ -298,28 +282,6 @@
                           "work_id": "ark:/21198/s1xs34",
                           "locus": "f. 4r",
                           "pref_title": "Acts"
-                        }
-                      ],
-                      "excerpt": [
-                        {
-                          "type": {
-                            "id": "incipit",
-                            "label": "Incipit"
-                          },
-                          "locus": "f. 55v",
-                          "as_written": "ܡܛܠ ܕܤܓܝ̈ܐܐ ܨܒ̣ܘ ܕܢܟܬܒܘܢ ܬܫܥܝ̈ܬܐ ܕܤܘܥܖ̈ܢܐ …GUEST",
-                          "translation": "Guest layer excerpt translation"
-                        },
-                        {
-                          "type": {
-                            "id": "des-mut",
-                            "label": "Last Preserved Line"
-                          },
-                          "locus": "f. 144v",
-                          "as_written": "ܐܬܝ̈ ܠܒܝܬ ܩܒܘܪܐ ܘܐܝܬܝ",
-                          "note": [
-                            "Guest excerpt. Corresponds to Luke 24:1"
-                          ]
                         }
                       ],
                       "note": [
@@ -455,7 +417,7 @@
                     }
                   ],
                   "parent": [
-                    "ark:/21198/te5fmsg1"
+                    "ark:/21198/te5fmsg1-2"
                   ],
                   "desc_provenance": {
                     "program": [
@@ -468,8 +430,49 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "1292 CE",
+                "iso": {
+                  "not_before": "1292-01",
+                  "not_after": "1292-12"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Origin Date"
+                },
+                "note": [
+                  "Guest origin date"
+                ]
+              }
+            ],
+            "assoc_name": [
+              {
+                "value": "Guest layer associated name value",
+                "as_written": "As written person name, Guest Layer",
+                "role": {
+                  "id": "unkwnown",
+                  "label": "Unknown"
+                }
+              }
+            ],
+            "assoc_place": [
+              {
+                "id": "ark:/21198/pl9012",
+                "value": "Edessa (value), Guest Layer",
+                "as_written": "As written place name, Guest Layer",
+                "event": {
+                  "id": "unknown",
+                  "label": "Unknown"
+                },
+                "place_record": {
+                  "ark": "ark:/21198/pl9012",
+                  "pref_name": "Edessa (Guest Layer Test)"
+                }
+              }
+            ],
             "parent": [
-              "ark:/21198/te5f0f9b"
+              "ark:/21198/te5f0f9b-2"
             ],
             "desc_provenance": {
               "program": [
