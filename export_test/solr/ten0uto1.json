@@ -1,11 +1,5 @@
 {
-  "id": "ark:/21198/ten0uto1",
   "ark_ssi": "ark:/21198/ten0uto1",
-  "has_model_ssim": [
-    "Work"
-  ],
-  "visibility_ssi": "open",
-  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
   "features_ssim": [
@@ -29,6 +23,9 @@
   "reconstructed_from_ssim": [
     "ark:/21198/ten02zkr"
   ],
+  "reconstructed_from_shelfmark": [
+    "Sinai Arabic NF M 28"
+  ],
   "ot_script_ssim": [
     "Greek majuscule"
   ],
@@ -38,7 +35,18 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_date_isim": [
+  "ot_years_isim": [
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
     512,
     513,
     514,
@@ -127,18 +135,7 @@
     597,
     598,
     599,
-    600,
-    501,
-    502,
-    503,
-    504,
-    505,
-    506,
-    507,
-    508,
-    509,
-    510,
-    511
+    600
   ],
   "ot_language_ssim": [
     "Greek"
@@ -146,7 +143,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_date_isim": [],
+  "para_years_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -154,63 +151,88 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_date_isim": [],
+  "uto_years_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF M 28, UTO 1",
   "titles_tesim": [
     "Exodus"
   ],
   "names_tesim": [
     "Ephrem",
-    "ܐܦܪܝܡ",
-    "Ephrem the Syrian"
+    "Ephrem test record used for demo purposes",
+    "Ephrem the Syrian",
+    "ܐܦܪܝܡ"
   ],
   "exerpts_tesim": [],
   "places_tesim": [
-    "Deir al-Suryan"
+    "Deir al-Suryan",
+    "Written in Deir al-Suryan"
   ],
   "contents_tesim": [
     "Exodus",
     "Exodus (6th c. Greek majuscule)",
-    "Undertext Object of Exodus, 6th c. Greek majuscule",
-    "contributors: Rossetto; Tselikas",
-    "Exodus, 6th c. Greek majuscule"
+    "Exodus, 6th c. Greek majuscule",
+    "Primary Text Unit 1",
+    "Undertext Object of Exodus, 6th c. Greek majuscule"
   ],
-  "paracontent_tesim": [
-    "Undertext Object of Exodus, 6th c. Greek majuscule",
-    "Exodus, 6th c. Greek majuscule"
-  ],
+  "paracontent_tesim": [],
   "full_text_tesim": [
-    "Kashouh article",
+    "Arabic NF M 28 UTOs + Arabic NF M 8 UTOs (Genesis and Exodus)",
+    "Boudalis and Rossetto",
+    "Deir al-Suryan",
+    "Disjecta Membra",
+    "Ephrem",
+    "Ephrem test record used for demo purposes",
+    "Ephrem the Syrian",
+    "Exodus",
+    "Exodus from Arabic NF M 8",
+    "Folios in order of reconstructed undertext: 130v, 130r, 135v, 135r, 128v, 128r, 133r, 133v, 134r, 134v, 129r, 129v, 137v, 137r, 136r, 136v, 143r, 143v, 139v, 139r",
     "Genesis from Arabic NF M 28",
+    "Genesis from Arabic NF M 8",
     "Greek",
     "Greek majuscule",
-    "Boudalis and Rossetto",
-    "Possible colophon, f. 139, mostly illegible",
-    "ark:/21198/ten0uto1",
-    "Paleographic dating",
-    "Manicule emerging from a decorated initial, f. 175r",
-    "Genesis from Arabic NF M 8",
-    "The original manuscript also included the UTO Genesis from Arabic NF 28 and the UTOs Genesis and Exodus from Arabic NF 8",
-    "Sinai Arabic NF M 28, UTO 1",
-    "Exodus, 6th c. Greek majuscule",
-    "The original manuscript also included the UTO Genesis from Arabic NF 28 and the UTOs Genesis and Exodus from Arabic NF 8 (Rossetto)",
-    "Deir al-Suryan",
+    "Kashouh article",
     "Kashouh book",
+    "Manicule emerging from a decorated initial, f. 175r",
+    "Paleographic dating",
     "Parchment",
-    "Round biblical majuscule",
-    "Ephrem",
-    "Written in Deir al-Suryan",
-    "Folios in order of reconstructed undertext: 130v, 130r, 135v, 135r, 128v, 128r, 133r, 133v, 134r, 134v, 129r, 129v, 137v, 137r, 136r, 136v, 143r, 143v, 139v, 139r",
-    "Arabic NF M 28 UTOs + Arabic NF M 8 UTOs (Genesis and Exodus)",
-    "Reconstructed folio order: 130, 135, 128, 133-134, 129, 137, 136, 143, 139",
-    "Exodus (6th c. Greek majuscule)",
-    "Exodus",
-    "Disjecta Membra",
-    "Undertext Object of Exodus, 6th c. Greek majuscule",
-    "contributors: Rossetto; Tselikas",
+    "Possible colophon, f. 139, mostly illegible",
     "Previous catalogs dated this manuscript to the 13th-14th c. CE",
-    "Exodus from Arabic NF M 8",
-    "Ephrem test record used for demo purposes"
+    "Reconstructed folio order: 130, 135, 128, 133-134, 129, 137, 136, 143, 139",
+    "Round biblical majuscule",
+    "Sinai Arabic NF M 28, UTO 1",
+    "The original manuscript also included the UTO Genesis from Arabic NF 28 and the UTOs Genesis and Exodus from Arabic NF 8",
+    "The original manuscript also included the UTO Genesis from Arabic NF 28 and the UTOs Genesis and Exodus from Arabic NF 8 (Rossetto)",
+    "Written in Deir al-Suryan",
+    "ark:/21198/ten0uto1",
+    "contributors: Rossetto; Tselikas",
+    "ܐܦܪܝܡ"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/ten0uto1\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"Sinai Arabic NF M 28, UTO 1\",\"summary\":\"Undertext Object of Exodus, 6th c. Greek majuscule\",\"extent\":\"10 ff.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"ff. 128-130, 133-137, 139, 143\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"summary\":\"Exodus, 6th c. Greek majuscule\",\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"extent\":\"10 ff.\",\"dim\":\"191 x 137 mm (typical folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/ten0p1ul1\",\"label\":\"Overtext layer, Exodus (6th c., Greek majuscule)\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/ten0p1ul1\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Arabic NF M 28, Part 1, Undertext 1\",\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"summary\":\"Exodus (6th c. Greek majuscule)\",\"extent\":\"10 ff.\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"note\":[\"Round biblical majuscule\"]}],\"text_unit\":[{\"id\":\"ark:/21198/ten0p1ul1t1\",\"label\":\"Primary Text Unit 1\",\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"text_unit_record\":{\"ark\":\"ark:/21198/ten0p1ul1t1\",\"reconstruction\":false,\"label\":\"Exodus\",\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Exodus\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"note\":[\"contributors: Rossetto; Tselikas\"]}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"The original manuscript also included the UTO Genesis from Arabic NF 28 and the UTOs Genesis and Exodus from Arabic NF 8 (Rossetto)\"}],\"bib\":[{\"id\":\"874101cc-626a-43d5-91a7-a9b1091871cd\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"note\":[\"Boudalis and Rossetto\"]}],\"parent\":[\"ark:/21198/ten0p1ul1\"],\"internal\":[\"Test record, delete after development is complete\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpests Project\",\"description\":\"Described as part of the Sinai Palimpsests Project (2006-2017). The Sinai Palimpsests Project was sponsored by St. Catherine’s Monastery of the Sinai in partnership with the Early Manuscripts Electronic Library and the UCLA Library, and with funding from Arcadia. The Project provides scholarly identification and description of the undertext objects in a subset of palimpsested manuscripts in the Sinai collection, with minimal metadata for the overtexts of the host manuscripts.\"}]}}}],\"assoc_date\":[{\"value\":\"6th c. CE\",\"iso\":{\"not_before\":501,\"not_after\":600},\"type\":{\"id\":\"origin\",\"label\":\"Origin Date\"},\"note\":[\"Paleographic dating\"]}],\"assoc_name\":[{\"id\":\"ark:/21198/s1v887\",\"agent_record\":{\"ark\":\"ark:/21198/s1v887\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Ephrem\",\"alt_name\":[\"Ephrem the Syrian\",\"ܐܦܪܝܡ\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"303 CE-373 CE\",\"iso\":{\"not_before\":303,\"not_after\":373}},\"rel_con\":[{\"label\":\"Ephraem, Syrus, Saint, 303-373\",\"uri\":\"http://viaf.org/viaf/100177778\",\"source\":\"VIAF\"},{\"label\":\"Ephraem, Syrus, Saint, 303-373\",\"uri\":\"http://id.loc.gov/authorities/names/n50082928\",\"source\":\"LoC\"},{\"label\":\"Ephrem, of Nisibis, 303-373\",\"uri\":\"https://w3id.org/haf/person/818572788967\",\"source\":\"HAF\"},{\"label\":\"Ephrem\",\"uri\":\"http://syriaca.org/person/13\",\"source\":\"Syriaca\"},{\"label\":\"Ephraem Graecus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/995/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"},\"note\":[\"Ephrem test record used for demo purposes\"]}],\"assoc_place\":[{\"value\":\"Deir al-Suryan\",\"event\":{\"id\":\"origin\",\"label\":\"Origin Place\"},\"note\":[\"Written in Deir al-Suryan\"]}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation\"},\"value\":\"Folios in order of reconstructed undertext: 130v, 130r, 135v, 135r, 128v, 128r, 133r, 133v, 134r, 134v, 129r, 129v, 137v, 137r, 136r, 136v, 143r, 143v, 139v, 139r\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Previous catalogs dated this manuscript to the 13th-14th c. CE\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Manicule emerging from a decorated initial, f. 175r\"},{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Possible colophon, f. 139, mostly illegible\"}],\"bib\":[{\"id\":\"d943377f-b641-4984-bcb1-0f859e11616f\",\"type\":{\"id\":\"ref\",\"label\":\"Reference Work\"},\"range\":\"p. 1-57\"},{\"id\":\"4693593d-2e88-4784-ab3d-501539acf1a0\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"range\":\"v. 1, pp. 55-90\",\"note\":[\"Kashouh article\"]}],\"parent\":[\"ark:/21198/ten02zkr\",\"ark:/21198/ten0uto1\"],\"internal\":[\"Test record for development purposes; please delete.\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpests Project\",\"description\":\"Described as part of the Sinai Palimpsests Project (2006-2017). The Sinai Palimpsests Project was sponsored by St. Catherine’s Monastery of the Sinai in partnership with the Early Manuscripts Electronic Library and the UCLA Library, and with funding from Arcadia. The Project provides scholarly identification and description of the undertext objects in a subset of palimpsested manuscripts in the Sinai collection, with minimal metadata for the overtexts of the host manuscripts.\"}]}},\"locus\":\"ff. 128-130, 133-137, 139, 143\"}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation\"},\"value\":\"Reconstructed folio order: 130, 135, 128, 133-134, 129, 137, 136, 143, 139\"}],\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Arabic NF M 28 UTOs + Arabic NF M 8 UTOs (Genesis and Exodus)\",\"note\":[\"The original manuscript also included the UTO Genesis from Arabic NF 28 and the UTOs Genesis and Exodus from Arabic NF 8\"],\"mss\":[{\"label\":\"Genesis from Arabic NF M 28\",\"id\":\"ark:/21198/ten0uto2\"},{\"label\":\"Genesis from Arabic NF M 8\",\"id\":\"ark:/21198/tekduto1gen\"},{\"label\":\"Exodus from Arabic NF M 8\",\"id\":\"ark:/21198/tekduto2exod\"}]}],\"bib\":[{\"id\":\"ebe32f6b-ad60-472c-aceb-d86913448530\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"range\":\"28-57\",\"note\":[\"Kashouh article\"]},{\"id\":\"01d4a639-d314-4271-b7f8-3f559c6c744c\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"range\":\"28-57\",\"note\":[\"Kashouh book\"]}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr1qn64nz/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg\"}],\"internal\":[\"This record is used only for purposes of developing the data portal and should therefore not be published, and should be deleted when development is complete\"],\"reconstructed_from\":[\"ark:/21198/ten02zkr\"],\"has_bind\":false}"
+  "manuscript_json_ss": "{\"ark\":\"ark:/21198/ten0uto1\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"Sinai Arabic NF M 28, UTO 1\",\"summary\":\"Undertext Object of Exodus, 6th c. Greek majuscule\",\"extent\":\"10 ff.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"ff. 128-130, 133-137, 139, 143\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"summary\":\"Exodus, 6th c. Greek majuscule\",\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"extent\":\"10 ff.\",\"dim\":\"191 x 137 mm (typical folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/ten0p1ul1\",\"label\":\"Overtext layer, Exodus (6th c., Greek majuscule)\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/ten0p1ul1\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Arabic NF M 28, Part 1, Undertext 1\",\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"summary\":\"Exodus (6th c. Greek majuscule)\",\"extent\":\"10 ff.\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"note\":[\"Round biblical majuscule\"]}],\"text_unit\":[{\"id\":\"ark:/21198/ten0p1ul1t1\",\"label\":\"Primary Text Unit 1\",\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"text_unit_record\":{\"ark\":\"ark:/21198/ten0p1ul1t1\",\"reconstruction\":false,\"label\":\"Exodus\",\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Exodus\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"locus\":\"ff. 128-130, 133-137, 139, 143\",\"note\":[\"contributors: Rossetto; Tselikas\"]}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"The original manuscript also included the UTO Genesis from Arabic NF 28 and the UTOs Genesis and Exodus from Arabic NF 8 (Rossetto)\"}],\"bib\":[{\"id\":\"874101cc-626a-43d5-91a7-a9b1091871cd\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"note\":[\"Boudalis and Rossetto\"]}],\"parent\":[\"ark:/21198/ten0p1ul1\"],\"internal\":[\"Test record, delete after development is complete\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpests Project\",\"description\":\"Described as part of the Sinai Palimpsests Project (2006-2017). The Sinai Palimpsests Project was sponsored by St. Catherine’s Monastery of the Sinai in partnership with the Early Manuscripts Electronic Library and the UCLA Library, and with funding from Arcadia. The Project provides scholarly identification and description of the undertext objects in a subset of palimpsested manuscripts in the Sinai collection, with minimal metadata for the overtexts of the host manuscripts.\"}]}}}],\"assoc_date\":[{\"value\":\"6th c. CE\",\"iso\":{\"not_before\":\"0501\",\"not_after\":\"0600\"},\"type\":{\"id\":\"origin\",\"label\":\"Origin Date\"},\"note\":[\"Paleographic dating\"]}],\"assoc_name\":[{\"id\":\"ark:/21198/s1v887\",\"agent_record\":{\"ark\":\"ark:/21198/s1v887\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Ephrem\",\"alt_name\":[\"Ephrem the Syrian\",\"ܐܦܪܝܡ\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"303 CE-373 CE\",\"iso\":{\"not_before\":\"0303\",\"not_after\":\"0373\"}},\"rel_con\":[{\"label\":\"Ephraem, Syrus, Saint, 303-373\",\"uri\":\"http://viaf.org/viaf/100177778\",\"source\":\"VIAF\"},{\"label\":\"Ephraem, Syrus, Saint, 303-373\",\"uri\":\"http://id.loc.gov/authorities/names/n50082928\",\"source\":\"LoC\"},{\"label\":\"Ephrem, of Nisibis, 303-373\",\"uri\":\"https://w3id.org/haf/person/818572788967\",\"source\":\"HAF\"},{\"label\":\"Ephrem\",\"uri\":\"http://syriaca.org/person/13\",\"source\":\"Syriaca\"},{\"label\":\"Ephraem Graecus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/995/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"},\"note\":[\"Ephrem test record used for demo purposes\"]}],\"assoc_place\":[{\"value\":\"Deir al-Suryan\",\"event\":{\"id\":\"origin\",\"label\":\"Origin Place\"},\"note\":[\"Written in Deir al-Suryan\"]}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation\"},\"value\":\"Folios in order of reconstructed undertext: 130v, 130r, 135v, 135r, 128v, 128r, 133r, 133v, 134r, 134v, 129r, 129v, 137v, 137r, 136r, 136v, 143r, 143v, 139v, 139r\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Previous catalogs dated this manuscript to the 13th-14th c. CE\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Manicule emerging from a decorated initial, f. 175r\"},{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Possible colophon, f. 139, mostly illegible\"}],\"bib\":[{\"id\":\"d943377f-b641-4984-bcb1-0f859e11616f\",\"type\":{\"id\":\"ref\",\"label\":\"Reference Work\"},\"range\":\"p. 1-57\"},{\"id\":\"4693593d-2e88-4784-ab3d-501539acf1a0\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"range\":\"v. 1, pp. 55-90\",\"note\":[\"Kashouh article\"]}],\"parent\":[\"ark:/21198/ten02zkr\",\"ark:/21198/ten0uto1\"],\"internal\":[\"Test record for development purposes; please delete.\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpests Project\",\"description\":\"Described as part of the Sinai Palimpsests Project (2006-2017). The Sinai Palimpsests Project was sponsored by St. Catherine’s Monastery of the Sinai in partnership with the Early Manuscripts Electronic Library and the UCLA Library, and with funding from Arcadia. The Project provides scholarly identification and description of the undertext objects in a subset of palimpsested manuscripts in the Sinai collection, with minimal metadata for the overtexts of the host manuscripts.\"}]}},\"locus\":\"ff. 128-130, 133-137, 139, 143\"}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation\"},\"value\":\"Reconstructed folio order: 130, 135, 128, 133-134, 129, 137, 136, 143, 139\"}],\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Arabic NF M 28 UTOs + Arabic NF M 8 UTOs (Genesis and Exodus)\",\"note\":[\"The original manuscript also included the UTO Genesis from Arabic NF 28 and the UTOs Genesis and Exodus from Arabic NF 8\"],\"mss\":[{\"label\":\"Genesis from Arabic NF M 28\",\"id\":\"ark:/21198/ten0uto2\"},{\"label\":\"Genesis from Arabic NF M 8\",\"id\":\"ark:/21198/tekduto1gen\"},{\"label\":\"Exodus from Arabic NF M 8\",\"id\":\"ark:/21198/tekduto2exod\"}]}],\"bib\":[{\"id\":\"ebe32f6b-ad60-472c-aceb-d86913448530\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"range\":\"28-57\",\"note\":[\"Kashouh article\"]},{\"id\":\"01d4a639-d314-4271-b7f8-3f559c6c744c\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"range\":\"28-57\",\"note\":[\"Kashouh book\"]}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr1qn64nz/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg\"}],\"internal\":[\"This record is used only for purposes of developing the data portal and should therefore not be published, and should be deleted when development is complete\"],\"reconstructed_from\":[{\"id\":\"ark:/21198/ten02zkr\",\"shelfmark\":\"Sinai Arabic NF M 28\"}],\"has_bind\":false}",
+  "id": "ark:/21198/ten0uto1",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr1qn64nz/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic NF M 28, UTO 1",
+    "10 ff."
+  ],
+  "ot_date_tesim": [
+    "6th c. CE"
+  ],
+  "para_date_tesim": [],
+  "uto_date_tesim": [
+    "6th c. CE"
+  ]
 }
