@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Georgian)"
   ],
@@ -31,7 +31,7 @@
     "Hymnals",
     "Liturgical texts"
   ],
-  "ot_years_isim": [],
+  "ot_year_isim": [],
   "ot_language_ssim": [
     "Georgian"
   ],
@@ -40,7 +40,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -54,7 +54,7 @@
     "Arabic",
     "Greek"
   ],
-  "uto_years_isim": [
+  "uto_year_isim": [
     551,
     552,
     553,
@@ -380,7 +380,8 @@
     "Undetermined (Georgian)",
     "ark:/21198/r2sf2t3c"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/r2sf2t3c\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Georgian NF frag 73a\",\"extent\":\"4 ff.\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1rd0n\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1rd0n\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Georgian NF frag 73a, Overtext (Undetermined (Georgian))\",\"writing\":[{\"script\":[{\"id\":\"georgian-undetermined\",\"label\":\"Undetermined (Georgian)\",\"writing_system\":\"Georgian\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1k080\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1k080\",\"reconstruction\":false,\"label\":\"Menaion by Mikael Modrekili (4th December)\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1bg6w\",\"pref_title\":\"Menaia\",\"alt_title\":[\"Menaia\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"alt_title\":\"Menaion by Mikael Modrekili (4th December)\"}],\"parent\":[\"ark:/21198/s1rd0n\"]}}],\"parent\":[\"ark:/21198/r2sf2t3c\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1z058\",\"label\":\"Arabic Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1, 2v, 3\",\"script\":[\"Undetermined (Arabic)\"],\"lang\":[\"Arabic\"],\"orig_date\":[{\"value\":\"10th-11th c.  CE\",\"iso\":{\"not_before\":\"0901\",\"not_after\":\"1100\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1t93c\",\"label\":\"Greek Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–4\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"mid 6th- mid 7th c.  CE\",\"iso\":{\"not_before\":\"0551\",\"not_after\":\"0650\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Binding absent\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Three detached leaves and one small fragment\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr2sf2t3c/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10293t0/0,1022,6132,6132/150,150/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/r2sf2t3c\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Georgian NF frag 73a\",\"extent\":\"4 ff.\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1rd0n\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1rd0n\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Georgian NF frag 73a, Overtext (Undetermined (Georgian))\",\"writing\":[{\"script\":[{\"id\":\"georgian-undetermined\",\"label\":\"Undetermined (Georgian)\",\"writing_system\":\"Georgian\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1k080\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1k080\",\"reconstruction\":false,\"label\":\"Menaion by Mikael Modrekili (4th December)\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1bg6w\",\"pref_title\":\"Menaia\",\"alt_title\":[\"Menaia\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"alt_title\":\"Menaion by Mikael Modrekili (4th December)\"}],\"parent\":[\"ark:/21198/s1rd0n\"]}}],\"parent\":[\"ark:/21198/r2sf2t3c\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1z058\",\"label\":\"Arabic Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1, 2v, 3\",\"script\":[\"Undetermined (Arabic)\"],\"lang\":[\"Arabic\"],\"orig_date\":[{\"value\":\"10th-11th c.  CE\",\"iso\":{\"not_before\":\"0901\",\"not_after\":\"1100\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1t93c\",\"label\":\"Greek Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–4\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"mid 6th- mid 7th c.  CE\",\"iso\":{\"not_before\":\"0551\",\"not_after\":\"0650\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Binding absent\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Three detached leaves and one small fragment\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr2sf2t3c/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10293t0/0,1022,6132,6132/150,150/0/default.jpg\"}]}",
   "id": "ark:/21198/r2sf2t3c",
   "has_model_ssim": [
     "Work"

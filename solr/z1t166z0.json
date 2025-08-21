@@ -22,7 +22,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Greek minuscule",
     "Naskh"
@@ -34,7 +34,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1601,
     1602,
     1603,
@@ -145,7 +145,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -153,7 +153,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 259",
   "titles_tesim": [
     "Book of Liturgy (Euchologia)",
@@ -183,7 +183,8 @@
     "f. 5 lacking",
     "ff. 1–4 rodent damage"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1t166z0\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 259\",\"extent\":\"119 ff.\",\"weight\":\"251.5 g\",\"dim\":\"157 x 115 x 27 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1990k\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1990k\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 259, Overtext (Greek minuscule, Naskh)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"},{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}],\"note\":[\"Thuluth used for headings\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s13w8m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13w8m\",\"reconstruction\":false,\"label\":\"Book of Liturgy (Euchologia)\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"},{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tp4j\",\"pref_title\":\"Euchologion\",\"alt_title\":[\"Euchologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Book of Liturgy (Euchologia)\",\"locus\":\"ff. 1r - 120v\"}],\"features\":[{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Parallel Greek and Arabic text on ff. 104v-105r\"}],\"parent\":[\"ark:/21198/s1990k\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":\"1601\",\"not_after\":\"1700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorated Greek intials, minor, f. 13v; vegetative, ff. 15r, 53v, 73v | Headpieces, ff. 16r, 18v, vegetative; f. 17v, geometric\"}],\"parent\":[\"ark:/21198/z1t166z0\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"f. 5 lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"ff. 1–4 rodent damage\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[313], p. 26\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916690205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t166z0/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t166z0%2F2v58w474/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1t166z0\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 259\",\"extent\":\"119 ff.\",\"weight\":\"251.5 g\",\"dim\":\"157 x 115 x 27 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1990k\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1990k\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 259, Overtext (Greek minuscule, Naskh)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"},{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}],\"note\":[\"Thuluth used for headings\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s13w8m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13w8m\",\"reconstruction\":false,\"label\":\"Book of Liturgy (Euchologia)\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"},{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tp4j\",\"pref_title\":\"Euchologion\",\"alt_title\":[\"Euchologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Book of Liturgy (Euchologia)\",\"locus\":\"ff. 1r - 120v\"}],\"features\":[{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Parallel Greek and Arabic text on ff. 104v-105r\"}],\"parent\":[\"ark:/21198/s1990k\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":\"1601\",\"not_after\":\"1700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorated Greek intials, minor, f. 13v; vegetative, ff. 15r, 53v, 73v | Headpieces, ff. 16r, 18v, vegetative; f. 17v, geometric\"}],\"parent\":[\"ark:/21198/z1t166z0\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"f. 5 lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"ff. 1–4 rodent damage\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[313], p. 26\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916690205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t166z0/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t166z0%2F2v58w474/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1t166z0",
   "has_model_ssim": [
     "Work"

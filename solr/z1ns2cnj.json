@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -30,7 +30,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     985
   ],
   "ot_language_ssim": [
@@ -41,7 +41,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [
     "Syriac"
   ],
@@ -53,7 +53,7 @@
   ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Syriac 116",
   "titles_tesim": [
     "Horologion"
@@ -83,7 +83,8 @@
     "ܕܝܪܝܐ ܐܪܣܢܝ",
     "ܢܣܲܒ: ܫܘܡ̇ܠܝ܆ ܟܬܒܐ ܗܢܐ: ܫܥ̈ܐ: ܘܡܒ̇ܪ ܙܡܘܣ ܝܘܡ ܫ̄ܒ: ܒ̄ܝܕ: ܒܬܫ̈ܝܢ ܒ̄: ܫܢܬܲ. ܫ̈ܬ̣ܐ: ܐܠܦܝܢ: ܘܫܒܥ ܡܐܐ ܘܬܫܥܝܢ ܘܚܕ: ܠܥܠܡܐ܀ ܒܐܝ̈ܕܝ: ܐܢܫ ܚܲܛܝܐ: ܘܡܦܠܦܠ: ܘܒܨܝܪܐ ܕܟܠܗܘܢ ܒܢܝܢ̈ܫܐ܀ ܒܫܡܐ ܘܠܐ ܒܥ̇ܒܕܐ ܟ̄ܗ: ܕܝܪܝܐ ܐܪܣܢܝ: ܟܠܡ̇ܢ ܕܢܩܪܐ ܢܨܲܠܐܹ ܥܠܝ: ܡܛܠ ܡܪܢ܆ ܘܟܠܢܫ ܐܝܟ ܨܠܘܬܗ̣ ܡܬܦ݂ܪܥ܀ ܢܐܡܪ: ܐܠܗܐ ܚܘܢܝܗ. ܠܟܬܘܒܐ ܐܝܟ ܠܝܣܐ ܒܙܩܝܦܐ܀ ܒܨ̣ܠܘܬܐ ܕܡܪܬܢ ܝܠܕܬ ܐܠܗܐ ܡܪܝܡ ܘܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ ܘܐܡܝܢ܀"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1ns2cnj\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 116\",\"extent\":\"204 ff.\",\"weight\":\"871 g\",\"dim\":\"180 x 152 x 67.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1vh0m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1vh0m\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 116, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1p38z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1p38z\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 2ar-200r\"}],\"parent\":[\"ark:/21198/s1vh0m\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"199v-200r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܢܣܲܒ: ܫܘܡ̇ܠܝ܆ ܟܬܒܐ ܗܢܐ: ܫܥ̈ܐ: ܘܡܒ̇ܪ ܙܡܘܣ ܝܘܡ ܫ̄ܒ: ܒ̄ܝܕ: ܒܬܫ̈ܝܢ ܒ̄: ܫܢܬܲ. ܫ̈ܬ̣ܐ: ܐܠܦܝܢ: ܘܫܒܥ ܡܐܐ ܘܬܫܥܝܢ ܘܚܕ: ܠܥܠܡܐ܀ ܒܐܝ̈ܕܝ: ܐܢܫ ܚܲܛܝܐ: ܘܡܦܠܦܠ: ܘܒܨܝܪܐ ܕܟܠܗܘܢ ܒܢܝܢ̈ܫܐ܀ ܒܫܡܐ ܘܠܐ ܒܥ̇ܒܕܐ ܟ̄ܗ: ܕܝܪܝܐ ܐܪܣܢܝ: ܟܠܡ̇ܢ ܕܢܩܪܐ ܢܨܲܠܐܹ ܥܠܝ: ܡܛܠ ܡܪܢ܆ ܘܟܠܢܫ ܐܝܟ ܨܠܘܬܗ̣ ܡܬܦ݂ܪܥ܀ ܢܐܡܪ: ܐܠܗܐ ܚܘܢܝܗ. ܠܟܬܘܒܐ ܐܝܟ ܠܝܣܐ ܒܙܩܝܦܐ܀ ܒܨ̣ܠܘܬܐ ܕܡܪܬܢ ܝܠܕܬ ܐܠܗܐ ܡܪܝܡ ܘܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ ܘܐܡܝܢ܀\",\"assoc_name\":[{\"value\":\"Monk Arsani\",\"as_written\":\"ܕܝܪܝܐ ܐܪܣܢܝ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}]}],\"assoc_date\":[{\"value\":\"985 CE\",\"iso\":{\"not_before\":\"0985\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1ns2cnj\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[109], p. 155\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279387818-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ns2cnj/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ns2cnj%2Fq231f61q/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1ns2cnj\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 116\",\"extent\":\"204 ff.\",\"weight\":\"871 g\",\"dim\":\"180 x 152 x 67.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1vh0m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1vh0m\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 116, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1p38z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1p38z\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 2ar-200r\"}],\"parent\":[\"ark:/21198/s1vh0m\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"199v-200r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܢܣܲܒ: ܫܘܡ̇ܠܝ܆ ܟܬܒܐ ܗܢܐ: ܫܥ̈ܐ: ܘܡܒ̇ܪ ܙܡܘܣ ܝܘܡ ܫ̄ܒ: ܒ̄ܝܕ: ܒܬܫ̈ܝܢ ܒ̄: ܫܢܬܲ. ܫ̈ܬ̣ܐ: ܐܠܦܝܢ: ܘܫܒܥ ܡܐܐ ܘܬܫܥܝܢ ܘܚܕ: ܠܥܠܡܐ܀ ܒܐܝ̈ܕܝ: ܐܢܫ ܚܲܛܝܐ: ܘܡܦܠܦܠ: ܘܒܨܝܪܐ ܕܟܠܗܘܢ ܒܢܝܢ̈ܫܐ܀ ܒܫܡܐ ܘܠܐ ܒܥ̇ܒܕܐ ܟ̄ܗ: ܕܝܪܝܐ ܐܪܣܢܝ: ܟܠܡ̇ܢ ܕܢܩܪܐ ܢܨܲܠܐܹ ܥܠܝ: ܡܛܠ ܡܪܢ܆ ܘܟܠܢܫ ܐܝܟ ܨܠܘܬܗ̣ ܡܬܦ݂ܪܥ܀ ܢܐܡܪ: ܐܠܗܐ ܚܘܢܝܗ. ܠܟܬܘܒܐ ܐܝܟ ܠܝܣܐ ܒܙܩܝܦܐ܀ ܒܨ̣ܠܘܬܐ ܕܡܪܬܢ ܝܠܕܬ ܐܠܗܐ ܡܪܝܡ ܘܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ ܘܐܡܝܢ܀\",\"assoc_name\":[{\"value\":\"Monk Arsani\",\"as_written\":\"ܕܝܪܝܐ ܐܪܣܢܝ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}]}],\"assoc_date\":[{\"value\":\"985 CE\",\"iso\":{\"not_before\":\"0985\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1ns2cnj\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[109], p. 155\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279387818-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ns2cnj/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ns2cnj%2Fq231f61q/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1ns2cnj",
   "has_model_ssim": [
     "Work"

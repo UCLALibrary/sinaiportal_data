@@ -17,7 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -27,7 +27,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_years_isim": [],
+  "ot_year_isim": [],
   "ot_language_ssim": [
     "Arabic"
   ],
@@ -36,7 +36,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -44,7 +44,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF X 52",
   "titles_tesim": [
     "Horologion"
@@ -64,7 +64,8 @@
     "Sinai Arabic NF X 52",
     "ark:/21198/z1tx5dz2"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1tx5dz2\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF X 52\",\"extent\":\"57 ff.\",\"weight\":\"191.4 g\",\"dim\":\"187 x 140 x 19.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s16k8f\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s16k8f\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF X 52, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1166b\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1166b\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-56v\"}],\"parent\":[\"ark:/21198/s16k8f\"]}}],\"parent\":[\"ark:/21198/z1tx5dz2\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 51; ٥٦\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1tx5dz2/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1tx5dz2%2Fdp45rh34/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1tx5dz2\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF X 52\",\"extent\":\"57 ff.\",\"weight\":\"191.4 g\",\"dim\":\"187 x 140 x 19.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s16k8f\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s16k8f\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF X 52, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1166b\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1166b\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-56v\"}],\"parent\":[\"ark:/21198/s16k8f\"]}}],\"parent\":[\"ark:/21198/z1tx5dz2\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 51; ٥٦\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1tx5dz2/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1tx5dz2%2Fdp45rh34/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1tx5dz2",
   "has_model_ssim": [
     "Work"

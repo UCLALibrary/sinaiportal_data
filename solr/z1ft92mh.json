@@ -21,7 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Christian Palestinian Aramaic"
   ],
@@ -31,7 +31,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1201,
     1202,
     1203,
@@ -139,7 +139,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -151,7 +151,7 @@
   "uto_language_ssim": [
     "CPA"
   ],
-  "uto_years_isim": [
+  "uto_year_isim": [
     701,
     702,
     703,
@@ -379,7 +379,8 @@
     "ark:/21198/z1ft92mh",
     "black"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1ft92mh\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai CPA NF frag 13\",\"extent\":\"2 ff.\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"236 x 181 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1x32v\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1x32v\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai CPA NF frag 13, Overtext (Christian Palestinian Aramaic)\",\"writing\":[{\"script\":[{\"id\":\"cpa\",\"label\":\"Christian Palestinian Aramaic\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1qq26\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1qq26\",\"reconstruction\":false,\"label\":\"Index of Lections\",\"lang\":[{\"id\":\"chri1239\",\"label\":\"CPA\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Index of Lections\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]}}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Fol. 2v has the beginnings of an index of lections in CPA\"}],\"parent\":[\"ark:/21198/s1x32v\"]}}],\"assoc_date\":[{\"value\":\"13th c.  CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Two six-pointed stars with dots, in red and black ink, on f. 2r\"}],\"parent\":[\"ark:/21198/z1ft92mh\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1n63s\",\"label\":\"CPA Undertext: Bible. John\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1r\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"12th c.  CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1hd1v\",\"label\":\"CPA Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 2\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"8th c.  CE\",\"iso\":{\"not_before\":\"0701\",\"not_after\":\"0800\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Ff. 1v and 2r contain some notes in Arabic, including a date (AM 6760 = AD 1252)\"},{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated; sequence follows Brock, 1995, pl. 436-437\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Bifolio; five evenly spaced horizontal creases running across bifolio\"},{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Fol. 2v has the beginnings of an index of lections in CPA\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 88-89, pl. 436-437\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ft92mh/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1q248j3/0,1022,6132,6132/150,150/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1ft92mh\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai CPA NF frag 13\",\"extent\":\"2 ff.\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"236 x 181 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1x32v\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1x32v\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai CPA NF frag 13, Overtext (Christian Palestinian Aramaic)\",\"writing\":[{\"script\":[{\"id\":\"cpa\",\"label\":\"Christian Palestinian Aramaic\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1qq26\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1qq26\",\"reconstruction\":false,\"label\":\"Index of Lections\",\"lang\":[{\"id\":\"chri1239\",\"label\":\"CPA\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Index of Lections\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]}}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Fol. 2v has the beginnings of an index of lections in CPA\"}],\"parent\":[\"ark:/21198/s1x32v\"]}}],\"assoc_date\":[{\"value\":\"13th c.  CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Two six-pointed stars with dots, in red and black ink, on f. 2r\"}],\"parent\":[\"ark:/21198/z1ft92mh\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1n63s\",\"label\":\"CPA Undertext: Bible. John\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1r\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"12th c.  CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]},{\"uto_layer_ark\":\"ark:/21198/s1hd1v\",\"label\":\"CPA Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 2\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"],\"orig_date\":[{\"value\":\"8th c.  CE\",\"iso\":{\"not_before\":\"0701\",\"not_after\":\"0800\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Ff. 1v and 2r contain some notes in Arabic, including a date (AM 6760 = AD 1252)\"},{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated; sequence follows Brock, 1995, pl. 436-437\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Bifolio; five evenly spaced horizontal creases running across bifolio\"},{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Fol. 2v has the beginnings of an index of lections in CPA\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"pp. 88-89, pl. 436-437\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ft92mh/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1q248j3/0,1022,6132,6132/150,150/0/default.jpg\"}]}",
   "id": "ark:/21198/z1ft92mh",
   "has_model_ssim": [
     "Work"

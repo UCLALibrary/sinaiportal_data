@@ -21,7 +21,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -31,7 +31,7 @@
   "ot_genre_ssim": [
     "Theological works"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1224
   ],
   "ot_language_ssim": [
@@ -42,7 +42,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -50,7 +50,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 385",
   "titles_tesim": [
     "Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs",
@@ -81,7 +81,8 @@
     "St. Nicon the Hermit: Pandectes",
     "ark:/21198/z1v14496"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1v14496\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 385\",\"extent\":\"454 ff.\",\"weight\":\"2671.6 g\",\"dim\":\"265 x 190 x 128.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1tp5x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1tp5x\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 385, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1n946\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1n946\",\"reconstruction\":false,\"label\":\"St. Nicon the Hermit: Pandectes\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1z885\",\"pref_title\":\"Pandektēs\",\"alt_title\":[\"Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs\"],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}],\"creator\":[{\"id\":\"ark:/21198/s1qc7n\",\"agent_record\":{\"ark\":\"ark:/21198/s1qc7n\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Nikon of the Black Mountain\",\"alt_name\":[\"Nikon of the Black Mountain, ca. 1025-ca. 1100\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"ca. 1025 CE-ca. 1100 CE\",\"iso\":{\"not_before\":\"1010\",\"not_after\":\"1115\"}},\"rel_con\":[{\"label\":\"Nikon, Chernogoret︠s︡, -1088\",\"uri\":\"http://viaf.org/viaf/315521737\",\"source\":\"VIAF\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Nikon, Chernogoret︠s︡, -1088. | Pandects\",\"uri\":\"http://viaf.org/viaf/186277094\",\"source\":\"VIAF\"}]},\"alt_title\":\"St. Nicon the Hermit: Pandectes\",\"locus\":\"ff. 1r-452r\"}],\"parent\":[\"ark:/21198/s1tp5x\"]}}],\"assoc_date\":[{\"value\":\"1224 CE\",\"iso\":{\"not_before\":\"1224\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"}],\"parent\":[\"ark:/21198/z1v14496\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[399], p. 31\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/0027938975A-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v14496/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v14496%2Fzf62qq46/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1v14496\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 385\",\"extent\":\"454 ff.\",\"weight\":\"2671.6 g\",\"dim\":\"265 x 190 x 128.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1tp5x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1tp5x\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 385, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1n946\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1n946\",\"reconstruction\":false,\"label\":\"St. Nicon the Hermit: Pandectes\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1z885\",\"pref_title\":\"Pandektēs\",\"alt_title\":[\"Nikon of the Black Mountain, ca. 1025-ca. 1100. Pandektēs\"],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}],\"creator\":[{\"id\":\"ark:/21198/s1qc7n\",\"agent_record\":{\"ark\":\"ark:/21198/s1qc7n\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Nikon of the Black Mountain\",\"alt_name\":[\"Nikon of the Black Mountain, ca. 1025-ca. 1100\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"ca. 1025 CE-ca. 1100 CE\",\"iso\":{\"not_before\":\"1010\",\"not_after\":\"1115\"}},\"rel_con\":[{\"label\":\"Nikon, Chernogoret︠s︡, -1088\",\"uri\":\"http://viaf.org/viaf/315521737\",\"source\":\"VIAF\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Nikon, Chernogoret︠s︡, -1088. | Pandects\",\"uri\":\"http://viaf.org/viaf/186277094\",\"source\":\"VIAF\"}]},\"alt_title\":\"St. Nicon the Hermit: Pandectes\",\"locus\":\"ff. 1r-452r\"}],\"parent\":[\"ark:/21198/s1tp5x\"]}}],\"assoc_date\":[{\"value\":\"1224 CE\",\"iso\":{\"not_before\":\"1224\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"}],\"parent\":[\"ark:/21198/z1v14496\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[399], p. 31\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/0027938975A-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v14496/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v14496%2Fzf62qq46/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1v14496",
   "has_model_ssim": [
     "Work"

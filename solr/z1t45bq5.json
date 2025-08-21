@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -30,7 +30,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_years_isim": [],
+  "ot_year_isim": [],
   "ot_language_ssim": [
     "Arabic"
   ],
@@ -39,7 +39,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -47,7 +47,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 699",
   "titles_tesim": [
     "Octoechos"
@@ -69,7 +69,8 @@
     "Undetermined (Arabic)",
     "ark:/21198/z1t45bq5"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1t45bq5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 699\",\"extent\":\"153 ff.\",\"weight\":\"821.6 g\",\"dim\":\"238 x 184 x 40\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1gd05\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1gd05\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 699, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1908h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1908h\",\"reconstruction\":false,\"label\":\"Octoechos\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tg7m\",\"pref_title\":\"Octoechos\",\"alt_title\":[\"Octoechos\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 2v-153v\"}],\"parent\":[\"ark:/21198/s1gd05\"]}}],\"features\":[{\"id\":\"deco-anthropomorph\",\"label\":\"Decoration, Anthropomorphic\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Anthropomorphic decoration, f. 1v\"}],\"parent\":[\"ark:/21198/z1t45bq5\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"The inside endleaf contains a note about the purchase of wheat and tobacco\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t45bq5/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1t45bq5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 699\",\"extent\":\"153 ff.\",\"weight\":\"821.6 g\",\"dim\":\"238 x 184 x 40\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"catchwords\",\"label\":\"Catchwords\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1gd05\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1gd05\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 699, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1908h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1908h\",\"reconstruction\":false,\"label\":\"Octoechos\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tg7m\",\"pref_title\":\"Octoechos\",\"alt_title\":[\"Octoechos\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 2v-153v\"}],\"parent\":[\"ark:/21198/s1gd05\"]}}],\"features\":[{\"id\":\"deco-anthropomorph\",\"label\":\"Decoration, Anthropomorphic\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Anthropomorphic decoration, f. 1v\"}],\"parent\":[\"ark:/21198/z1t45bq5\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"The inside endleaf contains a note about the purchase of wheat and tobacco\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t45bq5/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
   "id": "ark:/21198/z1t45bq5",
   "has_model_ssim": [
     "Work"

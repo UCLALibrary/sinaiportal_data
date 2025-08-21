@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Greek minuscule"
   ],
@@ -31,7 +31,7 @@
     "Hymnals",
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1101,
     1102,
     1103,
@@ -241,7 +241,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -253,7 +253,7 @@
   "uto_language_ssim": [
     "Greek"
   ],
-  "uto_years_isim": [
+  "uto_year_isim": [
     1001,
     1002,
     1003,
@@ -379,7 +379,8 @@
     "black",
     "red"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z10v8nt5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek NF M 130\",\"extent\":\"1 ff.\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"165 x 130 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1d059\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1d059\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek NF M 130, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"ink\":[{\"color\":[\"black\",\"red\"],\"note\":[\"Initials overlaid in red\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s16m2h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s16m2h\",\"reconstruction\":false,\"label\":\"Troparion\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1vc88\",\"pref_title\":\"Troparion\",\"alt_title\":[\"Troparion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]}}],\"parent\":[\"ark:/21198/s1d059\"]}}],\"assoc_date\":[{\"value\":\"12th-13th c.  CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z10v8nt5\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s18654\",\"label\":\"Greek Undertext: John Climacus, Ladder of Divine Ascent\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Greek minuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"11th c.  CE\",\"iso\":{\"not_before\":\"1001\",\"not_after\":\"1100\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"One folio, fragmented, with two small pieces of conjoin attached; the lower one of these has a small piece of parchment folded in on the recto; diagonal crease across bottom\"}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 177\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10v8nt5/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16110vp/0,1022,6132,6132/150,150/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z10v8nt5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek NF M 130\",\"extent\":\"1 ff.\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"165 x 130 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1d059\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1d059\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek NF M 130, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"ink\":[{\"color\":[\"black\",\"red\"],\"note\":[\"Initials overlaid in red\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s16m2h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s16m2h\",\"reconstruction\":false,\"label\":\"Troparion\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1vc88\",\"pref_title\":\"Troparion\",\"alt_title\":[\"Troparion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]}}],\"parent\":[\"ark:/21198/s1d059\"]}}],\"assoc_date\":[{\"value\":\"12th-13th c.  CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z10v8nt5\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s18654\",\"label\":\"Greek Undertext: John Climacus, Ladder of Divine Ascent\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"script\":[\"Greek minuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"11th c.  CE\",\"iso\":{\"not_before\":\"1001\",\"not_after\":\"1100\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"Not foliated\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"One folio, fragmented, with two small pieces of conjoin attached; the lower one of these has a small piece of parchment folded in on the recto; diagonal crease across bottom\"}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 177\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz10v8nt5/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16110vp/0,1022,6132,6132/150,150/0/default.jpg\"}]}",
   "id": "ark:/21198/z10v8nt5",
   "has_model_ssim": [
     "Work"

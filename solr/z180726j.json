@@ -17,7 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -27,7 +27,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     901,
     902,
     903,
@@ -137,7 +137,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -145,7 +145,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Syriac NF X 1",
   "titles_tesim": [
     " Euchologion (collection of prayers) ",
@@ -168,7 +168,8 @@
     "Syriac",
     "ark:/21198/z180726j"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z180726j\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF X 1\",\"extent\":\"50 ff.\",\"weight\":\"136.1 g\",\"dim\":\"144 x 107 x 25.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1th09\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1th09\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF X 1, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1rt0s\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rt0s\",\"reconstruction\":false,\"label\":\"Euchologion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tp4j\",\"pref_title\":\"Euchologion\",\"alt_title\":[\"Euchologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\" Euchologion (collection of prayers) \",\"locus\":\"ff. 1r-50v\"}],\"parent\":[\"ark:/21198/s1th09\"]}}],\"assoc_date\":[{\"value\":\"10th c. CE\",\"iso\":{\"not_before\":\"0901\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z180726j\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"220eeb5e-ef2f-4ddd-96e5-47e2220aa409\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[X1N], pp. 94-96\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz180726j/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz180726j%2Fgn164v1c/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z180726j\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF X 1\",\"extent\":\"50 ff.\",\"weight\":\"136.1 g\",\"dim\":\"144 x 107 x 25.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1th09\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1th09\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF X 1, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1rt0s\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rt0s\",\"reconstruction\":false,\"label\":\"Euchologion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1tp4j\",\"pref_title\":\"Euchologion\",\"alt_title\":[\"Euchologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\" Euchologion (collection of prayers) \",\"locus\":\"ff. 1r-50v\"}],\"parent\":[\"ark:/21198/s1th09\"]}}],\"assoc_date\":[{\"value\":\"10th c. CE\",\"iso\":{\"not_before\":\"0901\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z180726j\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"220eeb5e-ef2f-4ddd-96e5-47e2220aa409\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[X1N], pp. 94-96\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz180726j/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz180726j%2Fgn164v1c/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z180726j",
   "has_model_ssim": [
     "Work"

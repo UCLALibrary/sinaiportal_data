@@ -19,7 +19,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -30,7 +30,7 @@
     "Commentaries",
     "Theological works"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1201,
     1202,
     1203,
@@ -138,7 +138,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -146,7 +146,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 621",
   "titles_tesim": [
     "Commentary on the Epistle to the Romans by St. John Chrysostom"
@@ -167,7 +167,8 @@
     "Sinai Arabic 621",
     "ark:/21198/z1rj5ntr"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1rj5ntr\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 621\",\"extent\":\"147 ff.\",\"weight\":\"583.3 g\",\"dim\":\"188 x 139 x 40 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"initials-deco\",\"label\":\"Initial(s)\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1702m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1702m\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 621, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s11m2z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s11m2z\",\"reconstruction\":false,\"label\":\"Commentary on the Epistle to the Romans by St. John Chrysostom\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Commentary on the Epistle to the Romans by St. John Chrysostom\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"commentaries\",\"label\":\"Commentaries\"}]},\"locus\":\"ff. 1r-147v\"}],\"parent\":[\"ark:/21198/s1702m\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1rj5ntr\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorated Greek initials on front and back pastedowns\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[357], p. 28\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916920205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1rj5ntr/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1rj5ntr\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 621\",\"extent\":\"147 ff.\",\"weight\":\"583.3 g\",\"dim\":\"188 x 139 x 40 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"initials-deco\",\"label\":\"Initial(s)\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1702m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1702m\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 621, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s11m2z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s11m2z\",\"reconstruction\":false,\"label\":\"Commentary on the Epistle to the Romans by St. John Chrysostom\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Commentary on the Epistle to the Romans by St. John Chrysostom\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"commentaries\",\"label\":\"Commentaries\"}]},\"locus\":\"ff. 1r-147v\"}],\"parent\":[\"ark:/21198/s1702m\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1rj5ntr\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorated Greek initials on front and back pastedowns\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[357], p. 28\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916920205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1rj5ntr/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
   "id": "ark:/21198/z1rj5ntr",
   "has_model_ssim": [
     "Work"

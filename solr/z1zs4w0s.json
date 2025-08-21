@@ -19,7 +19,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -30,7 +30,7 @@
     "Commentaries",
     "Theological works"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1201,
     1202,
     1203,
@@ -140,7 +140,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -148,7 +148,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 291",
   "titles_tesim": [
     "Commentary on the Gospel of St. John by St. John Chrysostom, Part I",
@@ -179,7 +179,8 @@
     "The folio between ff. 326b and 329 is labelled '327-328'",
     "ark:/21198/z1zs4w0s"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1zs4w0s\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 291\",\"extent\":\"408 ff.\",\"weight\":\"2659.8 g\",\"dim\":\"267 x 187 x 104.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1pc93\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1pc93\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 291, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1h070\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1h070\",\"reconstruction\":false,\"label\":\"Homilies on the Gospel of St. John (Chrysostom), Part I\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1n01z\",\"pref_title\":\"Homilies on John\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"commentaries\",\"label\":\"Commentaries\"}],\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"407 CE\",\"iso\":{\"not_before\":\"0407\"}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407. Homilies on John\",\"uri\":\"http://id.loc.gov/authorities/names/n97054490\",\"source\":\"LoC\"}]},\"alt_title\":\"Commentary on the Gospel of St. John by St. John Chrysostom, Part I\",\"locus\":\"ff. 1r-406v\",\"note\":[\"Commentary in 44 discourses\"]}],\"parent\":[\"ark:/21198/s1pc93\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1zs4w0s\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"The folio between ff. 326b and 329 is labelled '327-328'\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[340], p. 27\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279383989-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zs4w0s/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zs4w0s%2Fw9785m8d/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1zs4w0s\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 291\",\"extent\":\"408 ff.\",\"weight\":\"2659.8 g\",\"dim\":\"267 x 187 x 104.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1pc93\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1pc93\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 291, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1h070\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1h070\",\"reconstruction\":false,\"label\":\"Homilies on the Gospel of St. John (Chrysostom), Part I\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1n01z\",\"pref_title\":\"Homilies on John\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"commentaries\",\"label\":\"Commentaries\"}],\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"407 CE\",\"iso\":{\"not_before\":\"0407\"}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407. Homilies on John\",\"uri\":\"http://id.loc.gov/authorities/names/n97054490\",\"source\":\"LoC\"}]},\"alt_title\":\"Commentary on the Gospel of St. John by St. John Chrysostom, Part I\",\"locus\":\"ff. 1r-406v\",\"note\":[\"Commentary in 44 discourses\"]}],\"parent\":[\"ark:/21198/s1pc93\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1zs4w0s\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"The folio between ff. 326b and 329 is labelled '327-328'\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[340], p. 27\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279383989-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zs4w0s/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zs4w0s%2Fw9785m8d/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1zs4w0s",
   "has_model_ssim": [
     "Work"

@@ -17,7 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -27,7 +27,7 @@
   "ot_genre_ssim": [
     "Historical works"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     901,
     902,
     903,
@@ -135,7 +135,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -143,7 +143,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 582",
   "titles_tesim": [
     "A Universal History"
@@ -166,7 +166,8 @@
     "Undetermined (Arabic)",
     "ark:/21198/z1jd614g"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1jd614g\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 582\",\"extent\":\"163 ff.\",\"weight\":\"389.5 g\",\"dim\":\"170 x 152 x 37 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1p60z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1p60z\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 582, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1gt09\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1gt09\",\"reconstruction\":false,\"label\":\"A Universal History\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"A Universal History\",\"genre\":[{\"id\":\"historical-works\",\"label\":\"Historical works\"}]},\"locus\":\"ff. 1r-162v\",\"note\":[\"Beginning with the story of Moses and ending by the reign of the Caliph al-Ma’mūn\"]}],\"parent\":[\"ark:/21198/s1p60z\"]}}],\"assoc_date\":[{\"value\":\"10th c. CE\",\"iso\":{\"not_before\":\"0901\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1jd614g\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Greek inscription, front board inside\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[582], p. 50\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390635-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1jd614g/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jd614g%2F5s47fz5p/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1jd614g\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 582\",\"extent\":\"163 ff.\",\"weight\":\"389.5 g\",\"dim\":\"170 x 152 x 37 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1p60z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1p60z\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 582, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1gt09\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1gt09\",\"reconstruction\":false,\"label\":\"A Universal History\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"A Universal History\",\"genre\":[{\"id\":\"historical-works\",\"label\":\"Historical works\"}]},\"locus\":\"ff. 1r-162v\",\"note\":[\"Beginning with the story of Moses and ending by the reign of the Caliph al-Ma’mūn\"]}],\"parent\":[\"ark:/21198/s1p60z\"]}}],\"assoc_date\":[{\"value\":\"10th c. CE\",\"iso\":{\"not_before\":\"0901\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1jd614g\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Greek inscription, front board inside\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[582], p. 50\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390635-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1jd614g/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jd614g%2F5s47fz5p/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1jd614g",
   "has_model_ssim": [
     "Work"

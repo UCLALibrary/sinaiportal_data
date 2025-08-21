@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -32,7 +32,7 @@
     "Lectionaries",
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1601,
     1602,
     1603,
@@ -142,7 +142,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -150,7 +150,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 602",
   "titles_tesim": [
     "Prophetologion",
@@ -177,7 +177,8 @@
     "Undetermined (Arabic)",
     "ark:/21198/z1dn58f6"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1dn58f6\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 602\",\"extent\":\"119 ff.\",\"weight\":\"780.2 g\",\"dim\":\"317 x 222 x 27 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1r028\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1r028\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 602, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"layout\":[{\"columns\":\"2 columns\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1jm2m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1jm2m\",\"reconstruction\":false,\"label\":\"Prophetologion for Lent\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1j30p\",\"pref_title\":\"Prophetologion\",\"alt_title\":[\"Prophetologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Prophetologion for Lent\",\"locus\":\"ff. 1v-123v\"}],\"parent\":[\"ark:/21198/s1r028\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":\"1601\",\"not_after\":\"1700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"},{\"id\":\"inscription\",\"label\":\"Inscription(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Borders throughout, beginning on f. 1r\"}],\"parent\":[\"ark:/21198/z1dn58f6\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Inscription on inside back board\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Binding lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"One front end leaf | Last leaf detached with rodent damage | Ff. 80, 107, 108, and 119 lacking | Leaf holes and text loss from f. 118.\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[250], p. 23\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916890205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1dn58f6/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dn58f6%2Frg44zf35/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1dn58f6\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 602\",\"extent\":\"119 ff.\",\"weight\":\"780.2 g\",\"dim\":\"317 x 222 x 27 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1r028\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1r028\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 602, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"layout\":[{\"columns\":\"2 columns\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1jm2m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1jm2m\",\"reconstruction\":false,\"label\":\"Prophetologion for Lent\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1j30p\",\"pref_title\":\"Prophetologion\",\"alt_title\":[\"Prophetologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Prophetologion for Lent\",\"locus\":\"ff. 1v-123v\"}],\"parent\":[\"ark:/21198/s1r028\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":\"1601\",\"not_after\":\"1700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"border-deco\",\"label\":\"Border(s), Decorative\"},{\"id\":\"inscription\",\"label\":\"Inscription(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Borders throughout, beginning on f. 1r\"}],\"parent\":[\"ark:/21198/z1dn58f6\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Inscription on inside back board\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Binding lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"One front end leaf | Last leaf detached with rodent damage | Ff. 80, 107, 108, and 119 lacking | Leaf holes and text loss from f. 118.\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[250], p. 23\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916890205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1dn58f6/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dn58f6%2Frg44zf35/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1dn58f6",
   "has_model_ssim": [
     "Work"

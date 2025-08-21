@@ -22,7 +22,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -30,7 +30,7 @@
     "Arabic"
   ],
   "ot_genre_ssim": [],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1201,
     1202,
     1203,
@@ -140,7 +140,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -148,7 +148,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 381",
   "titles_tesim": [
     "Antiochus, monk of Palestine, active 7th century. Pandektēs",
@@ -179,7 +179,8 @@
     "St. Antiochus: Pandectes",
     "ark:/21198/z1cj9z4m"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1cj9z4m\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 381\",\"extent\":\"266 ff.\",\"weight\":\"1092.2 g\",\"dim\":\"209 x 154 x 85 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1bp5k\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1bp5k\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 381, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1594v\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1594v\",\"reconstruction\":false,\"label\":\"St. Antiochus: Pandectes\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1gp4f\",\"pref_title\":\"Pandektēs\",\"orig_lang\":{\"id\":\"gree1276\",\"label\":\"Greek\"},\"alt_title\":[\"Antiochus, monk of Palestine, active 7th century. Pandektēs\"],\"creator\":[{\"id\":\"ark:/21198/s1kw2p\",\"agent_record\":{\"ark\":\"ark:/21198/s1kw2p\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Antiochus of Palestine\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"7th c. CE\",\"iso\":{\"not_before\":\"0601\",\"not_after\":\"0700\"}},\"rel_con\":[{\"label\":\"Antiochus active 7th century monk of Palestine\",\"uri\":\"http://viaf.org/viaf/89050745\",\"source\":\"VIAF\"},{\"label\":\"Antiochus, monk of Palestine, active 7th century\",\"uri\":\"http://id.loc.gov/authorities/names/no2005084640\",\"source\":\"LoC\"},{\"label\":\"Antiochus, monk of Palestine, active 7th century\",\"uri\":\"https://haf.vhmml.org/person/329286221270\",\"source\":\"HAF\"},{\"label\":\"Antiochus monachus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/234/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Antiochus monachus Pandecte de la Sainte Écriture\",\"uri\":\"http://viaf.org/viaf/292613749\",\"source\":\"VIAF\"}]},\"alt_title\":\"St. Antiochus: Pandectes\",\"locus\":\"ff. 4r-268v\"}],\"parent\":[\"ark:/21198/s1bp5k\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor decorations and geometric line headpieces between ff. 12r-83r | Knotted cross motif, f. 30r\"}],\"parent\":[\"ark:/21198/z1cj9z4m\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Folios stuck together (ff. 258-259, 261-262), ff. 258v, 259r could not be imaged\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[395], p. 31\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038710300205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cj9z4m/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cj9z4m%2Fbd996f8k/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1cj9z4m\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 381\",\"extent\":\"266 ff.\",\"weight\":\"1092.2 g\",\"dim\":\"209 x 154 x 85 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1bp5k\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1bp5k\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 381, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1594v\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1594v\",\"reconstruction\":false,\"label\":\"St. Antiochus: Pandectes\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1gp4f\",\"pref_title\":\"Pandektēs\",\"orig_lang\":{\"id\":\"gree1276\",\"label\":\"Greek\"},\"alt_title\":[\"Antiochus, monk of Palestine, active 7th century. Pandektēs\"],\"creator\":[{\"id\":\"ark:/21198/s1kw2p\",\"agent_record\":{\"ark\":\"ark:/21198/s1kw2p\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Antiochus of Palestine\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"7th c. CE\",\"iso\":{\"not_before\":\"0601\",\"not_after\":\"0700\"}},\"rel_con\":[{\"label\":\"Antiochus active 7th century monk of Palestine\",\"uri\":\"http://viaf.org/viaf/89050745\",\"source\":\"VIAF\"},{\"label\":\"Antiochus, monk of Palestine, active 7th century\",\"uri\":\"http://id.loc.gov/authorities/names/no2005084640\",\"source\":\"LoC\"},{\"label\":\"Antiochus, monk of Palestine, active 7th century\",\"uri\":\"https://haf.vhmml.org/person/329286221270\",\"source\":\"HAF\"},{\"label\":\"Antiochus monachus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/234/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Antiochus monachus Pandecte de la Sainte Écriture\",\"uri\":\"http://viaf.org/viaf/292613749\",\"source\":\"VIAF\"}]},\"alt_title\":\"St. Antiochus: Pandectes\",\"locus\":\"ff. 4r-268v\"}],\"parent\":[\"ark:/21198/s1bp5k\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor decorations and geometric line headpieces between ff. 12r-83r | Knotted cross motif, f. 30r\"}],\"parent\":[\"ark:/21198/z1cj9z4m\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Folios stuck together (ff. 258-259, 261-262), ff. 258v, 259r could not be imaged\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[395], p. 31\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038710300205171//NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cj9z4m/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cj9z4m%2Fbd996f8k/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1cj9z4m",
   "has_model_ssim": [
     "Work"

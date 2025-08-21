@@ -17,7 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Estrangela"
   ],
@@ -27,7 +27,7 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     601,
     602,
     603,
@@ -137,7 +137,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -145,7 +145,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Syriac 35",
   "titles_tesim": [
     "Bible. Samuel",
@@ -173,7 +173,8 @@
     "Typikon (St. Sabas)",
     "ark:/21198/z1ww9296"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1ww9296\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 35\",\"extent\":\"109 ff.\",\"weight\":\"989.5 g\",\"dim\":\"220 x 156 x 67 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s13c9t\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s13c9t\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 35, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1ww94\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1ww94\",\"reconstruction\":false,\"label\":\"Typikon (St. Sabas)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1n30m\",\"pref_title\":\"Samuel\",\"alt_title\":[\"Bible. Samuel\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Samuel\",\"uri\":\"https://viaf.org/viaf/180630917\",\"source\":\"VIAF\"},{\"label\":\"Bible. Samuel\",\"uri\":\"http://id.loc.gov/authorities/names/n80008475\",\"source\":\"LoC\"}]},\"alt_title\":\"Book of Samuel I and part of II\",\"locus\":\"ff. 1v-109v\"}],\"parent\":[\"ark:/21198/s13c9t\"]}}],\"assoc_date\":[{\"value\":\"7th c. CE\",\"iso\":{\"not_before\":\"0601\",\"not_after\":\"0700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1ww9296\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[2], p. 151\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386498-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ww9296/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ww9296%2Fz7653897/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1ww9296\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 35\",\"extent\":\"109 ff.\",\"weight\":\"989.5 g\",\"dim\":\"220 x 156 x 67 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s13c9t\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s13c9t\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 35, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1ww94\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1ww94\",\"reconstruction\":false,\"label\":\"Typikon (St. Sabas)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1n30m\",\"pref_title\":\"Samuel\",\"alt_title\":[\"Bible. Samuel\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Samuel\",\"uri\":\"https://viaf.org/viaf/180630917\",\"source\":\"VIAF\"},{\"label\":\"Bible. Samuel\",\"uri\":\"http://id.loc.gov/authorities/names/n80008475\",\"source\":\"LoC\"}]},\"alt_title\":\"Book of Samuel I and part of II\",\"locus\":\"ff. 1v-109v\"}],\"parent\":[\"ark:/21198/s13c9t\"]}}],\"assoc_date\":[{\"value\":\"7th c. CE\",\"iso\":{\"not_before\":\"0601\",\"not_after\":\"0700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1ww9296\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[2], p. 151\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386498-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ww9296/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ww9296%2Fz7653897/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1ww9296",
   "has_model_ssim": [
     "Work"

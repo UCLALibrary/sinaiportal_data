@@ -19,7 +19,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -30,7 +30,7 @@
     "Mimars",
     "Theological works"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1101,
     1102,
     1103,
@@ -138,7 +138,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -146,7 +146,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 277",
   "titles_tesim": [
     "Five Mimars by St. Gregory the Theologian"
@@ -173,7 +173,8 @@
     "Undetermined (Arabic)",
     "ark:/21198/z1dr3zrs"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1dr3zrs\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 277\",\"extent\":\"78 ff.\",\"weight\":\"202.1 g\",\"dim\":\"172 x 150 x 22 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s17c8p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s17c8p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 277, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1207z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1207z\",\"reconstruction\":false,\"label\":\"Five Mimars by St. Gregory the Theologian\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Five Mimars by St. Gregory the Theologian\",\"creator\":[{\"id\":\"ark:/21198/s12s3c\",\"agent_record\":{\"ark\":\"ark:/21198/s12s3c\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Gregory of Nazianzus\",\"alt_name\":[\"Gregory the Theologian\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"ca. 329 CE-390 CE\",\"iso\":{\"not_before\":\"0304\",\"not_after\":\"0415\"}},\"rel_con\":[{\"label\":\"Gregory, of Nazianzus, Saint\",\"uri\":\"http://viaf.org/viaf/46897094\",\"source\":\"VIAF\"},{\"label\":\"Gregory, of Nazianzus, Saint\",\"uri\":\"https://id.loc.gov/authorities/names/n50082276\",\"source\":\"LoC\"},{\"label\":\"Gregory, of Nazianzus, approximately 329-390\",\"uri\":\"https://w3id.org/haf/person/889037265072\",\"source\":\"HAF\"},{\"label\":\"Gregory Nazianzen\",\"uri\":\"http://syriaca.org/person/511\",\"source\":\"Syriaca\"},{\"label\":\"Gregorius Nazianzenus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1239/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"mimars\",\"label\":\"Mimars\"}]},\"locus\":\"ff. 2v-76v\"}],\"parent\":[\"ark:/21198/s17c8p\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1dr3zrs\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"F. 46 ripped\"},{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Greek text on back board inside\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[449], p. 36\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038709970205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1dr3zrs/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dr3zrs%2Fbb85sv5b/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1dr3zrs\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 277\",\"extent\":\"78 ff.\",\"weight\":\"202.1 g\",\"dim\":\"172 x 150 x 22 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s17c8p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s17c8p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 277, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1207z\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1207z\",\"reconstruction\":false,\"label\":\"Five Mimars by St. Gregory the Theologian\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Five Mimars by St. Gregory the Theologian\",\"creator\":[{\"id\":\"ark:/21198/s12s3c\",\"agent_record\":{\"ark\":\"ark:/21198/s12s3c\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Gregory of Nazianzus\",\"alt_name\":[\"Gregory the Theologian\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"ca. 329 CE-390 CE\",\"iso\":{\"not_before\":\"0304\",\"not_after\":\"0415\"}},\"rel_con\":[{\"label\":\"Gregory, of Nazianzus, Saint\",\"uri\":\"http://viaf.org/viaf/46897094\",\"source\":\"VIAF\"},{\"label\":\"Gregory, of Nazianzus, Saint\",\"uri\":\"https://id.loc.gov/authorities/names/n50082276\",\"source\":\"LoC\"},{\"label\":\"Gregory, of Nazianzus, approximately 329-390\",\"uri\":\"https://w3id.org/haf/person/889037265072\",\"source\":\"HAF\"},{\"label\":\"Gregory Nazianzen\",\"uri\":\"http://syriaca.org/person/511\",\"source\":\"Syriaca\"},{\"label\":\"Gregorius Nazianzenus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1239/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"mimars\",\"label\":\"Mimars\"}]},\"locus\":\"ff. 2v-76v\"}],\"parent\":[\"ark:/21198/s17c8p\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1dr3zrs\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"F. 46 ripped\"},{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Greek text on back board inside\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[449], p. 36\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038709970205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1dr3zrs/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dr3zrs%2Fbb85sv5b/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1dr3zrs",
   "has_model_ssim": [
     "Work"

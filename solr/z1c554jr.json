@@ -22,7 +22,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -32,7 +32,7 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1238
   ],
   "ot_language_ssim": [
@@ -43,7 +43,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [
     "Arabic"
   ],
@@ -55,7 +55,7 @@
   ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 181",
   "titles_tesim": [
     "Horologion"
@@ -79,7 +79,8 @@
     "ark:/21198/z1c554jr",
     "كملت صلوات السواعي المباركة  والمجد للآب والابن والروح القدس الآن وكل أوان والى الدهور كلها آمين كتب جرجس ابن جرى الشاعر بموته رحم الله والديه ورحم جميع دين النصرانية ومن قرأ فيه وقال آمين وكان الفراغ من هذا الكتاب يوم الاثنين خامس عشر من حزيران لسنة ست آلاف سبعمائه واربعة وأربعين سنة…أبينا آدم عليه السلام وهذا…الشيخ جرى والده رحمه الله"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1c554jr\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 181\",\"extent\":\"143 ff.\",\"weight\":\"759.2 g\",\"dim\":\"173 x 152 x 65.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1fc75\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1fc75\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 181, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1806f\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1806f\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-144v\"}],\"parent\":[\"ark:/21198/s1fc75\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 142v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"كملت صلوات السواعي المباركة  والمجد للآب والابن والروح القدس الآن وكل أوان والى الدهور كلها آمين كتب جرجس ابن جرى الشاعر بموته رحم الله والديه ورحم جميع دين النصرانية ومن قرأ فيه وقال آمين وكان الفراغ من هذا الكتاب يوم الاثنين خامس عشر من حزيران لسنة ست آلاف سبعمائه واربعة وأربعين سنة…أبينا آدم عليه السلام وهذا…الشيخ جرى والده رحمه الله\",\"assoc_date\":[{\"value\":\"Tuesday 15 Huzayran 6744 (adam)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}],\"assoc_date\":[{\"value\":\"1238 CE\",\"iso\":{\"not_before\":\"1238\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Headpieces on ff. 45v, 68r, 94v, 112v ; Decorative knot on f. 127v\"}],\"parent\":[\"ark:/21198/z1c554jr\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[254], p. 23\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916390205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c554jr/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1c554jr%2Fp908fd2b/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1c554jr\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 181\",\"extent\":\"143 ff.\",\"weight\":\"759.2 g\",\"dim\":\"173 x 152 x 65.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1fc75\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1fc75\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 181, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1806f\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1806f\",\"reconstruction\":false,\"label\":\"Horologion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1dg6h\",\"pref_title\":\"Horologion\",\"alt_title\":[\"Horologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 1r-144v\"}],\"parent\":[\"ark:/21198/s1fc75\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 142v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"كملت صلوات السواعي المباركة  والمجد للآب والابن والروح القدس الآن وكل أوان والى الدهور كلها آمين كتب جرجس ابن جرى الشاعر بموته رحم الله والديه ورحم جميع دين النصرانية ومن قرأ فيه وقال آمين وكان الفراغ من هذا الكتاب يوم الاثنين خامس عشر من حزيران لسنة ست آلاف سبعمائه واربعة وأربعين سنة…أبينا آدم عليه السلام وهذا…الشيخ جرى والده رحمه الله\",\"assoc_date\":[{\"value\":\"Tuesday 15 Huzayran 6744 (adam)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}],\"assoc_date\":[{\"value\":\"1238 CE\",\"iso\":{\"not_before\":\"1238\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Headpieces on ff. 45v, 68r, 94v, 112v ; Decorative knot on f. 127v\"}],\"parent\":[\"ark:/21198/z1c554jr\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[254], p. 23\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038916390205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c554jr/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1c554jr%2Fp908fd2b/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1c554jr",
   "has_model_ssim": [
     "Work"

@@ -17,7 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -28,7 +28,7 @@
     "Mimars",
     "Theological works"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1101,
     1102,
     1103,
@@ -136,7 +136,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -144,7 +144,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 581",
   "titles_tesim": [
     "Mimars (9) by Theodore Bishop of Harrān"
@@ -167,7 +167,8 @@
     "ark:/21198/z1w96dgk",
     "f. 121 lacking"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1w96dgk\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 581\",\"extent\":\"206 ff.\",\"weight\":\"636.0 g\",\"dim\":\"197 x 159 x 61 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1t038\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1t038\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 581, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1mh26\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1mh26\",\"reconstruction\":false,\"label\":\"Mimars (9) by Theodore Bishop of Harrān\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Mimars (9) by Theodore Bishop of Harrān\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"mimars\",\"label\":\"Mimars\"}]},\"locus\":\"ff. 1r-207v\"}],\"parent\":[\"ark:/21198/s1t038\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1w96dgk\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"f. 121 lacking\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Front and back boards lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Last quires curved\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[509], p. 42\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1w96dgk/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"individuals\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1w96dgk\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 581\",\"extent\":\"206 ff.\",\"weight\":\"636.0 g\",\"dim\":\"197 x 159 x 61 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1t038\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1t038\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 581, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1mh26\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1mh26\",\"reconstruction\":false,\"label\":\"Mimars (9) by Theodore Bishop of Harrān\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Mimars (9) by Theodore Bishop of Harrān\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"mimars\",\"label\":\"Mimars\"}]},\"locus\":\"ff. 1r-207v\"}],\"parent\":[\"ark:/21198/s1t038\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1w96dgk\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"foliation\",\"label\":\"Foliation Note\"},\"value\":\"f. 121 lacking\"},{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Front and back boards lacking\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Last quires curved\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[509], p. 42\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1w96dgk/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"individuals\"}]}",
   "id": "ark:/21198/z1w96dgk",
   "has_model_ssim": [
     "Work"

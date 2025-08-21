@@ -22,7 +22,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Greek minuscule",
     "Naskh"
@@ -35,7 +35,7 @@
     "Biblical texts",
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1601,
     1602,
     1603,
@@ -146,7 +146,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -154,7 +154,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 624",
   "titles_tesim": [
     "Liturgy of Saint John Chrysostom"
@@ -179,7 +179,8 @@
     "Sinai Arabic 624",
     "ark:/21198/z18w4hnk"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z18w4hnk\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 624\",\"extent\":\"23 ff.\",\"weight\":\"138.3 g\",\"dim\":\"224 x 165 x 12 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1zg87\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1zg87\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 624, Overtext (Naskh, Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"layout\":[{\"columns\":\"2 columns (occasionally)\",\"note\":[\"Greek in the left column\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1s364\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1s364\",\"reconstruction\":false,\"label\":\"Liturgy of Saint John Chrysostom\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1g88t\",\"pref_title\":\"Liturgy of Saint John Chrysostom\",\"alt_title\":[\"Liturgy of Saint John Chrysostom\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Orthodox Eastern Church. Liturgy of St. John Chrysostom\",\"uri\":\"http://id.loc.gov/authorities/names/n82002421\",\"source\":\"LoC\"}]},\"locus\":\"ff. 2r-16v\"}],\"features\":[{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Greek and Arabic parallel text, ff. 2r-11br\"}],\"parent\":[\"ark:/21198/s1zg87\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":\"1601\",\"not_after\":\"1700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric decorations on ff. 12r, 13r, 14r, fleurons | Decorated Greek initials on ff. 2r-11r; f. 20r with leaves\"}],\"parent\":[\"ark:/21198/z18w4hnk\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[319], p. 26\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714370205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz18w4hnk/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz18w4hnk%2Ft853n59q/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z18w4hnk\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 624\",\"extent\":\"23 ff.\",\"weight\":\"138.3 g\",\"dim\":\"224 x 165 x 12 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1zg87\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1zg87\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 624, Overtext (Naskh, Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"layout\":[{\"columns\":\"2 columns (occasionally)\",\"note\":[\"Greek in the left column\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1s364\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1s364\",\"reconstruction\":false,\"label\":\"Liturgy of Saint John Chrysostom\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1g88t\",\"pref_title\":\"Liturgy of Saint John Chrysostom\",\"alt_title\":[\"Liturgy of Saint John Chrysostom\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Orthodox Eastern Church. Liturgy of St. John Chrysostom\",\"uri\":\"http://id.loc.gov/authorities/names/n82002421\",\"source\":\"LoC\"}]},\"locus\":\"ff. 2r-16v\"}],\"features\":[{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Greek and Arabic parallel text, ff. 2r-11br\"}],\"parent\":[\"ark:/21198/s1zg87\"]}}],\"assoc_date\":[{\"value\":\"17th c. CE\",\"iso\":{\"not_before\":\"1601\",\"not_after\":\"1700\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"deco-vegetative\",\"label\":\"Decoration, Vegetative\"},{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Geometric decorations on ff. 12r, 13r, 14r, fleurons | Decorated Greek initials on ff. 2r-11r; f. 20r with leaves\"}],\"parent\":[\"ark:/21198/z18w4hnk\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[319], p. 26\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714370205171\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz18w4hnk/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz18w4hnk%2Ft853n59q/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z18w4hnk",
   "has_model_ssim": [
     "Work"

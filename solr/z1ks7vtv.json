@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -33,7 +33,7 @@
     "Lectionaries",
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1279
   ],
   "ot_language_ssim": [
@@ -44,7 +44,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [
     "Arabic"
   ],
@@ -56,7 +56,7 @@
   ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 123",
   "titles_tesim": [
     "Evangelion",
@@ -85,7 +85,8 @@
     "ark:/21198/z1ks7vtv",
     "تم الإنجيل المقدس وذلك برسم الحدود المقدس لطول السنة وذلك بتاريخ أول أيار في سنة ست ألف وسبع مائة وسبعة وثمانين لأبينا آدم وذلك برسم الجبل العظيم المقدس  طور سيناء مما نسخة عبد الفقير إلى رحمة ربه ورضوانه ابراهيم ابن يوحنا الطبيب الدمشقي وهو يسأل كل من قرا فيه وسمعه لمن يدعوا له ولو الدير بمغفرة الخطايا والذنوب والسبح لله دائما وعلينا رحمته آمين "
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1ks7vtv\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 123\",\"extent\":\"196 ff.\",\"weight\":\"1117.7 g\",\"dim\":\"234 x 151 x 68 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1jg74\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1jg74\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 123, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1c06c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1c06c\",\"reconstruction\":false,\"label\":\"Evangelion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s19p4w\",\"pref_title\":\"Evangelion\",\"alt_title\":[\"Evangelion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Lectionary (Gospels)\",\"locus\":\"ff. 1v-194v\"}],\"parent\":[\"ark:/21198/s1jg74\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 194v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"تم الإنجيل المقدس وذلك برسم الحدود المقدس لطول السنة وذلك بتاريخ أول أيار في سنة ست ألف وسبع مائة وسبعة وثمانين لأبينا آدم وذلك برسم الجبل العظيم المقدس  طور سيناء مما نسخة عبد الفقير إلى رحمة ربه ورضوانه ابراهيم ابن يوحنا الطبيب الدمشقي وهو يسأل كل من قرا فيه وسمعه لمن يدعوا له ولو الدير بمغفرة الخطايا والذنوب والسبح لله دائما وعلينا رحمته آمين \",\"assoc_date\":[{\"value\":\"1 Ayyar 6787 (adam)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[\"Attested places:  Mount Sinai\"]}],\"assoc_date\":[{\"value\":\"1279 CE\",\"iso\":{\"not_before\":\"1279\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1ks7vtv\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"A few loose leaves\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[206], p. 21\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386838-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ks7vtv/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ks7vtv%2Fmp75d739/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1ks7vtv\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 123\",\"extent\":\"196 ff.\",\"weight\":\"1117.7 g\",\"dim\":\"234 x 151 x 68 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1jg74\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1jg74\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 123, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1c06c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1c06c\",\"reconstruction\":false,\"label\":\"Evangelion\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s19p4w\",\"pref_title\":\"Evangelion\",\"alt_title\":[\"Evangelion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"},{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]},\"alt_title\":\"Lectionary (Gospels)\",\"locus\":\"ff. 1v-194v\"}],\"parent\":[\"ark:/21198/s1jg74\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 194v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"تم الإنجيل المقدس وذلك برسم الحدود المقدس لطول السنة وذلك بتاريخ أول أيار في سنة ست ألف وسبع مائة وسبعة وثمانين لأبينا آدم وذلك برسم الجبل العظيم المقدس  طور سيناء مما نسخة عبد الفقير إلى رحمة ربه ورضوانه ابراهيم ابن يوحنا الطبيب الدمشقي وهو يسأل كل من قرا فيه وسمعه لمن يدعوا له ولو الدير بمغفرة الخطايا والذنوب والسبح لله دائما وعلينا رحمته آمين \",\"assoc_date\":[{\"value\":\"1 Ayyar 6787 (adam)\",\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[\"Attested places:  Mount Sinai\"]}],\"assoc_date\":[{\"value\":\"1279 CE\",\"iso\":{\"not_before\":\"1279\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1ks7vtv\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"A few loose leaves\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[206], p. 21\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279386838-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ks7vtv/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ks7vtv%2Fmp75d739/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1ks7vtv",
   "has_model_ssim": [
     "Work"

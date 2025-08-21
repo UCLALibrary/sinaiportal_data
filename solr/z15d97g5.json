@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Georgian)"
   ],
@@ -28,14 +28,14 @@
     "Georgian"
   ],
   "ot_genre_ssim": [],
-  "ot_years_isim": [],
+  "ot_year_isim": [],
   "ot_language_ssim": [
     "Georgian"
   ],
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -47,7 +47,7 @@
   "uto_language_ssim": [
     "Greek"
   ],
-  "uto_years_isim": [
+  "uto_year_isim": [
     951,
     952,
     953,
@@ -126,7 +126,8 @@
     "ark:/21198/z15d97g5",
     "black"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z15d97g5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Georgian NF frag 72a\",\"extent\":\"2 ff.\",\"dim\":\"112 x 91 mm\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"112 x 91 mm (representative folio)\",\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Possible additional bifolio of Georgian NF M 59\",\"note\":[\"Based on size of bifolios, texture and color of parchment, and appearance of overtext; but whereas the undertext of Georgian NF M 59 is Armenian, the undertext of this bifolio is Greek\"],\"mss\":[{\"label\":\"Sinai Georgian NF M 59\",\"id\":\"ark:/21198/z18d059m\"}]}],\"ot_layer\":[{\"id\":\"ark:/21198/s1w33x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1w33x\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Georgian NF frag 72a, Overtext (Undetermined (Georgian))\",\"writing\":[{\"script\":[{\"id\":\"georgian-undetermined\",\"label\":\"Undetermined (Georgian)\",\"writing_system\":\"Georgian\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1pq1h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1pq1h\",\"reconstruction\":false,\"label\":\"Unidentified\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Unidentified\"}}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Possibly related to contents of Georgian NF 59 (Liturgical collection)\"}],\"parent\":[\"ark:/21198/s1w33x\"]}}],\"parent\":[\"ark:/21198/z15d97g5\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s12s88\",\"label\":\"Greek Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–2\",\"script\":[\"Greek minuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"2nd half 10th c.  CE\",\"iso\":{\"not_before\":\"0951\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Binding absent\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"The parchment is stained, dark, and brittle, with losses to each of the edges, and to inner areas of the leaf as well\"},{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Possibly related to contents of Georgian NF 59 (Liturgical collection)\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15d97g5/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk5zcv/1022,0,6132,6132/150,150/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z15d97g5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Georgian NF frag 72a\",\"extent\":\"2 ff.\",\"dim\":\"112 x 91 mm\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"features\":[{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"},{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"112 x 91 mm (representative folio)\",\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Possible additional bifolio of Georgian NF M 59\",\"note\":[\"Based on size of bifolios, texture and color of parchment, and appearance of overtext; but whereas the undertext of Georgian NF M 59 is Armenian, the undertext of this bifolio is Greek\"],\"mss\":[{\"label\":\"Sinai Georgian NF M 59\",\"id\":\"ark:/21198/z18d059m\"}]}],\"ot_layer\":[{\"id\":\"ark:/21198/s1w33x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1w33x\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Georgian NF frag 72a, Overtext (Undetermined (Georgian))\",\"writing\":[{\"script\":[{\"id\":\"georgian-undetermined\",\"label\":\"Undetermined (Georgian)\",\"writing_system\":\"Georgian\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1pq1h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1pq1h\",\"reconstruction\":false,\"label\":\"Unidentified\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Unidentified\"}}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Possibly related to contents of Georgian NF 59 (Liturgical collection)\"}],\"parent\":[\"ark:/21198/s1w33x\"]}}],\"parent\":[\"ark:/21198/z15d97g5\"]}}],\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s12s88\",\"label\":\"Greek Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–2\",\"script\":[\"Greek minuscule\"],\"lang\":[\"Greek\"],\"orig_date\":[{\"value\":\"2nd half 10th c.  CE\",\"iso\":{\"not_before\":\"0951\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}]}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"Binding absent\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"The parchment is stained, dark, and brittle, with losses to each of the edges, and to inner areas of the leaf as well\"},{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Possibly related to contents of Georgian NF 59 (Liturgical collection)\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15d97g5/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk5zcv/1022,0,6132,6132/150,150/0/default.jpg\"}]}",
   "id": "ark:/21198/z15d97g5",
   "has_model_ssim": [
     "Work"

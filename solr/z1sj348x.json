@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -30,7 +30,7 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1235
   ],
   "ot_language_ssim": [
@@ -41,7 +41,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [
     "Syriac"
   ],
@@ -53,7 +53,7 @@
   ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Syriac 103",
   "titles_tesim": [
     "Bible. Psalms",
@@ -79,7 +79,8 @@
     "ark:/21198/z1sj348x",
     "ܒܫܡܐ ܕܐܠܗܐ ܚ̇ܝܐ ܐܬܢܝ̇ܚ ܕܢܝܐܝܠ ܒܪܗ̣ ܕܢܨܪ ܝܘܡ ܫܒܬܐ ܝ̄ܗ ܒܗ ܝܪܚܐ ܫܒܛ ܫܢܬ̤ ܐܠܦ ܘܗ ܡܐܐ: ܘܡ̄: ܘܐ: ܡܢ ܫܝܐ ܕܐܠܟܣܢܕܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܟܕܘܢܝܐ ܡܪܝܐ ܐܠܗܐ ܢ̇ܐܢܝ̣ܚ ܢܦܫܗ̣ ܘܢܦܫܐ ܕܟܠܗܘܢ ܥܢ̣ܝܕܘ̈ܗܝ ܘܥܝܙܝܙ̈ܝܢ ܒܨ̈ܠܘܬܐ ܕܡܪܬܝ ܡܪܝܡ ܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝܘ̈ܝܗ ♰ ܐܡܝܢ"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1sj348x\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 103\",\"extent\":\"200 ff.\",\"weight\":\"838.1 g\",\"dim\":\"181 x 146 x 75.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1503c\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1503c\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 103, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zm2b\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zm2b\",\"reconstruction\":false,\"label\":\"Psalms\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s11c7f\",\"pref_title\":\"Psalms\",\"alt_title\":[\"Bible. Psalms\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Psalms\",\"uri\":\"https://viaf.org/viaf/60146153112905251951\",\"source\":\"VIAF\"},{\"label\":\"Bible. Psalms\",\"uri\":\"http://id.loc.gov/authorities/names/n79056804\",\"source\":\"LoC\"}]},\"locus\":\"ff. 2v-200v\"}],\"parent\":[\"ark:/21198/s1503c\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"1r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܒܫܡܐ ܕܐܠܗܐ ܚ̇ܝܐ ܐܬܢܝ̇ܚ ܕܢܝܐܝܠ ܒܪܗ̣ ܕܢܨܪ ܝܘܡ ܫܒܬܐ ܝ̄ܗ ܒܗ ܝܪܚܐ ܫܒܛ ܫܢܬ̤ ܐܠܦ ܘܗ ܡܐܐ: ܘܡ̄: ܘܐ: ܡܢ ܫܝܐ ܕܐܠܟܣܢܕܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܟܕܘܢܝܐ ܡܪܝܐ ܐܠܗܐ ܢ̇ܐܢܝ̣ܚ ܢܦܫܗ̣ ܘܢܦܫܐ ܕܟܠܗܘܢ ܥܢ̣ܝܕܘ̈ܗܝ ܘܥܝܙܝܙ̈ܝܢ ܒܨ̈ܠܘܬܐ ܕܡܪܬܝ ܡܪܝܡ ܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝܘ̈ܝܗ ♰ ܐܡܝܢ\"}],\"assoc_date\":[{\"value\":\"1235 CE\",\"iso\":{\"not_before\":\"1235\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1sj348x\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[8], p. 151\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279387752-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1sj348x/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1sj348x%2Fnj58gf60/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1sj348x\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 103\",\"extent\":\"200 ff.\",\"weight\":\"838.1 g\",\"dim\":\"181 x 146 x 75.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1503c\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1503c\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 103, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zm2b\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zm2b\",\"reconstruction\":false,\"label\":\"Psalms\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s11c7f\",\"pref_title\":\"Psalms\",\"alt_title\":[\"Bible. Psalms\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Psalms\",\"uri\":\"https://viaf.org/viaf/60146153112905251951\",\"source\":\"VIAF\"},{\"label\":\"Bible. Psalms\",\"uri\":\"http://id.loc.gov/authorities/names/n79056804\",\"source\":\"LoC\"}]},\"locus\":\"ff. 2v-200v\"}],\"parent\":[\"ark:/21198/s1503c\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"1r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܒܫܡܐ ܕܐܠܗܐ ܚ̇ܝܐ ܐܬܢܝ̇ܚ ܕܢܝܐܝܠ ܒܪܗ̣ ܕܢܨܪ ܝܘܡ ܫܒܬܐ ܝ̄ܗ ܒܗ ܝܪܚܐ ܫܒܛ ܫܢܬ̤ ܐܠܦ ܘܗ ܡܐܐ: ܘܡ̄: ܘܐ: ܡܢ ܫܝܐ ܕܐܠܟܣܢܕܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܟܕܘܢܝܐ ܡܪܝܐ ܐܠܗܐ ܢ̇ܐܢܝ̣ܚ ܢܦܫܗ̣ ܘܢܦܫܐ ܕܟܠܗܘܢ ܥܢ̣ܝܕܘ̈ܗܝ ܘܥܝܙܝܙ̈ܝܢ ܒܨ̈ܠܘܬܐ ܕܡܪܬܝ ܡܪܝܡ ܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝܘ̈ܝܗ ♰ ܐܡܝܢ\"}],\"assoc_date\":[{\"value\":\"1235 CE\",\"iso\":{\"not_before\":\"1235\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1sj348x\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[8], p. 151\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279387752-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1sj348x/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1sj348x%2Fnj58gf60/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1sj348x",
   "has_model_ssim": [
     "Work"

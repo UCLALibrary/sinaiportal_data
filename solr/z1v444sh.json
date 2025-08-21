@@ -17,7 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -27,7 +27,7 @@
   "ot_genre_ssim": [
     "Apophthegmata"
   ],
-  "ot_years_isim": [],
+  "ot_year_isim": [],
   "ot_language_ssim": [
     "Arabic"
   ],
@@ -36,7 +36,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -44,7 +44,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF M 65",
   "titles_tesim": [
     "Sayings of the Desert Fathers"
@@ -64,7 +64,8 @@
     "Sinai Arabic NF M 65",
     "ark:/21198/z1v444sh"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1v444sh\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 65\",\"extent\":\"2 ff.\",\"weight\":\"11.9 g\",\"dim\":\"229 x 162 x 4.0 mm\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s16p73\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s16p73\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 65, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s11950\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s11950\",\"reconstruction\":false,\"label\":\"Sayings of the Desert Fathers\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1w89x\",\"pref_title\":\"Sayings of the Desert Fathers\",\"alt_title\":[\"Sayings of the Desert Fathers\"],\"genre\":[{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]},\"locus\":\"ff. 1r-1v\"}],\"parent\":[\"ark:/21198/s16p73\"]}}],\"parent\":[\"ark:/21198/z1v444sh\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 35; ٣٥\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v444sh/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v444sh%2Fsf669s0c/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1v444sh\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 65\",\"extent\":\"2 ff.\",\"weight\":\"11.9 g\",\"dim\":\"229 x 162 x 4.0 mm\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s16p73\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s16p73\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 65, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s11950\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s11950\",\"reconstruction\":false,\"label\":\"Sayings of the Desert Fathers\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1w89x\",\"pref_title\":\"Sayings of the Desert Fathers\",\"alt_title\":[\"Sayings of the Desert Fathers\"],\"genre\":[{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]},\"locus\":\"ff. 1r-1v\"}],\"parent\":[\"ark:/21198/s16p73\"]}}],\"parent\":[\"ark:/21198/z1v444sh\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 35; ٣٥\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v444sh/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v444sh%2Fsf669s0c/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1v444sh",
   "has_model_ssim": [
     "Work"

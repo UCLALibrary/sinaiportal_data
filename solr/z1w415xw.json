@@ -17,7 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -28,14 +28,14 @@
     "Hagiographies",
     "Theological works"
   ],
-  "ot_years_isim": [],
+  "ot_year_isim": [],
   "ot_language_ssim": [
     "Arabic"
   ],
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -43,7 +43,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF M 50",
   "titles_tesim": [
     "Excerpt from the teaching of St. Simeon",
@@ -75,7 +75,8 @@
     "Testament of St. Simeon",
     "ark:/21198/z1w415xw"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1w415xw\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 50\",\"extent\":\"22 ff.\",\"weight\":\"91.2 g\",\"dim\":\"198 x 154 x 20.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s17p61\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s17p61\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 50, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1294x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1294x\",\"reconstruction\":false,\"label\":\"Miracles and teachings of St. Simeon\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Miracles and teachings of St. Simeon\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"},{\"id\":\"theological-works\",\"label\":\"Theological works\"}]},\"locus\":\"ff. 1r-22v\",\"contents\":[{\"label\":\"Miracles of St. Simeon, number 9-16\"},{\"label\":\"Excerpt from the teaching of St. Simeon\"},{\"label\":\"Miracles of St. Simeon, numbers 172-202\"},{\"label\":\"Testament of St. Simeon\"}]}],\"parent\":[\"ark:/21198/s17p61\"]}}],\"parent\":[\"ark:/21198/z1w415xw\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 33; ٣٣\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1w415xw/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1w415xw%2Fz205q39q/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1w415xw\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 50\",\"extent\":\"22 ff.\",\"weight\":\"91.2 g\",\"dim\":\"198 x 154 x 20.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s17p61\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s17p61\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 50, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1294x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1294x\",\"reconstruction\":false,\"label\":\"Miracles and teachings of St. Simeon\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Miracles and teachings of St. Simeon\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"},{\"id\":\"theological-works\",\"label\":\"Theological works\"}]},\"locus\":\"ff. 1r-22v\",\"contents\":[{\"label\":\"Miracles of St. Simeon, number 9-16\"},{\"label\":\"Excerpt from the teaching of St. Simeon\"},{\"label\":\"Miracles of St. Simeon, numbers 172-202\"},{\"label\":\"Testament of St. Simeon\"}]}],\"parent\":[\"ark:/21198/s17p61\"]}}],\"parent\":[\"ark:/21198/z1w415xw\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 33; ٣٣\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1w415xw/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1w415xw%2Fz205q39q/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1w415xw",
   "has_model_ssim": [
     "Work"

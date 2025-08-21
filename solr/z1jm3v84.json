@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Greek majuscule",
     "Kufic",
@@ -33,7 +33,7 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     701,
     702,
     703,
@@ -244,7 +244,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -252,7 +252,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Greek 35",
   "titles_tesim": [
     "Bible. Psalms",
@@ -282,7 +282,8 @@
     "Sinai Greek 35",
     "ark:/21198/z1jm3v84"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1jm3v84\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek 35\",\"extent\":\"206 ff.\",\"weight\":\"1547.9 g\",\"dim\":\"264 x 190 x 93 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1fw46\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1fw46\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek 35, Overtext (Naskh, Kufic, Greek majuscule)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"kufic\",\"label\":\"Kufic\",\"writing_system\":\"Arabic\"},{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s18h3g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s18h3g\",\"reconstruction\":false,\"label\":\"Psalms. Greek and Arabic\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s11c7f\",\"pref_title\":\"Psalms\",\"alt_title\":[\"Bible. Psalms\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Psalms\",\"uri\":\"https://viaf.org/viaf/60146153112905251951\",\"source\":\"VIAF\"},{\"label\":\"Bible. Psalms\",\"uri\":\"http://id.loc.gov/authorities/names/n79056804\",\"source\":\"LoC\"}]},\"alt_title\":\"Psalms. Greek and Arabic\",\"locus\":\"Ff. 1r-206v\"}],\"features\":[{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"parent\":[\"ark:/21198/s1fw46\"]}}],\"assoc_date\":[{\"value\":\"8th c. CE\",\"iso\":{\"not_before\":\"0701\",\"not_after\":\"0900\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorated Greek Initials throughout\"}],\"parent\":[\"ark:/21198/z1jm3v84\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[35], p. 63\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00271077452-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1jm3v84/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jm3v84%2Fss34d39v/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1jm3v84\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek 35\",\"extent\":\"206 ff.\",\"weight\":\"1547.9 g\",\"dim\":\"264 x 190 x 93 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1fw46\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1fw46\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek 35, Overtext (Naskh, Kufic, Greek majuscule)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"kufic\",\"label\":\"Kufic\",\"writing_system\":\"Arabic\"},{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s18h3g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s18h3g\",\"reconstruction\":false,\"label\":\"Psalms. Greek and Arabic\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s11c7f\",\"pref_title\":\"Psalms\",\"alt_title\":[\"Bible. Psalms\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Psalms\",\"uri\":\"https://viaf.org/viaf/60146153112905251951\",\"source\":\"VIAF\"},{\"label\":\"Bible. Psalms\",\"uri\":\"http://id.loc.gov/authorities/names/n79056804\",\"source\":\"LoC\"}]},\"alt_title\":\"Psalms. Greek and Arabic\",\"locus\":\"Ff. 1r-206v\"}],\"features\":[{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"parent\":[\"ark:/21198/s1fw46\"]}}],\"assoc_date\":[{\"value\":\"8th c. CE\",\"iso\":{\"not_before\":\"0701\",\"not_after\":\"0900\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"initials-deco\",\"label\":\"Initial(s), Decorated\"},{\"id\":\"parallel-text\",\"label\":\"Parallel text\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Decorated Greek Initials throughout\"}],\"parent\":[\"ark:/21198/z1jm3v84\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[35], p. 63\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00271077452-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1jm3v84/manifest\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1jm3v84%2Fss34d39v/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1jm3v84",
   "has_model_ssim": [
     "Work"

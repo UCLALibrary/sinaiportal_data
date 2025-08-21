@@ -17,7 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -27,14 +27,14 @@
   "ot_genre_ssim": [
     "Hagiographies"
   ],
-  "ot_years_isim": [],
+  "ot_year_isim": [],
   "ot_language_ssim": [
     "Arabic"
   ],
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -42,7 +42,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic NF M 31",
   "titles_tesim": [
     "Lives of Saints who lived in the Jordan desert",
@@ -65,7 +65,8 @@
     "Sinai Arabic NF M 31",
     "ark:/21198/z1x3873k"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1x3873k\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 31\",\"extent\":\"5 ff.\",\"weight\":\"39.8 g\",\"dim\":\"251 x 162 x 24.0 mm\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s18p7q\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s18p7q\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 31, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1395m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1395m\",\"reconstruction\":false,\"label\":\"Lives of Saints who lived in the Jordan desert\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Lives of Saints who lived in the Jordan desert\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Lives of the Desert Fathers\",\"locus\":\"ff. 1r-5v\"}],\"parent\":[\"ark:/21198/s18p7q\"]}}],\"parent\":[\"ark:/21198/z1x3873k\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 29; ٢٨\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x3873k/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1x3873k%2F3j40sw7v/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1x3873k\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic NF M 31\",\"extent\":\"5 ff.\",\"weight\":\"39.8 g\",\"dim\":\"251 x 162 x 24.0 mm\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s18p7q\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s18p7q\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic NF M 31, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1395m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1395m\",\"reconstruction\":false,\"label\":\"Lives of Saints who lived in the Jordan desert\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Lives of Saints who lived in the Jordan desert\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Lives of the Desert Fathers\",\"locus\":\"ff. 1r-5v\"}],\"parent\":[\"ark:/21198/s18p7q\"]}}],\"parent\":[\"ark:/21198/z1x3873k\"]}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"cb8b8b52-569b-4d1f-8d5c-adf911afd205\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"p. 29; ٢٨\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x3873k/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1x3873k%2F3j40sw7v/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1x3873k",
   "has_model_ssim": [
     "Work"

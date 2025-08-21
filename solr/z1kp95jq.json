@@ -17,7 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -28,7 +28,7 @@
     "Hagiographies",
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1101,
     1102,
     1103,
@@ -138,7 +138,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -146,7 +146,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 412",
   "titles_tesim": [
     "Synaxarion",
@@ -177,7 +177,8 @@
     "ark:/21198/z1kp95jq",
     "نجز"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1kp95jq\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 412\",\"extent\":\"200 ff.\",\"weight\":\"1905.9 g\",\"dim\":\"259 x 205 x 104 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1m03d\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1m03d\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 412, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1dm10\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1dm10\",\"reconstruction\":false,\"label\":\"Synaxarium, Part I,  from the months of Ilul to Shbat\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1h30c\",\"pref_title\":\"Synaxarion\",\"alt_title\":[\"Synaxarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Synaxarium, Part I of Synaxarium from the months of Ilul to Shbat\",\"locus\":\"ff. 1r-199r\",\"excerpt\":[{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"locus\":\"f. 199r\",\"as_written\":\"نجز\"}]}],\"parent\":[\"ark:/21198/s1m03d\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1kp95jq\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Greek(?) inscriptions, ff. 1r, 199v\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"F. 184 is a new insert that differs stylistically from what precedes and follows it, and supplies text omitted earlier. The first three lines on f. 185r had to be repeated on f. 184r and then the supplied text is entered. However, those three lines were not crossed out as is usually done on similar occasions; instead, a diesis (double dagger) is provided before and after the lines with the instruction \\\"[s]eek this sign\\\" (last, rubricated line on f. 184v)\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[171], p. 19\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279388434-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1kp95jq/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1kp95jq\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 412\",\"extent\":\"200 ff.\",\"weight\":\"1905.9 g\",\"dim\":\"259 x 205 x 104 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1m03d\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1m03d\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 412, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1dm10\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1dm10\",\"reconstruction\":false,\"label\":\"Synaxarium, Part I,  from the months of Ilul to Shbat\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1h30c\",\"pref_title\":\"Synaxarion\",\"alt_title\":[\"Synaxarion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Synaxarium, Part I of Synaxarium from the months of Ilul to Shbat\",\"locus\":\"ff. 1r-199r\",\"excerpt\":[{\"type\":{\"id\":\"explicit\",\"label\":\"Explicit\"},\"locus\":\"f. 199r\",\"as_written\":\"نجز\"}]}],\"parent\":[\"ark:/21198/s1m03d\"]}}],\"assoc_date\":[{\"value\":\"12th c. CE\",\"iso\":{\"not_before\":\"1101\",\"not_after\":\"1200\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1kp95jq\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"para\",\"label\":\"Paracontent Note\"},\"value\":\"Greek(?) inscriptions, ff. 1r, 199v\"},{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"F. 184 is a new insert that differs stylistically from what precedes and follows it, and supplies text omitted earlier. The first three lines on f. 185r had to be repeated on f. 184r and then the supplied text is entered. However, those three lines were not crossed out as is usually done on similar occasions; instead, a diesis (double dagger) is provided before and after the lines with the instruction \\\"[s]eek this sign\\\" (last, rubricated line on f. 184v)\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[171], p. 19\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279388434-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"http://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1kp95jq/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\"}]}",
   "id": "ark:/21198/z1kp95jq",
   "has_model_ssim": [
     "Work"

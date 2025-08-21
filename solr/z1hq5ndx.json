@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Melkite"
   ],
@@ -31,7 +31,7 @@
     "Hagiographies",
     "Liturgical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1250
   ],
   "ot_language_ssim": [
@@ -42,7 +42,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [
     "Syriac"
   ],
@@ -54,7 +54,7 @@
   ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Syriac 188",
   "titles_tesim": [
     "Menologion",
@@ -87,7 +87,8 @@
     "ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ",
     "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܡܝܢܐܘܢ ܝܪܚ ܬ̄ܫܪ: ܐ̄: ܐܝܟ ܕܠܗ ܕܪܐ ܘܩܘܠܣܐ ܘܫ̄ܘ ܕܬܠܝܬܝܘ: ܩܕ̄ܝܫ: ܘܫܘܝܬ̤: ܒܐܘܣܝܐ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܕܩ̄ܘܕ: ܚܕ ܐܠܗܐ ܐܚܝܕ ܟܠ: ܒܐ̈ܝܕܝ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪ: ܡܢ ܟܠܗܘܢ ܒܢܝܢ̈ܫܐ ܕܠܐ ܫ̇ܘܐ ܕܢܬܩܪܐ ܐܚܪܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ: ܕܫܡܗ ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ ܡܢ ܩܪܝܬܐ ܚܛܪܬ̤ ܒܐܠܗܐ: ܪܘܡܢܐ ܡܢ ܓܘܒܬ̤ܐ ܕܙܒܕܝܬܐ ܐܠܦ̈ܢܝܗ ܕܝܘܡܐ: ܝܘܡ: ܒ̄: ܒ̄ܫ ܒ̄ܟܚ: ܒܐܒ: ܝܪܚܐ: ܫܢܬ̤ ܐܠܦ̈: ܘ̄ܗ: ܡ̈ܐܐ ܘܣ̄ܒ: ܡܢ ܡ̈ܢܝܢܐ ܕܐܠܟܣܢܕܪܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܩܕܘܢܝܐ"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1hq5ndx\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 188\",\"extent\":\"207 ff.\",\"weight\":\"1567.2 g\",\"dim\":\"267 x 191 x 75.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s17h01\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s17h01\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 188, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1238c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1238c\",\"reconstruction\":false,\"label\":\"Menologion (month of Tishrīn I)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion (month of Tishrīn I)\",\"locus\":\"ff. 1r-198r\"}],\"parent\":[\"ark:/21198/s17h01\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"198r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܡܝܢܐܘܢ ܝܪܚ ܬ̄ܫܪ: ܐ̄: ܐܝܟ ܕܠܗ ܕܪܐ ܘܩܘܠܣܐ ܘܫ̄ܘ ܕܬܠܝܬܝܘ: ܩܕ̄ܝܫ: ܘܫܘܝܬ̤: ܒܐܘܣܝܐ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܕܩ̄ܘܕ: ܚܕ ܐܠܗܐ ܐܚܝܕ ܟܠ: ܒܐ̈ܝܕܝ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪ: ܡܢ ܟܠܗܘܢ ܒܢܝܢ̈ܫܐ ܕܠܐ ܫ̇ܘܐ ܕܢܬܩܪܐ ܐܚܪܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ: ܕܫܡܗ ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ ܡܢ ܩܪܝܬܐ ܚܛܪܬ̤ ܒܐܠܗܐ: ܪܘܡܢܐ ܡܢ ܓܘܒܬ̤ܐ ܕܙܒܕܝܬܐ ܐܠܦ̈ܢܝܗ ܕܝܘܡܐ: ܝܘܡ: ܒ̄: ܒ̄ܫ ܒ̄ܟܚ: ܒܐܒ: ܝܪܚܐ: ܫܢܬ̤ ܐܠܦ̈: ܘ̄ܗ: ܡ̈ܐܐ ܘܣ̄ܒ: ܡܢ ܡ̈ܢܝܢܐ ܕܐܠܟܣܢܕܪܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܩܕܘܢܝܐ\",\"assoc_name\":[{\"value\":\"Shem'un bar Petros\",\"as_written\":\"ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}]}],\"assoc_date\":[{\"value\":\"1250 CE\",\"iso\":{\"not_before\":\"1250\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1hq5ndx\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[138], p. 156\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714660205171/NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1hq5ndx/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1hq5ndx%2Fw923g20m/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1hq5ndx\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 188\",\"extent\":\"207 ff.\",\"weight\":\"1567.2 g\",\"dim\":\"267 x 191 x 75.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s17h01\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s17h01\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 188, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1238c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1238c\",\"reconstruction\":false,\"label\":\"Menologion (month of Tishrīn I)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s16s3m\",\"pref_title\":\"Menologion\",\"alt_title\":[\"Menologion\"],\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"alt_title\":\"Menologion (month of Tishrīn I)\",\"locus\":\"ff. 1r-198r\"}],\"parent\":[\"ark:/21198/s17h01\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"198r\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"as_written\":\"ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܡܝܢܐܘܢ ܝܪܚ ܬ̄ܫܪ: ܐ̄: ܐܝܟ ܕܠܗ ܕܪܐ ܘܩܘܠܣܐ ܘܫ̄ܘ ܕܬܠܝܬܝܘ: ܩܕ̄ܝܫ: ܘܫܘܝܬ̤: ܒܐܘܣܝܐ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܕܩ̄ܘܕ: ܚܕ ܐܠܗܐ ܐܚܝܕ ܟܠ: ܒܐ̈ܝܕܝ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪ: ܡܢ ܟܠܗܘܢ ܒܢܝܢ̈ܫܐ ܕܠܐ ܫ̇ܘܐ ܕܢܬܩܪܐ ܐܚܪܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ: ܕܫܡܗ ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ ܡܢ ܩܪܝܬܐ ܚܛܪܬ̤ ܒܐܠܗܐ: ܪܘܡܢܐ ܡܢ ܓܘܒܬ̤ܐ ܕܙܒܕܝܬܐ ܐܠܦ̈ܢܝܗ ܕܝܘܡܐ: ܝܘܡ: ܒ̄: ܒ̄ܫ ܒ̄ܟܚ: ܒܐܒ: ܝܪܚܐ: ܫܢܬ̤ ܐܠܦ̈: ܘ̄ܗ: ܡ̈ܐܐ ܘܣ̄ܒ: ܡܢ ܡ̈ܢܝܢܐ ܕܐܠܟܣܢܕܪܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܩܕܘܢܝܐ\",\"assoc_name\":[{\"value\":\"Shem'un bar Petros\",\"as_written\":\"ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ\",\"role\":{\"id\":\"scribe\",\"label\":\"Scribe\"}}]}],\"assoc_date\":[{\"value\":\"1250 CE\",\"iso\":{\"not_before\":\"1250\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1hq5ndx\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[138], p. 156\"},{\"id\":\"f3ea9df2-bf85-465c-ac1d-6bd4cce71e21\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038714660205171/NLI\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1hq5ndx/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1hq5ndx%2Fw923g20m/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1hq5ndx",
   "has_model_ssim": [
     "Work"

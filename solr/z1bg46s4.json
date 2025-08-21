@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -30,7 +30,7 @@
   "ot_genre_ssim": [
     "Calendars"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1409
   ],
   "ot_language_ssim": [
@@ -39,7 +39,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [
     "Arabic"
   ],
@@ -51,7 +51,7 @@
   ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 586",
   "titles_tesim": [
     "Calendar determining date of Easter from 1393 to 1409 A.D. "
@@ -75,7 +75,8 @@
     "ark:/21198/z1bg46s4",
     "نجز هذا الحساب من وضع كقلس القمر وكقلس الشمس الذي يعرف بالاس ومعرفة الفصح المقدس في كم يوم من الشهر المعين وكذلك المرفع متاع اللحم وعدة أيام صوم الرسل وكان الفراغ منه عشر نهار الخميس ثالث عشر حزيران المبارك سنة ستة آلاف وتسعمائة وسبع عشر لأبينا آدم عليه السلام والمعتني بتلخيصه وطبخه ليلا يعسر على مؤثر هذا الحساب الطالب من الله غفران زلاته   ومن كل واقف عليه الترحم على المهتم به ليكون له نظير ذلك أضعافا متضاعفة امين امين وهو وقف على طور سيناء المقدس ما لأحد سلطان من الله تعالى أن يخرجه عنها بوجه من الوجوه او يقطع هذه الورقة او يطمسها ومن خالف ما  ذكرناه يكون محروم وزمن مجد الله والويل ثم عظيم الويل لمن رضى لنفسه بذلك وكتبه الحقير اسير خطاياه وغريق أيامه مرقص الخادم لجبل الله المقدس طور سيناء باسم اسقف ومن وجد فيه غلط ويصلحه يصلح الله دنياه وآخرته ويغفر له ولوالديه آمين"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1bg46s4\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 586\",\"extent\":\"152 ff.\",\"weight\":\"327.9 g\",\"dim\":\"141 x 93 x 58.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1dp56\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1dp56\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 586, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1794g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1794g\",\"reconstruction\":false,\"label\":\"Calendar determining date of Easter from 1393 to 1409 A.D. \",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Calendar determining date of Easter from 1393 to 1409 A.D. \",\"genre\":[{\"id\":\"calendars\",\"label\":\"Calendars\"}]},\"locus\":\"ff. 5v-148r\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Preceded by a concordance of numerals in Arabic and Epact up to forty million\"}],\"parent\":[\"ark:/21198/s1dp56\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"ff. 148v-151r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"نجز هذا الحساب من وضع كقلس القمر وكقلس الشمس الذي يعرف بالاس ومعرفة الفصح المقدس في كم يوم من الشهر المعين وكذلك المرفع متاع اللحم وعدة أيام صوم الرسل وكان الفراغ منه عشر نهار الخميس ثالث عشر حزيران المبارك سنة ستة آلاف وتسعمائة وسبع عشر لأبينا آدم عليه السلام والمعتني بتلخيصه وطبخه ليلا يعسر على مؤثر هذا الحساب الطالب من الله غفران زلاته   ومن كل واقف عليه الترحم على المهتم به ليكون له نظير ذلك أضعافا متضاعفة امين امين وهو وقف على طور سيناء المقدس ما لأحد سلطان من الله تعالى أن يخرجه عنها بوجه من الوجوه او يقطع هذه الورقة او يطمسها ومن خالف ما  ذكرناه يكون محروم وزمن مجد الله والويل ثم عظيم الويل لمن رضى لنفسه بذلك وكتبه الحقير اسير خطاياه وغريق أيامه مرقص الخادم لجبل الله المقدس طور سيناء باسم اسقف ومن وجد فيه غلط ويصلحه يصلح الله دنياه وآخرته ويغفر له ولوالديه آمين\"}],\"assoc_date\":[{\"value\":\"1409 CE\",\"iso\":{\"not_before\":\"1409\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1bg46s4\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[593], p. 51\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390611-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bg46s4/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bg46s4%2Fdn04sz0s/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1bg46s4\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 586\",\"extent\":\"152 ff.\",\"weight\":\"327.9 g\",\"dim\":\"141 x 93 x 58.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1dp56\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1dp56\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 586, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1794g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1794g\",\"reconstruction\":false,\"label\":\"Calendar determining date of Easter from 1393 to 1409 A.D. \",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Calendar determining date of Easter from 1393 to 1409 A.D. \",\"genre\":[{\"id\":\"calendars\",\"label\":\"Calendars\"}]},\"locus\":\"ff. 5v-148r\"}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Preceded by a concordance of numerals in Arabic and Epact up to forty million\"}],\"parent\":[\"ark:/21198/s1dp56\"]}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"ff. 148v-151r\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"as_written\":\"نجز هذا الحساب من وضع كقلس القمر وكقلس الشمس الذي يعرف بالاس ومعرفة الفصح المقدس في كم يوم من الشهر المعين وكذلك المرفع متاع اللحم وعدة أيام صوم الرسل وكان الفراغ منه عشر نهار الخميس ثالث عشر حزيران المبارك سنة ستة آلاف وتسعمائة وسبع عشر لأبينا آدم عليه السلام والمعتني بتلخيصه وطبخه ليلا يعسر على مؤثر هذا الحساب الطالب من الله غفران زلاته   ومن كل واقف عليه الترحم على المهتم به ليكون له نظير ذلك أضعافا متضاعفة امين امين وهو وقف على طور سيناء المقدس ما لأحد سلطان من الله تعالى أن يخرجه عنها بوجه من الوجوه او يقطع هذه الورقة او يطمسها ومن خالف ما  ذكرناه يكون محروم وزمن مجد الله والويل ثم عظيم الويل لمن رضى لنفسه بذلك وكتبه الحقير اسير خطاياه وغريق أيامه مرقص الخادم لجبل الله المقدس طور سيناء باسم اسقف ومن وجد فيه غلط ويصلحه يصلح الله دنياه وآخرته ويغفر له ولوالديه آمين\"}],\"assoc_date\":[{\"value\":\"1409 CE\",\"iso\":{\"not_before\":\"1409\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"parent\":[\"ark:/21198/z1bg46s4\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[593], p. 51\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390611-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1bg46s4/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1bg46s4%2Fdn04sz0s/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1bg46s4",
   "has_model_ssim": [
     "Work"

@@ -20,7 +20,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Naskh"
   ],
@@ -31,7 +31,7 @@
     "Apophthegmata",
     "Theological works"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     1201,
     1202,
     1203,
@@ -139,7 +139,7 @@
   "ot_works_ssim": [],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -147,7 +147,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 437",
   "titles_tesim": [
     "Account from John Cassian, ff. 236v-251v",
@@ -202,7 +202,8 @@
     "Treatises of the fathers, ff. 206v-211r",
     "ark:/21198/z1961256"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1961256\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 437\",\"extent\":\"259 ff.\",\"weight\":\"1892 g\",\"dim\":\"270 x 198 x 77 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s14w4d\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s14w4d\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 437, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zd28\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zd28\",\"reconstruction\":false,\"label\":\"Teachings of SS. John Chrysostom, Basil, Ephraem, Zosima and the rest of the Holy Fathers\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Teachings of SS. John Chrysostom, Basil, Ephraem, Zosima and the rest of the Holy Fathers\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]},\"locus\":\"ff. 1r-259v\",\"contents\":[{\"label\":\"Monastic treatise and questions from the monks, ff. 1r-23r\"},{\"label\":\"Sermon of Zosima, ff. 23r-70r\"},{\"label\":\"Life of St. Gerasimus, ff. 70v-77r\"},{\"label\":\"Sayings of Moses of Scetis, Pachomius, Bessarion, and others, ff. 77r-136v\"},{\"label\":\"Mimar of Ephrem, ff. 136v-186r\"},{\"label\":\"Discourses of Abba Isaiah, ff. 186r-206r\"},{\"label\":\"Treatises of the fathers, ff. 206v-211r\"},{\"label\":\"Treatises and letter of Mar Macarius, ff. 211r-227r\"},{\"label\":\"Treatise of Stephen of Thebes, ff. 227r-236v\"},{\"label\":\"Account from John Cassian, ff. 236v-251v\"},{\"label\":\"Sermon of Nilus to Thomasius the monk, ff. 251v-259v\"}]}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Contributor(s): Justin Arnwine\"}],\"parent\":[\"ark:/21198/s14w4d\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces. series of circles ff. 227r, 236v, 251v\"}],\"parent\":[\"ark:/21198/z1961256\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[404], p. 31\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390945-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1961256/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1961256%2Fn1056x4m/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1961256\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 437\",\"extent\":\"259 ff.\",\"weight\":\"1892 g\",\"dim\":\"270 x 198 x 77 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s14w4d\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s14w4d\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 437, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1zd28\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1zd28\",\"reconstruction\":false,\"label\":\"Teachings of SS. John Chrysostom, Basil, Ephraem, Zosima and the rest of the Holy Fathers\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Teachings of SS. John Chrysostom, Basil, Ephraem, Zosima and the rest of the Holy Fathers\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]},\"locus\":\"ff. 1r-259v\",\"contents\":[{\"label\":\"Monastic treatise and questions from the monks, ff. 1r-23r\"},{\"label\":\"Sermon of Zosima, ff. 23r-70r\"},{\"label\":\"Life of St. Gerasimus, ff. 70v-77r\"},{\"label\":\"Sayings of Moses of Scetis, Pachomius, Bessarion, and others, ff. 77r-136v\"},{\"label\":\"Mimar of Ephrem, ff. 136v-186r\"},{\"label\":\"Discourses of Abba Isaiah, ff. 186r-206r\"},{\"label\":\"Treatises of the fathers, ff. 206v-211r\"},{\"label\":\"Treatises and letter of Mar Macarius, ff. 211r-227r\"},{\"label\":\"Treatise of Stephen of Thebes, ff. 227r-236v\"},{\"label\":\"Account from John Cassian, ff. 236v-251v\"},{\"label\":\"Sermon of Nilus to Thomasius the monk, ff. 251v-259v\"}]}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"Other Notes\"},\"value\":\"Contributor(s): Justin Arnwine\"}],\"parent\":[\"ark:/21198/s14w4d\"]}}],\"assoc_date\":[{\"value\":\"13th c. CE\",\"iso\":{\"not_before\":\"1201\",\"not_after\":\"1300\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"headpiece\",\"label\":\"Headpiece(s)\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation Note\"},\"value\":\"Minor geometric headpieces. series of circles ff. 227r, 236v, 251v\"}],\"parent\":[\"ark:/21198/z1961256\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[404], p. 31\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279390945-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1961256/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1961256%2Fn1056x4m/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1961256",
   "has_model_ssim": [
     "Work"

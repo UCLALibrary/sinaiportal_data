@@ -17,7 +17,7 @@
   "date_types_ssim": [],
   "program_ssim": [],
   "reconstructed_from_ssim": [],
-  "reconstructed_from_shelfmark": [],
+  "reconstructed_from_shelfmark_ssim": [],
   "ot_script_ssim": [
     "Undetermined (Arabic)"
   ],
@@ -27,7 +27,7 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_years_isim": [
+  "ot_year_isim": [
     901,
     902,
     903,
@@ -137,7 +137,7 @@
   ],
   "para_script_ssim": [],
   "para_writing_system_ssim": [],
-  "para_years_isim": [],
+  "para_year_isim": [],
   "para_language_ssim": [],
   "para_works_ssim": [],
   "para_genre_ssim": [],
@@ -145,7 +145,7 @@
   "para_type_ssim": [],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
-  "uto_years_isim": [],
+  "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 2",
   "titles_tesim": [
     "Bible. Pentateuch",
@@ -177,7 +177,8 @@
     "Undetermined (Arabic)",
     "ark:/21198/z1572wqs"
   ],
-  "manuscript_json_ss": "{\"ark\":\"ark:/21198/z1572wqs\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 2\",\"extent\":\"266 ff.\",\"weight\":\"1476.3 g\",\"dim\":\"270 x 173 x 77 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1bc8m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1bc8m\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 2, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s15054\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s15054\",\"reconstruction\":false,\"label\":\"Pentateuch\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s18w2w\",\"pref_title\":\"Pentateuch\",\"alt_title\":[\"Bible. Pentateuch\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Pentateuch\",\"uri\":\"https://viaf.org/viaf/194861095\",\"source\":\"VIAF\"},{\"label\":\"Bible. Pentateuch\",\"uri\":\"http://id.loc.gov/authorities/names/n79066420\",\"source\":\"LoC\"}]},\"locus\":\"ff. 2r-266v\",\"contents\":[{\"label\":\"First Book of the Torah, ff. 002r-081r\"},{\"label\":\"The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 081v-141r\"},{\"label\":\"The Third Book of the Torah, ff. 141v  - 178v\"}]}],\"parent\":[\"ark:/21198/s1bc8m\"]}}],\"assoc_date\":[{\"value\":\"10th c. CE\",\"iso\":{\"not_before\":\"0901\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1572wqs\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[2], p. 11\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279385755-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1572wqs/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1572wqs%2F4d839s76/full/!200,200/0/default.jpg\"}]}",
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1572wqs\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 2\",\"extent\":\"266 ff.\",\"weight\":\"1476.3 g\",\"dim\":\"270 x 173 x 77 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1bc8m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1bc8m\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 2, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s15054\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s15054\",\"reconstruction\":false,\"label\":\"Pentateuch\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s18w2w\",\"pref_title\":\"Pentateuch\",\"alt_title\":[\"Bible. Pentateuch\"],\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Pentateuch\",\"uri\":\"https://viaf.org/viaf/194861095\",\"source\":\"VIAF\"},{\"label\":\"Bible. Pentateuch\",\"uri\":\"http://id.loc.gov/authorities/names/n79066420\",\"source\":\"LoC\"}]},\"locus\":\"ff. 2r-266v\",\"contents\":[{\"label\":\"First Book of the Torah, ff. 002r-081r\"},{\"label\":\"The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 081v-141r\"},{\"label\":\"The Third Book of the Torah, ff. 141v  - 178v\"}]}],\"parent\":[\"ark:/21198/s1bc8m\"]}}],\"assoc_date\":[{\"value\":\"10th c. CE\",\"iso\":{\"not_before\":\"0901\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"parent\":[\"ark:/21198/z1572wqs\"]}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"range\":\"[2], p. 11\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"url\":\"https://www.loc.gov/item/00279385755-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1572wqs/manifest\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1572wqs%2F4d839s76/full/!200,200/0/default.jpg\"}]}",
   "id": "ark:/21198/z1572wqs",
   "has_model_ssim": [
     "Work"
