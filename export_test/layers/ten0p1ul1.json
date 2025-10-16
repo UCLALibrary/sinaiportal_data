@@ -47,6 +47,37 @@
             } 
         } 
     ], 
+    "para": [
+        {
+            "type": {
+                "id": "colophon",
+                "label": "Colophon"
+            },
+            "locus": "f. 1v",
+            "lang": [
+                {
+                    "id": "greek124",
+                    "label": "Greek"
+                }
+            ],
+            "assoc_date": [
+                { 
+                    "type": { 
+                        "id": "origin", 
+                        "label": "Origin Date" 
+                    }, 
+                    "note": [ 
+                        "Paleographic dating" 
+                    ], 
+                    "value": "9th c. CE", 
+                    "iso": { 
+                        "not_before": "0801", 
+                        "not_after": "0900" 
+                    } 
+                } 
+            ]
+        }
+    ],
     "assoc_name": [
         {
             "id": "ark:/21198/s1v887",
