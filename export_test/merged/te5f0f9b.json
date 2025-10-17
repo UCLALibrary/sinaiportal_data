@@ -613,8 +613,8 @@
                   {
                     "value": "AM 6,104 = 1292 CE",
                     "iso": {
-                      "not_before": "1292",
-                      "not_after": "1292"
+                      "not_before": "1290",
+                      "not_after": "1290"
                     },
                     "type": {
                       "id": "origin",
@@ -694,22 +694,6 @@
                 ],
                 "note": [
                   "Covers the contents of the first part of Syriac 12, likely written prior to the two parts being bound together"
-                ]
-              }
-            ],
-            "assoc_date": [
-              {
-                "value": "1292 CE",
-                "iso": {
-                  "not_before": "1292-01",
-                  "not_after": "1292-12"
-                },
-                "type": {
-                  "id": "origin",
-                  "label": "Origin Date"
-                },
-                "note": [
-                  "Top-level associated dates"
                 ]
               }
             ],
@@ -849,7 +833,10 @@
             "cataloguer": [
               {
                 "message": "ADDED: Ingested descriptions from the Syriac Parchment Descriptions project.",
-                "contributor": "Grigory Kessel; Natalia Smelova",
+                "contributor": [
+                  "Grigory Kessel",
+                  "Natalia Smelova"
+                ],
                 "added_by": "William Potter",
                 "timestamp": "2025-06-28T15:50:45Z"
               }
@@ -1644,7 +1631,7 @@
                     "value": "AM 6,104 = 1292 CE",
                     "iso": {
                       "not_before": "1292",
-                      "not_after": "1292"
+                      "not_after": "1500"
                     },
                     "type": {
                       "id": "origin",
@@ -1703,7 +1690,9 @@
             "cataloguer": [
               {
                 "message": "ADDED: Ingested descriptions from the Syriac Parchment Descriptions project.",
-                "contributor": "Grigory Kessel; Natalia Smelova",
+                "contributor": [
+                  "Natalia Smelova"
+                ],
                 "added_by": "William Potter",
                 "timestamp": "2025-06-03T15:50:45Z"
               }
@@ -2133,7 +2122,10 @@
   "cataloguer": [
     {
       "message": "ADDED: Ingested descriptions from the Syriac Parchment Descriptions project.",
-      "contributor": "Grigory Kessel; Natalia Smelova",
+      "contributor": [
+        "Grigory Kessel",
+        "Vevian Zaki"
+      ],
       "added_by": "William Potter",
       "timestamp": "2025-06-30T15:50:45Z"
     }

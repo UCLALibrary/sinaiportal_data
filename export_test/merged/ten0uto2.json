@@ -205,19 +205,34 @@
                 }
               }
             ],
-            "assoc_date": [
+            "para": [
               {
-                "value": "6th c. CE",
-                "iso": {
-                  "not_before": "0501",
-                  "not_after": "0600"
-                },
                 "type": {
-                  "id": "origin",
-                  "label": "Origin Date"
+                  "id": "colophon",
+                  "label": "Colophon"
                 },
-                "note": [
-                  "Paleographic dating"
+                "locus": "f. 1v",
+                "lang": [
+                  {
+                    "id": "greek124",
+                    "label": "Greek"
+                  }
+                ],
+                "assoc_date": [
+                  {
+                    "value": "6th c. CE",
+                    "iso": {
+                      "not_before": "0501",
+                      "not_after": "0600"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Origin Date"
+                    },
+                    "note": [
+                      "Paleographic dating"
+                    ]
+                  }
                 ]
               }
             ],
