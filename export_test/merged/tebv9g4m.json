@@ -1,102 +1,114 @@
 {
-  "ark": "ark:/21198/tebv9g4m",
-  "reconstruction": false,
-  "type": {
-    "id": "manuscript",
-    "label": "Manuscript"
-  },
-  "shelfmark": "Arabic NF X 42",
-  "extent": "14 ff.",
-  "state": {
-    "id": "quires",
-    "label": "Quire(s)"
-  },
-  "part": [
-    {
-      "support": [
+    "ark": "ark:/21198/tebv9g4m",
+    "reconstruction": false,
+    "type": {
+        "id": "manuscript",
+        "label": "Manuscript"
+    },
+    "shelfmark": "Arabic NF X 42",
+    "extent": "14 ff.",
+    "state": {
+        "id": "quires",
+        "label": "Quire(s)"
+    },
+    "part": [
         {
-          "id": "paper",
-          "label": "Paper"
-        }
-      ],
-      "ot_layer": [
-        {
-          "id": "ark:/21198/tebvp1ol",
-          "label": "Overtext",
-          "type": {
-            "id": "overtext",
-            "label": "Overtext"
-          },
-          "layer_record": {
-            "ark": "ark:/21198/tebvp1ol",
-            "reconstruction": false,
-            "state": {
-              "id": "overtext",
-              "label": "Overtext"
-            },
-            "label": "Arabic NF X 42, Overtext (Naskh)",
-            "writing": [
-              {
-                "script": [
-                  {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                  }
-                ]
-              }
-            ],
-            "text_unit": [
-              {
-                "id": "ark:/21198/tebvp1olt1",
-                "label": "Text unit 1",
-                "text_unit_record": {
-                  "ark": "ark:/21198/tebvp1olt1",
-                  "reconstruction": false,
-                  "label": "Horologion",
-                  "locus": "ff. 1-14",
-                  "lang": [
-                    {
-                      "id": "arab1395",
-                      "label": "Arabic"
-                    }
-                  ],
-                  "work_wit": [
-                    {
-                      "work": {
-                        "ark": "ark:/21198/s1dg6h",
-                        "pref_title": "Horologion",
-                        "alt_title": [
-                          "Horologion"
-                        ],
-                        "genre": [
-                          {
-                            "id": "liturgical-texts",
-                            "label": "Liturgical texts"
-                          }
-                        ]
-                      }
-                    }
-                  ],
-                  "parent": [
-                    "ark:/21198/tebvp1ol"
-                  ]
+            "support": [
+                {
+                    "id": "paper",
+                    "label": "Paper"
                 }
-              }
             ],
-            "parent": [
-              "ark:/21198/tebv9g4m"
+            "ot_layer": [
+                {
+                    "id": "ark:/21198/tebvp1ol",
+                    "label": "Overtext",
+                    "type": {
+                        "id": "overtext",
+                        "label": "Overtext"
+                    },
+                    "layer_record": {
+                        "ark": "ark:/21198/tebvp1ol",
+                        "reconstruction": false,
+                        "state": {
+                            "id": "overtext",
+                            "label": "Overtext"
+                        },
+                        "label": "Arabic NF X 42, Overtext (Naskh)",
+                        "writing": [
+                            {
+                                "script": [
+                                    {
+                                        "id": "naskh",
+                                        "label": "Naskh",
+                                        "writing_system": "Arabic"
+                                    }
+                                ]
+                            }
+                        ],
+                        "text_unit": [
+                            {
+                                "id": "ark:/21198/tebvp1olt1",
+                                "label": "Text unit 1",
+                                "text_unit_record": {
+                                    "ark": "ark:/21198/tebvp1olt1",
+                                    "reconstruction": false,
+                                    "label": "Horologion",
+                                    "locus": "ff. 1-14",
+                                    "lang": [
+                                        {
+                                            "id": "arab1395",
+                                            "label": "Arabic"
+                                        }
+                                    ],
+                                    "work_wit": [
+                                        {
+                                            "work": {
+                                                "ark": "ark:/21198/s1dg6h",
+                                                "pref_title": "Horologion",
+                                                "alt_title": [
+                                                    "Horologion"
+                                                ],
+                                                "genre": [
+                                                    {
+                                                        "id": "liturgical-texts",
+                                                        "label": "Liturgical texts"
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ],
+                                    "parent": [
+                                        "ark:/21198/tebvp1ol"
+                                    ]
+                                }
+                            }
+                        ],
+                        "parent": [
+                            "ark:/21198/tebv9g4m"
+                        ]
+                    }
+                }
             ]
-          }
         }
-      ]
-    }
-  ],
-  "location": [
-    {
-      "id": "sinai-nf",
-      "collection": "New Finds",
-      "repository": "St. Catherine's Monastery of the Sinai"
-    }
-  ]
+    ],
+    "location": [
+        {
+            "id": "sinai-nf",
+            "collection": "New Finds",
+            "repository": "St. Catherine's Monastery of the Sinai"
+        }
+    ],
+    "iiif": [
+        {
+            "type": {
+                "id": "main",
+                "label": "Main"
+            },
+            "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1n02zkr/manifest",
+            "text_direction": "right-to-left",
+            "behavior": "paged",
+            "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg"
+        }
+    ]
 }
