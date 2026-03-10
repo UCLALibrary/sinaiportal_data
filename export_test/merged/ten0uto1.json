@@ -409,10 +409,14 @@
             "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr1qn64nz/manifest",
             "text_direction": "right-to-left",
             "behavior": "paged",
-            "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg"
+            "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg",
+            "label": "Main"
         }
     ],
     "reconstructed_from": [
-        "ark:/21198/ten02zkr"
+        {
+            "id": "ark:/21198/ten02zkr",
+            "shelfmark": "Sinai Arabic NF M 28"
+        }
     ]
 }
