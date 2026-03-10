@@ -1,0 +1,51 @@
+{
+  "ark": "ark:/21198/s1b60v",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 42, Overtext (Undetermined (Arabic))",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "note": [
+        "Thuluth(?)"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s14s8w",
+      "label": "Item 1",
+      "locus": "Front board inside-f. 172v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 172v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1p85g7p"
+  ]
+}

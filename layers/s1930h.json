@@ -1,94 +1,48 @@
 {
-    "ark": "ark:/21198/s1930h",
-    "reconstruction": false,
-    "label": "Sinai Arabic 87, Overtext (Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1930h",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 87, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s13p9x",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 177r-178ar",
+      "lang": [
         {
-            "id": "ark:/21198/s13p9x",
-            "label": "Item 1"
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "features": [
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        },
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "deco-zoomorph",
-            "label": "Decoration, Zoomorphic"
-        }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "ff. 177r-178ar",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "as_written": "نجزت تراتيب الأناجيل المقدسة الطاهرة الشريفة على طقسها وكمالها وترتيبها والمجد للرب واهب العقول للبشر  وكان الفراغ من يوم الاثنين رابع عشر يوما مضت في شهر تموز الموافق في شهر سنة ست آلاف وسبعمائة وخمسة وتسعين للعالم "
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1478 CE",
-            "iso": {
-                "not_before": "1478"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Geometric headpieces on ff. 4r, 59r, 86r, 134v, triangle motif with an elevated cross motif in red | Zoomorphic decoration on ff. 179r, 179v, bird figure"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1s195tm"
-    ]
+      ],
+      "as_written": "نجزت تراتيب الأناجيل المقدسة الطاهرة الشريفة على طقسها وكمالها وترتيبها والمجد للرب واهب العقول للبشر  وكان الفراغ من يوم الاثنين رابع عشر يوما مضت في شهر تموز الموافق في شهر سنة ست آلاف وسبعمائة وخمسة وتسعين للعالم "
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1s195tm"
+  ]
 }

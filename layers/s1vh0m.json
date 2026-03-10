@@ -1,83 +1,74 @@
 {
-    "ark": "ark:/21198/s1vh0m",
-    "reconstruction": false,
-    "label": "Sinai Syriac 116, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1vh0m",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 116, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1p38z",
+      "label": "Item 1",
+      "locus": "ff. 2ar-200r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "199v-200r",
+      "lang": [
         {
-            "id": "ark:/21198/s1p38z",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "ܢܣܲܒ: ܫܘܡ̇ܠܝ܆ ܟܬܒܐ ܗܢܐ: ܫܥ̈ܐ: ܘܡܒ̇ܪ ܙܡܘܣ ܝܘܡ ܫ̄ܒ: ܒ̄ܝܕ: ܒܬܫ̈ܝܢ ܒ̄: ܫܢܬܲ. ܫ̈ܬ̣ܐ: ܐܠܦܝܢ: ܘܫܒܥ ܡܐܐ ܘܬܫܥܝܢ ܘܚܕ: ܠܥܠܡܐ܀ ܒܐܝ̈ܕܝ: ܐܢܫ ܚܲܛܝܐ: ܘܡܦܠܦܠ: ܘܒܨܝܪܐ ܕܟܠܗܘܢ ܒܢܝܢ̈ܫܐ܀ ܒܫܡܐ ܘܠܐ ܒܥ̇ܒܕܐ ܟ̄ܗ: ܕܝܪܝܐ ܐܪܣܢܝ: ܟܠܡ̇ܢ ܕܢܩܪܐ ܢܨܲܠܐܹ ܥܠܝ: ܡܛܠ ܡܪܢ܆ ܘܟܠܢܫ ܐܝܟ ܨܠܘܬܗ̣ ܡܬܦ݂ܪܥ܀ ܢܐܡܪ: ܐܠܗܐ ܚܘܢܝܗ. ܠܟܬܘܒܐ ܐܝܟ ܠܝܣܐ ܒܙܩܝܦܐ܀ ܒܨ̣ܠܘܬܐ ܕܡܪܬܢ ܝܠܕܬ ܐܠܗܐ ܡܪܝܡ ܘܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ ܘܐܡܝܢ܀",
+      "assoc_name": [
         {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
+          "value": "Monk Arsani",
+          "as_written": "ܕܝܪܝܐ ܐܪܣܢܝ",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         }
-    ],
-    "para": [
+      ],
+      "assoc_date": [
         {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "199v-200r",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܢܣܲܒ: ܫܘܡ̇ܠܝ܆ ܟܬܒܐ ܗܢܐ: ܫܥ̈ܐ: ܘܡܒ̇ܪ ܙܡܘܣ ܝܘܡ ܫ̄ܒ: ܒ̄ܝܕ: ܒܬܫ̈ܝܢ ܒ̄: ܫܢܬܲ. ܫ̈ܬ̣ܐ: ܐܠܦܝܢ: ܘܫܒܥ ܡܐܐ ܘܬܫܥܝܢ ܘܚܕ: ܠܥܠܡܐ܀ ܒܐܝ̈ܕܝ: ܐܢܫ ܚܲܛܝܐ: ܘܡܦܠܦܠ: ܘܒܨܝܪܐ ܕܟܠܗܘܢ ܒܢܝܢ̈ܫܐ܀ ܒܫܡܐ ܘܠܐ ܒܥ̇ܒܕܐ ܟ̄ܗ: ܕܝܪܝܐ ܐܪܣܢܝ: ܟܠܡ̇ܢ ܕܢܩܪܐ ܢܨܲܠܐܹ ܥܠܝ: ܡܛܠ ܡܪܢ܆ ܘܟܠܢܫ ܐܝܟ ܨܠܘܬܗ̣ ܡܬܦ݂ܪܥ܀ ܢܐܡܪ: ܐܠܗܐ ܚܘܢܝܗ. ܠܟܬܘܒܐ ܐܝܟ ܠܝܣܐ ܒܙܩܝܦܐ܀ ܒܨ̣ܠܘܬܐ ܕܡܪܬܢ ܝܠܕܬ ܐܠܗܐ ܡܪܝܡ ܘܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ ܘܐܡܝܢ܀",
-            "assoc_name": [
-                {
-                    "value": "Monk Arsani",
-                    "as_written": "ܕܝܪܝܐ ܐܪܣܢܝ",
-                    "role": {
-                        "id": "scribe",
-                        "label": "Scribe"
-                    }
-                }
-            ]
+          "value": "1283 CE",
+          "iso": {
+            "not_before": "1283"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "1283 CE (= Teshrin II, 6791 AM)"
+          ]
         }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "985 CE",
-            "iso": {
-                "not_before": "0985"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1ns2cnj"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1ns2cnj"
+  ]
 }

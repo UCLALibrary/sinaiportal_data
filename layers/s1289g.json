@@ -1,80 +1,55 @@
 {
-    "ark": "ark:/21198/s1289g",
-    "reconstruction": false,
-    "label": "Sinai Arabic 676, Overtext (Naskh, Thuluth)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1289g",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 676, Overtext (Naskh, Thuluth)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                },
-                {
-                    "id": "thuluth",
-                    "label": "Thuluth",
-                    "writing_system": "Arabic"
-                }
-            ],
-            "note": [
-                "Section headings written with thuluth"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1vw8f",
-            "label": "Item 1"
-        }
-    ],
-    "features": [
-        {
-            "id": "dated",
-            "label": "Dated"
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         },
         {
-            "id": "colophon",
-            "label": "Colophon"
+          "id": "thuluth",
+          "label": "Thuluth",
+          "writing_system": "Arabic"
         }
-    ],
-    "para": [
+      ],
+      "note": [
+        "Section headings written with thuluth"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1vw8f",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 128r",
+      "lang": [
         {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "f. 128r",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1607 CE",
-            "iso": {
-                "not_before": "1607"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z12n6kvk"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z12n6kvk"
+  ]
 }

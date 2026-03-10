@@ -1,54 +1,43 @@
 {
-    "ark": "ark:/21198/s1v68j",
-    "reconstruction": false,
-    "label": "Martyrologion: Martyrdom of Arianos and the Four Protectores",
-    "lang": [
-        {
-            "id": "chri1239",
-            "label": "CPA"
-        }
+  "ark": "ark:/21198/s1v68j",
+  "reconstruction": false,
+  "label": "Martyrologion: Martyrdom of Arianos and the Four Protectores",
+  "lang": [
+    {
+      "id": "chri1239",
+      "label": "CPA"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Martyrdom of Arianos and the Four Protectores",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          },
+          {
+            "id": "martyrologies",
+            "label": "Martyrologies"
+          }
+        ]
+      },
+      "note": [
+        "Earliest attestation of this text in CPA"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Martyrdom of Arianos and the Four Protectores",
-                "genre": [
-                    {
-                        "id": "hagiographies",
-                        "label": "Hagiographies"
-                    },
-                    {
-                        "id": "martyrologies",
-                        "label": "Martyrologies"
-                    }
-                ]
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "contents",
-                "label": "Contents Note"
-            },
-            "value": "Earliest attestation of this text in CPA"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Christa Müller-Kessler"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Müller-Kessler 2017, pp. 115-125"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1662c"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1662c"
+  ]
 }

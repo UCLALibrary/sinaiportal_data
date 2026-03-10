@@ -1,0 +1,40 @@
+{
+  "ark": "ark:/21198/s1kc95",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 570, Overtext (Naskh, Thuluth)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        },
+        {
+          "id": "thuluth",
+          "label": "Thuluth",
+          "writing_system": "Arabic"
+        }
+      ],
+      "note": [
+        "Apparent change of hands multiple times, e.g. ff. 9r, 9v, 19r, 132r, 264r"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1d08f",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1dz1cr2"
+  ]
+}

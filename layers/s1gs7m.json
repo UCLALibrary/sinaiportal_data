@@ -1,45 +1,46 @@
 {
-    "ark": "ark:/21198/s1gs7m",
-    "reconstruction": false,
-    "label": "Sinai Arabic 588, Undertext (Undetermined (Arabic))",
-    "locus": "f. 68v",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1gs7m",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Arabic 588, Undertext (Undetermined (Arabic))",
+  "locus": "f. 68v",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "arabic-undetermined",
-                    "label": "Undetermined (Arabic)",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
         }
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "1 columns",
+      "lines": "20 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s14t2z",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "1 columns",
-            "lines": "20 lines"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s14t2z",
-            "label": "Item 1"
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by André Binggeli"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z16m44r0"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z16m44r0",
+    "ark:/21198/z1nq2wcg"
+  ]
 }

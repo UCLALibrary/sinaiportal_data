@@ -1,90 +1,48 @@
 {
-    "ark": "ark:/21198/s1264w",
-    "reconstruction": false,
-    "label": "Sinai Syriac NF frag 53, Undertext (Estrangela)",
-    "locus": "ff. 1–5",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1264w",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Syriac NF frag 53, Undertext (Estrangela)",
+  "locus": "ff. 1–5",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "estrangela",
-                    "label": "Estrangela",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "Medial Estrangela: closed waw etc."
-            ]
+          "id": "estrangela",
+          "label": "Estrangela",
+          "writing_system": "Syriac"
         }
+      ],
+      "note": [
+        "Medial Estrangela: closed waw etc."
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "Partial lines visible. Varies from 20 to 25 lines. No complete column available"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1q69p",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "Partial lines visible. Varies from 20 to 25 lines. No complete column available"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1q69p",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "8th-9th c.  CE",
-            "iso": {
-                "not_before": "0701",
-                "not_after": "0900"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Syria or Mesopotamia",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 5v, 5r, 4v, 4r, 3v, 3r, 2v, 2r"
-        },
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "F. 1r and 1v are too blurred to identify the passage"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Sebastian Brock"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Edition of the Syriac translation of Abba Isaiah's Asketikon in R. Draguet, “Les cinq recensions de l'Asceticon syriaque d'Abba Isaie,” Corpus Scriptorum Christianorum Orientalium 289/120, 290/121 (1968)"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z10v8dvq"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z10v8dvq",
+    "ark:/21198/z1r60grf"
+  ]
 }

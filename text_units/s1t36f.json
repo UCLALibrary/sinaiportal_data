@@ -1,28 +1,31 @@
 {
-    "ark": "ark:/21198/s1t36f",
-    "reconstruction": false,
-    "label": "Canons of the Apostles, Oecumenical Councils and Local Synods",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Canons of the Apostles, Oecumenical Councils and Local Synods",
-                "genre": [
-                    {
-                        "id": "canon-law",
-                        "label": "Canon law"
-                    }
-                ]
-            },
-            "locus": "ff. 1v-318r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s10g75"
-    ]
+  "ark": "ark:/21198/s1t36f",
+  "reconstruction": false,
+  "label": "Canons of the Apostles, Oecumenical Councils and Local Synods",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Canons of the Apostles, Oecumenical Councils and Local Synods",
+        "genre": [
+          {
+            "id": "canon-law",
+            "label": "Canon law"
+          }
+        ]
+      },
+      "locus": "ff. 1v-318r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s10g75"
+  ]
 }

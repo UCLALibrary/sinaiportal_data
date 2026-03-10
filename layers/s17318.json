@@ -1,0 +1,73 @@
+{
+  "ark": "ark:/21198/s17318",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 346, Overtext (Undetermined (Arabic))",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s11q07",
+      "label": "Item 1",
+      "locus": "ff. 1r-334v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 300r-300v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "فرغ من نسخة الراهب الحقير أنطوني في دير القديس ماري سابا يوم الخميس لعشرين يوم مضت من تشرين الأول التاريخ الثالث عشر سنة ستة الاف وستمائه وثمانية وخمسين سنة للعالم وهو الراهب الحقير انطوني بن القس جرجس الخوري الزبداني غفر الله له ولوالديه ولجميع اخوته بشفاعة  السيدة أم النور الطاهرة البثول والقديس ماري سابا وجميع القديسين آمين آمين آمين / أوقفه عن روحه على كنيسة دير السيق فوق وأسفل يا خير مطلوب وأكرم طالب اغفر لصاحبه نعم والكاتب  يا قارئ صلى الكوتئيب الحقير وسامحه في الغلط والزلل بغفر الله لك وجميع بنى المعمودية  الارثذكسية والسبح لله دائما وعلينا رحمته آمين",
+      "assoc_place": [
+        {
+          "id": "ark:/21198/s1v976",
+          "event": {
+            "id": "origin",
+            "label": "Place of Origin"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1177 CE",
+          "iso": {
+            "not_before": "1177"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Thursday 20 Tishrin I 6658"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1cr6xp9"
+  ]
+}

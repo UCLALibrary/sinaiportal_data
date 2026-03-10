@@ -1,0 +1,80 @@
+{
+  "ark": "ark:/21198/s1p64g",
+  "reconstruction": false,
+  "label": "Lectionary (Epistles)",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    },
+    {
+      "id": "gree1276",
+      "label": "Greek"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1088g"
+      },
+      "alt_title": "Lectionary (Epistles)",
+      "locus": "ff. 2r-194r",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 2r",
+          "as_written": "نبتدي بعَون الله و حسن توفيقه نكتب بكتابة سايعري"
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 147v",
+          "as_written": "؛ نبتدي بعَون الله و ارشاده و تسديده بكتابة"
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 184r",
+          "as_written": "تمّ هذا الكتاب المقدّس"
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 185r",
+          "as_written": "؛ نبتدي بالإثنا عشر ترنيمة"
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 194r",
+          "as_written": "تمّت قناديق"
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 194r",
+          "as_written": " تمّت بعون الله سبحانه"
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1vk56"
+  ]
+}

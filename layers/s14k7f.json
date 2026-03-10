@@ -1,53 +1,49 @@
 {
-    "ark": "ark:/21198/s14k7f",
-    "reconstruction": false,
-    "label": "Sinai Arabic 514, Overtext (Kufic)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s14k7f",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 514, Overtext (Kufic)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "kufic",
-                    "label": "Kufic",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "kufic",
+          "label": "Kufic",
+          "writing_system": "Arabic"
         }
+      ]
+    }
+  ],
+  "ink": [
+    {
+      "color": [
+        "black",
+        "red"
+      ],
+      "note": [
+        "Red used for rubrics"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1z372",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "ink": [
-        {
-            "color": [
-                "black",
-                "red"
-            ],
-            "note": [
-                "Red used for rubrics"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1z372",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "9th c.  CE",
-            "iso": {
-                "not_before": "0801",
-                "not_after": "0900"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1bc4wfw"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1bc4wfw"
+  ]
 }

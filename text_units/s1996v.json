@@ -1,22 +1,38 @@
 {
-    "ark": "ark:/21198/s1996v",
-    "reconstruction": false,
-    "label": "Psalms",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s11c7f"
-            },
-            "locus": "ff. 2r-265v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1gp8z"
-    ]
+  "ark": "ark:/21198/s1996v",
+  "reconstruction": false,
+  "label": "Psalms",
+  "locus": "ff. 2r-265v",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Garshuni prayer",
+        "genre": [
+          {
+            "id": "prayers",
+            "label": "Prayers"
+          }
+        ]
+      },
+      "locus": "ff. 2r-12v"
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s11c7f"
+      },
+      "locus": "ff. 13r-265v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1gp8z"
+  ]
 }

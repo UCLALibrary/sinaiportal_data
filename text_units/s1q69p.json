@@ -1,38 +1,31 @@
 {
-    "ark": "ark:/21198/s1q69p",
-    "reconstruction": false,
-    "label": "Asketikon",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
+  "ark": "ark:/21198/s1q69p",
+  "reconstruction": false,
+  "label": "Asketikon",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1501m"
+      },
+      "alt_title": "Asketikon of Abba Isaiah"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1501m"
-            },
-            "alt_title": "Asketikon of Abba Isaiah"
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Sebastian Brock"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Edition of the Syriac translation of Abba Isaiah's Asketikon in R. Draguet, “Les cinq recensions de l'Asceticon syriaque d'Abba Isaie,” Corpus Scriptorum Christianorum Orientalium 289/120, 290/121 (1968)"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1264w"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1264w"
+  ]
 }

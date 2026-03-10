@@ -1,23 +1,26 @@
 {
-    "ark": "ark:/21198/s1mh0f",
-    "reconstruction": false,
-    "label": "Lectionary (Gospels)",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s19p4w"
-            },
-            "alt_title": "Lectionary (Gospels)",
-            "locus": "ff. 1r-359r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1sw3x"
-    ]
+  "ark": "ark:/21198/s1mh0f",
+  "reconstruction": false,
+  "label": "Lectionary (Gospels)",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s19p4w"
+      },
+      "alt_title": "Lectionary (Gospels)",
+      "locus": "ff. 1r-359r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1sw3x"
+  ]
 }

@@ -1,0 +1,69 @@
+{
+  "ark": "ark:/21198/s1689q",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 80, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "ink": [
+    {
+      "locus": "ff. 2r-3v, ff. 4r, 53v, 81v, 128v, 165v",
+      "color": [
+        "blue",
+        "light green"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s10w79",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 192v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "هذا الإنجيل المقدس مما تفضل به الاخ الشماس افرام ناسخة هذا الِإنجيل المعظم على أنا الحقير في الكهنة ارساني السرياني وانه يكون وقف مخلدا بعد المختوم على وقف علي كنيسة ستنا السيدة كنيسة السريان بحر الدير المقدس طور سيناء  ما الاجر سلطان من الله أن يخرجه من الدير المقدس طور ومن تجاس وأخرجه من الدير المذكور يكون محروم مفروز من مجد الله ويكون خطه مع يودس الدافع والويل ثم الويل لمن رضي لنفسه ذلك وكل من يتعمد ويقطع هذه الورقة يكون تحت الكلمة الآن ابد العزيز سلطانها ",
+      "assoc_name": [
+        {
+          "value": "Copied by Deacon Ephrem for Arsani/Arsenios the Syrian",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ],
+      "note": [
+        "Attested places: Mount Sinai"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1x64r8j"
+  ]
+}

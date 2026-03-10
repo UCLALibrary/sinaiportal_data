@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s1k32r",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 420, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1cm09",
+      "label": "Item 1",
+      "locus": "ff. 3r-194r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 193v-194r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "نجز نساخة السنكسار المجموع لسنة بقوة الله فتأييده وعونه وتوفيقه في دير الجبل المقدس طور سيناء في أيام الأب القديس السيد الأسقف أنبا ارساني رحمنا الله الكافة ببركة صلواته وأدام لنا حياته بشفاعة السيد والدة الاله آمين / نهار الجمعة الخامس من شهر كانون الأول الموافق لشهور ستة ست آلاف وسبعمائة وستة وتسعين سنة للعالم القس الاكليسيارشيس المبارك أنبا اكليمي القديس ولأمره يرحمني الله بصلواته بشفاعة السيد أم الإله البثول آمين",
+      "assoc_date": [
+        {
+          "value": "1288 CE",
+          "iso": {
+            "not_before": "1288"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Friday 5 Kanun I 6796"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1223z2t"
+  ]
+}

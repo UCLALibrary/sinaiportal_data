@@ -1,35 +1,34 @@
 {
-    "ark": "ark:/21198/s12m1w",
-    "reconstruction": false,
-    "label": "Mimars of St. John Climax",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Mimars of St. John Climax",
-                "creator": [
-                    "ark:/21198/s1d30f"
-                ],
-                "genre": [
-                    {
-                        "id": "theological-works",
-                        "label": "Theological works"
-                    },
-                    {
-                        "id": "mimars",
-                        "label": "Mimars"
-                    }
-                ]
-            },
-            "locus": "ff. 3r-305r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1832z"
-    ]
+  "ark": "ark:/21198/s12m1w",
+  "reconstruction": false,
+  "label": "Mimars of St. John Climax",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Mimars of St. John Climax",
+        "creator": [
+          "ark:/21198/s1d30f"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 3r-305r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1832z"
+  ]
 }

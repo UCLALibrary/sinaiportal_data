@@ -1,0 +1,98 @@
+{
+  "ark": "ark:/21198/s1m64v",
+  "reconstruction": false,
+  "label": "Mimars and Saints' Lives",
+  "locus": "ff. 1br-66v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "A Homily of John Chrysostom on Lenten Fasting ",
+        "creator": [
+          "ark:/21198/s1x303"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "as_written": "ميمر من قول القديس مار يحنا فم الذهب (f. 1br)",
+      "locus": "ff. 1br-5v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 1br",
+          "as_written": "اسمعوا يا اخوة وأحبائي"
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 5v",
+          "as_written": "ثم قامت لساعتها وتوجهت الى الكرم وانها وجدت الصبي الحارس وقالت"
+        }
+      ],
+      "note": [
+        "Imperfect at end, cuts off abruptly on f. 5v"
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "Life of Saint George",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 6r-64r",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 6r",
+          "as_written": "يا اخوتي واحبائي كان في بلد الموصل رجل حنيفيا جبارا يقال له ذانيانوس"
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "St. Gregory’s Introduction to the Psalms",
+        "creator": [
+          "ark:/21198/s12s3c"
+        ],
+        "genre": [
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          },
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 64v-66v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1sk6z"
+  ]
+}

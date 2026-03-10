@@ -1,31 +1,34 @@
 {
-    "ark": "ark:/21198/s1gt09",
-    "reconstruction": false,
-    "label": "A Universal History",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "A Universal History",
-                "genre": [
-                    {
-                        "id": "historical-works",
-                        "label": "Historical works"
-                    }
-                ]
-            },
-            "locus": "ff. 1r-162v",
-            "note": [
-                "Beginning with the story of Moses and ending by the reign of the Caliph al-Ma’mūn"
-            ]
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1p60z"
-    ]
+  "ark": "ark:/21198/s1gt09",
+  "reconstruction": false,
+  "label": "A Universal History",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "A Universal History",
+        "genre": [
+          {
+            "id": "historical-works",
+            "label": "Historical works"
+          }
+        ]
+      },
+      "locus": "ff. 1r-162v",
+      "note": [
+        "Beginning with the story of Moses and ending by the reign of the Caliph al-Ma’mūn"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1p60z"
+  ]
 }

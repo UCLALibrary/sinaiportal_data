@@ -1,23 +1,27 @@
 {
-    "ark": "ark:/21198/s1238c",
-    "reconstruction": false,
-    "label": "Menologion (month of Tishrīn I)",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s16s3m"
-            },
-            "alt_title": "Menologion (month of Tishrīn I)",
-            "locus": "ff. 1r-198r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s17h01"
-    ]
+  "ark": "ark:/21198/s1238c",
+  "reconstruction": false,
+  "label": "Menologion (month of Tishrīn I)",
+  "locus": "ff. 1r-198r",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s16s3m"
+      },
+      "alt_title": "Menologion (month of Tishrīn I)",
+      "locus": "ff. 1r-198r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s17h01"
+  ]
 }

@@ -1,91 +1,49 @@
 {
-    "ark": "ark:/21198/s15w6g",
-    "reconstruction": false,
-    "label": "Sinai Syriac NF frag 46, Undertext (Estrangela)",
-    "locus": "f. 1",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s15w6g",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Syriac NF frag 46, Undertext (Estrangela)",
+  "locus": "f. 1",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "estrangela",
-                    "label": "Estrangela",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "Early Estrangela"
-            ]
+          "id": "estrangela",
+          "label": "Estrangela",
+          "writing_system": "Syriac"
         }
+      ],
+      "note": [
+        "Early Estrangela"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "1 columns",
+      "lines": "9 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1tx1t",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "1 columns",
-            "lines": "9 lines"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1tx1t",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "6th c.  CE",
-            "iso": {
-                "not_before": "0501",
-                "not_after": "0600"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Syria or Mesopotamia",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff.1v, 1r"
-        },
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "There are different possibilities; the sequence above fits the years 582-3 (= fol. 1v) and 585-6 (= fol. 1r)"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Sebastian Brock"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Brock 1995, pp. 44-47, 119-121"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1zw1vxc"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1zw1vxc",
+    "ark:/21198/z1vz17h9"
+  ]
 }

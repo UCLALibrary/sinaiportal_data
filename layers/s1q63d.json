@@ -1,85 +1,52 @@
 {
-    "ark": "ark:/21198/s1q63d",
-    "reconstruction": false,
-    "label": "Sinai Greek NF MG 24, Undertext (Christian Palestinian Aramaic)",
-    "locus": "f. 27",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1q63d",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Greek NF MG 24, Undertext (Christian Palestinian Aramaic)",
+  "locus": "f. 27",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "cpa",
-                    "label": "Christian Palestinian Aramaic",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "Early large CPA"
-            ]
+          "id": "cpa",
+          "label": "Christian Palestinian Aramaic",
+          "writing_system": "Syriac"
         }
+      ],
+      "note": [
+        "Early large CPA"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "11 lines",
+      "note": [
+        "The original number of lines is unknown"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1c67t",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "2 columns",
-            "lines": "11 lines",
-            "note": [
-                "The original number of lines is unknown"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1c67t",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "6th-7th c.  CE",
-            "iso": {
-                "not_before": "0501",
-                "not_after": "0700"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 27v, 27r"
-        },
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Only the bottom part of the original folio is preserved"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Christa Müller-Kessler"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: S. Brock, \"A fragment of the Acta Pilati in Christian Palestinian Aramaic,\" Journal of Theological Studies 22 (1971), 157–158"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1rr2nnf"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1rr2nnf",
+    "ark:/21198/z14n9wj1"
+  ]
 }

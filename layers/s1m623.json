@@ -1,69 +1,43 @@
 {
-    "ark": "ark:/21198/s1m623",
-    "reconstruction": false,
-    "label": "Sinai Georgian 10, Undertext (Nuskhurimt)",
-    "locus": "ff. 219–220, 224–239, 241–246, 248–261, 263, 265",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1m623",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Georgian 10, Undertext (Nuskhurimt)",
+  "locus": "ff. 219–220, 224–239, 241–246, 248–261, 263, 265",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "nuskhurimt",
-                    "label": "Nuskhurimt",
-                    "writing_system": "Georgian"
-                }
-            ],
-            "note": [
-                "Rather upright minuscule, initial letters of verses in majuscule"
-            ]
+          "id": "nuskhurimt",
+          "label": "Nuskhurimt",
+          "writing_system": "Georgian"
         }
+      ],
+      "note": [
+        "Rather upright minuscule, initial letters of verses in majuscule"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s18688",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s18688",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "ca. 9th c.  CE",
-            "iso": {
-                "not_before": "0750",
-                "not_after": "0950"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 246v, 241r; remainder not yet established"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Jost Gippert"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Metreveli, Č'ank'ievi, and Xevsuriani"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1pc3j0n"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1pc3j0n",
+    "ark:/21198/z1941k65"
+  ]
 }

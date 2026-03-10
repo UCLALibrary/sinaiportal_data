@@ -1,0 +1,74 @@
+{
+  "ark": "ark:/21198/s1d04x",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 512, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s16m14",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 63v-64r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "assoc_name": [
+        {
+          "value": "Jacob",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1259 CE",
+          "iso": {
+            "not_before": "1259"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "13 Nisan 1571 (Seleucid)"
+          ]
+        }
+      ],
+      "note": [
+        "Incomplete transcription"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1fv04sh"
+  ]
+}

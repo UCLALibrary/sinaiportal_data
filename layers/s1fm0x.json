@@ -1,0 +1,53 @@
+{
+  "ark": "ark:/21198/s1fm0x",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Syriac NF M 3, Undertext (Melkite)",
+  "locus": "ff. 3–79",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
+        }
+      ],
+      "note": [
+        "Melkite Estrangela | Rather loose and irregular at times; otherwise quite similar to that of Tropologion A, with same serto elements"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "1 columns",
+      "lines": "6-12 lines, incomplete",
+      "note": [
+        "Six to 12 incomplete lines per page, sometimes preserving beginning or end of lines; parts of a margin, top, right, left, bottom (or two of these) are sometimes present. Blank spaces within and between lines will have had rubrics, of which no traces are visible in any of the images. Fol. 9rv is exceptional in that it represents the middle of a bifolio with ends and beginnings of lines either side of the gutter",
+        "Occasionally traces of vertical ruling are visible (e.g., 12r). Traces of  dividing lines running across the page consisting of a series of x x x, all boxed (thus 13r, 14v), or of v above point and inverted v (16v), or four points arranged as a diamond (39v)"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s13m5q",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1tm9397",
+    "ark:/21198/z1zq4z4q"
+  ]
+}

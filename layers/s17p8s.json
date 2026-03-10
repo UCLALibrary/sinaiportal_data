@@ -1,75 +1,49 @@
 {
-    "ark": "ark:/21198/s17p8s",
-    "reconstruction": false,
-    "label": "Sinai Georgian NF M 19, Undertext (Christian Palestinian Aramaic)",
-    "locus": "f. 58",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s17p8s",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Georgian NF M 19, Undertext (Christian Palestinian Aramaic)",
+  "locus": "f. 58",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "cpa",
-                    "label": "Christian Palestinian Aramaic",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "Early large CPA"
-            ]
+          "id": "cpa",
+          "label": "Christian Palestinian Aramaic",
+          "writing_system": "Syriac"
         }
+      ],
+      "note": [
+        "Early large CPA"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "22 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1wq2r",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "2 columns",
-            "lines": "22 lines"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1wq2r",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "6th–7th c.  CE",
-            "iso": {
-                "not_before": "0501",
-                "not_after": "0700"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 58v, 58r"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Christa Müller-Kessler"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Müller-Kessler and Sokoloff ; Müller-Kessler 2022, pp. 1-25"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z16d68k3"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z16d68k3",
+    "ark:/21198/z1hb9x7q"
+  ]
 }

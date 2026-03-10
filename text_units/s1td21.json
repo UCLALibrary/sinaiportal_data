@@ -1,0 +1,96 @@
+{
+  "ark": "ark:/21198/s1td21",
+  "reconstruction": false,
+  "label": "Psalms and Varia",
+  "locus": "ff. 1r-397v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s11c7f"
+      },
+      "alt_title": "Psalms 1 (imperfect) to 151",
+      "locus": "ff. 1r-258v",
+      "note": [
+        "Psalm 1 (imperfect) to 151; lacking rubric on ff. 1r-2r"
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "Kathismata",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          }
+        ]
+      },
+      "locus": "f. 259",
+      "note": [
+        "Rubric cut off and reference to the \"Twenty Kathismata\" of the Psalms"
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "The Book of the Garden",
+        "creator": [
+          "ark:/21198/s1qp4m"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 260r-375v"
+    },
+    {
+      "work": {
+        "desc_title": "Portions of a Saint's Life",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 376r-381v"
+    },
+    {
+      "work": {
+        "desc_title": "The Life of Joseph the Jew",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 381v-385r"
+    },
+    {
+      "work": {
+        "desc_title": "The Life of Pantaleon",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 385r-397v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s10s3r"
+  ]
+}

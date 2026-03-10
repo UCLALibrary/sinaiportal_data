@@ -1,72 +1,33 @@
 {
-    "ark": "ark:/21198/s17s62",
-    "reconstruction": false,
-    "label": "Sinai Syriac 113, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s17s62",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 113, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s12d5b",
-            "label": "Item 1"
-        }
-    ],
-    "features": [
-        {
-            "id": "deco-vegetative",
-            "label": "Decoration, Vegetative"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "parallel-text",
-            "label": "Parallel text"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "13th c. CE",
-            "iso": {
-                "not_before": "1201",
-                "not_after": "1300"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Knotted vine headpieces, f.33r; ff. 34v-73r, with ascending cross"
-        },
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Palmette, ff. 6v, 77v, knotted"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1vd8h3c"
-    ]
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s12d5b",
+      "label": "Item 1",
+      "locus": "ff. 1r-47v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1vd8h3c"
+  ]
 }

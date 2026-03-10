@@ -1,0 +1,69 @@
+{
+  "ark": "ark:/21198/s1vp70",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 81, Overtext (Melkite, East Syriac)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
+        },
+        {
+          "id": "east-syriac",
+          "label": "East Syriac",
+          "writing_system": "Syriac"
+        }
+      ],
+      "note": [
+        "Melkite with some limited East Syriac vocalization"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1p95w",
+      "label": "Item 1",
+      "locus": "ff. 1r-195v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 189r-v",
+      "lang": [
+        {
+          "id": "class1252",
+          "label": "Syriac"
+        }
+      ]
+    },
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 195r-v",
+      "lang": [
+        {
+          "id": "class1252",
+          "label": "Syriac"
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z17673rw"
+  ]
+}

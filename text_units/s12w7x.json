@@ -1,0 +1,47 @@
+{
+  "ark": "ark:/21198/s12w7x",
+  "reconstruction": false,
+  "label": "Psalter and Horologion",
+  "locus": "ff. 6r-253v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1d886"
+      },
+      "locus": "Ff. 6r-253v",
+      "note": [
+        "It is preceded by an excerpt from Gregory of Nyssa's Commentary on the Inscriptions to the Psalms (ff. 4r-5v)"
+      ]
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1dg6h"
+      },
+      "locus": "Ff. 254r-304v"
+    },
+    {
+      "work": {
+        "desc_title": "Unidentified liturgical text",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          }
+        ]
+      },
+      "locus": "Ff. 307v-333v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1888z"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "ark": "ark:/21198/s1vk56",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 170, Overtext (Naskh, Greek minuscule)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        },
+        {
+          "id": "greek-min",
+          "label": "Greek minuscule",
+          "writing_system": "Greek"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1p64g",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 184v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "وكان الفراغ من نسخ هذا الكتاب والمقدس يوم السبت  سابع شهر نيسان سنة ستة آلاف وسبعمائة وثلثه وتسعين سلف منذ الله لأبينا آدم / وهذا الكتاب كُتب بدير طور سيناء جبل الله المقدس حرسه الله وتولاه برسم المهتم به وهو الشيخ القديس المكرم أنبا اكليمي الاكليسيارشيس يومئذ في كنيسة الدير المقدس المذكور وكان ذلك في أيام الأب القديس مهدي النفوس المنتخب من الله لهداية شعبه الأنبا أرساني أسقف طور سيناء أدام الله رياسته ورحمنا بصلواته وهب الله له من الأعمار أطولها وذلك لما فيه من المنفعة ومسطرة الحقير في الملتجئين إلى الذي الرهباني لا ثوب التوبة والمسكين بأعماله السيئة وتعديه وصايا يا سيدة يراسمه  المدعو راهب يسأل كل من قرأ فيه أن يدعوا له بالغفران والصفح عن ربوات الآثام وإن وجد فيه غلط أو نقص فليصلحه لينال بذلك الثواب من رب الأنام يا رب اغفر للقارئ والسامع والكاتب آمين",
+      "translation": [
+        "Copying of this holy book finished on Saturday 7 in the month of Nīsān [March–April] in the year 6793 past since Allah created Our Father Adam [Year of the World Anno Mundi)], and this book was"
+      ],
+      "assoc_place": [
+        {
+          "id": "ark:/21198/s1qm59",
+          "event": {
+            "id": "origin",
+            "label": "Place of Origin"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1285 CE",
+          "iso": {
+            "not_before": "1285"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Saturday 7 Nisan 6793 (Adam)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1z3333b"
+  ]
+}

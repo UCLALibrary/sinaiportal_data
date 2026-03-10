@@ -1,77 +1,49 @@
 {
-    "ark": "ark:/21198/s13h0s",
-    "reconstruction": false,
-    "label": "Sinai Greek NF MG 24, Undertext (Greek majuscule)",
-    "locus": "ff. 17–24",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s13h0s",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Greek NF MG 24, Undertext (Greek majuscule)",
+  "locus": "ff. 17–24",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "greek-maj",
-                    "label": "Greek majuscule",
-                    "writing_system": "Greek"
-                }
-            ],
-            "note": [
-                "Strongly sloping cursive majuscule, Sinaitic style, similar to the hand of the Greek undertext of folios 27r and 27v. Correct orthography. Regular accents and breathings"
-            ]
+          "id": "greek-maj",
+          "label": "Greek majuscule",
+          "writing_system": "Greek"
         }
+      ],
+      "note": [
+        "Strongly sloping cursive majuscule, Sinaitic style, similar to the hand of the Greek undertext of folios 27r and 27v. Correct orthography. Regular accents and breathings"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "1 columns",
+      "lines": "21 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1rh6z",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "1 columns",
-            "lines": "21 lines"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1rh6z",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "9th c.  CE",
-            "iso": {
-                "not_before": "0801",
-                "not_after": "0900"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Possibly Sinai",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 21v, 21r, 20v, 20r, 19r, 19v, 17r, 17v, 24r, 24v, 22r, 22v, 23v, 23r, 18v, 18r"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Agamemnon Tselikas, Giulia Rossetto"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1rr2nnf"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1rr2nnf",
+    "ark:/21198/z18b1xxg"
+  ]
 }

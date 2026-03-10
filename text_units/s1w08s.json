@@ -1,28 +1,31 @@
 {
-    "ark": "ark:/21198/s1w08s",
-    "reconstruction": false,
-    "label": "Long treatise on Logic",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Long treatise on Logic",
-                "genre": [
-                    {
-                        "id": "philosophical-works",
-                        "label": "Philosophical works"
-                    }
-                ]
-            },
-            "locus": "ff. 1av-179v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s12g85"
-    ]
+  "ark": "ark:/21198/s1w08s",
+  "reconstruction": false,
+  "label": "Long treatise on Logic",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Long treatise on Logic",
+        "genre": [
+          {
+            "id": "philosophical-works",
+            "label": "Philosophical works"
+          }
+        ]
+      },
+      "locus": "ff. 1av-179v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s12g85"
+  ]
 }

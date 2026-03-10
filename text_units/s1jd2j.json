@@ -1,0 +1,47 @@
+{
+  "ark": "ark:/21198/s1jd2j",
+  "reconstruction": false,
+  "label": "Lectionary; Lesson from the Epistles of Paul",
+  "locus": "ff. 1v-370r",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1088g"
+      },
+      "alt_title": "Lectionary (Epistles) with commentary",
+      "locus": "ff. 1v-306r"
+    },
+    {
+      "work": {
+        "desc_title": "Lesson from the Epistles of Paul",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          },
+          {
+            "id": "lectionaries",
+            "label": "Lectionaries"
+          },
+          {
+            "id": "biblical-texts",
+            "label": "Biblical texts"
+          }
+        ]
+      },
+      "locus": "ff. 306r-370r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1qw39"
+  ]
+}

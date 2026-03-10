@@ -1,90 +1,48 @@
 {
-    "ark": "ark:/21198/s1f060",
-    "reconstruction": false,
-    "label": "Sinai Greek 446, Undertext (Greek minuscule)",
-    "locus": "ff. 68–135, 140–170, 171v–204",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1f060",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Greek 446, Undertext (Greek minuscule)",
+  "locus": "ff. 68–135, 140–170, 171v–204",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "greek-min",
-                    "label": "Greek minuscule",
-                    "writing_system": "Greek"
-                }
-            ],
-            "note": [
-                "Minuscule"
-            ]
+          "id": "greek-min",
+          "label": "Greek minuscule",
+          "writing_system": "Greek"
         }
+      ],
+      "note": [
+        "Minuscule"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "The original manuscript was a parchment scroll"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s13392",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "The original manuscript was a parchment scroll"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s13392",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "9th c.  CE",
-            "iso": {
-                "not_before": "0801",
-                "not_after": "0900"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Sinai or Palestine",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 156v+149r+152v+153r and 153v+152r+149v+156r"
-        },
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "It is not possible to completely reconstruct the order of the folios; a definite sequence is fols"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Pasquale Orsini"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: V. Gardthausen, Catalogus codicum Graecorum Sinaiticorum (Oxford, 1886), p. 108. ; For abbreviations of the editions see H. Follieri, Initia hymnorum ecclesiae Graecae, Studi e testi, 211-215bis (Vatican City, 1960-1966)"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z13v0f52"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z13v0f52",
+    "ark:/21198/z1qp6zqk"
+  ]
 }

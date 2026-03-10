@@ -1,50 +1,41 @@
 {
-    "ark": "ark:/21198/s1v91x",
-    "reconstruction": false,
-    "label": "Sinai Syriac NF X 41, Overtext (Melkite, Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1v91x",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac NF X 41, Overtext (Melkite, Naskh)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                },
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ],
-            "note": [
-                "Two hands"
-            ]
-        }
-    ],
-    "text_unit": [
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
+        },
         {
-            "id": "ark:/21198/s1sq36",
-            "label": "Item 1"
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "11th c. CE",
-            "iso": {
-                "not_before": "1001",
-                "not_after": "1100"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1m05xh8"
-    ]
+      ],
+      "note": [
+        "Two hands"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1sq36",
+      "label": "Item 1",
+      "locus": "ff. 1r-89v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1m05xh8"
+  ]
 }

@@ -1,104 +1,51 @@
 {
-    "ark": "ark:/21198/s1cp7n",
-    "reconstruction": false,
-    "label": "Sinai Arabic 595, Overtext (Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1cp7n",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 595, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ],
-            "note": [
-                "Kufic features"
-            ]
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         }
-    ],
-    "text_unit": [
+      ],
+      "note": [
+        "Kufic features"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s16945",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 214v",
+      "lang": [
         {
-            "id": "ark:/21198/s16945",
-            "label": "Item 1"
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "features": [
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "initials-deco",
-            "label": "Initial(s), Decorated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "f. 214v",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "as_written": "كمل هذا الكتاب المبارك يوم الخميس ثالث وعشرين ربيع الآخر سنة تسع وثمانين وستمائة لبني هاجر على يد العبد الخاطئ الدليل الغارق في خطاياه والطالب غفر انها من الإله رشيد ابن القس ابو  شاكر نيح الله روحه مع القديسين وروح سائر إخواننا المؤمنين أجمعين امين "
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1290 CE",
-            "iso": {
-                "not_before": "1290"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Minor geometric headpiece, f. 214v"
-        },
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Decorated initial, f. 214v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z10s171j"
-    ]
+      ],
+      "as_written": "كمل هذا الكتاب المبارك يوم الخميس ثالث وعشرين ربيع الآخر سنة تسع وثمانين وستمائة لبني هاجر على يد العبد الخاطئ الدليل الغارق في خطاياه والطالب غفر انها من الإله رشيد ابن القس ابو  شاكر نيح الله روحه مع القديسين وروح سائر إخواننا المؤمنين أجمعين امين "
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z10s171j"
+  ]
 }

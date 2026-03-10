@@ -1,0 +1,73 @@
+{
+  "ark": "ark:/21198/s1102r",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 236, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1tm0b",
+      "label": "Item 1",
+      "locus": "ff. 2r-215v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 147v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "نجزت كتبة سواعي برمون الميلاد ودفوني الغطاس والجمعة الكبيرة نهار يوم الخميس التاسع وعشرين يوما مضت من شهر أيار الموافق لشهور سنة ست ألف ثمانمائة ستة سنين العالم وذلك في دير الجبل المقدس طور سيناء في أيام الأب السيد الأسقف القديس أبا يوحنا رحمنا الله أب الرحمة والرأفة الكافة بصلواته أجمعين آمين",
+      "assoc_place": [
+        {
+          "id": "ark:/21198/s1qm59",
+          "event": {
+            "id": "origin",
+            "label": "Place of Origin"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1298 CE",
+          "iso": {
+            "not_before": "1298"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Thursday 29 Ayyar 6806 (world)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1t7423f"
+  ]
+}

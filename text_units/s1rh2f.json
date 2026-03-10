@@ -1,0 +1,53 @@
+{
+  "ark": "ark:/21198/s1rh2f",
+  "reconstruction": false,
+  "label": "Commentaries of Chrysostom and Basil",
+  "locus": "ff. 1r-522r",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1cg66"
+      },
+      "alt_title": "Homilies 21-43 of John Chrysostom on Matthew",
+      "locus": "ff. 1r-242r"
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1wg6v"
+      },
+      "alt_title": "Homilies 1-20 of John Chrysostom on 1 Corinthians",
+      "locus": "ff. 243r-361v"
+    },
+    {
+      "work": {
+        "desc_title": "Commentary of Basil of Caesarea on the Psalms",
+        "creator": [
+          "ark:/21198/s1101c"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          }
+        ]
+      },
+      "locus": "ff. 362r-522r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1xw35"
+  ]
+}

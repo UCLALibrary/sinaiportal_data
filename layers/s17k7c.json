@@ -1,29 +1,32 @@
 {
-    "ark": "ark:/21198/s17k7c",
-    "reconstruction": false,
-    "label": "Sinai Arabic NF X 38, Overtext (Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s17k7c",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic NF X 38, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s12370",
-            "label": "Item 1"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1vt3rm7"
-    ]
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s12370",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1vt3rm7"
+  ]
 }

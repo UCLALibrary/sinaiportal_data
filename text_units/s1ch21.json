@@ -1,25 +1,29 @@
 {
-    "ark": "ark:/21198/s1ch21",
-    "reconstruction": false,
-    "label": "Old Testament",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1dk55"
-            },
-            "locus": "ff. 1v-341r",
-            "note": [
-                "Books of Isaiah, Hosea, Joel, Amos, Obadiah, Jonas, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah. Malachi, Jeremiah, the Lamentations of Jeremiah, Ezekiel and Daniel. Also story of Susanna, according to the Septuagint."
-            ]
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1jw2c"
-    ]
+  "ark": "ark:/21198/s1ch21",
+  "reconstruction": false,
+  "label": "Old Testament",
+  "locus": "ff. 1v-341r",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1dk55"
+      },
+      "locus": "ff. 1v-341r",
+      "note": [
+        "Books of Isaiah, Hosea, Joel, Amos, Obadiah, Jonas, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah. Malachi, Jeremiah, the Lamentations of Jeremiah, Ezekiel and Daniel. Also story of Susanna, according to the Septuagint."
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1jw2c"
+  ]
 }

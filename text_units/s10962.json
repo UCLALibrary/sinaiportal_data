@@ -1,22 +1,32 @@
 {
-    "ark": "ark:/21198/s10962",
-    "reconstruction": false,
-    "label": "Psalms",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s11c7f"
-            },
-            "locus": "ff. 1v-255v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s15p85"
-    ]
+  "ark": "ark:/21198/s10962",
+  "reconstruction": false,
+  "label": "Psalms",
+  "locus": "ff. 1v-255v",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s11c7f"
+      },
+      "locus": "ff. 1v-245r"
+    },
+    {
+      "work": {
+        "desc_title": "Prayers"
+      },
+      "locus": "ff. 245v-255v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s15p85"
+  ]
 }

@@ -1,87 +1,63 @@
 {
-    "ark": "ark:/21198/s1hp7w",
-    "reconstruction": false,
-    "label": "Sinai Syriac 245, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1hp7w",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 245, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1b68w",
+      "label": "Item 1",
+      "locus": "ff. 1r-192r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "192r-192v",
+      "lang": [
         {
-            "id": "ark:/21198/s1b68w",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "ܫܠܡ ܒܥܘܕܪܢ ܡܪܝܐ ܟܬܒܐ ܗ̇ܢܐ ܕܡܙܡܘܪ̈ܐ ܕܕܘܝܕ ܢܒܝܐ ܘܡܠܟܐ ܥܡ ܬܫ̈ܒܚ̄ ܕܢܒ̈ܝܐ܀ ܫܩܠ ܣܟܐ ܘܫܘܠܡܐ܀ ܝܘܡ܀ ܓ̄܀ ܒ̄ܫ܀ ܝ̄ܒ܀ ܡܢ ܚܙܝܪܢ ܝܪܚܐ܀ ܫܢܬ̤ ܐܠܦ܀ ܘܡ̈ܐܬܝܢ ܘܦ̄ܒ܀ ܗܝ̇ ܕܡܫܝܚܐ܀ ܒܕܝܪܐ ܩܕܝܫܐ ܕܡܪܬܢ ܝ̇ܠܕܬ ܐܠܗܐ ܕܡܬܝܕܥ ܒܕܝܪܐ ܕܟܦܬܘܢ܀ ܨܠܘܬܗ̇ ܬܗܘܐ ܫܘܪܐ ܠܟܠܢ ܐܡܝܢ܀ ܒܐܝܕܝ ܚ̇ܛܝܐ ܘܒܨܝܪܐ ܐܢܛܘܢܝ ܕܝܪܝܐ ܒܫܡܐ܀ ܒܪ ܕܢܝܐ ܡܢ ܩܪܝܬܐ ܕܐܪܒܠܝ ܡܢ ܟܪܟܐ ܕܛܘܝܦܘܠܝ[ ]: ܘܗܘ̇ ܫ̇ܐܠ ܘܒ̇ܥܐ ܡ̣ܢ ܟܠ ܡ̇ܢ ܕܢܚܘ̣ܪ ܒܟܬܒܐ ܘܩ̇ܪܐ ܒܗ ܘܡܨ̇ܠܐ ܡܢܗ܀ ܢܬܪܚܡ ܥܠ̄ܘ ܘܥ[  ] ܐܒܗܘ̈ܗܝ܀ ܘܢܒܥܐ ܡܢ ܐܠܗܐ ܠܗ ܘܠܗܘܢ ܘܠܟܠ ܒ[ ] ܡܥܡܘܕܝܬܐ ܫܘܒܩܢܐ ܒܝܘܡ ܕܝܢܐ܀ ܘܐܢ ܡܫ̇ܟܚ[  ] ܦܘܕܐ ܐܘ̇ ܓܠܛܐ ܢܬܪܘܨ ܒܡܗܝܪܘܬܗ܀ ܘܢܕܥ ܕܟ[ ] ܒܪܝܐ ܚ̇ܣܝܪ̣ ܀ ܘܐܠܗܐ ܒܠܚܘ̄ܕܘ ܐܝܬ̄ܘ ܫܘܡܠܝܐ [  ] ܐܠܗܐ ܐܒܐ ܕܪ̈ܚܡܐ.. ܢܬܠ ܫܘܒܩܢܐ ܘܚ[ ] ܠܟܬܘܒܐ ܘܠܩܪ̈ܘܝܐ ܘܠܡ̇ܢ ܕܢܐܡܪ ܐܡܝܢ܀ [ ] ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ ܐܡ[  ]",
+      "assoc_name": [
         {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
+          "value": "Antony bar Daniel",
+          "as_written": "ܐܢܛܘܢܝ ܒܪ ܕܢܝܠ",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "192r-192v",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܫܠܡ ܒܥܘܕܪܢ ܡܪܝܐ ܟܬܒܐ ܗ̇ܢܐ ܕܡܙܡܘܪ̈ܐ ܕܕܘܝܕ ܢܒܝܐ ܘܡܠܟܐ ܥܡ ܬܫ̈ܒܚ̄ ܕܢܒ̈ܝܐ܀ ܫܩܠ ܣܟܐ ܘܫܘܠܡܐ܀ ܝܘܡ܀ ܓ̄܀ ܒ̄ܫ܀ ܝ̄ܒ܀ ܡܢ ܚܙܝܪܢ ܝܪܚܐ܀ ܫܢܬ̤ ܐܠܦ܀ ܘܡ̈ܐܬܝܢ ܘܦ̄ܒ܀ ܗܝ̇ ܕܡܫܝܚܐ܀ ܒܕܝܪܐ ܩܕܝܫܐ ܕܡܪܬܢ ܝ̇ܠܕܬ ܐܠܗܐ ܕܡܬܝܕܥ ܒܕܝܪܐ ܕܟܦܬܘܢ܀ ܨܠܘܬܗ̇ ܬܗܘܐ ܫܘܪܐ ܠܟܠܢ ܐܡܝܢ܀ ܒܐܝܕܝ ܚ̇ܛܝܐ ܘܒܨܝܪܐ ܐܢܛܘܢܝ ܕܝܪܝܐ ܒܫܡܐ܀ ܒܪ ܕܢܝܐ ܡܢ ܩܪܝܬܐ ܕܐܪܒܠܝ ܡܢ ܟܪܟܐ ܕܛܘܝܦܘܠܝ[ ]: ܘܗܘ̇ ܫ̇ܐܠ ܘܒ̇ܥܐ ܡ̣ܢ ܟܠ ܡ̇ܢ ܕܢܚܘ̣ܪ ܒܟܬܒܐ ܘܩ̇ܪܐ ܒܗ ܘܡܨ̇ܠܐ ܡܢܗ܀ ܢܬܪܚܡ ܥܠ̄ܘ ܘܥ[  ] ܐܒܗܘ̈ܗܝ܀ ܘܢܒܥܐ ܡܢ ܐܠܗܐ ܠܗ ܘܠܗܘܢ ܘܠܟܠ ܒ[ ] ܡܥܡܘܕܝܬܐ ܫܘܒܩܢܐ ܒܝܘܡ ܕܝܢܐ܀ ܘܐܢ ܡܫ̇ܟܚ[  ] ܦܘܕܐ ܐܘ̇ ܓܠܛܐ ܢܬܪܘܨ ܒܡܗܝܪܘܬܗ܀ ܘܢܕܥ ܕܟ[ ] ܒܪܝܐ ܚ̇ܣܝܪ̣ ܀ ܘܐܠܗܐ ܒܠܚܘ̄ܕܘ ܐܝܬ̄ܘ ܫܘܡܠܝܐ [  ] ܐܠܗܐ ܐܒܐ ܕܪ̈ܚܡܐ.. ܢܬܠ ܫܘܒܩܢܐ ܘܚ[ ] ܠܟܬܘܒܐ ܘܠܩܪ̈ܘܝܐ ܘܠܡ̇ܢ ܕܢܐܡܪ ܐܡܝܢ܀ [ ] ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ ܐܡ[  ]",
-            "assoc_name": [
-                {
-                    "value": "Antony bar Daniel",
-                    "as_written": "ܐܢܛܘܢܝ ܒܪ ܕܢܝܠ",
-                    "role": {
-                        "id": "scribe",
-                        "label": "Scribe"
-                    }
-                }
-            ],
-            "note": [
-                "Colophon page damaged",
-                "Attested places:  in Mart Maryam monastery, Keftun"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1273 CE",
-            "iso": {
-                "not_before": "1273"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1sx7xwt"
-    ]
+      ],
+      "note": [
+        "Colophon page damaged",
+        "Attested places:  in Mart Maryam monastery, Keftun"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1sx7xwt"
+  ]
 }

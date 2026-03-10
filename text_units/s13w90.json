@@ -1,42 +1,53 @@
 {
-    "ark": "ark:/21198/s13w90",
-    "reconstruction": false,
-    "label": "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker",
-    "lang": [
+  "ark": "ark:/21198/s13w90",
+  "reconstruction": false,
+  "label": "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker",
+        "genre": [
+          {
+            "id": "historical-works",
+            "label": "Historical works"
+          },
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 4r-79r",
+      "excerpt": [
         {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 62r",
+          "as_written": "تمّت"
+        },
         {
-            "work": {
-                "desc_title": "Life of St. Gregory of Sicily | Life of Gregory the Miracle-Maker",
-                "genre": [
-                    {
-                        "id": "historical-works",
-                        "label": "Historical works"
-                    },
-                    {
-                        "id": "hagiographies",
-                        "label": "Hagiographies"
-                    }
-                ]
-            },
-            "locus": "ff. 4r-79r",
-            "excerpt": [
-                {
-                    "type": {
-                        "id": "explicit",
-                        "label": "Explicit"
-                    },
-                    "locus": "f. 79r",
-                    "as_written": "تمّت (f. 62r)؛ نجزت"
-                }
-            ]
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 79r",
+          "as_written": "نجزت\n"
         }
-    ],
-    "parent": [
-        "ark:/21198/s1991z"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1991z"
+  ]
 }

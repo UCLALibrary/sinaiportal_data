@@ -1,112 +1,59 @@
 {
-    "ark": "ark:/21198/s18607",
-    "reconstruction": false,
-    "label": "Sinai Arabic 304, Overtext (Naskh, Thuluth)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s18607",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 304, Overtext (Naskh, Thuluth)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                },
-                {
-                    "id": "thuluth",
-                    "label": "Thuluth",
-                    "writing_system": "Arabic"
-                }
-            ],
-            "note": [
-                "Change of hands starting round f. 278v; larger, unrubricated headings from then onwards",
-                "Thuluth used for headings on ff. 280v, 283v, 288r, 290v, 294r, 293v, 297v, 303r, 302v, 307r, 307v, 313r, 317r"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s12s9n",
-            "label": "Item 1"
-        }
-    ],
-    "features": [
-        {
-            "id": "colophon",
-            "label": "Colophon"
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         },
         {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "toc",
-            "label": "Table(s) of Contents"
+          "id": "thuluth",
+          "label": "Thuluth",
+          "writing_system": "Arabic"
         }
-    ],
-    "para": [
+      ],
+      "note": [
+        "Change of hands starting round f. 278v; larger, unrubricated headings from then onwards",
+        "Thuluth used for headings on ff. 280v, 283v, 288r, 290v, 294r, 293v, 297v, 303r, 302v, 307r, 307v, 313r, 317r"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s12s9n",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 317r",
+      "lang": [
         {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "f. 317r",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "translation": [
-                "The copying finished on [difficult to read], which fell on 18 in the month of Shawwāl in 640 of the Hegira [AH]"
-            ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1223 CE",
-            "iso": {
-                "not_before": "1223"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "contents",
-                "label": "Contents Note"
-            },
-            "value": "Table of contents, ff. 318v-321v"
-        },
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Geometric decoration on f. 317v I minor headpiece, f. 318v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1sb593f"
-    ]
+      ],
+      "translation": [
+        "The copying finished on [difficult to read], which fell on 18 in the month of Shawwāl in 640 of the Hegira [AH]"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1sb593f"
+  ]
 }

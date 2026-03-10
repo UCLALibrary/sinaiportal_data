@@ -1,0 +1,100 @@
+{
+  "ark": "ark:/21198/s1965f",
+  "reconstruction": false,
+  "label": "Various works: John Climax, Barlaam, and Mark of Seeds",
+  "locus": "ff. 1r-217v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Portion of a text concerning John Climax",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 1r-2r"
+    },
+    {
+      "work": {
+        "desc_title": "Letters of John of Raithu and John Climax",
+        "creator": [
+          "ark:/21198/s1d30f"
+        ],
+        "genre": [
+          {
+            "id": "correspondence",
+            "label": "Epistolary texts"
+          },
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 2r-4v"
+    },
+    {
+      "work": {
+        "desc_title": "Treatise of John Climax in thirty mimars",
+        "creator": [
+          "ark:/21198/s1d30f"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 4v-186r"
+    },
+    {
+      "work": {
+        "desc_title": "Mimar thirty-one of John Climax",
+        "creator": [
+          "ark:/21198/s1d30f"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 187r-201v"
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s13g6q"
+      },
+      "alt_title": "Life of St. Barlaam",
+      "locus": "ff. 202r-211v"
+    },
+    {
+      "work": {
+        "desc_title": "Life of St. Mark of Seeds",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 211v-217v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1gk65"
+  ]
+}

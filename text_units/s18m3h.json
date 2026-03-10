@@ -1,47 +1,47 @@
 {
-    "ark": "ark:/21198/s18m3h",
-    "reconstruction": false,
-    "label": "Homily on the death of the Lord, on the Mother of God and on Symeon [Spurious]",
-    "lang": [
-        {
-            "id": "gree1276",
-            "label": "Greek"
-        }
+  "ark": "ark:/21198/s18m3h",
+  "reconstruction": false,
+  "label": "Homily on the death of the Lord, on the Mother of God and on Symeon [Spurious]",
+  "lang": [
+    {
+      "id": "gree1276",
+      "label": "Greek"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "John Chrysostom, Homily on the death of the Lord, on the Mother of God, and on Symeon",
+        "creator": [
+          "ark:/21198/s1x303"
+        ],
+        "genre": [
+          {
+            "id": "sermons",
+            "label": "Sermons"
+          },
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          }
+        ]
+      }
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "John Chrysostom, Homily on the death of the Lord, on the Mother of God, and on Symeon",
-                "creator": [
-                    "ark:/21198/s1x303"
-                ],
-                "genre": [
-                    {
-                        "id": "sermons",
-                        "label": "Sermons"
-                    },
-                    {
-                        "id": "theological-works",
-                        "label": "Theological works"
-                    },
-                    {
-                        "id": "commentaries",
-                        "label": "Commentaries"
-                    }
-                ]
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Pasquale Orsini"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1mm1v"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1mm1v"
+  ]
 }

@@ -1,0 +1,72 @@
+{
+  "ark": "ark:/21198/s1462r",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 77, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1xt1q",
+      "label": "Item 1",
+      "locus": "ff. 1r-284v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 284v-285r",
+      "lang": [
+        {
+          "id": "class1252",
+          "label": "Syriac"
+        }
+      ],
+      "assoc_name": [
+        {
+          "value": "Shem`on b. Ma`la, from Ma`lula",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1237 CE",
+          "iso": {
+            "not_before": "1237"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "5 July AM 6745 (= 1237)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1bz7vgx"
+  ]
+}

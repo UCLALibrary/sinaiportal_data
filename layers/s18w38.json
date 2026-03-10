@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s18w38",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 363, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s13h2j",
+      "label": "Item 1",
+      "locus": "ff. 1r-300v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 300r-300v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "نجز المسائل الروحانية والأوضاع الربانية للأب الكبير والقديس المنير أبا برصنوفيوس الخطير الأخ الذي سأله إياها السلامة نفسه نهار الجمعة في سادس ساعة من النهار ثالث وعشرين كانون الأول سنة ستة آلاف وسبعمائة وسبعين للعالم ",
+      "assoc_date": [
+        {
+          "value": "1262 CE",
+          "iso": {
+            "not_before": "1262"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Friday 23 Kanun I 6770 (world)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1rv26fd"
+  ]
+}

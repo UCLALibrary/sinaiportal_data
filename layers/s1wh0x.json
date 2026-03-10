@@ -1,62 +1,43 @@
 {
-    "ark": "ark:/21198/s1wh0x",
-    "reconstruction": false,
-    "label": "Sinai Georgian 49, Undertext (Greek majuscule)",
-    "locus": "ff. 57–62, 64–73, 78–95, 112–119",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1wh0x",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Georgian 49, Undertext (Greek majuscule)",
+  "locus": "ff. 57–62, 64–73, 78–95, 112–119",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "greek-maj",
-                    "label": "Greek majuscule",
-                    "writing_system": "Greek"
-                }
-            ],
-            "note": [
-                "Sloping pointed majuscule | Light contrast between thick and thin strokes; omega (in some cases also omicron) raised above the base line"
-            ]
+          "id": "greek-maj",
+          "label": "Greek majuscule",
+          "writing_system": "Greek"
         }
+      ],
+      "note": [
+        "Sloping pointed majuscule | Light contrast between thick and thin strokes; omega (in some cases also omicron) raised above the base line"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1jh5q",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1jh5q",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "Mid 6th - mid 7th c.  CE",
-            "iso": {
-                "not_before": "0551",
-                "not_after": "0650"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "The Greek undertext folios of Sinai Georgian NF frag 73a (fols. 1r-4v) belong to the same original manuscript"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Pasquale Orsini"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z12v3d24"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z12v3d24",
+    "ark:/21198/z1r60gq0"
+  ]
 }

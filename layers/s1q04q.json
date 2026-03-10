@@ -1,125 +1,61 @@
 {
-    "ark": "ark:/21198/s1q04q",
-    "reconstruction": false,
-    "label": "Sinai Syriac 90, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1q04q",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 90, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1hm29",
+      "label": "Item 1",
+      "locus": "ff. 1v-278r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "278r",
+      "lang": [
         {
-            "id": "ark:/21198/s1hm29",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "ܫܠܡ ܒܥܘܕܪܢ ܐܠܗܐ ܟܬܒܐ ܗܢܐ ܡܟܢܫ ܡܥܕܥ̈ܝܢܢ ܕܟܠܗ̇ ܫܢܬܐ ܕܡܪܐܢܝܐ ܘܝܠܕܬ ܐܠܗܐ ܘܢܘܚܢܢ ܡܥܡ̄ܕ ܘܫ̈ܠܝܚܐ ܘܩܢܘܝܐ ܕܬܝܒ̄ܘ ܝܘܡ ܗ̄ ܟܟ̄ ܒܝܪܚܐ ܐܒ ܫܢܬܐ ܫܬ ܐܠܦܝܢ ܘܫܒܥܡ̈ܐ ܘܫܒ̈ܥܝܢ ܘܬܠܬܐ ܠܐܒܘܢ ܐܕܡ. ܒܕܝܪܐ ܩܕܝܫܐ ܘܛܘܪܐ ܕܐܠܗܐ ܛܘܪ ܣܝܢܐ ܡܩܕܫܐ: ܐܝܟ ܕܠܗܕܪܐ ܘܐܝܩܪܐ ܘܬܫܒ̄ܘ ܕܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ ܘܫܘܝܬ ܒܐܘܣܝܐ. ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܩܘܕܫܐ: ܟܬܒܗ ܕܝܢ ܐܢܫ ܚܛܝܐ ܘܕܘܐ ܡܢ ܟܠ. ܘܠܐ ܫ̇ܘܐ ܕܝܬܩܪܐ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ ܡܢ ܩܪܝܬܐ ܡܚܪܕܗ ܒܐܬܪܐ ܕܫܝܙܪ: ܟܬܒܗ ܠܩܫܝܫܐ ܫܡܥܘܢ ܕܝܪܝܐ ܒܛܘܪ ܣܝܢܐ ܐܠܗܐ ܢܚܣܐ ܠܗ ܘܠܟܬܘܒܐ ܘܢܫܐܠ ܟܠܡ̇ܢ ܕܩܪܐ ܒܗ ܐܘܟܬܒ ܡܢܗ ܐܬܕܟܪ ܠܗ ܒܪ̈ܚܡܐ ܘܫܘܒܩܢܐ ܕܚܛܗ̈ܐ܀ ܒܬܟܫܦܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܡܪܝ ܡܘܫܐ ܘܐܠܝܐ ܘܟܠܗܘܢ ܩ̈ܕܝܫܐ ܘܩܕܝܫ̈ܬܐ ܐܡܝܢ وقف علي كنيسه السيدة بطور سينا",
+      "assoc_name": [
         {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "border-deco",
-            "label": "Border(s), Decorative"
-        },
-        {
-            "id": "deco-architectural",
-            "label": "Decoration, Architectural"
-        },
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "deco-vegetative",
-            "label": "Decoration, Vegetative"
-        },
-        {
-            "id": "deco-calligraphic",
-            "label": "Decoration, Calligraphic"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
+          "value": "John b.Mansur, hieromonk Shem‘u",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "278r",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܫܠܡ ܒܥܘܕܪܢ ܐܠܗܐ ܟܬܒܐ ܗܢܐ ܡܟܢܫ ܡܥܕܥ̈ܝܢܢ ܕܟܠܗ̇ ܫܢܬܐ ܕܡܪܐܢܝܐ ܘܝܠܕܬ ܐܠܗܐ ܘܢܘܚܢܢ ܡܥܡ̄ܕ ܘܫ̈ܠܝܚܐ ܘܩܢܘܝܐ ܕܬܝܒ̄ܘ ܝܘܡ ܗ̄ ܟܟ̄ ܒܝܪܚܐ ܐܒ ܫܢܬܐ ܫܬ ܐܠܦܝܢ ܘܫܒܥܡ̈ܐ ܘܫܒ̈ܥܝܢ ܘܬܠܬܐ ܠܐܒܘܢ ܐܕܡ. ܒܕܝܪܐ ܩܕܝܫܐ ܘܛܘܪܐ ܕܐܠܗܐ ܛܘܪ ܣܝܢܐ ܡܩܕܫܐ: ܐܝܟ ܕܠܗܕܪܐ ܘܐܝܩܪܐ ܘܬܫܒ̄ܘ ܕܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ ܘܫܘܝܬ ܒܐܘܣܝܐ. ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܩܘܕܫܐ: ܟܬܒܗ ܕܝܢ ܐܢܫ ܚܛܝܐ ܘܕܘܐ ܡܢ ܟܠ. ܘܠܐ ܫ̇ܘܐ ܕܝܬܩܪܐ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ ܡܢ ܩܪܝܬܐ ܡܚܪܕܗ ܒܐܬܪܐ ܕܫܝܙܪ: ܟܬܒܗ ܠܩܫܝܫܐ ܫܡܥܘܢ ܕܝܪܝܐ ܒܛܘܪ ܣܝܢܐ ܐܠܗܐ ܢܚܣܐ ܠܗ ܘܠܟܬܘܒܐ ܘܢܫܐܠ ܟܠܡ̇ܢ ܕܩܪܐ ܒܗ ܐܘܟܬܒ ܡܢܗ ܐܬܕܟܪ ܠܗ ܒܪ̈ܚܡܐ ܘܫܘܒܩܢܐ ܕܚܛܗ̈ܐ܀ ܒܬܟܫܦܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܡܪܝ ܡܘܫܐ ܘܐܠܝܐ ܘܟܠܗܘܢ ܩ̈ܕܝܫܐ ܘܩܕܝܫ̈ܬܐ ܐܡܝܢ وقف علي كنيسه السيدة بطور سينا",
-            "assoc_name": [
-                {
-                    "value": "John b.Mansur, hieromonk Shem‘u",
-                    "role": {
-                        "id": "scribe",
-                        "label": "Scribe"
-                    }
-                }
-            ],
-            "note": [
-                "Attested places:  from Muhardeh, region of Shayzar, for hieromonk Shem‘un, on Sinai"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1265 CE",
-            "iso": {
-                "not_before": "1265"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Ornate arched headpiece, bordered, vine motif, f. 1v | Geometric headpiece, ff. 51v, 121r, repeating blocks, red ink | Minor geometric and vegetative headpieces throughout"
-        },
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Minor decorated calligraphy"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1h43951"
-    ]
+      ],
+      "note": [
+        "Attested places:  from Muhardeh, region of Shayzar, for hieromonk Shem‘un, on Sinai"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1h43951"
+  ]
 }

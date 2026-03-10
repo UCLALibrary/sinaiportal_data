@@ -1,97 +1,47 @@
 {
-    "ark": "ark:/21198/s1mk6d",
-    "reconstruction": false,
-    "label": "Sinai Arabic 69, Overtext (Undetermined (Arabic))",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1mk6d",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 69, Overtext (Undetermined (Arabic))",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "arabic-undetermined",
-                    "label": "Undetermined (Arabic)",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1f348",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 155r",
+      "lang": [
         {
-            "id": "ark:/21198/s1f348",
-            "label": "Item 1"
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "features": [
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "initials-deco",
-            "label": "Initial(s), Decorated"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "deco-vegetative",
-            "label": "Decoration, Vegetative"
-        },
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "f. 155r",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1065 CE",
-            "iso": {
-                "not_before": "1065"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Minor geometric and vegetative headpieces, ff. 5r, 47v, 75r, 119r | Decorated Greek initials, ff. 1v, 3v, 4r, 157r, 157v, 158v, 159v, vegetative motifs"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1df7vgc"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1df7vgc"
+  ]
 }

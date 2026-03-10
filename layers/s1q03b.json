@@ -1,0 +1,67 @@
+{
+  "ark": "ark:/21198/s1q03b",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 626, Overtext (Naskh, Thuluth)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        },
+        {
+          "id": "thuluth",
+          "label": "Thuluth",
+          "writing_system": "Arabic"
+        }
+      ],
+      "note": [
+        "Section headings written with thuluth"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1hm1x",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 231r-231v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "translation": [
+        "The completion of [the copying of] this blessed book occurred during the day on Wednesday 19 in the month of holy Iyār [May] in the Year of Our Father Adam, the best of peace be upon him, [Anno Mundi] 7233 by … Michael a clergyman …"
+      ],
+      "assoc_name": [
+        {
+          "value": "Michael (f. 231r)",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1r79jm7"
+  ]
+}

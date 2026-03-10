@@ -1,23 +1,26 @@
 {
-    "ark": "ark:/21198/s1wm0z",
-    "reconstruction": false,
-    "label": "Synaxarium, Part I",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1h30c"
-            },
-            "alt_title": "Synaxarium, Part I",
-            "locus": "ff. 1v-206v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s13311"
-    ]
+  "ark": "ark:/21198/s1wm0z",
+  "reconstruction": false,
+  "label": "Synaxarium, Part I",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1h30c"
+      },
+      "alt_title": "Synaxarium, Part I",
+      "locus": "ff. 1v-206v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s13311"
+  ]
 }

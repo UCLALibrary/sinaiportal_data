@@ -1,71 +1,52 @@
 {
-    "ark": "ark:/21198/s1nd13",
-    "reconstruction": false,
-    "label": "Sinai Greek NF M 90, Undertext (Undetermined (Geʽez))",
-    "locus": "ff. 1, 7",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1nd13",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Greek NF M 90, Undertext (Undetermined (Geʽez))",
+  "locus": "ff. 1, 7",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "geez-undetermined",
-                    "label": "Undetermined (Geʽez)",
-                    "writing_system": "Ge'ez"
-                }
-            ],
-            "note": [
-                "Fine, trained hand"
-            ]
+          "id": "geez-undetermined",
+          "label": "Undetermined (Geʽez)",
+          "writing_system": "Ge'ez"
         }
+      ],
+      "note": [
+        "Fine, trained hand"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "24 lines",
+      "note": [
+        "Each column has about seven letters, thus, with 24 lines, each column could hold around 168 letters"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s19d5h",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "2 columns",
-            "lines": "24 lines",
-            "note": [
-                "Each column has about seven letters, thus, with 24 lines, each column could hold around 168 letters"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s19d5h",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "Before the 13th c. CE",
-            "iso": {
-                "not_before": "0600",
-                "not_after": "1300"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Clearly from a different book than the other two UTOs in this codex; layout, size of letters, and ductus are all distinct"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Steve Delamarter, Getatchew Haile"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1b289w3"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1b289w3",
+    "ark:/21198/z12s4hp4"
+  ]
 }

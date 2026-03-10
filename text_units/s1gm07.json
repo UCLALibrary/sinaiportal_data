@@ -1,0 +1,89 @@
+{
+  "ark": "ark:/21198/s1gm07",
+  "reconstruction": false,
+  "label": "Varia",
+  "locus": "ff. 1r-139v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Acts of the Apostles and Seven Epistles",
+        "genre": [
+          {
+            "id": "biblical-texts",
+            "label": "Biblical texts"
+          },
+          {
+            "id": "correspondence",
+            "label": "Epistolary texts"
+          }
+        ]
+      },
+      "locus": "ff. 1r-97r",
+      "contents": [
+        {
+          "label": "Acts of the Apostles, ff. 1r-57r"
+        },
+        {
+          "label": "Epistle of James, ff. 57r-65v"
+        },
+        {
+          "label": "First Epistle of Peter, ff. 65v-76r"
+        },
+        {
+          "label": "Second Epistle of Peter, ff. 76r-82v"
+        },
+        {
+          "label": "First Epistle of John, ff. 83r-92r"
+        },
+        {
+          "label": "Second Epistle of John, ff. 92r-93r"
+        },
+        {
+          "label": "Second [sic] Epistle of John, ff. 93r-94r"
+        },
+        {
+          "label": "Epistle of Jude, ff. 94r-97r"
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "Apophthegmata selected from the Paradise of the Fathers",
+        "genre": [
+          {
+            "id": "apophthegmata",
+            "label": "Apophthegmata"
+          }
+        ]
+      },
+      "locus": "ff. 97v-98v"
+    },
+    {
+      "work": {
+        "desc_title": "Anonymous Sermon",
+        "genre": [
+          {
+            "id": "sermons",
+            "label": "Sermons"
+          }
+        ]
+      },
+      "locus": "ff. 99r-139v",
+      "note": [
+        "References to the Prophets in rubrics throughout the text"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1p319"
+  ]
+}

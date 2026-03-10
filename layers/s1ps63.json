@@ -1,38 +1,33 @@
 {
-    "ark": "ark:/21198/s1ps63",
-    "reconstruction": false,
-    "label": "Sinai Syriac NF X 2, Overtext (Estrangela)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1ps63",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac NF X 2, Overtext (Estrangela)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "estrangela",
-                    "label": "Estrangela",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "estrangela",
+          "label": "Estrangela",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1n38n",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_name": [
-        {
-            "id": "ark:/21198/s1t598",
-            "role": {
-                "id": "scribe",
-                "label": "Scribe"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1bs0rqf"
-    ]
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1n38n",
+      "label": "Item 1",
+      "locus": "ff. 1r-55v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1bs0rqf"
+  ]
 }

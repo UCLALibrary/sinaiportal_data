@@ -1,37 +1,30 @@
 {
-    "ark": "ark:/21198/s1mm6r",
-    "reconstruction": false,
-    "label": "Acts of Thomas",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
+  "ark": "ark:/21198/s1mm6r",
+  "reconstruction": false,
+  "label": "Acts of Thomas",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1w014"
+      }
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1w014"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Sebastian Brock"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: A. S. Lewis, Acta Mythologica Apostolorum, Horae Semiticae 3-4 (Cambridge, 1904), 192*-228* (Horae Semiticae 3, text; Horae Semiticae 4, xi, xxxix-xlii, 223-241, introduction and translation) ; earlier very partial edition by F. C. Burkitt in A. S. Lewis, Select Narratives of Holy Women, Studia Sinaitica 9 (London, 1900), Appendix VII, 23-44"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1zk9n"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1zk9n"
+  ]
 }

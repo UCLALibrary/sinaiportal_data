@@ -1,0 +1,87 @@
+{
+  "ark": "ark:/21198/s13g73",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 314, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1x36c",
+      "label": "Item 1",
+      "locus": "ff. 1r-429v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 223r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "كان الفراغ من نساخة هذا الكتاب المبارك كتاب أبينا الجليل في القديسين كنز العلوم ومأوى الفضائل أبينا القديس مار افرام السرياني رحمنا الرب بصلواته المقدسة آمين على يد العبد الفقير الذليل المحتاج إلى رحمة الله تعالى وغفره العبد الخاطئ حبيب بإسم قسيس ابن الأب السيد الأسقف كير مقاريوس ابن حبيب من مدينة قارا وذلك نهار السبت المبارك أول تشرين الثاني سنة ستة آلاف وتسعمائة اثنين وتسعين لأبينا آدم عليه السلام وكان المهتم والمعتني بهذا الكتاب المقدس العبد الفقير إلى رحمة الله تعالى فرح الله ابن المرحوم يوسف الشهير بالراهب غفر الله له ولوالديه ولجميع بني المعمودية الارثوذكسية آمين / أيها المتأمل لأجل السيد المسيح  ان وجدت نقص وقلة فهم وغباه من الكتاب المسكين فأصلحه لأجل الله فان كل أحد ناقص والتهام لله وحده والرب الإله المسيح لكل لسان يغفر للكاتب المسكين والقارئ والسامع والقائل امين بشفاعة الست السيدة والقديس العظيم مار افرام السرياني صاحب هذا الكتاب المقدس وجميع القديسين والشهداء والرسل والأنبياء ورئيسا الكهنة والقديسات وكل القديسين الذين ذكرناهم والذين لم نذكرهم آمين آمين آمين",
+      "assoc_name": [
+        {
+          "value": "Habib, son of Qassis, son of Bishop Kyr Makarios, son of Habib, from Qara",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        },
+        {
+          "value": "Farah Allah, son of the late Yūsuf (the monk)",
+          "role": {
+            "id": "patron",
+            "label": "Patron"
+          }
+        },
+        {
+          "value": "St. Ephrem the Syrian",
+          "role": {
+            "id": "dedicatee",
+            "label": "Dedicatee"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1414 CE",
+          "iso": {
+            "not_before": "1414"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Saturday 1 Tishrin II 6992 (adam)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1qg0bgn"
+  ]
+}

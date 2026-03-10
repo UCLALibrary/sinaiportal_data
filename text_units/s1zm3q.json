@@ -1,38 +1,34 @@
 {
-    "ark": "ark:/21198/s1zm3q",
-    "reconstruction": false,
-    "label": "Months of the Zodiac",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
+  "ark": "ark:/21198/s1zm3q",
+  "reconstruction": false,
+  "label": "Months of the Zodiac",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Months of the Zodiac"
+      },
+      "alt_title": "Heavenly Months",
+      "note": [
+        "A simple list of the months of the Zodiac (original title: \"Heavenly Months\") from Aries to Pisces. Here is a transcription: الشهور السماوية"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Months of the Zodiac"
-            },
-            "alt_title": "Heavenly Months"
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "contents",
-                "label": "Contents Note"
-            },
-            "value": "A simple list of the months of the Zodiac (original title: \"Heavenly Months\") from Aries to Pisces. Here is a transcription: الشهور السماوية\nالاول ...، الثاني: الثور،\nالثالي: التوامين، الرابع: السرطان،\nالخامس: الاسد، السادس العذرا،\n[السابع:] الميزان، الثامن: العقرب،\nالتاسع: الرامي، العاشر: الجدي،\n... الثاني عشر: الحوت"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Alexander Treiger"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s19k9r"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s19k9r"
+  ]
 }

@@ -1,0 +1,75 @@
+{
+  "ark": "ark:/21198/s1x036",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 507, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1qm1s",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 107ar",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "نجز هذا الكتاب تفسير الأناجيل المقدسة في نهار اليوم أحد الزيتونة إلى يوم نهار أحد الفصح المقدس الذي به كان خلاص بني المعمودية الأرثوذكسية عاشر يوم مضت في شهر نيسان سنة ست آلاف وتسعمائة احد وثمانين على يد الحقير الساقط  افرام بالذي راهب وذلك في طور سيناء المقدس",
+      "assoc_name": [
+        {
+          "value": "Ephrem (monk)",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1273 CE",
+          "iso": {
+            "not_before": "1273"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Sunday 10 Nisan 6981"
+          ]
+        }
+      ],
+      "note": [
+        "Attested places:  Mount Sinai"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1mk7xgf"
+  ]
+}

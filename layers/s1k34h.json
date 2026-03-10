@@ -1,64 +1,33 @@
 {
-    "ark": "ark:/21198/s1k34h",
-    "reconstruction": false,
-    "label": "Sinai Syriac 127, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1k34h",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 127, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1cq23",
-            "label": "Item 1"
-        }
-    ],
-    "features": [
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1294 CE",
-            "iso": {
-                "not_before": "1294"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Ornate headpiece on f. 4r, two large knots in the center, two leaves, fleur de lis and cross motifs, bordered by knotwork, with an elevated cross | Minor geometric headpieces throughout, beginning on f. 8r I Geometric headpieces, cross motif, red and black ink, ff. 169r, 177v, 186v, 199v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1bg3sbz"
-    ]
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1cq23",
+      "label": "Item 1",
+      "locus": "ff. 4r-199v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1bg3sbz"
+  ]
 }

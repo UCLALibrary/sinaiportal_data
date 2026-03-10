@@ -1,28 +1,54 @@
 {
-    "ark": "ark:/21198/s1tt1s",
-    "reconstruction": false,
-    "label": "Services",
-    "lang": [
+  "ark": "ark:/21198/s1tt1s",
+  "reconstruction": false,
+  "label": "Services",
+  "locus": "ff. 1r-220r",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Services",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          }
+        ]
+      },
+      "locus": "ff. 1r-220r",
+      "excerpt": [
         {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "as_written": "ܩܕܡܝܐܝܬ ܚܕܒܫ‍(‍ܒܐ) ܪܒܐ ܕܦܨܚܐ ܣܒܪܬܐ ܒܟܘܗܢܐ ܡܢ ܝܘܚܢܢ ܒܪܫܝܬ ܐܝܬܘܗܝ ܗܘܐ ܡܠܬܐ",
+          "note": [
+            "Corresponds to Jn 1:1"
+          ]
+        },
         {
-            "work": {
-                "desc_title": "Services",
-                "genre": [
-                    {
-                        "id": "liturgical-texts",
-                        "label": "Liturgical texts"
-                    }
-                ]
-            },
-            "locus": "ff. 1r-220r"
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "as_written": "ܕܫܡܥܘܢ ܗܘܬ ܟܐܦܐ: ܘܤܠܩ",
+          "note": [
+            "Corresponds to Lk 5:3"
+          ]
         }
-    ],
-    "parent": [
-        "ark:/21198/s1191g"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1191g"
+  ]
 }

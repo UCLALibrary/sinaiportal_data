@@ -1,0 +1,41 @@
+{
+  "ark": "ark:/21198/s14d2t",
+  "reconstruction": false,
+  "label": "Lectionaries",
+  "locus": "ff. 2r-58r",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    },
+    {
+      "id": "gree1276",
+      "label": "Greek"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1088g"
+      },
+      "alt_title": "Lectionary of Epistles",
+      "locus": "Ff. 2r-57v"
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1088g"
+      },
+      "alt_title": "Lectionary of Gospels and Epistles",
+      "locus": "Ff. 98v-58r",
+      "note": [
+        "Lectionary for certain feast days only"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s19s3j"
+  ]
+}

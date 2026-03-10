@@ -1,61 +1,48 @@
 {
-    "ark": "ark:/21198/s1pd1d",
-    "reconstruction": false,
-    "label": "Sinai Greek 925, Overtext (Greek minuscule)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1pd1d",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Greek 925, Overtext (Greek minuscule)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "greek-min",
-                    "label": "Greek minuscule",
-                    "writing_system": "Greek"
-                }
-            ],
-            "note": [
-                "Change in scribal hand from ff. 80-87"
-            ]
+          "id": "greek-min",
+          "label": "Greek minuscule",
+          "writing_system": "Greek"
         }
+      ],
+      "note": [
+        "Change in scribal hand from ff. 80-87"
+      ]
+    }
+  ],
+  "ink": [
+    {
+      "color": [
+        "light-brown"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1h08c",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "ink": [
-        {
-            "color": [
-                "light-brown"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1h08c",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "10th-11th c.  CE",
-            "iso": {
-                "not_before": "0901",
-                "not_after": "1100"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Dating of manuscript supplied by by Harlfinger"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1s477kk"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1s477kk"
+  ]
 }

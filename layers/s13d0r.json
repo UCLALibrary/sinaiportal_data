@@ -1,86 +1,62 @@
 {
-    "ark": "ark:/21198/s13d0r",
-    "reconstruction": false,
-    "label": "Sinai Syriac 256, Overtext (East Syriac)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s13d0r",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 256, Overtext (East Syriac)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "east-syriac",
-                    "label": "East Syriac",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "East Syriac with vocalization"
-            ]
+          "id": "east-syriac",
+          "label": "East Syriac",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ],
+      "note": [
+        "East Syriac with vocalization"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1x09g",
+      "label": "Item 1",
+      "locus": "ff. 1v-170v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "169v-170r",
+      "lang": [
         {
-            "id": "ark:/21198/s1x09g",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "ܫܩ̣ܠ ܕܝܢ ܣܘ̣ܝܵܟܐ ܕܬܵܒܐ ܗܵܢܐ ܒܫܢ̤ܬ ܐܵܠ̤ܦ ܘܚܲܡ̤ܫ ܡܐܐ ܘܚܲܡܫܝ̣ܢ ܘܬܪܬܹ̇ܝܢ ܕܢܵܘܢ̈ܝܐ. ܘܒܣܗܪܐ ܕܘ̣ܐ ܠܩܲܢܕܗ ܕܡ̣ܢ ܫܢ̤ܬ ܫ̤ܬ ܡ̇ܐܐ ܘܬܠܬܝ̣ܢ ܘܬܡܝ̤ܐ ܕܟ̈ܚܐ ܒܪ̈ܝܟܐ. ܒܝܵܘܡ̈ܝ ܪ̈ܥܘܵܬܐ ܟܲܫܝܼܪ̈ܐ ܘܐܒܗ̈ܬܐ ܩܲܕܝ̈ܫܐ. ܡܵܪܝ ܣܲܒܪܝ̤ܫܘ̇ܥ ܩܬܘܠܝ̣ܩܵܐ ܦܛܪܝܪܟܝܣ ܕܡܕ̇ܢ̱ܚܵܐ. ܘܡܵܪܝ ܝ̤ܫܘ̇ܥܝܗܒ̣ ܐܦܣܩܘ̇ܦܐ ܡܛܪܦܘܠܝܛܝܣ ܕܨܘܼܒ݂ܵܐ ܘܕܐܡܵܢܝܐ. ܘܡܵܪܝܐ ܠܫܘ̣ܒܗܪܐ ܕܥܕܬܗ ܦܵܘܠܘܣܝܬܐ. ܘܠܫܘ̣ܪܪ ܬܵܘܕܝ̣ܬ݂ܵܐ ܦܛܪܘܣܝ̇ܬܐ ܐܵܡܹܝܢ. ܒܐܝܕ̈ܝ ܚܛܵܝܐ ܘܡ̤ܣܟܢܐ ܘܕܘ̇ܝܐ. ܘܡܨܝܪܐ ܘܚܒܢܢ̇ܐ ܢܵܦܬ݂ܵܐ ܕܟܠܗܘܢ ܒܢܝܢ̈ܫܐ ܐܫܡܵܥܝ݂ܠ ܒܪܗ ܕܐܒܘ ܐܠܦܕܠ. ܡܪܝܐ ܢܚܣ̤ܐ ܠ̤ܗ ܚܘܒ̈ܘܝܗ ܘܢܫܒܘܩ ܚܛܗ̈ܘܗܝ ܒܝܘܡ ܦܘ̣ܪܥܵܢܐ ܕܥܡ̈ܠܐ ܐܡܹܝܢ܀",
+      "assoc_name": [
         {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
+          "value": "Ishmael bar El-Fadel",
+          "as_written": "ܐܫܡܥܝܠ ܒܪܗ ܕܐܒܘ ܐܠܦܕܠ",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "169v-170r",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܫܩ̣ܠ ܕܝܢ ܣܘ̣ܝܵܟܐ ܕܬܵܒܐ ܗܵܢܐ ܒܫܢ̤ܬ ܐܵܠ̤ܦ ܘܚܲܡ̤ܫ ܡܐܐ ܘܚܲܡܫܝ̣ܢ ܘܬܪܬܹ̇ܝܢ ܕܢܵܘܢ̈ܝܐ. ܘܒܣܗܪܐ ܕܘ̣ܐ ܠܩܲܢܕܗ ܕܡ̣ܢ ܫܢ̤ܬ ܫ̤ܬ ܡ̇ܐܐ ܘܬܠܬܝ̣ܢ ܘܬܡܝ̤ܐ ܕܟ̈ܚܐ ܒܪ̈ܝܟܐ. ܒܝܵܘܡ̈ܝ ܪ̈ܥܘܵܬܐ ܟܲܫܝܼܪ̈ܐ ܘܐܒܗ̈ܬܐ ܩܲܕܝ̈ܫܐ. ܡܵܪܝ ܣܲܒܪܝ̤ܫܘ̇ܥ ܩܬܘܠܝ̣ܩܵܐ ܦܛܪܝܪܟܝܣ ܕܡܕ̇ܢ̱ܚܵܐ. ܘܡܵܪܝ ܝ̤ܫܘ̇ܥܝܗܒ̣ ܐܦܣܩܘ̇ܦܐ ܡܛܪܦܘܠܝܛܝܣ ܕܨܘܼܒ݂ܵܐ ܘܕܐܡܵܢܝܐ. ܘܡܵܪܝܐ ܠܫܘ̣ܒܗܪܐ ܕܥܕܬܗ ܦܵܘܠܘܣܝܬܐ. ܘܠܫܘ̣ܪܪ ܬܵܘܕܝ̣ܬ݂ܵܐ ܦܛܪܘܣܝ̇ܬܐ ܐܵܡܹܝܢ. ܒܐܝܕ̈ܝ ܚܛܵܝܐ ܘܡ̤ܣܟܢܐ ܘܕܘ̇ܝܐ. ܘܡܨܝܪܐ ܘܚܒܢܢ̇ܐ ܢܵܦܬ݂ܵܐ ܕܟܠܗܘܢ ܒܢܝܢ̈ܫܐ ܐܫܡܵܥܝ݂ܠ ܒܪܗ ܕܐܒܘ ܐܠܦܕܠ. ܡܪܝܐ ܢܚܣ̤ܐ ܠ̤ܗ ܚܘܒ̈ܘܝܗ ܘܢܫܒܘܩ ܚܛܗ̈ܘܗܝ ܒܝܘܡ ܦܘ̣ܪܥܵܢܐ ܕܥܡ̈ܠܐ ܐܡܹܝܢ܀",
-            "assoc_name": [
-                {
-                    "value": "Ishmael bar El-Fadel",
-                    "as_written": "ܐܫܡܥܝܠ ܒܪܗ ܕܐܒܘ ܐܠܦܕܠ",
-                    "role": {
-                        "id": "scribe",
-                        "label": "Scribe"
-                    }
-                }
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1240 CE",
-            "iso": {
-                "not_before": "1240"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1dn5pt3"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1dn5pt3"
+  ]
 }

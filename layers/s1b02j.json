@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s1b02j",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 320, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s14m2w",
+      "label": "Item 1",
+      "locus": "ff. 3r-209v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 195r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "وكان الفراغ من نسخة نهار الاحد الثالث عشر كانون الأول سنة أربع وأربعين [ستالف] وسبعمائة لأبينا آدم عليه السلام ",
+      "assoc_date": [
+        {
+          "value": "1236 CE",
+          "iso": {
+            "not_before": "1236"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "ٍSunday 13 Kanun I 6744 (adam)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z18s67k3"
+  ]
+}

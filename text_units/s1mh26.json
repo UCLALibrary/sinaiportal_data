@@ -1,32 +1,37 @@
 {
-    "ark": "ark:/21198/s1mh26",
-    "reconstruction": false,
-    "label": "Mimars (9) by Theodore Bishop of Harrān",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Mimars (9) by Theodore Bishop of Harrān",
-                "genre": [
-                    {
-                        "id": "theological-works",
-                        "label": "Theological works"
-                    },
-                    {
-                        "id": "mimars",
-                        "label": "Mimars"
-                    }
-                ]
-            },
-            "locus": "ff. 1r-207v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1t038"
-    ]
+  "ark": "ark:/21198/s1mh26",
+  "reconstruction": false,
+  "label": "Mimars (9) by Theodore Bishop of Harrān",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Mimars (9) by Theodore Bishop of Harrān",
+        "creator": [
+          "ark:/21198/s1059t"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 1r-207v",
+      "note": [
+        "Though not an exact copy, Sinai Arabic NF M 12 (ff. 4v-27v) contain a portion of this same text"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1t038"
+  ]
 }

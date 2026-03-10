@@ -1,108 +1,59 @@
 {
-    "ark": "ark:/21198/s1hs6j",
-    "reconstruction": false,
-    "label": "Sinai Syriac 210, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1hs6j",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 210, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1bd5t",
+      "label": "Item 1",
+      "locus": "ff. 1r-218r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "217v-218r",
+      "lang": [
         {
-            "id": "ark:/21198/s1bd5t",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "ܫܠܡ ܒܥ̣ܘܕܪܢ܀ ܐܠܗܐ ܠܗ ܫ̄ܘ ܘܥܠܝܢ ܪ̈ܚܡܘܗܝ ܀܀܀ ܘܨ̈ܠܘ ܥܠ ܚܛܝܐ ܕܟܬ̤ܒ ܐܠܗܐ ܢܚܣܐ ܠܗ̣ ܒܨܠܘܬ ܝܠܕܬ ܐܠܗܐ ܘܟܠܗܘܢ ܩܕܝܫ̈ܐ ܐܡܝܢ ܀܀܀ ܐܣܬܝܟ ܘܫܬܡܠܝ ܟܬܒܐ ܗܢܐ ܩܕܝܫܐ ܐܟܬܝܐܟ̄ܘ ܀ ܐܝܬܘܗܝ ܥܠ: ܚ̄: ܪ̈ܟܝܐ: ܠܩܝܡܬܐ ܘܩܕܝ̈ܫܐ. ܐܝܟ܀ ܀ ܛܟܣܐ ܕܥܕܬܐ ܩܕܝܫܬܐ܀ ܐܣܛܝܫ̄ܪܐ ܘܩܢ̈ܘܢܐ܀ ܢܣܒ ܫܘܠܡܐ: ܝܘܡ: ܓ̄: ܠܐܦ̈ܝ: ܘ̄: ܫ̈ܥܝܢ܀ ܀ ܚ̄: ܒܝܪܚܐ ܐܕܐܪ: ܐܫܢܬ̤܀ ܘ̄܀ ܐܠܦ̈ܐ܀ ܘܬ̤ܡܢ ܡ̈ܐܐ܀ ܘܬܠܬܐ܀ ܠܐܒܘܢ ܐܕܡ: ܘܫܢܬ: ܐܠܦ: ܘܟܠܟ ܡ̈ܐܐ: ܘܬܠܬܐ: ܠܡܘܠܕܗ̣ ܕܝܫܘܥ ܡܫܝܚܐ ܒܦܓܪܐ: ܘܫܢܬ̤ ܐܠܦ܀ ܫ̇ܬ܀ ܡܐܐ܀ ܘ̄܀ ܠܣܟܢܕܪ܀ ܝܘܢܝܐ܀ ܒܐܝܕܐ: ܐܢܫ ܡܚܝܠܐ ܘܚ̈ܛܝܐ ܘܒܨܝܪܐ ܡܢ ܟܠܗܘܢ ܥܒ̈ܕܐ ܛܒ̈ܐ. ܝܘܚܢܢ ܩܫܝܫܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ ܡܢ ܐܬܪܐ ܕܐܢܛܝܘܫܝܐ ܕܣܘܪܝܐ ܡܢ ܩܪܝܬܐ ܢܛܝܪܬ̤ ܡܢ ܐܠܗܐ ܡܥ̇ܪܫ̇ܡܣܝܢ ܐܬܟܬܒ ܒܕܝܪܐ ܩܕܝܫܐ ܛܘܪ ܣܝܢܝ݂ ܕܡܬܝܕܥ ܒܡܕܒܪܐ܀ ܒܝܘܡ̈ܝ ܐܦܣܩܘܦܣ: ܐܒܐ ܐܪܣܢܝܘܣ ܨܠܘܬܗ̣ ܬܗܘܐ ܡܠ ܫܘܪܐ ܟܬܒܗ̣ ܠܢܦܫܗ̣ ܕܢܬܒܝܐܝ ܒܗ̣ ܘܢܬܓ̇ܕܪܒܗ ܥܠ ܩܪ̈ܒܐ ܕܣܛܢܐ ܒܨܠܘܬܐ ܕܩܕܝܫܐ ܕܡܬܕܟܪ̈ܝܢ ܒܗ̣܀ ܐܠܐ ܐܚ̈ܝ̣ ܐܝ̈ܠܝܢ ܕܩܪ̈ܝܢ ܒܗ̣ ܐܘ ܡܬܢܗܪ̈ܝܢ ܡܢܗ̣ ܫܐܠ ܡܢ ܪ̈ܚܡܬܟܘܢ ܟܠ ܡܢ ܕܫܟܚ ܒܗ̣ ܦܘܕܐ ܐܘ ܓܠܛܐ ܐܘ ܡܕ̄ܡ ܕܚ̇ܣܝܪ ܢܬܪܨܗ̇ ܗܘ̣ ܒܡܗܝܪܘܬܗ̣. ܘܢܣܪܚ ܠܝ ܫܘܒܩܢܐ: ܡܛܠ ܕܐܢܐ ܝ̇ܠܘܦܐ ܘܠܐ ܟܬܘܒܐ. ܘܚܣܝܪ ܡܢ ܡܢ ܟܠܗܘܢ ܒܢܝܢ̈ܫܐ܀ ܐܠܗܐ ܗܘ̣ ܫܘܡܠܝܐ ܠܗ ܫ̄ܘ ܘܥܠܝܢ ܪ̈ܚܡܘܗܝ ܐܠܗܐ ܢܚܣܐ ܠܟܬܘܒܐ ܘܢܫܒܘܩ ܠܗ̣ ܣܘ̈ܓܐܐ ܕܚܘܒ̈ܘܗܝ ܘܢܢܚܝ̣ ܠܥܢܝ̈ܕܘܗܝ ܘܢܬܪܚܡ ܥܠ ܝܠܘܕܘܗܝ ܘܢܗܘܐ ܠܗ ܥܘܕܪܢܐ ܥܠ ܟܠܗܘܢ ܒܥܡܕܒ̈ܒܘܗܝ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝܫ̈ܐ ܐܡܝܢ ܘܐܡܝܢ: ܐܠܗܐ ܢܚܣܐ ܠܟܬܘܒܐ ܘܠܩܪܘܝܐ ܘܠܟܠ ܡܢ ܕܐܝܬ ܠܗ ܒܗ̣ ܫ̈ܘܬܦܘܬܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܟܠܗܘܢ ܩܕܝܫܐ ܐܡܝܢ ܘܐܡܢ:",
+      "assoc_name": [
         {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        },
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "deco-vegetative",
-            "label": "Decoration, Vegetative"
-        },
-        {
-            "id": "border-deco",
-            "label": "Border(s), Decorative"
+          "value": "Yuhannon the Priest",
+          "as_written": "ܝܘܚܢܢ ܩܫܝܫܐ ",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "217v-218r",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܫܠܡ ܒܥ̣ܘܕܪܢ܀ ܐܠܗܐ ܠܗ ܫ̄ܘ ܘܥܠܝܢ ܪ̈ܚܡܘܗܝ ܀܀܀ ܘܨ̈ܠܘ ܥܠ ܚܛܝܐ ܕܟܬ̤ܒ ܐܠܗܐ ܢܚܣܐ ܠܗ̣ ܒܨܠܘܬ ܝܠܕܬ ܐܠܗܐ ܘܟܠܗܘܢ ܩܕܝܫ̈ܐ ܐܡܝܢ ܀܀܀ ܐܣܬܝܟ ܘܫܬܡܠܝ ܟܬܒܐ ܗܢܐ ܩܕܝܫܐ ܐܟܬܝܐܟ̄ܘ ܀ ܐܝܬܘܗܝ ܥܠ: ܚ̄: ܪ̈ܟܝܐ: ܠܩܝܡܬܐ ܘܩܕܝ̈ܫܐ. ܐܝܟ܀ ܀ ܛܟܣܐ ܕܥܕܬܐ ܩܕܝܫܬܐ܀ ܐܣܛܝܫ̄ܪܐ ܘܩܢ̈ܘܢܐ܀ ܢܣܒ ܫܘܠܡܐ: ܝܘܡ: ܓ̄: ܠܐܦ̈ܝ: ܘ̄: ܫ̈ܥܝܢ܀ ܀ ܚ̄: ܒܝܪܚܐ ܐܕܐܪ: ܐܫܢܬ̤܀ ܘ̄܀ ܐܠܦ̈ܐ܀ ܘܬ̤ܡܢ ܡ̈ܐܐ܀ ܘܬܠܬܐ܀ ܠܐܒܘܢ ܐܕܡ: ܘܫܢܬ: ܐܠܦ: ܘܟܠܟ ܡ̈ܐܐ: ܘܬܠܬܐ: ܠܡܘܠܕܗ̣ ܕܝܫܘܥ ܡܫܝܚܐ ܒܦܓܪܐ: ܘܫܢܬ̤ ܐܠܦ܀ ܫ̇ܬ܀ ܡܐܐ܀ ܘ̄܀ ܠܣܟܢܕܪ܀ ܝܘܢܝܐ܀ ܒܐܝܕܐ: ܐܢܫ ܡܚܝܠܐ ܘܚ̈ܛܝܐ ܘܒܨܝܪܐ ܡܢ ܟܠܗܘܢ ܥܒ̈ܕܐ ܛܒ̈ܐ. ܝܘܚܢܢ ܩܫܝܫܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ ܡܢ ܐܬܪܐ ܕܐܢܛܝܘܫܝܐ ܕܣܘܪܝܐ ܡܢ ܩܪܝܬܐ ܢܛܝܪܬ̤ ܡܢ ܐܠܗܐ ܡܥ̇ܪܫ̇ܡܣܝܢ ܐܬܟܬܒ ܒܕܝܪܐ ܩܕܝܫܐ ܛܘܪ ܣܝܢܝ݂ ܕܡܬܝܕܥ ܒܡܕܒܪܐ܀ ܒܝܘܡ̈ܝ ܐܦܣܩܘܦܣ: ܐܒܐ ܐܪܣܢܝܘܣ ܨܠܘܬܗ̣ ܬܗܘܐ ܡܠ ܫܘܪܐ ܟܬܒܗ̣ ܠܢܦܫܗ̣ ܕܢܬܒܝܐܝ ܒܗ̣ ܘܢܬܓ̇ܕܪܒܗ ܥܠ ܩܪ̈ܒܐ ܕܣܛܢܐ ܒܨܠܘܬܐ ܕܩܕܝܫܐ ܕܡܬܕܟܪ̈ܝܢ ܒܗ̣܀ ܐܠܐ ܐܚ̈ܝ̣ ܐܝ̈ܠܝܢ ܕܩܪ̈ܝܢ ܒܗ̣ ܐܘ ܡܬܢܗܪ̈ܝܢ ܡܢܗ̣ ܫܐܠ ܡܢ ܪ̈ܚܡܬܟܘܢ ܟܠ ܡܢ ܕܫܟܚ ܒܗ̣ ܦܘܕܐ ܐܘ ܓܠܛܐ ܐܘ ܡܕ̄ܡ ܕܚ̇ܣܝܪ ܢܬܪܨܗ̇ ܗܘ̣ ܒܡܗܝܪܘܬܗ̣. ܘܢܣܪܚ ܠܝ ܫܘܒܩܢܐ: ܡܛܠ ܕܐܢܐ ܝ̇ܠܘܦܐ ܘܠܐ ܟܬܘܒܐ. ܘܚܣܝܪ ܡܢ ܡܢ ܟܠܗܘܢ ܒܢܝܢ̈ܫܐ܀ ܐܠܗܐ ܗܘ̣ ܫܘܡܠܝܐ ܠܗ ܫ̄ܘ ܘܥܠܝܢ ܪ̈ܚܡܘܗܝ ܐܠܗܐ ܢܚܣܐ ܠܟܬܘܒܐ ܘܢܫܒܘܩ ܠܗ̣ ܣܘ̈ܓܐܐ ܕܚܘܒ̈ܘܗܝ ܘܢܢܚܝ̣ ܠܥܢܝ̈ܕܘܗܝ ܘܢܬܪܚܡ ܥܠ ܝܠܘܕܘܗܝ ܘܢܗܘܐ ܠܗ ܥܘܕܪܢܐ ܥܠ ܟܠܗܘܢ ܒܥܡܕܒ̈ܒܘܗܝ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝܫ̈ܐ ܐܡܝܢ ܘܐܡܝܢ: ܐܠܗܐ ܢܚܣܐ ܠܟܬܘܒܐ ܘܠܩܪܘܝܐ ܘܠܟܠ ܡܢ ܕܐܝܬ ܠܗ ܒܗ̣ ܫ̈ܘܬܦܘܬܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܟܠܗܘܢ ܩܕܝܫܐ ܐܡܝܢ ܘܐܡܢ:",
-            "assoc_name": [
-                {
-                    "value": "Yuhannon the Priest",
-                    "as_written": "ܝܘܚܢܢ ܩܫܝܫܐ",
-                    "role": {
-                        "id": "scribe",
-                        "label": "Scribe"
-                    }
-                }
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1296 CE",
-            "iso": {
-                "not_before": "1296"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Ornate geometric and vegetative headpiece on f. 1r with cross adornment and roundels | Headpiece on f. 196br, with knotted cross motif | Minor geometric and vegetative headpieces/tailpieces throughout, beginning on f. 13v, some in red and yellow ink | Decorated alephs throughout, beginning f. 3v I Partial border, f. 218r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1w10992"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1w10992"
+  ]
 }

@@ -1,0 +1,49 @@
+{
+  "ark": "ark:/21198/s1q354",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Syriac NF M 3, Undertext (Estrangela)",
+  "locus": "ff. 1–2",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "estrangela",
+          "label": "Estrangela",
+          "writing_system": "Syriac"
+        }
+      ],
+      "note": [
+        "Regular early Estrangela"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "12 lines. The sequence of the text indicates that 2v+1r and 1v+2r represent a single folio with two columns. Traces of up to 12 lines are visible"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1c40g",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1tm9397",
+    "ark:/21198/z1tz46ft"
+  ]
+}

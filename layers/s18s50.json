@@ -1,87 +1,63 @@
 {
-    "ark": "ark:/21198/s18s50",
-    "reconstruction": false,
-    "label": "Sinai Syriac 102, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s18s50",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 102, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s13960",
+      "label": "Item 1",
+      "locus": "ff. 1r-190v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "190r-190v",
+      "lang": [
         {
-            "id": "ark:/21198/s13960",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "ܫܠܡ ܒܥܘܕܪܢ ܡܪܝܐ ܟܬܒܐ ܗܢܐ. ܕܡܙܡܘܪ̈ܐ ܕܕܘܝܕ. ܡܠܟܐ ܘܢܒܝܐ. ܕܗܘܝܢ ܒܡܢܝܢܐ: ܡܐܐ ܘܚܡܫܝܢ: ܘܨܝܚ̈ܝܐ: ܟ̄ـ : ܦܬ̄: ܕ̄ ܐܠܦ̈ܝܢ: ܘܚ̄ ܡ̈ܐܐ: ܘ̄ܠ: ܫܩܠ ܕܝܢ܇ ܫܢܐ ܐܠܦ: ܘܫܬ: ܡ̈ܐܐ ܘܠܬ: ܡܢ: ܫ̈ܢܝܐ ܕܝܘ̈ܢܝܐ: ܒܩܪܝܬܐ ܆ܟܦܪܥܠܐ: ܟܬܒܗ ܆ܝܢ: ܙܘܥܪܐ ܒܟܗܢܐ ܥܒܕܗ ܡܡܫܝܚܐ ܒܪܝ ܓܒܪܐܝܠ ܡܢ ܩܪܝܬܐ ܕܟܦܪܥܠܐ: ܡܚܣܐ ܠܗ ܡܪܝܐ ܘܠܐ ܒܗܘ̈ܗܝ ܐܡܝܢ ܘ ܐܡܝܢ܀ ܢܬܠ ܡܪܝܐ ܕܢܫܟܚ ܪ̈ܚܡܐ ܒܝܘܡ ܕܝܢ̣ܐ: ܘܢܫܘܝܗܝ ܐܠܗܐ ܠܩܠܐ ܒܪܝܟܐ ܘܢܡܚܘܗܝ ܥܡ ܥܪ̈ܒܐ ܕܡܢ ܝܡܝܢܐ ܘܠܟܠܡܢ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܢܐ ܘܡܨܠܐ ܚܠܦܘܗܝ. ܘܒ̇ܥܐܠܗ ܫܘܒܩܢܐ. ܒܨ̈ܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝ̈ܫܝܟ ܐܡܝܢ.",
+      "assoc_name": [
         {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
+          "value": "Abdeh daMshihā bar Gabriel",
+          "as_written": "ܥܒܕܗ ܕܡܫܝܚܐ",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "190r-190v",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܫܠܡ ܒܥܘܕܪܢ ܡܪܝܐ ܟܬܒܐ ܗܢܐ. ܕܡܙܡܘܪ̈ܐ ܕܕܘܝܕ. ܡܠܟܐ ܘܢܒܝܐ. ܕܗܘܝܢ ܒܡܢܝܢܐ: ܡܐܐ ܘܚܡܫܝܢ: ܘܨܝܚ̈ܝܐ: ܟ̄ـ : ܦܬ̄: ܕ̄ ܐܠܦ̈ܝܢ: ܘܚ̄ ܡ̈ܐܐ: ܘ̄ܠ: ܫܩܠ ܕܝܢ܇ ܫܢܐ ܐܠܦ: ܘܫܬ: ܡ̈ܐܐ ܘܠܬ: ܡܢ: ܫ̈ܢܝܐ ܕܝܘ̈ܢܝܐ: ܒܩܪܝܬܐ ܆ܟܦܪܥܠܐ: ܟܬܒܗ ܆ܝܢ: ܙܘܥܪܐ ܒܟܗܢܐ ܥܒܕܗ ܡܡܫܝܚܐ ܒܪܝ ܓܒܪܐܝܠ ܡܢ ܩܪܝܬܐ ܕܟܦܪܥܠܐ: ܡܚܣܐ ܠܗ ܡܪܝܐ ܘܠܐ ܒܗܘ̈ܗܝ ܐܡܝܢ ܘ ܐܡܝܢ܀ ܢܬܠ ܡܪܝܐ ܕܢܫܟܚ ܪ̈ܚܡܐ ܒܝܘܡ ܕܝܢ̣ܐ: ܘܢܫܘܝܗܝ ܐܠܗܐ ܠܩܠܐ ܒܪܝܟܐ ܘܢܡܚܘܗܝ ܥܡ ܥܪ̈ܒܐ ܕܡܢ ܝܡܝܢܐ ܘܠܟܠܡܢ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܢܐ ܘܡܨܠܐ ܚܠܦܘܗܝ. ܘܒ̇ܥܐܠܗ ܫܘܒܩܢܐ. ܒܨ̈ܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝ̈ܫܝܟ ܐܡܝܢ.",
-            "assoc_name": [
-                {
-                    "value": "Abdeh daMshihā bar Gabriel",
-                    "as_written": "ܥܒܕܗ ܕܡܫܝܚܐ",
-                    "role": {
-                        "id": "scribe",
-                        "label": "Scribe"
-                    }
-                }
-            ],
-            "note": [
-                "Last portion on 190v is smudged.",
-                "Attested places:  in Kfar `Q' (near Tripolis)"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1327 CE",
-            "iso": {
-                "not_before": "1327"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1x93vzd"
-    ]
+      ],
+      "note": [
+        "Last portion on 190v is smudged.",
+        "Attested places:  in Kfar `Q' (near Tripolis)"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1x93vzd"
+  ]
 }

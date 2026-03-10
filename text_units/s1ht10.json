@@ -1,22 +1,32 @@
 {
-    "ark": "ark:/21198/s1ht10",
-    "reconstruction": false,
-    "label": "Psalms",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s11c7f"
-            },
-            "locus": "ff. 1r-129v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1q621"
-    ]
+  "ark": "ark:/21198/s1ht10",
+  "reconstruction": false,
+  "label": "Psalms",
+  "locus": "ff. 1r-129v",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s11c7f"
+      },
+      "locus": "ff. 1r-119r"
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1ms4q"
+      },
+      "locus": "ff. 119v-129v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1q621"
+  ]
 }

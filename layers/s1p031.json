@@ -1,101 +1,49 @@
 {
-    "ark": "ark:/21198/s1p031",
-    "reconstruction": false,
-    "label": "Sinai Syriac 98, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1p031",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 98, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1gm3c",
+      "label": "Item 1",
+      "locus": "ff. 1r-233r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "230v-231r",
+      "lang": [
         {
-            "id": "ark:/21198/s1gm3c",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "deco-vegetative",
-            "label": "Decoration, Vegetative"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "230v-231r",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܐܫܬܠܡ ܒܥܘܕܪܢ ܐܠܗܐ ܠܐܦ̈ܝ ܫܬ̈ ܒܝܘܡܐ ܒܝܪܚܐ ܢܝܣܢ ܫܢܬ ܐܠܦ ܘܚܡ̈ܫܡܐܐ ܘ̄ܥ̄ܘ̄ܐ̄ ܕܝܘ̈ܢܝܐ ܒܐܝܕܝ ܚܛܝܐ ܕܠܐܝܫܲܘܐ ܕܢܫܡܗ ܢܦܫܗ ܡܛܠ ܣܘܓܐܐ ܕܣ̈ܟܠܘܬܗ ܐܠܐ ܒ̇ܥܐܐܢܐ ܡܢ ܕܦܓܥ ܒܟܬܒܐ ܗܢܐ ܕܠܐ ܢܥܕܘܠ ܡܛܠ ܕܟܠ ܒܪܢܫ ܚܣܝܪ ܗܘ݂ ܟܠ ܐܝܟ ܨܠܘܬܗ ܢܬܦܩܥ ܐܡܝܢ"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1259 CE",
-            "iso": {
-                "not_before": "1259"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Geometric headpieces, ff.18v, 82v, 130r, diamond motif | Vegetative headpieces throughout, knotted vine | Minor geometric headpieces throughout"
-        },
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Fleur de Lis and decorative wayfinders throughout."
-        }
-    ],
-    "parent": [
-        "ark:/21198/z17q0h49"
-    ]
+      ],
+      "as_written": "ܐܫܬܠܡ ܒܥܘܕܪܢ ܐܠܗܐ ܠܐܦ̈ܝ ܫܬ̈ ܒܝܘܡܐ ܒܝܪܚܐ ܢܝܣܢ ܫܢܬ ܐܠܦ ܘܚܡ̈ܫܡܐܐ ܘ̄ܥ̄ܘ̄ܐ̄ ܕܝܘ̈ܢܝܐ ܒܐܝܕܝ ܚܛܝܐ ܕܠܐܝܫܲܘܐ ܕܢܫܡܗ ܢܦܫܗ ܡܛܠ ܣܘܓܐܐ ܕܣ̈ܟܠܘܬܗ ܐܠܐ ܒ̇ܥܐܐܢܐ ܡܢ ܕܦܓܥ ܒܟܬܒܐ ܗܢܐ ܕܠܐ ܢܥܕܘܠ ܡܛܠ ܕܟܠ ܒܪܢܫ ܚܣܝܪ ܗܘ݂ ܟܠ ܐܝܟ ܨܠܘܬܗ ܢܬܦܩܥ ܐܡܝܢ"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z17q0h49"
+  ]
 }

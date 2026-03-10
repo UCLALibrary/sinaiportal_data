@@ -1,0 +1,80 @@
+{
+  "ark": "ark:/21198/s1d93n",
+  "reconstruction": false,
+  "label": "Varia",
+  "summary": "Psalms 13 to 134 preceded by two Mimars and an incomplete Life of St. Theodore the Martyr",
+  "locus": "ff. 1v-127v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    },
+    {
+      "id": "copt1239",
+      "label": "Coptic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Life of Jacob, the Brother of the Lord",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "Ff. 1v-9v"
+    },
+    {
+      "work": {
+        "desc_title": "Unidentified Mimar"
+      },
+      "locus": "Ff. 10r-23v"
+    },
+    {
+      "work": {
+        "desc_title": "Unidentified Mimar"
+      },
+      "locus": "Ff. 24r-26v"
+    },
+    {
+      "work": {
+        "desc_title": "Unidentified Mimar"
+      },
+      "locus": "Ff. 27r-37v"
+    },
+    {
+      "work": {
+        "desc_title": "Life of St. Theodore the Martyr (incomplete)",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "Ff. 38r-43v",
+      "note": [
+        "Incomplete"
+      ]
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s11c7f"
+      },
+      "alt_title": "Psalms 13 to 134",
+      "locus": "Ff. 44r-127v",
+      "note": [
+        "Incomplete at the beginning"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1kp4c"
+  ]
+}

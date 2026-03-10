@@ -1,94 +1,70 @@
 {
-    "ark": "ark:/21198/s1gp8z",
-    "reconstruction": false,
-    "label": "Sinai Syriac 253, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1gp8z",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 253, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1996v",
+      "label": "Item 1",
+      "locus": "ff. 2r-265v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "260v-261v",
+      "lang": [
         {
-            "id": "ark:/21198/s1996v",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "ܫܠܡ ܒܥܕܪܢ ܐܠܗܐ: ܡܙܡܘܪ̈ܐ: ܕܕܘܝܕ ܢܒܝܐ: ܩ̄ܢ: ܘܬܫܒܚ̈ܬܐ: ܝ̄: ܕܢܒ̈ܝܐ: ܒܫܢܬ ܐܠܦ ܘܚܡܫܡܐܐ ܘܬܡ̈ܢܐܝܢ ܘܬܫ̈ܥ ܕܝܘܢ̈ܝܐ: ܒܝܪܚܐ ܐܒ: ܟـ̄: ܝܘܡܝܢ ܒܗ̣܀ ܥܠ ܐܝ̈ܕܝ ܕܘܝܐ ܕܟܠ ܐܢܫ: ܒܗܢܐ ܡ ܒܪܝܘܚܢܢ ܡܢ ܐܕܐ ܕܒܬܪܘܢ: ܘܐܝܬܘ̄ ܬܘܬܒܐ ܒܩܪܝܬܐ ܒܫܘܥܠܝ ܒܛܘܪܐ ܕܠܒܢܢ: ܨܠ ܕܝܢ ܘܩܢ̣ܐ ܠܟܬܒܐ ܗ̇ܢܐ ܕܝܪܝܐ ܢܟܦܐ: ܐܚܐ ܐܦܪܝܡ ܕܥܡܪ ܒܝܬ ܐܚ̈ܐ ܕܐܝܬ ܒܕܝܪܐ ܡܪܝ ܝܥܩܘܒ: ܕܒܐܪܥ ܕܒܫܬܘܕܐܪ ܩܪܝܬܐ: ܕܒܗ̇ ܒܛܘܪܐ ܕܠܒܢܢ::: ܡܪܝܐ ܢܬܠ ܠܗ̣ ܝܘܬܪܢܐ ܪܘܚܢܝܐ ܐܡܝܢ: ܟܠ ܕܩ̇ܪܐ ܢܨܠܐ ܥܠ ܚܛܝܐ ܕܟܬܒ ܐܝܟ ܕܐܬܡܨܝ ܠܡܟܬܒ: ܘܢܐܡܪ ܐܠܗܐ ܐܒܐ ܕܪ̈ܚܡܐ ܘܕܟܠܗ ܒܘܝܐܐ: ܢܚܣܐ ܚܘܒ̈ܐ ܘܚܛܗ̈ܐ ܕܟܬܘܒܐ ܘܠܐܒ̈ܗܘܗܝ ܒܨܠܘܬ ܩܢܘܝܐ ܘܕܐܚ̈ܐ ܚܒܪ̈ܘܗܝ: ܘܠܟ̣ܠܢ ܢܫܘܝܢ ܐܠܗܐ ܠܚܪܬܐ ܛܒܬܐ.. ܘܢ̤ܬܐ̣ܘܐ̤ ܥܡܟܘܢ ܘܒܝܢܬܟܘܢ ܐܡܢ ܘܬܐ ܡܪܘܢ ܬܘܒ ܐܡܝܢ: ܒܨܠܘܬ ܣܗܕܐ ܒܪܝܟܐ ܡܪܝ ܝܥܩܘܒ ܦܪܣܝܐ: ܐܡܝܢ ܘܐܡܝܢ",
+      "assoc_name": [
         {
-            "id": "dated",
-            "label": "Dated"
+          "value": "Behnam bar Yuhannon",
+          "as_written": "ܒܗܢܐܡ ܒܪ ܝܘܚܢܢ",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         },
         {
-            "id": "colophon",
-            "label": "Colophon"
+          "value": "Brother Ephrem",
+          "as_written": "ܐܚܐ ܐܦܕܝܡ",
+          "role": {
+            "id": "acquirer",
+            "label": "Acquirer"
+          }
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "260v-261v",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܫܠܡ ܒܥܕܪܢ ܐܠܗܐ: ܡܙܡܘܪ̈ܐ: ܕܕܘܝܕ ܢܒܝܐ: ܩ̄ܢ: ܘܬܫܒܚ̈ܬܐ: ܝ̄: ܕܢܒ̈ܝܐ: ܒܫܢܬ ܐܠܦ ܘܚܡܫܡܐܐ ܘܬܡ̈ܢܐܝܢ ܘܬܫ̈ܥ ܕܝܘܢ̈ܝܐ: ܒܝܪܚܐ ܐܒ: ܟـ̄: ܝܘܡܝܢ ܒܗ̣܀ ܥܠ ܐܝ̈ܕܝ ܕܘܝܐ ܕܟܠ ܐܢܫ: ܒܗܢܐ ܡ ܒܪܝܘܚܢܢ ܡܢ ܐܕܐ ܕܒܬܪܘܢ: ܘܐܝܬܘ̄ ܬܘܬܒܐ ܒܩܪܝܬܐ ܒܫܘܥܠܝ ܒܛܘܪܐ ܕܠܒܢܢ: ܨܠ ܕܝܢ ܘܩܢ̣ܐ ܠܟܬܒܐ ܗ̇ܢܐ ܕܝܪܝܐ ܢܟܦܐ: ܐܚܐ ܐܦܪܝܡ ܕܥܡܪ ܒܝܬ ܐܚ̈ܐ ܕܐܝܬ ܒܕܝܪܐ ܡܪܝ ܝܥܩܘܒ: ܕܒܐܪܥ ܕܒܫܬܘܕܐܪ ܩܪܝܬܐ: ܕܒܗ̇ ܒܛܘܪܐ ܕܠܒܢܢ::: ܡܪܝܐ ܢܬܠ ܠܗ̣ ܝܘܬܪܢܐ ܪܘܚܢܝܐ ܐܡܝܢ: ܟܠ ܕܩ̇ܪܐ ܢܨܠܐ ܥܠ ܚܛܝܐ ܕܟܬܒ ܐܝܟ ܕܐܬܡܨܝ ܠܡܟܬܒ: ܘܢܐܡܪ ܐܠܗܐ ܐܒܐ ܕܪ̈ܚܡܐ ܘܕܟܠܗ ܒܘܝܐܐ: ܢܚܣܐ ܚܘܒ̈ܐ ܘܚܛܗ̈ܐ ܕܟܬܘܒܐ ܘܠܐܒ̈ܗܘܗܝ ܒܨܠܘܬ ܩܢܘܝܐ ܘܕܐܚ̈ܐ ܚܒܪ̈ܘܗܝ: ܘܠܟ̣ܠܢ ܢܫܘܝܢ ܐܠܗܐ ܠܚܪܬܐ ܛܒܬܐ.. ܘܢ̤ܬܐ̣ܘܐ̤ ܥܡܟܘܢ ܘܒܝܢܬܟܘܢ ܐܡܢ ܘܬܐ ܡܪܘܢ ܬܘܒ ܐܡܝܢ: ܒܨܠܘܬ ܣܗܕܐ ܒܪܝܟܐ ܡܪܝ ܝܥܩܘܒ ܦܪܣܝܐ: ܐܡܝܢ ܘܐܡܝܢ",
-            "assoc_name": [
-                {
-                    "value": "Behnam bar Yuhannon",
-                    "as_written": "ܒܗܢܐܡ ܒܪ ܝܘܚܢܢ",
-                    "role": {
-                        "id": "scribe",
-                        "label": "Scribe"
-                    }
-                },
-                {
-                    "value": "Brother Ephrem",
-                    "as_written": "ܐܚܐ ܐܦܕܝܡ",
-                    "role": {
-                        "id": "acquirer",
-                        "label": "Acquirer"
-                    }
-                }
-            ],
-            "note": [
-                "Attested places:  Bshu'ale Mt Lebanon (?)"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1277 CE",
-            "iso": {
-                "not_before": "1277"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z16m4rgv"
-    ]
+      ],
+      "note": [
+        "Attested places:  Bshu'ale Mt Lebanon (?)"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z16m4rgv"
+  ]
 }

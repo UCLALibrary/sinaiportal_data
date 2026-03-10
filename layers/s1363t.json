@@ -1,0 +1,53 @@
+{
+  "ark": "ark:/21198/s1363t",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Syriac NF M 56, Undertext (Christian Palestinian Aramaic)",
+  "locus": "ff. 1, 12, 14, 17–20, 23, 25, 25a, 26–29, 29a, 29b, 47–58, 69–72, 110a",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "cpa",
+          "label": "Christian Palestinian Aramaic",
+          "writing_system": "Syriac"
+        }
+      ],
+      "note": [
+        "Ancient calligraphy | Alaph: apex as crochet-hook shape (\"en crochet à dentelle\") ; Beth, dalath, resh, mim: extremity with drop shape (extrémité \"en goutte\") ; Gamal, teth, lamadh: heron shape (\"en tête de héron\") ; Heth: H with curved uprights and horizontal hyphen ; Kaph: duck head shape (\"en tête de canard\") ; Nun: nail head shape (\"en tête de clou\") ; some Nun final on last line: ornamented tail as a spiral"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "23 lines",
+      "note": [
+        "Column width: 6.2-6.4 cm; distance between columns: 1.9-2 cm; line spacing: 0.8-0.9 cm; medium height of letters: 0.4 cm; height of initial waw: 0.7 cm; height of lamad and taw: 0.4 cm",
+        "Visible ruling on some folios: the 4 vertical and all the horizontal plus a line above line 1. Pricking corresponding to each line"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1r70x",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z17d3457",
+    "ark:/21198/z1r31sgx"
+  ]
+}

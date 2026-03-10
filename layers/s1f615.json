@@ -1,0 +1,52 @@
+{
+  "ark": "ark:/21198/s1f615",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 223, Overtext (Undetermined (Arabic))",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s17s8t",
+      "label": "Item 1",
+      "locus": "ff. 3v-138r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 137v-138r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "وكان الفراغ من تأخذ هذه القنداق المبارك يوم الجمعة المبارك في 12 تشرين الثاني يوم عيد دخول السيدة الى الهيكل من 1774 ألف وسبعمائة وأربعة وسبعين للتجسد الإلهي الموافق الى 28 شهر رمضان سنة 1188 ونرتجي كل كاهن قدس في هذه الكتاب أن يذكر في الخدمة الالهية ولوالديه ولا تنسونا من الرحمة والدعاء والمجد لله دائما ",
+      "note": [
+        "Attested dates: Friday 12 Tishrin II 1774 (incarnation) ; Friday 28 Ramadan 1188"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1b583hq"
+  ]
+}

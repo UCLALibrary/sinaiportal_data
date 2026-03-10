@@ -1,53 +1,49 @@
 {
-    "ark": "ark:/21198/s13p6s",
-    "reconstruction": false,
-    "label": "Sinai Georgian NF M 59, Overtext (Nuskhurimt)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s13p6s",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Georgian NF M 59, Overtext (Nuskhurimt)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "nuskhurimt",
-                    "label": "Nuskhurimt",
-                    "writing_system": "Georgian"
-                }
-            ]
+          "id": "nuskhurimt",
+          "label": "Nuskhurimt",
+          "writing_system": "Georgian"
         }
+      ]
+    }
+  ],
+  "ink": [
+    {
+      "color": [
+        "black-brown",
+        "red"
+      ],
+      "note": [
+        "Red used for some initials"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1x67s",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "ink": [
-        {
-            "color": [
-                "black-brown",
-                "red"
-            ],
-            "note": [
-                "Red used for some initials"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1x67s",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "11th-12th c.  CE",
-            "iso": {
-                "not_before": "1001",
-                "not_after": "1200"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z18d059m"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z18d059m"
+  ]
 }

@@ -1,0 +1,54 @@
+{
+  "ark": "ark:/21198/s1ww7c",
+  "reconstruction": false,
+  "label": "Works of Ephram",
+  "locus": "ff. 1r-Back Board Inside",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Mimars of Isaac the Syrian",
+        "creator": [
+          "ark:/21198/s19888"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "sermons",
+            "label": "Sermons"
+          }
+        ]
+      },
+      "locus": "ff. 1r-173r"
+    },
+    {
+      "work": {
+        "desc_title": "Teachings of Ephrem the Syrian",
+        "creator": [
+          "ark:/21198/s1v887"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 174r-198v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1390q"
+  ]
+}

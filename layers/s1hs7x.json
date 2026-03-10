@@ -1,73 +1,52 @@
 {
-    "ark": "ark:/21198/s1hs7x",
-    "reconstruction": false,
-    "label": "Sinai Greek 468, Undertext (Greek majuscule)",
-    "locus": "ff. 71–110, 119, 121–123, 125–127",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1hs7x",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Greek 468, Undertext (Greek majuscule)",
+  "locus": "ff. 71–110, 119, 121–123, 125–127",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "greek-maj",
-                    "label": "Greek majuscule",
-                    "writing_system": "Greek"
-                }
-            ],
-            "note": [
-                "Sloping pointed majuscule"
-            ]
+          "id": "greek-maj",
+          "label": "Greek majuscule",
+          "writing_system": "Greek"
         }
+      ],
+      "note": [
+        "Sloping pointed majuscule"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "1 columns",
+      "lines": "19 lines",
+      "note": [
+        "Each folio constitutes part of an original folio. The first and last words of text on each folio are missing"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s15t1w",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "1 columns",
-            "lines": "19 lines",
-            "note": [
-                "Each folio constitutes part of an original folio. The first and last words of text on each folio are missing"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s15t1w",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "Mid 9th c. ca. CE",
-            "iso": {
-                "not_before": "0850",
-                "not_after": "0965"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Possibly Palestine",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Vasilios Katsaros"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1029pgj"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1029pgj",
+    "ark:/21198/z1bh3f14"
+  ]
 }

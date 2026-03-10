@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s1360p",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 383, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1wt01",
+      "label": "Item 1",
+      "locus": "ff. 1r-104v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 104r-104v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "تمت الفصول الأربعة مائه فصل من قول القديس اثلاسيوس رحمنا الرب بصلاواته وتمت النسخة  يوم الأحد أول الصوم المقدس الثامن عشر اشباط / سنة ستة آلاف وسبعمائة تسعين (؟)  لأبينا آدم عليه السلام واقول انا المسكين الخاطئ لنفسي الشقية من أجل الدنيا الزائلة ثم أقول…",
+      "assoc_date": [
+        {
+          "value": "1241 CE",
+          "iso": {
+            "not_before": "1241"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "18 Ishbat 6790 (?) (adam)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1sx7hm8"
+  ]
+}

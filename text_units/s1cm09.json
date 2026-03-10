@@ -1,0 +1,77 @@
+{
+  "ark": "ark:/21198/s1cm09",
+  "reconstruction": false,
+  "label": "Synaxarion, followed by a list of seventy disciples",
+  "locus": "ff. 3r-194r",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1h30c"
+      },
+      "alt_title": "Synaxarium for the whole year",
+      "locus": "ff. 3r-193r",
+      "contents": [
+        {
+          "label": "Preface, ff. 3r-4v"
+        },
+        {
+          "label": "Elul, beginning with the second day, ff. 5r-19v"
+        },
+        {
+          "label": "Teshrin I, ff. 19v-32r"
+        },
+        {
+          "label": "Teshrin II, ff. 32r-51r"
+        },
+        {
+          "label": "Kanun I, ff. 51r-73v"
+        },
+        {
+          "label": "Kanun II, ff. 73v-94r"
+        },
+        {
+          "label": "Shbat, ff. 94r-113r"
+        },
+        {
+          "label": "Adar, ff. 113r-128r"
+        },
+        {
+          "label": "Nisan, ff. 128r-142r"
+        },
+        {
+          "label": "Iyar, ff. 142r-166r"
+        },
+        {
+          "label": "Haziran, ff. 166r-183r"
+        },
+        {
+          "label": "Tammuz, ff. 183r-193r"
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "List of Seventy Disciples",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 193r-194r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1k32r"
+  ]
+}

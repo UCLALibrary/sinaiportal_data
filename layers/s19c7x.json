@@ -1,0 +1,61 @@
+{
+  "ark": "ark:/21198/s19c7x",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 11, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s14066",
+      "label": "Item 1",
+      "locus": "ff. 1r-177v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 136r-136v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "كان الفراغ من هذا المصحف الخمسة وعشرين من شهر نيسان الرومي على يد الحقير القس سابا لسنة ست ألف وستمائة سنة وأربعة وعشرون سنة من سنة أبينا آدم عليه السلام الموافق لخمسمائة وتسع سنين في سنة الهجرة أنا أسأل من كل من قرأ في هذا المصحف أن يترحم على ضعفى أنا الخاطئ وإن كان فيه غلط أوردات خط فهو في قلة فهمي وضعفي وشغل خاطري الرب يغفر لمن كتب ولمن قرأ  ولمن سمع بشفاعة السيدة أم النور وجميع القديسين آمين آمين ",
+      "assoc_date": [
+        {
+          "value": "1116 CE",
+          "iso": {
+            "not_before": "1116"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          }
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z11g24xj"
+  ]
+}

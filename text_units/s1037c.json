@@ -1,23 +1,27 @@
 {
-    "ark": "ark:/21198/s1037c",
-    "reconstruction": false,
-    "label": "Homilies on Gospels and Epistles (Chrysostom)",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s10k5f"
-            },
-            "alt_title": "Four Gospels",
-            "locus": "ff. 1r-325bv"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s15g9g"
-    ]
+  "ark": "ark:/21198/s1037c",
+  "reconstruction": false,
+  "label": "Homilies on Gospels and Epistles (Chrysostom)",
+  "locus": "ff. 1r-325bv",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s10k5f"
+      },
+      "alt_title": "Four Gospels",
+      "locus": "ff. 1r-325bv"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s15g9g"
+  ]
 }

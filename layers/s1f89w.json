@@ -1,78 +1,63 @@
 {
-    "ark": "ark:/21198/s1f89w",
-    "reconstruction": false,
-    "label": "Sinai Arabic 421, Overtext (Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1f89w",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 421, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s17w8v",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 355v",
+      "lang": [
         {
-            "id": "ark:/21198/s17w8v",
-            "label": "Item 1"
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "وكان كمال السنكساري في أول يوم في تشرين الأول سنة ستة آلاف وسبعمائة وستة وأربعين سنة لأبينا آدم موافقة لستمائه خمسة ثلاثين سنة هلالية والسبح لله دائما أبدا غفر الله لمن قرأ وسمع ودعاء لكاتبه والرحمة والمغفرة ",
+      "assoc_date": [
         {
-            "id": "dated",
-            "label": "Dated"
+          "value": "1238 CE",
+          "iso": {
+            "not_before": "1238"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "1 Tishrin I 6746 (adam) :: 635 (crescent/hijra)"
+          ]
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "f. 355v",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "as_written": "وكان كمال السنكساري في أول يوم في تشرين الأول سنة ستة آلاف وسبعمائة وستة وأربعين سنة لأبينا آدم موافقة لستمائه خمسة ثلاثين سنة هلالية والسبح لله دائما أبدا غفر الله لمن قرأ وسمع ودعاء لكاتبه والرحمة والمغفرة ",
-            "assoc_date": [
-                {
-                    "type": {
-                        "id": "origin",
-                        "label": "Date of Origin"
-                    },
-                    "value": "1 Tishrin I 6746 (adam) :: 635 (crescent/hijra)"
-                }
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1238 CE",
-            "iso": {
-                "not_before": "1238"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1dz1szq"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1dz1szq"
+  ]
 }

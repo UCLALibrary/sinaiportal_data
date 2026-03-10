@@ -1,0 +1,63 @@
+{
+  "ark": "ark:/21198/s1f35n",
+  "reconstruction": false,
+  "label": "Theological miscellany",
+  "locus": "ff. 1r-237v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s16w28"
+      },
+      "alt_title": "Homilies 1-18 of Cyril of Jerusalem",
+      "locus": "ff. 1r-217r"
+    },
+    {
+      "work": {
+        "desc_title": "Monastic text on miracles",
+        "genre": [
+          {
+            "id": "ascetica",
+            "label": "Ascetica"
+          }
+        ]
+      },
+      "locus": "f. 217v"
+    },
+    {
+      "work": {
+        "desc_title": "Sermons 1-5 of John of Jerusalem",
+        "genre": [
+          {
+            "id": "sermons",
+            "label": "Sermons"
+          }
+        ]
+      },
+      "locus": "ff. 218r-236r"
+    },
+    {
+      "work": {
+        "desc_title": "Monastic text concerning the Jews",
+        "genre": [
+          {
+            "id": "ascetica",
+            "label": "Ascetica"
+          }
+        ]
+      },
+      "locus": "ff. 236v-237v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1mg7r"
+  ]
+}

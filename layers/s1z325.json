@@ -1,84 +1,65 @@
 {
-    "ark": "ark:/21198/s1z325",
-    "reconstruction": false,
-    "label": "Sinai Arabic 254, Overtext (Undetermined (Arabic))",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1z325",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 254, Overtext (Undetermined (Arabic))",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "arabic-undetermined",
-                    "label": "Undetermined (Arabic)",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1rq0r",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 39v",
+      "lang": [
         {
-            "id": "ark:/21198/s1rq0r",
-            "label": "Item 1"
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "features": [
+      ],
+      "assoc_date": [
         {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
+          "value": "1732 CE",
+          "iso": {
+            "not_before": "1732"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "15 Ab 7240 (adam) :: 1732 (AD)"
+          ]
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "f. 39v",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "assoc_date": [
-                {
-                    "type": {
-                        "id": "origin",
-                        "label": "Date of Origin"
-                    },
-                    "value": "15 Ab 7240 (adam) :: 1732 (AD)"
-                }
-            ],
-            "note": [
-                "Attested places:  Mount Sinai ; City of David, Bethlehem"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1732 CE",
-            "iso": {
-                "not_before": "1732"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1xs6zqg"
-    ]
+      ],
+      "note": [
+        "Attested places:  Mount Sinai ; City of David, Bethlehem"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1xs6zqg"
+  ]
 }

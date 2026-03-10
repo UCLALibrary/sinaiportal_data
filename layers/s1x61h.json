@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s1x61h",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 228, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1qs7s",
+      "label": "Item 1",
+      "locus": "ff. 1r-208v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 134v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "نجز هذا الكتاب بمعونة الله وحسن توفيقه وكان فراغه في السادس وعشر من أيلول سنة ست الاف وسبعمائه وثلاثمائة لابينا ادم",
+      "assoc_date": [
+        {
+          "value": "1222 CE",
+          "iso": {
+            "not_before": "1222"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "16 Aylul 6730 Adam"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1pz6tkk"
+  ]
+}

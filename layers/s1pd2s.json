@@ -1,86 +1,62 @@
 {
-    "ark": "ark:/21198/s1pd2s",
-    "reconstruction": false,
-    "label": "Sinai Syriac 233, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1pd2s",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 233, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1h09r",
+      "label": "Item 1",
+      "locus": "ff. 5r-194v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "194v",
+      "lang": [
         {
-            "id": "ark:/21198/s1h09r",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܝܘܡ. ܓ̄. ܒ̄ܫ. ܒ̄ܝܘ. ܒܟܢܘܢ: ܒ̄: ܒܐܝ̈ܕܝ: ܐܢܫ ܒܨܝܪ ܐܘ ܚ̇ܛܝܐ ܘܕܘܐ ܡܢ ܟܠ ܟܕ ܠܐ ܫ̇ܘܐ ܕܢܬܩܪܐ ܫܡܗ ܡܛܠ ܫܟܝܪ ܘܐ ܓܘܒܪ̈̄ܘ ܫܡܥܘܢ: ܒܪ: ܦܛܪܘܣ: ܡܢ ܩܪܝܬܐ ܢܛܝܪܬ̤ ܒܐܠܗܐ ܪܘܡܢܐ ܟܬܒܗ ܐܝܟ: ܕܠܗܕܪܐ ܘܐܝܩܪܐ ܕܬܠܝܬܝܘ ܩܕܝܫܬܐ ܘܫܘܝܬ̤ ܒܐܘܣܝܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩ̄ܘܕ: ܠܕܝܪܐ ܩܕܝܫܬܐ ܕܟܘܪܣܝܢܐ ܐܠܗܐ ܡܚܣܐ ܠܟܬܘܒܐ ܒܨ̈ܠܘܬܐ ܕܩܕ̈ܝܫܐ ܕܒܗ̇: ܐܡܝܢ ܐܡܝܢ ܫܢܬ̤ ܐܠܦ̈: ܘܚܡ̈ܫ: ܡ̈ܐܐ: ܘܣ̄ܓ̄: ܡܢ ܫ̈ܢܝܐ ܕܐܠܟܣܢܕܪܘܣ: ܒܪ ܦܝܠܝܦܘܣ ܡܩܕܘܢܝܐ:",
+      "assoc_name": [
         {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
+          "value": "Shem'un bar Petros",
+          "as_written": "ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "history",
-                "label": "History"
-            },
-            "subtype": [
-                {
-                    "id": "colophon",
-                    "label": "Colophon"
-                }
-            ],
-            "locus": "194v",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܝܘܡ. ܓ̄. ܒ̄ܫ. ܒ̄ܝܘ. ܒܟܢܘܢ: ܒ̄: ܒܐܝ̈ܕܝ: ܐܢܫ ܒܨܝܪ ܐܘ ܚ̇ܛܝܐ ܘܕܘܐ ܡܢ ܟܠ ܟܕ ܠܐ ܫ̇ܘܐ ܕܢܬܩܪܐ ܫܡܗ ܡܛܠ ܫܟܝܪ ܘܐ ܓܘܒܪ̈̄ܘ ܫܡܥܘܢ: ܒܪ: ܦܛܪܘܣ: ܡܢ ܩܪܝܬܐ ܢܛܝܪܬ̤ ܒܐܠܗܐ ܪܘܡܢܐ ܟܬܒܗ ܐܝܟ: ܕܠܗܕܪܐ ܘܐܝܩܪܐ ܕܬܠܝܬܝܘ ܩܕܝܫܬܐ ܘܫܘܝܬ̤ ܒܐܘܣܝܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩ̄ܘܕ: ܠܕܝܪܐ ܩܕܝܫܬܐ ܕܟܘܪܣܝܢܐ ܐܠܗܐ ܡܚܣܐ ܠܟܬܘܒܐ ܒܨ̈ܠܘܬܐ ܕܩܕ̈ܝܫܐ ܕܒܗ̇: ܐܡܝܢ ܐܡܝܢ ܫܢܬ̤ ܐܠܦ̈: ܘܚܡ̈ܫ: ܡ̈ܐܐ: ܘܣ̄ܓ̄: ܡܢ ܫ̈ܢܝܐ ܕܐܠܟܣܢܕܪܘܣ: ܒܪ ܦܝܠܝܦܘܣ ܡܩܕܘܢܝܐ:",
-            "assoc_name": [
-                {
-                    "value": "Shem'un bar Petros",
-                    "as_written": "ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ",
-                    "role": {
-                        "id": "scribe",
-                        "label": "Scribe"
-                    }
-                }
-            ],
-            "note": [
-                "Attested places:  from Romana"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1251 CE",
-            "iso": {
-                "not_before": "1251"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1xp8pn0"
-    ]
+      ],
+      "note": [
+        "Attested places:  from Romana"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1xp8pn0"
+  ]
 }

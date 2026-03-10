@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s1v60h",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 282, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1nq0t",
+      "label": "Item 1",
+      "locus": "ff. 1v-207v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "ff. 146v-147r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "وكان كمال كتبت هذا السفر وشرحه بالدير المقدس بجبل الله العظيم طور سيناء وذلك برسم القسيس أنبا بولص ولد الحكيم نصر الله بن الحكيم يوحنا الدمشقي نفعه الله به ورضي عنه وعن والديه / وكان الفراغ من نسخه بتاريخ العشرين من حزيران من سنة ستة الف وسبعمائة ستة وثمانين لكون العالم ولربنا المجد لك ابد الابدين  آمين  آمين",
+      "assoc_date": [
+        {
+          "value": "1278 CE",
+          "iso": {
+            "not_before": "1278"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "20 Huzayran 6786 (world)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1c554gv"
+  ]
+}
