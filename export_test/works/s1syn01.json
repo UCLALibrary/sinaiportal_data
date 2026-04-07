@@ -1,11 +1,11 @@
 {
-    "ark": "ark:/21198/s1dg6h",
-    "pref_title": "Horologion",
+    "ark": "ark:/21198/s1syn01",
+    "pref_title": "Synaxarion",
     "alt_title": [
-        "Book of Hours",
-        "Horologion, Arabic"
+        "Synaxarion, Arabic",
+        "Menologion"
     ],
-    "desc": "A liturgical book containing the offices for the canonical hours of the day, used in Eastern Christian worship.",
+    "desc": "A liturgical book containing brief lives of saints and commemorations arranged according to the calendar, used in Eastern Christian churches.",
     "orig_lang": {
         "id": "gree1276",
         "label": "Greek"
@@ -14,14 +14,21 @@
         {
             "id": "liturgical-texts",
             "label": "Liturgical texts"
+        },
+        {
+            "id": "hagiographical-texts",
+            "label": "Hagiographical texts"
         }
     ],
     "rel_con": [
         {
-            "label": "Horologion",
-            "uri": "http://id.loc.gov/authorities/subjects/sh85061696",
+            "label": "Synaxaria",
+            "uri": "http://id.loc.gov/authorities/subjects/sh85131277",
             "source": "LoC"
         }
+    ],
+    "note": [
+        "The Arabic Synaxarion tradition is closely related to the Melkite liturgical tradition"
     ],
     "cataloguer": [
         {

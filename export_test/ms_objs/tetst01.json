@@ -1,0 +1,631 @@
+{
+    "ark": "ark:/21198/tetst01",
+    "reconstruction": false,
+    "type": {
+        "id": "manuscript",
+        "label": "Manuscript"
+    },
+    "shelfmark": "Sinai Arabic 299",
+    "summary": "A comprehensive test manuscript record containing all available fields. Two-part palimpsest codex: Part 1 contains 10th-century Arabic Gospels (Naskh) over a 5th-century Greek undertext; Part 2 is a 13th-century Arabic Lectionary supplement.",
+    "extent": "210 ff.",
+    "weight": "1450.2 g",
+    "dim": "280 x 195 x 95.0 mm",
+    "state": {
+        "id": "codex",
+        "label": "Codex"
+    },
+    "fol": "ff. 1-210",
+    "coll": "Quire 1: 1x8 (8); Quire 2: 1x8 (16); Quire 3: 1x8+1 (25); Quire 4: 1x8 (33)",
+    "features": [
+        {
+            "id": "palimpsest",
+            "label": "Palimpsest"
+        },
+        {
+            "id": "msi",
+            "label": "Multispectral Imaging"
+        },
+        {
+            "id": "headpiece",
+            "label": "Headpiece(s)"
+        },
+        {
+            "id": "deco-geometric",
+            "label": "Decoration, Geometric"
+        }
+    ],
+    "location": [
+        {
+            "id": "sinai-oc",
+            "collection": "Old Collection",
+            "repository": "St. Catherine's Monastery of the Sinai"
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "10th c. CE",
+            "iso": {
+                "not_before": "0901",
+                "not_after": "1000"
+            },
+            "note": [
+                "Date of Part 1 (main text block)"
+            ]
+        },
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "13th c. CE",
+            "iso": {
+                "not_before": "1201",
+                "not_after": "1300"
+            },
+            "note": [
+                "Date of Part 2 (later addition)"
+            ]
+        }
+    ],
+    "assoc_name": [
+        {
+            "id": "ark:/21198/s1scribe01",
+            "role": {
+                "id": "scribe",
+                "label": "Scribe"
+            },
+            "as_written": "يوحنا بن عيسى الكاتب",
+            "note": [
+                "Named in the colophon, f. 180v"
+            ]
+        },
+        {
+            "value": "Unknown patron",
+            "role": {
+                "id": "patron",
+                "label": "Patron"
+            },
+            "note": [
+                "Referenced in colophon but name illegible"
+            ]
+        },
+        {
+            "id": "ark:/21198/s1owner01",
+            "role": {
+                "id": "owner",
+                "label": "Owner"
+            },
+            "note": [
+                "Current repository and long-term owner"
+            ]
+        }
+    ],
+    "assoc_place": [
+        {
+            "id": "ark:/21198/s1place01",
+            "event": {
+                "id": "origin",
+                "label": "Origin Place"
+            },
+            "as_written": "القدس الشريف",
+            "note": [
+                "Named in the colophon as the place of production"
+            ]
+        },
+        {
+            "id": "ark:/21198/s1place02",
+            "event": {
+                "id": "repository",
+                "label": "Repository"
+            }
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "possession-note",
+                    "label": "Possession Note"
+                }
+            ],
+            "locus": "front flyleaf, recto",
+            "lang": [
+                {
+                    "id": "gree1276",
+                    "label": "Greek"
+                }
+            ],
+            "as_written": "Τοῦτο τὸ βιβλίον ἐστὶν τῆς...",
+            "translation": [
+                "This book belongs to..."
+            ],
+            "assoc_name": [
+                {
+                    "value": "Unidentified owner",
+                    "role": {
+                        "id": "owner",
+                        "label": "Owner"
+                    },
+                    "note": [
+                        "Name partially erased; identity unknown"
+                    ]
+                }
+            ],
+            "note": [
+                "Ownership note on front flyleaf; unrelated to the manuscript's production history"
+            ]
+        },
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "supplication",
+                    "label": "Supplication"
+                },
+                {
+                    "id": "scribe-note",
+                    "label": "Scribe's Note"
+                }
+            ],
+            "locus": "rear flyleaf, verso",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "اذكر يا رب عبدك الخاطئ الكاتب",
+            "translation": [
+                "Remember, O Lord, your sinful servant the scribe"
+            ],
+            "note": [
+                "Supplication combined with scribe's note; demonstrates multi-value subtype array"
+            ]
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "foliation",
+                "label": "Foliation"
+            },
+            "value": "Modern pencil foliation throughout; a second, older ink foliation partially visible in outer margin"
+        },
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "Binding intact but worn; front board detached; water staining on lower margins of ff. 100-120"
+        },
+        {
+            "type": {
+                "id": "binding",
+                "label": "Binding Note"
+            },
+            "value": "Leather over wood boards; remnants of fore-edge clasp"
+        },
+        {
+            "type": {
+                "id": "collation",
+                "label": "Collation Note"
+            },
+            "value": "Quire signatures in later Arabic hand visible in lower margin"
+        }
+    ],
+    "related_mss": [
+        {
+            "type": {
+                "id": "disjecta",
+                "label": "Disjecta Membra"
+            },
+            "label": "Sinai Arabic 299 + Sinai Arabic 300 + Sinai Arabic 301",
+            "note": [
+                "Gospel text is divided across three volumes; Sinai Arabic 300 contains John and Sinai Arabic 301 the Epistles"
+            ],
+            "mss": [
+                {
+                    "label": "Related manuscript (ark:/21198/z1ms5bh5)",
+                    "id": "ark:/21198/z1ms5bh5"
+                },
+                {
+                    "label": "Related manuscript (ark:/21198/z1kw70s3)",
+                    "id": "ark:/21198/z1kw70s3",
+                    "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917160205171//NLI"
+                }
+            ]
+        },
+        {
+            "type": {
+                "id": "filiation",
+                "label": "Filiation"
+            },
+            "label": "Related manuscripts in the same translation tradition",
+            "note": [
+                "All three assigned to Kashouh family 1",
+                "Sinai Arabic 72 is the closest textual relative"
+            ],
+            "mss": [
+                {
+                    "label": "Related manuscript (ark:/21198/z13j4hbj)",
+                    "id": "ark:/21198/z13j4hbj",
+                    "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917160205171//NLI"
+                },
+                {
+                    "label": "Related manuscript (ark:/21198/z1xp8pn0)",
+                    "id": "ark:/21198/z1xp8pn0"
+                },
+                {
+                    "label": "Related manuscript (ark:/21198/z10k3cz0)",
+                    "id": "ark:/21198/z10k3cz0"
+                }
+            ]
+        }
+    ],
+    "viscodex": [
+        {
+            "type": {
+                "id": "reconstruction",
+                "label": "Reconstruction"
+            },
+            "label": "Visualization of Sinai Arabic 299",
+            "url": "https://vceditor.library.upenn.edu/project/test123/viewOnly"
+        }
+    ],
+    "bib": [
+        {
+            "id": "d50eb6e7-9675-4ffa-bfe8-d0ac870cf81b",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Atiya 1955",
+            "citation": "Atiya, Aziz S. The Arabic Manuscripts of Mount Sinai. Baltimore: Johns Hopkins Press, 1955.",
+            "range": "p. 29",
+            "alt_shelf": "[652]",
+            "note": [
+                "Atiya catalog reference"
+            ]
+        },
+        {
+            "id": "65c16365-e118-4ece-835e-50076f965578",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Kashouh 2012",
+            "citation": "Kashouh, Hikmat. The Arabic Versions of the Gospels. Berlin: De Gruyter, 2012.",
+            "range": "pp. 120-145",
+            "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917160205171//NLI",
+            "note": [
+                "Kashouh identifies this manuscript as belonging to family 1"
+            ]
+        },
+        {
+            "id": "ff5d7a31-dedf-43f7-8797-2824db63fa64",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Kamil",
+            "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970.",
+            "range": "[35], p. 58",
+            "alt_shelf": "[999]"
+        }
+    ],
+    "iiif": [
+        {
+            "type": {
+                "id": "main",
+                "label": "Main"
+            },
+            "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1n02zkr/manifest",
+            "text_direction": "right-to-left",
+            "behavior": "paged",
+            "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg",
+            "label": "Main"
+        },
+        {
+            "type": {
+                "id": "alt",
+                "label": "Alternate"
+            },
+            "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr1qn64nz/manifest",
+            "text_direction": "right-to-left",
+            "behavior": "paged",
+            "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg",
+            "label": "Reordered"
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Arabic Manuscripts Project",
+                "description": "Described as part of the Sinai Arabic Manuscripts Project (2020-2025)."
+            }
+        ]
+    },
+    "image_provenance": {
+        "program": [
+            {
+                "label": "Sinai Palimpsests Project",
+                "description": "Imaged as part of the Sinai Palimpsests Project (2006-2017). Digitization was sponsored by St. Catherine's Monastery of the Sinai in partnership with the Early Manuscripts Electronic Library and the UCLA Library, and with funding from Arcadia.",
+                "camera_operator": [
+                    "Damianos Kasotakis",
+                    "Michael Phelps"
+                ],
+                "imaging_date": "2010-04",
+                "delivery": "spp_2",
+                "msi_processing": [
+                    "Keith Knox"
+                ],
+                "condition_category": "2",
+                "imaging_system": "Preservation Book Cradle by Stokes Imaging",
+                "note": [
+                    "Multispectral images available for palimpsested folios only",
+                    "Automated processing combines two or more raw images into a single processed image"
+                ]
+            }
+        ],
+        "rights": "Contact the Monastery of St. Catherine's of the Sinai."
+    },
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        },
+        {
+            "message": "Overtext description added as part of Sinai Arabic Manuscripts Project (2022).",
+            "contributor": [
+                "Hikmat Kashouh"
+            ],
+            "added_by": "hkashouh",
+            "timestamp": "2022-11-01T14:30:00Z"
+        }
+    ],
+    "part": [
+        {
+            "label": "Part 1",
+            "summary": "Main text block, palimpsested parchment with later paper replacements",
+            "locus": "ff. 1-180",
+            "support": [
+                {
+                    "id": "parchment",
+                    "label": "Parchment"
+                },
+                {
+                    "id": "paper",
+                    "label": "Paper"
+                }
+            ],
+            "extent": "180 ff.",
+            "dim": "270 x 185 mm (typical folio)",
+            "para": [
+                {
+                    "type": {
+                        "id": "misc",
+                        "label": "Miscellaneous"
+                    },
+                    "subtype": [
+                        {
+                            "id": "toc",
+                            "label": "Table of Contents"
+                        }
+                    ],
+                    "locus": "f. 1r",
+                    "lang": [
+                        {
+                            "id": "arab1395",
+                            "label": "Arabic"
+                        }
+                    ],
+                    "as_written": "فهرس الأناجيل الأربعة",
+                    "translation": [
+                        "Index of the four Gospels"
+                    ],
+                    "note": [
+                        "Introductory index added to the part later; does not belong to the main overtext layer"
+                    ]
+                }
+            ],
+            "note": [
+                {
+                    "type": {
+                        "id": "support",
+                        "label": "Support Note"
+                    },
+                    "value": "Ff. 1-10 are paper replacements; remaining folios are parchment"
+                },
+                {
+                    "type": {
+                        "id": "collation",
+                        "label": "Collation Note"
+                    },
+                    "value": "Quire signatures partially visible in lower margin, recto side"
+                }
+            ],
+            "related_mss": [
+                {
+                    "type": {
+                        "id": "filiation",
+                        "label": "Filiation"
+                    },
+                    "label": "Closely related overtext layers",
+                    "note": [
+                        "Overtext of Part 1 shares script tradition with Sinai Arabic 72 and Sinai Arabic 116"
+                    ],
+                    "mss": [
+                        {
+                            "label": "Related manuscript (ark:/21198/z13j4hbj)",
+                            "id": "ark:/21198/z13j4hbj"
+                        },
+                        {
+                            "label": "Related manuscript (ark:/21198/z1xp8pn0)",
+                            "id": "ark:/21198/z1xp8pn0",
+                            "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917160205171//NLI"
+                        }
+                    ]
+                }
+            ],
+            "layer": [
+                {
+                    "id": "ark:/21198/tetst01p1ol",
+                    "label": "Overtext layer (10th c., Naskh)",
+                    "type": {
+                        "id": "overtext",
+                        "label": "Overtext"
+                    },
+                    "locus": "ff. 1-180"
+                },
+                {
+                    "id": "ark:/21198/tetst01p1ul1",
+                    "label": "Greek Undertext: Psalms (5th c., Greek majuscule)",
+                    "type": {
+                        "id": "undertext",
+                        "label": "Undertext"
+                    },
+                    "locus": "ff. 10-25, 30-45"
+                },
+                {
+                    "id": "ark:/21198/tetst01p1ul2",
+                    "label": "Syriac Undertext: Unidentified liturgical text (6th c., Estrangela)",
+                    "type": {
+                        "id": "undertext",
+                        "label": "Undertext"
+                    },
+                    "locus": "ff. 60-75"
+                },
+                {
+                    "id": "ark:/21198/tetst01p1gl",
+                    "label": "Guest content: Greek ownership note",
+                    "type": {
+                        "id": "guest",
+                        "label": "Guest Content"
+                    },
+                    "locus": "f. 1v"
+                }
+            ]
+        },
+        {
+            "label": "Part 2",
+            "summary": "Later addition: paper quires with 13th-century Arabic Lectionary supplement",
+            "locus": "ff. 181-210",
+            "support": [
+                {
+                    "id": "paper",
+                    "label": "Paper"
+                }
+            ],
+            "extent": "30 ff.",
+            "dim": "265 x 180 mm (typical folio)",
+            "note": [
+                {
+                    "type": {
+                        "id": "support",
+                        "label": "Support Note"
+                    },
+                    "value": "Oriental paper throughout"
+                }
+            ],
+            "related_mss": [
+                {
+                    "type": {
+                        "id": "disjecta",
+                        "label": "Disjecta Membra"
+                    },
+                    "label": "Lectionary supplement continued in Sinai Arabic 300",
+                    "note": [
+                        "The 13th-century supplement in Part 2 was copied from the same exemplar as Sinai Arabic 300, Part 3"
+                    ],
+                    "mss": [
+                        {
+                            "label": "Related manuscript (ark:/21198/z1ms5bh5)",
+                            "id": "ark:/21198/z1ms5bh5"
+                        }
+                    ]
+                }
+            ],
+            "layer": [
+                {
+                    "id": "ark:/21198/tetst01p2ol",
+                    "label": "Overtext layer (13th c., Naskh)",
+                    "type": {
+                        "id": "overtext",
+                        "label": "Overtext"
+                    },
+                    "locus": "ff. 181-210"
+                }
+            ],
+            "para": [
+                {
+                    "type": {
+                        "id": "misc",
+                        "label": "Miscellaneous"
+                    },
+                    "subtype": [
+                        {
+                            "id": "toc",
+                            "label": "Table of Contents"
+                        }
+                    ],
+                    "locus": "f. 181r",
+                    "lang": [
+                        {
+                            "id": "arab1395",
+                            "label": "Arabic"
+                        }
+                    ],
+                    "as_written": "فهرس الأبواب",
+                    "translation": [
+                        "Table of chapters"
+                    ]
+                }
+            ]
+        }
+    ],
+    "layer": [
+        {
+            "id": "ark:/21198/tetst01p1ul1",
+            "label": "Greek Undertext: Psalms (5th c., Greek majuscule)",
+            "type": {
+                "id": "undertext",
+                "label": "Undertext"
+            },
+            "locus": "ff. 10-25, 30-45"
+        },
+        {
+            "id": "ark:/21198/tetst01p1ul2",
+            "label": "Syriac Undertext: Unidentified liturgical text (6th c., Estrangela)",
+            "type": {
+                "id": "undertext",
+                "label": "Undertext"
+            },
+            "locus": "ff. 60-75"
+        },
+        {
+            "id": "ark:/21198/tetst01p1gl",
+            "label": "Guest content: Greek ownership note",
+            "type": {
+                "id": "guest",
+                "label": "Guest Content"
+            },
+            "locus": "f. 1v"
+        }
+    ]
+}

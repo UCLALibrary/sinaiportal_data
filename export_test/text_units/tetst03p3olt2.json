@@ -1,0 +1,110 @@
+{
+    "ark": "ark:/21198/tetst03p3olt2",
+    "reconstruction": false,
+    "label": "Doxology",
+    "locus": "ff. 309r-312v",
+    "lang": [
+        {
+            "id": "arab1395",
+            "label": "Arabic"
+        }
+    ],
+    "work_wit": [
+        {
+            "work": {
+                "desc_title": "Doxology",
+                "genre": [
+                    {
+                        "id": "liturgical-texts",
+                        "label": "Liturgical texts"
+                    }
+                ]
+            },
+            "excerpt": [
+                {
+                    "type": {
+                        "id": "incipit",
+                        "label": "Incipit"
+                    },
+                    "locus": "f. 309r",
+                    "as_written": "المجد لله في الأعالي",
+                    "translation": [
+                        "Glory be to God in the highest"
+                    ]
+                }
+            ],
+            "note": [
+                "Short doxology; standard liturgical formula"
+            ]
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "framing",
+                "label": "Framing"
+            },
+            "subtype": [
+                {
+                    "id": "doxology",
+                    "label": "Doxology"
+                }
+            ],
+            "locus": "f. 312v",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "والمجد للآب والابن والروح القدس الآن وكل أوان وإلى دهر الداهرين آمين",
+            "translation": [
+                "Glory be to the Father, and to the Son, and to the Holy Spirit, now and ever and unto ages of ages. Amen."
+            ]
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst03p3ol"
+    ],
+    "summary": "A doxology appended to the liturgical supplement.",
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "Added by the same hand as the main text of Part 3"
+        }
+    ],
+    "bib": [
+        {
+            "id": "5b77e9b0-b136-4782-b51e-04d51a0b7305",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Graf 1944",
+            "citation": "Graf, Georg. Geschichte der christlichen arabischen Literatur. Vatican City: Biblioteca Apostolica Vaticana, 1944.",
+            "range": "vol. 1, pp. 290-310"
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Arabic Manuscripts Project",
+                "description": "Described as part of the Sinai Arabic Manuscripts Project (2020-2025)."
+            }
+        ]
+    },
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

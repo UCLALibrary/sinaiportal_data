@@ -1,0 +1,114 @@
+{
+    "ark": "ark:/21198/tetst01p2olt1",
+    "reconstruction": false,
+    "label": "Arabic Lectionary Supplement",
+    "locus": "ff. 181r-210v",
+    "lang": [
+        {
+            "id": "arab1395",
+            "label": "Arabic"
+        }
+    ],
+    "work_wit": [
+        {
+            "work": {
+                "desc_title": "Lectionary supplement (monthly sections)",
+                "genre": [
+                    {
+                        "id": "liturgical-texts",
+                        "label": "Liturgical texts"
+                    }
+                ]
+            },
+            "contents": [
+                {
+                    "label": "Elul, ff. 181r-188v"
+                },
+                {
+                    "label": "Teshrin I, ff. 188v-196r"
+                },
+                {
+                    "label": "Teshrin II, ff. 196r-203v"
+                },
+                {
+                    "label": "Kanun I, ff. 203v-210v"
+                }
+            ]
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "Added to the manuscript in the 13th c., likely at Sinai"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst01p2ol"
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Arabic Manuscripts Project",
+                "description": "Described as part of the Sinai Arabic Manuscripts Project (2020-2025)."
+            }
+        ]
+    },
+    "summary": "A partial lectionary supplement organized by the Syriac calendar months, covering Elul through Kanun I.",
+    "features": [
+        {
+            "id": "unidentified-text",
+            "label": "Unidentified Text"
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "misc",
+                "label": "Miscellaneous"
+            },
+            "subtype": [
+                {
+                    "id": "reader-note",
+                    "label": "Reader's Note"
+                }
+            ],
+            "locus": "f. 210v",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "تم بحمد الله",
+            "translation": [
+                "Completed, praise be to God"
+            ]
+        }
+    ],
+    "bib": [
+        {
+            "id": "f8fc975e-5330-4707-aa43-a1f5271d9e56",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Graf 1944",
+            "citation": "Graf, Georg. Geschichte der christlichen arabischen Literatur. Vatican City: Biblioteca Apostolica Vaticana, 1944.",
+            "range": "vol. 1, pp. 290-310"
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

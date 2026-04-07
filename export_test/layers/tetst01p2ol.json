@@ -1,0 +1,190 @@
+{
+    "ark": "ark:/21198/tetst01p2ol",
+    "reconstruction": false,
+    "state": {
+        "id": "overtext",
+        "label": "Overtext"
+    },
+    "label": "Sinai Arabic 299, Part 2, Overtext",
+    "locus": "ff. 181r-210v",
+    "summary": "13th-century Arabic Lectionary supplement in Naskh",
+    "extent": "30 ff.",
+    "writing": [
+        {
+            "script": [
+                {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                }
+            ],
+            "locus": "ff. 181r-210v",
+            "note": [
+                "Different hand from Part 1"
+            ]
+        }
+    ],
+    "ink": [
+        {
+            "locus": "ff. 181r-210v",
+            "color": [
+                "black",
+                "red"
+            ],
+            "note": [
+                "Red used for liturgical rubrics and headings"
+            ]
+        }
+    ],
+    "layout": [
+        {
+            "locus": "ff. 181r-210v",
+            "columns": "1",
+            "lines": "19",
+            "dim": "Writing area: 220 x 150 mm",
+            "note": [
+                "Ruled in light brown ink"
+            ]
+        }
+    ],
+    "text_unit": [
+        {
+            "id": "ark:/21198/tetst01p2olt1",
+            "label": "Primary Text Unit 1",
+            "locus": "ff. 181r-210v"
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "13th c. CE",
+            "iso": {
+                "not_before": "1201",
+                "not_after": "1300"
+            },
+            "note": [
+                "Paleographic dating"
+            ]
+        }
+    ],
+    "assoc_name": [
+        {
+            "value": "Unknown scribe",
+            "role": {
+                "id": "scribe",
+                "label": "Scribe"
+            },
+            "note": [
+                "Hand differs from Part 1; identity unknown"
+            ]
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "Written by a different scribe than Part 1; added to the codex at a later date"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst01"
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Arabic Manuscripts Project",
+                "description": "Described as part of the Sinai Arabic Manuscripts Project (2020-2025)."
+            }
+        ]
+    },
+    "para": [
+        {
+            "type": {
+                "id": "framing",
+                "label": "Framing"
+            },
+            "subtype": [
+                {
+                    "id": "rubric",
+                    "label": "Rubric"
+                }
+            ],
+            "locus": "f. 181r",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "بسم الله الرحمن الرحيم",
+            "translation": [
+                "In the name of God the compassionate and merciful"
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "unidentified-text",
+            "label": "Unidentified Text"
+        }
+    ],
+    "assoc_place": [
+        {
+            "id": "ark:/21198/s1place02",
+            "event": {
+                "id": "origin",
+                "label": "Origin Place"
+            },
+            "note": [
+                "Likely produced at Sinai given the later addition context"
+            ]
+        }
+    ],
+    "bib": [
+        {
+            "id": "cef990ad-bad4-455d-a424-80c264c73d2b",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Atiya 1955",
+            "citation": "Atiya, Aziz S. The Arabic Manuscripts of Mount Sinai. Baltimore: Johns Hopkins Press, 1955.",
+            "range": "p. 29",
+            "alt_shelf": "[299]"
+        }
+    ],
+    "related_mss": [
+        {
+            "type": {
+                "id": "filiation",
+                "label": "Filiation"
+            },
+            "label": "Related lectionary supplements",
+            "note": [
+                "Part 2 lectionary supplement shares text tradition with Sinai Arabic 300, Part 3"
+            ],
+            "mss": [
+                {
+                    "label": "Related manuscript (ark:/21198/z1ms5bh5)",
+                    "id": "ark:/21198/z1ms5bh5"
+                }
+            ]
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

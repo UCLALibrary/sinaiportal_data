@@ -1,0 +1,89 @@
+{
+    "ark": "ark:/21198/tetst03p3olt1",
+    "reconstruction": false,
+    "label": "Liturgical supplement",
+    "locus": "ff. 281r-308v",
+    "lang": [
+        {
+            "id": "arab1395",
+            "label": "Arabic"
+        }
+    ],
+    "work_wit": [
+        {
+            "work": {
+                "desc_title": "Liturgical supplement with additional offices",
+                "genre": [
+                    {
+                        "id": "liturgical-texts",
+                        "label": "Liturgical texts"
+                    }
+                ]
+            },
+            "contents": [
+                {
+                    "label": "Easter vigil service, ff. 281r-290v",
+                    "note": [
+                        "Includes responsorial chants"
+                    ]
+                },
+                {
+                    "label": "Good Friday office, ff. 291r-300v"
+                },
+                {
+                    "label": "Pentecost prayers, ff. 301r-308v"
+                }
+            ]
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst03p3ol"
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Arabic Manuscripts Project",
+                "description": "Described as part of the Sinai Arabic Manuscripts Project (2020-2025)."
+            }
+        ]
+    },
+    "summary": "A liturgical supplement containing offices for Easter vigil, Good Friday, and Pentecost.",
+    "features": [
+        {
+            "id": "unidentified-text",
+            "label": "Unidentified Text"
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "Text unidentified; may be a local Sinai compilation"
+        }
+    ],
+    "bib": [
+        {
+            "id": "14b8fd0b-b72b-4f65-ace2-cb619e28935a",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Graf 1944",
+            "citation": "Graf, Georg. Geschichte der christlichen arabischen Literatur. Vatican City: Biblioteca Apostolica Vaticana, 1944.",
+            "range": "vol. 1, pp. 290-310"
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}
