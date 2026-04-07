@@ -1,0 +1,59 @@
+{
+  "ark": "ark:/21198/s18w85",
+  "reconstruction": false,
+  "label": "Synaxarion, followed by an incomplete list of seventy disciples",
+  "locus": "ff. 1r-183v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1h30c"
+      },
+      "alt_title": "Synaxarium, Part II, from the months of Adhar (March) to Ab (August)",
+      "locus": "ff. 1r-182v",
+      "contents": [
+        {
+          "label": "Adar, ff. 1r-25r"
+        },
+        {
+          "label": "Nisan, ff. 25r-47v"
+        },
+        {
+          "label": "Iyar, ff. 47v-82r"
+        },
+        {
+          "label": "Haziran, ff. 82r-107v"
+        },
+        {
+          "label": "Tammuz, ff. 107v-140r"
+        },
+        {
+          "label": "Ab, ff. 140r-182v"
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "Incomplete list of seventy disciples",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 182v-183v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1g896"
+  ]
+}

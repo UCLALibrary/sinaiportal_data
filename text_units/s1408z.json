@@ -1,22 +1,26 @@
 {
-    "ark": "ark:/21198/s1408z",
-    "reconstruction": false,
-    "label": "Troparion",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1vc88"
-            },
-            "locus": "ff. 1r-97v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s19d0m"
-    ]
+  "ark": "ark:/21198/s1408z",
+  "reconstruction": false,
+  "label": "Troparion",
+  "locus": "ff. 1r-97v",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1vc88"
+      },
+      "locus": "ff. 1r-97v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s19d0m"
+  ]
 }

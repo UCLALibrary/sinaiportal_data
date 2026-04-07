@@ -1,70 +1,52 @@
 {
-    "ark": "ark:/21198/s1q621",
-    "reconstruction": false,
-    "label": "Sinai Syriac 260, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1q621",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 260, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1ht10",
+      "label": "Item 1",
+      "locus": "ff. 1r-129v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "119r-119v",
+      "lang": [
         {
-            "id": "ark:/21198/s1ht10",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "119r-119v",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܫܩܠ ܟܝܬ ܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܕܡ̈ܙ̄ܡܘ. ܫ̈ܢܐ ܐܠܦ ܘܪܒܥ ܡ̈ܐܐ ܘܬܫ̈ܥܝܢ ܘܫܒܥ ܒܕܝܘ̈ܢܝܐ.. ܐܝܟ ܡܝܢܝܢܐ ܕܐܠܟܫܢܕܪܘܣ. ܒܪ ܦܝܠܦܘܣ.. ܒܝܪܚ. ܐܝܪ. ܟܪ. ܒܗ. ܣܡ ܫܒܬܐ. ܐܬܢܬ ܐܬܟܬܒ ܕܝܢ ܒܕܝܪܐ ܩܕ̄ ܕܝܠܕܬ ܐܠܗܐ ܒܨܕܢܝܐ. ܒܐܝܕܝ ܐܢܫ ܡܚܝܠܐ ܘܚܛܝܐ. ܘܣܢܝܩ ܥܠ ܪ̈ܚܡܐ ܕܡܪܝܐ.. ܐܠܐ ܬܒܥ ܐܢܐ ܐܚ̈ܝ ܡܢ ܟܠ ܕܦܓܥ ܒܟܬܒܐ ܗܢܐ. ܕܐܢ ܐܢܬ ܦܘܕܐ. ܐܘ ܓܠܛܐ ܕܡܕܡ ܗܘ ܢ̇ܬܪܨ ܒܡܘܗܪܘܬܚ ܘܠܝ ܫܘܒܩܢܐ ܢܣܪܚ. ܟܬܒܗ ܕܝܢ ܝܬܚܢܢ. ܒܪ ܟܬܝܪ ܡܢܚܝ ܡܪܝܐ ܢܦܫܗ..",
-            "note": [
-                "Attested places:  in monastery of Virgin at Saidnaya"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1182 CE",
-            "iso": {
-                "not_before": "1182"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1z33hdb"
-    ]
+      ],
+      "as_written": "ܫܩܠ ܟܝܬ ܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܕܡ̈ܙ̄ܡܘ. ܫ̈ܢܐ ܐܠܦ ܘܪܒܥ ܡ̈ܐܐ ܘܬܫ̈ܥܝܢ ܘܫܒܥ ܒܕܝܘ̈ܢܝܐ.. ܐܝܟ ܡܝܢܝܢܐ ܕܐܠܟܫܢܕܪܘܣ. ܒܪ ܦܝܠܦܘܣ.. ܒܝܪܚ. ܐܝܪ. ܟܪ. ܒܗ. ܣܡ ܫܒܬܐ. ܐܬܢܬ ܐܬܟܬܒ ܕܝܢ ܒܕܝܪܐ ܩܕ̄ ܕܝܠܕܬ ܐܠܗܐ ܒܨܕܢܝܐ. ܒܐܝܕܝ ܐܢܫ ܡܚܝܠܐ ܘܚܛܝܐ. ܘܣܢܝܩ ܥܠ ܪ̈ܚܡܐ ܕܡܪܝܐ.. ܐܠܐ ܬܒܥ ܐܢܐ ܐܚ̈ܝ ܡܢ ܟܠ ܕܦܓܥ ܒܟܬܒܐ ܗܢܐ. ܕܐܢ ܐܢܬ ܦܘܕܐ. ܐܘ ܓܠܛܐ ܕܡܕܡ ܗܘ ܢ̇ܬܪܨ ܒܡܘܗܪܘܬܚ ܘܠܝ ܫܘܒܩܢܐ ܢܣܪܚ. ܟܬܒܗ ܕܝܢ ܝܬܚܢܢ. ܒܪ ܟܬܝܪ ܡܢܚܝ ܡܪܝܐ ܢܦܫܗ..",
+      "note": [
+        "Attested places:  in monastery of Virgin at Saidnaya"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1z33hdb"
+  ]
 }

@@ -1,22 +1,26 @@
 {
-    "ark": "ark:/21198/s1hd40",
-    "reconstruction": false,
-    "label": "Anthologion",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1mg6c"
-            },
-            "locus": "ff. 2r-242v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1ps5q"
-    ]
+  "ark": "ark:/21198/s1hd40",
+  "reconstruction": false,
+  "label": "Anthologion",
+  "locus": "ff. 2r-242v",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1mg6c"
+      },
+      "locus": "ff. 2r-242v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1ps5q"
+  ]
 }

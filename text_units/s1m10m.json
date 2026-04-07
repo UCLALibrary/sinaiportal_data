@@ -1,43 +1,39 @@
 {
-    "ark": "ark:/21198/s1m10m",
-    "reconstruction": false,
-    "label": "Unidentified",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
+  "ark": "ark:/21198/s1m10m",
+  "reconstruction": false,
+  "label": "Unidentified",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Unidentified text",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "note": [
+        "Arabic is visible on fols. 1r-v, 2v (barely), 3r (two words can be recognized: “anger” – spelled colloquially, which may point to a Christian text – and “God”), and 3v. Fol. 1r has “upon the parents” and “by his/its rays”. This is probably a theological or ethical Christian text, perhaps Patristic"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Unidentified text",
-                "genre": [
-                    {
-                        "id": "theological-works",
-                        "label": "Theological works"
-                    }
-                ]
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "contents",
-                "label": "Contents Note"
-            },
-            "value": "Arabic is visible on fols. 1r-v, 2v (barely), 3r (two words can be recognized: “anger” – spelled colloquially, which may point to a Christian text – and “God”), and 3v. Fol. 1r has “upon the parents” and “by his/its rays”. This is probably a theological or ethical Christian text, perhaps Patristic"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Alexander Treiger"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1z058"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1z058"
+  ]
 }

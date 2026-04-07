@@ -1,42 +1,36 @@
 {
-    "ark": "ark:/21198/s10d3z",
-    "reconstruction": false,
-    "label": "Menologion for the whole year",
-    "lang": [
+  "ark": "ark:/21198/s10d3z",
+  "reconstruction": false,
+  "label": "Menologion for the whole year",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s16s3m"
+      },
+      "alt_title": "Menologion for the whole year",
+      "locus": "ff. 1r-619r",
+      "excerpt": [
         {
-            "id": "arab1395",
-            "label": "Arabic"
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 1r",
+          "as_written": "نبتدي بعون الله تعالیٰ و إرشاده و حسن توفيقه نكتب"
         }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s16s3m"
-            },
-            "alt_title": "Menologion for the whole year",
-            "locus": "ff. 1r-619r",
-            "excerpt": [
-                {
-                    "type": {
-                        "id": "incipit",
-                        "label": "Incipit"
-                    },
-                    "locus": "f. 1r",
-                    "as_written": "نبتدي بعون الله تعالیٰ و إرشاده و حسن توفيقه نكتب"
-                }
-            ]
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "contents",
-                "label": "Contents Note"
-            },
-            "value": "Includes introduction and index at the beginning"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s15s4p"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s15s4p"
+  ]
 }

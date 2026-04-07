@@ -1,0 +1,35 @@
+{
+  "ark": "ark:/21198/s1np74",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 170, Overtext (East Syriac)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "east-syriac",
+          "label": "East Syriac",
+          "writing_system": "Syriac"
+        }
+      ],
+      "note": [
+        "East Syriac with vocalization"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1g96d",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z103096b"
+  ]
+}

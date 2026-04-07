@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s1h03g",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 240, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s19m0p",
+      "label": "Item 1",
+      "locus": "ff. 1r-196v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 183v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "نجز هذا الكتاب يوم الثلثاء ثاني عشر تشرين الاول سنة ست ألف وخمسمائه خمسة وأربعين للعالم وهو برسم  الأب الراهب … أبا سابا الكركي الله يغفر له ويرحم والديه ويغفر لمن كتب وقال آمين المجد لله دائما آمين ",
+      "assoc_date": [
+        {
+          "value": "1037 CE",
+          "iso": {
+            "not_before": "1037"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "1037 = 6545"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1g74j2p"
+  ]
+}

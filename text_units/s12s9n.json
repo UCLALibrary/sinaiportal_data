@@ -1,45 +1,48 @@
 {
-    "ark": "ark:/21198/s12s9n",
-    "reconstruction": false,
-    "label": "Homilies of St. John Chrysostom",
-    "lang": [
+  "ark": "ark:/21198/s12s9n",
+  "reconstruction": false,
+  "label": "Homilies of St. John Chrysostom",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Homilies of St. John Chrysostom",
+        "creator": [
+          "ark:/21198/s1x303"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "apophthegmata",
+            "label": "Apophthegmata"
+          }
+        ]
+      },
+      "locus": "ff. 1r-317r",
+      "excerpt": [
         {
-            "id": "arab1395",
-            "label": "Arabic"
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 318v",
+          "as_written": "نبتدي بعون الله و حسن توفيقه و إرشاده و تسديده نكتب"
         }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Homilies of St. John Chrysostom",
-                "creator": [
-                    "ark:/21198/s1x303"
-                ],
-                "genre": [
-                    {
-                        "id": "theological-works",
-                        "label": "Theological works"
-                    },
-                    {
-                        "id": "apophthegmata",
-                        "label": "Apophthegmata"
-                    }
-                ]
-            },
-            "locus": "ff. 1r-317r",
-            "excerpt": [
-                {
-                    "type": {
-                        "id": "incipit",
-                        "label": "Incipit"
-                    },
-                    "locus": "f. 318v",
-                    "as_written": "نبتدي بعون الله و حسن توفيقه و إرشاده و تسديده نكتب"
-                }
-            ]
-        }
-    ],
-    "parent": [
-        "ark:/21198/s18607"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s18607"
+  ]
 }

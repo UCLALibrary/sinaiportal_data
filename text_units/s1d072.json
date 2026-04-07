@@ -1,0 +1,93 @@
+{
+  "ark": "ark:/21198/s1d072",
+  "reconstruction": false,
+  "label": "Liturgical Varia",
+  "locus": "ff. 3v-482r",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s10k5f"
+      },
+      "alt_title": "Four Gospels, divided according to Greek Calendar with indices at beginning",
+      "locus": "ff. 3v-254r",
+      "contents": [
+        {
+          "label": "Matthew, ff. 5r-72v"
+        },
+        {
+          "label": "Mark, ff. 75r-118v"
+        },
+        {
+          "label": "Luke, ff. 121r-197v"
+        },
+        {
+          "label": "John, ff. 199r-254r"
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "A table of Gospel readings for the whole year",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          },
+          {
+            "id": "lectionaries",
+            "label": "Lectionaries"
+          },
+          {
+            "id": "biblical-texts",
+            "label": "Biblical texts"
+          },
+          {
+            "id": "gospel-books",
+            "label": "Gospel books"
+          }
+        ]
+      },
+      "locus": "ff. 255r-304v"
+    },
+    {
+      "work": {
+        "desc_title": "Commentary on Gospel lessons for Sundays and Feasts",
+        "genre": [
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          },
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          }
+        ]
+      },
+      "locus": "ff. 305r-478v"
+    },
+    {
+      "work": {
+        "desc_title": "A table of readings",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          }
+        ]
+      },
+      "locus": "ff. 479v-482r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1kc7d"
+  ]
+}

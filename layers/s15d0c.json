@@ -1,0 +1,66 @@
+{
+  "ark": "ark:/21198/s15d0c",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 548, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1008q",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 194r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "وكان الفراغ من هذه الكتاب المبارك من أول شهر حزيران سنة ستة آلاف وثمانمائة وأربعة عشر في الدير المقدس طور سيناء فمن وجد الغلط يسامح الكاتب بذلك لأن كل أحد تحت النقص الرب يغفر لمن كتب وقرأ فيه ",
+      "assoc_date": [
+        {
+          "value": "1306 CE",
+          "iso": {
+            "not_before": "1306"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "1 Huzayran 6814"
+          ]
+        }
+      ],
+      "note": [
+        "Attested places:  Mount Sinai"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1126wx1"
+  ]
+}

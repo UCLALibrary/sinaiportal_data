@@ -1,41 +1,29 @@
 {
-    "ark": "ark:/21198/s1s364",
-    "reconstruction": false,
-    "label": "Liturgy of Saint John Chrysostom",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        },
-        {
-            "id": "gree1276",
-            "label": "Greek"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1g88t"
-            },
-            "locus": "ff. 2r-16v"
-        }
-    ],
-    "features": [
-        {
-            "id": "parallel-text",
-            "label": "Parallel text"
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "contents",
-                "label": "Contents Note"
-            },
-            "value": "Greek and Arabic parallel text, ff. 2r-11br"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1zg87"
-    ]
+  "ark": "ark:/21198/s1s364",
+  "reconstruction": false,
+  "label": "Liturgy of Saint John Chrysostom",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    },
+    {
+      "id": "gree1276",
+      "label": "Greek"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1g88t"
+      },
+      "locus": "ff. 2r-16v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1zg87"
+  ]
 }

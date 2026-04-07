@@ -1,35 +1,28 @@
 {
-    "ark": "ark:/21198/s1nh14",
-    "reconstruction": false,
-    "label": "Four Gospels",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s10k5f"
-            },
-            "alt_title": "Four Gospels",
-            "locus": "ff. 3r-167v",
-            "note": [
-                "St. Matthew begins with I, 22"
-            ]
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "contents",
-                "label": "Contents Note"
-            },
-            "value": "Preceded by introduction and chapter index."
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1tw2v"
-    ]
+  "ark": "ark:/21198/s1nh14",
+  "reconstruction": false,
+  "label": "Four Gospels",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s10k5f"
+      },
+      "locus": "ff. 3r-167v",
+      "note": [
+        "St. Matthew begins with I, 22"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1tw2v"
+  ]
 }

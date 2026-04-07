@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s1ts4k",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 145, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1nd2g",
+      "label": "Item 1",
+      "locus": "ff. 1r-165v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 160v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "نجزت المقالات المباركة بعون الله وتأييده وإرشاده في يوم الإثنين السادس عشر من تشرين الثاني سنة ألف ومائتين وحد وثمانين سنة للتجسد الإلهي لذكر السجود إلى الأبد آمين الموفق لسابع شهر جمادى الاول سنة خمسة وسبعين وستمائة الهجرة كتبه العبد الفقير إلى رحمة ربه نصير ابن القس صالح المقدس رحم الله من قـرأ فيه ودعا له بالمغفرة ورحم بني المعمودية بشفاعة السيدة أم النور وجميع القديسين والأنبياء المرسلين والرسل الحواريون آمين آمين آمين والسبح لله دائما وعلينا رحمته آمين ",
+      "assoc_date": [
+        {
+          "value": "1281 CE",
+          "iso": {
+            "not_before": "1281"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Monday 16 Tishrin II 1281 (incarnation) :: Monday, November 16, 1281 CE ; Monday 7 Jumada I 675 (hijri) :: Monday, October 29, 1276 CE"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1989bbg"
+  ]
+}

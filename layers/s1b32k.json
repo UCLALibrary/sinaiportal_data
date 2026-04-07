@@ -1,101 +1,62 @@
 {
-    "ark": "ark:/21198/s1b32k",
-    "reconstruction": false,
-    "label": "Sinai Syriac 227, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1b32k",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 227, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s14q1j",
+      "label": "Item 1",
+      "locus": "ff. 1r-246v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "237v-238v",
+      "lang": [
         {
-            "id": "ark:/21198/s14q1j",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "ܐܬܟܬܒ ܕܝܢ ܘܐܬܫܡܠܝ ܣܘܢܟܘܩܒܝܢ ܗܢܐ ܐܘ ܟܝܬ ܦܪܘܪ ܫ ܩܪ̈ܝܢܐ ܡܢ ܦܪܟܣܝܣ ܕܫ̈ܠܝܚܐ ܘܐܝܓܪܬܐ ܕܦܘܠܘܣ ܫܠܝܚܐ. ܐܝܟ ܕܠܗܕܪܐ ܘܐܝܩܪܐ ܕܬܠܘܬܝܘܬܐ ܘܩܕܝܫܬܐ ܘܫܘܝܬ ܒܐܘܣܝܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩܘܕܫܐ ܫܢܬ ܫܬܐ ܐܦ̈ܝܢ ܘܬܡܢ̇ܡ̈ܐܐ ܘܚ̣ܕܐ ܠܐܒܘܢ ܐܕܡ ܒ̣ܝܪܚ ܬܡܘܙ ܒܪܒܥ ܬܥܣܪ ܝܘ̈ܡܝܢ ܒܗ̣ ܝܘܡ ܬܠܬ ܒܬ̇ܪܝܢ ܫ̈ܥܝܢ ܒܗ ܡܪܝܐ ܚܝܠܬܢܐ ܗܘ ܢܚܘܢ ܘܢܚܣܐ ܘܫܒܘܩ ܒܟܬܘܒܐ ܘܠܩܪܘܝܐ ܘܠܩܢܘܝܐ ܢܩܪܐ ܘܢܩܝܡ ܐܢܘܢ ܒܡܠܟܘܬܗ ܫܡܝܢܝܬܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܕܟܠܗܘܢ ܩ̈ܕܝܫܐ ܕܡܢ ܥܠܡ ܥܠܡܝܢ ܐܡܝܢ ܟܬܒܗ ܕܝܢ ܡܚܝܠܐ ܘܚܛܝܐ ܘܬܚܘܒܐ ܕܟܠܗܘܢ ܒܢܝ̈ܢܫܐ ܕܢܬܪܩܐ ܒܫܡܐ ܘܠܐ ܒܥܒܕܐ ܩܫܝܫܐ ܘܒܫܡܐ ܘܕܝܪܝܘܢܐ ܟܘܠܘܣ ܒܪܕܘܝܕ ܡܢ ܩܝܪܝܬ ܢܛܝܪܝܬ ܒܐܠܗܐ ܡܥܪܐ. ܕܨ݊ܢ̣ܝܐܝܠ ܡܢ ܛܘܪܐ ܕܣܢܝܪ ܡܢ ܥܡܠܐ ܕܪܡܣ̇ܘܩ ܡܕܝܢܬܐ. ܐܠܐ ܐܚ̈ܝ ܫܦܝܣ ܐܢܐ ܘܡܬܟܫܦܢܐ ܒܪܕܝܢܘܬ ܨܘܪܐ ܕܝܠܝ ܕܟܠ ܡ̇ܢ ܕܦܓܥ ܒܟܬܒܐ ܗܢܐ. ܒܚܕ ܡܢ ܦܘܪ̈ܨܝܢ ܢܨܠܐ ܥܠ ܚܛܝܐ ܕܣܪܛ̇ ܐܝܟ ܚܝܠܗ ܘܐܢ ܡܕܡ ܕܡܫܬܟܚ ܒܗ ܓܠܛܐ ܐܘܦܘܕܐ ܘܐ ܝܬܝܐ ܐܚܣܝܪܐ ܕܠܐ ܬܥܕܘܠ ܐܘ ܩܪܘܝܐ ܡܛܠ ܕܒܪܝܐ ܐܝܬܝ ܘܟܠ ܒܪܝܐ ܘܚܣܝܪܐ ܗܘ. ܘܕܐܠܗܐ ܐܝܬܘܗܝ ܐܬܟܬܒ ܒܕܝܪ ܩܕ ܕܐܠܗܐ ܛܘܪ ܣܝܢܝ ܐܠܗܐ ܢܢܝܚ ܠܟܬܘܒܐ ܘܠܩܘܝܐ ܘܠܫܡܘܥܐ ܐܡܝܢ",
+      "assoc_name": [
         {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "deco-vegetative",
-            "label": "Decoration, Vegetative"
-        },
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "border",
-            "label": "Border(s)"
+          "value": "Paulos bar Dawid",
+          "as_written": "ܦܘܠܘܣ ܒܪ ܕܘܝܕ",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "237v-238v",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܐܬܟܬܒ ܕܝܢ ܘܐܬܫܡܠܝ ܣܘܢܟܘܩܒܝܢ ܗܢܐ ܐܘ ܟܝܬ ܦܪܘܪ ܫ ܩܪ̈ܝܢܐ ܡܢ ܦܪܟܣܝܣ ܕܫ̈ܠܝܚܐ ܘܐܝܓܪܬܐ ܕܦܘܠܘܣ ܫܠܝܚܐ. ܐܝܟ ܕܠܗܕܪܐ ܘܐܝܩܪܐ ܕܬܠܘܬܝܘܬܐ ܘܩܕܝܫܬܐ ܘܫܘܝܬ ܒܐܘܣܝܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩܘܕܫܐ ܫܢܬ ܫܬܐ ܐܦ̈ܝܢ ܘܬܡܢ̇ܡ̈ܐܐ ܘܚ̣ܕܐ ܠܐܒܘܢ ܐܕܡ ܒ̣ܝܪܚ ܬܡܘܙ ܒܪܒܥ ܬܥܣܪ ܝܘ̈ܡܝܢ ܒܗ̣ ܝܘܡ ܬܠܬ ܒܬ̇ܪܝܢ ܫ̈ܥܝܢ ܒܗ ܡܪܝܐ ܚܝܠܬܢܐ ܗܘ ܢܚܘܢ ܘܢܚܣܐ ܘܫܒܘܩ ܒܟܬܘܒܐ ܘܠܩܪܘܝܐ ܘܠܩܢܘܝܐ ܢܩܪܐ ܘܢܩܝܡ ܐܢܘܢ ܒܡܠܟܘܬܗ ܫܡܝܢܝܬܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܕܟܠܗܘܢ ܩ̈ܕܝܫܐ ܕܡܢ ܥܠܡ ܥܠܡܝܢ ܐܡܝܢ ܟܬܒܗ ܕܝܢ ܡܚܝܠܐ ܘܚܛܝܐ ܘܬܚܘܒܐ ܕܟܠܗܘܢ ܒܢܝ̈ܢܫܐ ܕܢܬܪܩܐ ܒܫܡܐ ܘܠܐ ܒܥܒܕܐ ܩܫܝܫܐ ܘܒܫܡܐ ܘܕܝܪܝܘܢܐ ܟܘܠܘܣ ܒܪܕܘܝܕ ܡܢ ܩܝܪܝܬ ܢܛܝܪܝܬ ܒܐܠܗܐ ܡܥܪܐ. ܕܨ݊ܢ̣ܝܐܝܠ ܡܢ ܛܘܪܐ ܕܣܢܝܪ ܡܢ ܥܡܠܐ ܕܪܡܣ̇ܘܩ ܡܕܝܢܬܐ. ܐܠܐ ܐܚ̈ܝ ܫܦܝܣ ܐܢܐ ܘܡܬܟܫܦܢܐ ܒܪܕܝܢܘܬ ܨܘܪܐ ܕܝܠܝ ܕܟܠ ܡ̇ܢ ܕܦܓܥ ܒܟܬܒܐ ܗܢܐ. ܒܚܕ ܡܢ ܦܘܪ̈ܨܝܢ ܢܨܠܐ ܥܠ ܚܛܝܐ ܕܣܪܛ̇ ܐܝܟ ܚܝܠܗ ܘܐܢ ܡܕܡ ܕܡܫܬܟܚ ܒܗ ܓܠܛܐ ܐܘܦܘܕܐ ܘܐ ܝܬܝܐ ܐܚܣܝܪܐ ܕܠܐ ܬܥܕܘܠ ܐܘ ܩܪܘܝܐ ܡܛܠ ܕܒܪܝܐ ܐܝܬܝ ܘܟܠ ܒܪܝܐ ܘܚܣܝܪܐ ܗܘ. ܘܕܐܠܗܐ ܐܝܬܘܗܝ ܐܬܟܬܒ ܒܕܝܪ ܩܕ ܕܐܠܗܐ ܛܘܪ ܣܝܢܝ ܐܠܗܐ ܢܢܝܚ ܠܟܬܘܒܐ ܘܠܩܘܝܐ ܘܠܫܡܘܥܐ ܐܡܝܢ",
-            "assoc_name": [
-                {
-                    "value": "Paulos bar Dawid",
-                    "as_written": "ܦܘܠܘܣ ܒܪ ܕܘܝܕ",
-                    "role": {
-                        "id": "scribe",
-                        "label": "Scribe"
-                    }
-                }
-            ],
-            "note": [
-                "Attested places:  from Saidnaya"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1293 CE",
-            "iso": {
-                "not_before": "1293"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Geometric and vegetative headpieces throughout, beginning on ff. 9br I Minor decoration, f. 85r I Border, f. 155r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1vx215c"
-    ]
+      ],
+      "note": [
+        "Attested places:  from Saidnaya"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1vx215c"
+  ]
 }

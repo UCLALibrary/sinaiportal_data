@@ -1,22 +1,29 @@
 {
-    "ark": "ark:/21198/s1fm2p",
-    "reconstruction": false,
-    "label": "Octoechos",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1tg7m"
-            },
-            "locus": "ff. 1r-258r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1n03q"
-    ]
+  "ark": "ark:/21198/s1fm2p",
+  "reconstruction": false,
+  "label": "Octoechos",
+  "locus": "ff. 1r-258r",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1tg7m"
+      },
+      "locus": "ff. 1r-258r",
+      "note": [
+        "Two Arabic pages follow."
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1n03q"
+  ]
 }

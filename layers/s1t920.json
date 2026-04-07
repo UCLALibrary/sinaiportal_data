@@ -1,68 +1,33 @@
 {
-    "ark": "ark:/21198/s1t920",
-    "reconstruction": false,
-    "label": "Sinai Syriac 200, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1t920",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 200, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1mx0k",
-            "label": "Item 1"
-        }
-    ],
-    "features": [
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "13th c. CE",
-            "iso": {
-                "not_before": "1201",
-                "not_after": "1300"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Minor geometric headpieces ff. 11r, 71v an between ff. 252r-374r"
-        },
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Partially bordered text, f. 183v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z14q9cmd"
-    ]
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1mx0k",
+      "label": "Item 1",
+      "locus": "ff. 1r-388v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z14q9cmd"
+  ]
 }

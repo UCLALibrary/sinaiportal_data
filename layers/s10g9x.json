@@ -1,68 +1,49 @@
 {
-    "ark": "ark:/21198/s10g9x",
-    "reconstruction": false,
-    "label": "Sinai CPA NF frag 17, Undertext (Christian Palestinian Aramaic)",
-    "locus": "ff. 1–2",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s10g9x",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai CPA NF frag 17, Undertext (Christian Palestinian Aramaic)",
+  "locus": "ff. 1–2",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "cpa",
-                    "label": "Christian Palestinian Aramaic",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "Formal script"
-            ]
+          "id": "cpa",
+          "label": "Christian Palestinian Aramaic",
+          "writing_system": "Syriac"
         }
+      ],
+      "note": [
+        "Formal script"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "17 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1nh48",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "2 columns",
-            "lines": "17 lines"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1nh48",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "9th c. ? CE",
-            "iso": {
-                "not_before": "0775",
-                "not_after": "0925"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 2r, 1r, 1v"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Alain J. Desreumaux"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1nk3q1x"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1nk3q1x",
+    "ark:/21198/z1dw29zm"
+  ]
 }

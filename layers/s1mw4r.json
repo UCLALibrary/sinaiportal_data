@@ -1,0 +1,78 @@
+{
+  "ark": "ark:/21198/s1mw4r",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 441, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1fd2m",
+      "label": "Item 1",
+      "locus": "ff. 2r-320v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 118r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "تم هذا الكتاب المبارك وصح في يوم الخميس تاسع وعشرين يوما ماضيه في اب في سنو الف وخمسمائه وثمنين من سنين للالكسندر بن فيلبوس اليوناني الموافق لخمسمائه واثنين وتسعين سنة للهجرة … / غفر الله له ولوالديه ولجميع بني المعمودية ولكل من قرأ فيه وترحم على كاتبه وذكر بالرحمة والمغفرة رحمه الله يكون عبد (؟) وعلى جميع الصالحين هذا الدفتر برسم القس سرغس بن القس سراج قس كفرنا غفر الله له ولوالديه…غفر الله له  يغفره  لا سخط بعدها بشفاعة السيدة أم النور وجميع القديسين آمين رب [العالمين] وكل من استفاد هذا الكتاب واستنفع فيه ورده إلى القس سرغس ؟ غفر الله له ومن دفع بيده وحياء عنه يكون الله …",
+      "assoc_name": [
+        {
+          "value": "Father Sergius son of Father Sirāj, priest of Kafrna",
+          "as_written": "القس سرغس بن القس سراج قس كفرنا",
+          "role": {
+            "id": "patron",
+            "label": "Patron"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1268/1269 CE",
+          "iso": {
+            "not_before": "1268",
+            "not_after": "1269"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Thursday 29 Ab 1580 (alexander) :: 592 (hijra)"
+          ]
+        }
+      ],
+      "note": [
+        "Colophon also mentions an independent Hijri date 592 AH ≈ 1196 CE that precedes the completion date by roughly 72 years."
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1x93fkh"
+  ]
+}

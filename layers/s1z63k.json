@@ -1,0 +1,58 @@
+{
+  "ark": "ark:/21198/s1z63k",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 159, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1rq3w",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "138v-139r",
+      "lang": [
+        {
+          "id": "class1252",
+          "label": "Syriac"
+        }
+      ],
+      "as_written": "ܫܠܡ ܣܒܪܬܐ ܗܕܐ ܕܡܬܝ ܐܘܢܓܠܝܘܢ ܝܘܡ ܒ̄ ܒ̄ܫ ܟ̄ܓ ܒܝܪܚܐ ܫܒܛ ܫܢܬܐ ܫ̈ܬ ܐܠܦܝܢ ܘܫܒܥܡ̈ܐܐ ܘܫܬܝܢ ܘܬܡ̈ܢܝܐ ܠܐܒܘܢ ܐܕܡ... ܒܓܝܪܐ ܛܘܪܐ ܕܣ̈ܝܢܝ: ܒܐܝܕܐ ܐܝܫܐ ܚܛܝܐ ܘܬܚܡܐ ܘܠܐ ܫܘܐ ܕܢܬܩܪܐ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪܡܢܨܡ̇ ܘܗܘ̣ ܢ̇ܫܐܠ ܟܠܡܢ ܕܩܪܐ ܒܗ ܐܬܕܟܪ ܠܗ ܒܪ̈ܚܡܐ ܘܫܘܒܩܢܐ ܕܚܛܗ̈ܐ ܘܠܐܒ̈ܘܗܝ ܒܬܟܫ̈ܦܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܟܠܗܘܢ ܩ̈ܕܝܫܐ ܘܩ̈ܕܝܫܬܐ ܐܡܝܢ܀",
+      "assoc_name": [
+        {
+          "value": "Yuhannon bar Mansour",
+          "as_written": "ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1cc2jf9"
+  ]
+}

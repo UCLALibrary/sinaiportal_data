@@ -1,46 +1,41 @@
 {
-    "ark": "ark:/21198/s1294x",
-    "reconstruction": false,
-    "label": "Miracles and teachings of St. Simeon",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Miracles and teachings of St. Simeon",
-                "genre": [
-                    {
-                        "id": "hagiographies",
-                        "label": "Hagiographies"
-                    },
-                    {
-                        "id": "theological-works",
-                        "label": "Theological works"
-                    }
-                ]
-            },
-            "locus": "ff. 1r-22v",
-            "contents": [
-                {
-                    "label": "Miracles of St. Simeon, number 9-16"
-                },
-                {
-                    "label": "Excerpt from the teaching of St. Simeon"
-                },
-                {
-                    "label": "Miracles of St. Simeon, numbers 172-202"
-                },
-                {
-                    "label": "Testament of St. Simeon"
-                }
-            ]
-        }
-    ],
-    "parent": [
-        "ark:/21198/s17p61"
-    ]
+  "ark": "ark:/21198/s1294x",
+  "reconstruction": false,
+  "label": "Miracles and teachings of St. Simeon",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Miracles and teachings of St. Simeon",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          },
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 1r-22v",
+      "note": [
+        "Miracles of St. Simeon, number 9-16",
+        "Excerpt from the teaching of St. Simeon",
+        "Miracles of St. Simeon, numbers 172-202",
+        "Testament of St. Simeon"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s17p61"
+  ]
 }

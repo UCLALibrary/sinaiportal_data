@@ -1,87 +1,52 @@
 {
-    "ark": "ark:/21198/s1vs8d",
-    "reconstruction": false,
-    "label": "Sinai Syriac 30, Undertext (Estrangela)",
-    "locus": "ff. 151, 155, 156, 159r, 160",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1vs8d",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Syriac 30, Undertext (Estrangela)",
+  "locus": "ff. 151, 155, 156, 159r, 160",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "estrangela",
-                    "label": "Estrangela",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "Early Estrangela"
-            ]
+          "id": "estrangela",
+          "label": "Estrangela",
+          "writing_system": "Syriac"
         }
+      ],
+      "note": [
+        "Early Estrangela"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "27 lines, varies",
+      "note": [
+        "Number of lines varies considerably"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1ht2c",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "2 columns",
-            "lines": "27 lines, varies",
-            "note": [
-                "Number of lines varies considerably"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1ht2c",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "6th c.  CE",
-            "iso": {
-                "not_before": "0501",
-                "not_after": "0600"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "North Mesopotamia",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 151r, 151v, 156r, 156v, 160r, 160v, 155r, 155v"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Sebastian Brock"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Lewis 1902, pp. 150*-157* ; Brock and Kessel, pp. 115-152 ; Müller-Kessler 2019, pp. 81-98"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z12n5hwt"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z12n5hwt",
+    "ark:/21198/z11p8s5w"
+  ]
 }

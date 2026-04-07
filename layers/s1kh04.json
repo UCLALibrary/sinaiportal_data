@@ -1,87 +1,52 @@
 {
-    "ark": "ark:/21198/s1kh04",
-    "reconstruction": false,
-    "label": "Sinai Arabic 588, Undertext (Christian Palestinian Aramaic)",
-    "locus": "ff. 33, 35, 45–46",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1kh04",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Arabic 588, Undertext (Christian Palestinian Aramaic)",
+  "locus": "ff. 33, 35, 45–46",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "cpa",
-                    "label": "Christian Palestinian Aramaic",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "Early large Christian Palestinian Aramaic"
-            ]
+          "id": "cpa",
+          "label": "Christian Palestinian Aramaic",
+          "writing_system": "Syriac"
         }
+      ],
+      "note": [
+        "Early large Christian Palestinian Aramaic"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "22 lines",
+      "note": [
+        "Presence of rulings for columns and lines"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s17h69",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "2 columns",
-            "lines": "22 lines",
-            "note": [
-                "Presence of rulings for columns and lines"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s17h69",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "6th-7th c.  CE",
-            "iso": {
-                "not_before": "0501",
-                "not_after": "0700"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "St. Catherine's Monastery",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 33v, 33r, 35v, 35r, 45r, 45v, 46v, 46r"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Christa Müller-Kessler"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: P. de Lagarde, Librorum Vetis Testamenti Canonicorum pars prior graece (Göttingen, 1883), p. 239 ; Gibson, Catalogue of the Arabic Manuscripts in the Convent of S. Catharine on Mount Sinai (Cambridge University Press, 1894), p. 125 ; J. F. Stenning apud G. H. Gwilliam, F. C. Burkitt, and J. F. Stenning, Biblical and Patristic Relics of the Palestinian Syriac Literature from MSS. in the Bodleian Library and in the Library of Saint Catherine on Mount Sinai, Anecdota Oxoniensia 1:9 (Oxford, 1896), p. 31-34 ; A. Rahlfs, Septuaginta-Studien, I-III (Göttingen, 1965), p. 370-655 ; N. Fernández Marcos and J. R. Busto-Saiz, El texto antioqueno de la Biblia Griega. Vol. 2, 1-2 Reyes (Madrid, 1992) ; Gibson, p. 125 ; Gwilliam, Burkitt, and Stenning, pp. 31-34"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z16m44r0"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z16m44r0",
+    "ark:/21198/z1hz24pk"
+  ]
 }

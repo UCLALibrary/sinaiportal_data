@@ -1,27 +1,30 @@
 {
-    "ark": "ark:/21198/s1593g",
-    "reconstruction": false,
-    "label": "Evangelion, the Eleven Gospel chapters recited on Sundays",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        },
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s19p4w"
-            },
-            "alt_title": "Lectionary (Gospels), the Eleven Gospel chapters recited on Sundays",
-            "locus": "ff. 49v-124v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1bs47"
-    ]
+  "ark": "ark:/21198/s1593g",
+  "reconstruction": false,
+  "label": "Evangelion, the Eleven Gospel chapters recited on Sundays",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    },
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s19p4w"
+      },
+      "alt_title": "Lectionary (Gospels), the Eleven Gospel chapters recited on Sundays",
+      "locus": "ff. 49v-124v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1bs47"
+  ]
 }

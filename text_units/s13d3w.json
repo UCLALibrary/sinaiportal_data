@@ -1,29 +1,26 @@
 {
-    "ark": "ark:/21198/s13d3w",
-    "reconstruction": false,
-    "label": "Euchologion",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1tp4j"
-            },
-            "alt_title": "Book of Liturgy (Euchologia)",
-            "locus": "ff. 2r-223v"
-        }
-    ],
-    "features": [
-        {
-            "id": "parallel-text",
-            "label": "Parallel text"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s18s4m"
-    ]
+  "ark": "ark:/21198/s13d3w",
+  "reconstruction": false,
+  "label": "Euchologion",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1tp4j"
+      },
+      "alt_title": "Book of Liturgy (Euchologia)",
+      "locus": "ff. 2r-223v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s18s4m"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-    "ark": "ark:/21198/s1k40b",
-    "reconstruction": false,
-    "label": "Homily on Genesis",
-    "lang": [
-        {
-            "id": "gree1276",
-            "label": "Greek"
-        }
+  "ark": "ark:/21198/s1k40b",
+  "reconstruction": false,
+  "label": "Homily on Genesis",
+  "lang": [
+    {
+      "id": "gree1276",
+      "label": "Greek"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1rp59"
+      },
+      "note": [
+        "Homily 43, on Genesis 19 (=ΟΜΙΛΙΑ ΜΓ': Ήλθον δε, φησίν, οι δύο άγγελοι εις Σόδομα εσπέρας)"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1rp59"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "contents",
-                "label": "Contents Note"
-            },
-            "value": "Homily 43, on Genesis 19 (=ΟΜΙΛΙΑ ΜΓ': Ήλθον δε, φησίν, οι δύο άγγελοι εις Σόδομα εσπέρας)"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Vasilios Katsaros"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: J.-P.Migne P.G.53:21-385; 54:385-580"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1x34m"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1x34m"
+  ]
 }

@@ -1,37 +1,40 @@
 {
-    "ark": "ark:/21198/s1kw8z",
-    "reconstruction": false,
-    "label": "Typikon, preceded by an introduction",
-    "lang": [
+  "ark": "ark:/21198/s1kw8z",
+  "reconstruction": false,
+  "label": "Typikon, preceded by an introduction",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    },
+    {
+      "id": "gree1276",
+      "label": "Greek"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1qk5z"
+      },
+      "alt_title": "Typikon, preceded by an introduction",
+      "locus": "ff. 2v-206r",
+      "excerpt": [
         {
-            "id": "arab1395",
-            "label": "Arabic"
-        },
-        {
-            "id": "gree1276",
-            "label": "Greek"
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 2v",
+          "as_written": "نبتدي بعَون الله و حسن توفيقه نكتُب"
         }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1qk5z"
-            },
-            "alt_title": "Typikon, preceded by an introduction",
-            "locus": "ff. 2v-206r",
-            "excerpt": [
-                {
-                    "type": {
-                        "id": "incipit",
-                        "label": "Incipit"
-                    },
-                    "locus": "f. 2v",
-                    "as_written": "نبتدي بعَون الله و حسن توفيقه نكتُب"
-                }
-            ]
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1sc8n"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1sc8n"
+  ]
 }

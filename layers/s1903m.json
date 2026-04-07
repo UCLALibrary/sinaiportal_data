@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s1903m",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 328, Overtext (Undetermined (Arabic))",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s13m16",
+      "label": "Item 1",
+      "locus": "ff. 1v-261r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 261r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "كان النجاز من نساخة هذا الكتاب الشريف المقدس في ثمانية أيام من شهر تشرين الثاني عيد ميخائيل رئيس الملائكة في سنة 1812 مسيحية  بيد أحقر عباد الله يعقوب ولد جرجس تسبون العكاوى طالبا في الله تعالى الأجر والثواب فالمرجوا من القارئ بأن يدعو له بالرحمة والغفران ليكون له نظير ذلك الرب الكريم المنان آمين ",
+      "assoc_date": [
+        {
+          "value": "1816 CE",
+          "iso": {
+            "not_before": "1816"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "8 Tishrin II 1812,  during the Feast of Saint Michael the Archangel"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1s195rq"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "ark": "ark:/21198/s1093x",
+  "reconstruction": false,
+  "label": "Liturgical varia",
+  "locus": "ff. 2r-238v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Canons of John of Damascus",
+        "creator": [
+          "ark:/21198/s18c7m"
+        ],
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          },
+          {
+            "id": "hymnals",
+            "label": "Hymnals"
+          }
+        ]
+      },
+      "locus": "ff. 2r-5r"
+    },
+    {
+      "work": {
+        "desc_title": "Commentaries spoken in mystery for various feasts and Sundays, beginning with Lazarus Saturday",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          },
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          }
+        ]
+      },
+      "locus": "ff. 5r-126r"
+    },
+    {
+      "work": {
+        "desc_title": "Collection of Canons",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          },
+          {
+            "id": "hymnals",
+            "label": "Hymnals"
+          }
+        ]
+      },
+      "locus": "ff. 126r-176r",
+      "contents": [
+        {
+          "label": "Canons of John of Damascus in six melodies, ff. 126r-135v"
+        },
+        {
+          "label": "Canons of John of Damascus in eight melodies, ff. 136r-141r"
+        },
+        {
+          "label": "Canons of John of Damascus in six melodies, ff. 141r-148v"
+        },
+        {
+          "label": "Canons in eight melodies, ff. 148v-154v"
+        },
+        {
+          "label": "Canons of Theophanes to St. Nicholas in five melodies, ff. 154v-162v"
+        },
+        {
+          "label": "Canons of Joseph in eight melodies, ff. 162v-169r"
+        },
+        {
+          "label": "Canons of Joseph in eight melodies, ff. 169r-176"
+        }
+      ]
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1bg6w"
+      },
+      "alt_title": "Menaia with various Troparia",
+      "locus": "ff. 177r-238v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s15p6d"
+  ]
+}

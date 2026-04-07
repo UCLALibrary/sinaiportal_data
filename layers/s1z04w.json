@@ -1,75 +1,49 @@
 {
-    "ark": "ark:/21198/s1z04w",
-    "reconstruction": false,
-    "label": "Sinai Arabic 514, Undertext (Estrangela)",
-    "locus": "ff. 96, stub-98, 98, stub+98, 99",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1z04w",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Arabic 514, Undertext (Estrangela)",
+  "locus": "ff. 96, stub-98, 98, stub+98, 99",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "estrangela",
-                    "label": "Estrangela",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "estrangela",
+          "label": "Estrangela",
+          "writing_system": "Syriac"
         }
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "21 lines",
+      "note": [
+        "Each folio is made up from an original bifolio"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1m09p",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "2 columns",
-            "lines": "21 lines",
-            "note": [
-                "Each folio is made up from an original bifolio"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1m09p",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "8th-9th c.  CE",
-            "iso": {
-                "not_before": "0701",
-                "not_after": "0900"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 96r (recto), 96v (verso), 98r (recto), 98v (verso), 99v (recto), 99r (verso), 99r (recto), 99v (verso), 98v (recto), 98r (verso), 96v (recto), 96 (verso)"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Grigory Kessel"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Akhrass and Syryany, vol. 1, pp. 552-567"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1bc4wfw"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1bc4wfw",
+    "ark:/21198/z1vb911c"
+  ]
 }

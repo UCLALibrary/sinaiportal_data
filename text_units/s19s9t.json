@@ -1,31 +1,34 @@
 {
-    "ark": "ark:/21198/s19s9t",
-    "reconstruction": false,
-    "label": "Life of Saint Euthymius",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Life of Saint Euthymius",
-                "genre": [
-                    {
-                        "id": "hagiographies",
-                        "label": "Hagiographies"
-                    }
-                ]
-            },
-            "locus": "ff. 1r-6v",
-            "note": [
-                "Chapters 17-24"
-            ]
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1h61s"
-    ]
+  "ark": "ark:/21198/s19s9t",
+  "reconstruction": false,
+  "label": "Life of Saint Euthymius",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Life of Saint Euthymius",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 1r-6v",
+      "note": [
+        "Chapters 17-24"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1h61s"
+  ]
 }

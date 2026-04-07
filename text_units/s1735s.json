@@ -1,0 +1,151 @@
+{
+  "ark": "ark:/21198/s1735s",
+  "reconstruction": false,
+  "label": "Acts and Epistles, including commentaries",
+  "locus": "ff. 3v-252r",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1xs34"
+      },
+      "alt_title": "Acts of the Apostles, with lectionary rubrics throughout and preceded by introductory material",
+      "locus": "ff. 3v-45v"
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1hg6f"
+      },
+      "alt_title": "Epistles of St. Paul, with lectionary rubrics throughout and each epistle preceded by introductory material",
+      "locus": "ff. 45v-148v",
+      "contents": [
+        {
+          "label": "Romans, ff. 45v-63v"
+        },
+        {
+          "label": "1 Corinthians, ff. 64r-80v"
+        },
+        {
+          "label": "2 Corinthians, ff. 80v-94r"
+        },
+        {
+          "label": "Galatians, ff. 94v-100v"
+        },
+        {
+          "label": "Ephesians, ff. 100v-107r"
+        },
+        {
+          "label": "Philippians, ff. 107r-111v"
+        },
+        {
+          "label": "Colossians, ff. 111v-116v"
+        },
+        {
+          "label": "1 Thessalonians, ff. 116v-121r"
+        },
+        {
+          "label": "2 Thessalonians, ff. 121r-123v"
+        },
+        {
+          "label": "1 Timothy, ff. 123v-128v"
+        },
+        {
+          "label": "2 Timothy, ff. 128v-132v"
+        },
+        {
+          "label": "Titus, ff. 132v-134v"
+        },
+        {
+          "label": "Philemon, f. 135r-v"
+        },
+        {
+          "label": "Hebrews, ff. 135v-148v"
+        }
+      ]
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1n88c"
+      },
+      "alt_title": "Catholic Epistles, with lectionary rubrics throughout and each epistle preceded by introductory material",
+      "locus": "ff. 148v-171v",
+      "contents": [
+        {
+          "label": "James, ff. 148v-153v"
+        },
+        {
+          "label": "1 Peter, ff. 153v-158v"
+        },
+        {
+          "label": "2 Peter, ff. 158v-162v"
+        },
+        {
+          "label": "1 John, ff. 162v-168r"
+        },
+        {
+          "label": "2 John, f. 168r-v"
+        },
+        {
+          "label": "3 John, ff. 168v-169v"
+        },
+        {
+          "label": "Jude, ff. 169v-171v"
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "Commentary on Acts and the Epistles of Paul to be read throughout the year and for feasts with summaries by John Chrysostom",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          }
+        ]
+      },
+      "locus": "ff. 171v-246v"
+    },
+    {
+      "work": {
+        "desc_title": "Preface of ʻAbd Allāh ibn al-Faḍl Anṭākī on St. Paul",
+        "creator": [
+          "ark:/21198/s1qp4m"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 247r-248v"
+    },
+    {
+      "work": {
+        "desc_title": "Table of Lectionary Readings",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          }
+        ]
+      },
+      "locus": "f. 252r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1dk6j"
+  ]
+}

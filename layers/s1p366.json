@@ -1,84 +1,49 @@
 {
-    "ark": "ark:/21198/s1p366",
-    "reconstruction": false,
-    "label": "Sinai Syriac NF M 11, Undertext (Christian Palestinian Aramaic)",
-    "locus": "ff. 81–88",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1p366",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Syriac NF M 11, Undertext (Christian Palestinian Aramaic)",
+  "locus": "ff. 81–88",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "cpa",
-                    "label": "Christian Palestinian Aramaic",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "Early large CPA"
-            ]
+          "id": "cpa",
+          "label": "Christian Palestinian Aramaic",
+          "writing_system": "Syriac"
         }
+      ],
+      "note": [
+        "Early large CPA"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "24 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1b38v",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "2 columns",
-            "lines": "24 lines"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1b38v",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "6th-7th c.  CE",
-            "iso": {
-                "not_before": "0501",
-                "not_after": "0700"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Possibly St. Catherine's Monastery",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 84r, 83v, 85v, 86r, 85r, 86v, 84v, 83r, 87r, 88v, 82v, 81r, 82r, 81v, 87v, 88r"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Christa Müller-Kessler"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Desreumaux 2010, pp. 1323-1324 ; Philothée, pp. 300-302; 303-305 (by A. Desreumaux)"
-        }
-    ],
-    "parent": [
-        "ark:/21198/r1vd6wc9"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/r1vd6wc9",
+    "ark:/21198/z1xq7x0b"
+  ]
 }

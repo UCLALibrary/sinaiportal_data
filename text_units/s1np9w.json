@@ -1,0 +1,65 @@
+{
+  "ark": "ark:/21198/s1np9w",
+  "reconstruction": false,
+  "label": "Gospels and two theological works",
+  "locus": "ff. 1v-222r",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s10k5f"
+      },
+      "alt_title": "Four Gospels, divided according to the readings of the Greek calendar",
+      "locus": "ff. 1v-102r",
+      "contents": [
+        {
+          "label": "Matthew, ff. 1v-30r"
+        },
+        {
+          "label": "Mark, ff. 30v-48r"
+        },
+        {
+          "label": "Luke, ff. 48r-79r"
+        },
+        {
+          "label": "John, ff. 79r-102r"
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "Treatise against atheists",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 102v-216r"
+    },
+    {
+      "work": {
+        "desc_title": "Questions of the Christian believer for the Jew",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 216r-222r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1v31v"
+  ]
+}

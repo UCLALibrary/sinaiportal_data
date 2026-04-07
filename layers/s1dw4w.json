@@ -1,79 +1,66 @@
 {
-    "ark": "ark:/21198/s1dw4w",
-    "reconstruction": false,
-    "label": "Sinai Arabic 293, Overtext (Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1dw4w",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 293, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s17h2s",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 291v",
+      "lang": [
         {
-            "id": "ark:/21198/s17h2s",
-            "label": "Item 1"
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "نجز نسخ الكتاب المقدس يوم الأربعاء ثامن وعشرين شهر حزيران سنة ست آلاف وسبعمائة وثلاث وخمسون من سنين أبينا آدم عليه السلام كتبت لنفسه نيلس المدعوا بالاسم لا بالفعل راهب كتبه يومئذ وهو مقيم في جبل طور سيناء المقدس وهو يسأل كل من قرأ فيه أو نسخ منه أن يدعوا له ولجميع النصارى المستقيمين الايمان بالرحمة والغفران غفر الرب لمن فعل ذلك آمين",
+      "assoc_date": [
         {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
+          "value": "1245 CE",
+          "iso": {
+            "not_before": "1245"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Wednesday 28 Huzayran 6753 (adam)"
+          ]
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "f. 291v",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "as_written": "نجز نسخ الكتاب المقدس يوم الأربعاء ثامن وعشرين شهر حزيران سنة ست آلاف وسبعمائة وثلاث وخمسون من سنين أبينا آدم عليه السلام كتبت لنفسه نيلس المدعوا بالاسم لا بالفعل راهب كتبه يومئذ وهو مقيم في جبل طور سيناء المقدس وهو يسأل كل من قرأ فيه أو نسخ منه أن يدعوا له ولجميع النصارى المستقيمين الايمان بالرحمة والغفران غفر الرب لمن فعل ذلك آمين",
-            "assoc_date": [
-                {
-                    "type": {
-                        "id": "origin",
-                        "label": "Date of Origin"
-                    },
-                    "value": "Wednesday 28 Huzayran 6753 (adam)"
-                }
-            ],
-            "note": [
-                "Attested places:  Mount Sinai"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1245 CE",
-            "iso": {
-                "not_before": "1245"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1tt5vbb"
-    ]
+      ],
+      "note": [
+        "Attested places:  Mount Sinai"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1tt5vbb"
+  ]
 }

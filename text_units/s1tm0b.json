@@ -1,0 +1,161 @@
+{
+  "ark": "ark:/21198/s1tm0b",
+  "reconstruction": false,
+  "label": "Varia",
+  "locus": "ff. 2r-215v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1dg6h"
+      },
+      "alt_title": "Book of Hours for the period of the Nativity, Epiphany, and Good Friday",
+      "as_written": "كتبة سواعى بزمونى الميلاد وبزمونى الغطاس والجمعه الكبيره, f. 147v",
+      "locus": "ff. 2r-147v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 2r",
+          "as_written": "الساعة الاوَلة. تقول قدَوس الله وَما يتلوَها",
+          "translation": [
+            "The First Hour: Say, “Most Holy God…” and what follows next"
+          ]
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 147r",
+          "as_written": "وَالسبح لله دايماً وَعلينا رحمته امين",
+          "translation": [
+            "And glory to God, and His mercy upon us. Amen"
+          ]
+        }
+      ],
+      "note": [
+        "Further subdivided with rubrics for the various hours and includes readings from the Psalms and other prayers"
+      ]
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1bm34"
+      },
+      "locus": "ff. 148r-205r",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 148r",
+          "as_written": "التسبحه الاولى على وزن معيناً وساترا صار لى للخلاص",
+          "translation": [
+            "The first hymn in meter: My helper and shelter He became for me in salvation…"
+          ]
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "ff. 204v-205r",
+          "as_written": "وبك ترحص كل محنه وتسبى المحاربين اياها. وتتبع المطيع. والسبح لله دايماً",
+          "translation": [
+            "And with You, every trial is made to flee, the warriors are taken prisoner, and the obedient are attended to. And glory to God always"
+          ]
+        }
+      ],
+      "note": [
+        "This canon is further subdivided into nine metrical hymns (or odes), in which there is also further rubrication for various parts of the hymns."
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "Prayer spoken before receiving the Holy Eucharist",
+        "genre": [
+          {
+            "id": "prayers",
+            "label": "Prayers"
+          }
+        ]
+      },
+      "as_written": "هذه الصَلاه تقال قبل اخذ القربان المقدسَ, f. 205v",
+      "locus": "ff. 205v-207v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 205v",
+          "as_written": "قدوسَ قدوسَ قدوسَ انت يالله قدسَ نفسَی وجسَدي وروحى",
+          "translation": [
+            "Holy, holy, holy are you, O God. Sanctify my soul, my body, and my spirit…"
+          ]
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 207v",
+          "as_written": "بك سُررت ان تغذینی انا الخاطى على مايدتك المحييه الغير مايته الذي اسالك ان تحفظ",
+          "translation": [
+            "Rather, I was pleased that You would feed me, a sinner, at Your life-giving and immortal table which I ask that You would sustain…"
+          ]
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "Teaching from the treatise of Anba Stephen of the Thebaid",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 208r-215v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 208r",
+          "as_written": "الان يا ابني قبل كل شى اكفر بالعالم وابتعد من ارضك ومن جنسك",
+          "translation": [
+            "Now, my son, before all else depart from the world and renounce your country and your kin…"
+          ]
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "locus": "f. 215v",
+          "as_written": "تكون اعمالك ذكيه لكى يستجيب للله منك عاجلاً",
+          "translation": [
+            "...let your deeds be redolent that God may respond to you sooner..."
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1102r"
+  ]
+}

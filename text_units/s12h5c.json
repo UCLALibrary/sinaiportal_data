@@ -1,46 +1,42 @@
 {
-    "ark": "ark:/21198/s12h5c",
-    "reconstruction": false,
-    "label": "Life of Saint Antony",
-    "lang": [
-        {
-            "id": "arme1241",
-            "label": "Armenian"
-        }
+  "ark": "ark:/21198/s12h5c",
+  "reconstruction": false,
+  "label": "Life of Saint Antony",
+  "lang": [
+    {
+      "id": "arme1241",
+      "label": "Armenian"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Athanasius, Life of Saint Antony",
+        "creator": [
+          "ark:/21198/s1z59h"
+        ],
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "note": [
+        "The text shows some variants compared to the edited text in Bibliotheca Hagiographica Orientalis (BHO) 66"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Athanasius, Life of Saint Antony",
-                "creator": [
-                    "ark:/21198/s1z59h"
-                ],
-                "genre": [
-                    {
-                        "id": "hagiographies",
-                        "label": "Hagiographies"
-                    }
-                ]
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "contents",
-                "label": "Contents Note"
-            },
-            "value": "The text shows some variants compared to the edited text in Bibliotheca Hagiographica Orientalis (BHO) 66"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Bernard Outtier"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1dh0k"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1dh0k"
+  ]
 }

@@ -1,0 +1,87 @@
+{
+  "ark": "ark:/21198/s1bm00",
+  "reconstruction": false,
+  "label": "Liturgical varia",
+  "locus": "ff. 1r-95v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "List of feasts and holy days",
+        "genre": [
+          {
+            "id": "calendars",
+            "label": "Calendars"
+          }
+        ]
+      },
+      "locus": "f. 1r-v"
+    },
+    {
+      "work": {
+        "desc_title": "Calendar containing troparia and canons, beginning with a portion of the month Kanun I",
+        "genre": [
+          {
+            "id": "calendars",
+            "label": "Calendars"
+          },
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          },
+          {
+            "id": "hymnals",
+            "label": "Hymnals"
+          }
+        ]
+      },
+      "locus": "ff. 2r-30v"
+    },
+    {
+      "work": {
+        "desc_title": "Confessions for holy feasts",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          }
+        ]
+      },
+      "locus": "ff. 30v-35v"
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1vc88"
+      },
+      "alt_title": "Troparia for great feasts",
+      "locus": "ff. 35v-42r"
+    },
+    {
+      "work": {
+        "desc_title": "Canons, beginning with Easter",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          },
+          {
+            "id": "hymnals",
+            "label": "Hymnals"
+          }
+        ]
+      },
+      "locus": "ff. 42r-95v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1j02d"
+  ]
+}

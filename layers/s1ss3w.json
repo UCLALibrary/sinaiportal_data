@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s1ss3w",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 153, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1md3j",
+      "label": "Item 1",
+      "locus": "ff. 1r-232v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 225v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "كملت نسخة تفسير الأحد عشر إنجيل القيامية بتاريخ يوم الإثنين الثاني وعشرين يوما مضت من شهر أيار سنة ست آلاف وستمائة وتسعة وخمسين لأبينا آدم التاريخ الرابع عشر غفر الله لمن قرأ ودعا لكاتبه مغفرة خطاياه آمين ",
+      "assoc_date": [
+        {
+          "value": "1151 CE",
+          "iso": {
+            "not_before": "1151"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Monday 22 Ayyar 6669 (Adam)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1r79jjb"
+  ]
+}

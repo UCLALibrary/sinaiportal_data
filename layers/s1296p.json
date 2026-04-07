@@ -1,0 +1,34 @@
+{
+  "ark": "ark:/21198/s1296p",
+  "reconstruction": false,
+  "state": {
+    "id": "guest",
+    "label": "Guest Content"
+  },
+  "label": "Sinai Syriac 72, Guest Content (Melkite)",
+  "locus": "Front pastedown, ff. 1b, 2-5",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s18d8b",
+      "label": "Item 1",
+      "locus": "Front pastedown, ff. 1b, 2-5"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1vx2195"
+  ]
+}

@@ -1,50 +1,43 @@
 {
-    "ark": "ark:/21198/s1m09p",
-    "reconstruction": false,
-    "label": "Ninth Homily on Joseph",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
+  "ark": "ark:/21198/s1m09p",
+  "reconstruction": false,
+  "label": "Ninth Homily on Joseph",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Ninth Homily on Joseph",
+        "creator": [
+          "ark:/21198/s11s32"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "poetry",
+            "label": "Poetry"
+          }
+        ]
+      }
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Ninth Homily on Joseph",
-                "creator": [
-                    "ark:/21198/s11s32"
-                ],
-                "genre": [
-                    {
-                        "id": "theological-works",
-                        "label": "Theological works"
-                    },
-                    {
-                        "id": "poetry",
-                        "label": "Poetry"
-                    }
-                ]
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Grigory Kessel"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Akhrass and Syryany, vol. 1, pp. 552-567"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1z04w"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1z04w"
+  ]
 }

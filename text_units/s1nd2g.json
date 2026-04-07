@@ -1,0 +1,66 @@
+{
+  "ark": "ark:/21198/s1nd2g",
+  "reconstruction": false,
+  "label": "Liturgical commentaries (Chrysostom)",
+  "locus": "ff. 1r-165v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Commentary on the Gospels to be recited throughout the year",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          },
+          {
+            "id": "gospel-books",
+            "label": "Gospel books"
+          },
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          }
+        ]
+      },
+      "locus": "ff. 1r-152r"
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1cg66"
+      },
+      "alt_title": "John Chrysostom, Homily 19 on Matthew",
+      "locus": "ff. 152r-160v"
+    },
+    {
+      "work": {
+        "desc_title": "John Chrysostom, Commentary on Romans",
+        "creator": [
+          "ark:/21198/s1x303"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          }
+        ]
+      },
+      "locus": "f. 165v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1ts4k"
+  ]
+}

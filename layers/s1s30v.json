@@ -1,97 +1,63 @@
 {
-    "ark": "ark:/21198/s1s30v",
-    "reconstruction": false,
-    "label": "Sinai Arabic 91, Overtext (Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1s30v",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 91, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1kp98",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 262r",
+      "lang": [
         {
-            "id": "ark:/21198/s1kp98",
-            "label": "Item 1"
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "نجزت تراتيب الأناجيل المقدسة على كمالها والمجد لله واهب العقل للبشر وذلك في الثامن من كانون الأول سنة ستة آلاف  وسبعمائة  وسبع وتسعين لأبونا آدم الموافق لسنة الاسكندر سنة ألف وستمائة واحد غفر الله  لمن قرأ وكتب وقال آمين آمين ",
+      "assoc_date": [
         {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        },
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "deco-vegetative",
-            "label": "Decoration, Vegetative"
+          "value": "1287 CE",
+          "iso": {
+            "not_before": "1287"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "8 Kanun al-Awwal 6796 Adam :: 1601 ِAlexandrian :: December 8, 1287 CE"
+          ]
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "f. 262r",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "as_written": "نجزت تراتيب الأناجيل المقدسة على كمالها والمجد لله واهب العقل للبشر وذلك في الثامن من كانون الأول سنة ستة آلاف  وسبعمائة  وسبع وتسعين لأبونا آدم الموافق لسنة الاسكندر سنة ألف وستمائة واحد غفر الله  لمن قرأ وكتب وقال آمين آمين ",
-            "assoc_date": [
-                {
-                    "type": {
-                        "id": "origin",
-                        "label": "Date of Origin"
-                    },
-                    "value": "8 Kanun al-Awwal 6796 Adam :: 1601 ِAlexandrian :: December 8, 1287 CE"
-                }
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1289 CE",
-            "iso": {
-                "not_before": "1289"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Ornate vegetative headpieces on ff. 58v, 97v, 163v, with volutes and floral motifs | Geometric decoration on ff. 224r, 226v, 228r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1hh7pfg"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1hh7pfg"
+  ]
 }

@@ -1,56 +1,79 @@
 {
-    "ark": "ark:/21198/s15s7t",
-    "reconstruction": false,
-    "label": "Sinai Syriac NF X 9, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s15s7t",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac NF X 9, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1437m",
+      "label": "Item 1",
+      "locus": "ff. 1r-54v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 185v",
+      "lang": [
         {
-            "id": "ark:/21198/s1437m",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "script": [
         {
-            "id": "dated",
-            "label": "Dated"
+          "id": "estrangela",
+          "label": "Estrangela",
+          "writing_system": "Syriac"
         }
-    ],
-    "assoc_date": [
+      ],
+      "assoc_name": [
         {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1599 CE",
-            "iso": {
-                "not_before": "1599"
-            }
+          "id": "ark:/21198/s1gw2r",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         }
-    ],
-    "assoc_name": [
+      ],
+      "assoc_date": [
         {
-            "id": "ark:/21198/s1gw2r",
-            "role": {
-                "id": "scribe",
-                "label": "Scribe"
-            }
+          "value": "1599 CE",
+          "iso": {
+            "not_before": "1599"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "fourth day of the week, the 24th of Elul (September) of the year 1599"
+          ]
         }
-    ],
-    "parent": [
-        "ark:/21198/z1pz78b6"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1pz78b6"
+  ]
 }

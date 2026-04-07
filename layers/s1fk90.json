@@ -1,0 +1,49 @@
+{
+  "ark": "ark:/21198/s1fk90",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Arabic NF M 28, Undertext (Greek majuscule)",
+  "locus": "ff. 131–132v, 138, 140–142",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "greek-maj",
+          "label": "Greek majuscule",
+          "writing_system": "Greek"
+        }
+      ],
+      "note": [
+        "Round biblical majuscule"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "21 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s13q2m",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1n02zkr",
+    "ark:/21198/z1r89662"
+  ]
+}

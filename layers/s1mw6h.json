@@ -1,67 +1,49 @@
 {
-    "ark": "ark:/21198/s1mw6h",
-    "reconstruction": false,
-    "label": "Sinai Syriac 143, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1mw6h",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 143, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1fh4d",
+      "label": "Item 1",
+      "locus": "ff. 1r-295v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "284v",
+      "lang": [
         {
-            "id": "ark:/21198/s1fh4d",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "284v",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": ": ܐܫܬܠܡ: ܟܬܒܐ: ܕܡܙܡܘܪ̈ܐ ܕܕܘܝܕ: : ܢܒܝܐ ܘܡܠܟܐ: ܕܗܘ̈ܝܢ: ܒܡܢܝ̈ܢܐ: ܡ̈ܐܐ: : ܘܚܡ̈ܫܝܢ܀ ܐܫܬܠܡ ܗܢܐ ܟܬܒܐ: ܝ̄: : ܝܘܡ̈ܝܢ: ܡܢ ܟܢܘܢ: ܒ̄: ܫܢܬ: ܐܠܦ: : ܘܚܡܫ : ܡ̈ܠܐ: ܘܐܒܪ̈ܥܝܢ: ܘܬܪܬܝܢ: : ܘܫ̈ܢܝܐ ܕܒ̈ܢܝ: ܗܓܪ: ܫܬ: ܡ̈ܐܐ: :ܘܥܣܪ̈ܝܢ: ܘܬܡ̈ܢܐ: : ܐܘ ܐܚ̈ܝ: ܨ̈ܠܘ ܥܠ ܥܒܕܐ: : ܚܛܝܐ : ܕܝܨܪܛ:"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1230 CE",
-            "iso": {
-                "not_before": "1230"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1ww9652"
-    ]
+      ],
+      "as_written": ": ܐܫܬܠܡ: ܟܬܒܐ: ܕܡܙܡܘܪ̈ܐ ܕܕܘܝܕ: : ܢܒܝܐ ܘܡܠܟܐ: ܕܗܘ̈ܝܢ: ܒܡܢܝ̈ܢܐ: ܡ̈ܐܐ: : ܘܚܡ̈ܫܝܢ܀ ܐܫܬܠܡ ܗܢܐ ܟܬܒܐ: ܝ̄: : ܝܘܡ̈ܝܢ: ܡܢ ܟܢܘܢ: ܒ̄: ܫܢܬ: ܐܠܦ: : ܘܚܡܫ : ܡ̈ܠܐ: ܘܐܒܪ̈ܥܝܢ: ܘܬܪܬܝܢ: : ܘܫ̈ܢܝܐ ܕܒ̈ܢܝ: ܗܓܪ: ܫܬ: ܡ̈ܐܐ: :ܘܥܣܪ̈ܝܢ: ܘܬܡ̈ܢܐ: : ܐܘ ܐܚ̈ܝ: ܨ̈ܠܘ ܥܠ ܥܒܕܐ: : ܚܛܝܐ : ܕܝܨܪܛ:"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1ww9652"
+  ]
 }

@@ -1,0 +1,197 @@
+{
+    "ark": "ark:/21198/tetst03p3ol",
+    "reconstruction": false,
+    "state": {
+        "id": "overtext",
+        "label": "Overtext"
+    },
+    "label": "Sinai Arabic NF X 299, Part 3, Overtext",
+    "locus": "ff. 281r-312v",
+    "summary": "13th-century Arabic liturgical supplement containing additional offices and a doxology.",
+    "extent": "32 ff.",
+    "writing": [
+        {
+            "script": [
+                {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                }
+            ],
+            "locus": "ff. 281r-312v",
+            "note": [
+                "Third distinct hand in the codex; rougher execution than Parts 1 and 2"
+            ]
+        }
+    ],
+    "ink": [
+        {
+            "locus": "ff. 281r-312v",
+            "color": [
+                "black",
+                "red"
+            ]
+        }
+    ],
+    "layout": [
+        {
+            "locus": "ff. 281r-312v",
+            "columns": "1",
+            "lines": "19",
+            "dim": "Writing area: 235 x 158 mm"
+        }
+    ],
+    "text_unit": [
+        {
+            "id": "ark:/21198/tetst03p3olt1",
+            "label": "Primary Text Unit 1",
+            "locus": "ff. 281r-308v"
+        },
+        {
+            "id": "ark:/21198/tetst03p3olt2",
+            "label": "Secondary Text Unit 2",
+            "locus": "ff. 309r-312v"
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "scribe-note",
+                    "label": "Scribe's Note"
+                },
+                {
+                    "id": "supplication",
+                    "label": "Supplication"
+                }
+            ],
+            "locus": "f. 312v",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "اذكروا في صلواتكم الخاطئ الكاتب وصلوا لأجله",
+            "translation": [
+                "Remember in your prayers the sinful scribe and pray on his behalf"
+            ],
+            "note": [
+                "Multi-value subtype: scribe's note combined with supplication"
+            ]
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "13th c. CE",
+            "iso": {
+                "not_before": "1201",
+                "not_after": "1300"
+            }
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst03"
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Arabic Manuscripts Project",
+                "description": "Described as part of the Sinai Arabic Manuscripts Project (2020-2025)."
+            }
+        ]
+    },
+    "features": [
+        {
+            "id": "unidentified-text",
+            "label": "Unidentified Text"
+        }
+    ],
+    "assoc_name": [
+        {
+            "value": "Unknown scribe",
+            "role": {
+                "id": "scribe",
+                "label": "Scribe"
+            },
+            "note": [
+                "Third distinct hand in the codex; identity unknown"
+            ]
+        }
+    ],
+    "assoc_place": [
+        {
+            "id": "ark:/21198/s1place02",
+            "event": {
+                "id": "origin",
+                "label": "Origin Place"
+            },
+            "note": [
+                "Likely produced at Sinai given the context"
+            ]
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "Paper thin and fragile; some folios torn at outer edge"
+        },
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "Written by a rougher hand than Parts 1 and 2; likely a local Sinai production"
+        }
+    ],
+    "bib": [
+        {
+            "id": "ab8b28d0-faf2-44c8-9b71-0cdda49e7a85",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Graf 1944",
+            "citation": "Graf, Georg. Geschichte der christlichen arabischen Literatur. Vatican City: Biblioteca Apostolica Vaticana, 1944.",
+            "range": "vol. 1, pp. 290-310",
+            "alt_shelf": "[99]"
+        }
+    ],
+    "related_mss": [
+        {
+            "type": {
+                "id": "disjecta",
+                "label": "Disjecta Membra"
+            },
+            "label": "Supplement booklet originally bound with Sinai Arabic NF X 301",
+            "mss": [
+                {
+                    "label": "Related manuscript (ark:/21198/z14b4jz8)",
+                    "id": "ark:/21198/z14b4jz8"
+                }
+            ]
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

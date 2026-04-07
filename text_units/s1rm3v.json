@@ -1,37 +1,33 @@
 {
-    "ark": "ark:/21198/s1rm3v",
-    "reconstruction": false,
-    "label": "Judeo-Arabic translation of Genesis",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
+  "ark": "ark:/21198/s1rm3v",
+  "reconstruction": false,
+  "label": "Judeo-Arabic translation of Genesis",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1488q"
+      },
+      "note": [
+        "This is a Judeo-Arabic, probably Karaite translation of North African origin, in Arabic script. The translation was clearly made from a Hebrew original. The text uses the \"Maghrebine\" form of 1 sg. imperfect (with the n- prefix): e.g., fol. 11v; the letter /f/ sometimes has a dot underneath. The translation is different from both Saadia and Yefet"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1488q"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "contents",
-                "label": "Contents Note"
-            },
-            "value": "This is a Judeo-Arabic, probably Karaite translation of North African origin, in Arabic script. The translation was clearly made from a Hebrew original. The text uses the \"Maghrebine\" form of 1 sg. imperfect (with the n- prefix): e.g., fol. 11v; the letter /f/ sometimes has a dot underneath. The translation is different from both Saadia and Yefet"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Alexander Treiger"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s13m0t"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s13m0t"
+  ]
 }

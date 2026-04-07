@@ -1,0 +1,216 @@
+{
+    "ark": "ark:/21198/tetst01p1ul1",
+    "reconstruction": false,
+    "state": {
+        "id": "undertext",
+        "label": "Undertext"
+    },
+    "label": "Sinai Arabic 299, Part 1, Undertext 1 (Greek Psalms)",
+    "locus": "ff. 10-25, 30-45",
+    "summary": "5th-century Greek Psalms in biblical majuscule, recovered as undertext under the 10th-century Arabic overtext via multispectral imaging.",
+    "extent": "30 ff. (partial)",
+    "writing": [
+        {
+            "script": [
+                {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                }
+            ],
+            "locus": "ff. 10-25, 30-45",
+            "note": [
+                "Round biblical majuscule hand",
+                "Text runs parallel to the overtext; erased before reuse"
+            ]
+        }
+    ],
+    "ink": [
+        {
+            "locus": "ff. 10-25, 30-45",
+            "color": [
+                "brown"
+            ],
+            "note": [
+                "Iron gall ink, heavily faded",
+                "Visible primarily under ultraviolet and infrared multispectral imaging"
+            ]
+        }
+    ],
+    "layout": [
+        {
+            "locus": "ff. 10-25, 30-45",
+            "columns": "1",
+            "lines": "24",
+            "dim": "Writing area: approx. 230 x 155 mm (reconstructed)",
+            "note": [
+                "Layout reconstructed from surviving line spacing",
+                "Original ruling not visible"
+            ]
+        }
+    ],
+    "text_unit": [
+        {
+            "id": "ark:/21198/tetst01p1ul1t1",
+            "label": "Psalms (undertext)",
+            "locus": "ff. 10-25, 30-45"
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "framing",
+                "label": "Framing"
+            },
+            "subtype": [
+                {
+                    "id": "rubric",
+                    "label": "Rubric"
+                }
+            ],
+            "locus": "f. 15r",
+            "lang": [
+                {
+                    "id": "gree1276",
+                    "label": "Greek"
+                }
+            ],
+            "as_written": "ΨΑΛΜΟΣ",
+            "translation": [
+                "Psalm"
+            ],
+            "note": [
+                "Psalm heading partially legible under MSI"
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "msi",
+            "label": "Multispectral Imaging"
+        },
+        {
+            "id": "palimpsest",
+            "label": "Palimpsest"
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "5th c. CE",
+            "iso": {
+                "not_before": "0401",
+                "not_after": "0500"
+            },
+            "note": [
+                "Paleographic dating"
+            ]
+        }
+    ],
+    "assoc_name": [
+        {
+            "value": "Unknown scribe",
+            "role": {
+                "id": "scribe",
+                "label": "Scribe"
+            },
+            "note": [
+                "Identity of the original scribe unknown"
+            ]
+        }
+    ],
+    "assoc_place": [
+        {
+            "id": "ark:/21198/s1place01",
+            "event": {
+                "id": "origin",
+                "label": "Origin Place"
+            },
+            "note": [
+                "Tentative attribution based on script and text tradition"
+            ]
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "Identified as Psalms under multispectral imaging during the Sinai Palimpsests Project; individual psalm numbers not yet matched to specific folios"
+        },
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "Erased prior to reuse; text recoverable only under multispectral imaging"
+        }
+    ],
+    "bib": [
+        {
+            "id": "5a9f92c8-f585-4dfa-814b-51250121a0a0",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Rahlfs 1931",
+            "citation": "Rahlfs, Alfred. Psalmi cum Odis. Göttingen: Vandenhoeck & Ruprecht, 1931.",
+            "range": "pp. 1-150"
+        },
+        {
+            "id": "6a7d6912-b41a-42bb-b890-f11c226e453b",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Kamil 1970",
+            "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970.",
+            "range": "p. 45",
+            "alt_shelf": "[299]"
+        }
+    ],
+    "related_mss": [
+        {
+            "type": {
+                "id": "filiation",
+                "label": "Filiation"
+            },
+            "label": "Related Greek Psalms undertext layers at Sinai",
+            "note": [
+                "Other Greek Psalms undertexts identified in the Sinai Palimpsests Project"
+            ],
+            "mss": [
+                {
+                    "label": "Related manuscript (ark:/21198/z1r518bm)",
+                    "id": "ark:/21198/z1r518bm"
+                }
+            ]
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Palimpsests Project",
+                "description": "Described as part of the Sinai Palimpsests Project (2006-2017). The Sinai Palimpsests Project was sponsored by St. Catherine's Monastery of the Sinai in partnership with the Early Manuscripts Electronic Library and the UCLA Library, and with funding from Arcadia."
+            }
+        ]
+    },
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst01"
+    ]
+}

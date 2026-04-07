@@ -1,58 +1,46 @@
 {
-    "ark": "ark:/21198/s17d00",
-    "reconstruction": false,
-    "label": "Sinai Arabic 514, Undertext (Undetermined (Arabic))",
-    "locus": "ff. 47v, stub-47r, stub+52v, 52r",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s17d00",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Arabic 514, Undertext (Undetermined (Arabic))",
+  "locus": "ff. 47v, stub-47r, stub+52v, 52r",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "arabic-undetermined",
-                    "label": "Undetermined (Arabic)",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
         }
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "1 columns",
+      "lines": "21 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1wd5s",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "1 columns",
-            "lines": "21 lines"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1wd5s",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "9th-10th c.  CE",
-            "iso": {
-                "not_before": "0801",
-                "not_after": "1000"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Hikmat Kashouh, André Binggeli"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1bc4wfw"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1bc4wfw",
+    "ark:/21198/z1rk59f1"
+  ]
 }

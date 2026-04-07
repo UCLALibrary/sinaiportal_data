@@ -1,32 +1,38 @@
 {
-    "ark": "ark:/21198/s11w80",
-    "reconstruction": false,
-    "label": "Life of St. John Chrysostom written by George Metropolitan of Alexandria",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Life of St. John Chrysostom written by George Metropolitan of Alexandria",
-                "genre": [
-                    {
-                        "id": "historical-works",
-                        "label": "Historical works"
-                    },
-                    {
-                        "id": "hagiographies",
-                        "label": "Hagiographies"
-                    }
-                ]
-            },
-            "locus": "ff. 2v-276r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s17891"
-    ]
+  "ark": "ark:/21198/s11w80",
+  "reconstruction": false,
+  "label": "Life of St. John Chrysostom written by George Metropolitan of Alexandria",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Life of St. John Chrysostom written by George Metropolitan of Alexandria",
+        "creator": [
+          "ark:/21198/s1111q"
+        ],
+        "genre": [
+          {
+            "id": "historical-works",
+            "label": "Historical works"
+          },
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 2v-276r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s17891"
+  ]
 }

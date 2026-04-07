@@ -1,70 +1,37 @@
 {
-    "ark": "ark:/21198/s1bs47",
-    "reconstruction": false,
-    "label": "Sinai Arabic 141, Overtext (Naskh, Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1bs47",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 141, Overtext (Naskh, Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                },
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1593g",
-            "label": "Item 1"
-        }
-    ],
-    "features": [
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         },
         {
-            "id": "deco-vegetative",
-            "label": "Decoration, Vegetative"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "13th c. CE",
-            "iso": {
-                "not_before": "1201",
-                "not_after": "1300"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Headpiece, 12r, knotted vine | Minor headpiece, f. 9r, geometric"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1gj12ng"
-    ]
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1593g",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1gj12ng"
+  ]
 }

@@ -1,59 +1,40 @@
 {
-    "ark": "ark:/21198/s1792q",
-    "reconstruction": false,
-    "label": "Sinai Arabic 588, Undertext (Estrangela)",
-    "locus": "throughout ff. 1–55, stub-58",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1792q",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Arabic 588, Undertext (Estrangela)",
+  "locus": "throughout ff. 1–55, stub-58",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "estrangela",
-                    "label": "Estrangela",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "estrangela",
+          "label": "Estrangela",
+          "writing_system": "Syriac"
         }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1w98w",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1w98w",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "6th c.  CE",
-            "iso": {
-                "not_before": "0501",
-                "not_after": "0600"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Grigory Kessel"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: P. Bedjan, Acta Martyrum et Sanctorum, 7 vols. (Paris and Leipzig, 1890), 4:507-644 ; D. Boero, “The Context of Bibliography: Production of the Vatican Manuscript of the Syriac Life of Symeon the Stylite,” Hugoye: Journal of Syriac Studies 18.2 (2015): 319-359"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z16m44r0"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z16m44r0",
+    "ark:/21198/z14n9whk"
+  ]
 }

@@ -1,0 +1,356 @@
+{
+    "ark": "ark:/21198/tetst03p1ol",
+    "reconstruction": false,
+    "state": {
+        "id": "overtext",
+        "label": "Overtext"
+    },
+    "label": "Sinai Arabic NF X 299, Part 1, Overtext",
+    "locus": "ff. 1r-200v",
+    "summary": "10th-century Arabic Synaxarion arranged by the Syriac calendar, Naskh script, with rubrics and decorated headpieces at each monthly division.",
+    "extent": "200 ff.",
+    "writing": [
+        {
+            "script": [
+                {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                }
+            ],
+            "locus": "ff. 1r-200v",
+            "note": [
+                "Formal Naskh throughout; heading script larger and more carefully formed",
+                "Vowel pointing used inconsistently; more frequent in liturgical sections",
+                "Some corrections in a second, slightly later hand visible throughout"
+            ]
+        },
+        {
+            "script": [
+                {
+                    "id": "kufic",
+                    "label": "Kufic",
+                    "writing_system": "Arabic"
+                }
+            ],
+            "locus": "ff. 1r-10v",
+            "note": [
+                "Kufic elements in the opening decorative headpiece inscription"
+            ]
+        }
+    ],
+    "ink": [
+        {
+            "locus": "ff. 1r-200v",
+            "color": [
+                "brown"
+            ],
+            "note": [
+                "Main text in brown iron gall ink"
+            ]
+        },
+        {
+            "locus": "ff. 1r-200v",
+            "color": [
+                "red"
+            ],
+            "note": [
+                "Red used for monthly headings, feast day rubrics, and section markers throughout"
+            ]
+        },
+        {
+            "locus": "ff. 1r-15v",
+            "color": [
+                "gold",
+                "blue",
+                "green"
+            ],
+            "note": [
+                "Polychrome decoration in opening headpiece",
+                "Gold used for the central inscription panel",
+                "Blue and green in the geometric border elements"
+            ]
+        }
+    ],
+    "layout": [
+        {
+            "locus": "ff. 1r-200v",
+            "columns": "1",
+            "lines": "23",
+            "dim": "Writing area: 250 x 170 mm",
+            "note": [
+                "Ruled in drypoint",
+                "Text written below top line throughout",
+                "Outer margin reserved for reader annotations"
+            ]
+        },
+        {
+            "locus": "ff. 180r-200v",
+            "columns": "2",
+            "lines": "23-25",
+            "dim": "Writing area: 250 x 170 mm",
+            "note": [
+                "Layout shifts to two columns in the final monthly sections",
+                "Line count increases slightly in the final quires"
+            ]
+        }
+    ],
+    "text_unit": [
+        {
+            "id": "ark:/21198/tetst03p1olt1",
+            "label": "Primary Text Unit 1",
+            "locus": "ff. 1r-200v"
+        },
+        {
+            "id": "ark:/21198/tetst03p1olt2",
+            "label": "Secondary Text Unit 2",
+            "locus": "ff. 1r-1v"
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "waqf-endow",
+                    "label": "Waqf/Endowment"
+                }
+            ],
+            "locus": "f. 1r",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "وقف هذا الكتاب على دير القديسة كاترينا بجبل الطور سيناء لا يباع ولا يرهن",
+            "translation": [
+                "This book is a pious endowment to the Monastery of Saint Catherine on Mount Sinai; it may not be sold or pawned"
+            ]
+        },
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "possession-note",
+                    "label": "Possession Note"
+                }
+            ],
+            "locus": "f. 200v",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "هذا الكتاب من كتب دير الطور القديس سيناء",
+            "translation": [
+                "This book belongs to the books of the Monastery of the Holy Mountain of Sinai"
+            ],
+            "assoc_name": [
+                {
+                    "id": "ark:/21198/s1owner01",
+                    "role": {
+                        "id": "owner",
+                        "label": "Owner"
+                    }
+                }
+            ]
+        },
+        {
+            "type": {
+                "id": "misc",
+                "label": "Miscellaneous"
+            },
+            "subtype": [
+                {
+                    "id": "reader-note",
+                    "label": "Reader's Note"
+                }
+            ],
+            "locus": "f. 45r, margin",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "صحيح",
+            "translation": [
+                "Correct"
+            ],
+            "note": [
+                "Brief correction mark by a later reader in the outer margin"
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "dated",
+            "label": "Dated"
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "913/914 CE",
+            "iso": {
+                "not_before": "0913",
+                "not_after": "0914"
+            },
+            "note": [
+                "Dated by colophon; Seleucid year 1225 = 913/914 CE"
+            ]
+        }
+    ],
+    "assoc_name": [
+        {
+            "value": "Yuhanna the monk",
+            "role": {
+                "id": "scribe",
+                "label": "Scribe"
+            },
+            "as_written": "الراهب يوحنا",
+            "note": [
+                "Named in the colophon, f. 200v"
+            ]
+        },
+        {
+            "value": "Unknown commissioner",
+            "role": {
+                "id": "patron",
+                "label": "Patron"
+            },
+            "note": [
+                "Colophon implies the manuscript was commissioned; patron unnamed"
+            ]
+        }
+    ],
+    "assoc_place": [
+        {
+            "id": "ark:/21198/s1place02",
+            "event": {
+                "id": "origin",
+                "label": "Origin Place"
+            },
+            "note": [
+                "Named in colophon as place of production"
+            ]
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "foliation",
+                "label": "Foliation"
+            },
+            "value": "Modern pencil foliation in Arabic numerals; an earlier ink foliation in Syriac alphanumeric notation is partially visible in the upper-left corner of rectos throughout"
+        },
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "Generally good condition; minor water damage to lower margin of ff. 1-8; f. 55 repaired with a paper patch; upper margin of ff. 100-110 trimmed"
+        },
+        {
+            "type": {
+                "id": "collation",
+                "label": "Collation Note"
+            },
+            "value": "Quire signatures in Arabic alphanumeric notation visible in the lower margin of the first recto of each quire; some signatures partially trimmed"
+        }
+    ],
+    "bib": [
+        {
+            "id": "8cfa92cc-e23c-49c8-a8f3-797e26df0a07",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Atiya 1955",
+            "citation": "Atiya, Aziz S. The Arabic Manuscripts of Mount Sinai. Baltimore: Johns Hopkins Press, 1955.",
+            "range": "p. 62",
+            "alt_shelf": "[342]",
+            "note": [
+                "Atiya catalog reference"
+            ]
+        },
+        {
+            "id": "0efe416d-4272-4e9e-87b1-4d28e5dafabd",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Kamil",
+            "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970.",
+            "range": "p. 78",
+            "alt_shelf": "[99]"
+        },
+        {
+            "id": "0d4f9208-ca2b-423d-8366-930812df77d3",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Graf 1944",
+            "citation": "Graf, Georg. Geschichte der christlichen arabischen Literatur. Vatican City: Biblioteca Apostolica Vaticana, 1944.",
+            "range": "vol. 1, pp. 310-320",
+            "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917160205171//NLI"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst03"
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Arabic Manuscripts Project",
+                "description": "Described as part of the Sinai Arabic Manuscripts Project (2020-2025)."
+            }
+        ]
+    },
+    "related_mss": [
+        {
+            "type": {
+                "id": "filiation",
+                "label": "Filiation"
+            },
+            "label": "Related Synaxarion overtext layers",
+            "note": [
+                "Overtext tradition shared with Sinai Arabic 400 and 402"
+            ],
+            "mss": [
+                {
+                    "label": "Related manuscript (ark:/21198/z11g2ktk)",
+                    "id": "ark:/21198/z11g2ktk",
+                    "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917160205171//NLI"
+                },
+                {
+                    "label": "Related manuscript (ark:/21198/z10k3t6h)",
+                    "id": "ark:/21198/z10k3t6h"
+                }
+            ]
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

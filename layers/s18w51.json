@@ -1,84 +1,49 @@
 {
-    "ark": "ark:/21198/s18w51",
-    "reconstruction": false,
-    "label": "Sinai CPA NF frag 5, Undertext (Christian Palestinian Aramaic)",
-    "locus": "f. 2",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s18w51",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai CPA NF frag 5, Undertext (Christian Palestinian Aramaic)",
+  "locus": "f. 2",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "cpa",
-                    "label": "Christian Palestinian Aramaic",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "Fairly small hand"
-            ]
+          "id": "cpa",
+          "label": "Christian Palestinian Aramaic",
+          "writing_system": "Syriac"
         }
+      ],
+      "note": [
+        "Fairly small hand"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "21 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1xx0c",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "2 columns",
-            "lines": "21 lines"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1xx0c",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "Early 6th - 7th c.  CE",
-            "iso": {
-                "not_before": "0501",
-                "not_after": "0700"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Palestine",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Since the other half of the bifolio contains Isaiah, both undertext objects belong to the same CPA Lectionary"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Sebastian Brock"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: C. Müller-Kessler and M. Sokoloff, eds., A corpus of Christian Palestinian Aramaic. Vol. 1, The Christian Palestinian Aramaic Old Testament and Apocrypha version from the early period (Groningen, 1999)"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z14m95mw"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z14m95mw",
+    "ark:/21198/z1kj1dbh"
+  ]
 }

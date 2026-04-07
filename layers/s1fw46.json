@@ -1,71 +1,42 @@
 {
-    "ark": "ark:/21198/s1fw46",
-    "reconstruction": false,
-    "label": "Sinai Greek 35, Overtext (Naskh, Kufic, Greek majuscule)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1fw46",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Greek 35, Overtext (Naskh, Kufic, Greek majuscule)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                },
-                {
-                    "id": "kufic",
-                    "label": "Kufic",
-                    "writing_system": "Arabic"
-                },
-                {
-                    "id": "greek-maj",
-                    "label": "Greek majuscule",
-                    "writing_system": "Greek"
-                }
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s18h3g",
-            "label": "Item 1"
-        }
-    ],
-    "features": [
-        {
-            "id": "initials-deco",
-            "label": "Initial(s), Decorated"
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         },
         {
-            "id": "parallel-text",
-            "label": "Parallel text"
-        }
-    ],
-    "assoc_date": [
+          "id": "kufic",
+          "label": "Kufic",
+          "writing_system": "Arabic"
+        },
         {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "8th c. CE",
-            "iso": {
-                "not_before": "0701",
-                "not_after": "0900"
-            }
+          "id": "greek-maj",
+          "label": "Greek majuscule",
+          "writing_system": "Greek"
         }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Decorated Greek Initials throughout"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1jm3v84"
-    ]
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s18h3g",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1jm3v84"
+  ]
 }

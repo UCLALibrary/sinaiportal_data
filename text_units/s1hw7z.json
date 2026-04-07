@@ -1,0 +1,69 @@
+{
+  "ark": "ark:/21198/s1hw7z",
+  "reconstruction": false,
+  "label": "Gospels",
+  "locus": "ff. 4r-322v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    },
+    {
+      "id": "gree1276",
+      "label": "Greek"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s10k5f"
+      },
+      "alt_title": "Four Gospels",
+      "locus": "ff. 4r-314v",
+      "contents": [
+        {
+          "label": "Matthew, ff. 4v-96r"
+        },
+        {
+          "label": "Mark, ff. 97v-146r"
+        },
+        {
+          "label": "Luke, ff. 148v-241r"
+        },
+        {
+          "label": "John, ff. 242v-314v"
+        }
+      ]
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s10k5f"
+      },
+      "alt_title": "Gospel extracts in Greek",
+      "locus": "ff. 317r-322v",
+      "contents": [
+        {
+          "label": "Portion of an extract from Luke, f. 317r"
+        },
+        {
+          "label": "Extract from Mark, ff. 317r-318v"
+        },
+        {
+          "label": "Extract from Mark, f. 319r-v"
+        },
+        {
+          "label": "Extract from Matthew, f. 320r-v"
+        },
+        {
+          "label": "Extract from Matthew, ff. 320v-322v"
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1q880"
+  ]
+}

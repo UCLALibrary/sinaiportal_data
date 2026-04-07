@@ -1,0 +1,76 @@
+{
+  "ark": "ark:/21198/s1cd07",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 443, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s15w87",
+      "label": "Item 1",
+      "locus": "ff. 4r-310r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 310v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "تم ونجز هذا المجموع المبارك على يد كاتبه الحقير افثيميوس أسقف مدينة غزة وكان نجازه يوم الاثنين حادي وعشرين شهر اذار سنة ستة آلاف وسبعمائة وست وثمانين لأبينا آدم عليه السلم الموافق الخامس والعشرين من شهر شوال سنة ست وسبعين وستمائة للهجرة / وكتب في الاعتقال بفعله الجبل بمصر وهو يسأل كل من قرأ فيه يدعو له بغفران الذنوب والرحمة والرب يغفر لكل من قرأ فيه وسمعه ولجميع بني المعمودية امين بشفاعة السيدة ام النور وجميع القديسين ",
+      "assoc_place": [
+        {
+          "id": "ark:/21198/s1pm50",
+          "event": {
+            "id": "origin",
+            "label": "Place of Origin"
+          },
+          "note": [
+            "Copied at Citadel of Cairo, while imprisoned"
+          ]
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1278 CE",
+          "iso": {
+            "not_before": "1278"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Tuesday 21 Adhar 6786 (adam) :: 25 Shawwal 676 (hijra)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1jd617t"
+  ]
+}

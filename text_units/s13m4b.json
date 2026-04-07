@@ -1,22 +1,26 @@
 {
-    "ark": "ark:/21198/s13m4b",
-    "reconstruction": false,
-    "label": "Heirmologion",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1sp47"
-            },
-            "locus": "ff. 1r-206v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1905c"
-    ]
+  "ark": "ark:/21198/s13m4b",
+  "reconstruction": false,
+  "label": "Heirmologion",
+  "locus": "ff. 1r-206v",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1sp47"
+      },
+      "locus": "ff. 1r-206v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1905c"
+  ]
 }

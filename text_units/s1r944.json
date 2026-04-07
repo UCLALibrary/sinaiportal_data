@@ -1,39 +1,37 @@
 {
-    "ark": "ark:/21198/s1r944",
-    "reconstruction": false,
-    "label": "The book of history",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "The book of history",
-                "genre": [
-                    {
-                        "id": "historical-works",
-                        "label": "Historical works"
-                    }
-                ]
-            },
-            "alt_title": "Universal history",
-            "as_written": "كتاب التاريخ",
-            "locus": "ff. 1r-206v"
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Contributor(s): Chris PreJean"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1xp5v"
-    ]
+  "ark": "ark:/21198/s1r944",
+  "reconstruction": false,
+  "label": "Mahbub ibn Constantine, The book of history",
+  "locus": "ff. 1r-206v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "The book of history",
+        "genre": [
+          {
+            "id": "historical-works",
+            "label": "Historical works"
+          }
+        ]
+      },
+      "alt_title": "Universal history",
+      "as_written": "كتاب التاريخ",
+      "locus": "ff. 1r-206v",
+      "note": [
+        "This text contains part one of the two-part Book of History. Part one can also be found in Sinai Arabic 456, while part two is only known in MS Florence, Biblioteca Medicea Laurenziana – Or. 132 (dated to 1288 CE)."
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1xp5v"
+  ]
 }

@@ -1,43 +1,36 @@
 {
-    "ark": "ark:/21198/s1b104",
-    "reconstruction": false,
-    "label": "Unidentified liturgical text I",
-    "lang": [
-        {
-            "id": "gree1276",
-            "label": "Greek"
-        }
+  "ark": "ark:/21198/s1b104",
+  "reconstruction": false,
+  "label": "Unidentified liturgical text I",
+  "lang": [
+    {
+      "id": "gree1276",
+      "label": "Greek"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Unidentified liturgical text",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          }
+        ]
+      }
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Unidentified liturgical text",
-                "genre": [
-                    {
-                        "id": "liturgical-texts",
-                        "label": "Liturgical texts"
-                    }
-                ]
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description by Pasquale Orsini"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: For abbreviations of the editions see H. Follieri, Initia hymnorum ecclesiae Graecae, vols. I-V.2, Studi e testi (Vatican City, 1960-1966 (211-215bis)"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1p04d"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1p04d"
+  ]
 }

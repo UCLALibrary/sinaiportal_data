@@ -1,0 +1,48 @@
+{
+    "ark": "ark:/21198/s1agent01",
+    "type": {
+        "id": "person",
+        "label": "Person"
+    },
+    "pref_name": "Matthew, Apostle",
+    "alt_name": [
+        "Matthaeus",
+        "Levi",
+        "Matthew the Evangelist"
+    ],
+    "desc": "One of the twelve apostles of Jesus and traditionally regarded as the author of the Gospel of Matthew.",
+    "gender": {
+        "id": "man",
+        "label": "Man"
+    },
+    "floruit": {
+        "value": "1st c. CE",
+        "iso": {
+            "not_before": "0001",
+            "not_after": "0100"
+        }
+    },
+    "rel_con": [
+        {
+            "label": "Matthew, Apostle",
+            "uri": "http://viaf.org/viaf/89655211",
+            "source": "VIAF"
+        },
+        {
+            "label": "Matthew, Apostle",
+            "uri": "http://id.loc.gov/authorities/names/n79065105",
+            "source": "LoC"
+        }
+    ],
+    "note": [
+        "Traditionally credited as author of the Gospel of Matthew; historical authorship is debated"
+    ],
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": ["Grigory Kessel", "Natalia Smelova"],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

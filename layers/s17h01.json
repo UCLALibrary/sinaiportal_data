@@ -1,77 +1,59 @@
 {
-    "ark": "ark:/21198/s17h01",
-    "reconstruction": false,
-    "label": "Sinai Syriac 188, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s17h01",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 188, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1238c",
+      "label": "Item 1",
+      "locus": "ff. 1r-198r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "198r",
+      "lang": [
         {
-            "id": "ark:/21198/s1238c",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܡܝܢܐܘܢ ܝܪܚ ܬ̄ܫܪ: ܐ̄: ܐܝܟ ܕܠܗ ܕܪܐ ܘܩܘܠܣܐ ܘܫ̄ܘ ܕܬܠܝܬܝܘ: ܩܕ̄ܝܫ: ܘܫܘܝܬ̤: ܒܐܘܣܝܐ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܕܩ̄ܘܕ: ܚܕ ܐܠܗܐ ܐܚܝܕ ܟܠ: ܒܐ̈ܝܕܝ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪ: ܡܢ ܟܠܗܘܢ ܒܢܝܢ̈ܫܐ ܕܠܐ ܫ̇ܘܐ ܕܢܬܩܪܐ ܐܚܪܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ: ܕܫܡܗ ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ ܡܢ ܩܪܝܬܐ ܚܛܪܬ̤ ܒܐܠܗܐ: ܪܘܡܢܐ ܡܢ ܓܘܒܬ̤ܐ ܕܙܒܕܝܬܐ ܐܠܦ̈ܢܝܗ ܕܝܘܡܐ: ܝܘܡ: ܒ̄: ܒ̄ܫ ܒ̄ܟܚ: ܒܐܒ: ܝܪܚܐ: ܫܢܬ̤ ܐܠܦ̈: ܘ̄ܗ: ܡ̈ܐܐ ܘܣ̄ܒ: ܡܢ ܡ̈ܢܝܢܐ ܕܐܠܟܣܢܕܪܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܩܕܘܢܝܐ",
+      "assoc_name": [
         {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
+          "value": "Shem'un bar Petros",
+          "as_written": "ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "198r",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܡܝܢܐܘܢ ܝܪܚ ܬ̄ܫܪ: ܐ̄: ܐܝܟ ܕܠܗ ܕܪܐ ܘܩܘܠܣܐ ܘܫ̄ܘ ܕܬܠܝܬܝܘ: ܩܕ̄ܝܫ: ܘܫܘܝܬ̤: ܒܐܘܣܝܐ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܕܩ̄ܘܕ: ܚܕ ܐܠܗܐ ܐܚܝܕ ܟܠ: ܒܐ̈ܝܕܝ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪ: ܡܢ ܟܠܗܘܢ ܒܢܝܢ̈ܫܐ ܕܠܐ ܫ̇ܘܐ ܕܢܬܩܪܐ ܐܚܪܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ: ܕܫܡܗ ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ ܡܢ ܩܪܝܬܐ ܚܛܪܬ̤ ܒܐܠܗܐ: ܪܘܡܢܐ ܡܢ ܓܘܒܬ̤ܐ ܕܙܒܕܝܬܐ ܐܠܦ̈ܢܝܗ ܕܝܘܡܐ: ܝܘܡ: ܒ̄: ܒ̄ܫ ܒ̄ܟܚ: ܒܐܒ: ܝܪܚܐ: ܫܢܬ̤ ܐܠܦ̈: ܘ̄ܗ: ܡ̈ܐܐ ܘܣ̄ܒ: ܡܢ ܡ̈ܢܝܢܐ ܕܐܠܟܣܢܕܪܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܩܕܘܢܝܐ",
-            "assoc_name": [
-                {
-                    "value": "Shem'un bar Petros",
-                    "as_written": "ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ",
-                    "role": {
-                        "id": "scribe",
-                        "label": "Scribe"
-                    }
-                }
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1250 CE",
-            "iso": {
-                "not_before": "1250"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1hq5ndx"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1hq5ndx"
+  ]
 }

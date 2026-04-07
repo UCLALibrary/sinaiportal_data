@@ -1,75 +1,45 @@
 {
-    "ark": "ark:/21198/s1c61j",
-    "reconstruction": false,
-    "label": "Sinai Georgian NF M 19, Overtext (Nuskhurimt)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1c61j",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Georgian NF M 19, Overtext (Nuskhurimt)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "nuskhurimt",
-                    "label": "Nuskhurimt",
-                    "writing_system": "Georgian"
-                }
-            ]
+          "id": "nuskhurimt",
+          "label": "Nuskhurimt",
+          "writing_system": "Georgian"
         }
+      ]
+    }
+  ],
+  "ink": [
+    {
+      "color": [
+        "black"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s15q27",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "ink": [
-        {
-            "color": [
-                "black"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s15q27",
-            "label": "Item 1"
-        }
-    ],
-    "features": [
-        {
-            "id": "dated",
-            "label": "Dated"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "980  CE",
-            "iso": {
-                "not_before": "0980"
-            }
-        }
-    ],
-    "assoc_name": [
-        {
-            "value": "Iovane",
-            "role": {
-                "id": "scribe",
-                "label": "Scribe"
-            },
-            "note": [
-                "Written, and dated, by a scribe named Iovane"
-            ]
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Saint Catherine's Monastery (Sinai)",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z16d68k3"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z16d68k3"
+  ]
 }

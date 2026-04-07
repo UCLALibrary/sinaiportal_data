@@ -1,0 +1,48 @@
+{
+  "ark": "ark:/21198/s1gp7k",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 563, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1966t",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 300r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "كان الفراغ منه سلح شهر تموز سنة ست آلاف وسبعمائة وخمسة وستين للعالم وذلك على يد العبد الحقير المسكين الخاطئ يوحنا بن ابو الوحش نيح الله نفسه المسمى شماس المتزيانرى راهب لا بفعله وهو يسأل كل من قرأ فيه أو استكتب  منه أن يذكره بالرحمة ولوالديه ولجميع بني المعمودية وغفر الله لمن وجد فيه غلط واصلحه من أجل الرب أيها القارئ صلى عن الكاتب الخاطئ المسكين "
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1cz4rtb"
+  ]
+}

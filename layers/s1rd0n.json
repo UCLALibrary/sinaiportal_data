@@ -1,29 +1,38 @@
 {
-    "ark": "ark:/21198/s1rd0n",
-    "reconstruction": false,
-    "label": "Sinai Georgian NF frag 73a, Overtext (Undetermined (Georgian))",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1rd0n",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Georgian NF frag 73a, Overtext (Undetermined (Georgian))",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "georgian-undetermined",
-                    "label": "Undetermined (Georgian)",
-                    "writing_system": "Georgian"
-                }
-            ]
+          "id": "georgian-undetermined",
+          "label": "Undetermined (Georgian)",
+          "writing_system": "Georgian"
         }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1k080",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1k080",
-            "label": "Item 1"
-        }
-    ],
-    "parent": [
-        "ark:/21198/r2sf2t3c"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/r2sf2t3c"
+  ]
 }

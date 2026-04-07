@@ -1,0 +1,86 @@
+{
+  "ark": "ark:/21198/s1s07g",
+  "reconstruction": false,
+  "label": "Theological miscellany",
+  "locus": "f. 1ar-209r-v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Hundred Problems of St. Barsanuphius",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 2r-174v",
+      "contents": [
+        {
+          "label": "First Part, ff. 2r-76v"
+        },
+        {
+          "label": "Second Part, ff. 76v-112r"
+        },
+        {
+          "label": "Third Part, ff. 112v-174v"
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "Life of St. Bios of Scetis",
+        "genre": [
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
+      },
+      "locus": "ff. 175r-192r"
+    },
+    {
+      "work": {
+        "desc_title": "Portion of a treatise of Ephrem",
+        "creator": [
+          "ark:/21198/s1v887"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 192r-194v"
+    },
+    {
+      "work": {
+        "desc_title": "Various liturgical texts including a prayer for Pentecost",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          },
+          {
+            "id": "prayers",
+            "label": "Prayers"
+          }
+        ]
+      },
+      "locus": "ff. 194v-205v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1zg7v"
+  ]
+}

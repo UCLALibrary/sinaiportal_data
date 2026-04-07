@@ -1,46 +1,40 @@
 {
-    "ark": "ark:/21198/s17d1c",
-    "reconstruction": false,
-    "label": "Sinai Greek 929, Undertext (Undetermined (Arabic))",
-    "locus": "front pastedown",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s17d1c",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Greek 929, Undertext (Undetermined (Arabic))",
+  "locus": "front pastedown",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "arabic-undetermined",
-                    "label": "Undetermined (Arabic)",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
         }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1wd65",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1wd65",
-            "label": "Item 1"
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "This is the recto of the pastedown at the beginning of the codex, i.e., the side that was originally glued to the upper board. There is no Arabic writing on its conjoin, i.e., flyleaf verso (here labeled as fol. 1v)"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Alexander Treiger"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1nc6gtd"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1nc6gtd",
+    "ark:/21198/z1nq2wdx"
+  ]
 }

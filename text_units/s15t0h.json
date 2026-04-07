@@ -1,28 +1,32 @@
 {
-    "ark": "ark:/21198/s15t0h",
-    "reconstruction": false,
-    "label": "Parakletiki",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Parakletiki",
-                "genre": [
-                    {
-                        "id": "liturgical-texts",
-                        "label": "Liturgical texts"
-                    }
-                ]
-            },
-            "locus": "ff. 1r-201r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1c62x"
-    ]
+  "ark": "ark:/21198/s15t0h",
+  "reconstruction": false,
+  "label": "Parakletiki",
+  "locus": "ff. 1r-201r",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Parakletiki",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          }
+        ]
+      },
+      "locus": "ff. 1r-201r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1c62x"
+  ]
 }

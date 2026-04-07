@@ -1,107 +1,77 @@
 {
-    "ark": "ark:/21198/s1ps4b",
-    "reconstruction": false,
-    "label": "Sinai Arabic 419, Overtext (Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1ps4b",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 419, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         }
-    ],
-    "ink": [
+      ]
+    }
+  ],
+  "ink": [
+    {
+      "locus": "ff. 307-312v",
+      "color": [
+        "red"
+      ],
+      "note": [
+        "Uses a different shade of red ink"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1hd3m",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 306v",
+      "lang": [
         {
-            "locus": "ff. 307-312v",
-            "color": [
-                "red"
-            ],
-            "note": [
-                "Uses a different shade of red ink"
-            ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "text_unit": [
+      ],
+      "as_written": "كان الفراغ من نسخة يوم الجمعة السادس عشر في حزيران سنة ستة آلاف وثمانمائة وخمسة عشر لأبينا آدم بجبل الله كور سيناء في الدير المقدس المحروس من الله ",
+      "assoc_date": [
         {
-            "id": "ark:/21198/s1hd3m",
-            "label": "Item 1"
+          "value": "1307 CE",
+          "iso": {
+            "not_before": "1307"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Friday 16 Huzayran 6815 (adam)"
+          ]
         }
-    ],
-    "features": [
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "f. 306v",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "as_written": "كان الفراغ من نسخة يوم الجمعة السادس عشر في حزيران سنة ستة آلاف وثمانمائة وخمسة عشر لأبينا آدم بجبل الله كور سيناء في الدير المقدس المحروس من الله ",
-            "assoc_date": [
-                {
-                    "type": {
-                        "id": "origin",
-                        "label": "Date of Origin"
-                    },
-                    "value": "Friday 16 Huzayran 6815 (adam)"
-                }
-            ],
-            "note": [
-                "Attested places:  Saint Catherine’s Monastery, Mount Sinai"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1307 CE",
-            "iso": {
-                "not_before": "1307"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Minor geometric headpiece on f. 79r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z15t4pt8"
-    ]
+      ],
+      "note": [
+        "Attested places:  Saint Catherine’s Monastery, Mount Sinai"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z15t4pt8"
+  ]
 }

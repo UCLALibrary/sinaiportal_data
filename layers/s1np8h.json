@@ -1,82 +1,49 @@
 {
-    "ark": "ark:/21198/s1np8h",
-    "reconstruction": false,
-    "label": "Sinai Georgian NF M 55, Undertext (Christian Palestinian Aramaic)",
-    "locus": "ff. 19–20",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1np8h",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Georgian NF M 55, Undertext (Christian Palestinian Aramaic)",
+  "locus": "ff. 19–20",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "cpa",
-                    "label": "Christian Palestinian Aramaic",
-                    "writing_system": "Syriac"
-                }
-            ],
-            "note": [
-                "Ancient CPA writing"
-            ]
+          "id": "cpa",
+          "label": "Christian Palestinian Aramaic",
+          "writing_system": "Syriac"
         }
+      ],
+      "note": [
+        "Ancient CPA writing"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "14 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s19q3v",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "2 columns",
-            "lines": "14 lines"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s19q3v",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "7th-8th c.  CE",
-            "iso": {
-                "not_before": "0601",
-                "not_after": "0800"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 20v, 20r, 19v, 19r"
-        },
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Sequence of the text proves that the original bifolio was not the center of a quire"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Alain J. Desreumaux"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Agnes Smith Lewis & Margaret Dunlop Gibson, The Palestinian Syriac Lectionary of the Gospels (London, 1899)"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1d50wzn"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1d50wzn",
+    "ark:/21198/z16v1cnt"
+  ]
 }

@@ -1,64 +1,43 @@
 {
-    "ark": "ark:/21198/s1zs8b",
-    "reconstruction": false,
-    "label": "Sinai Arabic 588, Undertext (Kufic)",
-    "locus": "f. 39",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1zs8b",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Arabic 588, Undertext (Kufic)",
+  "locus": "f. 39",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "kufic",
-                    "label": "Kufic",
-                    "writing_system": "Arabic"
-                }
-            ],
-            "note": [
-                "Late Kufi Palestine-Sinai style"
-            ]
+          "id": "kufic",
+          "label": "Kufic",
+          "writing_system": "Arabic"
         }
+      ],
+      "note": [
+        "Late Kufi Palestine-Sinai style"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1mt29",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1mt29",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "10th c.  CE",
-            "iso": {
-                "not_before": "0901",
-                "not_after": "1000"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Possibly Sinai or Palestine",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by André Binggeli"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z16m44r0"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z16m44r0",
+    "ark:/21198/z18f0n6d"
+  ]
 }

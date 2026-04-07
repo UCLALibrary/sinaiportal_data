@@ -1,23 +1,27 @@
 {
-    "ark": "ark:/21198/s1rm2g",
-    "reconstruction": false,
-    "label": "Psalms 3 : 7-53-6",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1088g"
-            },
-            "alt_title": "Lectionary of Old Testament",
-            "locus": "ff. 1r-214r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1z03h"
-    ]
+  "ark": "ark:/21198/s1rm2g",
+  "reconstruction": false,
+  "label": "Psalms 3 : 7-53-6",
+  "locus": "ff. 1r-214r",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1088g"
+      },
+      "alt_title": "Lectionary of Old Testament",
+      "locus": "ff. 1r-214r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1z03h"
+  ]
 }

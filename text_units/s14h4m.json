@@ -1,22 +1,26 @@
 {
-    "ark": "ark:/21198/s14h4m",
-    "reconstruction": false,
-    "label": "Octoechos",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1tg7m"
-            },
-            "locus": "ff. 1r-224v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1b05p"
-    ]
+  "ark": "ark:/21198/s14h4m",
+  "reconstruction": false,
+  "label": "Octoechos",
+  "locus": "ff. 1r-224v",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1tg7m"
+      },
+      "locus": "ff. 1r-224v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1b05p"
+  ]
 }

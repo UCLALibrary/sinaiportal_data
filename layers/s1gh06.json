@@ -1,84 +1,49 @@
 {
-    "ark": "ark:/21198/s1gh06",
-    "reconstruction": false,
-    "label": "Sinai Georgian 34, Undertext (Nuskhurimt)",
-    "locus": "ff. 144–145, 204–205, 208–209, rear pastedown, 140–141",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1gh06",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Georgian 34, Undertext (Nuskhurimt)",
+  "locus": "ff. 144–145, 204–205, 208–209, rear pastedown, 140–141",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "nuskhurimt",
-                    "label": "Nuskhurimt",
-                    "writing_system": "Georgian"
-                }
-            ],
-            "note": [
-                "Relatively thick and clumsy"
-            ]
+          "id": "nuskhurimt",
+          "label": "Nuskhurimt",
+          "writing_system": "Georgian"
         }
+      ],
+      "note": [
+        "Relatively thick and clumsy"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "1 columns",
+      "lines": "17 lines, uncertain"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s14h50",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "1 columns",
-            "lines": "17 lines, uncertain"
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s14h50",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "ca. 9th-10th c.  CE",
-            "iso": {
-                "not_before": "0801",
-                "not_after": "0950"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Possibly Jerusalem",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 204r (?), 204v, 205r, 205v, 141r, 141v, 140r, 140v, 145r (?),) 145v, 144r, 144v, 208r, 208v"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Jost Gippert, Bernard Outtier"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Metreveli, Č'ank'ievi, and Xevsuriani"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1h13zxq"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1h13zxq",
+    "ark:/21198/z1s28thd"
+  ]
 }

@@ -1,68 +1,42 @@
 {
-    "ark": "ark:/21198/s1r33p",
-    "reconstruction": false,
-    "label": "Sinai Arabic NF M 8, Undertext (Greek majuscule)",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1r33p",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Arabic NF M 8, Undertext (Greek majuscule)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "greek-maj",
-                    "label": "Greek majuscule",
-                    "writing_system": "Greek"
-                }
-            ],
-            "note": [
-                "Small round biblical majuscule (Rossetto)"
-            ]
+          "id": "greek-maj",
+          "label": "Greek majuscule",
+          "writing_system": "Greek"
         }
+      ],
+      "note": [
+        "Small round biblical majuscule (Rossetto)"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1d38g",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1d38g",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "5th-6th c. CE",
-            "iso": {
-                "not_before": "0401",
-                "not_after": "0600"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "The script (small round biblical majuscule) suggests that this could belong to one of the Hippocratic texts in this codex (Rossetto)"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Agamemnon Tselikas, Nigel Wilson, Giulia Rossetto"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Boudalis and Rossetto"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1kd1z25"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1kd1z25",
+    "ark:/21198/z1s867bf"
+  ]
 }

@@ -1,22 +1,26 @@
 {
-    "ark": "ark:/21198/s1j660",
-    "reconstruction": false,
-    "label": "Horologion",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1dg6h"
-            },
-            "locus": "ff. 3r-149r"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1qp7r"
-    ]
+  "ark": "ark:/21198/s1j660",
+  "reconstruction": false,
+  "label": "Horologion",
+  "locus": "ff. 3r-149r",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1dg6h"
+      },
+      "locus": "ff. 3r-149r"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1qp7r"
+  ]
 }

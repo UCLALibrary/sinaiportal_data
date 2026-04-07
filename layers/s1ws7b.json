@@ -1,68 +1,42 @@
 {
-    "ark": "ark:/21198/s1ws7b",
-    "reconstruction": false,
-    "label": "Sinai Arabic NF M 8, Undertext (Undetermined (Roman))",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1ws7b",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Arabic NF M 8, Undertext (Undetermined (Roman))",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "roman-undetermined",
-                    "label": "Undetermined (Roman)",
-                    "writing_system": "Roman"
-                }
-            ],
-            "note": [
-                "Cursive script"
-            ]
+          "id": "roman-undetermined",
+          "label": "Undetermined (Roman)",
+          "writing_system": "Roman"
         }
+      ],
+      "note": [
+        "Cursive script"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1jt32",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1jt32",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "7th-8th c.  CE",
-            "iso": {
-                "not_before": "0601",
-                "not_after": "0800"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Middle layer of double palimpsest"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Michelle P. Brown, David Ganz, Daniela Mairhofer"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Boudalis and Rossetto"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1kd1z25"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1kd1z25",
+    "ark:/21198/z1jr1rzg"
+  ]
 }

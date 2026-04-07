@@ -1,96 +1,66 @@
 {
-    "ark": "ark:/21198/s1n02b",
-    "reconstruction": false,
-    "label": "Sinai Arabic 405, Overtext (Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1n02b",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 405, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1fm19",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 236v",
+      "lang": [
         {
-            "id": "ark:/21198/s1fm19",
-            "label": "Item 1"
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "features": [
+      ],
+      "as_written": "نجز هذا الكتاب المبارك وهو شهرين أيار وحزيران في العشر الأوسط من كانون الأول سنة ستة آلاف وثمانمائة وثلاثة وأربعين وذلك في أيام الأب السيد الاسقف كير جرمانوس رحمنا الله بصلاته بدير طور سيناء المقدس بكنيسة السيدة المعروفة بالسريان فمن غيره عنها كانت السيدة خصمه يوم الدينونة وكان خطه مع يودس الاسخريوطي غفر الرب لمن اهتم",
+      "assoc_date": [
         {
-            "id": "border-deco",
-            "label": "Border(s), Decorative"
-        },
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
+          "value": "1335 CE",
+          "iso": {
+            "not_before": "1335"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "6843"
+          ]
         }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "f. 236v",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "as_written": "نجز هذا الكتاب المبارك وهو شهرين أيار وحزيران في العشر الأوسط من كانون الأول سنة ستة آلاف وثمانمائة وثلاثة وأربعين وذلك في أيام الأب السيد الاسقف كير جرمانوس رحمنا الله بصلاته بدير طور سيناء المقدس بكنيسة السيدة المعروفة بالسريان فمن غيره عنها كانت السيدة خصمه يوم الدينونة وكان خطه مع يودس الاسخريوطي غفر الرب لمن اهتم",
-            "assoc_date": [
-                {
-                    "type": {
-                        "id": "origin",
-                        "label": "Date of Origin"
-                    },
-                    "value": "6843"
-                }
-            ],
-            "note": [
-                "Attested places:  Mount Sinai"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1335 CE",
-            "iso": {
-                "not_before": "1335"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Headpieces and minor headpieces/tailpieces throughout | Cross ornaments on f. 237r-v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1zw2q8k"
-    ]
+      ],
+      "note": [
+        "Attested places:  Mount Sinai"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1zw2q8k"
+  ]
 }

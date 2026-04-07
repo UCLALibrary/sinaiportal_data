@@ -1,0 +1,64 @@
+{
+  "ark": "ark:/21198/s1j02d",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 231, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1bm00",
+      "label": "Item 1",
+      "locus": "ff. 1r-95v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 95v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "وكان الفراغ منه نهار الجمعة  ثامن وعشرين كانون الثاني سنة  ستة ألف وثمانمائة وتسع وخمسين لأبينا آدم عليه السلام على يد العبد الخاطئ بالاسم قس بطرس ابن يوسف والقس إبراهيم الشوبكي وهو برسم  الاخ الروحاني الخير الدين  أنبا يوحنا ابن منصور ابن وحيش الشوبكي نفعه الله به وأعانه على العمل به وغفر الله لمن نسخ واستنسخ ولمن دعا لهم بالمغفرة يكون له نظير ذلك بشفاعة السيدة أم النور ومار موسى وهرون وجميع القديسين آمين آمين آمين ",
+      "assoc_date": [
+        {
+          "value": "1351 CE",
+          "iso": {
+            "not_before": "1351"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Friday 28 Kanun II 6859"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1zk6m1m"
+  ]
+}

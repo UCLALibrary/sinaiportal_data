@@ -1,33 +1,36 @@
 {
-    "ark": "ark:/21198/s1sh34",
-    "reconstruction": false,
-    "label": "Homilies on the Book of Genesis (Chrysostom)",
-    "lang": [
+  "ark": "ark:/21198/s1sh34",
+  "reconstruction": false,
+  "label": "Homilies on the Book of Genesis (Chrysostom)",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1rp59"
+      },
+      "alt_title": "Commentary on the Book of Genesis by St. John Chrysostom",
+      "locus": "ff. 1r-385r",
+      "excerpt": [
         {
-            "id": "arab1395",
-            "label": "Arabic"
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 385r",
+          "as_written": "تمّ بمعونة الله تعالیٰ"
         }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s1rp59"
-            },
-            "alt_title": "Commentary on the Book of Genesis by St. John Chrysostom",
-            "locus": "ff. 1r-385r",
-            "excerpt": [
-                {
-                    "type": {
-                        "id": "explicit",
-                        "label": "Explicit"
-                    },
-                    "locus": "f. 385r",
-                    "as_written": "تمّ بمعونة الله تعالیٰ"
-                }
-            ]
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1zw3g"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1zw3g"
+  ]
 }

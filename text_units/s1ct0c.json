@@ -1,23 +1,27 @@
 {
-    "ark": "ark:/21198/s1ct0c",
-    "reconstruction": false,
-    "label": "Menologion (1st Shabāt - 29 Ab)",
-    "lang": [
-        {
-            "id": "class1252",
-            "label": "Syriac"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "id": "ark:/21198/s16s3m"
-            },
-            "alt_title": "Menologion (1st Shabāt - 29 Ab)",
-            "locus": "ff. 1r-312v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/s1k61d"
-    ]
+  "ark": "ark:/21198/s1ct0c",
+  "reconstruction": false,
+  "label": "Menologion (1st Shabāt - 29 Ab)",
+  "locus": "ff. 1r-312v",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s16s3m"
+      },
+      "alt_title": "Menologion (1st Shabāt - 29 Ab)",
+      "locus": "ff. 1r-312v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1k61d"
+  ]
 }

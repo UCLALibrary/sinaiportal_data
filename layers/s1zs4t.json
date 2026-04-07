@@ -1,137 +1,89 @@
 {
-    "ark": "ark:/21198/s1zs4t",
-    "reconstruction": false,
-    "label": "Sinai Arabic 315, Overtext (Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
+  "ark": "ark:/21198/s1zs4t",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 315, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1s932",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 1r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "وكان المقتني بنساخته المسكين الخاطئ كير يوصف باسم راهب دير طور سيناء المقدسة وهو برس نفسه وقلايته كتب في طور سيناء المقدسة وكان الفراغ منه نهار الثلثة العاشر من شهر اب سنة ستالاف وتسعمائه [ثلثة] تسعين لكون العالم والسبح لله دائما",
+      "translation": [
+        "It was copied at Holy Mount Si[nai?] Monastery during the day of Tuesday 10 in the month of Āb [August] in the Year of the Existence of the World [Anno Mundi] 6993"
+      ],
+      "assoc_place": [
+        {
+          "id": "ark:/21198/s1qm59",
+          "event": {
+            "id": "origin",
+            "label": "Place of Origin"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1485 CE",
+          "iso": {
+            "not_before": "1485"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "13 Ab 6993"
+          ]
+        }
+      ]
     },
-    "writing": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 239v ",
+      "lang": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1s932",
-            "label": "Item 1"
-        }
-    ],
-    "features": [
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        },
-        {
-            "id": "dated",
-            "label": "Dated"
-        }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "f. 1r",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "as_written": "وكان المقتني بنساخته المسكين الخاطئ كير يوصف باسم راهب دير طور سيناء المقدسة وهو برس نفسه وقلايته كتب في طور سيناء المقدسة وكان الفراغ منه نهار الثلثة العاشر من شهر اب سنة ستالاف وتسعمائه [ثلثة] تسعين لكون العالم والسبح لله دائما",
-            "translation": [
-                "It was copied at Holy Mount Si[nai?] Monastery during the day of Tuesday 10 in the month of Āb [August] in the Year of the Existence of the World [Anno Mundi] 6993"
-            ],
-            "assoc_place": [
-                {
-                    "value": "Holy Mount Si[nai?] Monastery",
-                    "event": {
-                        "id": "origin",
-                        "label": "Place of Origin"
-                    }
-                }
-            ],
-            "assoc_date": [
-                {
-                    "type": {
-                        "id": "origin",
-                        "label": "Date of Origin"
-                    },
-                    "value": "13 Ab 6993"
-                }
-            ]
-        },
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "f. 239v ",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "as_written": "نجز هذا الكتاب المبارك بعون الله تأييده وله السبح الله دائما لله المجد لله دائما / الحقير في / رؤسا الاهية فلان خادم لرئيس / فلان [الحقير] الرؤسا الاهية / والفلان حاكم لرئيس فلان / وأكتب ويقين عقلي يوم ؟ انا الحقير المسكين في رهبان طور سيناء الراهب يوصف",
-            "note": [
-                "Attested places:  Mount Sinai"
-            ]
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1485 CE",
-            "iso": {
-                "not_before": "1485"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Holy Mount Si[nai?] Monastery (f. 1r)",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            },
-            "note": [
-                "F. 1r"
-            ]
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Geometric decoration on f. 1r, rosette with pattern in red and black ink"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "The beginning of f. 1v (2 and 1/4 lines) copied on f. 17r and then crossed out with red ink"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1d51rb9"
-    ]
+      ],
+      "as_written": "نجز هذا الكتاب المبارك بعون الله تأييده وله السبح الله دائما لله المجد لله دائما / الحقير في / رؤسا الاهية فلان خادم لرئيس / فلان [الحقير] الرؤسا الاهية / والفلان حاكم لرئيس فلان / وأكتب ويقين عقلي يوم ؟ انا الحقير المسكين في رهبان طور سيناء الراهب يوصف"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1d51rb9"
+  ]
 }

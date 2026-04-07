@@ -1,84 +1,48 @@
 {
-    "ark": "ark:/21198/s1mc83",
-    "reconstruction": false,
-    "label": "Sinai Arabic 562, Overtext (Naskh)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1mc83",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 562, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "naskh",
-                    "label": "Naskh",
-                    "writing_system": "Arabic"
-                }
-            ]
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1f08r",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 126v",
+      "lang": [
         {
-            "id": "ark:/21198/s1f08r",
-            "label": "Item 1"
+          "id": "arab1395",
+          "label": "Arabic"
         }
-    ],
-    "features": [
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "deco-geometric",
-            "label": "Decoration, Geometric"
-        },
-        {
-            "id": "headpiece",
-            "label": "Headpiece(s)"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "f. 126v",
-            "lang": [
-                {
-                    "id": "arab1395",
-                    "label": "Arabic"
-                }
-            ],
-            "as_written": "كمل الطالب بعون الله سبحانه في دير القديس أنبا أنطونيوس سبعة في أيمشيرسنة الف وسبعة للشهداء الابرار رزقنا الرب شفاعة شهداه وقديسيه وابراره امين والسبح لله دائما آمين "
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1291 CE",
-            "iso": {
-                "not_before": "1291"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "ornamentation",
-                "label": "Ornamentation Note"
-            },
-            "value": "Minor geometric headpiece, f. 107v"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1xd2kc4"
-    ]
+      ],
+      "as_written": "كمل الطالب بعون الله سبحانه في دير القديس أنبا أنطونيوس سبعة في أيمشيرسنة الف وسبعة للشهداء الابرار رزقنا الرب شفاعة شهداه وقديسيه وابراره امين والسبح لله دائما آمين "
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1xd2kc4"
+  ]
 }

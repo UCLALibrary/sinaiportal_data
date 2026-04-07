@@ -1,31 +1,34 @@
 {
-    "ark": "ark:/21198/s12d4z",
-    "reconstruction": false,
-    "label": "Record book of treaties with the Arab tribes of Mt. Sinai",
-    "lang": [
-        {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
-        {
-            "work": {
-                "desc_title": "Record book of treaties with the Arab tribes of Mt. Sinai",
-                "genre": [
-                    {
-                        "id": "account-books",
-                        "label": "Account books"
-                    }
-                ]
-            },
-            "locus": "ff. 1r-10r",
-            "note": [
-                "Summary record of treaties with the Arab tribes of Mt. Sinai in the form of a Calendar of Treaty Index. It does not contain texts or treaties"
-            ]
-        }
-    ],
-    "parent": [
-        "ark:/21198/s17w4b"
-    ]
+  "ark": "ark:/21198/s12d4z",
+  "reconstruction": false,
+  "label": "Record book of treaties with the Arab tribes of Mt. Sinai",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Record book of treaties with the Arab tribes of Mt. Sinai",
+        "genre": [
+          {
+            "id": "account-books",
+            "label": "Account books"
+          }
+        ]
+      },
+      "locus": "ff. 1r-10r",
+      "note": [
+        "Summary record of treaties with the Arab tribes of Mt. Sinai in the form of a Calendar of Treaty Index. It does not contain texts or treaties"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s17w4b"
+  ]
 }

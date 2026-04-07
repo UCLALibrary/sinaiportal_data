@@ -1,0 +1,182 @@
+{
+    "ark": "ark:/21198/tetst02p1ol",
+    "reconstruction": false,
+    "state": {
+        "id": "overtext",
+        "label": "Overtext"
+    },
+    "label": "Sinai Syriac 799, Part 1, Overtext",
+    "locus": "ff. 1r-85v",
+    "summary": "9th-century Syriac Psalter in Serto script.",
+    "extent": "85 ff.",
+    "writing": [
+        {
+            "script": [
+                {
+                    "id": "serto",
+                    "label": "Serto",
+                    "writing_system": "Syriac"
+                }
+            ],
+            "locus": "ff. 1r-85v"
+        }
+    ],
+    "ink": [
+        {
+            "locus": "ff. 1r-85v",
+            "color": [
+                "black",
+                "red"
+            ],
+            "note": [
+                "Red used for psalm numbers"
+            ]
+        }
+    ],
+    "layout": [
+        {
+            "locus": "ff. 1r-85v",
+            "columns": "1",
+            "lines": "18",
+            "dim": "Writing area: 150 x 100 mm"
+        }
+    ],
+    "text_unit": [
+        {
+            "id": "ark:/21198/tetst02p1olt1",
+            "label": "Primary Text Unit 1",
+            "locus": "ff. 1r-85v"
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "colophon",
+                    "label": "Colophon"
+                }
+            ],
+            "locus": "f. 85v",
+            "lang": [
+                {
+                    "id": "syrc1272",
+                    "label": "Syriac"
+                }
+            ],
+            "as_written": "ܐܫܬܠܡ ܟܬܒܐ ܗܢܐ",
+            "translation": [
+                "This book is completed."
+            ]
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "9th c. CE",
+            "iso": {
+                "not_before": "0801",
+                "not_after": "0900"
+            },
+            "note": [
+                "Paleographic dating"
+            ]
+        }
+    ],
+    "assoc_name": [
+        {
+            "value": "Unknown scribe",
+            "role": {
+                "id": "scribe",
+                "label": "Scribe"
+            }
+        }
+    ],
+    "assoc_place": [
+        {
+            "event": {
+                "id": "origin",
+                "label": "Origin Place"
+            }
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "Minor water staining on lower margin."
+        }
+    ],
+    "bib": [
+        {
+            "id": "51f9a8e9-f98b-491c-9e44-8ca380ecfa1d",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Kamil",
+            "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970.",
+            "range": "p. 12",
+            "alt_shelf": "[1]"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst02"
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Syriac Descriptions Project",
+                "description": "Described as part of the Sinai Syriac Descriptions Project (2020-2024)."
+            }
+        ]
+    },
+    "features": [
+        {
+            "id": "dated",
+            "label": "Dated"
+        }
+    ],
+    "related_mss": [
+        {
+            "type": {
+                "id": "filiation",
+                "label": "Filiation"
+            },
+            "label": "Related Syriac Psalter layers",
+            "note": [
+                "Overtext shares script tradition with Sinai Syriac 800 and 801"
+            ],
+            "mss": [
+                {
+                    "label": "Related manuscript (ark:/21198/z1vx215c)",
+                    "id": "ark:/21198/z1vx215c",
+                    "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917160205171//NLI"
+                },
+                {
+                    "label": "Related manuscript (ark:/21198/z1g4681n)",
+                    "id": "ark:/21198/z1g4681n"
+                }
+            ]
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

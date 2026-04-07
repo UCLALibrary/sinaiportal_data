@@ -1,94 +1,52 @@
 {
-    "ark": "ark:/21198/s1xp7m",
-    "reconstruction": false,
-    "label": "Sinai Arabic NF M 66, Undertext (Greek majuscule)",
-    "locus": "ff. 2, 4-r, 4-v, 6r, 6–8",
-    "state": {
-        "id": "undertext",
-        "label": "Undertext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1xp7m",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Arabic NF M 66, Undertext (Greek majuscule)",
+  "locus": "ff. 2, 4-r, 4-v, 6r, 6–8",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "greek-maj",
-                    "label": "Greek majuscule",
-                    "writing_system": "Greek"
-                }
-            ],
-            "note": [
-                "Very small Alexandrian majuscule with influences of Biblical majuscule (in the letters mu, pi, omega). Critical signs, diacritics, and interlinear corrections were added by a later hand (7th-8th c. CE?)"
-            ]
+          "id": "greek-maj",
+          "label": "Greek majuscule",
+          "writing_system": "Greek"
         }
+      ],
+      "note": [
+        "Very small Alexandrian majuscule with influences of Biblical majuscule (in the letters mu, pi, omega). Critical signs, diacritics, and interlinear corrections were added by a later hand (7th-8th c. CE?)"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "1 columns",
+      "lines": "30 lines, reconstructed",
+      "note": [
+        "This text comes from a luxurious manuscript, whose folios measured approximately 300 x 250 mm (Turner group II). The letters are 3 mm high and 2-4 mm wide, the space between the lines is 7-8 mm. The margins are large: the internal margin measures 30 mm, the external margin 50 mm, the upper margin 40 mm (the lower margin is not preserved). The written surface is 175 x 155 mm. At the end of the lines the letters are smaller, in order to respect the line division and the justification of the margins, which is a feature typical of luxury codices"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1kq3b",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
     ],
-    "layout": [
-        {
-            "columns": "1 columns",
-            "lines": "30 lines, reconstructed",
-            "note": [
-                "This text comes from a luxurious manuscript, whose folios measured approximately 300 x 250 mm (Turner group II). The letters are 3 mm high and 2-4 mm wide, the space between the lines is 7-8 mm. The margins are large: the internal margin measures 30 mm, the external margin 50 mm, the upper margin 40 mm (the lower margin is not preserved). The written surface is 175 x 155 mm. At the end of the lines the letters are smaller, in order to respect the line division and the justification of the margins, which is a feature typical of luxury codices"
-            ]
-        }
-    ],
-    "text_unit": [
-        {
-            "id": "ark:/21198/s1kq3b",
-            "label": "Item 1"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "5th-6th c.  CE",
-            "iso": {
-                "not_before": "0401",
-                "not_after": "0600"
-            }
-        }
-    ],
-    "assoc_place": [
-        {
-            "value": "Possibly Egypt",
-            "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-            }
-        }
-    ],
-    "note": [
-        {
-            "type": {
-                "id": "foliation",
-                "label": "Foliation Note"
-            },
-            "value": "Reconstructed folio order, ff. 2r+7r+8v, 2v+7v+8r; 6r, 6v"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "The fragmentary fols. 2r+7r+8v as well as 2v+7v+8r were originally part of one original folio"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Description of undertext by Giulia Rossetto"
-        },
-        {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Bibliography: Rossetto 2021 ; Rossetto, et al. ; Rossetto 2023b"
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1dv21gp"
-    ]
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1dv21gp",
+    "ark:/21198/z1mh8fgb"
+  ]
 }

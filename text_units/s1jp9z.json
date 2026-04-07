@@ -1,0 +1,65 @@
+{
+  "ark": "ark:/21198/s1jp9z",
+  "reconstruction": false,
+  "label": "Works by John Climax, Chrysostom, and Ephrem",
+  "locus": "ff. 1r-284v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Thirty-one mimars of John Climax",
+        "creator": [
+          "ark:/21198/s1d30f"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 1r-163v"
+    },
+    {
+      "work": {
+        "desc_title": "Treatises of John Chrysostom",
+        "creator": [
+          "ark:/21198/s1x303"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 164r-179v"
+    },
+    {
+      "work": {
+        "desc_title": "Works of Ephrem the Syrian",
+        "creator": [
+          "ark:/21198/s1v887"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
+      },
+      "locus": "ff. 180v-284v"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1r31x"
+  ]
+}

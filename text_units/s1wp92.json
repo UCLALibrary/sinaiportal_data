@@ -1,0 +1,52 @@
+{
+  "ark": "ark:/21198/s1wp92",
+  "reconstruction": false,
+  "label": "Lectionary (Epistles)",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1088g"
+      },
+      "alt_title": "Lectionary (Epistles)",
+      "locus": "ff. 1r-289v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 1r",
+          "as_written": "نبتدي بعَون الله و توفيقه بكتا[بَة] "
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 278v",
+          "as_written": "تمّ هذا الكتاب المقدّس"
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 279r",
+          "as_written": "؛ نبتدي بالإثنا عشر ترنيمة"
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s1330n"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "ark": "ark:/21198/s1k92t",
+  "reconstruction": false,
+  "state": {
+    "id": "undertext",
+    "label": "Undertext"
+  },
+  "label": "Sinai Syriac NF M 3, Undertext (Melkite)",
+  "locus": "ff. 80–164",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
+        }
+      ],
+      "note": [
+        "Melkite Estrangela | Neat and fairly regular; some serto features. The script is quite similar to that of Tropologion B, but usually rather neater"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "1 columns",
+      "lines": "8-12 lines, incomplete",
+      "note": [
+        "Sometimes part of a margin is present, top, right, left, or bottom (occasionally a combination of two of these). Blank spaces within or between lines probably had rubrics in different ink, which have left no trace in any of the images"
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s17967",
+      "label": "Item 1"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1tm9397",
+    "ark:/21198/z1q9253p"
+  ]
+}

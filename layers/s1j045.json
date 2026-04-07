@@ -1,67 +1,49 @@
 {
-    "ark": "ark:/21198/s1j045",
-    "reconstruction": false,
-    "label": "Sinai Syriac 171, Overtext (Melkite)",
-    "state": {
-        "id": "overtext",
-        "label": "Overtext"
-    },
-    "writing": [
+  "ark": "ark:/21198/s1j045",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 171, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
         {
-            "script": [
-                {
-                    "id": "melkite",
-                    "label": "Melkite",
-                    "writing_system": "Syriac"
-                }
-            ]
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
         }
-    ],
-    "text_unit": [
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1bh4g",
+      "label": "Item 1",
+      "locus": "ff. 1r-188v"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "105v",
+      "lang": [
         {
-            "id": "ark:/21198/s1bh4g",
-            "label": "Item 1"
+          "id": "class1252",
+          "label": "Syriac"
         }
-    ],
-    "features": [
-        {
-            "id": "dated",
-            "label": "Dated"
-        },
-        {
-            "id": "colophon",
-            "label": "Colophon"
-        }
-    ],
-    "para": [
-        {
-            "type": {
-                "id": "colophon",
-                "label": "Colophon"
-            },
-            "locus": "105v",
-            "lang": [
-                {
-                    "id": "class1252",
-                    "label": "Syriac"
-                }
-            ],
-            "as_written": "ܫܠܡ ܠܡܟܬܒ ܨ̈ܠ̄ܘ ܕܫ̈ܥܐ ܒܥܘܕܪܢ ܐܠܗܐ: ܝܘܡ: ܗ̄: ܕ̄ : ܡܢ ܟܢܘܢ ܒ̄: ܫܢܬ ܐܠܦ ܘܬܩ̄ ܘܥܕ̄: ܝܘܢ̈ܝܐ:"
-        }
-    ],
-    "assoc_date": [
-        {
-            "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-            },
-            "value": "1162 CE",
-            "iso": {
-                "not_before": "1162"
-            }
-        }
-    ],
-    "parent": [
-        "ark:/21198/z1nc7pqx"
-    ]
+      ],
+      "as_written": "ܫܠܡ ܠܡܟܬܒ ܨ̈ܠ̄ܘ ܕܫ̈ܥܐ ܒܥܘܕܪܢ ܐܠܗܐ: ܝܘܡ: ܗ̄: ܕ̄ : ܡܢ ܟܢܘܢ ܒ̄: ܫܢܬ ܐܠܦ ܘܬܩ̄ ܘܥܕ̄: ܝܘܢ̈ܝܐ:"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1nc7pqx"
+  ]
 }

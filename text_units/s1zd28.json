@@ -1,76 +1,76 @@
 {
-    "ark": "ark:/21198/s1zd28",
-    "reconstruction": false,
-    "label": "Teachings of SS. John Chrysostom, Basil, Ephraem, Zosima and the rest of the Holy Fathers",
-    "lang": [
+  "ark": "ark:/21198/s1zd28",
+  "reconstruction": false,
+  "label": "Teachings of SS. John Chrysostom, Basil, Ephraem, Zosima and the rest of the Holy Fathers",
+  "locus": "ff. 1r-259v",
+  "lang": [
+    {
+      "id": "arab1395",
+      "label": "Arabic"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Teachings of SS. John Chrysostom, Basil, Ephraem, Zosima and the rest of the Holy Fathers",
+        "creator": [
+          "ark:/21198/s1x303",
+          "ark:/21198/s1101c",
+          "ark:/21198/s1v887"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "apophthegmata",
+            "label": "Apophthegmata"
+          }
+        ]
+      },
+      "locus": "ff. 1r-259v",
+      "contents": [
         {
-            "id": "arab1395",
-            "label": "Arabic"
-        }
-    ],
-    "work_wit": [
+          "label": "Monastic treatise and questions from the monks, ff. 1r-23r"
+        },
         {
-            "work": {
-                "desc_title": "Teachings of SS. John Chrysostom, Basil, Ephraem, Zosima and the rest of the Holy Fathers",
-                "genre": [
-                    {
-                        "id": "theological-works",
-                        "label": "Theological works"
-                    },
-                    {
-                        "id": "apophthegmata",
-                        "label": "Apophthegmata"
-                    }
-                ]
-            },
-            "locus": "ff. 1r-259v",
-            "contents": [
-                {
-                    "label": "Monastic treatise and questions from the monks, ff. 1r-23r"
-                },
-                {
-                    "label": "Sermon of Zosima, ff. 23r-70r"
-                },
-                {
-                    "label": "Life of St. Gerasimus, ff. 70v-77r"
-                },
-                {
-                    "label": "Sayings of Moses of Scetis, Pachomius, Bessarion, and others, ff. 77r-136v"
-                },
-                {
-                    "label": "Mimar of Ephrem, ff. 136v-186r"
-                },
-                {
-                    "label": "Discourses of Abba Isaiah, ff. 186r-206r"
-                },
-                {
-                    "label": "Treatises of the fathers, ff. 206v-211r"
-                },
-                {
-                    "label": "Treatises and letter of Mar Macarius, ff. 211r-227r"
-                },
-                {
-                    "label": "Treatise of Stephen of Thebes, ff. 227r-236v"
-                },
-                {
-                    "label": "Account from John Cassian, ff. 236v-251v"
-                },
-                {
-                    "label": "Sermon of Nilus to Thomasius the monk, ff. 251v-259v"
-                }
-            ]
-        }
-    ],
-    "note": [
+          "label": "Sermon of Zosima, ff. 23r-70r"
+        },
         {
-            "type": {
-                "id": "general",
-                "label": "Other Notes"
-            },
-            "value": "Contributor(s): Justin Arnwine"
+          "label": "Life of St. Gerasimus, ff. 70v-77r"
+        },
+        {
+          "label": "Sayings of Moses of Scetis, Pachomius, Bessarion, and others, ff. 77r-136v"
+        },
+        {
+          "label": "Mimar of Ephrem, ff. 136v-186r"
+        },
+        {
+          "label": "Discourses of Abba Isaiah, ff. 186r-206r"
+        },
+        {
+          "label": "Treatises of the fathers, ff. 206v-211r"
+        },
+        {
+          "label": "Treatises and letter of Mar Macarius, ff. 211r-227r"
+        },
+        {
+          "label": "Treatise of Stephen of Thebes, ff. 227r-236v"
+        },
+        {
+          "label": "Account from John Cassian, ff. 236v-251v"
+        },
+        {
+          "label": "Sermon of Nilus to Thomasius the monk, ff. 251v-259v"
         }
-    ],
-    "parent": [
-        "ark:/21198/s14w4d"
-    ]
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/s14w4d"
+  ]
 }

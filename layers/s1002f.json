@@ -1,0 +1,52 @@
+{
+  "ark": "ark:/21198/s1002f",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Arabic 34, Overtext (Naskh)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ]
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1sh2r",
+      "label": "Item 1",
+      "locus": "ff. 1r-192r"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 192v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "كان الفراغ منه نهار الأربعاء الثامن من شهر نيسان المبارك سنة ست ألف سبعمائة وتسعين لكون العالم الموافق العشر الأخير من شهر ذي الحجة سنة ثمانين وستمائة الهجرة الإسلامية في مدينة عكا المحروسة والسبح لله دائما آمين ",
+      "note": [
+        "Attested places:  Acre (Akka)"
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "parent": [
+    "ark:/21198/z1rz0wp3"
+  ]
+}
