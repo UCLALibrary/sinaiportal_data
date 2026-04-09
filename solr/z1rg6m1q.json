@@ -1,0 +1,119 @@
+{
+  "ark_ssi": "ark:/21198/z1rg6m1q",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [
+    "John Chrysostom, Saint, -407"
+  ],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z1qj8f7g"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai Greek 962"
+  ],
+  "ot_script_ssim": [
+    "Perlschrift"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Sermons"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai Greek 962, SPP No. 19",
+  "titles_tesim": [
+    "De imperio, potestate et gloria",
+    "John Chrysostom, Ecloga 21"
+  ],
+  "names_tesim": [
+    "John Chrysostom, Saint, -407"
+  ],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "De imperio, potestate et gloria",
+    "Ecloga 21, De imperio, potestate et gloria (CPG 4684.21)",
+    "John Chrysostom, Ecloga 21"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "De imperio, potestate et gloria",
+    "Ecloga 21, De imperio, potestate et gloria (CPG 4684.21)",
+    "Elegant, very small upright minuscule, resembling the earliest examples of “Perlschrift”",
+    "Greek",
+    "John Chrysostom, Ecloga 21",
+    "John Chrysostom, Saint, -407",
+    "One folio of Sin. gr. 962 corresponds to one quarter of the original folio with the Chrysostom text. The original manuscript was of large size, measuring approximately 300x200 mm",
+    "Parchment",
+    "Perlschrift",
+    "UTO Sinai Greek 962, SPP No. 19",
+    "ark:/21198/z1rg6m1q",
+    "author",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Giulia Rossetto",
+    "Nigel Wilson"
+  ],
+  "last_modified_dtsi": "2025-12-15T14:33:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1rg6m1q\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 962, SPP No. 19\",\"extent\":\"2 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 187r+182v, 182r+187v\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s12k9k\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s12k9k\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 962, Undertext (Perlschrift)\",\"locus\":\"ff. 182, 187\",\"writing\":[{\"script\":[{\"id\":\"perlschrift\",\"label\":\"Perlschrift\",\"writing_system\":\"Greek\"}],\"note\":[\"Elegant, very small upright minuscule, resembling the earliest examples of “Perlschrift”\"]}],\"layout\":[{\"columns\":\"1 columns\",\"lines\":\"36 lines\",\"note\":[\"One folio of Sin. gr. 962 corresponds to one quarter of the original folio with the Chrysostom text. The original manuscript was of large size, measuring approximately 300x200 mm\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1qm4x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1qm4x\",\"reconstruction\":false,\"label\":\"Ecloga 21, De imperio, potestate et gloria (CPG 4684.21)\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"John Chrysostom, Ecloga 21\",\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom, Saint, -407\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"d. 407\",\"iso\":{\"not_before\":\"0407\"}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}],\"note\":[\"author\"]}}],\"genre\":[{\"id\":\"sermons\",\"label\":\"Sermons\"}]},\"alt_title\":\"De imperio, potestate et gloria\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/s12k9k\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/z1qj8f7g\",\"ark:/21198/z1rg6m1q\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qj8f7g/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cc1x9p/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1qj8f7g\",\"shelfmark\":\"Sinai Greek 962\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z1rg6m1q",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cc1x9p/0,902,5412,5412/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qj8f7g/manifest",
+  "header_index_tesim": [
+    "UTO Sinai Greek 962, SPP No. 19",
+    "2 fols."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "2 fols.",
+  "text_unit_labels_tesim": [
+    "Ecloga 21, De imperio, potestate et gloria (CPG 4684.21)"
+  ],
+  "origin_date_values_tesim": []
+}

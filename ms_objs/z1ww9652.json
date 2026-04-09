@@ -31,22 +31,25 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 1r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "284v",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": ": ܐܫܬܠܡ: ܟܬܒܐ: ܕܡܙܡܘܪ̈ܐ ܕܕܘܝܕ: : ܢܒܝܐ ܘܡܠܟܐ: ܕܗܘ̈ܝܢ: ܒܡܢܝ̈ܢܐ: ܡ̈ܐܐ: : ܘܚܡ̈ܫܝܢ܀ ܐܫܬܠܡ ܗܢܐ ܟܬܒܐ: ܝ̄: : ܝܘܡ̈ܝܢ: ܡܢ ܟܢܘܢ: ܒ̄: ܫܢܬ: ܐܠܦ: : ܘܚܡܫ : ܡ̈ܠܐ: ܘܐܒܪ̈ܥܝܢ: ܘܬܪܬܝܢ: : ܘܫ̈ܢܝܐ ܕܒ̈ܢܝ: ܗܓܪ: ܫܬ: ܡ̈ܐܐ: :ܘܥܣܪ̈ܝܢ: ܘܬܡ̈ܢܐ: : ܐܘ ܐܚ̈ܝ: ܨ̈ܠܘ ܥܠ ܥܒܕܐ: : ܚܛܝܐ : ܕܝܨܪܛ:"
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "[اقول انا الحقير يوحنا اسقف طور سينا ان هذه (الـ؟) وقف على الكنيـ[سه / [....]",
+      "translation": [
+        "I, Yūḥannā the bishop of Mount Sinai, state that this book is endowed to the church of […]"
       ]
     }
   ],

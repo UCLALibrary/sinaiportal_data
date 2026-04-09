@@ -36,35 +36,6 @@
           }
         }
       ],
-      "para": [
-        {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "235v",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ. ܒܐܝ̈ܕܝ ܚܛܝܐ ܘܬ̇ܚܘܒܐ ܘܒܨܝܪ ܡܢ ܟܠܗܘܢ ܒܢ̈ܝ̄ܢـ: ܫܡܥܘܢ ܒܪ: ܦܛܪܘܣ: ܕܠܐ ܫ̇ܘܐ ܕܢܬܩܪܐ ܕܝܪܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ: ܟܬܪܗ ܠܕܝܐ ܩܕܝܫܬܐ ܕܛܘܪ ܣܝܢܐ: ܝܘܡ: ܵ: ܒܫ̄: ܒܟ̄ܗ: ܒܫܒܛ:ܫ ܫܢܬܸ ܐܠܦ̈: ܘ ܗ̄: ܡ̈ܠܐ: ܘ̄ܣܗ: ܡܢ ܡܢ̈ܝܢܐ ܕܐܠܟܣܢܕܪܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܩܕܘܢܝܐ",
-          "assoc_name": [
-            {
-              "value": "Shem'un bar Petros",
-              "as_written": "ܫܡܥܘܢ ܒܪ: ܦܛܪܘܣ",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ],
-          "note": [
-            "Attested places: for monastery of Tur Sinai"
-          ]
-        }
-      ],
       "note": [
         {
           "type": {
@@ -73,6 +44,25 @@
           },
           "value": "Parchment flyleaves, one flyleaf in Greek"
         }
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "locus": "f. 235v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "يارب ارحم لمن اهتم وعنا ولمن كتب وقرا ترحم على الخاطي",
+      "translation": [
+        "Lord, have mercy on him who commissioned and who copied and read, and have mercy on the sinner (?)"
       ]
     }
   ],

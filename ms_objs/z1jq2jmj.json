@@ -31,47 +31,6 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
-        {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "f. 242v",
-          "lang": [
-            {
-              "id": "arab1395",
-              "label": "Arabic"
-            }
-          ],
-          "as_written": "كمل السنكساري مجموع السنة باشر المسكين الغير مستحق يدعا رهاب بينين سابا الدمشقي وذلك بكنيسة السيدة بدمشق في العشر الاوسط من شهر نيسان سنة ستالف سبعمائه وخمسة وأربعين لأبينا آدم",
-          "assoc_place": [
-            {
-              "id": "ark:/21198/s1z414",
-              "value": "Church of the Lady, Damascus",
-              "event": {
-                "id": "origin",
-                "label": "Place of Origin"
-              }
-            }
-          ],
-          "assoc_date": [
-            {
-              "value": "1237 CE",
-              "iso": {
-                "not_before": "1237"
-              },
-              "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-              },
-              "note": [
-                "Nisan 6745 (adam)"
-              ]
-            }
-          ]
-        }
       ]
     }
   ],

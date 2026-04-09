@@ -31,36 +31,25 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 218r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "218r",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            },
-            {
-              "id": "arab1395",
-              "label": "Arabic"
-            }
-          ],
-          "as_written": "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝ ܟܬܒܐ ܗܢܐ. ܝܘܡ ܫܒܬܐ ܝܓ ܕܝܪܚܐ. ܐܝܠܘܠ. ܫܢܬ ܘ̄ ܐܠܦܝܢ. ܘ̄ܚ ܡܐܐ. ܠܐܒܘܢ. ܐܕܡ ܘܡܢ ܫ̈ܢܝܐ ܕܝܫܘܥ ܡܫܝܚܐ ܒܦ ܒܦܓܪ ܫܢܬ ܐܠܦ ܘܬܠܬ. ܡܐܐ ܘܡܢ ܫ̈ܝܢܐ ܕܐܠܣܟ̄ܕ ܒܪܦܝܠܝܦܘܣ ܡ̇ܠܟܐ ܕܝܘܢܝܐ ܫܢܬ ܐܠܦ ܘܫܬ ܡ̈ܐܐ ܘܬܠܬܐ ܒܝܕܝ ܐܢܫ ܡܚܝܠܐ ܘܚܛܝܐ ܘܠܐ ܫ̇ܘܐ ܕܢܬܕ ܟܪܒܝܬܐ ܚ̈ܐ ܩܫܝܫܐ ܝܘܚܢܢ. ܡܢ ܩܪܝܬܐ ܟܦܘܒ ܟܬܒܗ ܒܕܝܪܐ ܩܕܝܫܐ ܕܛܘܪ ܣܝܢܝ ܕܐܝܬܘܗܝ ܒܕܒܪܐ ܟܬܒܗ ܠܢܦܫܗ. ܐܠܗܐ ܚܣܐ ܠܗ ܘܝܠܕܘܗܝ ܘܠܩܪܘܝܐ ܘܠܟܠ ܡܢ ܕܫܬܘܬܦ ܒܗ ܒܣܠܘܬܐ ܝܠܕܬ ܐܠܗܐ ܘܟܠܗܘܢ ܩܕ̈ܝܫܐ ܐܡܝܢ ܐܡܝܢ܀ هذا للكتاب وقف محبس على كنيسة السريان طور سينا فمن ××××× اخرجه من الدير يكون محروم ××××××××××× الله وكتبه ميخايل الاسقف",
-          "assoc_name": [
-            {
-              "value": "Yuhannon the Priest",
-              "as_written": "ܩܫܝܫܐ ܝܘܚܢܢ",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "هذا الكتاب وقف وحبس على كنيسه السريان بدير طور سينا فمن / اخذه واخرجه من الدير يكون محروم مفروز من مجد الله / وكتبه مىخاييل الاسقف",
+      "translation": [
+        "This book is endowed and restricted to the church of the Syrians in the monastery of Mount Sinai. Whoever took it out from the monastery is banned and separated form the glory of God. Written by Bishop Mīkhāʼīl"
       ]
     }
   ],

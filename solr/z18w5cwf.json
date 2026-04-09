@@ -1,0 +1,107 @@
+{
+  "ark_ssi": "ark:/21198/z18w5cwf",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [],
+  "support_ssim": [
+    "Paper"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Library Digitization Project, Phase 1"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Melkite"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Biblical texts",
+    "Gospel books"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Syriac"
+  ],
+  "ot_works_ssim": [
+    "Bible. Mark",
+    "Bible. Matthew"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Syriac 134",
+  "titles_tesim": [
+    "Bible. Mark",
+    "Bible. Matthew"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Bible. Mark",
+    "Bible. Matthew",
+    "Gospel books of Matthew and Mark"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "8.1",
+    "Bible. Mark",
+    "Bible. Matthew",
+    "Gospel books of Matthew and Mark",
+    "Melkite",
+    "Paper",
+    "Sinai Syriac 134",
+    "Syriac",
+    "ark:/21198/z18w5cwf"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z18w5cwf\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac 134\",\"extent\":\"95 ff.\",\"weight\":\"571.1 g\",\"dim\":\"222 x 162 x 35.0 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1sk7b\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1sk7b\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac 134, Overtext (Melkite)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1m66m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1m66m\",\"reconstruction\":false,\"label\":\"Gospel books of Matthew and Mark\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s12c7r\",\"pref_title\":\"Bible. Matthew\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Matthew\",\"uri\":\"http://id.loc.gov/authorities/names/n79056834\",\"source\":\"LoC\"},{\"label\":\"Bible. Matthew\",\"uri\":\"https://viaf.org/viaf/188427863\",\"source\":\"VIAF\"}]}},{\"work\":{\"ark\":\"ark:/21198/s1630k\",\"pref_title\":\"Bible. Mark\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Mark\",\"uri\":\"http://id.loc.gov/authorities/names/n78095773\",\"source\":\"LoC\"},{\"label\":\"Bible. Mark\",\"uri\":\"https://viaf.org/viaf/179823714\",\"source\":\"VIAF\"}]}}],\"parent\":[\"ark:/21198/s1sk7b\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z18w5cwf\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Kamil 1970\",\"citation\":\"Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970\",\"range\":\"[48], p. 152\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz18w5cwf/manifest\",\"label\":\"Natural Light\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz18w5cwf%2Fv946s144/full/!200,200/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Library Digitization Project, Phase 1\",\"description\":\"Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.\",\"camera_operator\":[\"Vasilis Kasotakis\"],\"imaging_date\":\"2020 April\",\"delivery\":\"8.1\",\"condition_category\":\"1\",\"imaging_system\":\"BC100 - 2 cam., 740 ppi, 90mm lens\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z18w5cwf",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz18w5cwf%2Fv946s144/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz18w5cwf/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac 134",
+    "95 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "95 ff.",
+  "text_unit_labels_tesim": [
+    "Gospel books of Matthew and Mark"
+  ],
+  "origin_date_values_tesim": []
+}

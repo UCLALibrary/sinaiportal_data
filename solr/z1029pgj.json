@@ -1,0 +1,108 @@
+{
+  "ark_ssi": "ark:/21198/z1029pgj",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [],
+  "support_ssim": [
+    "Paper",
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Greek minuscule"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Apophthegmata"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [
+    "Greek majuscule",
+    "Minuscule bouclée",
+    "Naskh"
+  ],
+  "uto_language_ssim": [
+    "Arabic",
+    "Greek"
+  ],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Greek 468",
+  "titles_tesim": [
+    "Paterikon"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Paterikon"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Greek",
+    "Greek minuscule",
+    "Paper",
+    "Parchment",
+    "Paterikon",
+    "Sinai Greek 468",
+    "ark:/21198/z1029pgj",
+    "black",
+    "sppms"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1029pgj\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek 468\",\"extent\":\"134 ff.\",\"dim\":\"160 x 115 x 49 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"coll\":\"flyleaf+1x2+1 (4, paper), Quires 1-2 : 2x10 (24), Quire 3 : 1x8 (32), Quire 4 : 1x10 (42), Quires 5-7 : 3x8 (66), Quire 8 : 1x4 (70), Quires 9-14 : 6x8 (118), Quire 15 : 1x6 + 1 (125), Quire 16 : 1x2+1x4 (131); 1x2+pastedown (134, paper)\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"},{\"id\":\"paper\",\"label\":\"Paper\"}],\"dim\":\"153 x 115 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1xw5x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1xw5x\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek 468, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1rh3t\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rh3t\",\"reconstruction\":false,\"label\":\"Paterikon\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Paterikon\",\"genre\":[{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"}]}}],\"parent\":[\"ark:/21198/s1xw5x\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z1029pgj\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"55eae5e7-ad84-46af-a814-4f5524b2d09d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Gardthausen 1886\",\"citation\":\"Gardthausen, Victor E. Catalogus codicum Graecorum Sinaiticorum. Oxford, 1886\",\"range\":\"pp. 114-115\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest\",\"label\":\"Multispectral Images\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"sppms\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"},\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1s92p\",\"label\":\"Greek Undertext: Hymns\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 5–27, 30–32\",\"uto_ms_ark\":\"ark:/21198/z1tg0pbx\",\"script\":[\"Naskh\"],\"lang\":[\"Arabic\"]},{\"uto_layer_ark\":\"ark:/21198/s11s8z\",\"label\":\"Arabic Undertext: John Chrysostom, Homily on the Rich and the Poor\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 28–29\",\"uto_ms_ark\":\"ark:/21198/z1z71f2n\",\"script\":[\"Naskh\"],\"lang\":[\"Arabic\"]},{\"uto_layer_ark\":\"ark:/21198/s15k9h\",\"label\":\"Greek Undertext: John Chrysostom, Homilies on Genesis\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 33–70\",\"uto_ms_ark\":\"ark:/21198/z1kx670n\",\"script\":[\"Minuscule bouclée\",\"Greek majuscule\"],\"lang\":[\"Greek\"]},{\"uto_layer_ark\":\"ark:/21198/s1hs7x\",\"label\":\"Arabic Undertext: John of Damascus, Homily on the Dormition of the Virgin Mary\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 71–110, 119, 121–123, 125–127\",\"uto_ms_ark\":\"ark:/21198/z1bh3f14\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]},{\"uto_layer_ark\":\"ark:/21198/s1d35b\",\"label\":\"Greek Undertext: Prayers\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 111–118, 120, 124\",\"uto_ms_ark\":\"ark:/21198/z16r2p8z\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]},{\"uto_layer_ark\":\"ark:/21198/s1x34m\",\"label\":\"Greek Undertext: Hymns\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 128–131\",\"uto_ms_ark\":\"ark:/21198/z1301xk0\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]},{\"uto_layer_ark\":\"ark:/21198/s1nm0s\",\"label\":\"Greek Undertext: Homilies of Hesychius of Jerusalem and Gregory of Nazianzus\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 132–134r\",\"uto_ms_ark\":\"ark:/21198/z1g55g9p\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]}]}",
+  "id": "ark:/21198/z1029pgj",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest",
+  "header_index_tesim": [
+    "Sinai Greek 468",
+    "134 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "134 ff.",
+  "text_unit_labels_tesim": [
+    "Paterikon"
+  ],
+  "origin_date_values_tesim": []
+}

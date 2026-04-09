@@ -1,0 +1,114 @@
+{
+  "ark_ssi": "ark:/21198/z1v9962j",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [],
+  "support_ssim": [
+    "Paper",
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Greek minuscule"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Hymnals",
+    "Liturgical texts"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [
+    "Heirmologion"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [
+    "Kufic",
+    "Undetermined (Arabic)"
+  ],
+  "uto_language_ssim": [
+    "Arabic"
+  ],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Greek 930",
+  "titles_tesim": [
+    "Heirmologion"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Heirmologion"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Ff. 1-120 are parchment; ff. 121-128 are paper.",
+    "Greek",
+    "Greek minuscule",
+    "Heirmologion",
+    "Initials and titles in red",
+    "Paper",
+    "Paper binding reinforcements with Arabic writing.",
+    "Parchment",
+    "Sinai Greek 930",
+    "Single-folios are often joined, by paper reinforcements with Arabic writing, to form bifolios for binding purposes.",
+    "ark:/21198/z1v9962j",
+    "black",
+    "red",
+    "sppms"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1v9962j\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek 930\",\"extent\":\"128 ff.\",\"dim\":\"151 x 122 x 66 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"coll\":\"Quire relations are difficult to determine, but can be established as follows: Quire 1 (6), Quire 2 (12), Quire  3 (21), Quire 4 (29), Quire 5 (35), Quire 6 (41), Quire 7 (49), Quire 8 (57), Quire 9 (66), Quire 10 (75), Quire 11 (81), Quire 12 (89), Quire 13 (99), Quire 14 (106), Quire 15 (114), Quire 16 (120), Quire 17 (paper, 128)\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"},{\"id\":\"paper\",\"label\":\"Paper\"}],\"dim\":\"149 x 126 mm (representative folio)\",\"note\":[{\"type\":{\"id\":\"support\",\"label\":\"Support Note\"},\"value\":\"Paper binding reinforcements with Arabic writing.\"},{\"type\":{\"id\":\"support\",\"label\":\"Support Note\"},\"value\":\"Ff. 1-120 are parchment; ff. 121-128 are paper.\"},{\"type\":{\"id\":\"support\",\"label\":\"Support Note\"},\"value\":\"Single-folios are often joined, by paper reinforcements with Arabic writing, to form bifolios for binding purposes.\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1f03v\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1f03v\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek 930, Overtext (Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}]}],\"ink\":[{\"color\":[\"black\",\"red\"],\"note\":[\"Initials and titles in red\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s17h4j\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s17h4j\",\"reconstruction\":false,\"label\":\"Heirmologion\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1sp47\",\"pref_title\":\"Heirmologion\",\"genre\":[{\"id\":\"hymnals\",\"label\":\"Hymnals\"},{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}],\"rel_con\":[{\"label\":\"Heirmologion\",\"uri\":\"http://viaf.org/viaf/213239652\",\"source\":\"VIAF\"}]}}],\"parent\":[\"ark:/21198/s1f03v\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z1v9962j\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"55eae5e7-ad84-46af-a814-4f5524b2d09d\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Gardthausen 1886\",\"citation\":\"Gardthausen, Victor E. Catalogus codicum Graecorum Sinaiticorum. Oxford, 1886\",\"range\":\"p. 198\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1v9962j/manifest\",\"label\":\"Multispectral Images\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ng5m90/0,902,5412,5412/150,150/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"sppms\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"},\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s13m0t\",\"label\":\"Arabic Undertext: Bible. Genesis\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1, 6, 8–11, 14v, 16–19, 21v, 24–25, 29v, 36v, 37v, 38, 39v, 43r, 45r, 61r, 68v, 71r, 74v, 75r, 77, 78, 80–81, 82v, 94v, 103r, 109v, 117v, 118v, 120r\",\"uto_ms_ark\":\"ark:/21198/z1d903g7\",\"script\":[\"Kufic\"],\"lang\":[\"Arabic\"]},{\"uto_layer_ark\":\"ark:/21198/s1zw6m\",\"label\":\"Arabic Undertext: Exodus\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 2–5, 7v, 12r, 22v, 23v, 26v, 27v, 56v, 66v, 73r, 101v, 102r, 112r\",\"uto_ms_ark\":\"ark:/21198/z1j20v6k\",\"script\":[\"Kufic\"],\"lang\":[\"Arabic\"]},{\"uto_layer_ark\":\"ark:/21198/s1v340\",\"label\":\"Arabic Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 7r, 12v, 13, 14r, 15, 20, 21r, 22r, 23r, 26r, 27r, 28, 29r, 30–35, 36r, 37r, 39r, 40–42, 43v, 44, 45v, 46–56r, 57–66r, 67–70, 71v, 72, 73v, 74r, 75v, 76, 79, 82r, 83–94r, 95–100, 101r, 102v, 103v, 104–111, 112v, 113–117r, 118r, 119, 120v\",\"uto_ms_ark\":\"ark:/21198/z18h9bqh\",\"script\":[\"Undetermined (Arabic)\"],\"lang\":[\"Arabic\"]}]}",
+  "id": "ark:/21198/z1v9962j",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ng5m90/0,902,5412,5412/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1v9962j/manifest",
+  "header_index_tesim": [
+    "Sinai Greek 930",
+    "128 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "128 ff.",
+  "text_unit_labels_tesim": [
+    "Heirmologion"
+  ],
+  "origin_date_values_tesim": []
+}

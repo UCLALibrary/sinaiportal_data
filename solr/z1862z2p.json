@@ -1,0 +1,115 @@
+{
+  "ark_ssi": "ark:/21198/z1862z2p",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Greek majuscule",
+    "Naskh"
+  ],
+  "ot_writing_system_ssim": [
+    "Arabic",
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Biblical texts"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Arabic",
+    "Greek"
+  ],
+  "ot_works_ssim": [
+    "Bible. Epistles of Paul"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [
+    "Greek majuscule"
+  ],
+  "uto_language_ssim": [
+    "Greek"
+  ],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Greek NF MG 2",
+  "titles_tesim": [
+    "Bible. Epistles of Paul"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Bible. Epistles of Paul",
+    "Pauline Epistles"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Arabic",
+    "Bible. Epistles of Paul",
+    "Greek",
+    "Greek majuscule",
+    "Initials and titles in red",
+    "Naskh",
+    "Parchment",
+    "Pauline Epistles",
+    "Sinai Greek NF MG 2",
+    "The Greek is a late inclined majuscule, with accents and breathings",
+    "ark:/21198/z1862z2p",
+    "black",
+    "red",
+    "sppms"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1862z2p\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek NF MG 2\",\"extent\":\"115 ff.\",\"dim\":\"240 x 185 x 33 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"coll\":\"1x2+3x1+3x2+1 (12), Quire 1: 1x8 (20), Quire 2: 1x4+1+1 (26), Quire 3: 1x4 (30), Quire 4: 1x8 (38), Quire 5: 1x8+1+1 (48), Quire 6: 1x6 (54), Quire 7: 1x6 (60), Quire 8: 1x8 (68), Quire 9: 1x8 (76), Quire 10: 1x8 (84), Quire 11: 1x8 (92), Quire 12: 1x8 (100), Quire 13: 1x8 (108), 1+1+2x2+1 (115)\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"240 x 185 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s18620\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s18620\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek NF MG 2, Overtext (Greek majuscule, Naskh)\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"},{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}],\"note\":[\"The Greek is a late inclined majuscule, with accents and breathings\"]}],\"ink\":[{\"color\":[\"black\",\"red\"],\"note\":[\"Initials and titles in red\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s12t0k\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s12t0k\",\"reconstruction\":false,\"label\":\"Pauline Epistles\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"},{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1hg6f\",\"pref_title\":\"Bible. Epistles of Paul\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Epistles of Paul\",\"uri\":\"http://id.loc.gov/authorities/names/n79139623\",\"source\":\"LoC\"},{\"label\":\"Bible. Epistles of Paul\",\"uri\":\"https://viaf.org/viaf/176999286\",\"source\":\"VIAF\"}]}}],\"parent\":[\"ark:/21198/s18620\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z1862z2p\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Greek New Finds\",\"citation\":\"Nikolopoulos, P. G. Τα νέα ευρήματα του Σινά (Athens, 1998). English translation: A. Hatzopoulos, The New Finds of Sinai (Athens, 1999)\",\"range\":\"p. 141\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1862z2p/manifest\",\"label\":\"Multispectral Images\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1d8007h/0,902,5412,5412/150,150/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"sppms\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"},\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1vw6p\",\"label\":\"Greek Undertext: Passages from Ecclesiasticus, Jeremiah, Baruch, Lamentations, the Epistle of Jeremiah, Ezekiel, and Daniel\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–31, 38–41, 44r–46, 48–49, 68–70, 72–73, 75–82, 83–86, 88–89, 91–93, 100–101, 108–109\",\"uto_ms_ark\":\"ark:/21198/z1jv0gdn\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]},{\"uto_layer_ark\":\"ark:/21198/s14d1f\",\"label\":\"Greek Undertext: Antiochus of Palestine, Pandektēs\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 32–37, 42, 43, 47, 50–67, 71, 74, 96, 97, 102, 104–106, 110–114\",\"uto_ms_ark\":\"ark:/21198/z1998zzz\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]},{\"uto_layer_ark\":\"ark:/21198/s10p90\",\"label\":\"Greek Undertext: Socrates Scholasticus, Historia ecclesiastica\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 87, 90, 94–95, 98–99, 103, 107\",\"uto_ms_ark\":\"ark:/21198/z1f29qn7\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]}]}",
+  "id": "ark:/21198/z1862z2p",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1d8007h/0,902,5412,5412/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1862z2p/manifest",
+  "header_index_tesim": [
+    "Sinai Greek NF MG 2",
+    "115 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "115 ff.",
+  "text_unit_labels_tesim": [
+    "Pauline Epistles"
+  ],
+  "origin_date_values_tesim": []
+}

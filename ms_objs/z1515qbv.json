@@ -31,32 +31,25 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 208r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "207v",
-          "lang": [
-            {
-              "id": "arab1395",
-              "label": "Arabic"
-            }
-          ],
-          "as_written": "وكان النجاز من نصاخة هَذه المزامير المباركه نهارالثلثا حادي وعشرين يوم مضت من شهر كانون الثاني. بتاريح سنه سته الاف وثمانمايه وتسعين سنه لكون العالم احسن الله عاقبته. وكتبه العبد الحقير الضعيف. الغارق في ذواخر بحار الخطايا. الحايد عن عمل الوصايا. المسكين الاثيم. الذي ليس بمستحق ان يُذ كَرله اسم. الفس ارساني",
-          "assoc_name": [
-            {
-              "value": "Arsani the Priest",
-              "as_written": "القس ارساني",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "هذا البسنتير / المبارك وقف / على كنيسه الله / السيده كنيسه / السريان بطور / سينا وكل من / واخرجه عنها او / قشط هذه الورقه / او قطعها يكون / حذه مع يوضاس / السقريوط ويكون / المسيح خصمه يوم / الدينونه",
+      "translation": [
+        "This blessed Psalter is endowed to the Church of God, the Lady, the Syrian Church in the Mount of Sinai. and let the share of whoever take it out from there, or scratched this leaf off, or cut it, be with Judas Iscariot, and let Christ be his foe on the day of judgement"
       ]
     }
   ],

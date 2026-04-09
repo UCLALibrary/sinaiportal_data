@@ -31,66 +31,6 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
-        {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "f. 318v",
-          "lang": [
-            {
-              "id": "arab1395",
-              "label": "Arabic"
-            }
-          ],
-          "as_written": "كتب الخاطئ المسكين نقولا ابن ابو السرور المسمى القس المغربي في دمياط كتب للقس ثاوذرس الفاضل أدرج في سنة ست ألف وستمائه وثلثة للعالم وفي سنة الهجرة ثمان ثمانين سبعمائة / أيها القارئ من جهه المسيح اذ اقرت فترحم على من كتب ومن استكتب الرب يرحمك نرحم جميع بني المعمودية بشفاعة السيدة والقديس … قس البشير وجميع القديسين آمين آمين آمين / والسبح لله دائما وعلينا رحمته آمين",
-          "translation": [
-            "… listed in the Year of the World [Anno Mundi] 6603 and in the year of the Hegira [AH] 488."
-          ],
-          "assoc_name": [
-            {
-              "value": "Nicholas Ibn Abi al-Surur, aka, The Western Bishop of Damietta (scribe)",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            },
-            {
-              "value": "Bishop Theodore (recipient)",
-              "role": {
-                "id": "recipient",
-                "label": "Recipient"
-              }
-            },
-            {
-              "value": "Bishop Theodore (dedicatee)",
-              "role": {
-                "id": "dedicatee",
-                "label": "Dedicatee"
-              }
-            }
-          ],
-          "assoc_date": [
-            {
-              "value": "1095 CE",
-              "iso": {
-                "not_before": "1095"
-              },
-              "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-              },
-              "note": [
-                "6603 (world) :: 488 (hijrah) :: 1095 CE"
-              ]
-            }
-          ],
-          "note": [
-            "Attested places:  Damietta, Egypt"
-          ]
-        }
       ]
     }
   ],

@@ -31,22 +31,25 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 4r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "230v-231r",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܐܫܬܠܡ ܒܥܘܕܪܢ ܐܠܗܐ ܠܐܦ̈ܝ ܫܬ̈ ܒܝܘܡܐ ܒܝܪܚܐ ܢܝܣܢ ܫܢܬ ܐܠܦ ܘܚܡ̈ܫܡܐܐ ܘ̄ܥ̄ܘ̄ܐ̄ ܕܝܘ̈ܢܝܐ ܒܐܝܕܝ ܚܛܝܐ ܕܠܐܝܫܲܘܐ ܕܢܫܡܗ ܢܦܫܗ ܡܛܠ ܣܘܓܐܐ ܕܣ̈ܟܠܘܬܗ ܐܠܐ ܒ̇ܥܐܐܢܐ ܡܢ ܕܦܓܥ ܒܟܬܒܐ ܗܢܐ ܕܠܐ ܢܥܕܘܠ ܡܛܠ ܕܟܠ ܒܪܢܫ ܚܣܝܪ ܗܘ݂ ܟܠ ܐܝܟ ܨܠܘܬܗ ܢܬܦܩܥ ܐܡܝܢ"
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "هذا ما اوقفه الحقير في الكهنه القسيس بطرس على / كنيسه السيده ام النور ما لاحد / من الله غير عنها / ومن غير يكون حظ[ـه] / مع يوذس",
+      "translation": [
+        "This is what was endowed by the despised among priests, priest Buṭrus to the church of the Lady, the mother of light. No one has [authority] from God to change this [from there]. / May whoever change this have a share with Judas [Iscariot]"
       ]
     }
   ],

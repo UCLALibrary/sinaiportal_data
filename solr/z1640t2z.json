@@ -1,0 +1,128 @@
+{
+  "ark_ssi": "ark:/21198/z1640t2z",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [],
+  "support_ssim": [
+    "Paper"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [
+    "Cyril, Saint, Patriarch of Alexandria, approximately 370-444"
+  ],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Library Digitization Project, Phase 1"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Undetermined (Arabic)"
+  ],
+  "ot_writing_system_ssim": [
+    "Arabic"
+  ],
+  "ot_genre_ssim": [
+    "Ascetica",
+    "Canon law",
+    "Epistolary texts",
+    "Hagiographies",
+    "Historical works",
+    "Polemical works",
+    "Theological works"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Arabic"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Arabic 473",
+  "titles_tesim": [
+    "Books of the Miracles of St. Menas and of St. Simeon",
+    "Epistles of Celestine the Pope of Rome to Nestorius",
+    "Historical notes on the Oecumenical Councils",
+    "Kefalia of St. Cyril Patriarch of Alexandria",
+    "The ten virtues of St. John Baptist"
+  ],
+  "names_tesim": [
+    "Cyril of Alexandria",
+    "Cyril, Saint, Patriarch of Alexandria, approximately 370-444",
+    "Κύριλλος Αλεξανδρείας"
+  ],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Books of the Miracles of St. Menas and of St. Simeon",
+    "Epistles of Celestine the Pope of Rome to Nestorius",
+    "Historical notes on the Oecumenical Councils",
+    "Kefalia of St. Cyril Patriarch of Alexandria",
+    "The ten virtues of St. John Baptist",
+    "Varia"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "8",
+    "Arabic",
+    "Books of the Miracles of St. Menas and of St. Simeon",
+    "Cyril of Alexandria",
+    "Cyril, Saint, Patriarch of Alexandria, approximately 370-444",
+    "Epistles of Celestine the Pope of Rome to Nestorius",
+    "Historical notes on the Oecumenical Councils",
+    "Kefalia of St. Cyril Patriarch of Alexandria",
+    "Paper",
+    "Sinai Arabic 473",
+    "The ten virtues of St. John Baptist",
+    "Undetermined (Arabic)",
+    "Varia",
+    "ark:/21198/z1640t2z",
+    "https://gedsh.bethmardutho.org/Cyril-of-Alexandria",
+    "Κύριλλος Αλεξανδρείας"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1640t2z\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 473\",\"extent\":\"90 ff.\",\"weight\":\"307.5 g\",\"dim\":\"172 x 141 x 32 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1sc91\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1sc91\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 473, Overtext (Undetermined (Arabic))\",\"writing\":[{\"script\":[{\"id\":\"arabic-undetermined\",\"label\":\"Undetermined (Arabic)\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1m07x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1m07x\",\"reconstruction\":false,\"label\":\"Varia\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Books of the Miracles of St. Menas and of St. Simeon\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]}},{\"work\":{\"desc_title\":\"Historical notes on the Oecumenical Councils\",\"genre\":[{\"id\":\"canon-law\",\"label\":\"Canon law\"},{\"id\":\"historical-works\",\"label\":\"Historical works\"}]}},{\"work\":{\"desc_title\":\"Epistles of Celestine the Pope of Rome to Nestorius\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"correspondence\",\"label\":\"Epistolary texts\"},{\"id\":\"polemic\",\"label\":\"Polemical works\"}]}},{\"work\":{\"desc_title\":\"Kefalia of St. Cyril Patriarch of Alexandria\",\"creator\":[{\"id\":\"ark:/21198/s1ms3b\",\"agent_record\":{\"ark\":\"ark:/21198/s1ms3b\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Cyril, Saint, Patriarch of Alexandria, approximately 370-444\",\"alt_name\":[\"Cyril of Alexandria\",\"Κύριλλος Αλεξανδρείας\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"approximately 370-444\",\"iso\":{\"not_before\":\"0345\",\"not_after\":\"0469\"}},\"rel_con\":[{\"label\":\"Cyril of Alexandria, Saint\",\"uri\":\"http://viaf.org/viaf/51687951\",\"source\":\"VIAF\"},{\"label\":\"Cyril, Saint, Patriarch of Alexandria, approximately 370-444\",\"uri\":\"http://id.loc.gov/authorities/names/n82148014\",\"source\":\"LoC\"},{\"label\":\"Cyril, Patriarch of Alexandria, approximately 370-444\",\"uri\":\"https://w3id.org/haf/person/967240893174\",\"source\":\"HAF\"},{\"label\":\"Cyril of Alexandria\",\"uri\":\"http://syriaca.org/person/430\",\"source\":\"Syriaca\"},{\"label\":\"Cyrillus Alexandrinus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/834/\",\"source\":\"Pinakes\"}],\"note\":[\"https://gedsh.bethmardutho.org/Cyril-of-Alexandria\"]}}],\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"polemic\",\"label\":\"Polemical works\"}]}},{\"work\":{\"desc_title\":\"The ten virtues of St. John Baptist\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"ascetica\",\"label\":\"Ascetica\"}]}}],\"parent\":[\"ark:/21198/s1sc91\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z1640t2z\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Kamil 1970\",\"citation\":\"Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970\",\"range\":\"[473], p. 44\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1640t2z/manifest\",\"label\":\"Natural Light\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1640t2z%2Fv8578d65/full/!200,200/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Library Digitization Project, Phase 1\",\"description\":\"Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.\",\"camera_operator\":[\"Lampros Galanis\"],\"imaging_date\":\"2018 August\",\"delivery\":\"8\",\"imaging_system\":\"BC100 - 2 cam., 960 ppi, 120mm lens\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z1640t2z",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1640t2z%2Fv8578d65/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1640t2z/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 473",
+    "90 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "90 ff.",
+  "text_unit_labels_tesim": [
+    "Varia"
+  ],
+  "origin_date_values_tesim": []
+}

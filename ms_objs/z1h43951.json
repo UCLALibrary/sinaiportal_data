@@ -31,34 +31,42 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 1v",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "278r",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܫܠܡ ܒܥܘܕܪܢ ܐܠܗܐ ܟܬܒܐ ܗܢܐ ܡܟܢܫ ܡܥܕܥ̈ܝܢܢ ܕܟܠܗ̇ ܫܢܬܐ ܕܡܪܐܢܝܐ ܘܝܠܕܬ ܐܠܗܐ ܘܢܘܚܢܢ ܡܥܡ̄ܕ ܘܫ̈ܠܝܚܐ ܘܩܢܘܝܐ ܕܬܝܒ̄ܘ ܝܘܡ ܗ̄ ܟܟ̄ ܒܝܪܚܐ ܐܒ ܫܢܬܐ ܫܬ ܐܠܦܝܢ ܘܫܒܥܡ̈ܐ ܘܫܒ̈ܥܝܢ ܘܬܠܬܐ ܠܐܒܘܢ ܐܕܡ. ܒܕܝܪܐ ܩܕܝܫܐ ܘܛܘܪܐ ܕܐܠܗܐ ܛܘܪ ܣܝܢܐ ܡܩܕܫܐ: ܐܝܟ ܕܠܗܕܪܐ ܘܐܝܩܪܐ ܘܬܫܒ̄ܘ ܕܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ ܘܫܘܝܬ ܒܐܘܣܝܐ. ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܩܘܕܫܐ: ܟܬܒܗ ܕܝܢ ܐܢܫ ܚܛܝܐ ܘܕܘܐ ܡܢ ܟܠ. ܘܠܐ ܫ̇ܘܐ ܕܝܬܩܪܐ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ ܡܢ ܩܪܝܬܐ ܡܚܪܕܗ ܒܐܬܪܐ ܕܫܝܙܪ: ܟܬܒܗ ܠܩܫܝܫܐ ܫܡܥܘܢ ܕܝܪܝܐ ܒܛܘܪ ܣܝܢܐ ܐܠܗܐ ܢܚܣܐ ܠܗ ܘܠܟܬܘܒܐ ܘܢܫܐܠ ܟܠܡ̇ܢ ܕܩܪܐ ܒܗ ܐܘܟܬܒ ܡܢܗ ܐܬܕܟܪ ܠܗ ܒܪ̈ܚܡܐ ܘܫܘܒܩܢܐ ܕܚܛܗ̈ܐ܀ ܒܬܟܫܦܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܡܪܝ ܡܘܫܐ ܘܐܠܝܐ ܘܟܠܗܘܢ ܩ̈ܕܝܫܐ ܘܩܕܝܫ̈ܬܐ ܐܡܝܢ وقف علي كنيسه السيدة بطور سينا",
-          "assoc_name": [
-            {
-              "value": "John b.Mansur, hieromonk Shem‘u",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ],
-          "note": [
-            "Attested places:  from Muhardeh, region of Shayzar, for hieromonk Shem‘un, on Sinai"
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "اقول انا الاسقف جرمانوس ان هذا المعيد وقف على كنيسه السيده / بطور سينا ما لاحد سلطان من الله ان يخرجه عنها او يقطع الورقة يكون / حظه مع يودس الاسخريوطي",
+      "translation": [
+        "I, Jirmānūs the bishop, state that this Menologion is endowed to the church of the Lady / in Mount Sinai. No one has authority from God to take out of it or to cut [this] leaf, may his share be with Judas Iscariot"
+      ]
+    },
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 278r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "وقف على كنيسه السيده بطور سينا",
+      "translation": [
+        "Endowment to the church of the Lady in Mount Sinai"
       ]
     }
   ],

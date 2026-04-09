@@ -1,0 +1,159 @@
+{
+    "ark": "ark:/21198/tetst01p1ul1t1",
+    "reconstruction": false,
+    "label": "Psalms (undertext)",
+    "summary": "Fragmentary text of the Psalms in Greek, recovered as undertext under multispectral imaging.",
+    "locus": "ff. 10-25, 30-45",
+    "lang": [
+        {
+            "id": "gree1276",
+            "label": "Greek"
+        }
+    ],
+    "work_wit": [
+        {
+            "work": {
+                "id": "ark:/21198/s1ps01"
+            },
+            "locus": "ff. 10-25, 30-45",
+            "as_written": "Μακάριος ἀνήρ",
+            "excerpt": [
+                {
+                    "type": {
+                        "id": "inc-mut",
+                        "label": "First Preserved Line"
+                    },
+                    "locus": "f. 10r",
+                    "as_written": "...Μακάριος ἀνήρ ὃς οὐκ ἐπορεύθη...",
+                    "translation": [
+                        "...Blessed is the man who has not walked..."
+                    ],
+                    "note": [
+                        "Text begins imperfectly; opening lines lost"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "des-mut",
+                        "label": "Last Preserved Line"
+                    },
+                    "locus": "f. 45v",
+                    "as_written": "...αἰνεῖτε αὐτὸν ἐν ἤχῳ σάλπιγγος...",
+                    "translation": [
+                        "...praise him with the sound of the trumpet..."
+                    ],
+                    "note": [
+                        "Text ends imperfectly; remainder lost"
+                    ]
+                }
+            ],
+            "note": [
+                "Septuagint version",
+                "Individual psalm numbers not yet matched to specific folios"
+            ],
+            "bib": [
+                {
+                    "id": "6eb049fc-9392-4a9a-8bba-841afccd095a",
+                    "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                    },
+                    "shortcode": "Rahlfs 1931",
+                    "citation": "Rahlfs, Alfred. Psalmi cum Odis. Göttingen: Vandenhoeck & Ruprecht, 1931.",
+                    "range": "pp. 1-150",
+                    "note": [
+                        "Standard reference for the Septuagint Psalter"
+                    ]
+                }
+            ]
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "framing",
+                "label": "Framing"
+            },
+            "subtype": [
+                {
+                    "id": "heading",
+                    "label": "Heading"
+                }
+            ],
+            "locus": "f. 15r",
+            "lang": [
+                {
+                    "id": "gree1276",
+                    "label": "Greek"
+                }
+            ],
+            "as_written": "ΨΑΛΜΟΣ",
+            "translation": [
+                "Psalm"
+            ],
+            "note": [
+                "Psalm heading partially legible under MSI"
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "msi",
+            "label": "Multispectral Imaging"
+        },
+        {
+            "id": "unidentified-text",
+            "label": "Unidentified Text"
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "Text recovered under multispectral imaging; natural light images largely illegible"
+        },
+        {
+            "type": {
+                "id": "contents",
+                "label": "Contents Note"
+            },
+            "value": "Fragments of multiple psalms visible; precise psalm numbers not yet determined"
+        }
+    ],
+    "bib": [
+        {
+            "id": "1137da26-f4ba-4a01-bbe2-8fda21e18464",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Rahlfs 1931",
+            "citation": "Rahlfs, Alfred. Psalmi cum Odis. Göttingen: Vandenhoeck & Ruprecht, 1931.",
+            "range": "pp. 1-150"
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Palimpsests Project",
+                "description": "Described as part of the Sinai Palimpsests Project (2006-2017). The Sinai Palimpsests Project was sponsored by St. Catherine's Monastery of the Sinai in partnership with the Early Manuscripts Electronic Library and the UCLA Library, and with funding from Arcadia."
+            }
+        ]
+    },
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst01p1ul1"
+    ]
+}

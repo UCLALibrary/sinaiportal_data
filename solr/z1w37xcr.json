@@ -1,0 +1,121 @@
+{
+  "ark_ssi": "ark:/21198/z1w37xcr",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Folio Fragment(s)",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [
+    "John Chrysostom, Saint, -407"
+  ],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Estrangela"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Sermons",
+    "Theological works"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Syriac"
+  ],
+  "ot_works_ssim": [
+    "Homilies on John (Chrysostom)"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [
+    "Estrangela"
+  ],
+  "uto_language_ssim": [
+    "Syriac"
+  ],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Syriac NF frag 74",
+  "titles_tesim": [
+    "Homilies on John (Chrysostom)",
+    "John Chrysostom, Commentary on John, Homily 20"
+  ],
+  "names_tesim": [
+    "John Chrysostom, Saint, -407"
+  ],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Homilies on John (Chrysostom)",
+    "Homilies on John, Homily 20 (Chrysostom)",
+    "John Chrysostom, Commentary on John, Homily 20"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Disjecta Membra",
+    "Estrangela",
+    "Homilies on John (Chrysostom)",
+    "Homilies on John, Homily 20 (Chrysostom)",
+    "John Chrysostom, Commentary on John, Homily 20",
+    "John Chrysostom, Saint, -407",
+    "Originally belonged together with the following",
+    "Parchment",
+    "Sinai Syriac NF M 29",
+    "Sinai Syriac NF frag 28",
+    "Sinai Syriac NF frag 74",
+    "Syriac",
+    "ark:/21198/z1w37xcr",
+    "author",
+    "brown",
+    "sppms"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1w37xcr\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF frag 74\",\"extent\":\"1 ff.\",\"state\":{\"id\":\"folio-fragment\",\"label\":\"Folio Fragment(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Originally belonged together with the following\",\"mss\":[{\"label\":\"Sinai Syriac NF frag 28\",\"id\":\"ark:/21198/z13n2cd2\"},{\"label\":\"Sinai Syriac NF M 29\"}]}],\"ot_layer\":[{\"id\":\"ark:/21198/s1r03n\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1r03n\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF frag 74, Overtext (Estrangela)\",\"writing\":[{\"script\":[{\"id\":\"estrangela\",\"label\":\"Estrangela\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"brown\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1jm30\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1jm30\",\"reconstruction\":false,\"label\":\"Homilies on John, Homily 20 (Chrysostom)\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1n01z\",\"pref_title\":\"Homilies on John (Chrysostom)\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"sermons\",\"label\":\"Sermons\"}],\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom, Saint, -407\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"d. 407\",\"iso\":{\"not_before\":\"0407\"}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}],\"note\":[\"author\"]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407. Homilies on John\",\"uri\":\"http://id.loc.gov/authorities/names/n97054490\",\"source\":\"LoC\"}]},\"alt_title\":\"John Chrysostom, Commentary on John, Homily 20\"}],\"parent\":[\"ark:/21198/s1r03n\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z1w37xcr\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Brock 1995\",\"citation\":\"Brock, Sebastian P. Catalogue of Syriac Fragments (New Finds) in the Library of the Monastery of Saint Catherine, Mount Sinai. Mount Sinai Foundation, 1995\",\"range\":\"pp. 70-71, pl. 357-358 \"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w37xcr/manifest\",\"label\":\"Multispectral Images\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1gx4bvd/1022,0,6132,6132/150,150/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"sppms\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"},\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1nw76\",\"label\":\"Syriac Undertext: Bible. Genesis\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"uto_ms_ark\":\"ark:/21198/z1c06z22\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"]}]}",
+  "id": "ark:/21198/z1w37xcr",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1gx4bvd/1022,0,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w37xcr/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac NF frag 74",
+    "1 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "1 ff.",
+  "text_unit_labels_tesim": [
+    "Homilies on John, Homily 20 (Chrysostom)"
+  ],
+  "origin_date_values_tesim": []
+}

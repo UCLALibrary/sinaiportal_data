@@ -31,32 +31,25 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "locus": "f. 109r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "260v",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܝܘܡ :ܓ̄:ܒ̄ܫ:ܒܝ̄ܒ̄: ܒܐܝܐܪ: ܒܐܝ̣̈ ܐܢܫ ܒܨܝܪܐ ܘܚܛܝܐ ܘܬܚܘܒܐ ܫܡܥܘܢ ܒܪ ܦܛܩܘܣ ܡܢ ܩܪܝܬܐ ܢܛܪܬ: ܒܐܠܗܐ: 11 ܪܘܡܐܢܐ ܟܬܒܗ ܠܕܝܪܐ ܩܕܝܫܬܐ: ܕܛܘܪ ܣܝܢܐ: ܐܠܗܐ ܢܬܪܚܡ ܥܠ ܚ̇ܛܝܐ ܟܬܘܬܐ: ܒܨ̈ܠܘܬܐ ܕܟܠܗܘܢ ܩ̈ܕܝܫܐ ܕܥܡܪ̈ܝܢ ܒܗ: ܫܢܬ̤ ܐܠܦ̈: ܘܗ̄: ܡܢ ܡܢܝ̈ܢܐ ܕܠܟܣܢܕܪܘܣ ܒܪܝ ܦܝܠܝܦܘܣ ܡܩܓܘܢܝܐ",
-          "assoc_name": [
-            {
-              "value": "Shem'un bar Petros",
-              "as_written": "ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "يا رب ارحم لمن اهتم وكتب وقرا يا ايه القاري ترحم على / الخاطي الكاتب",
+      "translation": [
+        "Lord, have mercy on who commissioned [this manuscript], and who copied, and who read [it] / Reader, ask for mercy on the sinner scribe"
       ]
     }
   ],

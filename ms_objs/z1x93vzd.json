@@ -31,36 +31,45 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 1v",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "190r-190v",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܫܠܡ ܒܥܘܕܪܢ ܡܪܝܐ ܟܬܒܐ ܗܢܐ. ܕܡܙܡܘܪ̈ܐ ܕܕܘܝܕ. ܡܠܟܐ ܘܢܒܝܐ. ܕܗܘܝܢ ܒܡܢܝܢܐ: ܡܐܐ ܘܚܡܫܝܢ: ܘܨܝܚ̈ܝܐ: ܟ̄ـ : ܦܬ̄: ܕ̄ ܐܠܦ̈ܝܢ: ܘܚ̄ ܡ̈ܐܐ: ܘ̄ܠ: ܫܩܠ ܕܝܢ܇ ܫܢܐ ܐܠܦ: ܘܫܬ: ܡ̈ܐܐ ܘܠܬ: ܡܢ: ܫ̈ܢܝܐ ܕܝܘ̈ܢܝܐ: ܒܩܪܝܬܐ ܆ܟܦܪܥܠܐ: ܟܬܒܗ ܆ܝܢ: ܙܘܥܪܐ ܒܟܗܢܐ ܥܒܕܗ ܡܡܫܝܚܐ ܒܪܝ ܓܒܪܐܝܠ ܡܢ ܩܪܝܬܐ ܕܟܦܪܥܠܐ: ܡܚܣܐ ܠܗ ܡܪܝܐ ܘܠܐ ܒܗܘ̈ܗܝ ܐܡܝܢ ܘ ܐܡܝܢ܀ ܢܬܠ ܡܪܝܐ ܕܢܫܟܚ ܪ̈ܚܡܐ ܒܝܘܡ ܕܝܢ̣ܐ: ܘܢܫܘܝܗܝ ܐܠܗܐ ܠܩܠܐ ܒܪܝܟܐ ܘܢܡܚܘܗܝ ܥܡ ܥܪ̈ܒܐ ܕܡܢ ܝܡܝܢܐ ܘܠܟܠܡܢ ܕܩ̇ܪܐ ܒܟܬܒܐ ܗܢܐ ܘܡܨܠܐ ܚܠܦܘܗܝ. ܘܒ̇ܥܐܠܗ ܫܘܒܩܢܐ. ܒܨ̈ܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝ̈ܫܝܟ ܐܡܝܢ.",
-          "assoc_name": [
-            {
-              "value": "Abdeh daMshihā bar Gabriel",
-              "as_written": "ܥܒܕܗ ܕܡܫܝܚܐ",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ],
-          "note": [
-            "Last portion on 190v is smudged.",
-            "Attested places:  in Kfar `Q' (near Tripolis)"
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "هذه المزامير / وقف محبس / على كنيسه / السيده / السريان / بطور سينا / فالذي (؟) / الكنيسه ويخرـ / جه منها / يكون / مفروز محروم / من مجد الله / وكتبه ميخاـ / ىيل / اسقف",
+      "translation": [
+        "These Psalms [book] is a restrained waqf to the church of the Lady, the Syrian, in Mount Sinai. May whoever (?) and take it out from there be deprived from the glory of God. [This] was written by Bishop Mīkhāʼīl"
+      ],
+      "note": [
+        "Bibliography: Treiger, Sinaitica II, 69."
+      ]
+    },
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 190v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "ان هذا الابصلىير برسم الاخ انبا / الياس سمعان بن عبد المسيح / من قرن فرحانا نفعه الله به / بصلوات جميع القديسين امين",
+      "translation": [
+        "This Psalter is commissioned / purchased by brother Anbā / Ilyās Samʻān ʻAbd al-Masīḥ / from Qarn Farḥānā. May God make it beneficial for him / With the prayers of all saints. Amen!"
       ]
     }
   ],

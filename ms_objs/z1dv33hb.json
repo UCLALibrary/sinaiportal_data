@@ -31,40 +31,42 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 107r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "201r",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܐܫܬܡܠܝ ܕܝܢ ܟܬܒܐ ܗܢܐ ܥܠ ܐܝܕ̈ܝ ܦܛܪܘܣ ܡܚܝ̣ܠܐ ܘܚܛܝܐ ܘܒܨܝܪܐ ܕܟܠܗܘܢ ܒܢܝܢܫܐ ܕܝܙܝܐ ܒܫܡܐ ܩܫ̄ܝ ܟܕ ܠܐ ܫܘܐ ܒܪ ܪܒܟܬ ܒܪ ܚܢܢܝܐ ܕܡܢ ܨܕܢܐܝܠ ܩܪܝܬܐ ܕܒܐܬܪܐ ܕܕܪܡܣܘܩܐ ܡܕܝܢܬܐ ܡܪܝܐ ܐܠܗܐ ܢܚܣܐ ܠܗ ܡܥܥܝ̈ܘܗܝ ܫܢܬ ܐܠܦ ܘܐܪ̈ܒܥܡܐܐ.. ܘܥ̄ܒ: ܡܢ ܡܢܝܢܐ ܕܝܘ̈ܢܝܐ: ܒܟܛ: ܒܬܡܘܙ ܝܪܚܐ ܝܘܡ ܫܒܬܐ ܐܠܦ̈ܝ ܬܠܬ ܫܥܝܢ ܕܐܝܡܡܐ: ܟܬܒܗܕܝܢ ܠܩܫ̄ܝ ܙܗܝܐ ܓܐܘܪܕܝܘܣ ܕܡܢ ܠܒܥܢ ܐܝܬܘܗܝ ܝܘܡܢܐ ܒܒܩܝ̇ ܓܒܐܬܪܐ ܕܙܒܕܝܬܐ܀ ܀ ܐܘ ܩܪܘܝܐ ܨܠܐ ܥܠ ܕܘܝܐ ܕܣ̣ܪ ܛ ܐܝܟ ܚܝܠܗ ܕܗܘ̣ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܢܚܣܐ ܚܘܒܘܗ̈ܝ ܘܚ̈ܛܗܘܝ ܘܢܠܚܐ ܟܠܗܘܢ ܒܘܨܪܘ̇ܗܝ ܐܡܝܢ ܘܐܡܝܢ ܘܐܡܝܢ ܀",
-          "assoc_name": [
-            {
-              "value": "Zahyo Georgios",
-              "as_written": "ܙܗܝܐ ܓܐܘܪܓܝܘܣ",
-              "role": {
-                "id": "patron",
-                "label": "Patron"
-              }
-            },
-            {
-              "value": "Bar Rabkat Bar Hannaniah",
-              "as_written": "ܒܪ ܪܒܟܬ ܒܪ ܚܢܢܝܐ",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "هذه القوانين برسم القس انبا يحنا ابن القس نعمه / ( اشتراه بماله وكتبه سمعان (اسقف؟ الديراني / والسبح لله وحده",
+      "translation": [
+        "These laws commissioned by al-Qass Anbā Yaḥnā ibn al-Qass Niʻmah / He bought it by his own money, and it was written by Samʻān (? ?) / Praise to God alone"
+      ]
+    },
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 134v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "هذه القوانين المقدسة للراهب القس / ابا يحنا ابن القس نعمه من قرية الفرزل",
+      "translation": [
+        "These blessed laws belong to the priest monk / Father Yaḥnā ibn al-Qass Niʻmah from the village of al-Farzal"
       ]
     }
   ],

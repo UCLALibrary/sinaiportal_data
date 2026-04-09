@@ -1,30 +1,37 @@
 {
-    "ark": "ark:/21198/s1210n",
-    "pref_title": "Treatise to the Monk Eulogius (Evagrius)",
-    "alt_title": [],
-    "genre": [
-        "Theological works",
-        "Ascetica"
-    ],
-    "creator": [
-        {
-            "id": "\"Evagrius, Ponticus, 345?-399\"",
-            "role": "author"
-        }
-    ],
-    "rel_con": [
-        {
-            "label": "Tractatus ad Eulogium",
-            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/13057/",
-            "source": "Pinakes"
-        }
-    ],
-    "refno": [
-        {
-            "label": "Tractatus ad Eulogium",
-            "idno": "2447",
-            "source": "CPG"
-        }
-    ],
-    "bib": []
+  "ark": "ark:/21198/s1210n",
+  "pref_title": "Treatise to the Monk Eulogius (Evagrius)",
+  "genre": [
+    {
+      "id": "theological-works",
+      "label": "Theological works"
+    },
+    {
+      "id": "ascetica",
+      "label": "Ascetica"
+    }
+  ],
+  "creator": [
+    {
+      "id": "ark:/21198/s1b88k",
+      "role": {
+        "id": "author",
+        "label": "Author"
+      }
+    }
+  ],
+  "rel_con": [
+    {
+      "label": "Tractatus ad Eulogium",
+      "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/13057/",
+      "source": "Pinakes"
+    }
+  ],
+  "refno": [
+    {
+      "label": "Tractatus ad Eulogium",
+      "idno": "2447",
+      "source": "CPG"
+    }
+  ]
 }

@@ -1,0 +1,110 @@
+{
+  "ark_ssi": "ark:/21198/z1sg3n6j",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z1nc6gtd"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai Greek 929"
+  ],
+  "ot_script_ssim": [
+    "Greek majuscule"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Lectionaries",
+    "Liturgical texts"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [
+    "Lectionary"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai Greek 929, SPP No. 185",
+  "titles_tesim": [
+    "Lectionary"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Lectionary"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Greek",
+    "Greek majuscule",
+    "Lectionary",
+    "Parchment",
+    "Sloping, slightly inclined majuscule. The text is accompanied by ecphonetic notation in red ink",
+    "UTO Sinai Greek 929, SPP No. 185",
+    "ark:/21198/z1sg3n6j",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Agamemnon Tselikas",
+    "Giulia Rossetto"
+  ],
+  "last_modified_dtsi": "2025-12-15T14:33:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1sg3n6j\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 929, SPP No. 185\",\"extent\":\"167 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"front pastedown, ff. 1–29, stub-30, 30–165\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1c351\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1c351\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 929, Undertext (Greek majuscule)\",\"locus\":\"front pastedown, ff. 1–29, stub-30, 30–165\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Sloping, slightly inclined majuscule. The text is accompanied by ecphonetic notation in red ink\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1139f\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1139f\",\"reconstruction\":false,\"label\":\"Lectionary\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1088g\",\"pref_title\":\"Lectionary\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"lectionaries\",\"label\":\"Lectionaries\"}]}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/s1c351\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/z1nc6gtd\",\"ark:/21198/z1sg3n6j\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1nc6gtd/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qz2tth/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1nc6gtd\",\"shelfmark\":\"Sinai Greek 929\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z1sg3n6j",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qz2tth/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1nc6gtd/manifest",
+  "header_index_tesim": [
+    "UTO Sinai Greek 929, SPP No. 185",
+    "167 fols."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "167 fols.",
+  "text_unit_labels_tesim": [
+    "Lectionary"
+  ],
+  "origin_date_values_tesim": []
+}

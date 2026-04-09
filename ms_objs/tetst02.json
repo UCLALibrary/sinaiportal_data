@@ -1,0 +1,273 @@
+{
+    "ark": "ark:/21198/tetst02",
+    "reconstruction": false,
+    "type": {
+        "id": "manuscript",
+        "label": "Manuscript"
+    },
+    "shelfmark": "Sinai Syriac 799",
+    "summary": "Single-part Syriac Psalter, 9th century.",
+    "extent": "85 ff.",
+    "weight": "312.4 g",
+    "dim": "180 x 130 x 22.0 mm",
+    "state": {
+        "id": "codex",
+        "label": "Codex"
+    },
+    "fol": "ff. 1-85",
+    "coll": "Quire 1: 1x8 (8); Quire 2: 1x8 (16)",
+    "features": [
+        {
+            "id": "headpiece",
+            "label": "Headpiece(s)"
+        }
+    ],
+    "location": [
+        {
+            "id": "sinai-oc",
+            "collection": "Old Collection",
+            "repository": "St. Catherine's Monastery of the Sinai"
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "9th c. CE",
+            "iso": {
+                "not_before": "0801",
+                "not_after": "0900"
+            }
+        }
+    ],
+    "assoc_name": [
+        {
+            "value": "Unknown scribe",
+            "role": {
+                "id": "scribe",
+                "label": "Scribe"
+            }
+        }
+    ],
+    "assoc_place": [
+        {
+            "event": {
+                "id": "origin",
+                "label": "Origin Place"
+            }
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "possession-note",
+                    "label": "Possession Note"
+                }
+            ],
+            "locus": "f. 1r",
+            "lang": [
+                {
+                    "id": "syrc1272",
+                    "label": "Syriac"
+                }
+            ],
+            "as_written": "ܕܝܪܐ ܕܣܝܢܝ",
+            "translation": [
+                "Monastery of Sinai"
+            ]
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "foliation",
+                "label": "Foliation"
+            },
+            "value": "Modern pencil foliation."
+        }
+    ],
+    "related_mss": [
+        {
+            "type": {
+                "id": "filiation",
+                "label": "Filiation"
+            },
+            "label": "Related Syriac Psalters at Sinai",
+            "note": [
+                "All three are Peshitta Psalters of similar date and script tradition"
+            ],
+            "mss": [
+                {
+                    "label": "Related manuscript (ark:/21198/z1vx215c)",
+                    "id": "ark:/21198/z1vx215c",
+                    "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917160205171//NLI"
+                },
+                {
+                    "label": "Related manuscript (ark:/21198/z1g4681n)",
+                    "id": "ark:/21198/z1g4681n"
+                }
+            ]
+        }
+    ],
+    "bib": [
+        {
+            "id": "f853453f-0fef-46e4-8c59-a3323f029bbc",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Kamil",
+            "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970.",
+            "range": "p. 12",
+            "alt_shelf": "[1]"
+        }
+    ],
+    "iiif": [
+        {
+            "type": {
+                "id": "main",
+                "label": "Main"
+            },
+            "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz15f0f9b/manifest",
+            "text_direction": "right-to-left",
+            "behavior": "paged",
+            "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg",
+            "label": "Main"
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Syriac Descriptions Project",
+                "description": "Described as part of the Sinai Syriac Descriptions Project (2020-2024)."
+            }
+        ]
+    },
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ],
+    "part": [
+        {
+            "label": "Part 1",
+            "locus": "ff. 1-85",
+            "support": [
+                {
+                    "id": "parchment",
+                    "label": "Parchment"
+                }
+            ],
+            "extent": "85 ff.",
+            "dim": "170 x 120 mm (typical folio)",
+            "note": [
+                {
+                    "type": {
+                        "id": "support",
+                        "label": "Support Note"
+                    },
+                    "value": "Good quality parchment throughout."
+                }
+            ],
+            "layer": [
+                {
+                    "id": "ark:/21198/tetst02p1ol",
+                    "label": "Overtext layer (9th c., Serto)",
+                    "type": {
+                        "id": "overtext",
+                        "label": "Overtext"
+                    },
+                    "locus": "ff. 1-85"
+                }
+            ],
+            "summary": "Single-part Syriac Psalter in Serto script on parchment.",
+            "para": [
+                {
+                    "type": {
+                        "id": "history",
+                        "label": "History"
+                    },
+                    "subtype": [
+                        {
+                            "id": "possession-note",
+                            "label": "Possession Note"
+                        }
+                    ],
+                    "locus": "f. 1r",
+                    "lang": [
+                        {
+                            "id": "syrc1272",
+                            "label": "Syriac"
+                        }
+                    ],
+                    "as_written": "ܕܝܪܐ ܕܣܝܢܝ",
+                    "translation": [
+                        "Monastery of Sinai"
+                    ]
+                }
+            ],
+            "related_mss": [
+                {
+                    "type": {
+                        "id": "filiation",
+                        "label": "Filiation"
+                    },
+                    "label": "Related Syriac Psalter manuscripts",
+                    "note": [
+                        "All three are Peshitta Psalters of similar date and script tradition"
+                    ],
+                    "mss": [
+                        {
+                            "label": "Related manuscript (ark:/21198/z1vx215c)",
+                            "id": "ark:/21198/z1vx215c",
+                            "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917160205171//NLI"
+                        },
+                        {
+                            "label": "Related manuscript (ark:/21198/z1g4681n)",
+                            "id": "ark:/21198/z1g4681n"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "viscodex": [
+        {
+            "type": {
+                "id": "reconstruction",
+                "label": "Reconstruction"
+            },
+            "label": "Visualization of Sinai Syriac 799",
+            "url": "https://vceditor.library.upenn.edu/project/test789/viewOnly"
+        }
+    ],
+    "image_provenance": {
+        "program": [
+            {
+                "label": "Sinai Library Digitization Project, Phase 1",
+                "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine's Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library.",
+                "camera_operator": [
+                    "Lampros Galanis"
+                ],
+                "imaging_date": "2019-06",
+                "delivery": "8",
+                "condition_category": "1",
+                "imaging_system": "BC100 - 2 cam., 960 ppi, 120mm lens"
+            }
+        ],
+        "rights": "All manuscript images are the property of St. Catherine's Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission."
+    }
+}

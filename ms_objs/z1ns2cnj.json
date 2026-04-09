@@ -31,47 +31,59 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 138r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "199v-200r",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܢܣܲܒ: ܫܘܡ̇ܠܝ܆ ܟܬܒܐ ܗܢܐ: ܫܥ̈ܐ: ܘܡܒ̇ܪ ܙܡܘܣ ܝܘܡ ܫ̄ܒ: ܒ̄ܝܕ: ܒܬܫ̈ܝܢ ܒ̄: ܫܢܬܲ. ܫ̈ܬ̣ܐ: ܐܠܦܝܢ: ܘܫܒܥ ܡܐܐ ܘܬܫܥܝܢ ܘܚܕ: ܠܥܠܡܐ܀ ܒܐܝ̈ܕܝ: ܐܢܫ ܚܲܛܝܐ: ܘܡܦܠܦܠ: ܘܒܨܝܪܐ ܕܟܠܗܘܢ ܒܢܝܢ̈ܫܐ܀ ܒܫܡܐ ܘܠܐ ܒܥ̇ܒܕܐ ܟ̄ܗ: ܕܝܪܝܐ ܐܪܣܢܝ: ܟܠܡ̇ܢ ܕܢܩܪܐ ܢܨܲܠܐܹ ܥܠܝ: ܡܛܠ ܡܪܢ܆ ܘܟܠܢܫ ܐܝܟ ܨܠܘܬܗ̣ ܡܬܦ݂ܪܥ܀ ܢܐܡܪ: ܐܠܗܐ ܚܘܢܝܗ. ܠܟܬܘܒܐ ܐܝܟ ܠܝܣܐ ܒܙܩܝܦܐ܀ ܒܨ̣ܠܘܬܐ ܕܡܪܬܢ ܝܠܕܬ ܐܠܗܐ ܡܪܝܡ ܘܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ ܘܐܡܝܢ܀",
-          "assoc_name": [
-            {
-              "value": "Monk Arsani",
-              "as_written": "ܕܝܪܝܐ ܐܪܣܢܝ",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ],
-          "assoc_date": [
-            {
-              "value": "1283 CE",
-              "iso": {
-                "not_before": "1283"
-              },
-              "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-              },
-              "note": [
-                "1283 CE (= Teshrin II, 6791 AM)"
-              ]
-            }
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "وافرم صاحبها غفر الرب له ولولديه / ولمن ترحم عنه",
+      "translation": [
+        "And Afram its (the manuscript) owner, may the Lord forgive him and his parents / and whoever ask for forgiveness for him"
+      ]
+    },
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 200v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "الرب الاله يسوع المسيح يغفر / وسخ المسكين افرام / برسم الولد الحقير افرام / غفر الرب له ولولديه / فمن ترحم عنه تشافعه / ام النور وجميع القديسين امين",
+      "translation": [
+        "May the Lord God Jesus Christ forgive / the dirt of the pitiful Afrām / Commissioned by the child Afrām / May the Lord forgive him and his parents / May whoever asks dor mercy on him, receive / intercession from the Mother of Light and all the saints. Amen!"
+      ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "locus": "f. 178r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "الرب الاه يغفر و(؟) / نفس افرام المسكين الخاطي",
+      "translation": [
+        "May the Lord God forgive and (?) / the soul of the pitiful sinner Afrām"
       ]
     }
   ],

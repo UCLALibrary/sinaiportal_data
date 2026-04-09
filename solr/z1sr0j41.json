@@ -1,0 +1,139 @@
+{
+  "ark_ssi": "ark:/21198/z1sr0j41",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [],
+  "support_ssim": [
+    "Paper"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Library Digitization Project, Phase 1"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Melkite",
+    "Naskh"
+  ],
+  "ot_writing_system_ssim": [
+    "Arabic",
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Hymnals",
+    "Liturgical texts",
+    "Prayers"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Arabic",
+    "Syriac"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Arabic 262",
+  "titles_tesim": [
+    "Last rites for the infirm",
+    "Liturgy for Pentecost Sunday",
+    "Portion of another service for the lantern in the hand of the servants",
+    "Prayer for the holy oil of the lamp, including stichera and canons",
+    "Prayer over one wishing to join the monastery",
+    "Prayers for various occasions, including for the Christian convert to Islam, for the convert to Islam who converts back to Christianity, and for those who succumb to fantasia",
+    "Service before taking on the habit after dinner",
+    "Service recited after the bell for Mass"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Arabic and Syriac parallel",
+    "Arabic and Syriac parallel, but only Arabic column present",
+    "Arabic and Syriac parallel, but portions with Arabic column only",
+    "Last rites for the infirm",
+    "Liturgy for Pentecost Sunday",
+    "One column in Syriac",
+    "Portion of another service for the lantern in the hand of the servants",
+    "Prayer for the holy oil of the lamp, including stichera and canons",
+    "Prayer over one wishing to join the monastery",
+    "Prayers for various occasions, including for the Christian convert to Islam, for the convert to Islam who converts back to Christianity, and for those who succumb to fantasia",
+    "Service before taking on the habit after dinner",
+    "Service recited after the bell for Mass",
+    "Services and Prayers"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "5.1",
+    "Arabic",
+    "Arabic and Syriac parallel",
+    "Arabic and Syriac parallel, but only Arabic column present",
+    "Arabic and Syriac parallel, but portions with Arabic column only",
+    "Last rites for the infirm",
+    "Liturgy for Pentecost Sunday",
+    "Melkite",
+    "Naskh",
+    "One column in Syriac",
+    "Paper",
+    "Portion of another service for the lantern in the hand of the servants",
+    "Prayer for the holy oil of the lamp, including stichera and canons",
+    "Prayer over one wishing to join the monastery",
+    "Prayers for various occasions, including for the Christian convert to Islam, for the convert to Islam who converts back to Christianity, and for those who succumb to fantasia",
+    "Service before taking on the habit after dinner",
+    "Service recited after the bell for Mass",
+    "Services and Prayers",
+    "Sinai Arabic 262",
+    "Syriac",
+    "ark:/21198/z1sr0j41"
+  ],
+  "cataloguer_tesim": [
+    "Justin Arnwine"
+  ],
+  "last_modified_dtsi": "2025-12-08T07:02:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1sr0j41\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 262\",\"extent\":\"207 ff.\",\"weight\":\"859.1 g\",\"dim\":\"187 x 144 x 79 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1x31g\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1x31g\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 262, Overtext (Naskh, Melkite)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1qq1t\",\"label\":\"Item 1\",\"locus\":\"ff. 1r-218v\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1qq1t\",\"reconstruction\":false,\"label\":\"Services and Prayers\",\"locus\":\"ff. 1r-218v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Prayer over one wishing to join the monastery\",\"genre\":[{\"id\":\"prayers\",\"label\":\"Prayers\"}]},\"locus\":\"ff. 1r-4r\",\"note\":[\"Arabic and Syriac parallel\"]},{\"work\":{\"desc_title\":\"Service recited after the bell for Mass\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 4v-18v\",\"note\":[\"Arabic and Syriac parallel, but portions with Arabic column only\"]},{\"work\":{\"desc_title\":\"Service before taking on the habit after dinner\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 19r-71v\",\"note\":[\"Arabic and Syriac parallel, but portions with Arabic column only\"]},{\"work\":{\"desc_title\":\"Last rites for the infirm\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 71v-83v\",\"note\":[\"Arabic and Syriac parallel, but only Arabic column present\"]},{\"work\":{\"desc_title\":\"Prayer for the holy oil of the lamp, including stichera and canons\",\"genre\":[{\"id\":\"prayers\",\"label\":\"Prayers\"},{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"locus\":\"ff. 84r-104v\",\"note\":[\"One column in Syriac\"]},{\"work\":{\"desc_title\":\"Portion of another service for the lantern in the hand of the servants\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 105r-147v\",\"note\":[\"Arabic and Syriac parallel\"]},{\"work\":{\"desc_title\":\"Prayers for various occasions, including for the Christian convert to Islam, for the convert to Islam who converts back to Christianity, and for those who succumb to fantasia\",\"genre\":[{\"id\":\"prayers\",\"label\":\"Prayers\"}]},\"locus\":\"ff. 148r-182v\",\"note\":[\"One column in Syriac\"]},{\"work\":{\"desc_title\":\"Liturgy for Pentecost Sunday\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"locus\":\"ff. 183r-218v\",\"note\":[\"One column in Syriac\"]}],\"cataloguer\":[{\"message\":\"Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).\",\"contributor\":[\"Justin Arnwine\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-08T07:02:00\"}],\"parent\":[\"ark:/21198/s1x31g\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z1sr0j41\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Kamil 1970\",\"citation\":\"Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970\",\"range\":\"[316], p. 26\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1sr0j41/manifest\",\"label\":\"Natural Light\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1sr0j41%2Fsk625w5s/full/!200,200/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Library Digitization Project, Phase 1\",\"description\":\"Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.\",\"camera_operator\":[\"Vasilis Kasotakis\"],\"imaging_date\":\"2019 July\",\"delivery\":\"5.1\",\"imaging_system\":\"BC100 - 2 cam., 740 ppi, 90mm lens\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z1sr0j41",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1sr0j41%2Fsk625w5s/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1sr0j41/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 262",
+    "207 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "207 ff.",
+  "text_unit_labels_tesim": [
+    "Services and Prayers"
+  ],
+  "origin_date_values_tesim": []
+}

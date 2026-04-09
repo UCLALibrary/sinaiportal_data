@@ -31,55 +31,6 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
-        {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "f. 205v",
-          "lang": [
-            {
-              "id": "arab1395",
-              "label": "Arabic"
-            }
-          ],
-          "as_written": "تمت المائه راس يا رب اغفر للكتاب المسكين خطاياه وخطايا والديه توما المسكين الذي من بلد الزبداني من الكبرى واغفر لمن استكتب ولمن قرأ وقال آمين كان الفراغ من هذا الكتاب المبارك يوم السبت أول شهر أيار سنة ست آلاف وسبعمائة وثمانية وستين وهو برسم القس المكرم أنبا جراسيموس الأنطاكي",
-          "assoc_name": [
-            {
-              "value": "Thomas of Zabadani (Syria)",
-              "as_written": "توما المسكين الذي من بلد الزبداني الكبرى",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            },
-            {
-              "value": "Gerasimus of Antioch",
-              "as_written": "أنبا جراسيموس الأنطاكي",
-              "role": {
-                "id": "overseer",
-                "label": "Overseer"
-              }
-            }
-          ],
-          "assoc_date": [
-            {
-              "value": "1260 CE",
-              "iso": {
-                "not_before": "1260"
-              },
-              "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-              },
-              "note": [
-                "Saturday 1 Ayyar 6768"
-              ]
-            }
-          ]
-        }
       ]
     }
   ],

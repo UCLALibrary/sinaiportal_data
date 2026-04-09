@@ -1,0 +1,343 @@
+{
+    "ark": "ark:/21198/tetst01p1olt1",
+    "reconstruction": false,
+    "label": "Arabic Gospels",
+    "locus": "ff. 1r-180v",
+    "summary": "The four Gospels in Arabic translation",
+    "lang": [
+        {
+            "id": "arab1395",
+            "label": "Arabic"
+        }
+    ],
+    "work_wit": [
+        {
+            "work": {
+                "id": "ark:/21198/s12c7r"
+            },
+            "locus": "ff. 1r-45v",
+            "alt_title": "Al-Injil al-Muqaddas bi-hasab Matta",
+            "as_written": "إنجيل متى المقدس",
+            "excerpt": [
+                {
+                    "type": {
+                        "id": "heading",
+                        "label": "Heading"
+                    },
+                    "locus": "f. 1r",
+                    "as_written": "إنجيل متى الرسول",
+                    "translation": [
+                        "The Gospel of Matthew the Apostle"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "incipit",
+                        "label": "Incipit"
+                    },
+                    "locus": "f. 1r",
+                    "as_written": "بسم الله الرحمن الرحيم كتاب ميلاد يسوع المسيح",
+                    "translation": [
+                        "In the name of God the compassionate, the merciful. The book of the birth of Jesus Christ"
+                    ],
+                    "note": [
+                        "Standard Arabic Christian opening formula precedes the incipit"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "explicit",
+                        "label": "Explicit"
+                    },
+                    "locus": "f. 45v",
+                    "as_written": "وها أنا معكم كل الأيام إلى انقضاء الدهر",
+                    "translation": [
+                        "And lo, I am with you always, even to the end of the age"
+                    ]
+                }
+            ],
+            "contents": [
+                {
+                    "label": "Prologue",
+                    "locus": "f. 1r"
+                },
+                {
+                    "label": "Matthew 1–7",
+                    "work_id": "ark:/21198/s1conttest1",
+                    "locus": "ff. 1v-15r",
+                    "note": [
+                        "Sermon on the Mount begins f. 5r"
+                    ]
+                },
+                {
+                    "label": "Matthew 8–28",
+                    "locus": "ff. 15r-45v"
+                }
+            ],
+            "note": [
+                "Text closely related to Kashouh family 1"
+            ],
+            "bib": [
+                {
+                    "id": "c2a56b48-4bf1-4f64-9408-a8f33e2ad255",
+                    "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                    },
+                    "shortcode": "Kashouh 2012",
+                    "citation": "Kashouh, Hikmat. The Arabic Versions of the Gospels. Berlin: De Gruyter, 2012.",
+                    "range": "pp. 120-135"
+                }
+            ]
+        },
+        {
+            "work": {
+                "id": "ark:/21198/s1630k"
+            },
+            "locus": "ff. 46r-90v",
+            "excerpt": [
+                {
+                    "type": {
+                        "id": "inc-mut",
+                        "label": "First Preserved Line"
+                    },
+                    "locus": "f. 46r",
+                    "as_written": "...ويسوع المسيح ابن الله",
+                    "note": [
+                        "Text begins imperfectly; opening lines missing"
+                    ],
+                    "translation": [
+                        "...and Jesus Christ, the Son of God"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "des-mut",
+                        "label": "Last Preserved Line"
+                    },
+                    "locus": "f. 90v",
+                    "as_written": "وخرجوا وكرزوا في كل مكان...",
+                    "note": [
+                        "Text ends imperfectly; remainder lost"
+                    ],
+                    "translation": [
+                        "And they went out and preached everywhere..."
+                    ]
+                }
+            ],
+            "contents": [
+                {
+                    "label": "Mark 1–8",
+                    "locus": "ff. 46r-68r"
+                },
+                {
+                    "label": "Mark 9–16",
+                    "locus": "ff. 68r-90v"
+                }
+            ],
+            "alt_title": "Injil Marqus",
+            "as_written": "إنجيل مرقس",
+            "note": [
+                "Text begins imperfectly; translator tradition uncertain"
+            ],
+            "bib": [
+                {
+                    "id": "936a1c78-57ce-4456-9631-b64a3f2d6fc0",
+                    "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                    },
+                    "shortcode": "Kashouh 2012",
+                    "citation": "Kashouh, Hikmat. The Arabic Versions of the Gospels. Berlin: De Gruyter, 2012.",
+                    "range": "pp. 145-160"
+                }
+            ]
+        },
+        {
+            "work": {
+                "id": "ark:/21198/s1k88r"
+            },
+            "locus": "ff. 91r-140v",
+            "excerpt": [
+                {
+                    "type": {
+                        "id": "incipit",
+                        "label": "Incipit"
+                    },
+                    "locus": "f. 91r",
+                    "as_written": "إذ كان كثيرون قد أخذوا بتأليف قصة",
+                    "translation": [
+                        "Since many have undertaken to compile a narrative"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "subscription",
+                        "label": "Subscription"
+                    },
+                    "locus": "f. 140v",
+                    "as_written": "تمّ إنجيل لوقا الطبيب",
+                    "translation": [
+                        "The Gospel of Luke the Physician is completed"
+                    ]
+                }
+            ],
+            "alt_title": "Injil Luqa",
+            "as_written": "إنجيل لوقا",
+            "contents": [
+                {
+                    "label": "Luke 1–12",
+                    "locus": "ff. 91r-115v"
+                },
+                {
+                    "label": "Luke 13–24",
+                    "locus": "ff. 115v-140v"
+                }
+            ],
+            "note": [
+                "Translation closely related to Sinai Arabic 72"
+            ],
+            "bib": [
+                {
+                    "id": "3d8ebc51-ff5b-444b-9de5-4280f92f5bfa",
+                    "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                    },
+                    "shortcode": "Kashouh 2012",
+                    "citation": "Kashouh, Hikmat. The Arabic Versions of the Gospels. Berlin: De Gruyter, 2012.",
+                    "range": "pp. 160-175"
+                }
+            ]
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "colophon",
+                    "label": "Colophon"
+                }
+            ],
+            "locus": "f. 180v",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "كتب هذا الإنجيل المبارك في شهر رمضان المعظم على يد الخاطئ يوحنا بن عيسى الكاتب",
+            "translation": [
+                "This blessed Gospel was written in the blessed month of Ramadan by the hand of the sinner Yuhanna ibn Isa al-Katib"
+            ],
+            "assoc_date": [
+                {
+                    "type": {
+                        "id": "origin",
+                        "label": "Origin Date"
+                    },
+                    "value": "10th c. CE",
+                    "iso": {
+                        "not_before": "0901",
+                        "not_after": "1000"
+                    },
+                    "note": [
+                        "Derived from colophon; confirmed by paleographic dating"
+                    ]
+                }
+            ],
+            "assoc_name": [
+                {
+                    "id": "ark:/21198/s1scribe01",
+                    "role": {
+                        "id": "scribe",
+                        "label": "Scribe"
+                    },
+                    "as_written": "يوحنا بن عيسى الكاتب",
+                    "note": [
+                        "Named in the colophon as the copyist"
+                    ]
+                }
+            ],
+            "assoc_place": [
+                {
+                    "id": "ark:/21198/s1place01",
+                    "event": {
+                        "id": "origin",
+                        "label": "Origin Place"
+                    },
+                    "as_written": "القدس الشريف",
+                    "note": [
+                        "Place of production as named in the colophon"
+                    ]
+                }
+            ],
+            "note": [
+                "Colophon partially damaged; final lines illegible"
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "dated",
+            "label": "Dated"
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "contents",
+                "label": "Contents Note"
+            },
+            "value": "Contains Matthew, Mark, and Luke; John appears in a separate, later hand beginning f. 141r"
+        },
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "Text closely related to the translation tradition identified by Kashouh as family 1"
+        }
+    ],
+    "bib": [
+        {
+            "id": "a556d1e8-f1c0-4e35-9ca6-82f2c4f6b45d",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Kashouh 2012",
+            "citation": "Kashouh, Hikmat. The Arabic Versions of the Gospels. Berlin: De Gruyter, 2012.",
+            "range": "pp. 120-145",
+            "note": [
+                "Primary reference for text identification"
+            ]
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst01p1ol"
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Arabic Manuscripts Project",
+                "description": "Described as part of the Sinai Arabic Manuscripts Project (2020-2025)."
+            }
+        ]
+    },
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

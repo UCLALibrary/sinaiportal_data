@@ -1,0 +1,110 @@
+{
+  "ark_ssi": "ark:/21198/z1zx2bzb",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z1jt0ncx"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai Greek NF MG 99"
+  ],
+  "ot_script_ssim": [
+    "Greek majuscule"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Biblical texts"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [
+    "Bible. Corinthians"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai Greek NF MG 99, SPP No. 47",
+  "titles_tesim": [
+    "Bible. Corinthians"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "1 Corinthians",
+    "Bible. Corinthians"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "1 Corinthians",
+    "Bible. Corinthians",
+    "Biblical majuscule",
+    "Greek",
+    "Greek majuscule",
+    "Parchment",
+    "UTO Sinai Greek NF MG 99, SPP No. 47",
+    "ark:/21198/z1zx2bzb",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Guglielmo Cavallo"
+  ],
+  "last_modified_dtsi": "2025-12-15T14:33:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1zx2bzb\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek NF MG 99, SPP No. 47\",\"extent\":\"6 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 4v (col. a), 3r (col. a), 4v (col. b), 3r (col. b), 4r (col. a), 3v (col. a), 4r (col. b), 3v (col. b), 5v (col. a), 2v (col. a), 5v (col. b), 2v (col. b), 5r (col. a), 2r (col. a), 5r (col. b), 2r (col. b), 1v (col. a), 6v (col. a), 1v (col. b), 6v (col. b), 1r (col. a), 6r (col. a), 1r (col. b), 6r (col. b)\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1p633\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1p633\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek NF MG 99, Undertext (Greek majuscule)\",\"locus\":\"ff. 1–6\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Biblical majuscule\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"27 lines, reconstructed (fols. 3r+4v, 3v+4r)\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1b97j\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1b97j\",\"reconstruction\":false,\"label\":\"1 Corinthians\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1901v\",\"pref_title\":\"Bible. Corinthians\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Corinthians\",\"uri\":\"http://viaf.org/viaf/3784154387177630970007\",\"source\":\"VIAF\"}]}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Guglielmo Cavallo\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/s1p633\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Guglielmo Cavallo\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/z1jt0ncx\",\"ark:/21198/z1zx2bzb\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jt0ncx/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1k085wx/902,0,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Guglielmo Cavallo\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1jt0ncx\",\"shelfmark\":\"Sinai Greek NF MG 99\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z1zx2bzb",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1k085wx/902,0,5412,5412/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jt0ncx/manifest",
+  "header_index_tesim": [
+    "UTO Sinai Greek NF MG 99, SPP No. 47",
+    "6 fols."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "6 fols.",
+  "text_unit_labels_tesim": [
+    "1 Corinthians"
+  ],
+  "origin_date_values_tesim": []
+}

@@ -1,0 +1,104 @@
+{
+  "ark_ssi": "ark:/21198/z14m95mw",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Bifolio(s)",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Christian Palestinian Aramaic"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Theological works"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "CPA"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [
+    "Christian Palestinian Aramaic"
+  ],
+  "uto_language_ssim": [
+    "CPA"
+  ],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai CPA NF frag 5",
+  "titles_tesim": [
+    "Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "CPA",
+    "Christian Palestinian Aramaic",
+    "Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body",
+    "Parchment",
+    "Sinai CPA NF frag 5",
+    "Syriac",
+    "ark:/21198/z14m95mw",
+    "black",
+    "sppms"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z14m95mw\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai CPA NF frag 5\",\"extent\":\"4 ff.\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s19c9p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s19c9p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai CPA NF frag 5, Overtext (Christian Palestinian Aramaic)\",\"writing\":[{\"script\":[{\"id\":\"cpa\",\"label\":\"Christian Palestinian Aramaic\",\"writing_system\":\"Syriac\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s13x0x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13x0x\",\"reconstruction\":false,\"label\":\"Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body\",\"lang\":[{\"id\":\"chri1239\",\"label\":\"CPA\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}]}}],\"parent\":[\"ark:/21198/s19c9p\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z14m95mw\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Brock 1995\",\"citation\":\"Brock, Sebastian P. Catalogue of Syriac Fragments (New Finds) in the Library of the Monastery of Saint Catherine, Mount Sinai. Mount Sinai Foundation, 1995\",\"range\":\"p. 82, pl. 387-388\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m95mw/manifest\",\"label\":\"Multispectral Images\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz37hq/1022,0,6132,6132/150,150/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"sppms\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"},\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1dp8b\",\"label\":\"CPA Undertext: Bible. Isaiah\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"uto_ms_ark\":\"ark:/21198/z1v22wrq\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"]},{\"uto_layer_ark\":\"ark:/21198/s18w51\",\"label\":\"CPA Undertext: Bible. Daniel\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 2\",\"uto_ms_ark\":\"ark:/21198/z1kj1dbh\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"]},{\"uto_layer_ark\":\"ark:/21198/s1563f\",\"label\":\"CPA Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1bis, 2bis\",\"uto_ms_ark\":\"ark:/21198/z1q92527\",\"script\":[\"Christian Palestinian Aramaic\"],\"lang\":[\"CPA\"]}]}",
+  "id": "ark:/21198/z14m95mw",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz37hq/1022,0,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m95mw/manifest",
+  "header_index_tesim": [
+    "Sinai CPA NF frag 5",
+    "4 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "4 ff.",
+  "text_unit_labels_tesim": [
+    "Discourse of Mar Gregorios on the hour of death and the separation of the soul from the body"
+  ],
+  "origin_date_values_tesim": []
+}

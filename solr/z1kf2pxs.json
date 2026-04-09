@@ -1,0 +1,111 @@
+{
+  "ark_ssi": "ark:/21198/z1kf2pxs",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z12v3d24"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai Georgian 49"
+  ],
+  "ot_script_ssim": [
+    "Greek majuscule"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Biblical texts",
+    "Gospel books"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [
+    "Bible. John"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai Georgian 49, SPP No. 225",
+  "titles_tesim": [
+    "Bible. John"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Bible. John",
+    "Gospel of John"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Bible. John",
+    "Contrast between thick and thin strokes; decorations at the ends of thin strokes; at the end of the lines there are reduced letters",
+    "Gospel of John",
+    "Greek",
+    "Greek majuscule",
+    "Parchment",
+    "UTO Sinai Georgian 49, SPP No. 225",
+    "ark:/21198/z1kf2pxs",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Pasquale Orsini"
+  ],
+  "last_modified_dtsi": "2025-12-19T16:44:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1kf2pxs\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Georgian 49, SPP No. 225\",\"extent\":\"1 fol.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 42r, 42v\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1m34t\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1m34t\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Georgian 49, Undertext (Greek majuscule)\",\"locus\":\"f. 42\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Contrast between thick and thin strokes; decorations at the ends of thin strokes; at the end of the lines there are reduced letters\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"28 lines, reconstructed\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1839m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1839m\",\"reconstruction\":false,\"label\":\"Gospel of John\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1388d\",\"pref_title\":\"Bible. John\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. John\",\"uri\":\"http://id.loc.gov/authorities/names/n79060414\",\"source\":\"LoC\"},{\"label\":\"Bible. John\",\"uri\":\"https://viaf.org/viaf/57145910123927021804\",\"source\":\"VIAF\"}]}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:44:00\"}],\"parent\":[\"ark:/21198/s1m34t\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:44:00\"}],\"parent\":[\"ark:/21198/z12v3d24\",\"ark:/21198/z1kf2pxs\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12v3d24/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12j7c24/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:44:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z12v3d24\",\"shelfmark\":\"Sinai Georgian 49\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z1kf2pxs",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12j7c24/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12v3d24/manifest",
+  "header_index_tesim": [
+    "UTO Sinai Georgian 49, SPP No. 225",
+    "1 fol."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "1 fol.",
+  "text_unit_labels_tesim": [
+    "Gospel of John"
+  ],
+  "origin_date_values_tesim": []
+}

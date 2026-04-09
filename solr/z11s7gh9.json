@@ -1,0 +1,113 @@
+{
+  "ark_ssi": "ark:/21198/z11s7gh9",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z1kd1z25"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai Arabic NF M 8"
+  ],
+  "ot_script_ssim": [
+    "Greek majuscule"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Biblical texts",
+    "Gospel books"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [
+    "Bible. John"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai Arabic NF M 8, SPP No. 135",
+  "titles_tesim": [
+    "Bible. John"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Bible. John",
+    "Gospel of John"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Bible. John",
+    "Gospel of John",
+    "Greek",
+    "Greek majuscule",
+    "Parchment",
+    "Round biblical majuscule",
+    "UTO Sinai Arabic NF M 8, SPP No. 135",
+    "ark:/21198/z11s7gh9",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Agamemnon Tselikas",
+    "Giulia Rossetto",
+    "Nigel Wilson"
+  ],
+  "last_modified_dtsi": "2025-12-18T14:48:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z11s7gh9\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Arabic NF M 8, SPP No. 135\",\"extent\":\"34 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 102v (col. a), 97r (col. a), 102v (col. b), 97r (col. b), 76r (col. a), 106v (col. a), 76r (col. b), 106v (col. b), 75r (col. a), 76v (col. a), 106r (col. a), 75r (col. b), 76v (col. b), 106r (col. b), 112r, 80r (col. a), 119v, 80r (col. b), 119r, 80v (col. a), 112v, 80v (col. b), 114v, 82v (col. a), 117r, 82v (col. b), 117v, 82r (col. a), 114r, 82r (col. b), 111v, 74r (col. a), 116v, 116r, 111r, 105r, 116v, 110v, 100v, 110r, 103v (col. a), 109v (col. a), 77v, 109v (col. b), 74r, 56r (col. a), 63v (col. a), 56r (col. b), 63v (col. b), 56v (col. a), 63r (col. a), 56v (col. b), 63r (col. b), 78r, 73v, 73r, 76v (col. a), 78v, 76v (col. b), 79v, 104r (col. a), 72r, 104r (col. b), 78v, 104v (col. a), 103v (col. b)+96r (col. a), 96r (col. b), 96v (col. a), 96v (col.b)+103r (col. a) (Rossetto)\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1tw6c\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1tw6c\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Arabic NF M 8, Undertext (Greek majuscule)\",\"locus\":\"ff. 56, 63, 72–80, 82, 96–97, 100, 102–106, 109–112, 114, 116–117, 119\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Round biblical majuscule\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"30 lines, reconstructed (Rossetto)\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1gx0b\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1gx0b\",\"reconstruction\":false,\"label\":\"Gospel of John\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1388d\",\"pref_title\":\"Bible. John\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. John\",\"uri\":\"http://id.loc.gov/authorities/names/n79060414\",\"source\":\"LoC\"},{\"label\":\"Bible. John\",\"uri\":\"https://viaf.org/viaf/57145910123927021804\",\"source\":\"VIAF\"}]}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T14:48:00\"}],\"parent\":[\"ark:/21198/s1tw6c\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T14:48:00\"}],\"parent\":[\"ark:/21198/z1kd1z25\",\"ark:/21198/z11s7gh9\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kd1z25/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q7rws/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T14:48:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1kd1z25\",\"shelfmark\":\"Sinai Arabic NF M 8\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z11s7gh9",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q7rws/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kd1z25/manifest",
+  "header_index_tesim": [
+    "UTO Sinai Arabic NF M 8, SPP No. 135",
+    "34 fols."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "34 fols.",
+  "text_unit_labels_tesim": [
+    "Gospel of John"
+  ],
+  "origin_date_values_tesim": []
+}

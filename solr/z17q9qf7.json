@@ -1,0 +1,115 @@
+{
+  "ark_ssi": "ark:/21198/z17q9qf7",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z1tb24tz"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai Georgian NF M 90"
+  ],
+  "ot_script_ssim": [
+    "Asomtavruli"
+  ],
+  "ot_writing_system_ssim": [
+    "Georgian"
+  ],
+  "ot_genre_ssim": [
+    "Biblical texts",
+    "Gospel books"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Georgian"
+  ],
+  "ot_works_ssim": [
+    "Bible. Matthew"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai Georgian NF M 90, SPP No. 324",
+  "titles_tesim": [
+    "Bible. Matthew",
+    "Khanmeti Gospel of Matthew"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Bible. Matthew",
+    "Khanmeti Gospel of Matthew",
+    "Khanmeti version close to that of ms. Tbilisi A-844 (ed. Kajaia), Protovulgate type"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Asomtavruli",
+    "Bible. Matthew",
+    "Georgian",
+    "Khanmeti Gospel of Matthew",
+    "Khanmeti version close to that of ms. Tbilisi A-844 (ed. Kajaia), Protovulgate type",
+    "Large majuscule",
+    "Parchment",
+    "UTO Sinai Georgian NF M 90, SPP No. 324",
+    "ark:/21198/z17q9qf7",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Bernard Outtier",
+    "Jost Gippert"
+  ],
+  "last_modified_dtsi": "2025-12-15T14:33:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z17q9qf7\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Georgian NF M 90, SPP No. 324\",\"extent\":\"2 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 35r+34v, 36v+37r, 36r+37v, 35v+34r; 32v+33r, 31r+30v, 31v+30r, 32r+33v\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1v929\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1v929\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Georgian NF M 90, Undertext (Asomtavruli)\",\"locus\":\"ff. 30–37\",\"writing\":[{\"script\":[{\"id\":\"asomtavruli\",\"label\":\"Asomtavruli\",\"writing_system\":\"Georgian\"}],\"note\":[\"Large majuscule\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"23 lines, uncertain\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1h98g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1h98g\",\"reconstruction\":false,\"label\":\"Khanmeti Gospel of Matthew\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s12c7r\",\"pref_title\":\"Bible. Matthew\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Matthew\",\"uri\":\"http://id.loc.gov/authorities/names/n79056834\",\"source\":\"LoC\"},{\"label\":\"Bible. Matthew\",\"uri\":\"https://viaf.org/viaf/188427863\",\"source\":\"VIAF\"}]},\"alt_title\":\"Khanmeti Gospel of Matthew\",\"note\":[\"Khanmeti version close to that of ms. Tbilisi A-844 (ed. Kajaia), Protovulgate type\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Jost Gippert\",\"Bernard Outtier\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/s1v929\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Jost Gippert\",\"Bernard Outtier\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/z1tb24tz\",\"ark:/21198/z17q9qf7\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1tb24tz/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1mg8qqf/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Jost Gippert\",\"Bernard Outtier\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1tb24tz\",\"shelfmark\":\"Sinai Georgian NF M 90\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z17q9qf7",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1mg8qqf/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1tb24tz/manifest",
+  "header_index_tesim": [
+    "UTO Sinai Georgian NF M 90, SPP No. 324",
+    "2 fols."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "2 fols.",
+  "text_unit_labels_tesim": [
+    "Khanmeti Gospel of Matthew"
+  ],
+  "origin_date_values_tesim": []
+}

@@ -1,29 +1,33 @@
 {
-    "ark": "ark:/21198/s14x3c",
-    "pref_title": "Lives of the Prophets (Epiphanius)",
-    "alt_title": [],
-    "genre": [
-        "Hagiographies"
-    ],
-    "creator": [
-        {
-            "id": "\"Epiphanius, Saint, Bishop of Constantia in Cyprus, approximately 310-403\"",
-            "role": "author"
-        }
-    ],
-    "rel_con": [
-        {
-            "label": "De prophetarum uita et obitu",
-            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3674/",
-            "source": "Pinakes"
-        }
-    ],
-    "refno": [
-        {
-            "label": "De prophetarum uita et obitu (recensio prior)",
-            "idno": "3777",
-            "source": "CPG"
-        }
-    ],
-    "bib": []
+  "ark": "ark:/21198/s14x3c",
+  "pref_title": "Lives of the Prophets (Epiphanius)",
+  "genre": [
+    {
+      "id": "hagiographies",
+      "label": "Hagiographies"
+    }
+  ],
+  "creator": [
+    {
+      "id": "ark:/21198/s1qg69",
+      "role": {
+        "id": "author",
+        "label": "Author"
+      }
+    }
+  ],
+  "rel_con": [
+    {
+      "label": "De prophetarum uita et obitu",
+      "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/3674/",
+      "source": "Pinakes"
+    }
+  ],
+  "refno": [
+    {
+      "label": "De prophetarum uita et obitu (recensio prior)",
+      "idno": "3777",
+      "source": "CPG"
+    }
+  ]
 }

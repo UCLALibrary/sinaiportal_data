@@ -1,0 +1,117 @@
+{
+  "ark_ssi": "ark:/21198/z1f874j5",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [
+    "John Chrysostom, Saint, -407"
+  ],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z11n8grf"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai Greek 699"
+  ],
+  "ot_script_ssim": [
+    "Greek majuscule"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Sermons",
+    "Theological works"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai Greek 699, SPP No. 224",
+  "titles_tesim": [
+    "Unidentified text, possibly of John Chrysostom"
+  ],
+  "names_tesim": [
+    "John Chrysostom, Saint, -407"
+  ],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Possibly a text of John Chrysostom, but the condition of the folios does not allow a precise identification",
+    "Unidentified text",
+    "Unidentified text, possibly of John Chrysostom"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Greek",
+    "Greek majuscule",
+    "John Chrysostom, Saint, -407",
+    "Parchment",
+    "Possibly a text of John Chrysostom, but the condition of the folios does not allow a precise identification",
+    "Sloping pointed majuscule",
+    "UTO Sinai Greek 699, SPP No. 224",
+    "Unidentified text",
+    "Unidentified text, possibly of John Chrysostom",
+    "ark:/21198/z1f874j5",
+    "author",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Pasquale Orsini"
+  ],
+  "last_modified_dtsi": "2025-12-19T16:44:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1f874j5\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 699, SPP No. 224\",\"extent\":\"4 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"ff. 51, stub+53, 53, 55\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1r92c\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1r92c\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 699, Undertext (Greek majuscule)\",\"locus\":\"ff. 51, stub+53, 53, 55\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Sloping pointed majuscule\"]}],\"layout\":[{\"columns\":\"1 columns\",\"lines\":\"24 lines\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1d98j\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1d98j\",\"reconstruction\":false,\"label\":\"Unidentified text\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Unidentified text, possibly of John Chrysostom\",\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom, Saint, -407\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"d. 407\",\"iso\":{\"not_before\":\"0407\"}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}],\"note\":[\"author\"]}}],\"genre\":[{\"id\":\"sermons\",\"label\":\"Sermons\"},{\"id\":\"theological-works\",\"label\":\"Theological works\"}]},\"note\":[\"Possibly a text of John Chrysostom, but the condition of the folios does not allow a precise identification\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:44:00\"}],\"parent\":[\"ark:/21198/s1r92c\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:44:00\"}],\"parent\":[\"ark:/21198/z11n8grf\",\"ark:/21198/z1f874j5\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8grf/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19w0z1p/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:44:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z11n8grf\",\"shelfmark\":\"Sinai Greek 699\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z1f874j5",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19w0z1p/0,902,5412,5412/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8grf/manifest",
+  "header_index_tesim": [
+    "UTO Sinai Greek 699, SPP No. 224",
+    "4 fols."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "4 fols.",
+  "text_unit_labels_tesim": [
+    "Unidentified text"
+  ],
+  "origin_date_values_tesim": []
+}

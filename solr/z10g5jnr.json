@@ -1,0 +1,115 @@
+{
+  "ark_ssi": "ark:/21198/z10g5jnr",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Quire(s)",
+  "features_ssim": [],
+  "support_ssim": [
+    "Paper"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [
+    "John Chrysostom, Saint, -407"
+  ],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Library Digitization Project, Phase 1"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Greek minuscule",
+    "Melkite"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek",
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Liturgical texts"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek",
+    "Syriac"
+  ],
+  "ot_works_ssim": [
+    "Anaphora of St. John Chrysostom"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Syriac NF X 11",
+  "titles_tesim": [
+    "Anaphora of St. John Chrysostom",
+    "Fragment of a bilingual anaphora of the Byzantine liturgy by Saint John Chrysostom"
+  ],
+  "names_tesim": [
+    "John Chrysostom, Saint, -407"
+  ],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Anaphora of St. John Chrysostom",
+    "Fragment of a bilingual anaphora of the Byzantine liturgy by Saint John Chrysostom"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "8.1",
+    "Anaphora of St. John Chrysostom",
+    "Bilingual Syriac and Greek",
+    "Fragment of a bilingual anaphora of the Byzantine liturgy by Saint John Chrysostom",
+    "Greek",
+    "Greek minuscule",
+    "John Chrysostom, Saint, -407",
+    "Melkite",
+    "Paper",
+    "Sinai Syriac NF X 11",
+    "Syriac",
+    "ark:/21198/z10g5jnr",
+    "author"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z10g5jnr\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF X 11\",\"extent\":\"8 ff.\",\"weight\":\"24.5 g\",\"dim\":\"176 x 132 x 5.0 mm\",\"state\":{\"id\":\"quire\",\"label\":\"Quire(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1x92x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1x92x\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF X 11, Overtext (Melkite, Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"melkite\",\"label\":\"Melkite\",\"writing_system\":\"Syriac\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Bilingual Syriac and Greek\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1vm2d\",\"label\":\"Item 1\",\"locus\":\"ff. 1r-8v\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1vm2d\",\"reconstruction\":false,\"label\":\"Anaphora of St. John Chrysostom\",\"locus\":\"ff. 1r-8v\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1r59n\",\"pref_title\":\"Anaphora of St. John Chrysostom\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}],\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom, Saint, -407\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"d. 407\",\"iso\":{\"not_before\":\"0407\"}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}],\"note\":[\"author\"]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}]},\"alt_title\":\"Fragment of a bilingual anaphora of the Byzantine liturgy by Saint John Chrysostom\",\"locus\":\"ff. 1r-8v\"}],\"parent\":[\"ark:/21198/s1x92x\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z10g5jnr\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"220eeb5e-ef2f-4ddd-96e5-47e2220aa409\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Philothée 2008\",\"citation\":\"Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008\",\"range\":\"[X11N], pp. 133-137\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10g5jnr/manifest\",\"label\":\"Natural Light\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10g5jnr%2Fcm80d503/full/!200,200/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Library Digitization Project, Phase 1\",\"description\":\"Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.\",\"camera_operator\":[\"Vasilis Kasotakis\"],\"imaging_date\":\"2020 April\",\"delivery\":\"8.1\",\"condition_category\":\"1\",\"imaging_system\":\"BC100 - 2 cam., 740 ppi, 90mm lens\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z10g5jnr",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10g5jnr%2Fcm80d503/full/!200,200/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10g5jnr/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac NF X 11",
+    "8 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "8 ff.",
+  "text_unit_labels_tesim": [
+    "Anaphora of St. John Chrysostom"
+  ],
+  "origin_date_values_tesim": []
+}

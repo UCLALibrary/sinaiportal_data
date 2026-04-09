@@ -31,32 +31,25 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "locus": "f. 198r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "198r",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܟܬܒܐ ܗܢܐ ܡܝܢܐܘܢ ܝܪܚ ܬ̄ܫܪ: ܐ̄: ܐܝܟ ܕܠܗ ܕܪܐ ܘܩܘܠܣܐ ܘܫ̄ܘ ܕܬܠܝܬܝܘ: ܩܕ̄ܝܫ: ܘܫܘܝܬ̤: ܒܐܘܣܝܐ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ ܕܩ̄ܘܕ: ܚܕ ܐܠܗܐ ܐܚܝܕ ܟܠ: ܒܐ̈ܝܕܝ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪ: ܡܢ ܟܠܗܘܢ ܒܢܝܢ̈ܫܐ ܕܠܐ ܫ̇ܘܐ ܕܢܬܩܪܐ ܐܚܪܝܐ ܒܫܡܐ ܘܠܐ ܒܥܒ̈ܕܐ: ܕܫܡܗ ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ ܡܢ ܩܪܝܬܐ ܚܛܪܬ̤ ܒܐܠܗܐ: ܪܘܡܢܐ ܡܢ ܓܘܒܬ̤ܐ ܕܙܒܕܝܬܐ ܐܠܦ̈ܢܝܗ ܕܝܘܡܐ: ܝܘܡ: ܒ̄: ܒ̄ܫ ܒ̄ܟܚ: ܒܐܒ: ܝܪܚܐ: ܫܢܬ̤ ܐܠܦ̈: ܘ̄ܗ: ܡ̈ܐܐ ܘܣ̄ܒ: ܡܢ ܡ̈ܢܝܢܐ ܕܐܠܟܣܢܕܪܘܣ ܒܪ ܦܝܠܝܦܘܣ ܡܩܕܘܢܝܐ",
-          "assoc_name": [
-            {
-              "value": "Shem'un bar Petros",
-              "as_written": "ܫܡܥܘܢ ܒܪ ܦܛܪܘܣ",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "بسم الله الحي الازلي / الله يرحم من اهتم وعنا وكتب وقرا",
+      "translation": [
+        "In the name of the living eternal God / May God have mercy on [those] who commissioned, took the efforts, copied, and read"
       ]
     }
   ],

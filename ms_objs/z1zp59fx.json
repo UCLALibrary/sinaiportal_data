@@ -31,100 +31,100 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 277r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "وكانت نهار تاريخ هذا المسطور أحد السامرية تاسع يوم مضى من شهر ايار مبارك اخدنا موهبة الشموسية من يد ابينا ومعلّمنا السيد المطران كير ماكاريوس الجليل قدرة الشريف محلة مجمل كرسي مدينة بيروت المحروسة 7188 سنة لآدم",
+      "assoc_name": [
+        {
+          "value": "Kyr Makarios Metropolitan of Beirut",
+          "as_written": "السيد المطران كير ماكاريوس الجليل قدرة الشريف",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1680 CE",
+          "iso": {
+            "not_before": "1680"
           },
-          "locus": "f. 277r",
-          "lang": [
-            {
-              "id": "arab1395",
-              "label": "Arabic"
-            }
-          ],
-          "as_written": "وكانت نهار تاريخ هذا المسطور أحد السامرية تاسع يوم مضى من شهر ايار مبارك اخدنا موهبة الشموسية من يد ابينا ومعلّمنا السيد المطران كير ماكاريوس الجليل قدرة الشريف محلة مجمل كرسي مدينة بيروت المحروسة 7188 سنة لآدم",
-          "assoc_name": [
-            {
-              "value": "Kyr Makarios Metropolitan of Beirut",
-              "as_written": "السيد المطران كير ماكاريوس الجليل قدرة الشريف",
-              "role": {
-                "id": "donor",
-                "label": "Donor"
-              }
-            }
-          ],
-          "assoc_date": [
-            {
-              "value": "1680 CE",
-              "iso": {
-                "not_before": "1680"
-              },
-              "type": {
-                "id": "gift",
-                "label": "Date of gift"
-              },
-              "note": [
-                "Gift date: 7188 (adam)"
-              ]
-            }
+          "type": {
+            "id": "gift",
+            "label": "Date of gift"
+          },
+          "note": [
+            "Gift date: 7188 (adam)"
           ]
+        }
+      ]
+    },
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 277r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "دخل هذا الارولوجيون المبارك في ملكية الخوري امفروسيوس الجلى اقلوم طور سيناء وأنه اشتراه بمال لنفسه من أولاد خوري الياس ابن سندروس على يد الخوري يوسف ابن الغرير وذلك في اواخر شهر اب ألف وسبع مائه واتنين للتجسد الإلهي",
+      "assoc_name": [
+        {
+          "value": "Father Ambrosius al-Jali of Mount Sinai",
+          "as_written": "الخوري امفروسيوس الجلى",
+          "role": {
+            "id": "owner",
+            "label": "Owner"
+          }
         },
         {
-          "type": {
-            "id": "history",
-            "label": "History"
+          "value": "Sons of Father Elias Ibn Sanrus",
+          "as_written": "أولاد خوري الياس ابن سندروس",
+          "role": {
+            "id": "previous-owner",
+            "label": "Previous owner"
+          }
+        },
+        {
+          "value": "Father Joseph Ibn al-Gharir",
+          "as_written": "الخوري يوسف ابن الغرير",
+          "role": {
+            "id": "witness",
+            "label": "Witness"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1702 CE",
+          "iso": {
+            "not_before": "1702"
           },
-          "locus": "f. 277r",
-          "lang": [
-            {
-              "id": "arab1395",
-              "label": "Arabic"
-            }
-          ],
-          "as_written": "دخل هذا الارولوجيون المبارك في ملكية الخوري امفروسيوس الجلى اقلوم طور سيناء وأنه اشتراه بمال لنفسه من أولاد خوري الياس ابن سندروس على يد الخوري يوسف ابن الغرير وذلك في اواخر شهر اب ألف وسبع مائه واتنين للتجسد الإلهي",
-          "assoc_name": [
-            {
-              "value": "Father Ambrosius al-Jali of Mount Sinai",
-              "as_written": "الخوري امفروسيوس الجلى",
-              "role": {
-                "id": "owner",
-                "label": "Owner"
-              }
-            },
-            {
-              "value": "Sons of Father Elias Ibn Sanrus",
-              "as_written": "أولاد خوري الياس ابن سندروس",
-              "role": {
-                "id": "previous-owner",
-                "label": "Previous owner"
-              }
-            },
-            {
-              "value": "Father Joseph Ibn al-Gharir",
-              "as_written": "الخوري يوسف ابن الغرير",
-              "role": {
-                "id": "witness",
-                "label": "Witness"
-              }
-            }
-          ],
-          "assoc_date": [
-            {
-              "value": "1702 CE",
-              "iso": {
-                "not_before": "1702"
-              },
-              "type": {
-                "id": "purchase",
-                "label": "Purchase date"
-              },
-              "note": [
-                "Purchased by Father Ambrosius al-Jali of Mount Sinai from Sons of Father Elias Ibn Sanrus, with the sale mediated by Father Joseph Ibn al-Gharir, Ab 1702 (incarnation)"
-              ]
-            }
+          "type": {
+            "id": "purchase",
+            "label": "Purchase date"
+          },
+          "note": [
+            "Purchased by Father Ambrosius al-Jali of Mount Sinai from Sons of Father Elias Ibn Sanrus, with the sale mediated by Father Joseph Ibn al-Gharir, Ab 1702 (incarnation)"
           ]
         }
       ]

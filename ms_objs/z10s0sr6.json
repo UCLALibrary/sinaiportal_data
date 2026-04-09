@@ -31,32 +31,59 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 4r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "308v-309r",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܫܩܠ ܕܝܢ ܣܟܐ ܘܫܘܡܠܝܐ ܐܛܪܝܘܕܝܢ: ܝܘܡ ܥܪܒܬܐ ܘ̄ ܒܐܝܪܝܪܚܐ: ܫܢܐ ܠܐܒܘܢ ܐܕܡ ܐܬܟܬܒ ܕܝܢ ܟܬܒܐ ܗ̇ܢܐ ܒܕܝܪܐ ܩܕܝܫܐ ܕܛܘܪ ܣܝܢܝ ܠܥܕܬܐ ܩܕܝܫܬܐ ܕܡܪܬܢ ܝܠܕܬ ܐܠܗܐ ܠܐܚ̈ܐ ܣܘܪ̈ܝܐܝܐ ܕܒܕܝܪܐ ܗ̇ܢܐ ܒܐܕܝܝ ܕܝܢ ܐܢܫ ܚܛܝܐ ܘܒܨܝܪܐ ܕܠܐܫ̇ܘܐ ܕܢܬܩܪܐ ܒܕܪܓܐ ܕܟܗܢܘܬܐ: ܫܡܗ ܫܡܥܘܢ ܒܪ ܝܘܣܦ ܡܪܝܐ ܐܠܗܐ ܠܥܒܕܟ ܦܘܠܘܣ ܚܒܝܫܐ ܕܝܨܦ ܒܗ̣ ܘܐܢܝܚ ܠܐܒܗܘܗܝ ܘܠܐܚܘܗܝ ܠܗ ܥܡ ܟܠܗܘܢ ܩܕܝܫ̈ܝܟ ܐܡܝܢ",
-          "assoc_name": [
-            {
-              "value": "Shem'un bar Yosef",
-              "as_written": "ܫܡܥܘܢ ܒܪ ܝܘܣܦ",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "هذا الاتريوذي وقف على طور سينا فاي من اخرجه منه يكون تحت المنع / وكتبت انا جرمانوس اسقف طور سينا المقدس",
+      "translation": [
+        "This Triodion is endowed to Mount Sinai. Whoever take it out from it will be under prohibition. I Jirmānūs the bishop of the Holy Mount of Sinai wrote this [statement]"
+      ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "locus": "f. 308v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "يا اخوه اطلب اليكم ان وجدتم به غلط او نقص تمموه / واغفروا لكاتبه وسامحوه واصفحوا له",
+      "translation": [
+        "Brothers, I beg you to [correct] any mistake, and complete any shortage that you find [in the book] / And forgive its scribe"
+      ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "locus": "f. 309v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "بسم الله الحي الازلي يا رب ارحم عبدك / الخاطي المسكين الذي اجمع هذا الكتاب / الله يرحم من ترحم عليه بشفاعه / السيده ام المنور وجميع القديسين امين",
+      "translation": [
+        "In the name of the living eternal God. Lord, have mercy on your pitiful sinner servant who bound this book. / May God have mercy on whoever ask for mercy on him (the binder) with the intercession of the Lady, mother of light, and all saints. Amen!"
       ]
     }
   ],

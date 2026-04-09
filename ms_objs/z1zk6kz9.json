@@ -31,65 +31,6 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
-        {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "ff. 253v-backboard inside",
-          "lang": [
-            {
-              "id": "arab1395",
-              "label": "Arabic"
-            }
-          ],
-          "as_written": "كٌتب هذا الدفتر في قلاية المطرنه بمدينة بُصرى على ايام الأب الفاضل أنبا ابرام سكنا الله صلواته ورزقه الاخره الصالحه وكان كمال نسخة في يوم السبت ثالث تشرين الأول الحادي في سنة ست آلاف وستمائه واحد وخمسين لأبينا آدم وسنة سبع وثلثين وخمسمائه الهجرة الاسلامية / كتبه الخاطئ  الحقير يوحنا مطران بعلبك وهو يسأل بالمحبة لكل من يقرأ فيه ان يصلى عليه ومثل ما يصلى يكون له آمين آمين",
-          "assoc_name": [
-            {
-              "value": "Father Abram",
-              "as_written": "أنبا ابرام",
-              "role": {
-                "id": "overseer",
-                "label": "Overseer"
-              }
-            },
-            {
-              "value": "John, Metropolitan of Baalbek",
-              "as_written": "يوحنا مطران بعلبك",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ],
-          "assoc_place": [
-            {
-              "value": "Bostra (Syria)",
-              "as_written": "في قلاية المطرنه بمدينة بُصرى",
-              "event": {
-                "id": "origin",
-                "label": "Place of origin"
-              }
-            }
-          ],
-          "assoc_date": [
-            {
-              "value": "1142 CE",
-              "iso": {
-                "not_before": "1142"
-              },
-              "type": {
-                "id": "origin",
-                "label": "Date of Origin"
-              },
-              "note": [
-                "Saturday 3 Tishrin I  6651 (adam) :: 537 (hijra)"
-              ]
-            }
-          ]
-        }
       ]
     }
   ],

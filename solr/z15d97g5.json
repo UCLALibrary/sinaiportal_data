@@ -1,0 +1,107 @@
+{
+  "ark_ssi": "ark:/21198/z15d97g5",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Bifolio(s)",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Undetermined (Georgian)"
+  ],
+  "ot_writing_system_ssim": [
+    "Georgian"
+  ],
+  "ot_genre_ssim": [],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Georgian"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [
+    "Greek minuscule"
+  ],
+  "uto_language_ssim": [
+    "Greek"
+  ],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Georgian NF frag 72a",
+  "titles_tesim": [
+    "Unidentified text"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Unidentified",
+    "Unidentified text"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Based on size of bifolios, texture and color of parchment, and appearance of overtext; but whereas the undertext of Georgian NF M 59 is Armenian, the undertext of this bifolio is Greek",
+    "Disjecta Membra",
+    "Georgian",
+    "Parchment",
+    "Possible additional bifolio of Georgian NF M 59",
+    "Sinai Georgian NF M 59",
+    "Sinai Georgian NF frag 72a",
+    "Undetermined (Georgian)",
+    "Unidentified",
+    "Unidentified text",
+    "ark:/21198/z15d97g5",
+    "black",
+    "sppms"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z15d97g5\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Georgian NF frag 72a\",\"extent\":\"2 ff.\",\"dim\":\"112 x 91 mm\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"112 x 91 mm (representative folio)\",\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Possible additional bifolio of Georgian NF M 59\",\"note\":[\"Based on size of bifolios, texture and color of parchment, and appearance of overtext; but whereas the undertext of Georgian NF M 59 is Armenian, the undertext of this bifolio is Greek\"],\"mss\":[{\"label\":\"Sinai Georgian NF M 59\",\"id\":\"ark:/21198/z18d059m\"}]}],\"ot_layer\":[{\"id\":\"ark:/21198/s1w33x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1w33x\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Georgian NF frag 72a, Overtext (Undetermined (Georgian))\",\"writing\":[{\"script\":[{\"id\":\"georgian-undetermined\",\"label\":\"Undetermined (Georgian)\",\"writing_system\":\"Georgian\"}]}],\"ink\":[{\"color\":[\"black\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1pq1h\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1pq1h\",\"reconstruction\":false,\"label\":\"Unidentified\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Unidentified text\"}}],\"parent\":[\"ark:/21198/s1w33x\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z15d97g5\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15d97g5/manifest\",\"label\":\"Multispectral Images\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk5zcv/1022,0,6132,6132/150,150/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"sppms\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"},\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s12s88\",\"label\":\"Greek Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–2\",\"uto_ms_ark\":\"ark:/21198/z1bs9j56\",\"script\":[\"Greek minuscule\"],\"lang\":[\"Greek\"]}]}",
+  "id": "ark:/21198/z15d97g5",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1zk5zcv/1022,0,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15d97g5/manifest",
+  "header_index_tesim": [
+    "Sinai Georgian NF frag 72a",
+    "2 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "2 ff.",
+  "text_unit_labels_tesim": [
+    "Unidentified"
+  ],
+  "origin_date_values_tesim": []
+}

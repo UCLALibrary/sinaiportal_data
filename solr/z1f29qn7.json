@@ -1,0 +1,119 @@
+{
+  "ark_ssi": "ark:/21198/z1f29qn7",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [
+    "Antiochus, monk of Palestine, active 7th century"
+  ],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z1862z2p"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai Greek NF MG 2"
+  ],
+  "ot_script_ssim": [
+    "Greek majuscule"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Ascetica",
+    "Theological works"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [
+    "Pandektēs (Antiochus of Palestine)"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai Greek NF MG 2, SPP No. 348",
+  "titles_tesim": [
+    "Pandectes Scripturae Sacrae",
+    "Pandektēs (Antiochus of Palestine)"
+  ],
+  "names_tesim": [
+    "Antiochus, monk of Palestine, active 7th century"
+  ],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Pandectes Scripturae Sacrae",
+    "Pandektēs (Antiochus of Palestine)",
+    "Text differs in some places from that published in PG 89"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Antiochus, monk of Palestine, active 7th century",
+    "Greek",
+    "Greek majuscule",
+    "Pandectes Scripturae Sacrae",
+    "Pandektēs (Antiochus of Palestine)",
+    "Parchment",
+    "Sloping pointed majuscule | Similar to  Sin. gr. 210 (861/862 AD)",
+    "Text differs in some places from that published in PG 89",
+    "UTO Sinai Greek NF MG 2, SPP No. 348",
+    "ark:/21198/z1f29qn7",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Pasquale Orsini"
+  ],
+  "last_modified_dtsi": "2025-12-19T16:44:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1f29qn7\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek NF MG 2, SPP No. 348\",\"extent\":\"6 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"ff. 87, 90, 94–95, 98–99, 103, 107\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s10p90\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s10p90\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek NF MG 2, Undertext (Greek majuscule)\",\"locus\":\"ff. 87, 90, 94–95, 98–99, 103, 107\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Sloping pointed majuscule | Similar to  Sin. gr. 210 (861/862 AD)\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1nq4b\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1nq4b\",\"reconstruction\":false,\"label\":\"Pandectes Scripturae Sacrae\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1gp4f\",\"pref_title\":\"Pandektēs (Antiochus of Palestine)\",\"orig_lang\":{\"id\":\"gree1276\",\"label\":\"Greek\"},\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"ascetica\",\"label\":\"Ascetica\"}],\"creator\":[{\"id\":\"ark:/21198/s1kw2p\",\"agent_record\":{\"ark\":\"ark:/21198/s1kw2p\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Antiochus, monk of Palestine, active 7th century\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"7th Century\",\"iso\":{\"not_before\":\"0601\",\"not_after\":\"0700\"}},\"rel_con\":[{\"label\":\"Antiochus active 7th century monk of Palestine\",\"uri\":\"http://viaf.org/viaf/89050745\",\"source\":\"VIAF\"},{\"label\":\"Antiochus, monk of Palestine, active 7th century\",\"uri\":\"http://id.loc.gov/authorities/names/no2005084640\",\"source\":\"LoC\"},{\"label\":\"Antiochus, monk of Palestine, active 7th century\",\"uri\":\"https://haf.vhmml.org/person/329286221270\",\"source\":\"HAF\"},{\"label\":\"Antiochus monachus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/234/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"Antiochus monachus Pandecte de la Sainte Écriture\",\"uri\":\"http://viaf.org/viaf/292613749\",\"source\":\"VIAF\"}]},\"alt_title\":\"Pandectes Scripturae Sacrae\",\"note\":[\"Text differs in some places from that published in PG 89\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:44:00\"}],\"parent\":[\"ark:/21198/s10p90\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:44:00\"}],\"parent\":[\"ark:/21198/z1862z2p\",\"ark:/21198/z1f29qn7\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1862z2p/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1d8007h/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:44:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1862z2p\",\"shelfmark\":\"Sinai Greek NF MG 2\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z1f29qn7",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1d8007h/0,902,5412,5412/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1862z2p/manifest",
+  "header_index_tesim": [
+    "UTO Sinai Greek NF MG 2, SPP No. 348",
+    "6 fols."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "6 fols.",
+  "text_unit_labels_tesim": [
+    "Pandectes Scripturae Sacrae"
+  ],
+  "origin_date_values_tesim": []
+}

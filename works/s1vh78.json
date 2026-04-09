@@ -1,23 +1,26 @@
 {
-    "ark": "ark:/21198/s1vh78",
-    "pref_title": "On the Monastic Life",
-    "alt_title": [],
-    "genre": [
-        "Ascetica"
-    ],
-    "creator": [
-        {
-            "id": "\"Nilus, of Ancyra, Saint, -approximately 430\"",
-            "role": "author"
-        }
-    ],
-    "rel_con": [],
-    "refno": [
-        {
-            "label": "De uita monastica",
-            "idno": "6060",
-            "source": "CPG"
-        }
-    ],
-    "bib": []
+  "ark": "ark:/21198/s1vh78",
+  "pref_title": "On the Monastic Life",
+  "genre": [
+    {
+      "id": "ascetica",
+      "label": "Ascetica"
+    }
+  ],
+  "creator": [
+    {
+      "id": "ark:/21198/s1kk5q",
+      "role": {
+        "id": "author",
+        "label": "Author"
+      }
+    }
+  ],
+  "refno": [
+    {
+      "label": "De uita monastica",
+      "idno": "6060",
+      "source": "CPG"
+    }
+  ]
 }

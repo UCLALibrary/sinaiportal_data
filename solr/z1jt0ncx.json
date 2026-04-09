@@ -1,0 +1,111 @@
+{
+  "ark_ssi": "ark:/21198/z1jt0ncx",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Folio(s)",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Greek majuscule",
+    "Greek minuscule"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Hymnals",
+    "Liturgical texts"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [
+    "Greek majuscule",
+    "Undetermined"
+  ],
+  "uto_language_ssim": [
+    "Greek",
+    "Undetermined"
+  ],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Greek NF MG 99",
+  "titles_tesim": [
+    "Liturgical canons and troparia ; Funeral stichera",
+    "Troparion and Sticherarion"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Liturgical canons and troparia ; Funeral stichera",
+    "Troparion and Sticherarion"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Greek",
+    "Greek majuscule",
+    "Greek minuscule",
+    "Liturgical canons and troparia ; Funeral stichera",
+    "Mixed script",
+    "Parchment",
+    "Sinai Greek NF MG 99",
+    "Troparion and Sticherarion",
+    "ark:/21198/z1jt0ncx",
+    "sppms"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1jt0ncx\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Greek NF MG 99\",\"extent\":\"6 ff. + 5 fragments\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"148 x 100 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s1gs5v\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1gs5v\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Greek NF MG 99, Overtext (Greek majuscule, Greek minuscule)\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Mixed script\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1995g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1995g\",\"reconstruction\":false,\"label\":\"Troparion and Sticherarion\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Troparion and Sticherarion\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"alt_title\":\"Liturgical canons and troparia ; Funeral stichera\"}],\"parent\":[\"ark:/21198/s1gs5v\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z1jt0ncx\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Greek New Finds\",\"citation\":\"Nikolopoulos, P. G. Τα νέα ευρήματα του Σινά (Athens, 1998). English translation: A. Hatzopoulos, The New Finds of Sinai (Athens, 1999)\",\"range\":\"p. 157, pl. 108 \"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jt0ncx/manifest\",\"label\":\"Multispectral Images\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1k085wx/902,0,5412,5412/150,150/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"sppms\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"},\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1p633\",\"label\":\"Greek Undertext: Colossians\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–6\",\"uto_ms_ark\":\"ark:/21198/z1zx2bzb\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]},{\"uto_layer_ark\":\"ark:/21198/s1xp80\",\"label\":\"Undertext: Unidentified text\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"frg-1r, frg-1v\",\"uto_ms_ark\":\"ark:/21198/z1v51m6w\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]},{\"uto_layer_ark\":\"ark:/21198/s1jh16\",\"label\":\"Greek Undertext: Bible. Corinthians\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"frg-2r, frg-2v, frg-3r, frg-3v\",\"uto_ms_ark\":\"ark:/21198/z13p2vfn\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]},{\"uto_layer_ark\":\"ark:/21198/s1ds70\",\"label\":\"Greek Undertext: Philippians\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"frg-4r, frg-4v\",\"uto_ms_ark\":\"ark:/21198/z1c35ngc\",\"script\":[\"Greek majuscule\"],\"lang\":[\"Greek\"]},{\"uto_layer_ark\":\"ark:/21198/s1t06d\",\"label\":\"Greek Undertext: Bible. Romans\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"frg-5r, frg-5v, frg-6r, frg-6v\",\"uto_ms_ark\":\"ark:/21198/z17f3m5c\",\"script\":[\"Undetermined\"],\"lang\":[\"Undetermined\"]}]}",
+  "id": "ark:/21198/z1jt0ncx",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1k085wx/902,0,5412,5412/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jt0ncx/manifest",
+  "header_index_tesim": [
+    "Sinai Greek NF MG 99",
+    "6 ff. + 5 fragments"
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "6 ff. + 5 fragments",
+  "text_unit_labels_tesim": [
+    "Troparion and Sticherarion"
+  ],
+  "origin_date_values_tesim": []
+}

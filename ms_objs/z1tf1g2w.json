@@ -31,25 +31,25 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 257v",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "257r",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܐܚ̈ܝ ܨ̈ܠܘ ܥܠ ܚܛܝܐ ܕܣܪܛ ܡܛܠ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܢܬܚܢܢ ܥܠܘܗܝ ܒܝܘܡܐ ܕܕܝܢܐ ܒܨܠܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩ̈ܕܝܫܐ ܐܡܝܢ܀ ܀ ܟܬܒܗ ܚܛܝܐ ܕܠܐ ܫܘܐ ܕܢܬܟܬܒ ܫܡܗ̣ ܒܟܬܒܐ ܗܢܐ܀ ܟܬܒܗ ܟܛܘܪ ܣܝܢܣ ܒܕܝܪܐ ܡܩܕܫܐ ܫܢܬ ܫ̈ܬ ܐܠܦ ܘܫܒ̈ܥ ܡ̈ܐܐ ܘܐܪ̈ܒܥܝܢ ܘܒ̄[ ] ܠܐܒܘܢ ܐܕܡ ܡ̣ܢ ܩܪܝܬܐ ܢܛܝܪܐ ܡ̣ܢ ܐܠܗܐ ܢܣܐ ܠܗܘܢ ܚܘܒܝܗܘܢ ܒܨܢܘܬܐ ܕܝܠܕܬ ܐܠܗܐ ܦܕ ܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ",
-          "note": [
-            "Attested places:  from Ma`lula, Sinai"
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "اقول وانا جرمانوس اسقف طور سينا ان هذا الكتاب / وقف على طور سينا فمن اخرجه منه يكون محروم",
+      "translation": [
+        "I, Jirmānūs the bishop of Mount Sinai, state that this book is endowed to Mount Sinai. Whoever takes it out of there is banned"
       ]
     }
   ],

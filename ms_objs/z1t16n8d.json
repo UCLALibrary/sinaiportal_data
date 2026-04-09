@@ -31,21 +31,25 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 1r",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "ff. 254v-255r",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "أقول وانا جرمانوس اسقف طور سينا المقدس / ان هذا الكتاب وقف على طور سينا / [....] فمن [....] او أخرجه / يكون محروم",
+      "translation": [
+        "I, Bishop Jirmānūs, state that this book is endowed to [the monastery of] Mount Sinai. May whoever takes it… be banned"
       ]
     }
   ],

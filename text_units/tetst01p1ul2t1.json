@@ -1,0 +1,110 @@
+{
+    "ark": "ark:/21198/tetst01p1ul2t1",
+    "reconstruction": false,
+    "label": "Unidentified Syriac liturgical text (undertext)",
+    "summary": "Fragmentary unidentified Syriac liturgical text recovered as undertext under multispectral imaging.",
+    "locus": "ff. 60-75",
+    "lang": [
+        {
+            "id": "syrc1272",
+            "label": "Syriac"
+        }
+    ],
+    "work_wit": [
+        {
+            "work": {
+                "desc_title": "Unidentified Syriac liturgical text",
+                "genre": [
+                    {
+                        "id": "liturgical-texts",
+                        "label": "Liturgical texts"
+                    }
+                ]
+            },
+            "locus": "ff. 60-75",
+            "excerpt": [
+                {
+                    "type": {
+                        "id": "inc-mut",
+                        "label": "First Preserved Line"
+                    },
+                    "locus": "f. 60r",
+                    "as_written": "...ܒܫܡ ܐܒܐ...",
+                    "translation": [
+                        "...In the name of the Father..."
+                    ],
+                    "note": [
+                        "Opening formula only partially legible"
+                    ]
+                }
+            ],
+            "note": [
+                "Text unidentified; likely a liturgical hymn or prayer",
+                "Further analysis under MSI recommended"
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "msi",
+            "label": "Multispectral Imaging"
+        },
+        {
+            "id": "unidentified-text",
+            "label": "Unidentified Text"
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "Text identification ongoing; script identified as Estrangela by paleographic analysis"
+        },
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "Heavily abraded; text partially legible only under multispectral imaging"
+        }
+    ],
+    "bib": [
+        {
+            "id": "40daa1be-dffe-4f59-b76e-d52f5f9e2abd",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Kamil 1970",
+            "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970.",
+            "range": "p. 45",
+            "note": [
+                "Kamil does not note the Syriac undertext"
+            ]
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Sinai Palimpsests Project",
+                "description": "Described as part of the Sinai Palimpsests Project (2006-2017). The Sinai Palimpsests Project was sponsored by St. Catherine's Monastery of the Sinai in partnership with the Early Manuscripts Electronic Library and the UCLA Library, and with funding from Arcadia."
+            }
+        ]
+    },
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": [
+                "Grigory Kessel",
+                "Natalia Smelova"
+            ],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tetst01p1ul2"
+    ]
+}

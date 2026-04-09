@@ -1,0 +1,117 @@
+{
+  "ark_ssi": "ark:/21198/z13g5fm0",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [
+    "Athanasius, Saint, Patriarch of Alexandria, -373"
+  ],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z1qc0cjx"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai Syriac NF frag 76"
+  ],
+  "ot_script_ssim": [
+    "Erkatagir"
+  ],
+  "ot_writing_system_ssim": [
+    "Armenian"
+  ],
+  "ot_genre_ssim": [
+    "Hagiographies"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Armenian"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai Syriac NF frag 76, SPP No. 175",
+  "titles_tesim": [
+    "Athanasius, Life of Saint Antony"
+  ],
+  "names_tesim": [
+    "Athanasius, Saint, Patriarch of Alexandria, -373",
+    "St. Athanasius the Great"
+  ],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Athanasius, Life of Saint Antony",
+    "Life of Saint Antony",
+    "The text shows some variants compared to the edited text in Bibliotheca Hagiographica Orientalis (BHO) 66"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Armenian",
+    "Athanasius, Life of Saint Antony",
+    "Athanasius, Saint, Patriarch of Alexandria, -373",
+    "Erkatagir",
+    "Life of Saint Antony",
+    "Parchment",
+    "Sloping majuscule",
+    "St. Athanasius the Great",
+    "The text shows some variants compared to the edited text in Bibliotheca Hagiographica Orientalis (BHO) 66",
+    "UTO Sinai Syriac NF frag 76, SPP No. 175",
+    "ark:/21198/z13g5fm0",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Bernard Outtier"
+  ],
+  "last_modified_dtsi": "2025-12-15T14:33:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z13g5fm0\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Syriac NF frag 76, SPP No. 175\",\"extent\":\"1 fol.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 1v, 1r\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1dh0k\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1dh0k\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Syriac NF frag 76, Undertext (Erkatagir)\",\"locus\":\"f. 1\",\"writing\":[{\"script\":[{\"id\":\"erkatagir\",\"label\":\"Erkatagir\",\"writing_system\":\"Armenian\"}],\"note\":[\"Sloping majuscule\"]}],\"layout\":[{\"lines\":\"20-21 lines, incomplete\"}],\"text_unit\":[{\"id\":\"ark:/21198/s12h5c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s12h5c\",\"reconstruction\":false,\"label\":\"Life of Saint Antony\",\"lang\":[{\"id\":\"arme1241\",\"label\":\"Armenian\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Athanasius, Life of Saint Antony\",\"creator\":[{\"id\":\"ark:/21198/s1z59h\",\"agent_record\":{\"ark\":\"ark:/21198/s1z59h\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Athanasius, Saint, Patriarch of Alexandria, -373\",\"alt_name\":[\"St. Athanasius the Great\"],\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"d. 373\",\"iso\":{\"not_before\":\"0373\"}},\"rel_con\":[{\"label\":\"Athanasius, Saint, Patriarch of Alexandria, -373\",\"uri\":\"http://viaf.org/viaf/105155222\",\"source\":\"VIAF\"},{\"label\":\"Athanasius, Saint, Patriarch of Alexandria, -373\",\"uri\":\"https://id.loc.gov/authorities/names/n79145591\",\"source\":\"LoC\"},{\"label\":\"Athanasius, Saint, Patriarch of Alexandria, -373\",\"uri\":\"https://w3id.org/haf/person/749260264627\",\"source\":\"HAF\"},{\"label\":\"Athanasius, bishop of Alexandria\",\"uri\":\"http://syriaca.org/person/354\",\"source\":\"Syriaca\"},{\"label\":\"Athanasius Alexandrinus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/415/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"note\":[\"The text shows some variants compared to the edited text in Bibliotheca Hagiographica Orientalis (BHO) 66\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Bernard Outtier\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/s1dh0k\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Bernard Outtier\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/z1qc0cjx\",\"ark:/21198/z13g5fm0\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qc0cjx/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13n23zx/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Bernard Outtier\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1qc0cjx\",\"shelfmark\":\"Sinai Syriac NF frag 76\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z13g5fm0",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz13n23zx/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qc0cjx/manifest",
+  "header_index_tesim": [
+    "UTO Sinai Syriac NF frag 76, SPP No. 175",
+    "1 fol."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "1 fol.",
+  "text_unit_labels_tesim": [
+    "Life of Saint Antony"
+  ],
+  "origin_date_values_tesim": []
+}

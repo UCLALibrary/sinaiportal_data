@@ -1,0 +1,106 @@
+{
+  "ark_ssi": "ark:/21198/z1v4146r",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Folio(s)",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Serto"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Liturgical texts"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Syriac"
+  ],
+  "ot_works_ssim": [
+    "Triodion"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [
+    "Estrangela"
+  ],
+  "uto_language_ssim": [
+    "Syriac"
+  ],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Syriac NF frag 63",
+  "titles_tesim": [
+    "Triodion"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Triodion"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Parchment",
+    "Serto",
+    "Serto with coexistence of Estrangela \"olaf\"",
+    "Sinai Syriac NF frag 63",
+    "Syriac",
+    "Triodion",
+    "ark:/21198/z1v4146r",
+    "brown",
+    "sppms"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1v4146r\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Syriac NF frag 63\",\"extent\":\"1 ff.\",\"dim\":\"169 x 118 mm\",\"state\":{\"id\":\"folio\",\"label\":\"Folio(s)\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"169 x 118 mm (representative folio)\",\"ot_layer\":[{\"id\":\"ark:/21198/s10g8j\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s10g8j\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Syriac NF frag 63, Overtext (Serto)\",\"writing\":[{\"script\":[{\"id\":\"serto\",\"label\":\"Serto\",\"writing_system\":\"Syriac\"}],\"note\":[\"Serto with coexistence of Estrangela \\\"olaf\\\"\"]}],\"ink\":[{\"color\":[\"brown\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1t37t\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1t37t\",\"reconstruction\":false,\"label\":\"Triodion\",\"lang\":[{\"id\":\"class1252\",\"label\":\"Syriac\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1030q\",\"pref_title\":\"Triodion\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]}}],\"parent\":[\"ark:/21198/s10g8j\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z1v4146r\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"6ced4f13-e0b7-43d6-aa6d-260c00656341\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Brock 1995\",\"citation\":\"Brock, Sebastian P. Catalogue of Syriac Fragments (New Finds) in the Library of the Monastery of Saint Catherine, Mount Sinai. Mount Sinai Foundation, 1995\",\"range\":\"p. 62, pl. 334-335 \"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1v4146r/manifest\",\"label\":\"Multispectral Images\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz38h4/0,1022,6132,6132/150,150/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"sppms\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"},\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s1xd1k\",\"label\":\"Syriac Undertext: Hymns on Mary\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"f. 1\",\"uto_ms_ark\":\"ark:/21198/z1mh8fhs\",\"script\":[\"Estrangela\"],\"lang\":[\"Syriac\"]}]}",
+  "id": "ark:/21198/z1v4146r",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz38h4/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1v4146r/manifest",
+  "header_index_tesim": [
+    "Sinai Syriac NF frag 63",
+    "1 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "1 ff.",
+  "text_unit_labels_tesim": [
+    "Triodion"
+  ],
+  "origin_date_values_tesim": []
+}

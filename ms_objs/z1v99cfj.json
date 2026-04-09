@@ -31,48 +31,40 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
-        {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "218r-218v",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            },
-            {
-              "id": "arab1395",
-              "label": "Arabic"
-            }
-          ],
-          "as_written": "ܐܬܟܬܒ ܘܐ ܫܬܡܠܝ ܟܬܒܐ ܗܢܐ ܒܕܝܪܐ ܩܕܝܫܐ ܕܛܘܪ ܣܝܢܝ܀ ܝܘܡ ܗ̄. .ܝ̄܆ ܒܫܒܛ܀ ܫܢܬ: ܫܬܐ ܐܠܦܝܢ ܘܫܒܥ ܡܐܐ: ܘܬܫܥܝܢ. ܘܫܬܸ: ܠܐܒܘܢ ܬܕܡ܀ ܟܬܒܗ ܖܝܢ ܐܢܫ ܚ̈ܛܝܐ ܘܒܨܝ̇ܪܐ: ܕܐܝܬܘ ܒܫܡܐ ܘܠܐ ܬܥܒܕܐ: ܟܗܢܐ ܫܡܥܘܢ ܒܪ ܝܘܣܦ ܡܪܝܐ ܢ̇ܢܝܚ ܢܦܫ̈ܬܐ ܖܐ ܕܐܒܘܗܘܝ ܘܕܐܚܘܗܝ ܘܢܦܫܗ ܥܡ ܟܠܗܘܢ ܩܕܝܫܐ ܐܡܝܢ܀܀܀܀ ܟܬܒܗ ܕܝܢ ܠܐܚܐ ܢܟܦܐ ܘܙܗܝܐ ܡܫܡܫܢܐ ܝܘܚܢܢ ܚܟܝܡܐ ܡܪܝܐ ܐܠܗܐ ܝܗܒ ܠܗ ܣܘܟܠܐ ܘܐܝܕܥܬܐ ܘܫܘܒܩܢܐ ܕܚܛܗܘܗܝ ܘܚܘܒܘܗܝ ܐܡܝܢ ܐܘ ܩܪܘܝܐ. ܐܢ ܐܫܟܚܬ ܒܗ ܓܠܛܐ ܐܘ ܦܘܕܐ. ܐܢܬ ܗܒ ܫܘܒܩܢܐ ܠܟܬܘܒܗ يا رب اغفر لعبدك الخاطي الماطي والودي واجميع قلل امين",
-          "assoc_name": [
-            {
-              "value": "Shem'un bar Yosef",
-              "as_written": "ܫܡܥܘܢ ܒܪ ܝܘܣܦ",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            },
-            {
-              "value": "Deacon Yuhannon the Wise",
-              "as_written": "ܡܫܡܫܢܐ ܝܘܚܢܢ ܚܟܝܡܐ",
-              "role": {
-                "id": "patron",
-                "label": "Patron"
-              }
-            }
-          ],
-          "note": [
-            "Attested places:  Sinai"
-          ]
-        }
       ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 2r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "هذه الانجيل وقف على كنيسه / السيده لا حد يخرجه عنها يكون / محروم مفروز",
+      "translation": [
+        "This Evangelion is endowed to the church of the Lady. No one takes it out from it, [otherwise] he will be banned and separated"
+      ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "locus": "f. 218v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "يا رب اغفر لعبدك الخاطي الملطي / والودي و لجميع قال امين"
     }
   ],
   "location": [

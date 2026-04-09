@@ -1,0 +1,124 @@
+{
+  "ark_ssi": "ark:/21198/z17d3zj3",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Codex",
+  "features_ssim": [],
+  "support_ssim": [
+    "Paper"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Library Digitization Project, Phase 1"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Greek majuscule",
+    "Naskh"
+  ],
+  "ot_writing_system_ssim": [
+    "Arabic",
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Canon law",
+    "Historical works",
+    "Theological works"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Arabic",
+    "Greek"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Arabic 391",
+  "titles_tesim": [
+    "Canons and other documents related to the Ecumenical Councils with portions in parallel Greek and Arabic",
+    "Canons of the Apostles preceded by long historical introduction, ff. 66v-72v",
+    "Canons of the Apostles, local Synods, and Ecumenical Councils, 73r-303v",
+    "Tables in fragments from ff. 299v-302v are similar to Sinai Arabic 390, ff. 8r et passim.",
+    "The Twelve Chapters of St. Cyril’s excommunication of Nestorius",
+    "The Twelve Chapters of St. Cyril’s excommunication of Nestorius, beginning with a portion of the third anathema"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Canon law and Cyril's excommunication of Nestorius",
+    "Canons and other documents related to the Ecumenical Councils with portions in parallel Greek and Arabic",
+    "Canons of the Apostles preceded by long historical introduction, ff. 66v-72v",
+    "Canons of the Apostles, local Synods, and Ecumenical Councils, 73r-303v",
+    "Tables in fragments from ff. 299v-302v are similar to Sinai Arabic 390, ff. 8r et passim.",
+    "The Twelve Chapters of St. Cyril’s excommunication of Nestorius",
+    "The Twelve Chapters of St. Cyril’s excommunication of Nestorius, beginning with a portion of the third anathema"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "8",
+    "Arabic",
+    "Canon law and Cyril's excommunication of Nestorius",
+    "Canons and other documents related to the Ecumenical Councils with portions in parallel Greek and Arabic",
+    "Canons of the Apostles preceded by long historical introduction, ff. 66v-72v",
+    "Canons of the Apostles, local Synods, and Ecumenical Councils, 73r-303v",
+    "Greek",
+    "Greek majuscule",
+    "Naskh",
+    "Paper",
+    "Sinai Arabic 391",
+    "Tables in fragments from ff. 299v-302v are similar to Sinai Arabic 390, ff. 8r et passim.",
+    "The Twelve Chapters of St. Cyril’s excommunication of Nestorius",
+    "The Twelve Chapters of St. Cyril’s excommunication of Nestorius, beginning with a portion of the third anathema",
+    "ark:/21198/z17d3zj3"
+  ],
+  "cataloguer_tesim": [
+    "Justin Arnwine"
+  ],
+  "last_modified_dtsi": "2025-12-08T07:02:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z17d3zj3\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 391\",\"extent\":\"306 ff.\",\"weight\":\"2705.8 g\",\"dim\":\"300 x 225 x 100 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1603p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1603p\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 391, Overtext (Naskh, Greek majuscule)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"},{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s10m18\",\"label\":\"Item 1\",\"locus\":\"ff. 1r-303v\",\"text_unit_record\":{\"ark\":\"ark:/21198/s10m18\",\"reconstruction\":false,\"label\":\"Canon law and Cyril's excommunication of Nestorius\",\"locus\":\"ff. 1r-303v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"The Twelve Chapters of St. Cyril’s excommunication of Nestorius\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"}]},\"locus\":\"ff. 1r-65v\",\"contents\":[{\"label\":\"The Twelve Chapters of St. Cyril’s excommunication of Nestorius, beginning with a portion of the third anathema\"}]},{\"work\":{\"desc_title\":\"Canons and other documents related to the Ecumenical Councils with portions in parallel Greek and Arabic\",\"genre\":[{\"id\":\"canon-law\",\"label\":\"Canon law\"},{\"id\":\"historical-works\",\"label\":\"Historical works\"}]},\"locus\":\"ff. 66v-302v\",\"contents\":[{\"label\":\"Canons of the Apostles preceded by long historical introduction, ff. 66v-72v\"},{\"label\":\"Canons of the Apostles, local Synods, and Ecumenical Councils, 73r-303v\"},{\"label\":\"Tables in fragments from ff. 299v-302v are similar to Sinai Arabic 390, ff. 8r et passim.\"}]}],\"cataloguer\":[{\"message\":\"Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).\",\"contributor\":[\"Justin Arnwine\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-08T07:02:00\"}],\"parent\":[\"ark:/21198/s1603p\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z17d3zj3\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Kamil 1970\",\"citation\":\"Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970\",\"range\":\"[583], p. 51\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz17d3zj3/manifest\",\"label\":\"Natural Light\",\"text_direction\":\"right-to-left\",\"behavior\":\"individuals\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Library Digitization Project, Phase 1\",\"description\":\"Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.\",\"camera_operator\":[\"Vasilis Kasotakis\"],\"imaging_date\":\"2019 January\",\"delivery\":\"8\",\"imaging_system\":\"BC100 - 2 cam., 600 ppi, 90mm lens\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z17d3zj3",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "iiif_manifest_url_ssi": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz17d3zj3/manifest",
+  "header_index_tesim": [
+    "Sinai Arabic 391",
+    "306 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "306 ff.",
+  "text_unit_labels_tesim": [
+    "Canon law and Cyril's excommunication of Nestorius"
+  ],
+  "origin_date_values_tesim": []
+}

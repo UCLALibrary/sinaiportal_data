@@ -1,0 +1,111 @@
+{
+  "ark_ssi": "ark:/21198/z14m9dms",
+  "ms_type_ssi": "Manuscript",
+  "state_ssi": "Bifolio(s)",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [],
+  "reconstructed_from_shelfmark_ssim": [],
+  "ot_script_ssim": [
+    "Nuskhurimt"
+  ],
+  "ot_writing_system_ssim": [
+    "Georgian"
+  ],
+  "ot_genre_ssim": [
+    "Apophthegmata",
+    "Ascetica"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Georgian"
+  ],
+  "ot_works_ssim": [
+    "Sayings of the Desert Fathers"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [
+    "Asomtavruli"
+  ],
+  "uto_language_ssim": [
+    "Georgian"
+  ],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "Sinai Georgian NF M 84",
+  "titles_tesim": [
+    "Sayings of the Desert Fathers"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Sayings of the Desert Fathers"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Disjecta Membra",
+    "Georgian",
+    "Initials and titles in red",
+    "Nuskhurimt",
+    "Originally belonged together with the following",
+    "Parchment",
+    "Sayings of the Desert Fathers",
+    "Sinai Georgian NF M 84",
+    "Sinai Georgian NF M 90",
+    "ark:/21198/z14m9dms",
+    "black-brown",
+    "red",
+    "sppms"
+  ],
+  "cataloguer_tesim": [],
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z14m9dms\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Georgian NF M 84\",\"extent\":\"7 ff.\",\"state\":{\"id\":\"bifolio\",\"label\":\"Bifolio(s)\"},\"coll\":\"1+2+2+2 (7)\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"dim\":\"155 x 120 mm (representative folio)\",\"related_mss\":[{\"type\":{\"id\":\"disjecta\",\"label\":\"Disjecta Membra\"},\"label\":\"Originally belonged together with the following\",\"mss\":[{\"label\":\"Sinai Georgian NF M 90\",\"id\":\"ark:/21198/z1tb24tz\"}]}],\"ot_layer\":[{\"id\":\"ark:/21198/s1qc9d\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1qc9d\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Georgian NF M 84, Overtext (Nuskhurimt)\",\"writing\":[{\"script\":[{\"id\":\"nuskhurimt\",\"label\":\"Nuskhurimt\",\"writing_system\":\"Georgian\"}]}],\"ink\":[{\"color\":[\"black-brown\",\"red\"],\"note\":[\"Initials and titles in red\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1j08p\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1j08p\",\"reconstruction\":false,\"label\":\"Sayings of the Desert Fathers\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1w89x\",\"pref_title\":\"Sayings of the Desert Fathers\",\"genre\":[{\"id\":\"apophthegmata\",\"label\":\"Apophthegmata\"},{\"id\":\"ascetica\",\"label\":\"Ascetica\"}]}}],\"parent\":[\"ark:/21198/s1qc9d\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"parent\":[\"ark:/21198/z14m9dms\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"087ba7ab-401c-4edc-b474-7b86bc83cbce\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Aleksidze, et al.\",\"citation\":\"Aleksidze, Zaza, et al. Catalogue of Georgian manuscripts discovered in 1975 at St. Catherine's Monastery on Mount Sinai. Athens, 2005\",\"range\":\"p. 430\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9dms/manifest\",\"label\":\"Multispectral Images\",\"behavior\":\"paged\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qz2cw1/0,1022,6132,6132/150,150/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"sppms\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"},\"uto\":[{\"uto_layer_ark\":\"ark:/21198/s17h1d\",\"label\":\"Georgian Undertext: Psalter\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 1–5\",\"uto_ms_ark\":\"ark:/21198/z14z60rx\",\"script\":[\"Asomtavruli\"],\"lang\":[\"Georgian\"]},{\"uto_layer_ark\":\"ark:/21198/s1c92z\",\"label\":\"Georgian Undertext: Khanmeti Mravaltavi\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 6–7\",\"uto_ms_ark\":\"ark:/21198/z18m8247\",\"script\":[\"Asomtavruli\"],\"lang\":[\"Georgian\"]},{\"uto_layer_ark\":\"ark:/21198/s13s76\",\"label\":\"Georgian Undertext: Life of St. Febronia\",\"type\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"locus\":\"ff. 6–7\",\"uto_ms_ark\":\"ark:/21198/z116582c\",\"script\":[\"Asomtavruli\"],\"lang\":[\"Georgian\"]}]}",
+  "id": "ark:/21198/z14m9dms",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qz2cw1/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9dms/manifest",
+  "header_index_tesim": [
+    "Sinai Georgian NF M 84",
+    "7 ff."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "7 ff.",
+  "text_unit_labels_tesim": [
+    "Sayings of the Desert Fathers"
+  ],
+  "origin_date_values_tesim": []
+}

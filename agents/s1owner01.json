@@ -1,0 +1,48 @@
+{
+    "ark": "ark:/21198/s1owner01",
+    "type": {
+        "id": "organization",
+        "label": "Organization"
+    },
+    "pref_name": "Monastery of St. Catherine, Sinai",
+    "alt_name": [
+        "Saint Catherine's Monastery",
+        "Dayr Sīnā",
+        "Monastery of the Transfiguration"
+    ],
+    "desc": "Greek Orthodox monastery at the foot of Mount Sinai, Egypt, and the primary repository for the manuscripts described in this dataset.",
+    "rel_place": [
+        {
+            "id": "ark:/21198/s1place02",
+            "rel": [
+                {
+                    "id": "located-at",
+                    "label": "Located At"
+                }
+            ]
+        }
+    ],
+    "rel_con": [
+        {
+            "label": "Saint Catherine's Monastery",
+            "uri": "http://viaf.org/viaf/130270456",
+            "source": "VIAF"
+        },
+        {
+            "label": "Catherine of Alexandria, Saint -- Cult -- Egypt -- Sinai, Mount",
+            "uri": "http://id.loc.gov/authorities/names/n79062369",
+            "source": "LoC"
+        }
+    ],
+    "note": [
+        "Current owner and repository of all manuscripts in the Sinai collection"
+    ],
+    "cataloguer": [
+        {
+            "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+            "contributor": ["Grigory Kessel", "Natalia Smelova"],
+            "added_by": "gkessel",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+  "ark_ssi": "ark:/21198/z12k73vg",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "New Finds"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z1ft92mh"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai CPA NF frag 13"
+  ],
+  "ot_script_ssim": [
+    "Christian Palestinian Aramaic"
+  ],
+  "ot_writing_system_ssim": [
+    "Syriac"
+  ],
+  "ot_genre_ssim": [
+    "Biblical texts",
+    "Gospel books"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "CPA"
+  ],
+  "ot_works_ssim": [
+    "Bible. John"
+  ],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai CPA NF frag 13, SPP No. 309",
+  "titles_tesim": [
+    "Bible. John"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Bible. John",
+    "Gospel of John",
+    "The text on this folio seems to follow ms. A of Lewis and Gibson 1899"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "Bible. John",
+    "CPA",
+    "Christian Palestinian Aramaic",
+    "Gospel of John",
+    "Medieval CPA writing",
+    "Parchment",
+    "Syriac",
+    "The text on this folio seems to follow ms. A of Lewis and Gibson 1899",
+    "UTO Sinai CPA NF frag 13, SPP No. 309",
+    "ark:/21198/z12k73vg",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Alain J. Desreumaux"
+  ],
+  "last_modified_dtsi": "2025-12-19T16:40:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z12k73vg\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai CPA NF frag 13, SPP No. 309\",\"extent\":\"1 fol.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"f. 1r\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1n63s\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1n63s\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai CPA NF frag 13, Undertext (Christian Palestinian Aramaic)\",\"locus\":\"f. 1r\",\"writing\":[{\"script\":[{\"id\":\"cpa\",\"label\":\"Christian Palestinian Aramaic\",\"writing_system\":\"Syriac\"}],\"note\":[\"Medieval CPA writing\"]}],\"layout\":[{\"columns\":\"1 columns\",\"lines\":\"24 lines\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1968k\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1968k\",\"reconstruction\":false,\"label\":\"Gospel of John\",\"lang\":[{\"id\":\"chri1239\",\"label\":\"CPA\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1388d\",\"pref_title\":\"Bible. John\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. John\",\"uri\":\"http://id.loc.gov/authorities/names/n79060414\",\"source\":\"LoC\"},{\"label\":\"Bible. John\",\"uri\":\"https://viaf.org/viaf/57145910123927021804\",\"source\":\"VIAF\"}]},\"note\":[\"The text on this folio seems to follow ms. A of Lewis and Gibson 1899\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Alain J. Desreumaux\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:40:00\"}],\"parent\":[\"ark:/21198/s1n63s\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Alain J. Desreumaux\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:40:00\"}],\"parent\":[\"ark:/21198/z1ft92mh\",\"ark:/21198/z12k73vg\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ft92mh/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1q248j3/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Alain J. Desreumaux\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-19T16:40:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1ft92mh\",\"shelfmark\":\"Sinai CPA NF frag 13\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z12k73vg",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1q248j3/0,1022,6132,6132/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ft92mh/manifest",
+  "header_index_tesim": [
+    "UTO Sinai CPA NF frag 13, SPP No. 309",
+    "1 fol."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "1 fol.",
+  "text_unit_labels_tesim": [
+    "Gospel of John"
+  ],
+  "origin_date_values_tesim": []
+}

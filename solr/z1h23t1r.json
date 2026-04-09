@@ -1,0 +1,113 @@
+{
+  "ark_ssi": "ark:/21198/z1h23t1r",
+  "ms_type_ssi": "Undertext Object",
+  "state_ssi": "Undertext Object",
+  "features_ssim": [],
+  "support_ssim": [
+    "Parchment"
+  ],
+  "repository_ssim": [
+    "St. Catherine's Monastery of the Sinai"
+  ],
+  "collection_ssim": [
+    "Old Collection"
+  ],
+  "names_ssim": [],
+  "places_ssim": [],
+  "date_types_ssim": [],
+  "program_ssim": [
+    "Sinai Palimpsests Project"
+  ],
+  "reconstructed_from_ssim": [
+    "ark:/21198/z1qj8f7g"
+  ],
+  "reconstructed_from_shelfmark_ssim": [
+    "Sinai Greek 962"
+  ],
+  "ot_script_ssim": [
+    "Greek minuscule"
+  ],
+  "ot_writing_system_ssim": [
+    "Greek"
+  ],
+  "ot_genre_ssim": [
+    "Hymnals",
+    "Liturgical texts"
+  ],
+  "ot_year_isim": [],
+  "ot_language_ssim": [
+    "Greek"
+  ],
+  "ot_works_ssim": [],
+  "para_script_ssim": [],
+  "para_writing_system_ssim": [],
+  "para_year_isim": [],
+  "para_language_ssim": [],
+  "para_works_ssim": [],
+  "para_genre_ssim": [],
+  "para_names_ssim": [],
+  "para_type_ssim": [],
+  "uto_script_ssim": [],
+  "uto_language_ssim": [],
+  "uto_year_isim": [],
+  "shelfmark_ssi": "UTO Sinai Greek 962, SPP No. 20",
+  "titles_tesim": [
+    "Kanon on Saint Nicholas"
+  ],
+  "names_tesim": [],
+  "exerpts_tesim": [],
+  "places_tesim": [],
+  "contents_tesim": [
+    "Kanon on Saint Nicholas",
+    "The folios contain an unknown kanon on Saint Nicholas. It is not clear whether the folios belonged to a Menaion, an Oktoechos, or a manuscript intended for private devotion (Rossetto)"
+  ],
+  "paracontent_tesim": [],
+  "full_text_tesim": [
+    "A single folio of Sin. gr. 962 corresponds to a single folio of the original manuscript, and hence the original manuscript was probably of similar dimensions: 150x100 mm. The Schriftspiegel is approximately 110x70 mm, with an outer margin of 25 mm and a lower of 20 mm",
+    "Each side of the bifolio preserves 18 to 20 lines of text, 6 mm apart and arranged in one column",
+    "Greek",
+    "Greek minuscule",
+    "Kanon on Saint Nicholas",
+    "Parchment",
+    "The folios contain an unknown kanon on Saint Nicholas. It is not clear whether the folios belonged to a Menaion, an Oktoechos, or a manuscript intended for private devotion (Rossetto)",
+    "The writing runs parallel to the overtext, rotated through 180°",
+    "UTO Sinai Greek 962, SPP No. 20",
+    "Upright, round, calligraphic minuscule with thick, pronounced strokes. The writing is pendent from the ruled lines. Each ode begins with an initial in epigraphischer Auszeichnungsmajuskel",
+    "ark:/21198/z1h23t1r",
+    "spputos"
+  ],
+  "cataloguer_tesim": [
+    "Giulia Rossetto",
+    "Nigel Wilson"
+  ],
+  "last_modified_dtsi": "2025-12-15T14:33:00",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1h23t1r\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 962, SPP No. 20\",\"extent\":\"2 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 186v, 186r, 183v, 183r (Rossetto)\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1b33z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1b33z\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 962, Undertext (Greek minuscule)\",\"locus\":\"ff. 183,186\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Upright, round, calligraphic minuscule with thick, pronounced strokes. The writing is pendent from the ruled lines. Each ode begins with an initial in epigraphischer Auszeichnungsmajuskel\"]}],\"layout\":[{\"columns\":\"1 columns\",\"lines\":\"18-20 lines\",\"note\":[\"The writing runs parallel to the overtext, rotated through 180°\",\"Each side of the bifolio preserves 18 to 20 lines of text, 6 mm apart and arranged in one column\",\"A single folio of Sin. gr. 962 corresponds to a single folio of the original manuscript, and hence the original manuscript was probably of similar dimensions: 150x100 mm. The Schriftspiegel is approximately 110x70 mm, with an outer margin of 25 mm and a lower of 20 mm\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s10394\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s10394\",\"reconstruction\":false,\"label\":\"Kanon on Saint Nicholas\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Kanon on Saint Nicholas\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"},{\"id\":\"hymnals\",\"label\":\"Hymnals\"}]},\"note\":[\"The folios contain an unknown kanon on Saint Nicholas. It is not clear whether the folios belonged to a Menaion, an Oktoechos, or a manuscript intended for private devotion (Rossetto)\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/s1b33z\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"parent\":[\"ark:/21198/z1qj8f7g\",\"ark:/21198/z1h23t1r\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qj8f7g/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cc1x9p/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T14:33:00\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1qj8f7g\",\"shelfmark\":\"Sinai Greek 962\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "id": "ark:/21198/z1h23t1r",
+  "has_model_ssim": [
+    "Work"
+  ],
+  "visibility_ssi": "open",
+  "discover_access_group_ssim": [
+    "public"
+  ],
+  "read_access_group_ssim": [
+    "public"
+  ],
+  "download_access_person_ssim": [
+    "public"
+  ],
+  "thumbnail_url_ss": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cc1x9p/0,902,5412,5412/150,150/0/default.jpg",
+  "iiif_manifest_url_ssi": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qj8f7g/manifest",
+  "header_index_tesim": [
+    "UTO Sinai Greek 962, SPP No. 20",
+    "2 fols."
+  ],
+  "ot_date_tesim": [],
+  "para_date_tesim": [],
+  "uto_date_tesim": [],
+  "extent_tesi": "2 fols.",
+  "text_unit_labels_tesim": [
+    "Kanon on Saint Nicholas"
+  ],
+  "origin_date_values_tesim": []
+}

@@ -31,35 +31,28 @@
             "label": "Overtext"
           }
         }
-      ],
-      "para": [
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "Front board inside",
+      "lang": [
         {
-          "type": {
-            "id": "history",
-            "label": "History"
-          },
-          "locus": "215v",
-          "lang": [
-            {
-              "id": "class1252",
-              "label": "Syriac"
-            }
-          ],
-          "as_written": "ܫܩܠ ܣܟܐ ܘܫܘܡܠܝܐ ܒܥܘܕܪܢܐ ܕܡܢ ܐܠܗܐ ܐܒܐ ܕܟܠ ܥܠ ܐܝܕܝ ܐܢܫ ܡܚܝܠܐ ܘܚܛܝܐ ܘܒܨܝܪܐ ܘܣܢܝܩ ܥܠܪ̈ܚܡܐ ܕܐܠܗܐ ܩܫܝܫܘܢܐ ܫܡܘܢ ܒܪ ܘܚܫ ܡܢ ܕܕ ܫܢܬ ܐܠܦ ܘܚܡܫ ܡܐܐ ܘܐܪܒܥܝܢ ܘܐܪܒܥ ܡܢ ܫܢܝܐ ܕܐܣܟܢܕܪ ܒܪ ܦܝܠܝܦܘܣ ܘܡܢ ܐܕܡ ܫܛܐ ܐܠܦ̈ܝܢ ܘܫܒܥ ܡܐܐ ܘܐܪܒܥܝܢ ܘܚܕܐ ܡܪܝܐ ܐܠܗܐ ܢܗܘܐ ܫܒܘܩܐ ܘܡܚܣܝܢܐ ܕܚ̈ܛܗܐ ܕܟܬܘܒܐ ܘܕܩܪ̈ܘܝܐ ܘܕܟܠܗܘܢ ܡܗ̈ܝܡܢܐ ܕܒܡܫܝܚܐ ܘܕܟܠܗܘܢ ܩܕܝܫܐ ܐܡܝܢ ܐܡܝܢ",
-          "assoc_name": [
-            {
-              "value": "Shem'un bar Wahshi",
-              "as_written": "ܫܡܥܘܢ ܒܪ ܘܚܫܝ",
-              "role": {
-                "id": "scribe",
-                "label": "Scribe"
-              }
-            }
-          ],
-          "note": [
-            "Water damage"
-          ]
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "as_written": "اقول وانا الاسقف يحنا انا هذا الكتاب / وقف على كنيسه (الربوه) ما لاحد سلطان / ان يخرجه عنها",
+      "translation": [
+        "I, bishop Yaḥnā, state that this book / is endowed to the church of (?). No one has authority / to take it out from there"
+      ],
+      "note": [
+        "Paper manuscript leaf used as pastedown"
       ]
     }
   ],
