@@ -1,0 +1,137 @@
+{
+    "ark": "ark:/21198/tedesca1",
+    "type": {
+        "id": "person",
+        "label": "Person"
+    },
+    "pref_name": "Preferred agent name, surname first",
+    "alt_name": [
+        "First alternate name form",
+        "Second alternate name form, e.g. name in another language"
+    ],
+    "desc": "A prose description of the agent, providing biographical context, dates of activity, and relevance to the manuscript tradition. This field can accommodate a short phrase or a full paragraph.",
+    "gender": {
+        "id": "man",
+        "label": "Man"
+    },
+    "birth": {
+        "value": "Birth date as a human-readable string, e.g. ca. 850 CE",
+        "iso": {
+            "not_before": "0845",
+            "not_after": "0855"
+        }
+    },
+    "death": {
+        "value": "Death date as a human-readable string, e.g. 925 CE or 930 CE",
+        "iso": {
+            "not_before": "0925",
+            "not_after": "0930"
+        }
+    },
+    "floruit": {
+        "value": "Floruit date range as a human-readable string, e.g. late 9th–early 10th c. CE",
+        "iso": {
+            "not_before": "0870",
+            "not_after": "0920"
+        }
+    },
+    "rel_con": [
+        {
+            "label": "Agent name as it appears in VIAF",
+            "uri": "https://viaf.org/viaf/000000002",
+            "source": "VIAF"
+        },
+        {
+            "label": "Agent name as it appears in Library of Congress authority",
+            "uri": "http://id.loc.gov/authorities/names/n00000002",
+            "source": "LoC"
+        },
+        {
+            "label": "Agent name as it appears in HAF",
+            "uri": "https://w3id.org/haf/person/000000002",
+            "source": "HAF"
+        },
+        {
+            "label": "Agent name as it appears in Syriaca",
+            "uri": "http://syriaca.org/person/000000002",
+            "source": "Syriaca"
+        },
+        {
+            "label": "Agent name as it appears in Pinakes",
+            "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/000000002/",
+            "source": "Pinakes"
+        }
+    ],
+    "refno": [
+        {
+            "label": "Reference number label",
+            "idno": "REF-AGENT-001",
+            "source": "CPG"
+        }
+    ],
+    "note": [
+        "This is a first general note about the agent. Notes are plain strings and can be short or a full paragraph.",
+        "This is a second general note to show that the note field is repeatable."
+    ],
+    "bib": [
+        {
+            "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a reference work about this agent.",
+            "range": "Page or range reference"
+        },
+        {
+            "id": "d4e5f6a7-b8c9-0123-defa-234567890123",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string. Second bib entry to show repeatability.",
+            "range": "Page or range reference",
+            "url": "https://example.org/link-to-online-resource"
+        }
+    ],
+    "rel_agent": [
+        {
+            "id": "ark:/21198/tedesca2",
+            "rel": [
+                {
+                    "id": "student-of",
+                    "label": "Student of"
+                }
+            ]
+        }
+    ],
+    "rel_place": [
+        {
+            "id": "ark:/21198/tedescpl1",
+            "rel": [
+                {
+                    "id": "active",
+                    "label": "Active"
+                }
+            ]
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit.",
+            "contributor": [
+                "First Contributor Name",
+                "Second Contributor Name"
+            ],
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        },
+        {
+            "message": "Second cataloguer entry to show the field is repeatable.",
+            "added_by": "username2",
+            "timestamp": "2025-06-01T14:00:00Z"
+        }
+    ]
+}

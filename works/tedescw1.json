@@ -1,0 +1,175 @@
+{
+    "ark": "ark:/21198/tedescw1",
+    "pref_title": "Preferred work title",
+    "alt_title": [
+        "First alternate title, e.g. title in original language",
+        "Second alternate title, e.g. title in another tradition"
+    ],
+    "desc": "A prose description of the work, providing context about its content, genre, transmission history, and significance. This field can accommodate a short phrase or a full paragraph.",
+    "orig_lang": {
+        "id": "gree1276",
+        "label": "Greek"
+    },
+    "orig_lang_title": "Title of the work in the original language script",
+    "genre": [
+        {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+        },
+        {
+            "id": "theological-works",
+            "label": "Theological works"
+        }
+    ],
+    "creator": [
+        {
+            "id": "ark:/21198/tedesca1",
+            "role": {
+                "id": "author",
+                "label": "Author"
+            }
+        },
+        {
+            "id": "ark:/21198/tedesca2",
+            "role": {
+                "id": "translator",
+                "label": "Translator"
+            }
+        }
+    ],
+    "creation": {
+        "value": "Date of creation as a human-readable string, e.g. ca. 9th c. CE",
+        "iso": {
+            "not_before": "0801",
+            "not_after": "0900"
+        }
+    },
+    "incipit": {
+        "value": "Incipit text of the work as a string value, e.g. the opening words in the original language",
+        "translation": [
+            "English translation of the incipit"
+        ],
+        "source": [
+            "Source reference for this incipit, e.g. edition or manuscript"
+        ]
+    },
+    "explicit": {
+        "value": "Explicit text of the work as a string value, e.g. the closing words in the original language",
+        "translation": [
+            "English translation of the explicit"
+        ],
+        "source": [
+            "Source reference for this explicit"
+        ]
+    },
+    "rel_con": [
+        {
+            "label": "Work title as it appears in VIAF",
+            "uri": "https://viaf.org/viaf/000000004",
+            "source": "VIAF"
+        },
+        {
+            "label": "Work title as it appears in Library of Congress authority",
+            "uri": "http://id.loc.gov/authorities/names/n00000004",
+            "source": "LoC"
+        },
+        {
+            "label": "Work title as it appears in HAF",
+            "uri": "https://w3id.org/haf/work/000000004",
+            "source": "HAF"
+        },
+        {
+            "label": "Work title as it appears in Pinakes",
+            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/000000004/",
+            "source": "Pinakes"
+        }
+    ],
+    "refno": [
+        {
+            "label": "CPG number label",
+            "idno": "CPG-0001",
+            "source": "CPG"
+        },
+        {
+            "label": "Second reference number, e.g. TLG or Pinakes number",
+            "idno": "TLG0001",
+            "source": "TLG"
+        }
+    ],
+    "note": [
+        "This is a first general note about the work. Notes are plain strings.",
+        "This is a second general note to show that the note field is repeatable."
+    ],
+    "bib": [
+        {
+            "id": "f6a7b8c9-d0e1-2345-fabc-456789012345",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a reference work about this work.",
+            "range": "Page or range reference"
+        },
+        {
+            "id": "a7b8c9d0-e1f2-3456-abcd-567890123456",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string. Second bib entry to show repeatability.",
+            "range": "Page or range reference",
+            "url": "https://example.org/link-to-online-resource"
+        }
+    ],
+    "rel_work": [
+        {
+            "id": "ark:/21198/tedescw2",
+            "rel": [
+                {
+                    "id": "has-part",
+                    "label": "Has Part"
+                }
+            ]
+        }
+    ],
+    "rel_agent": [
+        {
+            "id": "ark:/21198/tedesca1",
+            "rel": [
+                {
+                    "id": "author",
+                    "label": "Author"
+                }
+            ]
+        }
+    ],
+    "rel_place": [
+        {
+            "id": "ark:/21198/tedescpl1",
+            "rel": [
+                {
+                    "id": "origin",
+                    "label": "Origin"
+                }
+            ]
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit.",
+            "contributor": [
+                "First Contributor Name",
+                "Second Contributor Name"
+            ],
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        },
+        {
+            "message": "Second cataloguer entry to show the field is repeatable.",
+            "added_by": "username2",
+            "timestamp": "2025-06-01T14:00:00Z"
+        }
+    ]
+}

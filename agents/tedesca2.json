@@ -1,0 +1,59 @@
+{
+    "ark": "ark:/21198/tedesca2",
+    "type": {
+        "id": "organization",
+        "label": "Organization"
+    },
+    "pref_name": "Preferred organization name",
+    "alt_name": [
+        "First alternate organization name",
+        "Second alternate organization name in another language"
+    ],
+    "desc": "A prose description of the organization, providing context about its role in manuscript production or transmission.",
+    "rel_con": [
+        {
+            "label": "Organization name as it appears in VIAF",
+            "uri": "https://viaf.org/viaf/000000003",
+            "source": "VIAF"
+        },
+        {
+            "label": "Organization name as it appears in Library of Congress authority",
+            "uri": "http://id.loc.gov/authorities/names/n00000003",
+            "source": "LoC"
+        }
+    ],
+    "rel_place": [
+        {
+            "id": "ark:/21198/tedescpl1",
+            "rel": [
+                {
+                    "id": "located-at",
+                    "label": "Located At"
+                }
+            ]
+        }
+    ],
+    "note": [
+        "This is a general note about the organization."
+    ],
+    "bib": [
+        {
+            "id": "e5f6a7b8-c9d0-1234-efab-345678901234",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a reference work about this organization.",
+            "range": "Page or range reference"
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit.",
+            "contributor": ["First Contributor Name"],
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

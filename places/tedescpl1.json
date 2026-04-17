@@ -1,0 +1,79 @@
+{
+    "ark": "ark:/21198/tedescpl1",
+    "type": {
+        "id": "settlement",
+        "label": "Settlement"
+    },
+    "pref_name": "Preferred place name",
+    "alt_name": [
+        "First alternate place name",
+        "Second alternate place name"
+    ],
+    "desc": "A prose description of the place, providing context about its historical significance, geographic location, and relevance to manuscript production or transmission. This field can accommodate a short phrase or a full paragraph.",
+    "rel_con": [
+        {
+            "label": "Place name as it appears in an external authority file",
+            "uri": "https://viaf.org/viaf/000000001",
+            "source": "VIAF"
+        },
+        {
+            "label": "Place name as it appears in Library of Congress authority",
+            "uri": "http://id.loc.gov/authorities/names/n00000001",
+            "source": "LoC"
+        }
+    ],
+    "refno": [
+        {
+            "label": "Reference number label",
+            "idno": "REF-0001",
+            "source": "TLG"
+        }
+    ],
+    "note": [
+        "This is a first general note about the place. Notes are plain strings and can be short or a full paragraph.",
+        "This is a second general note to show that the note field is repeatable."
+    ],
+    "bib": [
+        {
+            "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a reference work. Can include author, title, publisher, date, and page range.",
+            "range": "Page/range, e.g. pp. 1-10",
+            "note": [
+                "A note about this bibliographic entry and its relevance"
+            ]
+        },
+        {
+            "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a secondary citation. This is a second bib entry to show the field is repeatable.",
+            "range": "Page/range",
+            "url": "https://example.org/link-to-online-resource",
+            "alt_shelf": "[alt-shelf]"
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit, e.g. initial description or update to existing record.",
+            "contributor": [
+                "First Contributor Name",
+                "Second Contributor Name"
+            ],
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        },
+        {
+            "message": "Second cataloguer entry to show the field is repeatable. Describes a subsequent edit or update.",
+            "added_by": "username2",
+            "timestamp": "2025-06-01T14:00:00Z"
+        }
+    ]
+}

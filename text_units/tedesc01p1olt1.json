@@ -1,0 +1,468 @@
+{
+    "ark": "ark:/21198/tedesc01p1olt1",
+    "reconstruction": false,
+    "label": "Primary text unit label, e.g. name of the main text",
+    "summary": "A summary of the text unit content. This is a medium-length prose description that provides an overview of what this text unit contains, its language, and any notable features.",
+    "locus": "Locus of the text unit, e.g. ff. 1r-85v",
+    "lang": [
+        {
+            "id": "arab1395",
+            "label": "Arabic"
+        },
+        {
+            "id": "gree1276",
+            "label": "Greek"
+        }
+    ],
+    "work_wit": [
+        {
+            "work": {
+                "id": "ark:/21198/tedescw1"
+            },
+            "locus": "Locus of this work witness, e.g. ff. 1r-45v",
+            "alt_title": "Witness-specific alternate title, e.g. title as given in this manuscript",
+            "as_written": "Title or incipit as written in the manuscript, in the original script",
+            "excerpt": [
+                {
+                    "type": {
+                        "id": "heading",
+                        "label": "Heading"
+                    },
+                    "locus": "Locus of the heading, e.g. f. 1r",
+                    "as_written": "Heading text as written in the original script",
+                    "translation": [
+                        "English translation of the heading text"
+                    ],
+                    "note": [
+                        "A note about this heading, e.g. decorative heading in red ink"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "incipit",
+                        "label": "Incipit"
+                    },
+                    "locus": "Locus of the incipit, e.g. f. 1v",
+                    "as_written": "Incipit text as written in the original script",
+                    "translation": [
+                        "English translation of the incipit text"
+                    ],
+                    "note": [
+                        "A note about the incipit, e.g. standard opening formula"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "inc-mut",
+                        "label": "First Preserved Line"
+                    },
+                    "locus": "Locus of the first preserved line, e.g. f. 3r",
+                    "as_written": "First preserved line as written in the original script",
+                    "translation": [
+                        "English translation of the first preserved line"
+                    ],
+                    "note": [
+                        "A note explaining why the text begins imperfectly, e.g. folio lost"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "quote",
+                        "label": "Quote"
+                    },
+                    "locus": "Locus of the quoted passage, e.g. f. 20v",
+                    "as_written": "Quoted passage as written in the original script",
+                    "translation": [
+                        "English translation of the quoted passage"
+                    ],
+                    "note": [
+                        "A note identifying the source of the quotation"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "subscription",
+                        "label": "Subscription"
+                    },
+                    "locus": "Locus of the subscription, e.g. f. 85v",
+                    "as_written": "Subscription text as written in the original script",
+                    "translation": [
+                        "English translation of the subscription"
+                    ],
+                    "note": [
+                        "A note about the subscription, e.g. colophon in red ink"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "explicit",
+                        "label": "Explicit"
+                    },
+                    "locus": "Locus of the explicit, e.g. f. 85v",
+                    "as_written": "Explicit text as written in the original script",
+                    "translation": [
+                        "English translation of the explicit"
+                    ],
+                    "note": [
+                        "A note about the explicit"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "des-mut",
+                        "label": "Last Preserved Line"
+                    },
+                    "locus": "Locus of the last preserved line, e.g. f. 85v",
+                    "as_written": "Last preserved line as written in the original script",
+                    "translation": [
+                        "English translation of the last preserved line"
+                    ],
+                    "note": [
+                        "A note explaining why the text ends imperfectly, e.g. remainder lost"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "prologue",
+                        "label": "Prologue"
+                    },
+                    "locus": "Locus of the prologue, e.g. f. 1r",
+                    "as_written": "Prologue text as written in the original script",
+                    "translation": [
+                        "English translation of the prologue"
+                    ],
+                    "note": [
+                        "A note about the prologue"
+                    ]
+                }
+            ],
+            "contents": [
+                {
+                    "label": "Section label, e.g. Chapter 1 — short contents entry",
+                    "locus": "ff. 1r-10v"
+                },
+                {
+                    "label": "Section label with a linked work record, e.g. Part 1",
+                    "work_id": "ark:/21198/tedescw2",
+                    "locus": "ff. 11r-25v",
+                    "note": [
+                        "A note about this section, e.g. marginalia or corrections present"
+                    ]
+                },
+                {
+                    "label": "Section label — third contents entry to show repeatability",
+                    "locus": "ff. 26r-40v"
+                },
+                {
+                    "label": "Section label — fourth entry",
+                    "locus": "ff. 41r-55v"
+                },
+                {
+                    "label": "Section label — fifth entry",
+                    "locus": "ff. 56r-70v"
+                },
+                {
+                    "label": "Section label — sixth entry",
+                    "locus": "ff. 71r-85v"
+                }
+            ],
+            "note": [
+                "A note about this work witness, e.g. translation tradition or textual affiliation.",
+                "A second note about this work witness to show the note field is repeatable."
+            ],
+            "bib": [
+                {
+                    "id": "c9d0e1f2-a3b4-5678-cdef-789012345678",
+                    "type": {
+                        "id": "ref",
+                        "label": "Reference Work"
+                    },
+                    "shortcode": "Author YYYY",
+                    "citation": "Full bibliographic citation string for a reference work cited for this work witness.",
+                    "range": "Page or range reference"
+                },
+                {
+                    "id": "d0e1f2a3-b4c5-6789-defa-890123456789",
+                    "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                    },
+                    "shortcode": "Author YYYY",
+                    "citation": "Full bibliographic citation string. Second bib entry to show repeatability.",
+                    "range": "Page or range reference",
+                    "url": "https://example.org/link-to-online-resource"
+                }
+            ]
+        },
+        {
+            "work": {
+                "desc_title": "Descriptive title for an unidentified or unlinked work, e.g. Unidentified liturgical text",
+                "genre": [
+                    {
+                        "id": "liturgical-texts",
+                        "label": "Liturgical texts"
+                    }
+                ]
+            },
+            "locus": "Locus of this second work witness, e.g. ff. 86r-90v",
+            "as_written": "Title or incipit as written for the second work witness",
+            "excerpt": [
+                {
+                    "type": {
+                        "id": "incipit",
+                        "label": "Incipit"
+                    },
+                    "locus": "f. 86r",
+                    "as_written": "Incipit text of the second work witness",
+                    "translation": [
+                        "English translation of the second work witness incipit"
+                    ]
+                }
+            ],
+            "note": [
+                "A note about this desc_title work witness, showing the unlinked work pattern."
+            ]
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "framing",
+                "label": "Framing"
+            },
+            "subtype": [
+                {
+                    "id": "rubric",
+                    "label": "Rubric"
+                },
+                {
+                    "id": "heading",
+                    "label": "Heading"
+                }
+            ],
+            "locus": "Locus of the paracontent item, e.g. f. 1r",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "Paracontent text as written in the original script",
+            "translation": [
+                "English translation of the paracontent text"
+            ],
+            "assoc_name": [
+                {
+                    "id": "ark:/21198/tedesca1",
+                    "role": {
+                        "id": "scribe",
+                        "label": "Scribe"
+                    },
+                    "as_written": "Name as written in the paracontent",
+                    "note": [
+                        "A note about this associated name in the paracontent"
+                    ]
+                }
+            ],
+            "assoc_place": [
+                {
+                    "id": "ark:/21198/tedescpl1",
+                    "event": {
+                        "id": "origin",
+                        "label": "Origin Place"
+                    },
+                    "as_written": "Place name as written in the paracontent",
+                    "note": [
+                        "A note about this associated place in the paracontent"
+                    ]
+                }
+            ],
+            "assoc_date": [
+                {
+                    "type": {
+                        "id": "origin",
+                        "label": "Origin Date"
+                    },
+                    "value": "Date as written in the paracontent, e.g. 10th c. CE",
+                    "iso": {
+                        "not_before": "0901",
+                        "not_after": "1000"
+                    },
+                    "note": [
+                        "A note about this date, e.g. derived from colophon"
+                    ]
+                }
+            ],
+            "note": [
+                "A note about this paracontent item, e.g. rubric in red ink.",
+                "A second note to show the note field is repeatable."
+            ]
+        },
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "colophon",
+                    "label": "Colophon"
+                }
+            ],
+            "locus": "Locus of the colophon, e.g. f. 85v",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "Colophon text as written in the original script",
+            "translation": [
+                "English translation of the colophon text"
+            ],
+            "assoc_name": [
+                {
+                    "id": "ark:/21198/tedesca1",
+                    "role": {
+                        "id": "scribe",
+                        "label": "Scribe"
+                    },
+                    "as_written": "Scribe name as written in the colophon",
+                    "note": [
+                        "Named in the colophon as the copyist"
+                    ]
+                },
+                {
+                    "value": "Patron name as a free-text value when not linked to an agent record",
+                    "role": {
+                        "id": "patron",
+                        "label": "Patron"
+                    },
+                    "note": [
+                        "Referenced in the colophon but not linked to an agent record"
+                    ]
+                }
+            ],
+            "assoc_place": [
+                {
+                    "id": "ark:/21198/tedescpl1",
+                    "event": {
+                        "id": "origin",
+                        "label": "Origin Place"
+                    },
+                    "as_written": "Place name as written in the colophon",
+                    "note": [
+                        "Named in the colophon as the place of production"
+                    ]
+                }
+            ],
+            "assoc_date": [
+                {
+                    "type": {
+                        "id": "origin",
+                        "label": "Origin Date"
+                    },
+                    "value": "Origin date as expressed in the colophon, e.g. 10th c. CE",
+                    "iso": {
+                        "not_before": "0901",
+                        "not_after": "1000"
+                    },
+                    "note": [
+                        "Date derived from the colophon; confirmed by paleographic dating"
+                    ]
+                }
+            ],
+            "note": [
+                "A note about this colophon, e.g. partially damaged; final lines illegible."
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "dated",
+            "label": "Dated"
+        },
+        {
+            "id": "unidentified-text",
+            "label": "Unidentified Text"
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "contents",
+                "label": "Contents Note"
+            },
+            "value": "This is a contents note. It describes the textual contents of the text unit in prose form. It can be a short phrase or a full paragraph."
+        },
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "This is a general note. It can contain any additional information about the text unit not covered by other fields. The note field is repeatable."
+        },
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "This is a second general note to show that multiple notes of the same type are allowed."
+        }
+    ],
+    "bib": [
+        {
+            "id": "e1f2a3b4-c5d6-7890-efab-901234567890",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a reference work cited at the text unit level.",
+            "range": "Page or range reference",
+            "alt_shelf": "[Alternate shelfmark from an older catalog, e.g. 652]",
+            "note": [
+                "A note about this bibliographic entry"
+            ]
+        },
+        {
+            "id": "f2a3b4c5-d6e7-8901-fabc-012345678901",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string. Second bib entry at text unit level to show repeatability.",
+            "range": "Page or range reference",
+            "url": "https://example.org/link-to-online-resource"
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Description program name, e.g. Sinai Arabic Manuscripts Project",
+                "description": "Full description of the program under which this record was created, including dates, funders, and project goals. This can be a long paragraph."
+            }
+        ],
+        "rights": "Rights statement for the descriptive metadata."
+    },
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit, e.g. initial description or migration from legacy system.",
+            "contributor": [
+                "First Contributor Name",
+                "Second Contributor Name"
+            ],
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        },
+        {
+            "message": "Second cataloguer entry to show the field is repeatable. Describes a subsequent update.",
+            "added_by": "username2",
+            "timestamp": "2025-06-01T14:00:00Z"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tedesc01p1ol"
+    ]
+}

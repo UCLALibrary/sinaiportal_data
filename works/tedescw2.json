@@ -1,0 +1,47 @@
+{
+    "ark": "ark:/21198/tedescw2",
+    "pref_title": "Preferred title of a sub-work or section, e.g. used in contents work_id",
+    "alt_title": [
+        "Alternate title for this sub-work"
+    ],
+    "desc": "A prose description of this sub-work or section, used to demonstrate the work_id field in contents entries.",
+    "genre": [
+        {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+        }
+    ],
+    "rel_work": [
+        {
+            "id": "ark:/21198/tedescw1",
+            "rel": [
+                {
+                    "id": "part-of",
+                    "label": "Part of"
+                }
+            ]
+        }
+    ],
+    "note": [
+        "This work record exists to demonstrate the work_id field in a contents entry within a work_wit."
+    ],
+    "bib": [
+        {
+            "id": "b8c9d0e1-f2a3-4567-bcde-678901234567",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a reference work.",
+            "range": "Page or range reference"
+        }
+    ],
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit.",
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        }
+    ]
+}

@@ -1,0 +1,405 @@
+{
+    "ark": "ark:/21198/tedesc01p1ol",
+    "reconstruction": false,
+    "state": {
+        "id": "overtext",
+        "label": "Overtext"
+    },
+    "label": "Overtext layer label, e.g. manuscript name, part, and script description",
+    "locus": "Locus of the overtext layer, e.g. ff. 1r-85v",
+    "summary": "A summary of the overtext layer. Describes the script, date, language, and content in a brief prose statement.",
+    "extent": "Extent of the overtext layer, e.g. 85 ff.",
+    "writing": [
+        {
+            "script": [
+                {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                },
+                {
+                    "id": "kufic",
+                    "label": "Kufic",
+                    "writing_system": "Arabic"
+                }
+            ],
+            "locus": "Locus where this script is used, e.g. ff. 1r-85v",
+            "note": [
+                "A note about this script, e.g. formal Naskh hand throughout.",
+                "A second note about the script to show the note field is repeatable."
+            ]
+        },
+        {
+            "script": [
+                {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                }
+            ],
+            "locus": "Locus where a second script is used, e.g. ff. 1r-5v",
+            "note": [
+                "A note about this second script entry, showing multiple writing instances."
+            ]
+        }
+    ],
+    "ink": [
+        {
+            "locus": "Locus for this ink entry, e.g. ff. 1r-85v",
+            "color": [
+                "brown",
+                "black"
+            ],
+            "note": [
+                "A note about the ink, e.g. main text in brown iron gall ink.",
+                "A second note about the ink to show repeatability."
+            ]
+        },
+        {
+            "locus": "Locus for a second ink entry, e.g. ff. 1r-10v",
+            "color": [
+                "red",
+                "gold",
+                "blue"
+            ],
+            "note": [
+                "A note about decorative ink colors used in headings and illuminations."
+            ]
+        }
+    ],
+    "layout": [
+        {
+            "locus": "Locus for this layout entry, e.g. ff. 1r-70v",
+            "columns": "1 column",
+            "lines": "21 lines",
+            "dim": "Writing area dimensions, e.g. 240 x 160 mm",
+            "note": [
+                "A note about the layout, e.g. ruled in drypoint; text written below top line.",
+                "A second layout note to show the note field is repeatable."
+            ]
+        },
+        {
+            "locus": "Locus for a second layout entry, e.g. ff. 71r-85v",
+            "columns": "2 columns",
+            "lines": "21-23 lines",
+            "dim": "Writing area dimensions for the second layout section",
+            "note": [
+                "A note about the second layout, e.g. layout shifts to two columns in final quires."
+            ]
+        }
+    ],
+    "text_unit": [
+        {
+            "id": "ark:/21198/tedesc01p1olt1",
+            "label": "Primary text unit label",
+            "locus": "Locus of primary text unit"
+        },
+        {
+            "id": "ark:/21198/tedesc01p1olt2",
+            "label": "Secondary text unit label",
+            "locus": "Locus of secondary text unit"
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "framing",
+                "label": "Framing"
+            },
+            "subtype": [
+                {
+                    "id": "rubric",
+                    "label": "Rubric"
+                },
+                {
+                    "id": "colophon",
+                    "label": "Colophon"
+                }
+            ],
+            "locus": "Locus of the paracontent item, e.g. f. 1r",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "Paracontent text as written in the original script",
+            "translation": [
+                "English translation of the paracontent"
+            ],
+            "assoc_name": [
+                {
+                    "id": "ark:/21198/tedesca1",
+                    "role": {
+                        "id": "scribe",
+                        "label": "Scribe"
+                    },
+                    "as_written": "Name as written in the paracontent"
+                }
+            ],
+            "assoc_place": [
+                {
+                    "id": "ark:/21198/tedescpl1",
+                    "event": {
+                        "id": "origin",
+                        "label": "Origin Place"
+                    }
+                }
+            ],
+            "assoc_date": [
+                {
+                    "type": {
+                        "id": "origin",
+                        "label": "Origin Date"
+                    },
+                    "value": "Date as expressed in the paracontent",
+                    "iso": {
+                        "not_before": "0901",
+                        "not_after": "1000"
+                    }
+                }
+            ],
+            "note": [
+                "A note about this paracontent item.",
+                "A second note to show the note field is repeatable."
+            ]
+        },
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "possession-note",
+                    "label": "Possession Note"
+                }
+            ],
+            "locus": "Locus of the possession note, e.g. f. 90v",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "Possession note text as written in the original script",
+            "translation": [
+                "English translation of the possession note"
+            ],
+            "note": [
+                "A note about this possession note."
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "dated",
+            "label": "Dated"
+        },
+        {
+            "id": "headpiece",
+            "label": "Headpiece(s)"
+        },
+        {
+            "id": "deco-geometric",
+            "label": "Decoration, Geometric"
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "Origin date as a human-readable string, e.g. 10th c. CE",
+            "iso": {
+                "not_before": "0901",
+                "not_after": "1000"
+            },
+            "note": [
+                "A note about this date, e.g. paleographic dating"
+            ]
+        },
+        {
+            "type": {
+                "id": "acquisition",
+                "label": "Acquisition Date"
+            },
+            "value": "Acquisition date as a human-readable string, e.g. ca. 1200 CE",
+            "iso": {
+                "not_before": "1195",
+                "not_after": "1205"
+            },
+            "note": [
+                "A note about the acquisition date"
+            ]
+        }
+    ],
+    "assoc_name": [
+        {
+            "id": "ark:/21198/tedesca1",
+            "role": {
+                "id": "scribe",
+                "label": "Scribe"
+            },
+            "as_written": "Scribe name as written in the manuscript",
+            "note": [
+                "A note about this scribe, e.g. named in the colophon"
+            ]
+        },
+        {
+            "value": "Free-text name value when not linked to an agent record",
+            "role": {
+                "id": "patron",
+                "label": "Patron"
+            },
+            "note": [
+                "A note about this patron, e.g. referenced in colophon but name illegible"
+            ]
+        }
+    ],
+    "assoc_place": [
+        {
+            "id": "ark:/21198/tedescpl1",
+            "event": {
+                "id": "origin",
+                "label": "Origin Place"
+            },
+            "as_written": "Place name as written in the manuscript",
+            "note": [
+                "A note about this place, e.g. named in the colophon"
+            ]
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "foliation",
+                "label": "Foliation"
+            },
+            "value": "This is a foliation note. It describes the foliation system used in this layer, e.g. modern pencil foliation in Arabic numerals."
+        },
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "This is a condition note. It describes the physical condition of this layer, e.g. water damage, staining, or losses."
+        },
+        {
+            "type": {
+                "id": "collation",
+                "label": "Collation Note"
+            },
+            "value": "This is a collation note. It describes quire structure, catchwords, or signatures relevant to this layer."
+        },
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "This is a general note. It can contain any additional information not covered by other note types."
+        },
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "This is a second general note to show that multiple notes of the same type are allowed and that the note field is repeatable."
+        }
+    ],
+    "bib": [
+        {
+            "id": "a1a2a3a4-b1b2-c1c2-d1d2-e1e2e3e4e5e6",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a reference work cited at the layer level.",
+            "range": "Page or range reference",
+            "alt_shelf": "[Alternate shelfmark from an older catalog, e.g. 652]",
+            "note": [
+                "A note about this bibliographic entry"
+            ]
+        },
+        {
+            "id": "b2b3b4b5-c2c3-d2d3-e2e3-f2f3f4f5f6f7",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string. Second bib entry at layer level to show repeatability.",
+            "range": "Page or range reference",
+            "url": "https://example.org/link-to-online-resource"
+        }
+    ],
+    "related_mss": [
+        {
+            "type": {
+                "id": "disjecta",
+                "label": "Disjecta Membra"
+            },
+            "label": "Label for a disjecta membra relationship, e.g. name of the group of related manuscripts",
+            "note": [
+                "A note about this disjecta membra relationship.",
+                "A second note to show repeatability."
+            ],
+            "mss": [
+                {
+                    "label": "Label of the first related manuscript",
+                    "id": "ark:/21198/z1ms5bh5"
+                },
+                {
+                    "label": "Label of the second related manuscript",
+                    "id": "ark:/21198/z1kw70s3",
+                    "url": "https://example.org/link-to-related-manuscript"
+                }
+            ]
+        },
+        {
+            "type": {
+                "id": "filiation",
+                "label": "Filiation"
+            },
+            "label": "Label for a filiation relationship, e.g. related manuscripts in the same text tradition",
+            "note": [
+                "A note about this filiation relationship."
+            ],
+            "mss": [
+                {
+                    "label": "Label of a filiation-related manuscript",
+                    "id": "ark:/21198/z1vx215c"
+                }
+            ]
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Description program name",
+                "description": "Full description of the program under which this layer record was created."
+            }
+        ]
+    },
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit.",
+            "contributor": [
+                "First Contributor Name",
+                "Second Contributor Name"
+            ],
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        },
+        {
+            "message": "Second cataloguer entry to show the field is repeatable.",
+            "added_by": "username2",
+            "timestamp": "2025-06-01T14:00:00Z"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tedesc01"
+    ]
+}

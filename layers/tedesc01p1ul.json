@@ -1,0 +1,230 @@
+{
+    "ark": "ark:/21198/tedesc01p1ul",
+    "reconstruction": false,
+    "state": {
+        "id": "undertext",
+        "label": "Undertext"
+    },
+    "label": "Undertext layer label, e.g. manuscript name, part, and undertext description",
+    "locus": "Locus of the undertext layer, e.g. ff. 10-25, 30-45",
+    "summary": "A summary of the undertext layer. Describes the script, date, language, and content recovered via multispectral imaging.",
+    "extent": "Extent of the undertext layer, e.g. 30 ff. (partial)",
+    "writing": [
+        {
+            "script": [
+                {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                }
+            ],
+            "locus": "Locus of the undertext script",
+            "note": [
+                "A note about the undertext script, e.g. round biblical majuscule.",
+                "A second note about the undertext script."
+            ]
+        }
+    ],
+    "ink": [
+        {
+            "locus": "Locus of the undertext ink",
+            "color": [
+                "brown"
+            ],
+            "note": [
+                "A note about the undertext ink, e.g. iron gall ink, heavily faded; visible under MSI."
+            ]
+        }
+    ],
+    "layout": [
+        {
+            "locus": "Locus of the undertext layout",
+            "columns": "1 column",
+            "lines": "24 lines",
+            "dim": "Reconstructed writing area dimensions of the undertext",
+            "note": [
+                "A note about the undertext layout, e.g. layout reconstructed from surviving line spacing."
+            ]
+        }
+    ],
+    "text_unit": [
+        {
+            "id": "ark:/21198/tedesc01p1ult1",
+            "label": "Undertext text unit label",
+            "locus": "Locus of the undertext text unit"
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "framing",
+                "label": "Framing"
+            },
+            "subtype": [
+                {
+                    "id": "rubric",
+                    "label": "Rubric"
+                }
+            ],
+            "locus": "Locus of a rubric in the undertext",
+            "lang": [
+                {
+                    "id": "gree1276",
+                    "label": "Greek"
+                }
+            ],
+            "as_written": "Rubric text as written in the undertext",
+            "translation": [
+                "English translation of the undertext rubric"
+            ],
+            "note": [
+                "A note about this undertext rubric, e.g. partially legible under MSI."
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "msi",
+            "label": "Multispectral Imaging"
+        },
+        {
+            "id": "palimpsest",
+            "label": "Palimpsest"
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "Origin date of the undertext as a human-readable string, e.g. 5th c. CE",
+            "iso": {
+                "not_before": "0401",
+                "not_after": "0500"
+            },
+            "note": [
+                "A note about the undertext date, e.g. paleographic dating."
+            ]
+        }
+    ],
+    "assoc_name": [
+        {
+            "value": "Unknown scribe of the undertext",
+            "role": {
+                "id": "scribe",
+                "label": "Scribe"
+            },
+            "note": [
+                "Identity of the undertext scribe unknown."
+            ]
+        }
+    ],
+    "assoc_place": [
+        {
+            "id": "ark:/21198/tedescpl1",
+            "event": {
+                "id": "origin",
+                "label": "Origin Place"
+            },
+            "note": [
+                "Tentative origin place attribution for the undertext."
+            ]
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "This is a general note about the undertext layer. Undertext layer records often describe the method of recovery and the state of legibility."
+        },
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "This is a condition note for the undertext layer, e.g. erased prior to reuse; recoverable only under multispectral imaging."
+        },
+        {
+            "type": {
+                "id": "foliation",
+                "label": "Foliation"
+            },
+            "value": "This is a foliation note for the undertext layer, e.g. folios in reconstructed undertext order not yet determined."
+        }
+    ],
+    "bib": [
+        {
+            "id": "a1a2a3a4-b1b2-c1c2-d1d2-e1e2e3e4e5e6",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a reference work cited at the layer level.",
+            "range": "Page or range reference",
+            "alt_shelf": "[Alternate shelfmark from an older catalog, e.g. 652]",
+            "note": [
+                "A note about this bibliographic entry"
+            ]
+        },
+        {
+            "id": "b2b3b4b5-c2c3-d2d3-e2e3-f2f3f4f5f6f7",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string. Second bib entry at layer level to show repeatability.",
+            "range": "Page or range reference",
+            "url": "https://example.org/link-to-online-resource"
+        }
+    ],
+    "related_mss": [
+        {
+            "type": {
+                "id": "filiation",
+                "label": "Filiation"
+            },
+            "label": "Label for related undertext layers, e.g. other undertext layers from the same original manuscript",
+            "note": [
+                "A note about the relationship between these undertext layers."
+            ],
+            "mss": [
+                {
+                    "label": "Label of a related undertext layer or manuscript",
+                    "id": "ark:/21198/z1g4681n"
+                }
+            ]
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Description program name",
+                "description": "Full description of the program under which this layer record was created."
+            }
+        ]
+    },
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit.",
+            "contributor": [
+                "First Contributor Name",
+                "Second Contributor Name"
+            ],
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        },
+        {
+            "message": "Second cataloguer entry to show the field is repeatable.",
+            "added_by": "username2",
+            "timestamp": "2025-06-01T14:00:00Z"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tedesc01"
+    ]
+}

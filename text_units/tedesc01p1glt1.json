@@ -1,0 +1,176 @@
+{
+    "ark": "ark:/21198/tedesc01p1glt1",
+    "reconstruction": false,
+    "label": "Guest content text unit label, e.g. name of the guest text",
+    "summary": "A summary of the guest content. Describes what has been identified in the guest layer, which may be later additions, marginal notes, or content on reused material.",
+    "locus": "Locus of the guest content, e.g. f. 1v or f. 90r, margin",
+    "lang": [
+        {
+            "id": "gree1276",
+            "label": "Greek"
+        },
+        {
+            "id": "arab1395",
+            "label": "Arabic"
+        }
+    ],
+    "work_wit": [
+        {
+            "work": {
+                "desc_title": "Descriptive title for the guest content, e.g. Ownership inscription or Marginal note",
+                "genre": [
+                    {
+                        "id": "documentary-texts",
+                        "label": "Documentary texts"
+                    }
+                ]
+            },
+            "locus": "Locus of the guest work witness",
+            "as_written": "Guest content text as written in the original script",
+            "excerpt": [
+                {
+                    "type": {
+                        "id": "incipit",
+                        "label": "Incipit"
+                    },
+                    "locus": "Locus of the guest content incipit",
+                    "as_written": "Incipit of the guest content as written",
+                    "translation": [
+                        "English translation of the guest content incipit"
+                    ],
+                    "note": [
+                        "A note about the guest content incipit, e.g. standard ownership formula"
+                    ]
+                }
+            ],
+            "note": [
+                "A note about this guest content work witness, e.g. added in a later hand.",
+                "A second note about the guest content to show the field is repeatable."
+            ],
+            "bib": [
+                {
+                    "id": "c5d6e7f8-a9b0-1234-cdef-345678901234",
+                    "type": {
+                        "id": "ref",
+                        "label": "Reference Work"
+                    },
+                    "shortcode": "Author YYYY",
+                    "citation": "Full bibliographic citation for a reference work noting this guest content.",
+                    "range": "Page or range reference"
+                }
+            ]
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "possession-note",
+                    "label": "Possession Note"
+                },
+                {
+                    "id": "waqf-endow",
+                    "label": "Waqf/Endowment"
+                }
+            ],
+            "locus": "Locus of the possession note within the guest content",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "Possession note text as written in the original script",
+            "translation": [
+                "English translation of the possession note"
+            ],
+            "assoc_name": [
+                {
+                    "value": "Owner or institution name as a free-text value",
+                    "role": {
+                        "id": "owner",
+                        "label": "Owner"
+                    },
+                    "note": [
+                        "Name of the owner as identified from the possession note"
+                    ]
+                }
+            ],
+            "note": [
+                "A note about this possession note, e.g. ink faded; partially illegible.",
+                "A second note — this para entry has two subtypes to show multi-value subtype array."
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "unidentified-text",
+            "label": "Unidentified Text"
+        },
+        {
+            "id": "msi",
+            "label": "Multispectral Imaging"
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "This is a note about the guest content text unit. Guest content records often describe the nature of the addition and its relationship to the main text."
+        },
+        {
+            "type": {
+                "id": "contents",
+                "label": "Contents Note"
+            },
+            "value": "This is a contents note for the guest content, describing what has been identified and what remains uncertain."
+        }
+    ],
+    "bib": [
+        {
+            "id": "d6e7f8a9-b0c1-2345-defa-456789012345",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation for a reference work noting this guest content.",
+            "range": "Page or range reference",
+            "alt_shelf": "[Alternate shelfmark from an older catalog]"
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Description program name, e.g. Sinai Arabic Manuscripts Project",
+                "description": "Full description of the program under which this record was created, including dates, funders, and project goals. This can be a long paragraph."
+            }
+        ],
+        "rights": "Rights statement for the descriptive metadata."
+    },
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit, e.g. initial description or migration from legacy system.",
+            "contributor": [
+                "First Contributor Name",
+                "Second Contributor Name"
+            ],
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        },
+        {
+            "message": "Second cataloguer entry to show the field is repeatable. Describes a subsequent update.",
+            "added_by": "username2",
+            "timestamp": "2025-06-01T14:00:00Z"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tedesc01p1gl"
+    ]
+}

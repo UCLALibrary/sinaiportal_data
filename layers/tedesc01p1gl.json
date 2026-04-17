@@ -1,0 +1,265 @@
+{
+    "ark": "ark:/21198/tedesc01p1gl",
+    "reconstruction": false,
+    "state": {
+        "id": "guest",
+        "label": "Guest Content"
+    },
+    "label": "Guest content layer label, e.g. manuscript name, part, and guest content description",
+    "locus": "Locus of the guest content layer, e.g. f. 1v or ff. 1v-4r",
+    "summary": "A summary of the guest content layer. Describes what has been identified, how it was added, and its relationship to the main manuscript.",
+    "extent": "Extent of the guest content, e.g. 4 ff. or f. 1v (partial)",
+    "writing": [
+        {
+            "script": [
+                {
+                    "id": "greek-min",
+                    "label": "Greek minuscule",
+                    "writing_system": "Greek"
+                }
+            ],
+            "locus": "Locus of the guest content script",
+            "note": [
+                "A note about the guest content script, e.g. informal 13th-century minuscule hand.",
+                "A second note about the guest content script."
+            ]
+        }
+    ],
+    "ink": [
+        {
+            "locus": "Locus of the guest content ink",
+            "color": [
+                "black",
+                "red"
+            ],
+            "note": [
+                "A note about the guest content ink, e.g. main text in black; rubrics in red."
+            ]
+        }
+    ],
+    "layout": [
+        {
+            "locus": "Locus of the guest content layout",
+            "columns": "1 column",
+            "lines": "10-12 lines",
+            "dim": "Writing area dimensions of the guest content, e.g. 80 x 120 mm",
+            "note": [
+                "A note about the guest content layout, e.g. written in available space on the flyleaf."
+            ]
+        }
+    ],
+    "text_unit": [
+        {
+            "id": "ark:/21198/tedesc01p1glt1",
+            "label": "Guest content text unit label",
+            "locus": "Locus of the guest content text unit"
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "possession-note",
+                    "label": "Possession Note"
+                },
+                {
+                    "id": "waqf-endow",
+                    "label": "Waqf/Endowment"
+                }
+            ],
+            "locus": "Locus of the possession note in the guest layer",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "Possession note text as written in the original script",
+            "translation": [
+                "English translation of the possession note"
+            ],
+            "assoc_name": [
+                {
+                    "value": "Owner or institution name as a free-text value",
+                    "role": {
+                        "id": "owner",
+                        "label": "Owner"
+                    }
+                }
+            ],
+            "note": [
+                "A note about this possession note in the guest layer.",
+                "A second note — this para entry demonstrates a multi-value subtype array."
+            ]
+        },
+        {
+            "type": {
+                "id": "misc",
+                "label": "Miscellaneous"
+            },
+            "subtype": [
+                {
+                    "id": "reader-note",
+                    "label": "Reader's Note"
+                }
+            ],
+            "locus": "Locus of a reader note in the guest layer",
+            "lang": [
+                {
+                    "id": "gree1276",
+                    "label": "Greek"
+                }
+            ],
+            "as_written": "Reader note text as written in the original script",
+            "translation": [
+                "English translation of the reader note"
+            ],
+            "note": [
+                "A note about this reader note in the guest layer."
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "unidentified-text",
+            "label": "Unidentified Text"
+        },
+        {
+            "id": "msi",
+            "label": "Multispectral Imaging"
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "Origin date of the guest content as a human-readable string, e.g. 13th c. CE",
+            "iso": {
+                "not_before": "1201",
+                "not_after": "1300"
+            },
+            "note": [
+                "A note about the guest content date, e.g. paleographic dating."
+            ]
+        }
+    ],
+    "assoc_name": [
+        {
+            "value": "Annotator or owner name as a free-text value",
+            "role": {
+                "id": "annotator",
+                "label": "Annotator"
+            },
+            "note": [
+                "A note about this annotator."
+            ]
+        }
+    ],
+    "assoc_place": [
+        {
+            "id": "ark:/21198/tedescpl1",
+            "event": {
+                "id": "repository",
+                "label": "Repository"
+            },
+            "note": [
+                "A note about the repository of the guest content."
+            ]
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "This is a general note about the guest content layer. Guest content records describe additions, marginal notes, or content on reused material."
+        },
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "This is a condition note for the guest content layer, e.g. ink partially faded; text legible with difficulty."
+        }
+    ],
+    "bib": [
+        {
+            "id": "a1a2a3a4-b1b2-c1c2-d1d2-e1e2e3e4e5e6",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a reference work cited at the layer level.",
+            "range": "Page or range reference",
+            "alt_shelf": "[Alternate shelfmark from an older catalog, e.g. 652]",
+            "note": [
+                "A note about this bibliographic entry"
+            ]
+        },
+        {
+            "id": "b2b3b4b5-c2c3-d2d3-e2e3-f2f3f4f5f6f7",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string. Second bib entry at layer level to show repeatability.",
+            "range": "Page or range reference",
+            "url": "https://example.org/link-to-online-resource"
+        }
+    ],
+    "related_mss": [
+        {
+            "type": {
+                "id": "filiation",
+                "label": "Filiation"
+            },
+            "label": "Label for related guest content layers in other manuscripts",
+            "note": [
+                "A note about the relationship between these guest content layers."
+            ],
+            "mss": [
+                {
+                    "label": "Label of a related manuscript with similar guest content",
+                    "id": "ark:/21198/z1r518bm",
+                    "url": "https://example.org/link-to-related-manuscript"
+                }
+            ]
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Description program name",
+                "description": "Full description of the program under which this layer record was created."
+            }
+        ]
+    },
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit.",
+            "contributor": [
+                "First Contributor Name",
+                "Second Contributor Name"
+            ],
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        },
+        {
+            "message": "Second cataloguer entry to show the field is repeatable.",
+            "added_by": "username2",
+            "timestamp": "2025-06-01T14:00:00Z"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tedesc01"
+    ]
+}

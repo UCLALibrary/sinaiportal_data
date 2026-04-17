@@ -1,0 +1,165 @@
+{
+    "ark": "ark:/21198/tedesc01p1ult1",
+    "reconstruction": false,
+    "label": "Undertext text unit label, e.g. name of the undertext",
+    "summary": "A summary of the undertext content. Describes what has been identified in the undertext layer, typically recovered via multispectral imaging.",
+    "locus": "Locus of the undertext, e.g. ff. 10-25, 30-45",
+    "lang": [
+        {
+            "id": "gree1276",
+            "label": "Greek"
+        }
+    ],
+    "work_wit": [
+        {
+            "work": {
+                "id": "ark:/21198/tedescw1"
+            },
+            "locus": "Locus of the undertext work witness",
+            "as_written": "Undertext incipit as written in the original script",
+            "excerpt": [
+                {
+                    "type": {
+                        "id": "inc-mut",
+                        "label": "First Preserved Line"
+                    },
+                    "locus": "First locus of the undertext",
+                    "as_written": "First preserved line of the undertext as written",
+                    "translation": [
+                        "English translation of the first preserved line"
+                    ],
+                    "note": [
+                        "Text begins imperfectly; opening section lost"
+                    ]
+                },
+                {
+                    "type": {
+                        "id": "des-mut",
+                        "label": "Last Preserved Line"
+                    },
+                    "locus": "Last locus of the undertext",
+                    "as_written": "Last preserved line of the undertext as written",
+                    "translation": [
+                        "English translation of the last preserved line"
+                    ],
+                    "note": [
+                        "Text ends imperfectly; remainder lost or illegible"
+                    ]
+                }
+            ],
+            "note": [
+                "A note about the undertext work witness, e.g. text identification ongoing.",
+                "A second note about the undertext work witness."
+            ],
+            "bib": [
+                {
+                    "id": "a3b4c5d6-e7f8-9012-abcd-123456789012",
+                    "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                    },
+                    "shortcode": "Author YYYY",
+                    "citation": "Full bibliographic citation for the undertext identification.",
+                    "range": "Page or range reference"
+                }
+            ]
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "framing",
+                "label": "Framing"
+            },
+            "subtype": [
+                {
+                    "id": "rubric",
+                    "label": "Rubric"
+                }
+            ],
+            "locus": "Locus of the rubric in the undertext",
+            "lang": [
+                {
+                    "id": "gree1276",
+                    "label": "Greek"
+                }
+            ],
+            "as_written": "Rubric text as written in the undertext",
+            "translation": [
+                "English translation of the rubric"
+            ],
+            "note": [
+                "Rubric partially legible under multispectral imaging"
+            ]
+        }
+    ],
+    "features": [
+        {
+            "id": "msi",
+            "label": "Multispectral Imaging"
+        },
+        {
+            "id": "unidentified-text",
+            "label": "Unidentified Text"
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "general",
+                "label": "Other Notes"
+            },
+            "value": "This is a note about the undertext text unit. Undertext records often note the method of recovery and the degree of legibility."
+        },
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "This is a condition note for the undertext, e.g. heavily abraded; text recoverable only under multispectral imaging."
+        }
+    ],
+    "bib": [
+        {
+            "id": "b4c5d6e7-f8a9-0123-bcde-234567890123",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation for a reference work about the undertext.",
+            "range": "Page or range reference",
+            "note": [
+                "A note about this bibliographic entry"
+            ]
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Description program name, e.g. Sinai Arabic Manuscripts Project",
+                "description": "Full description of the program under which this record was created, including dates, funders, and project goals. This can be a long paragraph."
+            }
+        ],
+        "rights": "Rights statement for the descriptive metadata."
+    },
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit, e.g. initial description or migration from legacy system.",
+            "contributor": [
+                "First Contributor Name",
+                "Second Contributor Name"
+            ],
+            "added_by": "username",
+            "timestamp": "2025-03-15T09:00:00Z"
+        },
+        {
+            "message": "Second cataloguer entry to show the field is repeatable. Describes a subsequent update.",
+            "added_by": "username2",
+            "timestamp": "2025-06-01T14:00:00Z"
+        }
+    ],
+    "parent": [
+        "ark:/21198/tedesc01p1ul"
+    ]
+}

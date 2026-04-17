@@ -1,0 +1,559 @@
+{
+    "ark": "ark:/21198/tedesc01",
+    "reconstruction": false,
+    "type": {
+        "id": "manuscript",
+        "label": "Manuscript"
+    },
+    "shelfmark": "Shelfmark string, e.g. Sinai Arabic 999 or Sinai Syriac NF X 1",
+    "summary": "A summary of the manuscript. This is a prose description of the manuscript's contents, providing a brief overview suitable for display on the detail page. It can be a single sentence or a short paragraph.",
+    "extent": "Extent of the manuscript, e.g. 210 ff.",
+    "weight": "Weight of the manuscript, e.g. 1287.7 g",
+    "dim": "Dimensions of the manuscript, e.g. 240 x 159 x 81.0 mm",
+    "state": {
+        "id": "codex",
+        "label": "Codex"
+    },
+    "fol": "Foliation range string, e.g. ff. 1-2a, 2b-45, 45bis-144",
+    "coll": "Collation formula string, e.g. Quire 1: 1x8 (8); Quire 2: 1x8+1 (17); Quire 3: 1x8 (25)",
+    "features": [
+        {
+            "id": "palimpsest",
+            "label": "Palimpsest"
+        },
+        {
+            "id": "msi",
+            "label": "Multispectral Imaging"
+        },
+        {
+            "id": "headpiece",
+            "label": "Headpiece(s)"
+        },
+        {
+            "id": "deco-geometric",
+            "label": "Decoration, Geometric"
+        },
+        {
+            "id": "dated",
+            "label": "Dated"
+        }
+    ],
+    "part": [
+        {
+            "label": "Part label, e.g. Part 1",
+            "summary": "A summary of this part. Describes the support, date, script, and content of this physical production unit.",
+            "locus": "Locus of this part, e.g. ff. 1-180",
+            "support": [
+                {
+                    "id": "parchment",
+                    "label": "Parchment"
+                },
+                {
+                    "id": "paper",
+                    "label": "Paper"
+                }
+            ],
+            "extent": "Extent of this part, e.g. 180 ff.",
+            "dim": "Dimensions of a typical folio in this part, e.g. 235 x 154 mm (average folio)",
+            "layer": [
+                {
+                    "id": "ark:/21198/tedesc01p1ol",
+                    "label": "Overtext layer label, e.g. Overtext layer (10th c., Naskh)",
+                    "type": {
+                        "id": "overtext",
+                        "label": "Overtext"
+                    },
+                    "locus": "Locus of the overtext layer, e.g. ff. 1r-180v"
+                },
+                {
+                    "id": "ark:/21198/tedesc01p1ul",
+                    "label": "Undertext layer label, e.g. Undertext layer (5th c., Greek majuscule)",
+                    "type": {
+                        "id": "undertext",
+                        "label": "Undertext"
+                    },
+                    "locus": "Locus of the undertext layer, e.g. ff. 10-25, 30-45"
+                },
+                {
+                    "id": "ark:/21198/tedesc01p1gl",
+                    "label": "Guest content layer label, e.g. Guest Content (Greek ownership note)",
+                    "type": {
+                        "id": "guest",
+                        "label": "Guest Content"
+                    },
+                    "locus": "Locus of the guest content layer, e.g. f. 1v"
+                }
+            ],
+            "para": [
+                {
+                    "type": {
+                        "id": "misc",
+                        "label": "Miscellaneous"
+                    },
+                    "subtype": [
+                        {
+                            "id": "toc",
+                            "label": "Table of Contents"
+                        }
+                    ],
+                    "locus": "Locus of the part-level paracontent, e.g. f. 1r",
+                    "lang": [
+                        {
+                            "id": "arab1395",
+                            "label": "Arabic"
+                        }
+                    ],
+                    "as_written": "Part-level paracontent text as written in the original script",
+                    "translation": [
+                        "English translation of the part-level paracontent"
+                    ],
+                    "note": [
+                        "A note about this part-level paracontent item, e.g. introductory index added later."
+                    ]
+                }
+            ],
+            "note": [
+                {
+                    "type": {
+                        "id": "support",
+                        "label": "Support Note"
+                    },
+                    "value": "This is a support note for the part. It describes the writing support material, e.g. ff. 1-10 are paper replacements; remaining folios are parchment."
+                },
+                {
+                    "type": {
+                        "id": "collation",
+                        "label": "Collation Note"
+                    },
+                    "value": "This is a collation note for the part. It describes quire structure or signatures specific to this part."
+                }
+            ],
+            "related_mss": [
+                {
+                    "type": {
+                        "id": "filiation",
+                        "label": "Filiation"
+                    },
+                    "label": "Label for part-level related manuscripts, e.g. related overtext layers",
+                    "note": [
+                        "A note about this part-level related manuscript relationship."
+                    ],
+                    "mss": [
+                        {
+                            "label": "Label of a related manuscript at the part level",
+                            "id": "ark:/21198/z1ms5bh5",
+                            "url": "https://example.org/link-to-related-manuscript"
+                        },
+                        {
+                            "label": "Label of a second related manuscript at the part level",
+                            "id": "ark:/21198/z1kw70s3"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "layer": [
+        {
+            "id": "ark:/21198/tedesc01p1ul",
+            "label": "Top-level layer reference for undertext, e.g. Undertext layer (5th c., Greek majuscule)",
+            "type": {
+                "id": "undertext",
+                "label": "Undertext"
+            },
+            "locus": "Locus of the undertext layer"
+        },
+        {
+            "id": "ark:/21198/tedesc01p1gl",
+            "label": "Top-level layer reference for guest content, e.g. Guest Content (Greek ownership note)",
+            "type": {
+                "id": "guest",
+                "label": "Guest Content"
+            },
+            "locus": "Locus of the guest content layer"
+        }
+    ],
+    "location": [
+        {
+            "id": "sinai-oc",
+            "repository": "St. Catherine's Monastery of the Sinai",
+            "collection": "Old Collection"
+        }
+    ],
+    "assoc_date": [
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "Origin date of the manuscript as a human-readable string, e.g. 10th c. CE",
+            "iso": {
+                "not_before": "0901",
+                "not_after": "1000"
+            },
+            "note": [
+                "A note about this manuscript-level date, e.g. date of Part 1 main text block."
+            ]
+        },
+        {
+            "type": {
+                "id": "origin",
+                "label": "Origin Date"
+            },
+            "value": "Origin date of a second part, e.g. 13th c. CE",
+            "iso": {
+                "not_before": "1201",
+                "not_after": "1300"
+            },
+            "note": [
+                "A second assoc_date entry to show the field is repeatable, e.g. date of a later addition."
+            ]
+        }
+    ],
+    "assoc_name": [
+        {
+            "id": "ark:/21198/tedesca1",
+            "role": {
+                "id": "scribe",
+                "label": "Scribe"
+            },
+            "as_written": "Scribe name as written in the manuscript",
+            "note": [
+                "A note about this scribe at the manuscript level, e.g. named in the colophon."
+            ]
+        },
+        {
+            "value": "Free-text name value when not linked to an agent record, e.g. Unknown patron",
+            "role": {
+                "id": "patron",
+                "label": "Patron"
+            },
+            "note": [
+                "A note about this patron, e.g. referenced in the colophon but name illegible."
+            ]
+        },
+        {
+            "id": "ark:/21198/tedesca2",
+            "role": {
+                "id": "owner",
+                "label": "Owner"
+            },
+            "note": [
+                "A third assoc_name entry to show the field is repeatable."
+            ]
+        }
+    ],
+    "assoc_place": [
+        {
+            "id": "ark:/21198/tedescpl1",
+            "event": {
+                "id": "origin",
+                "label": "Origin Place"
+            },
+            "as_written": "Place name as written in the manuscript",
+            "note": [
+                "A note about this origin place, e.g. named in the colophon."
+            ]
+        },
+        {
+            "id": "ark:/21198/tedescpl1",
+            "event": {
+                "id": "repository",
+                "label": "Repository"
+            },
+            "note": [
+                "A second assoc_place entry showing a repository event type."
+            ]
+        }
+    ],
+    "para": [
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "possession-note",
+                    "label": "Possession Note"
+                }
+            ],
+            "locus": "Locus of the manuscript-level possession note, e.g. front flyleaf, recto",
+            "lang": [
+                {
+                    "id": "gree1276",
+                    "label": "Greek"
+                }
+            ],
+            "as_written": "Possession note text as written in the original script",
+            "translation": [
+                "English translation of the possession note"
+            ],
+            "assoc_name": [
+                {
+                    "value": "Owner name as a free-text value",
+                    "role": {
+                        "id": "owner",
+                        "label": "Owner"
+                    },
+                    "note": [
+                        "Name partially erased; identity unknown."
+                    ]
+                }
+            ],
+            "note": [
+                "A note about this manuscript-level possession note, e.g. unrelated to the manuscript's production history."
+            ]
+        },
+        {
+            "type": {
+                "id": "history",
+                "label": "History"
+            },
+            "subtype": [
+                {
+                    "id": "supplication",
+                    "label": "Supplication"
+                },
+                {
+                    "id": "scribe-note",
+                    "label": "Scribe's Note"
+                }
+            ],
+            "locus": "Locus of the supplication note, e.g. rear flyleaf, verso",
+            "lang": [
+                {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                }
+            ],
+            "as_written": "Supplication text as written in the original script",
+            "translation": [
+                "English translation of the supplication"
+            ],
+            "note": [
+                "A note about this supplication — this entry has two subtypes to demonstrate the multi-value subtype array."
+            ]
+        }
+    ],
+    "related_mss": [
+        {
+            "type": {
+                "id": "disjecta",
+                "label": "Disjecta Membra"
+            },
+            "label": "Label for a disjecta membra relationship at the manuscript level",
+            "note": [
+                "A note about this disjecta membra relationship.",
+                "A second note to show the note field is repeatable."
+            ],
+            "mss": [
+                {
+                    "label": "Label of the first disjecta manuscript",
+                    "id": "ark:/21198/z1vx215c"
+                },
+                {
+                    "label": "Label of the second disjecta manuscript",
+                    "id": "ark:/21198/z1g4681n",
+                    "url": "https://example.org/link-to-disjecta-manuscript"
+                }
+            ]
+        },
+        {
+            "type": {
+                "id": "filiation",
+                "label": "Filiation"
+            },
+            "label": "Label for a filiation relationship at the manuscript level",
+            "note": [
+                "A note about this filiation relationship."
+            ],
+            "mss": [
+                {
+                    "label": "Label of a filiation manuscript",
+                    "id": "ark:/21198/z1r518bm"
+                },
+                {
+                    "label": "Label of a second filiation manuscript",
+                    "id": "ark:/21198/z14b4jz8"
+                },
+                {
+                    "label": "Label of a third filiation manuscript",
+                    "id": "ark:/21198/z13j4hbj",
+                    "url": "https://example.org/link-to-filiation-manuscript"
+                }
+            ]
+        }
+    ],
+    "viscodex": [
+        {
+            "type": {
+                "id": "reconstruction",
+                "label": "Reconstruction"
+            },
+            "label": "Label for the VisCodex visualization, e.g. Visualization of [Shelfmark]",
+            "url": "https://vceditor.library.upenn.edu/project/example/viewOnly"
+        }
+    ],
+    "note": [
+        {
+            "type": {
+                "id": "foliation",
+                "label": "Foliation"
+            },
+            "value": "This is a foliation note. It describes the foliation system used in the manuscript, e.g. modern pencil foliation throughout; an older ink foliation partially visible in the outer margin."
+        },
+        {
+            "type": {
+                "id": "condition",
+                "label": "Condition"
+            },
+            "value": "This is a condition note. It describes the physical condition of the manuscript, e.g. binding intact but worn; front board detached; water staining on lower margins of ff. 100-120."
+        },
+        {
+            "type": {
+                "id": "binding",
+                "label": "Binding Note"
+            },
+            "value": "This is a binding note. It describes the binding structure, materials, and condition, e.g. leather over wood boards; remnants of fore-edge clasp."
+        },
+        {
+            "type": {
+                "id": "collation",
+                "label": "Collation Note"
+            },
+            "value": "This is a collation note at the manuscript level. It describes the overall quire structure or notes difficulties in establishing it."
+        },
+        {
+            "type": {
+                "id": "support",
+                "label": "Support Note"
+            },
+            "value": "This is a support note at the manuscript level. It describes the writing support across parts, e.g. ff. 124-129 are paper; the rest are parchment."
+        }
+    ],
+    "bib": [
+        {
+            "id": "f3a4b5c6-d7e8-9012-fabc-012345678901",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string for a reference work cited at the manuscript level.",
+            "range": "Page or range reference",
+            "alt_shelf": "[Alternate shelfmark from an older catalog, e.g. 652]",
+            "note": [
+                "A note about this bibliographic entry, e.g. Atiya catalog reference."
+            ]
+        },
+        {
+            "id": "a4b5c6d7-e8f9-0123-abcd-123456789012",
+            "type": {
+                "id": "cite",
+                "label": "Citation"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string. Second bib entry at manuscript level to show repeatability.",
+            "range": "Page or range reference",
+            "url": "https://example.org/link-to-online-resource"
+        },
+        {
+            "id": "b5c6d7e8-f9a0-1234-bcde-234567890123",
+            "type": {
+                "id": "ref",
+                "label": "Reference Work"
+            },
+            "shortcode": "Author YYYY",
+            "citation": "Full bibliographic citation string. Third bib entry to show multiple entries.",
+            "range": "Page or range reference",
+            "alt_shelf": "[Second alternate shelfmark, e.g. 99]"
+        }
+    ],
+    "iiif": [
+        {
+            "type": {
+                "id": "main",
+                "label": "Main"
+            },
+            "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1n02zkr/manifest",
+            "text_direction": "right-to-left",
+            "behavior": "paged",
+            "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg",
+            "label": "Main"
+        },
+        {
+            "type": {
+                "id": "alt",
+                "label": "Alternate"
+            },
+            "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr1qn64nz/manifest",
+            "text_direction": "right-to-left",
+            "behavior": "paged",
+            "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg",
+            "label": "Alternate label for a second IIIF manifest, e.g. Reordered or MSI"
+        }
+    ],
+    "desc_provenance": {
+        "program": [
+            {
+                "label": "Description program name",
+                "description": "Full description of the program under which this record was created, including dates, funders, and project goals."
+            },
+            {
+                "label": "Second description program name, to show the field is repeatable",
+                "description": "Full description of a second program that contributed to this record."
+            }
+        ],
+        "rights": "Rights statement for the descriptive metadata, e.g. CC BY 4.0."
+    },
+    "image_provenance": {
+        "program": [
+            {
+                "label": "Imaging program name, e.g. Sinai Library Digitization Project, Phase 1",
+                "description": "Full description of the imaging program, including dates, funders, and project goals.",
+                "camera_operator": [
+                    "First Camera Operator Name",
+                    "Second Camera Operator Name"
+                ],
+                "imaging_date": "2019-06",
+                "delivery": "Delivery identifier, e.g. 8 or spp_1",
+                "msi_processing": [
+                    "First MSI Processing Scientist Name",
+                    "Second MSI Processing Scientist Name"
+                ],
+                "condition_category": "2",
+                "imaging_system": "Imaging system description, e.g. BC100 - 2 cam., 960 ppi, 120mm lens",
+                "note": [
+                    "A note about the imaging process, e.g. automated processing techniques.",
+                    "A second imaging note to show the note field is repeatable."
+                ]
+            }
+        ],
+        "rights": "Rights statement for the manuscript images, e.g. All images are property of St. Catherine's Monastery."
+    },
+    "cataloguer": [
+        {
+            "message": "Cataloguer message describing what was done in this edit, e.g. initial description or migration from legacy system.",
+            "contributor": [
+                "First Contributor Name",
+                "Second Contributor Name"
+            ],
+            "added_by": "username",
+            "timestamp": "2025-12-19 16:43"
+        },
+        {
+            "message": "Second cataloguer entry to show the field is repeatable. Describes a subsequent update.",
+            "contributor": [
+                "Third Contributor Name"
+            ],
+            "added_by": "username2",
+            "timestamp": "2025-12-19 16:43"
+        },
+        {
+            "message": "Third cataloguer entry showing a minimal entry with no contributors.",
+            "added_by": "username3",
+            "timestamp": "2025-12-19 16:43"
+        }
+    ]
+}
