@@ -9,11 +9,18 @@
     "id": "man",
     "label": "Man"
   },
-  "floruit": {
-    "value": "approximately 360-approximately 435",
+  "birth": {
+    "value": "b. approximately 360",
     "iso": {
-      "not_before": "0335",
-      "not_after": "0460"
+      "not_before": "0340",
+      "not_after": "0380"
+    }
+  },
+  "death": {
+    "value": "d. approximately 435",
+    "iso": {
+      "not_before": "0405",
+      "not_after": "0455"
     }
   },
   "rel_con": [

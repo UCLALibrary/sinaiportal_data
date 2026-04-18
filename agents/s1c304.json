@@ -4,11 +4,46 @@
     "id": "person",
     "label": "Person"
   },
-  "pref_name": "Mar Saba",
+  "pref_name": "Sabas, Saint, 439-532",
   "alt_name": [
-    "Mar Saba"
+    "Mar Saba ",
+    "Sabbas the Sanctified ",
+    "Sabbas the Great ",
+    "Sava ",
+    "Savva ",
+    "ܣܒܐ"
   ],
-  "note": [
-    "Saint or monastery?"
+  "gender": {
+    "id": "man",
+    "label": "Man"
+  },
+  "floruit": {
+    "value": "439-532",
+    "iso": {
+      "not_before": "0439",
+      "not_after": "0532"
+    }
+  },
+  "rel_con": [
+    {
+      "label": "Sabas, Saint, 439-532",
+      "uri": "http://viaf.org/viaf/22543877",
+      "source": "VIAF"
+    },
+    {
+      "label": "Sabas, Saint, 439-532",
+      "uri": "http://id.loc.gov/authorities/names/n93123802",
+      "source": "LoC"
+    },
+    {
+      "label": "Sabas, 439-532",
+      "uri": "https://w3id.org/haf/person/317790710694",
+      "source": "HAF"
+    },
+    {
+      "label": "Sabas",
+      "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/2462/",
+      "source": "Pinakes"
+    }
   ]
 }

@@ -12,11 +12,18 @@
     "id": "man",
     "label": "Man"
   },
-  "floruit": {
-    "value": "ca. 1025-ca. 1100",
+  "birth": {
+    "value": "b. approximately 1025",
     "iso": {
-      "not_before": "1010",
-      "not_after": "1115"
+      "not_before": "1005",
+      "not_after": "1045"
+    }
+  },
+  "death": {
+    "value": "d. approximately 1100",
+    "iso": {
+      "not_before": "1080",
+      "not_after": "1120"
     }
   },
   "rel_con": [
