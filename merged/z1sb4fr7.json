@@ -1,0 +1,185 @@
+{
+  "ark": "ark:/21198/z1sb4fr7",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai CPA NF frag 14",
+  "extent": "2 ff.",
+  "state": {
+    "id": "bifolio",
+    "label": "Bifolio(s)"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1sd0z",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1sd0z",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai CPA NF frag 14, Overtext (Christian Palestinian Aramaic)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1kx08",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1kx08",
+                  "reconstruction": false,
+                  "label": "Sayings of Abba Zacharias",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1w89x",
+                        "pref_title": "Sayings of the Desert Fathers",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ]
+                      },
+                      "alt_title": "Sayings of Abba Zacharias"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1sd0z"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1sb4fr7"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Brock 1995",
+      "citation": "Brock, Sebastian P. Catalogue of Syriac Fragments (New Finds) in the Library of the Monastery of Saint Catherine, Mount Sinai. Mount Sinai Foundation, 1995",
+      "range": "p. 89, pl. 438-439"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1sb4fr7/manifest",
+      "label": "Multispectral Images",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz15d8sc2/1022,0,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "uto": [
+    {
+      "uto_layer_ark": "ark:/21198/s1cp9d",
+      "label": "CPA Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 1r, 2v",
+      "uto_ms_ark": "ark:/21198/z1t25vns",
+      "script": [
+        "Christian Palestinian Aramaic"
+      ],
+      "lang": [
+        "CPA"
+      ]
+    }
+  ]
+}

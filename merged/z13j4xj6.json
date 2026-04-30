@@ -1,0 +1,393 @@
+{
+  "ark": "ark:/21198/z13j4xj6",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 535",
+  "extent": "355 ff.",
+  "weight": "1371.2 g",
+  "dim": "214 x 154 x 92 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1b316",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1b316",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 535, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s14q05",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s14q05",
+                  "reconstruction": false,
+                  "label": "Varia",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Mimars by SS. John Damascene and John Chrysostom",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s18c7m",
+                            "agent_record": {
+                              "ark": "ark:/21198/s18c7m",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John, of Damascus, Saint",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. approximately 750",
+                                "iso": {
+                                  "not_before": "0725",
+                                  "not_after": "0775"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John, of Damascus, Saint",
+                                  "uri": "http://viaf.org/viaf/44435485",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John, of Damascus, Saint",
+                                  "uri": "https://id.loc.gov/authorities/names/n80032173",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John, of Damascus, -approximately 750",
+                                  "uri": "https://w3id.org/haf/person/353918456335",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John of Damascus",
+                                  "uri": "http://syriaca.org/person/575",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Damascenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1464/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Encomium by St. Andrew Bishop of Crete and another by Bishop Abdallah ibn al-Fadl addressed to St. Nicolaus",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1vc7w",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1vc7w",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Andrew, of Crete, Saint, approximately 660-740",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 660-740",
+                                "iso": {
+                                  "not_before": "0635",
+                                  "not_after": "0765"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Andrew, of Crete, Saint, approximately 660-740",
+                                  "uri": "http://viaf.org/viaf/10044124",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Andrew, of Crete, Saint, approximately 660-740",
+                                  "uri": "https://id.loc.gov/authorities/names/n79076042",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Andrew, of Crete, Saint, approximately 660-740",
+                                  "uri": "https://w3id.org/haf/person/227859237404",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Andrew of Jerusalem",
+                                  "uri": "https://syriaca.org/person/95",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Andreas Cretensis",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/187/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s1qp4m",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1qp4m",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Anṭākī, ʻAbd Allāh ibn al-Faḍl, -approximately 1052",
+                              "alt_name": [
+                                "ʿAbdallāh ibn al-Faḍl ",
+                                "ʿAbdallāh ibn al-Faḍl al-Anṭākī"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. approximately 1052",
+                                "iso": {
+                                  "not_before": "1027",
+                                  "not_after": "1077"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Anṭākī, ʻAbd Allāh ibn al-Faḍl -approximately 1052",
+                                  "uri": "http://viaf.org/viaf/171321787",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Anṭākī, ʻAbd Allāh ibn al-Faḍl, -approximately 1052",
+                                  "uri": "https://id.loc.gov/authorities/names/no2011096309",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Anṭākī, ʻAbd Allāh ibn al-Faḍl, -approximately 1052",
+                                  "uri": "https://w3id.org/haf/person/616044903917",
+                                  "source": "HAF"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "poetry",
+                            "label": "Poetry"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "Encomium by St. Andrew Bishop of Crete and another by Bishop Abdallah ibn al-Fadl addressed to St. Nicolaus, a third by St. Pericles Patriarch of Constantinople to St. Stephens first martyr, and an anonymous elegy"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Lives of Saints and Martyrdoms",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrologies",
+                            "label": "Martyrologies"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "Lives of Saints and Martyrdoms including those of SS. Peter Patriarch of Alexandria, Jeremiah, al-Harith of Nagran and his companions, Jacob the Apostle, Athanasius of Al-Qulzum, Sergius and Bacchus, Theodorus, Mercurius, Procopius, Panteleemon, Agathangelus, Demetrius and his pupil Nestor, Eustratius, Auxentius, Eugenius, Aristus, Mardarius, the forty martyrs of Sebastia, Eustace together with his wife and two children, Euclid and Joseph the Jew"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Book of the Nativity of Our Lady by Jacob the Apostle",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1b316"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z13j4xj6"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[544], p. 46"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz13j4xj6/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13j4xj6%2Fdf310d95/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2019 April",
+        "delivery": "4.2",
+        "imaging_system": "BC100 - 2 cam., 745 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

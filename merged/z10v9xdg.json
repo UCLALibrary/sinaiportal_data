@@ -1,0 +1,438 @@
+{
+  "ark": "ark:/21198/z10v9xdg",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 164",
+  "extent": "356 ff.",
+  "weight": "2709.4 g",
+  "dim": "275 x 207 x 118 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1h89h",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1h89h",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 164, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s19w73",
+                "label": "Item 1",
+                "locus": "ff. 1r-354v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s19w73",
+                  "reconstruction": false,
+                  "label": "Gospels, Acts, Epistles with commentaries",
+                  "locus": "ff. 1r-354v",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lessons from Gospels with commentary",
+                      "locus": "ff. 1r-49v"
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1xs34",
+                        "pref_title": "Bible. Acts",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Acts",
+                            "uri": "http://id.loc.gov/authorities/names/n79022117",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Acts",
+                            "uri": "https://viaf.org/viaf/174983206",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Acts of the Apostles, translated by ʿAbdallāh ibn al-Faḍl al-Anṭākī",
+                      "locus": "ff. 50r-101v",
+                      "note": [
+                        "With lectionary rubrics throughout and preceded by introductory material"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1hg6f",
+                        "pref_title": "Bible. Epistles of Paul",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Epistles of Paul",
+                            "uri": "http://id.loc.gov/authorities/names/n79139623",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Epistles of Paul",
+                            "uri": "https://viaf.org/viaf/176999286",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Pauline Epistles, translated by ʿAbdallāh ibn al-Faḍl al-Anṭākī",
+                      "locus": "ff. 102r-209r",
+                      "contents": [
+                        {
+                          "label": "Romans, ff. 102r-120v"
+                        },
+                        {
+                          "label": "1 Corinthians, ff. 120v-138r"
+                        },
+                        {
+                          "label": "2 Corinthians, ff. 138r-150r"
+                        },
+                        {
+                          "label": "Galatians, ff. 150r-157r"
+                        },
+                        {
+                          "label": "Ephesians, ff. 157r-163v"
+                        },
+                        {
+                          "label": "Philippians, ff. 163v-168v"
+                        },
+                        {
+                          "label": "Colossians, ff. 168v-173v"
+                        },
+                        {
+                          "label": "1 Thessalonians, ff. 173v-178r"
+                        },
+                        {
+                          "label": "2 Thessalonians, ff. 178r-180v"
+                        },
+                        {
+                          "label": "1 Timothy, ff. 180v-187r"
+                        },
+                        {
+                          "label": "2 Timothy, ff. 187r-191r"
+                        },
+                        {
+                          "label": "Titus, ff. 191v-194r"
+                        },
+                        {
+                          "label": "Philemon, ff. 194r-195r"
+                        },
+                        {
+                          "label": "Hebrews, ff. 196r-209r"
+                        }
+                      ],
+                      "note": [
+                        "With lectionary rubrics throughout and preceded by introductory material"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1n88c",
+                        "pref_title": "Bible. Epistles",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Epistles",
+                            "uri": "http://id.loc.gov/authorities/names/n80025989",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Epistles",
+                            "uri": "https://viaf.org/viaf/176601852",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Catholic Epistles, translated by ʿAbdallāh ibn al-Faḍl al-Anṭākī",
+                      "locus": "ff. 209r-233v",
+                      "contents": [
+                        {
+                          "label": "James, ff. 209r-214r"
+                        },
+                        {
+                          "label": "1 Peter, ff. 214r-219r"
+                        },
+                        {
+                          "label": "2 Peter, ff. 219r-223r"
+                        },
+                        {
+                          "label": "1 John, ff. 223r-229v"
+                        },
+                        {
+                          "label": "2 John, ff. 229v-230v"
+                        },
+                        {
+                          "label": "3 John, ff. 230v-231v"
+                        },
+                        {
+                          "label": "Jude, ff. 231v-233v"
+                        }
+                      ],
+                      "note": [
+                        "With lectionary rubrics throughout and preceded by introductory material"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Commentary on Acts, the Epistles of Paul, and the Catholic Epistles to be read throughout the year and for feasts with summaries by John Chrysostom",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 234r-354v",
+                      "contents": [
+                        {
+                          "label": "Fihrist, ff. 234r-277r"
+                        },
+                        {
+                          "label": "Commentary, ff. 278r-354v"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Justin Arnwine"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-08T15:02:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1h89h"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 233v",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "نجزت بمعونة الله وتوفيقه رسائل السعيد بولس الرسول والسبع رسائل الكاثوليكية وكان كمال نسخ هذا المصحف النفيس النافع للنفس يوم السبت سلخ تموز في سنة ستة آلاف وسبعمائة وستة وأربعون للعالم ولله والشكر دائما أيها القارئ صلى على الكاتب الخاطئ ",
+                "assoc_date": [
+                  {
+                    "value": "1238 CE",
+                    "iso": {
+                      "not_before": "1238"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "Saturday Tammuz 6746 (world)"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Chris PreJean",
+                  "Maroun El Houkayem"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T22:09:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z10v9xdg"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[117], p. 16"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz10v9xdg/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz10v9xdg%2F1c82996r/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.3",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

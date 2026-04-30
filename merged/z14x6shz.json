@@ -1,0 +1,469 @@
+{
+  "ark": "ark:/21198/z14x6shz",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 361",
+  "extent": "297 ff.",
+  "weight": "1391.3 g",
+  "dim": "224 x 180 x 88.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1jc8g",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1jc8g",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 361, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1c07r",
+                "label": "Item 1",
+                "locus": "ff. 1r-295v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1c07r",
+                  "reconstruction": false,
+                  "label": "Theological varia",
+                  "locus": "ff. 1r-295v",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Eighteen mimars of Dorotheus",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s17g6z",
+                            "agent_record": {
+                              "ark": "ark:/21198/s17g6z",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Dorotheus, of Gaza, Saint, active 6th century",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 6th century",
+                                "iso": {
+                                  "not_before": "0501",
+                                  "not_after": "0600"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Dorotheus, of Gaza, Saint, active 6th century",
+                                  "uri": "http://viaf.org/viaf/52046984",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Dorotheus, of Gaza, Saint, active 6th century",
+                                  "uri": "https://id.loc.gov/authorities/names/no94029712",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Dorotheus, of Gaza, active 6th century",
+                                  "uri": "https://w3id.org/haf/person/801972287055",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Dorotheus Gazaeus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/963/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-193r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Nineteen questions and answers given by Barsanuphius",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s14s30",
+                            "agent_record": {
+                              "ark": "ark:/21198/s14s30",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Barsanuphius, Saint, active 6th century",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 6th century",
+                                "iso": {
+                                  "not_before": "0501",
+                                  "not_after": "0600"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Barsanuphius, Saint, active 6th century",
+                                  "uri": "http://viaf.org/viaf/12351460",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Barsanuphius, Saint, active 6th century",
+                                  "uri": "https://id.loc.gov/authorities/names/n86008292",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Barsanuphius, active 6th century",
+                                  "uri": "https://w3id.org/haf/person/276837023763",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Barsanuphius et Iohannes",
+                                  "uri": "https://pinakes.irht.cnrs.fr//notices/auteur/477/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 193v-247v"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Another short treatise of Barsanuphius",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s14s30",
+                            "agent_record": {
+                              "ark": "ark:/21198/s14s30",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Barsanuphius, Saint, active 6th century",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 6th century",
+                                "iso": {
+                                  "not_before": "0501",
+                                  "not_after": "0600"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Barsanuphius, Saint, active 6th century",
+                                  "uri": "http://viaf.org/viaf/12351460",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Barsanuphius, Saint, active 6th century",
+                                  "uri": "https://id.loc.gov/authorities/names/n86008292",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Barsanuphius, active 6th century",
+                                  "uri": "https://w3id.org/haf/person/276837023763",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Barsanuphius et Iohannes",
+                                  "uri": "https://pinakes.irht.cnrs.fr//notices/auteur/477/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 247v-269v"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Sayings of the Fathers",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 270r-279r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Mimar of Ephrem the Syrian",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1v887",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1v887",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Ephrem the Syrian, Saint, 303-373",
+                              "alt_name": [
+                                "Ephrem the Syrian",
+                                "ܐܦܪܝܡ"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "303-373",
+                                "iso": {
+                                  "not_before": "0303",
+                                  "not_after": "0373"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://viaf.org/viaf/100177778",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://id.loc.gov/authorities/names/n50082928",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Ephrem, of Nisibis, 303-373",
+                                  "uri": "https://w3id.org/haf/person/818572788967",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Ephrem",
+                                  "uri": "http://syriaca.org/person/13",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Ephraem Graecus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/995/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 279v-292r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Mimar of John Chrysostom",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 292v-295v"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Justin Arnwine"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-08T15:02:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1jc8g"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z14x6shz"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[376], p. 30"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14x6shz/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14x6shz%2Fz894jf6h/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Iasonas Nikiteas"
+        ],
+        "imaging_date": "2019 August",
+        "delivery": "6.1",
+        "imaging_system": "Stokes-PBC, 930 ppi, 120mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

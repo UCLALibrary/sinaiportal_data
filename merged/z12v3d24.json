@@ -1,0 +1,765 @@
+{
+  "ark": "ark:/21198/z12v3d24",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Georgian 49",
+  "extent": "119 ff.",
+  "dim": "157 x 135 x 37 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "Quire 1: 1x8 (8); Quires 2-6: 8x1 (48); Quire 7: 1x6+1 (55); Quires 8-14: 7x8 (119)",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "157 x 135 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s14k8t",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s14k8t",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Georgian 49, Overtext (Undetermined (Georgian))",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "georgian-undetermined",
+                    "label": "Undetermined (Georgian)",
+                    "writing_system": "Georgian"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black",
+                  "red"
+                ],
+                "note": [
+                  "Red used for rubrics"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1z66q",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1z66q",
+                  "reconstruction": false,
+                  "label": "Menaion",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1bg6w",
+                        "pref_title": "Menaion",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s14k8t"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z12v3d24"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[38], p. 58"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12v3d24/manifest",
+      "label": "Multispectral Images",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12j7c24/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "uto": [
+    {
+      "uto_layer_ark": "ark:/21198/s1ss61",
+      "label": "Syriac Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 41, 45",
+      "uto_ms_ark": "ark:/21198/z12g8df5",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s19p9s",
+      "label": "Syriac Undertext: Unidentified liturgical text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 21, 23, 33",
+      "uto_ms_ark": "ark:/21198/z1m72b7x",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1j92h",
+      "label": "Arabic Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 43, 48",
+      "uto_ms_ark": "ark:/21198/z1sz757j",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s11937",
+      "label": "Syriac Undertext: Unidentified theological, liturgical text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 43–44, 48",
+      "uto_ms_ark": "ark:/21198/z1xq7wzg",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1605f",
+      "label": "Syriac Undertext: Bible. Mark",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 9, 11, 13–15",
+      "uto_ms_ark": "ark:/21198/z1dp4x1n",
+      "script": [
+        "Serto"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s18s7r",
+      "label": "Syriac Undertext: Unidentified Liturgical Text, Prayers, and Hymns",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 17, 19, 22, 31–32, 38",
+      "uto_ms_ark": "ark:/21198/z1vr3tmc",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1h93k",
+      "label": "Syriac Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 18, 20, 27",
+      "uto_ms_ark": "ark:/21198/z10h4b6d",
+      "script": [
+        "Serto"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s15w53",
+      "label": "Greek Undertext: Divine Liturgy of St. James",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 25–26, 28–30",
+      "uto_ms_ark": "ark:/21198/z18x45br",
+      "script": [
+        "Greek majuscule"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1xh07",
+      "label": "Syriac Undertext: Bible. Matthew",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 50–52, 56, 63, 74–77, 96–106, 109–110",
+      "uto_ms_ark": "ark:/21198/z1p66dh4",
+      "script": [
+        "Greek minuscule",
+        "Greek majuscule"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1504r",
+      "label": "Greek Undertext: Unidentified liturgical text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 12r, 16r",
+      "uto_ms_ark": "ark:/21198/z1fp1z51",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1ps7g",
+      "label": "Syriac Undertext: Bible. Matthew",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 36",
+      "uto_ms_ark": "ark:/21198/z1gn908s",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1k635",
+      "label": "Syriac Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 57–62, 64–65, 67–73, 78–95, 112–119r",
+      "uto_ms_ark": "ark:/21198/z13c6r57",
+      "script": [
+        "Undetermined (Arabic)"
+      ],
+      "lang": [
+        "Arabic"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s19k9r",
+      "label": "Syriac Undertext: Hymns and Homilies",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 119",
+      "uto_ms_ark": "ark:/21198/z1cp7vzr",
+      "script": [
+        "Undetermined (Arabic)"
+      ],
+      "lang": [
+        "Arabic"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1m34t",
+      "label": "Syriac Undertext: Unidentified theological text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 42",
+      "uto_ms_ark": "ark:/21198/z1kf2pxs",
+      "script": [
+        "Greek majuscule"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1092j",
+      "label": "Syriac Undertext: Life of Saint Pelagia",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 42",
+      "uto_ms_ark": "ark:/21198/z1tz46dc",
+      "script": [
+        "Greek minuscule",
+        "Greek majuscule"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1f93z",
+      "label": "Greek Undertext: Unidentified Christian poem",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 63",
+      "uto_ms_ark": "ark:/21198/z1s00431",
+      "script": [
+        "Greek majuscule"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1p04d",
+      "label": "Syriac Undertext: Bible. Luke",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 49–50, 53–55, 104, 107–108, 111",
+      "uto_ms_ark": "ark:/21198/z1md9r1k",
+      "script": [
+        "Greek minuscule",
+        "Greek majuscule"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1wh0x",
+      "label": "Syriac Undertext: Bible. Matthew",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 57–62, 64–73, 78–95, 112–119",
+      "uto_ms_ark": "ark:/21198/z1r60gq0",
+      "script": [
+        "Greek majuscule"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1k35w",
+      "label": "Syriac Undertext: Unidentified liturgical or theological text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 10",
+      "uto_ms_ark": "ark:/21198/z1n69cd6",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1335j",
+      "label": "Georgian Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 35",
+      "uto_ms_ark": "ark:/21198/z14852xq",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1tp82",
+      "label": "Syriac and Greek Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 16",
+      "uto_ms_ark": "ark:/21198/z1747gwj",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1z927",
+      "label": "Syriac Undertext: Exodus",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 17, 19, 22, 31–32, 38",
+      "uto_ms_ark": "ark:/21198/z19x16g4",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1rs73",
+      "label": "Greek Undertext: Menaion",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 34",
+      "uto_ms_ark": "ark:/21198/z14c3s85",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1q053",
+      "label": "Syriac Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 37, 39",
+      "uto_ms_ark": "ark:/21198/z10m31k8",
+      "script": [
+        "Serto"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1bk92",
+      "label": "Syriac Undertext: Unidentified theological text or homily",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 24",
+      "uto_ms_ark": "ark:/21198/z1jf5nrz",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s17s7f",
+      "label": "Greek Undertext: Bible. John",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 25–26, 28–30",
+      "uto_ms_ark": "ark:/21198/z1vv2j5w",
+      "script": [
+        "Serto"
+      ],
+      "lang": [
+        "Syriac",
+        "Greek"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s14333",
+      "label": "Syriac Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 40, 47",
+      "uto_ms_ark": "ark:/21198/z1844j0w",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1n05g",
+      "label": "Syriac Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 47",
+      "uto_ms_ark": "ark:/21198/z11h1c7f",
+      "script": [
+        "Serto"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1qs6d",
+      "label": "Syriac Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 16",
+      "uto_ms_ark": "ark:/21198/z1zm67px",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1291s",
+      "label": "Syriac Undertext: Unidentified theological text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 20v",
+      "uto_ms_ark": "ark:/21198/z1bw87mz",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1vk8b",
+      "label": "Syriac Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 34v, 47r",
+      "uto_ms_ark": "ark:/21198/z1650fq8",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s16s6r",
+      "label": "Coptic Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 37",
+      "uto_ms_ark": "ark:/21198/z1wr0vtn",
+      "script": [
+        "Serto"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1dg9n",
+      "label": "Syriac Undertext: Bible. Amos",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 37",
+      "uto_ms_ark": "ark:/21198/z158240m",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1fh18",
+      "label": "Syriac Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 25r, 26v",
+      "uto_ms_ark": "ark:/21198/z1r032wb",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1g91h",
+      "label": "Greek Undertext: Unidentified liturgical text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 40, 47",
+      "uto_ms_ark": "ark:/21198/z1815tn2",
+      "script": [
+        "Serto"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1ch1n",
+      "label": "Arabic Undertext: Months of the Zodiac",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 1v, 2r, 3v, 4r, 5v, 6r, 7v, 8r",
+      "uto_ms_ark": "ark:/21198/z1hf8mpg",
+      "script": [
+        "Nuskhurimt"
+      ],
+      "lang": [
+        "Georgian"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1tk9d",
+      "label": "Greek Undertext: Bible. Mark",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "uto_ms_ark": "ark:/21198/z1q63fpz",
+      "script": [
+        "Coptic"
+      ],
+      "lang": [
+        "Coptic"
+      ]
+    }
+  ]
+}

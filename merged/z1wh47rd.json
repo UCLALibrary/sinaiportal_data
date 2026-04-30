@@ -1,0 +1,671 @@
+{
+  "ark": "ark:/21198/z1wh47rd",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 362",
+  "extent": "299 ff.",
+  "weight": "959.4 g",
+  "dim": "178 x 139 x 93 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1dk7x",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1dk7x",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 362, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1765t",
+                "label": "Item 1",
+                "locus": "ff. 1r-298v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1765t",
+                  "reconstruction": false,
+                  "label": "Theological varia",
+                  "locus": "ff. 1r-298v",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Selected Mimars of Dorotheus",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "1r-218v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 1r",
+                          "as_written": "واعطاه وصيه ان لا ياكل من الشجره التي في وسط الفردوس",
+                          "translation": [
+                            "And he gave him a command not to eat from the tree in the midst of the Garden…"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 218v",
+                          "as_written": "ونستمتع بمجد ربنا ايسوع المسيح مخلصنا لان به يليق السبح والتمجيد مع ابيه وروحه دوكل قدس الي دهر الداهرين امين",
+                          "translation": [
+                            "And we savor the glory of our Lord Jesus Christ, our Savior, because the glory and honor belongs to him with the Father and the Holy Spirit into the age of ages. Amen"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "The several texts of Dorotheus have been numbered in some rubrics and, perhaps later, by another hand in the margins in black ink for other texts. These consist of the following: First mimar of Dorotheus (initial folia lacking), f. 1r; Second mimar on humility, f. 34v; Third mimar on suneidēsis (Arabic: sagacity), f. 50r; Fourth mimar on divine fear, f. 56v; Fifth mimar that one ought not be convinced of his own opinion, f. 77r; Sixth mimar that one ought not to judge his neighbor, f. 85v; Seventh mimar on malice, f. 98r; Eight mimar on deceit, f. 107r; Ninth mimar that one should walk in the way of God with purpose and vigilance, f. 117r; Tenth mimar that we should be quick to cut off the passions, f. 128v; Eleventh mimar on future penalties, f. 143r; Twelfth mimar on suffering tribulation with thanks, f. 158r; Thirteenth mimar on the building and harmonizing of the composition of the virtues of the soul, f. 168v; Letter to a brother on his lack of care for his mind and fading of love (Fourteenth Mimar), f. 183r, Another letter to those of the cells who had come to him (Fifteenth Mimar), f. 185r, Sixteenth mimar to the heads of the monastery, f. 192r; Questions and Answers of Dorotheus to Barsanuphius and his disciple (Seventeenth Mimar), f. 197v; Life of Dositheus (Eighteenth Mimar), f. 204v"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Mimar of Anba Abraham on teaching for the sake of salvation of the soul",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ]
+                      },
+                      "as_written": "ميمر للقديس البار انبا ابراهام تعليم من اجل خلاص النفس (f. 219r)",
+                      "locus": "ff. 219r-227v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 219r",
+                          "as_written": "ايها الاخوه الروحانيين الحق ضو ليس فيه ظلمه",
+                          "translation": [
+                            "Oh spiritual brothers, the truth is a light in which there is no shadow…"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 227v",
+                          "as_written": "وغبظهم ونياحهم الدايم بربنا ايسوع المسيح الذي له ينبغى السبح مع ابيه وروحه القدس الان ودايما والى انقضا الدهور كلها امين امين",
+                          "translation": [
+                            "…their joy and their mourning everlasting, with our Lord Jesus Christ to whom belongs the glory with the Father and the Holy Spirit now, always, and to the end of all ages. Amen amen"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Exhortation of St. Theodore of Sykeon",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "as_written": "وهذه عظه للقديس تادرس السيكاون (f. 228r)",
+                      "locus": "ff. 228r-233r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 228r",
+                          "as_written": "الذي كان مهتما دايما في تلاميذه وعند مرضه كان يحرص بلاكّل مثل ما كان في حال صحته",
+                          "translation": [
+                            "…who was always attentive to his students and when he was ailing, he took care to eat whatever healthy thing the situation called for…"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 233r",
+                          "as_written": "الدي يصير لنا ان نحظي بها بنعمه ربنا والاهنا ايسوع المسّيح الذي له السبح والمجد مع ابيه وروحه القدسّ الان ودايماً والي انفضا الدهور كلها امیں",
+                          "translation": [
+                            "…which would happen to us that we obtain the grace of our Lord and our God, Jesus Christ, to whom be the glory and the honor with the Father and the Holy Spirit, now, always, and the end of all ages. Amen"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Exhortation and sayings of Nilus",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "as_written": "عظه مقدسّه نافعه كتبها القديسّ نیلوسّ الي بعض الاخوه (f. 233r)",
+                      "locus": "ff. 233r-237v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 237v",
+                          "as_written": "قال القديس كثيرين يجتذ بهم الله اليه بغير هواهم",
+                          "translation": [
+                            "The holy man said, “There are many whom God allures to Himself without their inclination,”"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 237v",
+                          "as_written": "فان بهذه مع كثره المحبه فاز والشهدا والقديسين ولربنا السبح والمجد الي دهر الداهرين امين",
+                          "translation": [
+                            "And so by this, with abundance of love, he has gained both martyrs and saints. To our Lord be the glory and honor to the age of ages. Amen"
+                          ]
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Exhortation, ff. 233r - 234r"
+                        },
+                        {
+                          "label": "Question and answer, ff. 234r - 234v"
+                        },
+                        {
+                          "label": "~A saying, ff. 234v - 235r"
+                        },
+                        {
+                          "label": "Another text by Nilus, ff. 235r - 235v"
+                        },
+                        {
+                          "label": "Another saying, ff. 235v - 236r"
+                        },
+                        {
+                          "label": "Another saying, f. 236r"
+                        },
+                        {
+                          "label": "Another saying, f. 236r"
+                        },
+                        {
+                          "label": "Another letter to some of the brothers, f. 236v"
+                        },
+                        {
+                          "label": "And another saying, ff. 237r - 237v"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Mimar of St. John Chrysostom on Lent",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "as_written": "میمر من قول القديسّ يوحنا فم الدهب قاله علي الصوم المقدسّ (f. 237v)",
+                      "locus": "ff. 237v-240v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 237v",
+                          "as_written": "ايها الانسان اذا انت صمت تكون تجعل من طعامك الذي هييت لك في ذلك اليوم",
+                          "translation": [
+                            "Oh man, if you fast, you will have for your nourishment whatever I have prepared for you on that day…"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 240v",
+                          "as_written": "ونحضر القداسّ ونرحم المساكين بعفه ودعه لكيما يقبل الله صومنا وصلواتنا لان له ينبغي السبح والكرامه والعظمة والوقار من الان ودايماً والي دهر الداهرين امين",
+                          "translation": [
+                            "And we attend the liturgy and show mercy to the poor with purity and gentleness so that God may receive our fasting and prayers because the glory, esteem, majesty, and dignity are His from now, always, and to the age of ages. Amen"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Homilia in sextum Psalmum",
+                        "genre": [
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "as_written": "وهذا الميمر من قول القديس انسطاسيوس قاله علي المزمور السادس للتوبه (f. 240v)",
+                      "locus": "ff. 240v-264r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 241r",
+                          "as_written": "يا معشر الاخوه الروحانيين قد حضر لنا اليوم هذه العظمه لمنفعتنا",
+                          "translation": [
+                            "O fellow spiritual brothers, today this magnificence has been prepared for our benefit…"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 264r",
+                          "as_written": "وبكل عمل الفضل وحفظ الوصايا لكيما نستاهل الفرح والكرامه الدايمه بموهبه ربنا اليسوع المسيح له السبح مع ابيه وروحه",
+                          "translation": [
+                            "…and by every deed of virtue and observance of the commandments so that we may merit eternal joy and esteem by the gift of our Lord Jesus Christ, to whom be the praise with the Father and the Spirit"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "There is a rubric for the following section: The sixth psalm spoken by the prophet David, f. 241v"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Collected verses",
+                        "genre": [
+                          {
+                            "id": "poetry",
+                            "label": "Poetry"
+                          }
+                        ]
+                      },
+                      "as_written": "هذه ابیات ملتقطه نافعه (f. 264v)",
+                      "locus": "ff. 264v-284v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 264v",
+                          "as_written": "ايها الاخ الروحانى لا تنقسم بداتك ليلا تصير دینونتك منك",
+                          "translation": [
+                            "O spiritual brother, be not divided within yourself at night, lest you become your own judgment"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 284v",
+                          "as_written": "بالفرح والغبطه حيث الابرار والانبيا والشهدا وروسا الكهنه والصديقين فله السبح دايماً وعلينا رحمته من الان وكل اوان والى انقصا الدهور كلها امين",
+                          "translation": [
+                            "…with joy and gladness where the righteous, the prophets, the martyrs, the bishops, and the faithful are, to whom be the glory always and whose mercy be upon us from now and all times, to the end of all ages. Amen"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Sayings of Stomathassa, or \"Mouth of the Sea\"",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "as_written": "وايضا قال اصطوماثاصا اي فم اليم (f. 284v)",
+                      "locus": "ff. 284v-297r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": " f. 284v",
+                          "as_written": "يا بني الحكيم وولد الحكمه اذا خاطبت احد فانا [اوري] الكل مخافه الله",
+                          "translation": [
+                            "Oh son of the wise, child of wisdom, if I address anyone, I show all the fear of God…"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 297r",
+                          "as_written": "لنتشبه به وناخذ من هذه الحبه قوه نتقوا بها على ارادته ومحبته فله ينبغي ويليق السبح والمجد والكرامه مع ابيه وروح قدسه الان وديماً الى انقضا الدهور كلها المين",
+                          "translation": [
+                            "We cling to Him and take strength from this love. We fear Him concerning His will and His love, for to Him belongs and befits the glory, honor, and esteem with the Father and the Holy Spirit now, always, and to the end of all ages. Amen"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Unidentified text"
+                      },
+                      "locus": "ff. 297r-298r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 297v",
+                          "as_written": "غیرك لا تدرى متى تحدث الزمان بك",
+                          "translation": [
+                            "But, you do not know when that time will occur for you…"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 298r",
+                          "as_written": "وذلك يوم الاربعا سابع يوم مضت من احزيران سنة ستة الاف وسبع مايه واربعه واربعين لابينا ادم وهو في الدير المبارك بجبل الله المقدس طور سينا",
+                          "translation": [
+                            "…and that was Wednesday, the seventh of June in the year six thousand seven hundred and forty-four for our father Adam, and it was in the blessed monastery on the holy mountain of God, Mt. Sinai"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Names of the twelve minor prophets",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "as_written": "نبتدي علي بركة الله وحسّن توفیقه نکتب اسما لاثناًعشر نيناً الصغار اولهم (f. 298v)",
+                      "locus": "f. 298v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 298v",
+                          "as_written": "هوشع بن باري",
+                          "translation": [
+                            "Hosea, son of Beeri"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 298v",
+                          "as_written": "يوحنا المعمداد",
+                          "translation": [
+                            "John the Baptist"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Justin Arnwine"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-08T15:02:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1dk7x"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 298r",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "…المعمودية فنسأل الرب الاله ان يتصدق علينا بالرحمة والغفران ولجميع من تقدم ذكرهم مع من سمع وترحم وختم بأمين بشفاعة السيدة أم النور ومار يوحنا بني الجمهور وموسى وهارون وكاترينا وجميع القديسين الذين أرضوا الله بأعمالهم الصالحة  امين وذلك في يوم الأربعاء سابع يوم مضت من حزيران سنة ست آلاف وسبعمائة وأربعة وأربعين لأبينا آدم وهو في الدير المبارك بجبل الله المقدس طور سيناء ",
+                "assoc_place": [
+                  {
+                    "id": "ark:/21198/s1qm59",
+                    "as_written": "الدير المبارك بجبل الله المقدس طور سيناء",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    },
+                    "place_record": {
+                      "ark": "ark:/21198/s1qm59",
+                      "type": {
+                        "id": "monastery",
+                        "label": "Monastery"
+                      },
+                      "pref_name": "Saint Catherine's Monastery (Sinai)",
+                      "alt_name": [
+                        "Saint Catherine's Monastery"
+                      ]
+                    }
+                  }
+                ],
+                "assoc_date": [
+                  {
+                    "value": "1236 CE",
+                    "iso": {
+                      "not_before": "1236"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "Wednesday 7 Huzayran 6744 (adam)"
+                    ]
+                  }
+                ],
+                "note": [
+                  "f. 297r-297v is torn, where the beginning of the colophon would have been"
+                ]
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Chris PreJean",
+                  "Maroun El Houkayem"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T22:09:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1wh47rd"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[377], p. 30"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1wh47rd/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1wh47rd%2Fr171fh2q/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2019 July",
+        "delivery": "5.1",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

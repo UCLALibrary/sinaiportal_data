@@ -1,0 +1,388 @@
+{
+  "ark": "ark:/21198/z1g17p83",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 289",
+  "extent": "519 ff.",
+  "weight": "3326.9 g",
+  "dim": "263 x 187 x 128.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1xw35",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1xw35",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 289, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1rh2f",
+                "label": "Item 1",
+                "locus": "ff. 1r-522r",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1rh2f",
+                  "reconstruction": false,
+                  "label": "Commentaries of Chrysostom and Basil",
+                  "locus": "ff. 1r-522r",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1cg66",
+                        "pref_title": "Homilies on the Gospel of Saint Matthew (Chrysostom)",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "John Chrysostom, Saint, -407. | Homilies on the Gospel of Saint Matthew",
+                            "uri": "http://viaf.org/viaf/175558535",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Homilies 21-43 of John Chrysostom on Matthew",
+                      "locus": "ff. 1r-242r"
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1wg6v",
+                        "pref_title": "Homilies on First Corinthians (Chrysostom)",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "John Chrysostom, Saint, -407. | Homilies on First Corinthians",
+                            "uri": "http://viaf.org/viaf/186435585",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "In Epistulam I ad Corinthios argumentum et homiliae 1-44",
+                            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7816/",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "In epistulam I ad Corinthios argumentum et homiliae 1-44",
+                            "idno": "4428",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "Homilies 1-20 of John Chrysostom on 1 Corinthians",
+                      "locus": "ff. 243r-361v"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Commentary of Basil of Caesarea on the Psalms",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1101c",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1101c",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Basil, Saint, Bishop of Caesarea, approximately 329-379",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 329-379",
+                                "iso": {
+                                  "not_before": "0304",
+                                  "not_after": "0404"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Basil, Saint, Bishop of Caesarea, approximately 329-379",
+                                  "uri": "https://viaf.org/viaf/88967224",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Basil, Saint, Bishop of Caesarea, approximately 329-379",
+                                  "uri": "http://id.loc.gov/authorities/names/n80004066",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Basil, Bishop of Caesarea, approximately 329-379",
+                                  "uri": "https://w3id.org/haf/person/641569108508",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Basil of Caesarea",
+                                  "uri": "http://syriaca.org/person/376",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Basilius Caesariensis",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/489/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 362r-522r"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Justin Arnwine"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-08T15:02:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1xw35"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1g17p83"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[338], p. 27"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1g17p83/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "individuals",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1g17p83%2Fxn66257v/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2020 February",
+        "delivery": "8",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 1 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

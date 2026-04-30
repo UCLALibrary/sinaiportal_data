@@ -1,0 +1,297 @@
+{
+  "ark": "ark:/21198/z1p28gvt",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 266",
+  "extent": "134 ff.",
+  "weight": "759.7 g",
+  "dim": "205 x 154 x 48 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1hw3f",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1hw3f",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 266, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1bd32",
+                "label": "Item 1",
+                "locus": "ff. 1r-133r",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1bd32",
+                  "reconstruction": false,
+                  "label": "Liturgical varia",
+                  "locus": "ff. 1r-133r",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1qk5z",
+                        "pref_title": "Typikon",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-91r",
+                      "contents": [
+                        {
+                          "label": "Elul, ff. 1r-11r"
+                        },
+                        {
+                          "label": "Teshrin I, ff. 11r-21v"
+                        },
+                        {
+                          "label": "Teshrin II, ff. 21v-30v"
+                        },
+                        {
+                          "label": "Kanun I, ff. 30v-40v"
+                        },
+                        {
+                          "label": "Kanun II, ff. 40v-50r"
+                        },
+                        {
+                          "label": "Shabat, ff. 50v-57v"
+                        },
+                        {
+                          "label": "Adar, ff. 57v-59r"
+                        },
+                        {
+                          "label": "Nisan, ff. 59r-62r"
+                        },
+                        {
+                          "label": "Iyar, ff. 62r-68r"
+                        },
+                        {
+                          "label": "Haziran, ff. 68v-75r"
+                        },
+                        {
+                          "label": "Tammuz, ff. 75r-84r"
+                        },
+                        {
+                          "label": "Ab, ff. 84r-91r"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Troparia, doxastika, and kontakia",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 91r-95v"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Kontakia and other prayers for Holy Week (Greek and Arabic bilingual)",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "prayers",
+                            "label": "Prayers"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 96r-100r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Troparia and other prayers for the Sundays after Easter up to Pentecost",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 100r-102v"
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary (Gospels), comprising eleven sections and beginning with [the third section from] the Gospel of Mark",
+                      "locus": "ff. 103r-116r"
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary (Epistles and Gospels), beginning with the Epistle to the Hebrews",
+                      "locus": "ff. 116r-130r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Tables for calculating Shrovetide, Easter and Lent",
+                        "genre": [
+                          {
+                            "id": "calendars",
+                            "label": "Calendars"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 130r-133r"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Justin Arnwine"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-08T15:02:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1hw3f"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1p28gvt"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[153], p. 18"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1p28gvt/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1p28gvt%2Frm675p62/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2019 July",
+        "delivery": "5.1",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "ark": "ark:/21198/z1k46knc",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Georgian NF M 55, SPP No. 255",
+  "extent": "4 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. (Sin. geo. NF 13: 72v-71r, 72r-72v), 29r-28v, 29v-28r, 38r-37v, 38v-37r, (Sin. geo. NF 13: 62v-63r, 62r-63v, 53r-52v, 53v-52r)",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1x64n",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1x64n",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Georgian NF M 55, Undertext (Erkatagir)",
+            "locus": "ff. 28–29, 37–38",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "erkatagir",
+                    "label": "Erkatagir",
+                    "writing_system": "Armenian"
+                  }
+                ],
+                "note": [
+                  "Slanted majuscule"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 columns",
+                "lines": "20 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1k67p",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1k67p",
+                  "reconstruction": false,
+                  "label": "Pauline Epistles with Euthalian apparatus",
+                  "lang": [
+                    {
+                      "id": "arme1241",
+                      "label": "Armenian"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1hg6f",
+                        "pref_title": "Bible. Epistles of Paul",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Epistles of Paul",
+                            "uri": "http://id.loc.gov/authorities/names/n79139623",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Epistles of Paul",
+                            "uri": "https://viaf.org/viaf/176999286",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Pauline Epistles with Euthalian apparatus",
+                      "note": [
+                        "The second part of the Euthalian material belongs to the so-called chapter of testimonies, i.e., the register of quotations from Old Testament texts and other sources within Paul’s Epistles; cf. SIBE 2/3, I-1 to I-8"
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Jost Gippert"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:43:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1x64n"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Jost Gippert"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:43:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1d50wzn",
+              "ark:/21198/z1k46knc"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1d50wzn/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2033/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Jost Gippert"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:43:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1d50wzn",
+      "shelfmark": "Sinai Georgian NF M 55"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

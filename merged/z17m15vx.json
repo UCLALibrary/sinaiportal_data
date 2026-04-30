@@ -1,0 +1,197 @@
+{
+  "ark": "ark:/21198/z17m15vx",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Greek 212",
+  "extent": "114 ff.",
+  "dim": "146 x 117 x 44 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "Quire 1: 1x8 (8); Quire 2: 1x8 (16); Quire 3: 1x6+1+1 (24); Quire 4: 1x8 (32); Quire 5: 1x6+1+1 (40); Quire 6: 1x8 (48); Quire 7: 1x6+1+1 (56); Quires 8-12: 5x8 (96); Quire 13a: 2x1 (98); Quire 13b: 1x6+1+1 (106); Quire 14: 1x8 (114)",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "146 x 117 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s16d0p",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s16d0p",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Greek 212, Overtext (Greek majuscule)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "note": [
+                  "Large, angular, slightly inclined uncial, with accents and breathings"
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black",
+                  "red"
+                ],
+                "note": [
+                  "Initials and titles in red"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s11081",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s11081",
+                  "reconstruction": false,
+                  "label": "Evangelion",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s16d0p"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z17m15vx"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "55eae5e7-ad84-46af-a814-4f5524b2d09d",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Gardthausen 1886",
+      "citation": "Gardthausen, Victor E. Catalogus codicum Graecorum Sinaiticorum. Oxford, 1886",
+      "range": "p. 42"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17m15vx/manifest",
+      "label": "Multispectral Images",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14b3sm9/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "uto": [
+    {
+      "uto_layer_ark": "ark:/21198/s1ph02",
+      "label": "Greek Undertext: Psalter",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 1–114",
+      "uto_ms_ark": "ark:/21198/z13z8zqh",
+      "script": [
+        "Greek majuscule"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    }
+  ]
+}

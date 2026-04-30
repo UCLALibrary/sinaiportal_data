@@ -1,0 +1,241 @@
+{
+  "ark": "ark:/21198/z18d35vx",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic NF M 46",
+  "extent": "7 ff.",
+  "weight": "35.2 g",
+  "dim": "229 x 176 x 14.0 mm",
+  "state": {
+    "id": "quire",
+    "label": "Quire(s)"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1mw54",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1mw54",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic NF M 46, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1fh31",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1fh31",
+                  "reconstruction": false,
+                  "label": "Mimars of Bishar and Athanasius",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1fd5r",
+                        "pref_title": "Homily on the Ascension of the Lord",
+                        "genre": [
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s17m4k",
+                            "agent_record": {
+                              "ark": "ark:/21198/s17m4k",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Bishar ibn al-Sada (priest of Damascus)",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              }
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ]
+                      },
+                      "alt_title": "Mimar of the priest Bishar ibn al-Sada of Damascus concerning the Lord's ascension into heaven"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Mimar of Athanasius, Patriarch of Alexandria for Palm Sunday",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1z59h",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1z59h",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                              "alt_name": [
+                                "St. Athanasius the Great"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 373",
+                                "iso": {
+                                  "not_before": "0373"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                                  "uri": "http://viaf.org/viaf/105155222",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                                  "uri": "https://id.loc.gov/authorities/names/n79145591",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                                  "uri": "https://w3id.org/haf/person/749260264627",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Athanasius, bishop of Alexandria",
+                                  "uri": "http://syriaca.org/person/354",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Athanasius Alexandrinus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/415/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1mw54"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z18d35vx"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "cb8b8b52-569b-4d1f-8d5c-adf911afd205",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Meimaris",
+      "citation": "Meimaris, Yiannis E. A Catalogue Of The New Arabic Manuscripts Found At St. Catherine's Monastery, Mount Sinai. 1985",
+      "range": "p. 32; ٣١-٣٢"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz18d35vx/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz18d35vx%2Fvp57n70d/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Andreas Fatouros"
+        ],
+        "imaging_date": "2021 November",
+        "delivery": "8.2",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 1 cam., 730 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

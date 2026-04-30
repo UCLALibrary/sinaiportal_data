@@ -1,0 +1,287 @@
+{
+  "ark": "ark:/21198/z16h624t",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 226",
+  "extent": "239 ff.",
+  "weight": "715.7 g",
+  "dim": "151 x 121 x 82.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s15p6d",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s15p6d",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 226, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1093x",
+                "label": "Item 1",
+                "locus": "ff. 2r-238v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1093x",
+                  "reconstruction": false,
+                  "label": "Liturgical varia",
+                  "locus": "ff. 2r-238v",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Canons of John of Damascus",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s18c7m",
+                            "agent_record": {
+                              "ark": "ark:/21198/s18c7m",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John, of Damascus, Saint",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. approximately 750",
+                                "iso": {
+                                  "not_before": "0725",
+                                  "not_after": "0775"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John, of Damascus, Saint",
+                                  "uri": "http://viaf.org/viaf/44435485",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John, of Damascus, Saint",
+                                  "uri": "https://id.loc.gov/authorities/names/n80032173",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John, of Damascus, -approximately 750",
+                                  "uri": "https://w3id.org/haf/person/353918456335",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John of Damascus",
+                                  "uri": "http://syriaca.org/person/575",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Damascenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1464/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 2r-5r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Commentaries spoken in mystery for various feasts and Sundays, beginning with Lazarus Saturday",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 5r-126r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Collection of Canons",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 126r-176r",
+                      "contents": [
+                        {
+                          "label": "Canons of John of Damascus in six melodies, ff. 126r-135v"
+                        },
+                        {
+                          "label": "Canons of John of Damascus in eight melodies, ff. 136r-141r"
+                        },
+                        {
+                          "label": "Canons of John of Damascus in six melodies, ff. 141r-148v"
+                        },
+                        {
+                          "label": "Canons in eight melodies, ff. 148v-154v"
+                        },
+                        {
+                          "label": "Canons of Theophanes to St. Nicholas in five melodies, ff. 154v-162v"
+                        },
+                        {
+                          "label": "Canons of Joseph in eight melodies, ff. 162v-169r"
+                        },
+                        {
+                          "label": "Canons of Joseph in eight melodies, ff. 169r-176"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1bg6w",
+                        "pref_title": "Menaion",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menaia with various Troparia",
+                      "locus": "ff. 177r-238v"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Justin Arnwine"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-08T15:02:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s15p6d"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z16h624t"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[128], p. 17"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz16h624t/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16h624t%2Ff350wk4t/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 November",
+        "delivery": "8",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

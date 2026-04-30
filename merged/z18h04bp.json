@@ -1,0 +1,184 @@
+{
+  "ark": "ark:/21198/z18h04bp",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 199",
+  "extent": "219 ff.",
+  "weight": "906.4 g",
+  "dim": "210 x 144 x 67.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1z03h",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1z03h",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 199, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1rm2g",
+                "label": "Item 1",
+                "locus": "ff. 1r-214r",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1rm2g",
+                  "reconstruction": false,
+                  "label": "Psalms 3 : 7-53-6",
+                  "locus": "ff. 1r-214r",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          }
+                        ]
+                      },
+                      "alt_title": "Lectionary of Old Testament",
+                      "locus": "ff. 1r-214r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1z03h"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "214r",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "as_written": "ܫܠܡ ܒܥܘܕܪܢ ܡܪܢ ܟܬܒܐ ܗܢܐ ܕܩܪ̈ܝܢܐ ܕܚܘܕܪܐ ܕܟܠܗ̇ ܫܢܬܐ ܐܝܟ ܛܟܣܐ ܕܘ̈ܢܝܐ . ܒܪܗ ܕܐܒܐ ܒܪܗ̇ ܕܒ̄ܬܘ ܝܫܘܥ ܐܠܗܐ ܚܣܐ ܠܝܘܚܢܢ ܒܪܥܝܣܐ ܕܡܢ ܩܪܝܬܐ ܩܐܪܐ. ܡܛܠܕܐܨ̇ܦ ܘܩܢ̣ܐ ܘܟܬܒ ܐܝܟ ܚܝܠܗ ܟܠ ܕܝܢ ܩ̇ܪܐ ܘܦܓ̇ܥ ܒܟܬܒܐ ܗܢܐ ܢܨܠܐ ܥܠܘܗܝ ܘܢܐܡ̣ܪ ܐܬܕܟܪ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܡܐ ܓܐܬܐ ܐܢܬ ܒܡܠܟܘܟ ܠܝܘܚܢܢ ܕܟܬܒ ܡܠܐܚ̈ܘ ܘܠܐ ܒܗ̈ܘܝ ܦܕ̇ܪܢܝܐ ܘܪܘܚܢܝܐ ܒܝܕ ܨܠ̈ܘܬܗ ܕܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝ̈ܫܐ ܐܡܝܢ ܐܬܟܬܒ ܟܬܒܐ ܗܢܐ ܒܩ̄ܪܝ ܢܛܝܪܬ ܡܢ ܡܪܝܐ ܩܐܪܐ ܒܟܘܪ̈ܐ ܕܪܡܣܘܩ ܒܟ̄ܟ܆ ܒܟܢܘܢ ܐ: ܢܫܬ ܐ̈ܠܦ ܘܚܡܫ̈ܡܐܐ ܘܫ̈ܒܥܝܢ ܘܚܕܐ ܡܢ ܡܢܝܢܐ ܕܐܠܟܣܢܪܘ̄ . ܫܘ̄ ܡܢ ܟܠ ܠܬܠܬܐ. ܘܬܠܬܐ ܕܚܕ ܐܝܬܝܗܘܢ ܬܠܝܬܝܐ ܫ̣ܘܐ ܒܐܘܣܝܐ ܚܣ̇ܐ ܚܘܒ̈ܘܗܝ ܕܝܘܚܢܢ. ܡܐ ܕܟܣܝ̈ܬܐ ܡܬܓ̈ܠܝܢ ܒܪ̈ܚܡܝܟ ܚܦܐ ܣܢ̈ܝܬܗ ܘܢܚܕܐ ܥܡܟ ܒܓܢܘܝܟ ܫܡܝܢܐ ܒܬ̄ܟܫܘ ܕܝܠܕܬ ܐܠܗܐ ܘܓܟܠܗܘܢ ܩܕ̈ܝܫܐ ܐܡܝܢ"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description of Syriac colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Michael Wingert"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T17:48:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z18h04bp"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[184], p. 158"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz18h04bp/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz18h04bp%2Fkt85bt8s/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 July",
+        "delivery": "5.2",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

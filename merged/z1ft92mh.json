@@ -1,0 +1,196 @@
+{
+  "ark": "ark:/21198/z1ft92mh",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai CPA NF frag 13",
+  "extent": "2 ff.",
+  "state": {
+    "id": "bifolio",
+    "label": "Bifolio(s)"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "236 x 181 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1x32v",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1x32v",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai CPA NF frag 13, Overtext (Christian Palestinian Aramaic)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1qq26",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1qq26",
+                  "reconstruction": false,
+                  "label": "Index of Lections",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Index of Lections",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1x32v"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1ft92mh"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Brock 1995",
+      "citation": "Brock, Sebastian P. Catalogue of Syriac Fragments (New Finds) in the Library of the Monastery of Saint Catherine, Mount Sinai. Mount Sinai Foundation, 1995",
+      "range": "pp. 88-89, pl. 436-437"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ft92mh/manifest",
+      "label": "Multispectral Images",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1q248j3/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "uto": [
+    {
+      "uto_layer_ark": "ark:/21198/s1n63s",
+      "label": "CPA Undertext: Bible. John",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 1r",
+      "uto_ms_ark": "ark:/21198/z12k73vg",
+      "script": [
+        "Christian Palestinian Aramaic"
+      ],
+      "lang": [
+        "CPA"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1hd1v",
+      "label": "CPA Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 2",
+      "uto_ms_ark": "ark:/21198/z1xt6mc6",
+      "script": [
+        "Christian Palestinian Aramaic"
+      ],
+      "lang": [
+        "CPA"
+      ]
+    }
+  ]
+}

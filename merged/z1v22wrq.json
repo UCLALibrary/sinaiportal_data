@@ -1,0 +1,201 @@
+{
+  "ark": "ark:/21198/z1v22wrq",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai CPA NF frag 5, SPP No. 82",
+  "extent": "1 fol.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 1r, 1v",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1dp8b",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1dp8b",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai CPA NF frag 5, Undertext (Christian Palestinian Aramaic)",
+            "locus": "f. 1",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Fairly early small hand"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "21 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s12q3p",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s12q3p",
+                  "reconstruction": false,
+                  "label": "Isaiah",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1m882",
+                        "pref_title": "Bible. Isaiah",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Isaiah",
+                            "uri": "http://viaf.org/viaf/296479192",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "The passage is not otherwise attested in CPA"
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Sebastian Brock"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:43:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1dp8b"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Sebastian Brock"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:43:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z14m95mw",
+              "ark:/21198/z1v22wrq"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m95mw/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cz37hq/1022,0,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Sebastian Brock"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:43:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z14m95mw",
+      "shelfmark": "Sinai CPA NF frag 5"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

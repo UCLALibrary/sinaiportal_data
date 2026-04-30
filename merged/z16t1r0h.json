@@ -1,0 +1,242 @@
+{
+  "ark": "ark:/21198/z16t1r0h",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 3",
+  "extent": "373 ff.",
+  "weight": "2219.5 g",
+  "dim": "251 x 185 x 91 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s16k6p",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s16k6p",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 3, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1164k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1164k",
+                  "reconstruction": false,
+                  "label": "Pentateuch",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s18w2w",
+                        "pref_title": "Bible. Pentateuch",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Pentateuch",
+                            "uri": "http://id.loc.gov/authorities/names/n79066420",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Pentateuch",
+                            "uri": "https://viaf.org/viaf/194861095",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-372v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "بسم الله الرّحمٰن الرّحيم نبتدي بعون الله تعالیٰ بكتب"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "تمّ سْفر يشوع ابن نون تلميذَ مُوسیٰ. و مانح العطايا و غافر الخطايا و مجزل الخيرات و سابغ النّعم المجد و الاكرام الی الدّهر […]. اللّهم سامح القاري و السّامع و الكاتب و القاني […]."
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Preface, ff. 2v-23v"
+                        },
+                        {
+                          "label": "First book of the Torah, ff. 24v - 104r"
+                        },
+                        {
+                          "label": "The book of the exodus of the sons of Israel from Egypt, the second book of the Torah, ff. 104v-165r"
+                        },
+                        {
+                          "label": "The third book of the Torah, Leviticus, ff. 165v-207v"
+                        },
+                        {
+                          "label": "The fourth book of the Torah, Numbers, ff. 208v-272r"
+                        },
+                        {
+                          "label": "The fifth book of the Torah, Deuteronomy, ff. 272v-330v"
+                        },
+                        {
+                          "label": "The book of Joshua, ff. 331v-372v"
+                        }
+                      ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s16k6p"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "ff. 330v-331r",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "وكان الفراغ من كتابة هذا الكتاب المعظم الخمسة أسفار التوراة الذي أنزلها على موسى ابن عمران باللسان السرياني الترجوم ونقلها الى لسان العبراني وذلك في يوم الاربعاء تاسع شهر كانون الثاني سنة ألف وستمائة وسبعين الاسكندر اليوناني الموافق لسنة أدم سنة ستة ألف وثمان مائة وثانية وستين الموافق لسنة ألف وثلثمائة وثمانية وخمسين للمسيح وكاتبها أحقرمخلوقات الله الفقر الى رحمة ربه من لا يستحق يسمى  إنسان لا سيما بـاسم  شماس يوسف ابن سباط الأمد السرياني الآمدي السرياني ونقلت هذه النسخة السعيدة من السرياني والعبراني الى لسان العربي باجتهاد العظيم ما نالني من التعب على تحرير صحة كلام هذا التوراة وكتبت هذه التوراة في مدينة الماغوصة المحروسة أيام الملك البار المؤمن الرايوك خلد الله ملكه وأجرك بالنصر والسعد فلكه وامن بإنشاء هذه النسخة السعيدة مما أنعم الله عليه بماله لنفسه وهو المولى الاجل والكهف الاضل اوحد الفضلا قدرة العلماء للشيخ ابي الفضائل شرف الدولة عيسى ابن سعيد المتطبب يومئذ بجزيرة قبرص المحروسة وللأصله منسوبة من اهل بغداد نفعه الله فيها وعانه بحفظ ما يتليها والناسح المسيكين يسأل من كل واقف عليها ونسخها أم قرى فيها أن يدعى له بكل المخير والمغفرة وكذلك للممتم فيها وكل من وجد فيها شيء من الغلط يسامح الناسخ الحقير ويصلحه كما يليق بالصحيح حسب قول بعضهم فان وجدت عيباً فسُد الخلالا جل وعز من لا عيبا فيه وعلا والسبح لله دائما ابدا ",
+                "assoc_name": [
+                  {
+                    "value": "Joseph Ibn Sbat",
+                    "as_written": " يوسف ابن سباط",
+                    "role": {
+                      "id": "scribe",
+                      "label": "Scribe"
+                    }
+                  }
+                ],
+                "note": [
+                  "Attested places:  Famagusta, Cyprus"
+                ]
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Chris PreJean",
+                  "Maroun El Houkayem"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T22:09:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z16t1r0h"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[3], p. 11"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz16t1r0h/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz16t1r0h%2Fcx06nb17/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2018 August",
+        "delivery": "8",
+        "imaging_system": "BC100 - 2 cam., 620 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

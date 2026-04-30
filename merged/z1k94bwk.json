@@ -1,0 +1,333 @@
+{
+  "ark": "ark:/21198/z1k94bwk",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 451",
+  "extent": "116 ff.",
+  "weight": "465.6 g",
+  "dim": "193 x 142 x 39 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1kw4f",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1kw4f",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 451, Overtext (Undetermined (Arabic))",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "arabic-undetermined",
+                    "label": "Undetermined (Arabic)",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1dh2b",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1dh2b",
+                  "reconstruction": false,
+                  "label": "Varia",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Mimars by St. John Damascene on the Orthodox Creed",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s18c7m",
+                            "agent_record": {
+                              "ark": "ark:/21198/s18c7m",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John, of Damascus, Saint",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. approximately 750",
+                                "iso": {
+                                  "not_before": "0725",
+                                  "not_after": "0775"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John, of Damascus, Saint",
+                                  "uri": "http://viaf.org/viaf/44435485",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John, of Damascus, Saint",
+                                  "uri": "https://id.loc.gov/authorities/names/n80032173",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John, of Damascus, -approximately 750",
+                                  "uri": "https://w3id.org/haf/person/353918456335",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John of Damascus",
+                                  "uri": "http://syriaca.org/person/575",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Damascenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1464/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Epistle of St. Athanasius Pope and Patriarch of Alexandria to all the inhabitants of Nubia and Egypt",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1z59h",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1z59h",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                              "alt_name": [
+                                "St. Athanasius the Great"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 373",
+                                "iso": {
+                                  "not_before": "0373"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                                  "uri": "http://viaf.org/viaf/105155222",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                                  "uri": "https://id.loc.gov/authorities/names/n79145591",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                                  "uri": "https://w3id.org/haf/person/749260264627",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Athanasius, bishop of Alexandria",
+                                  "uri": "http://syriaca.org/person/354",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Athanasius Alexandrinus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/415/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "correspondence",
+                            "label": "Epistolary texts"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "polemic",
+                            "label": "Polemical works"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Service of the Dead",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "prayers",
+                            "label": "Prayers"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Teaching of St. Theodore",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Sermons and prayers on various occasions",
+                        "genre": [
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          },
+                          {
+                            "id": "prayers",
+                            "label": "Prayers"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Short table in Epact for determining Easter and Feasts",
+                        "genre": [
+                          {
+                            "id": "calendars",
+                            "label": "Calendars"
+                          },
+                          {
+                            "id": "scientific-works",
+                            "label": "Scientific works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 37r-v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1kw4f"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1k94bwk"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[497], p. 40"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1k94bwk/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1k94bwk%2F9v828w9w/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2018 August",
+        "delivery": "8",
+        "imaging_system": "BC100 - 2 cam., 960 ppi, 120mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

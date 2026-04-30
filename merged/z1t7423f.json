@@ -1,0 +1,445 @@
+{
+  "ark": "ark:/21198/z1t7423f",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 236",
+  "extent": "218 ff.",
+  "weight": "793.5 g",
+  "dim": "195 x 135 x 70.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1102r",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1102r",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 236, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1tm0b",
+                "label": "Item 1",
+                "locus": "ff. 2r-215v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1tm0b",
+                  "reconstruction": false,
+                  "label": "Varia",
+                  "locus": "ff. 2r-215v",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1dg6h",
+                        "pref_title": "Horologion",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Book of Hours for the period of the Nativity, Epiphany, and Good Friday",
+                      "as_written": "كتبة سواعى بزمونى الميلاد وبزمونى الغطاس والجمعه الكبيره (f. 147v)",
+                      "locus": "ff. 2r-147v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 2r",
+                          "as_written": "الساعة الاوَلة. تقول قدَوس الله وَما يتلوَها",
+                          "translation": [
+                            "The First Hour: Say, “Most Holy God…” and what follows next"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 147r",
+                          "as_written": "وَالسبح لله دايماً وَعلينا رحمته امين",
+                          "translation": [
+                            "And glory to God, and His mercy upon us. Amen"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "Further subdivided with rubrics for the various hours and includes readings from the Psalms and other prayers"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1bm34",
+                        "pref_title": "Great Canon (Andrew of Crete)",
+                        "alt_title": [
+                          "Canon of Repentance ",
+                          "Canon of Obeisance"
+                        ],
+                        "genre": [
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1vc7w",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1vc7w",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Andrew, of Crete, Saint, approximately 660-740",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 660-740",
+                                "iso": {
+                                  "not_before": "0635",
+                                  "not_after": "0765"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Andrew, of Crete, Saint, approximately 660-740",
+                                  "uri": "http://viaf.org/viaf/10044124",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Andrew, of Crete, Saint, approximately 660-740",
+                                  "uri": "https://id.loc.gov/authorities/names/n79076042",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Andrew, of Crete, Saint, approximately 660-740",
+                                  "uri": "https://w3id.org/haf/person/227859237404",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Andrew of Jerusalem",
+                                  "uri": "https://syriaca.org/person/95",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Andreas Cretensis",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/187/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Canon Magnus",
+                            "uri": "https://pinakes.irht.cnrs.fr//notices/oeuvre/906",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": " Canones, Triodia ac Troparia",
+                            "idno": "8219",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 148r-205r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 148r",
+                          "as_written": "التسبحه الاولى على وزن معيناً وساترا صار لى للخلاص",
+                          "translation": [
+                            "The first hymn in meter: My helper and shelter He became for me in salvation…"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "ff. 204v-205r",
+                          "as_written": "وبك ترحص كل محنه وتسبى المحاربين اياها. وتتبع المطيع. والسبح لله دايماً",
+                          "translation": [
+                            "And with You, every trial is made to flee, the warriors are taken prisoner, and the obedient are attended to. And glory to God always"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "This canon is further subdivided into nine metrical hymns (or odes), in which there is also further rubrication for various parts of the hymns."
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Prayer spoken before receiving the Holy Eucharist",
+                        "genre": [
+                          {
+                            "id": "prayers",
+                            "label": "Prayers"
+                          }
+                        ]
+                      },
+                      "as_written": "هذه الصَلاه تقال قبل اخذ القربان المقدسَ (f. 205v)",
+                      "locus": "ff. 205v-207v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 205v",
+                          "as_written": "قدوسَ قدوسَ قدوسَ انت يالله قدسَ نفسَی وجسَدي وروحى",
+                          "translation": [
+                            "Holy, holy, holy are you, O God. Sanctify my soul, my body, and my spirit…"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 207v",
+                          "as_written": "بك سُررت ان تغذینی انا الخاطى على مايدتك المحييه الغير مايته الذي اسالك ان تحفظ",
+                          "translation": [
+                            "Rather, I was pleased that You would feed me, a sinner, at Your life-giving and immortal table which I ask that You would sustain…"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Teaching from the treatise of Anba Stephen of the Thebaid",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 208r-215v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 208r",
+                          "as_written": "الان يا ابني قبل كل شى اكفر بالعالم وابتعد من ارضك ومن جنسك",
+                          "translation": [
+                            "Now, my son, before all else depart from the world and renounce your country and your kin…"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "locus": "f. 215v",
+                          "as_written": "تكون اعمالك ذكيه لكى يستجيب للله منك عاجلاً",
+                          "translation": [
+                            "...let your deeds be redolent that God may respond to you sooner..."
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Justin Arnwine"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-08T15:02:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1102r"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 147v",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "نجزت كتبة سواعي برمون الميلاد ودفوني الغطاس والجمعة الكبيرة نهار يوم الخميس التاسع وعشرين يوما مضت من شهر أيار الموافق لشهور سنة ست ألف ثمانمائة ستة سنين العالم وذلك في دير الجبل المقدس طور سيناء في أيام الأب السيد الأسقف القديس أبا يوحنا رحمنا الله أب الرحمة والرأفة الكافة بصلواته أجمعين آمين",
+                "assoc_place": [
+                  {
+                    "id": "ark:/21198/s1qm59",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    },
+                    "place_record": {
+                      "ark": "ark:/21198/s1qm59",
+                      "type": {
+                        "id": "monastery",
+                        "label": "Monastery"
+                      },
+                      "pref_name": "Saint Catherine's Monastery (Sinai)",
+                      "alt_name": [
+                        "Saint Catherine's Monastery"
+                      ]
+                    }
+                  }
+                ],
+                "assoc_date": [
+                  {
+                    "value": "1298 CE",
+                    "iso": {
+                      "not_before": "1298"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "Thursday 29 Ayyar 6806 (world)"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Chris PreJean",
+                  "Maroun El Houkayem"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T22:09:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1t7423f"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[134], p. 17"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t7423f/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t7423f%2Fg878s529/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 November",
+        "delivery": "8",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

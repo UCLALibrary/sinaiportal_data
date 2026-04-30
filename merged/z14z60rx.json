@@ -1,0 +1,193 @@
+{
+  "ark": "ark:/21198/z14z60rx",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Georgian NF M 84, SPP No. 272",
+  "extent": "5 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 1v, 1r, 5v+4r, 5r+4v, 3r+2v, 3v+2r",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s17h1d",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s17h1d",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Georgian NF M 84, Undertext (Asomtavruli)",
+            "locus": "ff. 1–5",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "asomtavruli",
+                    "label": "Asomtavruli",
+                    "writing_system": "Georgian"
+                  }
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 columns",
+                "lines": "17 lines",
+                "note": [
+                  "Fragments do not allow for an exact determination of the number of columns and lines"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1wh5t",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1wh5t",
+                  "reconstruction": false,
+                  "label": "Khanmeti Mravaltavi",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Khanmeti Mravaltavi",
+                        "genre": [
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Jost Gippert",
+                        "Bernard Outtier"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-15T22:33:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s17h1d"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Jost Gippert",
+                  "Bernard Outtier"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-15T22:33:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z14m9dms",
+              "ark:/21198/z14z60rx"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14m9dms/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qz2cw1/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Jost Gippert",
+        "Bernard Outtier"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-15T22:33:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z14m9dms",
+      "shelfmark": "Sinai Georgian NF M 84"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "ark": "ark:/21198/z1np37q4",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 89",
+  "extent": "240 ff.",
+  "weight": "966.3 g",
+  "dim": "189 x 144 x 70 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s11k5r",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s11k5r",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 89, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1v65d",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1v65d",
+                  "reconstruction": false,
+                  "label": "Four Gospels",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s10k5f",
+                        "pref_title": "Bible. Gospels",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Gospels",
+                            "uri": "http://id.loc.gov/authorities/names/n79063688",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Gospels ",
+                            "uri": "https://viaf.org/viaf/317284260",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 2v-263v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 2r",
+                          "as_written": "نبتدي بعَون الله و حُسن توفيقه و ارشاده و تسديده. نكتب الاربعة الأناجيل المقدّسة. الاوّل من ذلك بشارة القديس متّی الإنجيلي"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 49v",
+                          "as_written": "كمل نسخ بشارة الرَسول العظيم متی الإنجيلي و لله السبح و المجد دايماً و علينا رحمته امين"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 50v",
+                          "as_written": "كملت الاصحاحات و عددها و السبح لرب المجد دايماً سرمداً و علينا رحمته امي"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 51ar",
+                          "as_written": "؛ فاتحة بشارة الرّسول المُعظّم مرقس الإنجيلي الطّاهر البشير"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 78v",
+                          "as_written": "كمل إنجيل القدّيس مرقس البشير الّذي كتبه برومية في عهد بطرس الرّسول و المجد لله دائماً ابدا"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 79v",
+                          "as_written": "؛ نبتدي بعَون الله و حُسن توفيقه و ارشاده و تسديده نكتب بشارة القدّيس لوقا الإنجيلي"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 125r",
+                          "as_written": " و السّبح لله دايماً و علينا رحمته آمين"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 126v",
+                          "as_written": "تمّت الاصحاحات الّتي الإنجيل لوقا القدّيس البشير الإنجيلي ترحمنا[؟] الرّب لشفاعته آمين"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 127r",
+                          "as_written": "؛ إبتدا بشارة القدّيس يوحنّا الإنجيلي"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 163r",
+                          "as_written": "كملت هذه النّسخة المقدّسة بحبل الله المقدّس طور سينا"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 164r",
+                          "as_written": "؛ نبتدي بعَون الله نكتب فصول الأناجيل الّتي يقروا في طَول الخمسين"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 193r",
+                          "as_written": "كمل بعون الله و رحمته کتبة السّنكسار"
+                        }
+                      ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s11k5r"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 163r",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "كملت بشارة الرسول الأناجيل الفاضل يوحنا البتول المحبوب المتكلم في الإلهيات المحبوب من الرب وبتمامها تم نسخ الإنجيل المقدس ينبوع الحياة والمرشد إلى الخلاص ببشارة الإنجيليين المعظمين في الرسل متى ومرقس ولوقا ويوحنا فنسأل ربنا وإلهنا ايسوع المسيح المتجسد لخلاصنا أن يلهمنا إلى عمل وصاياه وأوامره والابتعاد عن نواهيه وذو أجره بشفاعة والدته  العذراء البتول ورسله والذين جاهدوا من أجله / أيها القارئ أسألك بالمحبة الإلهية صلى بالمغفرة عن الناسخ الخاطئ الابس ثوب التوبة المسمى راهب يراسمه مهما وجدت فيه الغلط والنسيان فأصلحه إن أمكنك يغفر الرب لك ويستر غلطاتك آمين / كملت هذه النسخة المقدسة بجبل الله المقدس طور سيناء نهار الجمعة ثامن عشر من شهر أيار سنة ست آلاف وسبعمائة وثلاثة وتسعين للعالم وذلك في رئاسة الأب القديس أنبا أرسانيوس أسقف جبل الله ادام الله دوام المنيرين رئاسة ورحمنا جميعا بصلواته وكان المهتم والمعتني بالورق وما يحتاج لنساخته القسيس أنبا اكليمي القديس أخر أنبا بيمين وهو له وللأمره برسم قلايته ينفعه الله بما فيه ولنا أجمعين آمين",
+                "assoc_date": [
+                  {
+                    "value": "1285 CE",
+                    "iso": {
+                      "not_before": "1285"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "Friday 18 Ayyar 6793"
+                    ]
+                  }
+                ],
+                "note": [
+                  "Attested places: Mount Sinai"
+                ]
+              },
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 193r",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "كمل يعون الله ورحمته كتبة السنكساد الاثنى عشرشهر لكل السنة التي أولها أيلول وآخرها اب ولله الشكر والسجود والسبح دائما"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Chris PreJean",
+                  "Maroun El Houkayem"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T22:09:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1np37q4"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[82], p. 14"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1np37q4/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1np37q4%2F9c34v405/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2019 January",
+        "delivery": "8",
+        "imaging_system": "BC100 - 2 cam., 600 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

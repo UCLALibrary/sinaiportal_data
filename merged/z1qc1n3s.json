@@ -1,0 +1,402 @@
+{
+  "ark": "ark:/21198/z1qc1n3s",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 560",
+  "extent": "264 ff.",
+  "weight": "1401.6 g",
+  "dim": "222 x 158 x 92 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1vw3j",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1vw3j",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 560, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1ph2t",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1ph2t",
+                  "reconstruction": false,
+                  "label": "Mimars",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Mimars",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1v887",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1v887",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Ephrem the Syrian, Saint, 303-373",
+                              "alt_name": [
+                                "Ephrem the Syrian",
+                                "ܐܦܪܝܡ"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "303-373",
+                                "iso": {
+                                  "not_before": "0303",
+                                  "not_after": "0373"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://viaf.org/viaf/100177778",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://id.loc.gov/authorities/names/n50082928",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Ephrem, of Nisibis, 303-373",
+                                  "uri": "https://w3id.org/haf/person/818572788967",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Ephrem",
+                                  "uri": "http://syriaca.org/person/13",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Ephraem Graecus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/995/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s1101c",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1101c",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Basil, Saint, Bishop of Caesarea, approximately 329-379",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 329-379",
+                                "iso": {
+                                  "not_before": "0304",
+                                  "not_after": "0404"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Basil, Saint, Bishop of Caesarea, approximately 329-379",
+                                  "uri": "https://viaf.org/viaf/88967224",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Basil, Saint, Bishop of Caesarea, approximately 329-379",
+                                  "uri": "http://id.loc.gov/authorities/names/n80004066",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Basil, Bishop of Caesarea, approximately 329-379",
+                                  "uri": "https://w3id.org/haf/person/641569108508",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Basil of Caesarea",
+                                  "uri": "http://syriaca.org/person/376",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Basilius Caesariensis",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/489/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s18c7m",
+                            "agent_record": {
+                              "ark": "ark:/21198/s18c7m",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John, of Damascus, Saint",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. approximately 750",
+                                "iso": {
+                                  "not_before": "0725",
+                                  "not_after": "0775"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John, of Damascus, Saint",
+                                  "uri": "http://viaf.org/viaf/44435485",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John, of Damascus, Saint",
+                                  "uri": "https://id.loc.gov/authorities/names/n80032173",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John, of Damascus, -approximately 750",
+                                  "uri": "https://w3id.org/haf/person/353918456335",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John of Damascus",
+                                  "uri": "http://syriaca.org/person/575",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Damascenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1464/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s1d30f",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1d30f",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John, Climacus, Saint, active 6th century",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 6th century",
+                                "iso": {
+                                  "not_before": "0501",
+                                  "not_after": "0600"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John, Climacus, Saint, active 6th century",
+                                  "uri": "http://viaf.org/viaf/100159871",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John, Climacus, Saint, active 6th century",
+                                  "uri": "https://id.loc.gov/authorities/names/n81018313",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John, Climacus, active 6th century",
+                                  "uri": "https://w3id.org/haf/person/224438251608",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Climacus",
+                                  "uri": "http://syriaca.org/person/574",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Climacus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1452/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "By Ephraem, Chrysostom, Basil, John Damas­cene, Anastasius, John Climax, and Dorotheus"
+                      ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1vw3j"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1qc1n3s"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[508], p. 42"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1qc1n3s/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1qc1n3s%2Fqq07q30x/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 March",
+        "delivery": "4.2",
+        "imaging_system": "BC100 - 2 cam., 745 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

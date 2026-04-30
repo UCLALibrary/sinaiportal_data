@@ -1,0 +1,199 @@
+{
+  "ark": "ark:/21198/z1x74cxv",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Greek 925, SPP No. 37",
+  "extent": "8 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "ff. 80v–87",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1gs80",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1gs80",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Greek 925, Undertext (Greek minuscule)",
+            "locus": "ff. 80v–87",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-min",
+                    "label": "Greek minuscule",
+                    "writing_system": "Greek"
+                  }
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 columns",
+                "lines": "23 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s14x20",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s14x20",
+                  "reconstruction": false,
+                  "label": "Stichera from the Parakletike",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1ms4q",
+                        "pref_title": "Sticherarion",
+                        "genre": [
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Stichera from the Parakletike",
+                      "note": [
+                        "Text identification by Sophia Kotzabassi."
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Text identification by Sophia Kotzabassi. Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Dieter Harlfinger",
+                        "Sophia Kotzabassi"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-16T00:50:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1gs80"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Text identification by Sophia Kotzabassi. Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Dieter Harlfinger",
+                  "Sophia Kotzabassi"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-16T00:50:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1s477kk",
+              "ark:/21198/z1x74cxv"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1s477kk/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1m6232f/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Text identification by Sophia Kotzabassi. Migrated to SMDL in 2025.",
+      "contributor": [
+        "Dieter Harlfinger",
+        "Sophia Kotzabassi"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-16T00:50:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1s477kk",
+      "shelfmark": "Sinai Greek 925"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

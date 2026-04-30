@@ -1,0 +1,207 @@
+{
+  "ark": "ark:/21198/z1pm175t",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Arabic 514, SPP No. 89",
+  "extent": "3 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 22v, 22r, 15v, 15r, 49r, 49v",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s10s6w",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s10s6w",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Arabic 514, Undertext (Estrangela)",
+            "locus": "ff. 15, 22, 49",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "24 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1nt17",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1nt17",
+                  "reconstruction": false,
+                  "label": "Infancy Gospel of James (Protoevangelium of James)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1601x",
+                        "pref_title": "Gospel of James (Apocrypha)",
+                        "alt_title": [
+                          "Protoevangelium of James ",
+                          "Infancy Gospel of James ",
+                          "The Birth of Mary ",
+                          "Gospel of James (Apocrypha)"
+                        ],
+                        "genre": [
+                          {
+                            "id": "apocrypha",
+                            "label": "Apocrypha"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Protevangelium Jacobi",
+                            "uri": "http://id.loc.gov/authorities/names/n88658221",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Protevangelium Jacobi",
+                            "uri": "https://viaf.org/viaf/184746618/",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Infancy Gospel of James | Protoevangelium of James"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-15T22:33:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s10s6w"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-15T22:33:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1bc4wfw",
+              "ark:/21198/z1pm175t"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1bc4wfw/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ng5nmf/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-15T22:33:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1bc4wfw",
+      "shelfmark": "Sinai Arabic 514"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

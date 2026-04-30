@@ -1,0 +1,207 @@
+{
+  "ark": "ark:/21198/z18x45br",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Georgian 49, SPP No. 212",
+  "extent": "5 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 30v, 30r, 28r, 28v, 29r, 29v, 26v, 26r, 25v, 25r",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s15w53",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s15w53",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Georgian 49, Undertext (Greek majuscule)",
+            "locus": "ff. 25–26, 28–30 ",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "note": [
+                  "Biblical majuscule | Contrast between thick and thin strokes; decorations at the ends of thin strokes; at the end of the lines there are smaller letters"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "28 lines, reconstructed"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1tx0f",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1tx0f",
+                  "reconstruction": false,
+                  "label": "Gospel of Mark",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1630k",
+                        "pref_title": "Bible. Mark",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Mark",
+                            "uri": "http://id.loc.gov/authorities/names/n78095773",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Mark",
+                            "uri": "https://viaf.org/viaf/179823714",
+                            "source": "VIAF"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Pasquale Orsini"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:44:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s15w53"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Pasquale Orsini"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:44:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z12v3d24",
+              "ark:/21198/z18x45br"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12v3d24/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12j7c24/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Pasquale Orsini"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:44:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z12v3d24",
+      "shelfmark": "Sinai Georgian 49"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

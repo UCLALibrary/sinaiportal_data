@@ -1,0 +1,261 @@
+{
+  "ark": "ark:/21198/z1nx098d",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Georgian NF M 71, SPP No. 43",
+  "extent": "4 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 2v, 7r, 7v, 2r, 6v, 3r, 3v, 6r",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1rh12",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1rh12",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Georgian NF M 71, Undertext (Christian Palestinian Aramaic)",
+            "locus": "ff. 2–3, 6–7",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Early small CPA. Typical hand of Cyril of Jerusalem scribe"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "25 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1dh43",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1dh43",
+                  "reconstruction": false,
+                  "label": "Catecheses",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16w28",
+                        "pref_title": "Catecheses (Cyril, Bishop of Jerusalem)",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1rg6m",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1rg6m",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Cyril, Saint, Bishop of Jerusalem, approximately 315-386",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 315-386",
+                                "iso": {
+                                  "not_before": "0290",
+                                  "not_after": "0411"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Cyril, Saint, Bishop of Jerusalem, approximately 315-386",
+                                  "uri": "http://viaf.org/viaf/2437490",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Cyril, Saint, Bishop of Jerusalem, approximately 315-386",
+                                  "uri": "https://id.loc.gov/authorities/names/n80139106",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Cyril, Bishop of Jerusalem, approximately 315-386",
+                                  "uri": "https://w3id.org/haf/person/413735579621",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Cyril of Jerusalem",
+                                  "uri": "http://syriaca.org/person/431",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Cyrillus Hierosolymitanus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/838/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Cyril, Saint, Bishop of Jerusalem, approximately 315-386. Catecheses",
+                            "uri": "http://id.loc.gov/authorities/names/n93067997",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Cyril, Saint, Bishop of Jerusalem, approximately 315-386. | Catecheses",
+                            "uri": "http://viaf.org/viaf/4535170292152177690005",
+                            "source": "VIAF"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Christa Müller-Kessler",
+                        "Sebastian Brock"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-15T22:33:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1rh12"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Christa Müller-Kessler",
+                  "Sebastian Brock"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-15T22:33:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1z32wm6",
+              "ark:/21198/z1nx098d"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z32wm6/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2xzg/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Christa Müller-Kessler",
+        "Sebastian Brock"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-15T22:33:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1z32wm6",
+      "shelfmark": "Sinai Georgian NF M 71"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "ark": "ark:/21198/z1640t4v",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 360",
+  "extent": "253 ff.",
+  "weight": "1184.5 g",
+  "dim": "223 x 165 x 66 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1p32p",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1p32p",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 360, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1gq08",
+                "label": "Item 1",
+                "locus": "ff. 1r-251v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1gq08",
+                  "reconstruction": false,
+                  "label": "Theological varia",
+                  "locus": "ff. 1r-251v",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "The Spiritual Paradise of the Fathers",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-94v"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Eighteen mimars of Dorotheus",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s17g6z",
+                            "agent_record": {
+                              "ark": "ark:/21198/s17g6z",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Dorotheus, of Gaza, Saint, active 6th century",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 6th century",
+                                "iso": {
+                                  "not_before": "0501",
+                                  "not_after": "0600"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Dorotheus, of Gaza, Saint, active 6th century",
+                                  "uri": "http://viaf.org/viaf/52046984",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Dorotheus, of Gaza, Saint, active 6th century",
+                                  "uri": "https://id.loc.gov/authorities/names/no94029712",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Dorotheus, of Gaza, active 6th century",
+                                  "uri": "https://w3id.org/haf/person/801972287055",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Dorotheus Gazaeus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/963/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 95r-195r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Nineteen questions and answers given by Barsanuphius",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s14s30",
+                            "agent_record": {
+                              "ark": "ark:/21198/s14s30",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Barsanuphius, Saint, active 6th century",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 6th century",
+                                "iso": {
+                                  "not_before": "0501",
+                                  "not_after": "0600"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Barsanuphius, Saint, active 6th century",
+                                  "uri": "http://viaf.org/viaf/12351460",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Barsanuphius, Saint, active 6th century",
+                                  "uri": "https://id.loc.gov/authorities/names/n86008292",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Barsanuphius, active 6th century",
+                                  "uri": "https://w3id.org/haf/person/276837023763",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Barsanuphius et Iohannes",
+                                  "uri": "https://pinakes.irht.cnrs.fr//notices/auteur/477/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 195r-245r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Short treatise on profitable news for the soul",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 245r-247r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Sayings of the Fathers",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 247r-249r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Sermon derived from the Egyptian Fathers",
+                        "genre": [
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 249r-250r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "A chapter from the Epistle of St. Dionysius to his servant Theophilus",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1c88w",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1c88w",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Dionysius, the Areopagite, Saint, active 1st century",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 1st century",
+                                "iso": {
+                                  "not_before": "0001",
+                                  "not_after": "0100"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Dionysius, the Areopagite, Saint, active 1st century",
+                                  "uri": "http://viaf.org/viaf/349145857118922922538",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Dionysius, the Areopagite, Saint, active 1st century",
+                                  "uri": "https://id.loc.gov/authorities/names/n85113327",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Dionysius, the Areopagite, active 1st century",
+                                  "uri": "https://w3id.org/haf/person/247302045539",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Dionysius Areopagita (pseudo)",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/926/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "correspondence",
+                            "label": "Epistolary texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 250r-251v"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Justin Arnwine"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-08T15:02:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1p32p"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 94v",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "تم هذا الكتاب المعروف بالفردوس العقلى بمعونة الله وحسن توفيقه في الأول في أيار سنة ستة آلاف وستمائة وستة وتسعين للعالم احسن الله خاتمتها علينا آمين كتبوه الحقيرين فرهبان طورسيناء سابا والياس برسمهم وهم يسألوا كل من قرأ فيه أن يدعى لهم بالرحمة وغفران الخطايا الرب يسوع المسيح بفضله وبشفاعة العذراء سيدتنا مرت مريم والدته ينفع من قرأ فيه ومن قرئ عليه وسمعه آمين ",
+                "assoc_place": [
+                  {
+                    "id": "ark:/21198/s1qm59",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    },
+                    "place_record": {
+                      "ark": "ark:/21198/s1qm59",
+                      "type": {
+                        "id": "monastery",
+                        "label": "Monastery"
+                      },
+                      "pref_name": "Saint Catherine's Monastery (Sinai)",
+                      "alt_name": [
+                        "Saint Catherine's Monastery"
+                      ]
+                    }
+                  }
+                ],
+                "assoc_date": [
+                  {
+                    "value": "1188 CE",
+                    "iso": {
+                      "not_before": "1188"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "1 Ayyar 6696 (world)"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Chris PreJean",
+                  "Maroun El Houkayem"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T22:09:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1640t4v"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[375], p. 30"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1640t4v/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1640t4v%2Fzf89b20b/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 March",
+        "delivery": "4.1",
+        "imaging_system": "BC100 - 2 cam., 745 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

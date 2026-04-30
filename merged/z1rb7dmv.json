@@ -1,0 +1,218 @@
+{
+  "ark": "ark:/21198/z1rb7dmv",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Slavonic NF M 3",
+  "extent": "151 ff.",
+  "dim": "89 x 79 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "89 x 79 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1c037",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1c037",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Slavonic NF M 3, Overtext (Glagolitic)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "glagolitic",
+                    "label": "Glagolitic",
+                    "writing_system": "Glagolitic"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s15m26",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s15m26",
+                  "reconstruction": false,
+                  "label": "Psalterium Demetrii Sinaitici",
+                  "lang": [
+                    {
+                      "id": "chur1257",
+                      "label": "Church Slavonic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1d886",
+                        "pref_title": "Psalter",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Psalterium Demetrii Sinaitici"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1c037"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1rb7dmv"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "03f2516b-1a60-4cb9-89de-24c655df4020",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Miklas, et al.",
+      "citation": "Miklas, Heinz, et al. Psalterium Demetrii Sinaitici (monasterii sanctae Catharinae codex slav. 3/N). Glagolitica Sinaitica 1. Vienna, 2012"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rb7dmv/manifest",
+      "label": "Multispectral Images",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1g44s4f/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "uto": [
+    {
+      "uto_layer_ark": "ark:/21198/s15923",
+      "label": "Church Slavonic Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 141av, 141bv, stub-141br",
+      "uto_ms_ark": "ark:/21198/z1qd0vg5",
+      "script": [
+        "Undetermined (Cyrillic)"
+      ],
+      "lang": [
+        "Church Slavonic"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s11h05",
+      "label": "Church Slavonic Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 141av",
+      "uto_ms_ark": "ark:/21198/z1fv9c1z",
+      "script": [
+        "Carolingian majuscule",
+        "Carolingian minuscule"
+      ],
+      "lang": [
+        "Latin"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1906r",
+      "label": "Latin Undertext: Unidentified text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 141a, stub-141a, 141b, stub-141b, 141c, stub-141c",
+      "uto_ms_ark": "ark:/21198/z1kn03s8",
+      "script": [
+        "Glagolitic"
+      ],
+      "lang": [
+        "Church Slavonic"
+      ]
+    }
+  ]
+}

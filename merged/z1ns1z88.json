@@ -1,0 +1,372 @@
+{
+  "ark": "ark:/21198/z1ns1z88",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 466",
+  "extent": "209 ff.",
+  "weight": "774.1 g",
+  "dim": "191 x 140 x 62 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1f62j",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1f62j",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 466, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s17q1g",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s17q1g",
+                  "reconstruction": false,
+                  "label": "Canons and Theological varia",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1ms4q",
+                        "pref_title": "Sticherarion",
+                        "genre": [
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1bm34",
+                        "pref_title": "Great Canon (Andrew of Crete)",
+                        "alt_title": [
+                          "Canon of Repentance ",
+                          "Canon of Obeisance"
+                        ],
+                        "genre": [
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1vc7w",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1vc7w",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Andrew, of Crete, Saint, approximately 660-740",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 660-740",
+                                "iso": {
+                                  "not_before": "0635",
+                                  "not_after": "0765"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Andrew, of Crete, Saint, approximately 660-740",
+                                  "uri": "http://viaf.org/viaf/10044124",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Andrew, of Crete, Saint, approximately 660-740",
+                                  "uri": "https://id.loc.gov/authorities/names/n79076042",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Andrew, of Crete, Saint, approximately 660-740",
+                                  "uri": "https://w3id.org/haf/person/227859237404",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Andrew of Jerusalem",
+                                  "uri": "https://syriaca.org/person/95",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Andreas Cretensis",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/187/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Canon Magnus",
+                            "uri": "https://pinakes.irht.cnrs.fr//notices/oeuvre/906",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": " Canones, Triodia ac Troparia",
+                            "idno": "8219",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "Canon of Obeisance of St. Andrew Bishop of Crete"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Kontakion of Our Lady",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Treatises by John Chrysostom, Nilus and Carpatheus",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s14k5p",
+                            "agent_record": {
+                              "ark": "ark:/21198/s14k5p",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John, of Karpathos, Saint, active 7th century?",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 7th century?",
+                                "iso": {
+                                  "not_before": "0575",
+                                  "not_after": "0725"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John, of Karpathos, Saint, active 7th century?",
+                                  "uri": "http://viaf.org/viaf/268305530",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John, of Karpathos, Saint, active 7th century?",
+                                  "uri": "https://id.loc.gov/authorities/names/n88166544",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John, of Karpathos, active 7th century?",
+                                  "uri": "https://w3id.org/haf/person/783018785526",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John of Karpathos",
+                                  "uri": "http://syriaca.org/person/3543",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Carpathius",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1445/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1f62j"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1ns1z88"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[185], p. 20"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ns1z88/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "individuals"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2018 September",
+        "delivery": "8",
+        "imaging_system": "BC100 - 2 cam., 975 ppi, 120mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

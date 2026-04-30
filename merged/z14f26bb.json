@@ -1,0 +1,226 @@
+{
+  "ark": "ark:/21198/z14f26bb",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 5",
+  "extent": "198 ff.",
+  "dim": "265 x 200 x 85 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        },
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "dim": "255 x 200 mm (representative folio)",
+      "note": [
+        {
+          "type": {
+            "id": "support",
+            "label": "Support Note"
+          },
+          "value": "Ff. 104 to 198 are paper"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "British Library Or. 8607/I"
+            },
+            {
+              "label": "Milan, Biblioteca Ambrosiana, A 296 inf. (ff. 94-100 = Chabot 31)"
+            },
+            {
+              "label": "ex-Hiersemann 500/36 (= Tsu-Shi, Mie Prefecture, Japan, collection N. Yabuuchi)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1b049",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1b049",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 5, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black",
+                  "red"
+                ],
+                "note": [
+                  "Titles in red"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s14m38",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s14m38",
+                  "reconstruction": false,
+                  "label": "Praxapostolos",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Acts and Epistles",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "correspondence",
+                            "label": "Epistolary texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Praxapostolos",
+                      "note": [
+                        "The parchment folios (ff. 1-103) contain the Pauline Epistles, incomplete at the beginning and end; the paper folios (ff. 104-198) contain Acts; the seven Catholic Epistles; and various liturgical excerpts"
+                      ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1b049"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z14f26bb"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "33aadcf6-1e7a-4533-abd9-052809f06b83",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Lewis 1894",
+      "citation": "Lewis, Agnes Smith. Catalogue of the Syriac Manuscripts in the Convent of S. Catharine on Mount Sinai. Studia Sinaitica I. London: Cambridge University Press, 1894",
+      "range": "p. 2"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14f26bb/manifest",
+      "label": "Multispectral Images",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ff4gkb/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "uto": [
+    {
+      "uto_layer_ark": "ark:/21198/s18052",
+      "label": "Syriac Undertext: Unidentified text, possibly of Ephrem the Syrian",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 17, 22",
+      "uto_ms_ark": "ark:/21198/z1pd3tdp",
+      "script": [
+        "Estrangela"
+      ],
+      "lang": [
+        "Syriac"
+      ]
+    }
+  ]
+}

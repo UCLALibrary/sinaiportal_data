@@ -1,0 +1,305 @@
+{
+  "ark": "ark:/21198/z1n02zkr",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic NF M 28",
+  "extent": "16 ff.",
+  "weight": "40.1 g",
+  "dim": "192 x 140 x 20.0 mm",
+  "state": {
+    "id": "quire",
+    "label": "Quire(s)"
+  },
+  "coll": "Quires 1-2: 2x8 (16)",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "191 x 137 mm (representative folio)",
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "note": [
+            "Text continues from Arabic NF M 8"
+          ],
+          "mss": [
+            {
+              "label": "Sinai Arabic NF M 8",
+              "id": "ark:/21198/z1kd1z25"
+            },
+            {
+              "label": "Sinai Arabic NF M 27"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1j62g",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1j62g",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic NF M 28, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black",
+                  "red"
+                ],
+                "note": [
+                  "Red used for rubrics"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1bt02",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1bt02",
+                  "reconstruction": false,
+                  "label": "Varia",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1388d",
+                        "pref_title": "Bible. John",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. John",
+                            "uri": "http://id.loc.gov/authorities/names/n79060414",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. John",
+                            "uri": "https://viaf.org/viaf/57145910123927021804",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Gospel of John"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Mimar of our holy father John Chrysostom",
+                        "genre": [
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "alt_title": "Mimar of our holy father John Chrysostom of the ecumenical teacher, archbishop of the City of Byzantium of the Birth of our Lord Jesus Christ"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "The other word of John Chrysostom, sermon to the monks",
+                        "genre": [
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "From the canon of the apostles, testament of the Apostle Paul",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1j62g"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1n02zkr"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "cb8b8b52-569b-4d1f-8d5c-adf911afd205",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Meimaris",
+      "citation": "Meimaris, Yiannis E. A Catalogue Of The New Arabic Manuscripts Found At St. Catherine's Monastery, Mount Sinai. 1985",
+      "range": "p. 29;  ٢٧"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr1qn64nz/manifest",
+      "label": "Multispectral Images",
+      "text_direction": "right-to-left",
+      "behavior": "paged"
+    },
+    {
+      "type": {
+        "id": "alt",
+        "label": "Alternate"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1n02zkr/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1n02zkr%2Fq878hh1t/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Iasonas Nikiteas"
+        ],
+        "imaging_date": "2020 February",
+        "delivery": "7.2",
+        "condition_category": "2",
+        "imaging_system": "Stokes-PBC, 930 ppi, 120mm lens"
+      },
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "uto": [
+    {
+      "uto_layer_ark": "ark:/21198/s19w6q",
+      "label": "Greek Undertext: Bible. Genesis",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 128–130v, 133–137, 139, 143",
+      "uto_ms_ark": "ark:/21198/z1w19xwj",
+      "script": [
+        "Greek majuscule"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1fk90",
+      "label": "Greek Undertext: Exodus",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 131–132v, 138, 140–142",
+      "uto_ms_ark": "ark:/21198/z1r89662",
+      "script": [
+        "Greek majuscule"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "ark": "ark:/21198/z16f6k0j",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Arabic NF M 8, SPP No. 142",
+  "extent": "2 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. original recto: 53v (col. a), 50r (col. a), 53v (col. b), 50r (col. b) - original verso: 53r (col. a), 50v (col. a), 53r (col. b), 50v (col. b) (Rossetto)",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1kd1g",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1kd1g",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Arabic NF M 8, Undertext (Greek majuscule)",
+            "locus": "ff. 50, 53",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "note": [
+                  "Round biblical majuscule. Copied by the same hand as the “Hippocrates, Letters” in the same codex. (Rossetto)"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "42-43 lines, reconstructed (Rossetto)"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s17d5w",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s17d5w",
+                  "reconstruction": false,
+                  "label": "Epidemics (Book 7)",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Hippocrates, Epidemics ",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1f30r",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1f30r",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Hippocrates",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "birth": {
+                                "value": "b. 460 BCE",
+                                "iso": {
+                                  "not_before": "-0460"
+                                }
+                              },
+                              "death": {
+                                "value": "d. approximately 377 BCE",
+                                "iso": {
+                                  "not_before": "-0397",
+                                  "not_after": "-0357"
+                                }
+                              },
+                              "floruit": {
+                                "value": " 460 BCE-approximately 377 BCE",
+                                "iso": {
+                                  "not_before": "-0460",
+                                  "not_after": "-0352"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Hippocrates",
+                                  "uri": "http://viaf.org/viaf/287984736",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Hippocrates",
+                                  "uri": "http://id.loc.gov/authorities/names/n79005643",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Hippocrates, approximately 460 BCE-approximately 377 BCE",
+                                  "uri": "https://w3id.org/haf/person/673204385438",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Hippocrates medicus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1355/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "scientific-works",
+                            "label": "Scientific works"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "Book 7"
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Agamemnon Tselikas",
+                        "Nigel Wilson",
+                        "Giulia Rossetto"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-18T22:48:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1kd1g"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Agamemnon Tselikas",
+                  "Nigel Wilson",
+                  "Giulia Rossetto"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-18T22:48:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1kd1z25",
+              "ark:/21198/z16f6k0j"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kd1z25/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q7rws/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Agamemnon Tselikas",
+        "Nigel Wilson",
+        "Giulia Rossetto"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-18T22:48:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1kd1z25",
+      "shelfmark": "Sinai Arabic NF M 8"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "ark": "ark:/21198/z1t17368",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic NF X 12",
+  "extent": "24 ff.",
+  "weight": "46.2 g",
+  "dim": "163 x 121 x 10.0 mm",
+  "state": {
+    "id": "quire",
+    "label": "Quire(s)"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1203f",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1203f",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic NF X 12, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1vm11",
+                "label": "Item 1",
+                "locus": "ff. 1v-24r",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1vm11",
+                  "reconstruction": false,
+                  "label": "Unidentified, poetry",
+                  "locus": "ff. 1v-24r",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Unidentified collection of poetry",
+                        "genre": [
+                          {
+                            "id": "poetry",
+                            "label": "Poetry"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1v-24r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 1v",
+                          "as_written": " حي الفؤاد إلى الأرض القدس / يا أحلى يا ليتها من بلاد الله لي وطني / او ليتني زرتها قبل الممات  عشار في السما في كرامتها يخلصني"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 24r",
+                          "as_written": "يا رب اغفر لمن هذه مقالة واغفر لمن هو بالإيمان قد أنمي"
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Poem 1",
+                          "locus": "ff. 1v-4v",
+                          "note": [
+                            "Incipit, f. 1b; Desinit, f. 4v"
+                          ]
+                        },
+                        {
+                          "label": "Poem 2",
+                          "locus": "ff. 4v-10r",
+                          "note": [
+                            "On the First Miracle of Saint George, Incipit; f. 4v, Desinit, f. 10r"
+                          ]
+                        },
+                        {
+                          "label": "Poem 3",
+                          "locus": "ff. 10v-13r",
+                          "note": [
+                            "On the Second Miracle of Saint George, Incipit, f. 10v; Desinit, f. 13r"
+                          ]
+                        },
+                        {
+                          "label": "Poem 4",
+                          "locus": "ff. 13r-14v"
+                        },
+                        {
+                          "label": "Poem 5",
+                          "locus": "ff. 15r-17r",
+                          "note": [
+                            "Incipit, f. 15r; Desinit, f. 17r"
+                          ]
+                        },
+                        {
+                          "label": "Poem 6",
+                          "locus": "ff. 17v-19v",
+                          "note": [
+                            "Incipit, f. 17v; Desinit, f. 19v; Subscription, f. 19v"
+                          ]
+                        },
+                        {
+                          "label": "Poem 7",
+                          "locus": "ff. 20r-23r",
+                          "note": [
+                            "Incipit, f. 20r; Desinit, f. 22v; Subscription, f. 23r"
+                          ]
+                        },
+                        {
+                          "label": "Poem 8",
+                          "locus": "ff. 23r-24r",
+                          "note": [
+                            "To Our Lady, Incipit, f. 23r; Desinit, f. 24r"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "A collection of poems apparently by a single author, although both the individual poems and the collection are untitled"
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Chris PreJean"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-02T23:36:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1203f"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1t17368"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "cb8b8b52-569b-4d1f-8d5c-adf911afd205",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Meimaris",
+      "citation": "Meimaris, Yiannis E. A Catalogue Of The New Arabic Manuscripts Found At St. Catherine's Monastery, Mount Sinai. 1985",
+      "range": "p. 40; ٤٢"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1t17368/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1t17368%2F49103v24/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2020 March",
+        "delivery": "8.1",
+        "condition_category": "2",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

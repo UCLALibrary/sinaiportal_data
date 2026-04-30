@@ -1,0 +1,213 @@
+{
+  "ark": "ark:/21198/z1fx7khn",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Greek NF MG 32",
+  "extent": "21 ff.",
+  "dim": "230 x 170 mm",
+  "state": {
+    "id": "folio",
+    "label": "Folio(s)"
+  },
+  "coll": "1x2 (2); Quires 1-2: 2x4 (10), 11x1 (21)",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "220 x 160 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1mg84",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1mg84",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Greek NF MG 32, Overtext (Greek majuscule)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black-brown"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1f37d",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1f37d",
+                  "reconstruction": false,
+                  "label": "Martyrologion",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Martyrologion",
+                        "genre": [
+                          {
+                            "id": "martyrologies",
+                            "label": "Martyrologies"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1mg84"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1fx7khn"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "31086588-c563-4dca-b793-d9e4cbdc887b",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Greek New Finds",
+      "citation": "Nikolopoulos, P. G. Τα νέα ευρήματα του Σινά (Athens, 1998). English translation: A. Hatzopoulos, The New Finds of Sinai (Athens, 1999)",
+      "range": "p. 147"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1fx7khn/manifest",
+      "label": "Multispectral Images",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1d79dk1/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "uto": [
+    {
+      "uto_layer_ark": "ark:/21198/s12h1v",
+      "label": "CPA Undertext: Lectionary",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 1–12, 17–19",
+      "uto_ms_ark": "ark:/21198/z1mm74x3",
+      "script": [
+        "Christian Palestinian Aramaic"
+      ],
+      "lang": [
+        "CPA"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1b07f",
+      "label": "Greek Undertext: Unidentified Text",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 13–16",
+      "uto_ms_ark": "ark:/21198/z1rc7wnf",
+      "script": [
+        "Christian Palestinian Aramaic"
+      ],
+      "lang": [
+        "CPA"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1663r",
+      "label": "CPA Undertext: Lectionary, Bible. Old Testament",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "f. 20",
+      "uto_ms_ark": "ark:/21198/z1gv6d6s",
+      "script": [
+        "Undetermined (Greek)"
+      ],
+      "lang": [
+        "Greek"
+      ]
+    }
+  ]
+}

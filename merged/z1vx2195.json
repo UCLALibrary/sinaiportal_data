@@ -1,0 +1,349 @@
+{
+  "ark": "ark:/21198/z1vx2195",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 72",
+  "extent": "261 ff.",
+  "weight": "1829 g",
+  "dim": "267 x 189 x 120.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1rw40",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1rw40",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 72, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1kh38",
+                "label": "Item 1",
+                "locus": "ff. 6r-257v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1kh38",
+                  "reconstruction": false,
+                  "label": "Octoechos",
+                  "locus": "ff. 6r-257v",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1tg7m",
+                        "pref_title": "Octoechos",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 6r-257v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1rw40"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1vx2195"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 5v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "وقف على كنيسه السيده / من اخرجه عنها يكون محروم",
+      "translation": [
+        "[this book] is endowed to the church of the Lady whoever takes it out of it (the church), may he be banned"
+      ],
+      "note": [
+        "anonymous note"
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[166], p. 157"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1vx2195/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vx2195%2Fsm90v472/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 November",
+        "delivery": "8",
+        "condition_category": "2",
+        "imaging_system": "BC100 - 1 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "guest_layer": [
+    {
+      "id": "ark:/21198/s1296p",
+      "label": "Guest Content (Melkite)",
+      "type": {
+        "id": "guest",
+        "label": "Guest Content"
+      },
+      "layer_record": {
+        "ark": "ark:/21198/s1296p",
+        "reconstruction": false,
+        "state": {
+          "id": "guest",
+          "label": "Guest Content"
+        },
+        "label": "Sinai Syriac 72, Guest Content (Melkite)",
+        "locus": "Front pastedown, ff. 1b, 2-5",
+        "writing": [
+          {
+            "script": [
+              {
+                "id": "melkite",
+                "label": "Melkite",
+                "writing_system": "Syriac"
+              }
+            ]
+          }
+        ],
+        "text_unit": [
+          {
+            "id": "ark:/21198/s18d8b",
+            "label": "Item 1",
+            "locus": "Front pastedown, ff. 1b, 2-5",
+            "text_unit_record": {
+              "ark": "ark:/21198/s18d8b",
+              "reconstruction": false,
+              "label": "Services",
+              "locus": "Front pastedown, ff. 1b, 2-5",
+              "lang": [
+                {
+                  "id": "class1252",
+                  "label": "Syriac"
+                }
+              ],
+              "work_wit": [
+                {
+                  "work": {
+                    "desc_title": "Services",
+                    "genre": [
+                      {
+                        "id": "liturgical-texts",
+                        "label": "Liturgical texts"
+                      }
+                    ]
+                  },
+                  "locus": "Front pastedown, ff. 1b, 2-5"
+                }
+              ],
+              "parent": [
+                "ark:/21198/s1296p"
+              ],
+              "desc_provenance": {
+                "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+              }
+            }
+          }
+        ],
+        "parent": [
+          "ark:/21198/z1vx2195"
+        ],
+        "desc_provenance": {
+          "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+        }
+      },
+      "locus": "Front pastedown, ff. 1b, 2-5"
+    },
+    {
+      "id": "ark:/21198/s1xm55",
+      "label": "Guest Content (Estrangela)",
+      "type": {
+        "id": "guest",
+        "label": "Guest Content"
+      },
+      "layer_record": {
+        "ark": "ark:/21198/s1xm55",
+        "reconstruction": false,
+        "state": {
+          "id": "guest",
+          "label": "Guest Content"
+        },
+        "label": "Sinai Syriac 72, Guest Content (Estrangela)",
+        "locus": "Ff. 258-back board inside",
+        "writing": [
+          {
+            "script": [
+              {
+                "id": "estrangela",
+                "label": "Estrangela",
+                "writing_system": "Syriac"
+              }
+            ]
+          }
+        ],
+        "text_unit": [
+          {
+            "id": "ark:/21198/s14m6d",
+            "label": "Item 1",
+            "locus": "Ff. 258-back board inside",
+            "text_unit_record": {
+              "ark": "ark:/21198/s14m6d",
+              "reconstruction": false,
+              "label": "Gospels",
+              "locus": "Ff. 258-back board inside",
+              "lang": [
+                {
+                  "id": "class1252",
+                  "label": "Syriac"
+                }
+              ],
+              "work_wit": [
+                {
+                  "work": {
+                    "ark": "ark:/21198/s1388d",
+                    "pref_title": "Bible. John",
+                    "genre": [
+                      {
+                        "id": "biblical-texts",
+                        "label": "Biblical texts"
+                      },
+                      {
+                        "id": "gospel-books",
+                        "label": "Gospel books"
+                      }
+                    ],
+                    "rel_con": [
+                      {
+                        "label": "Bible. John",
+                        "uri": "http://id.loc.gov/authorities/names/n79060414",
+                        "source": "LoC"
+                      },
+                      {
+                        "label": "Bible. John",
+                        "uri": "https://viaf.org/viaf/57145910123927021804",
+                        "source": "VIAF"
+                      }
+                    ]
+                  },
+                  "locus": "Ff. 258r-back board inside"
+                }
+              ],
+              "parent": [
+                "ark:/21198/s1xm55"
+              ],
+              "desc_provenance": {
+                "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+              }
+            }
+          }
+        ],
+        "parent": [
+          "ark:/21198/z1vx2195"
+        ],
+        "desc_provenance": {
+          "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+        }
+      },
+      "locus": "Ff. 258-back board inside"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "ark": "ark:/21198/z1h726vd",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic NF X 4",
+  "extent": "85 ff.",
+  "weight": "259.1 g",
+  "dim": "185 x 138 x 25.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1f90t",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1f90t",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic NF X 4, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s17s96",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s17s96",
+                  "reconstruction": false,
+                  "label": "Works on Church history and theology of Christian denominations",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1gp4f",
+                        "pref_title": "Pandektēs (Antiochus of Palestine)",
+                        "orig_lang": {
+                          "id": "gree1276",
+                          "label": "Greek"
+                        },
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1kw2p",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1kw2p",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Antiochus, monk of Palestine, active 7th century",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "7th Century",
+                                "iso": {
+                                  "not_before": "0601",
+                                  "not_after": "0700"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Antiochus active 7th century monk of Palestine",
+                                  "uri": "http://viaf.org/viaf/89050745",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Antiochus, monk of Palestine, active 7th century",
+                                  "uri": "http://id.loc.gov/authorities/names/no2005084640",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Antiochus, monk of Palestine, active 7th century",
+                                  "uri": "https://haf.vhmml.org/person/329286221270",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Antiochus monachus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/234/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Antiochus monachus Pandecte de la Sainte Écriture",
+                            "uri": "http://viaf.org/viaf/292613749",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Mimars of Antiochus the Monk of the Holy Larva of Mar Saba to Eustathius",
+                      "contents": [
+                        {
+                          "label": "126, Concerning the call of God"
+                        },
+                        {
+                          "label": "127, Concerning the fear of God"
+                        },
+                        {
+                          "label": "128, Concerning divine love"
+                        },
+                        {
+                          "label": "129, Concerning the role of prophecy"
+                        },
+                        {
+                          "label": "130, Concerning the Kingdom of Heaven"
+                        }
+                      ],
+                      "note": [
+                        "Only the final five out of the one hundred and thirty mimars are preserved in this text"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Treatise regarding the Seven Holy Councils",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Explanation of the beliefs of the Nestorian, Jacobite, Maronite, Arianistic, Macedonian, Armenian",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "polemic",
+                            "label": "Polemical works"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Explanation of the beliefs of St. Theodore, bishop of Harran known as Abu Qurrah",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1059t",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1059t",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                              "alt_name": [
+                                "Theodore Abū Qurrah ",
+                                "Theodore Bishop of Harran",
+                                "ثاوذورس أبي قرة"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 750-825",
+                                "iso": {
+                                  "not_before": "0725",
+                                  "not_after": "0850"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                                  "uri": "http://viaf.org/viaf/116159414",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                                  "uri": "http://id.loc.gov/authorities/names/n85000719",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                                  "uri": "https://w3id.org/haf/person/515032103483",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Theodore Abu Qurra",
+                                  "uri": "http://syriaca.org/person/782",
+                                  "source": "Syriaca"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Theodore, bishop of Harran, treatise on the beliefs of the Orthodox Christians",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1059t",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1059t",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                              "alt_name": [
+                                "Theodore Abū Qurrah ",
+                                "Theodore Bishop of Harran",
+                                "ثاوذورس أبي قرة"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 750-825",
+                                "iso": {
+                                  "not_before": "0725",
+                                  "not_after": "0850"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                                  "uri": "http://viaf.org/viaf/116159414",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                                  "uri": "http://id.loc.gov/authorities/names/n85000719",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                                  "uri": "https://w3id.org/haf/person/515032103483",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Theodore Abu Qurra",
+                                  "uri": "http://syriaca.org/person/782",
+                                  "source": "Syriaca"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "alt_title": "Abu Qurrah, treatise regarding the meaning of the beliefs of the Orthodox Christians and the Oneness of the Creator and the denial of the shameful accusation which their opponents level against them without merit"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Response against those transgressing the faith of proper orthodoxy",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "polemic",
+                            "label": "Polemical works"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1f90t"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 19r",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "وكتب الخاطئ المسكين ثاودوس غفر الله له ولوالديه ولمن ترحم عليه ولجميع بني المعمودية وذلك في يوم السبت رابع كانون تم كتبته سنة ستة الف وسبع مائه "
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Chris PreJean",
+                  "Maroun El Houkayem"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T22:09:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1h726vd"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "cb8b8b52-569b-4d1f-8d5c-adf911afd205",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Meimaris",
+      "citation": "Meimaris, Yiannis E. A Catalogue Of The New Arabic Manuscripts Found At St. Catherine's Monastery, Mount Sinai. 1985",
+      "range": "p. 38; ٣٩"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1h726vd/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1h726vd%2Fb210455q/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Iasonas Nikiteas"
+        ],
+        "imaging_date": "2019 July",
+        "delivery": "nf_1",
+        "condition_category": "2",
+        "imaging_system": "Stokes-PBC, 790 ppi, 120mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

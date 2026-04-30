@@ -1,0 +1,556 @@
+{
+  "ark": "ark:/21198/z11r884x",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 447",
+  "extent": "242 ff.",
+  "weight": "1817.7 g",
+  "dim": "275 x 193 x 71 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s10313",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s10313",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 447, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1sq1f",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1sq1f",
+                  "reconstruction": false,
+                  "label": "Varia",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1rp59",
+                        "pref_title": "Homilies on Genesis (Chrysostom)",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "John Chrysostom, Saint, -407. Homilies on Genesis",
+                            "uri": "http://id.loc.gov/authorities/names/n85120913",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "John Chrysostom, Saint, -407. | Homilies on Genesis",
+                            "uri": "https://viaf.org/viaf/185525092",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Commentary on the Book of Genesis by St. John Chrysostom"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Epistle of Ephraem the Syrian to John the Monk",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1v887",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1v887",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Ephrem the Syrian, Saint, 303-373",
+                              "alt_name": [
+                                "Ephrem the Syrian",
+                                "ܐܦܪܝܡ"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "303-373",
+                                "iso": {
+                                  "not_before": "0303",
+                                  "not_after": "0373"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://viaf.org/viaf/100177778",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://id.loc.gov/authorities/names/n50082928",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Ephrem, of Nisibis, 303-373",
+                                  "uri": "https://w3id.org/haf/person/818572788967",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Ephrem",
+                                  "uri": "http://syriaca.org/person/13",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Ephraem Graecus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/995/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "correspondence",
+                            "label": "Epistolary texts"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Mimars and addresses",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1v887",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1v887",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Ephrem the Syrian, Saint, 303-373",
+                              "alt_name": [
+                                "Ephrem the Syrian",
+                                "ܐܦܪܝܡ"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "303-373",
+                                "iso": {
+                                  "not_before": "0303",
+                                  "not_after": "0373"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://viaf.org/viaf/100177778",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://id.loc.gov/authorities/names/n50082928",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Ephrem, of Nisibis, 303-373",
+                                  "uri": "https://w3id.org/haf/person/818572788967",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Ephrem",
+                                  "uri": "http://syriaca.org/person/13",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Ephraem Graecus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/995/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s1c88w",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1c88w",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Dionysius, the Areopagite, Saint, active 1st century",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 1st century",
+                                "iso": {
+                                  "not_before": "0001",
+                                  "not_after": "0100"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Dionysius, the Areopagite, Saint, active 1st century",
+                                  "uri": "http://viaf.org/viaf/349145857118922922538",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Dionysius, the Areopagite, Saint, active 1st century",
+                                  "uri": "https://id.loc.gov/authorities/names/n85113327",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Dionysius, the Areopagite, active 1st century",
+                                  "uri": "https://w3id.org/haf/person/247302045539",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Dionysius Areopagita (pseudo)",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/926/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "By St. Ephraem, St. Theodore Bishop of Harran, Erotheus (Hierotheus) the Master, St. Dionysius the Areopagite and St. John Chrysostom"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Stories of Joseph, of St. Paul and the demon, of St. Gerasimus by Qumadus of Bisan and of St. Theodosius",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Treatise explaining how the tower of Babylon was built",
+                        "genre": [
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Apocalypse"
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Epistles of Peter, John, Juda and Jacob",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "correspondence",
+                            "label": "Epistolary texts"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "A prayer for the Caliph al-Ma’mūn by Abu Qurra Bishop of Harran",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1059t",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1059t",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                              "alt_name": [
+                                "Theodore Abū Qurrah ",
+                                "Theodore Bishop of Harran",
+                                "ثاوذورس أبي قرة"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 750-825",
+                                "iso": {
+                                  "not_before": "0725",
+                                  "not_after": "0850"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                                  "uri": "http://viaf.org/viaf/116159414",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                                  "uri": "http://id.loc.gov/authorities/names/n85000719",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Abū Qurrah, Thāwdhūrus, approximately 750-825",
+                                  "uri": "https://w3id.org/haf/person/515032103483",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Theodore Abu Qurra",
+                                  "uri": "http://syriaca.org/person/782",
+                                  "source": "Syriaca"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "prayers",
+                            "label": "Prayers"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s10313"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z11r884x"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[353], p. 28"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz11r884x/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz11r884x%2F9g68f65d/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.3",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

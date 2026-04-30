@@ -1,0 +1,596 @@
+{
+  "ark": "ark:/21198/z1892qhn",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 460",
+  "extent": "104 ff.",
+  "weight": "667.7 g",
+  "dim": "223 x 170 x 43 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1pp62",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1pp62",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 460, Overtext (Kufic)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "kufic",
+                    "label": "Kufic",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1h659",
+                "label": "Item 1",
+                "locus": "ff. 1r-104v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1h659",
+                  "reconstruction": false,
+                  "label": "Saints' Lives",
+                  "locus": "ff. 1r-104v",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1xd53",
+                        "pref_title": "Life of Gregory of Armenia",
+                        "alt_title": [
+                          "Life of Gregory, Bishop of Armenia"
+                        ],
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-35v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 1r",
+                          "as_written": "اجابه الطوبان بان وقال له نعم هي الخليقه الذي لا ترى للاهتي"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 35v",
+                          "as_written": "ومن اول أيامه الى اخر حياته كان يصوم أربعين يوم أربعين يوما حتى توفاه المسيح من هذا العالم واستراح"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "The Martyrdom of Febronia of Syria",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "as_written": "هذا شهادة القديسة الطاهرة المسيح امه المسيح فبرونية ",
+                      "locus": "ff. 36r-49v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 36r",
+                          "as_written": "كان في زمان ديقليطيانوس وانثيمس الابوخى ان الابوخي اشتكا فمرض مرض شديد"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1z69v",
+                        "pref_title": "Recognitions (Pseudo-Clement)",
+                        "alt_title": [
+                          "Clementine Recognitions"
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "apocrypha",
+                            "label": "Apocrypha"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1w998",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1w998",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Pseudo-Clement",
+                              "alt_name": [
+                                "Clement of Rome"
+                              ],
+                              "rel_con": [
+                                {
+                                  "label": "Pseudo-Clement",
+                                  "uri": "http://viaf.org/viaf/465149294316080521760",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Pseudo-Clement",
+                                  "uri": "http://id.loc.gov/authorities/names/n2022016050",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Pseudo-Clement",
+                                  "uri": "https://w3id.org/haf/person/411750944932",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Clement",
+                                  "uri": "http://syriaca.org/person/2627",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Clemens Romanus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/730",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Pseudo-Clementina 5: Recognitiones",
+                            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/11998",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "Recognitiones",
+                            "idno": "1015.5",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "A Story of Clement, the disciple of  Saint Peter, Head of the Apostles",
+                      "as_written": "هذه قصة اقليمس تلميذ مار بطرس راس الحوارين (f. 49v)",
+                      "locus": "ff. 49v-57v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 49v",
+                          "as_written": "كان في اطرابلس قال ينبغي لنا ان نؤثر حب الله على الوالدين والأولاد لأنه سبب كل خير"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 57v",
+                          "as_written": "فأنذر الشيخ مع جميع الناس\nثم اعمد الشيخ بسم الاب والابن وروح القدس"
+                        }
+                      ],
+                      "note": [
+                        "This is a textual variant of the Clementine Recognitions; cf. Sinai Arabic 508 ff. 9r-26r"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19h6x",
+                        "pref_title": "The Life of Xenophon, Mary, John, and Arcadius",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "John, Arcadius, Xenophon, and Mary",
+                            "uri": "http://syriaca.org/work/1491",
+                            "source": "Syriaca"
+                          }
+                        ]
+                      },
+                      "alt_title": "The Story of Xenophon, His Wife Mary, and Their Sons John and Arcadius",
+                      "as_written": "هذه قصة اكسنافس ومرئه مرية واولادهما يحنا وارقاديوس",
+                      "locus": "ff. 58r-66r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 58r",
+                          "as_written": "كان انسان من البطارقة يقال له اكسنافس مؤشر جدا حريص على وصايا الله"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 66r",
+                          "as_written": "اما اكسنافس فلبس ثوب من شعر وساح في البرية  الداخلة وعاش فيها في حياته ببقاؤه وعباده صادقه\nوقبل الله منه عمله الصلح واهّله لعلم الغيب واظهار العجائب الكبار وخرج من هذه الدنيا النكدة بسُبح عظيم"
+                        }
+                      ],
+                      "note": [
+                        "The text is the same as that found in Sinai Arabic NF M 12 ff. 110v-119r"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "The Life of Susanna by John Chrysostom",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "as_written": "من قول يحنا فم الذهب القديس القسطنطينة قاله على سوسنة العفيفة الشريفة وعلى سلحين الشعب (f. 66r)",
+                      "locus": "ff. 66r-73r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Jacob of Sarug on the First Synod of the Nicene Council of Constantine",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s11s32",
+                            "agent_record": {
+                              "ark": "ark:/21198/s11s32",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Jacob, of Serug, 451-521",
+                              "alt_name": [
+                                "Jacob of Sarug ",
+                                "Iacobus Sarugiensis ",
+                                "Mar Jacob",
+                                "ܝܥܩܘܒ ܕܣܪܘܓ"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "451-521",
+                                "iso": {
+                                  "not_before": "0451",
+                                  "not_after": "0521"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Isaiah, Abba, -489 or 491",
+                                  "uri": "http://viaf.org/viaf/51661489",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Jacob, of Serug, 451-521",
+                                  "uri": "https://id.loc.gov/authorities/names/n81055296",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Jacob, of Serugh, 451-521",
+                                  "uri": "https://w3id.org/haf/person/276946510270",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Jacob of Serugh",
+                                  "uri": "http://syriaca.org/person/42",
+                                  "source": "Syriaca"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "as_written": "من قول مار يعقوب ؟ اسقف بطنان سروج قاله على قسطنطين الملك وسي المجمع الأول الذي كان بنيقية (f. 73r)",
+                      "locus": "ff. 73-82r"
+                    },
+                    {
+                      "work": {
+                        "desc_title": "The Martyrdom of Saint Babylas and the Three Children",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "as_written": "هذه شهادة بابليانوس الاسقف وثلثة صبيان الذي كانوا معه (f. 82v)",
+                      "locus": "ff. 82v-88v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 82v"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 88v",
+                          "as_written": "وبعد هم اخذوا راس الأسقف القديس والقى مع الصبيان بوثاقة"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Readings for Famine, Drought, Tremors, and Terror",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Readings for Famine, Drought, Tremors, and Terror, written by several scholars as a response to turmoil across the world in the sixth century",
+                      "as_written": "يقرا يوم جوع او قلة مطر او رجفة او فزع قاله بعض المعلمين (f. 89r)",
+                      "locus": "ff. 89r-94r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 89r",
+                          "as_written": "هب لي يا رب عون من عند لي يالله الكل واعطيني منطق لا تكلم بأخبار ما قد جار بنا من العجائب في الدهر الماضي ويكون تذكيره في الأجيال"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 94r",
+                          "as_written": "وكما ترحم على اللص وفتح به جنات النعيم كذلك برضا الرب على كنيسة وينبت فيها أعياد احباه"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "The Martyrdom of Subliyanos and His Sister Dorothy",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "as_written": "هذه شهادة سبليانوس واخته دروثيا القديسين",
+                      "locus": "ff. 94v-103v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 94r",
+                          "as_written": "الذين كانا بأنطاكية واستشهدا كلاهما على عهد بلسبيانوس الملك المخالف هذا الملك العين بلغه عن فضائل سُبليانوس الطاهر"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 103v",
+                          "as_written": "وان الرسيع امر عند ذلك بضرب رقبتها وهي مربوطة الايدين والرجلين"
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Martyrdom of Subliyānūs (ff. 94v-99r)"
+                        },
+                        {
+                          "label": "Martyrdom of Dorothy (ff. 99v-103v)"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "The Martyrdom of Patermouthios and Kopres under Julian the Apostate",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "as_written": "هذه شهادة القديسين بطراموثوس وقبرس (f. 103v)",
+                      "locus": "ff. 103v-104v"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Chris PreJean"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-02T23:36:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1pp62"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1892qhn"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[520], p. 43"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1892qhn/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1892qhn%2F9z700j40/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2019 April",
+        "delivery": "4.2",
+        "imaging_system": "BC100 - 2 cam., 745 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

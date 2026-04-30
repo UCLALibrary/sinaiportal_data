@@ -1,0 +1,287 @@
+{
+  "ark": "ark:/21198/z16r2p8z",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Greek 468, SPP No. 237",
+  "extent": "14 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. Hesychius, Homily:117v,112,117r,112v,111r,118, 118v,111v. Gregory of Nazianzus, Homily : 113,116,113v, 116, 114, 115v,114v,115",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1d35b",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1d35b",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Greek 468, Undertext (Greek majuscule)",
+            "locus": "ff. 111–118, 120, 124",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "note": [
+                  "Sloping pointed majuscule | Large, easily legible and sparse letters based on straight lines. The script is written in a steady hand"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 columns",
+                "lines": "11 lines",
+                "note": [
+                  "Some folios are damaged"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1240p",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1240p",
+                  "reconstruction": false,
+                  "label": "Fragments of homilies",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Homilies of Hesychius of Jerusalem and Gregory of Nazianzus",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1js3q",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1js3q",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Hesychius, of Jerusalem, -approximately 450",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 450",
+                                "iso": {
+                                  "not_before": "0450"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Hesychius, Hierosolymitanus",
+                                  "uri": "http://viaf.org/viaf/262453640",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Hesychius Hierosolymitanus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1324/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s12s3c",
+                            "agent_record": {
+                              "ark": "ark:/21198/s12s3c",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Gregory, of Nazianzus, Saint",
+                              "alt_name": [
+                                "Gregory the Theologian"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 329-390",
+                                "iso": {
+                                  "not_before": "0304",
+                                  "not_after": "0415"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Gregory, of Nazianzus, Saint",
+                                  "uri": "http://viaf.org/viaf/46897094",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Gregory, of Nazianzus, Saint",
+                                  "uri": "https://id.loc.gov/authorities/names/n50082276",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Gregory, of Nazianzus, approximately 329-390",
+                                  "uri": "https://w3id.org/haf/person/889037265072",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Gregory Nazianzen",
+                                  "uri": "http://syriaca.org/person/511",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Gregorius Nazianzenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1239/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "Fragments of homilies of Hesychius of Jerusalem and Gregory of Nazianzus"
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Vasilios Katsaros"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:39:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1d35b"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Vasilios Katsaros"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:39:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1029pgj",
+              "ark:/21198/z16r2p8z"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Vasilios Katsaros"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:39:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1029pgj",
+      "shelfmark": "Sinai Greek 468"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

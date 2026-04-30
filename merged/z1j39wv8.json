@@ -1,0 +1,240 @@
+{
+  "ark": "ark:/21198/z1j39wv8",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 496",
+  "extent": "171 ff.",
+  "weight": "804.8 g",
+  "dim": "208 x 146 x 51 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1z024",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1z024",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 496, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1rm13",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1rm13",
+                  "reconstruction": false,
+                  "label": "Varia",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Apophthegmata",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "Incomplete at beginning, followed by the sayings of Stoma Thalassa"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "A story of St. Stephen of the Monastery of St. Saba",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "work": {
+                        "desc_title": "The monastic teachings of St. Basil",
+                        "genre": [
+                          {
+                            "id": "monastic",
+                            "label": "Monastic rules"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1z024"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 21v",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "تمت الميامر المقدسة بعون الله وحسن توفيقه وكان الفراغ منها يوم الجمعة الثامن وعشرين شهر نيسان سنة ستة آلاف وسبعمائه وسبعة وأربعين لأبينا آدم عليه السلام",
+                "assoc_date": [
+                  {
+                    "value": "Friday 28 Nisan 6747 (adam)",
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "ff. 160v-161r",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "وكان الفراغ من نسخة يوم السبت أول شهر تشرين الأول سنة ستة آلاف وسبعمائة وسبعة وأربعين لأبينا آدم عليه السلام / وكتب العبد الخاطئ  كثير الآثام والذنوب اغاتون بن مصبح الطراني فهو يسأل لكل من قرأ فيه بأن يبسط العدد وينصلح عن زلاته ويترحم عليه ويطلب له المغفرة ولوالديه غفر الله لمن قرأ / فكتب وسمع وترجم على كاتبه وعلى والدى كاتبه ودعا لهم بالمغفرة فالسيد المسيح لذكره السجود يغفر خطاياه فعل ذلك بشفاعة السيدة الطاهرة البتول مرت مريم أم النور والقديسيْن المنحييْن  مار موسى وهرون والناس والتسع والقديسة الشهيدة المكرمة … والقديس دقرونيوس واستافينس آمين آمين  آمين",
+                "assoc_date": [
+                  {
+                    "value": "Saturday 1 Tishrin I 6747 (adam)",
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    }
+                  }
+                ]
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Chris PreJean",
+                  "Maroun El Houkayem"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T22:09:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1j39wv8"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[425], p. 34"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1j39wv8/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2018 October",
+        "delivery": "8",
+        "imaging_system": "BC100 - 2 cam., 810 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

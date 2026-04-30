@@ -1,0 +1,362 @@
+{
+  "ark": "ark:/21198/z1zp65nb",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic NF X 51",
+  "extent": "49 ff.",
+  "weight": "122.6 g",
+  "dim": "179 x 144 x 20.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1b90w",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1b90w",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic NF X 51, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s14x07",
+                "label": "Item 1",
+                "locus": "ff. 1r-49v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s14x07",
+                  "reconstruction": false,
+                  "label": "Varia",
+                  "locus": "ff. 1r-49v",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Holy Week Readings from The Gospel of Mark",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-21v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "فخرجوا وكرزوا بكل موقع اذ الرب يؤيّد ويمكن المقالة بالخراج المتتابعة",
+                          "note": [
+                            "[Mark 16:20]"
+                          ]
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Acephalous Readings from Mark (ff. 1r-3v)",
+                          "note": [
+                            "[Mark 12: 1-12] (ff. 1r-2r)",
+                            "[Mark 12: 13-17] (ff. 2r-2v), Heading (f. 2r), Incipit (f. 2r)",
+                            "On the Sadducees [Mark 12: 18-27] (ff. 2v-3v), Heading (f. 2v), Incipit (f. 2v), Desinit (ff. 3r-3v)"
+                          ]
+                        },
+                        {
+                          "label": "Fiftheenth Sunday Reading (ff. 3v-9v)",
+                          "note": [
+                            "[Mark 12: 28-34] (ff. 3v-4r), Heading (f. 3v)",
+                            "The Question of the Lord [Mark 12: 35-37] (ff. 4r-5r), Heading (f. 4r), Incipit (4r-4v)",
+                            "The Widow’s Mites [Mark 12: 41-44] (ff. 5r-5v), Incipit (f. 5r)",
+                            "Signs of the End Times [Mark 13: 1-31] (ff. 5v-8v), Heading (f. 5v), Incipit (f. 5v)",
+                            "Signs of the Day and Hour [Mark 13: 32-37] (ff. 8v-9r), Heading (f. 8v), Incipit (f. 8v), Desinit (9r)",
+                            "The Anointing of Jesus at Bethany [Mark 14: 1-10] (ff. 9r-10r), Heading (f. 9r), Incipit (f. 9r), Desinit (f. 9v)"
+                          ]
+                        },
+                        {
+                          "label": "Maundy Thursday Reading (ff. 10r-12r)",
+                          "note": [
+                            "Great Thursday / Maundy Thursday [Mark 14: 11-25] (ff. 10r-11v)",
+                            "Jesus Predicts Peter’s Denial [Mark 14-26-32] (ff. 11v-12r)"
+                          ]
+                        },
+                        {
+                          "label": "Good Friday Reading (ff. 12r-17r)",
+                          "note": [
+                            "Gethsemane (ff. 12r-15r)",
+                            "Good Friday Morning Reading, Jesus Before the Sanhedrin [Mark 14: 53-65] (ff. 15r-17r)"
+                          ]
+                        },
+                        {
+                          "label": "Good Friday Reading (ff. 17r-20r)",
+                          "note": [
+                            "Peter Disowns Jesus [Mark 14] (ff. 17r-19v)",
+                            "The Crucifixion and Burial [Mark 15] (ff. 19v-20r)"
+                          ]
+                        },
+                        {
+                          "label": "Easter Sunday Reading (ff. 20r-21v)",
+                          "note": [
+                            "The Resurrection [Mark 16: 1-20] (ff. 20r-21v)"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "Perhaps part of an Evangelion or Evangelistarion"
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "A commentary of Theophilus on Love",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1nt30",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1nt30",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Theophilus, Archbishop of Alexandria, -412",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "345-412",
+                                "iso": {
+                                  "not_before": "0345",
+                                  "not_after": "0412"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Theophilus,, Archbishop of Alexandria, -412",
+                                  "uri": "https://viaf.org/viaf/15565199",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Theophilus, Archbishop of Alexandria, -412",
+                                  "uri": "https://id.loc.gov/authorities/names/no96005068",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Theophilus, Archbishop of Alexandria, approximately 345-412",
+                                  "uri": "https://w3id.org/haf/person/658885585413",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "    Theophilus Alexandrinus ptr. ",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/2741/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "as_written": "من تفسير الاب توفيل (؟) صلاته معنا امين ما يقال في الاحباء (f. 25v)",
+                      "locus": "ff. 25v-30r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "locus": "f. 30r",
+                          "as_written": "نعترف انك عذرى من بعد الولادة وانك حبلت بالمخلص من غير رجلا شفعى لتسليما"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Introductions to the Gospel of Mark, the Gospel of Luke, and the Gospel of John",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          },
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "as_written": "ترجمة الإنجيل الطاهر (f. 30r)",
+                      "locus": "ff. 30r-39r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 30r",
+                          "as_written": "وقد قال قوم انه ابن شمعون الصفا واستشهدوا في ذلك يقول شمعون الصفا وهو بطرس"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "locus": "f. 39r",
+                          "as_written": "بل هو لائق بعظمته وقدرته ولا هو به"
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Introduction to the Gospel of Mark (ff. 30r-32r), Heading (30r), Incipit (30r), Desinit (32r)"
+                        },
+                        {
+                          "label": "Introduction to the Gospel of Luke (ff. 32r-33v), Heading (f. 32r), Incipit (f. 32r), Desinit (f. 33v)"
+                        },
+                        {
+                          "label": "Introduction to the Gospel of John (ff. 33v-39r), Heading (f. 33v), Incipit (f. 33v), Desinit (f.39r)"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "A treatise on the pursuit of knowledge",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "as_written": "مقالة خشية (؟) في تحقيق معرفة سيدنا يسوع المسيح (f. 39r)",
+                      "locus": "ff. 39r-49v"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Chris PreJean"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-02T23:36:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1b90w"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1zp65nb"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "cb8b8b52-569b-4d1f-8d5c-adf911afd205",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Meimaris",
+      "citation": "Meimaris, Yiannis E. A Catalogue Of The New Arabic Manuscripts Found At St. Catherine's Monastery, Mount Sinai. 1985",
+      "range": "pp. 50-51; ٥٥"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1zp65nb/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1zp65nb%2Fxq80pb1f/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2020 April",
+        "delivery": "8.1",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

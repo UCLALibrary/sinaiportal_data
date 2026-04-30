@@ -1,0 +1,222 @@
+{
+  "ark": "ark:/21198/z1z32wm6",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Georgian NF M 71",
+  "extent": "8 ff.",
+  "dim": "136 x 97 mm",
+  "state": {
+    "id": "quire",
+    "label": "Quire(s)"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "136 x 97 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1v628",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1v628",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Georgian NF M 71, Overtext (Nuskhurimt)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "nuskhurimt",
+                    "label": "Nuskhurimt",
+                    "writing_system": "Georgian"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "light-brown"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1nq2k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1nq2k",
+                  "reconstruction": false,
+                  "label": "Evangelion",
+                  "lang": [
+                    {
+                      "id": "nucl1302",
+                      "label": "Georgian"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ]
+                      },
+                      "alt_title": "Gospel lectionary"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1v628"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1z32wm6"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "087ba7ab-401c-4edc-b474-7b86bc83cbce",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Aleksidze, et al.",
+      "citation": "Aleksidze, Zaza, et al. Catalogue of Georgian manuscripts discovered in 1975 at St. Catherine's Monastery on Mount Sinai. Athens, 2005",
+      "range": "pp. 424-425"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1z32wm6/manifest",
+      "label": "Multispectral Images",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c2xzg/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "uto": [
+    {
+      "uto_layer_ark": "ark:/21198/s1mp86",
+      "label": "CPA Undertext: Cyril of Jerusalem, Catecheses",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 1, 8",
+      "uto_ms_ark": "ark:/21198/z1dc8sv5",
+      "script": [
+        "Christian Palestinian Aramaic"
+      ],
+      "lang": [
+        "CPA"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1rh12",
+      "label": "CPA Undertext: Exodus",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 2–3, 6–7",
+      "uto_ms_ark": "ark:/21198/z1nx098d",
+      "script": [
+        "Christian Palestinian Aramaic"
+      ],
+      "lang": [
+        "CPA"
+      ]
+    },
+    {
+      "uto_layer_ark": "ark:/21198/s1h06m",
+      "label": "CPA Undertext: Bible. Matthew",
+      "type": {
+        "id": "undertext",
+        "label": "Undertext"
+      },
+      "locus": "ff. 4–5",
+      "uto_ms_ark": "ark:/21198/z1j49jjf",
+      "script": [
+        "Christian Palestinian Aramaic"
+      ],
+      "lang": [
+        "CPA"
+      ]
+    }
+  ]
+}

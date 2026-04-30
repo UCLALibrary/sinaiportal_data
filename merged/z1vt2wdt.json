@@ -1,0 +1,263 @@
+{
+  "ark": "ark:/21198/z1vt2wdt",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 378",
+  "extent": "371 ff.",
+  "weight": "1778.8 g",
+  "dim": "221 x 154 x 108 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1qw4p",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1qw4p",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 378, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1jh2k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1jh2k",
+                  "reconstruction": false,
+                  "label": "St. Antiochus: Pandectes",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1gp4f",
+                        "pref_title": "Pandektēs (Antiochus of Palestine)",
+                        "orig_lang": {
+                          "id": "gree1276",
+                          "label": "Greek"
+                        },
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1kw2p",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1kw2p",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Antiochus, monk of Palestine, active 7th century",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "7th Century",
+                                "iso": {
+                                  "not_before": "0601",
+                                  "not_after": "0700"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Antiochus active 7th century monk of Palestine",
+                                  "uri": "http://viaf.org/viaf/89050745",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Antiochus, monk of Palestine, active 7th century",
+                                  "uri": "http://id.loc.gov/authorities/names/no2005084640",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Antiochus, monk of Palestine, active 7th century",
+                                  "uri": "https://haf.vhmml.org/person/329286221270",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Antiochus monachus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/234/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Antiochus monachus Pandecte de la Sainte Écriture",
+                            "uri": "http://viaf.org/viaf/292613749",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "St. Antiochus: Pandectes",
+                      "locus": "ff. 2r-372r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1qw4p"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 372r",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "وكان الفراغ هذا الكتاب المبارك في تاريخ الرابع وعشرين من شهر حزيران المبارك لسنة ستة آلاف وسبعمائة ستة وخمسين للعالم وكبت بدير طور سيناء المقدس على عهد الاب انبا مقاري الدمشقي رحم الله من قرأ ومن كتب ",
+                "assoc_date": [
+                  {
+                    "value": "1248 CE",
+                    "iso": {
+                      "not_before": "1248"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "24 Huzayran 6756 (world)"
+                    ]
+                  }
+                ],
+                "note": [
+                  "Written by another hand",
+                  "Attested places:  Mount Sinai"
+                ]
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Chris PreJean",
+                  "Maroun El Houkayem"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T22:09:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1vt2wdt"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[392], p. 31"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1vt2wdt/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1vt2wdt%2Fmh47ng03/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2018 August",
+        "delivery": "8",
+        "imaging_system": "BC100 - 2 cam., 620 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

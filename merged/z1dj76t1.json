@@ -1,0 +1,616 @@
+{
+  "ark": "ark:/21198/z1dj76t1",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 481",
+  "extent": "338 ff.",
+  "weight": "2754.9 g",
+  "dim": "268 x 199 x 128.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1w60t",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1w60t",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 481, Overtext (Naskh)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "naskh",
+                    "label": "Naskh",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1ps97",
+                "label": "Item 1",
+                "locus": "ff. 2r-337v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1ps97",
+                  "reconstruction": false,
+                  "label": "Responsa",
+                  "locus": "ff. 2r-337v",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Responsa of Anastasius of Sinai",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1d99x",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1d99x",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Anastasius, Sinaita, Saint, active 640-700",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "640-700",
+                                "iso": {
+                                  "not_before": "0640",
+                                  "not_after": "0700"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Anastasius, Sinaita, Saint, active 640-700",
+                                  "uri": "https://viaf.org/viaf/314808225",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Anastasius, Sinaita, Saint, active 640-700",
+                                  "uri": "https://id.loc.gov/authorities/names/n83164822",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Anastasius, Sinaita, active 640-700",
+                                  "uri": "https://w3id.org/haf/person/709094077383",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Anastasios of Sinai",
+                                  "uri": "http://syriaca.org/person/2789",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "    Anastasius Sinaita ",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/172/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "as_written": "لأبينا القديس انسطاسيوس اجوبه عن المسائل الواردة اليه من اقوام مؤمنين عن رؤوس مختلفة وفصول متباينة (f. 2r)",
+                      "locus": "ff. 2r-225r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 2r",
+                          "as_written": "المسلة الاوله ما هي علامة المسيحي الكامل / الجواب علامة المسيحي الكامل هي امانة مستقيمة واعمال لائقة بعبادة الله لان المسيحي المحق هو بيت المسيح",
+                          "translation": [
+                            "The distinguishing mark of a perfect Christian is upright integrity and deeds worthy of worship of God since the righteous Christian is the Temple of Christ."
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "locus": "f. 225r",
+                          "as_written": "ولا جميع ما هو لقريبك",
+                          "note": [
+                            "[10th commandment]"
+                          ]
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "22 Responsa of Anastasius (ff. 2r-106r) "
+                        },
+                        {
+                          "label": "Other Responsa of Anastasius (ff. 106r-225)"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Antiochus’ questions and Athanasius’ Responses",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1z59h",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1z59h",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                              "alt_name": [
+                                "St. Athanasius the Great"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 373",
+                                "iso": {
+                                  "not_before": "0373"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                                  "uri": "http://viaf.org/viaf/105155222",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                                  "uri": "https://id.loc.gov/authorities/names/n79145591",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Athanasius, Saint, Patriarch of Alexandria, -373",
+                                  "uri": "https://w3id.org/haf/person/749260264627",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Athanasius, bishop of Alexandria",
+                                  "uri": "http://syriaca.org/person/354",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Athanasius Alexandrinus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/415/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "as_written": "مسائل انطيخس الشريف لاثناسيوس المقدس بطرك مدينة الاكندرية وأول مسائل سأله عن الثالوث المقدسة الطبيعة الواحدة بارك يا رب",
+                      "locus": "ff. 225v-283r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "ff. 225v-226r",
+                          "as_written": "في ذلك الزمان اتا انسان رئيس يقال له انتيخس من عظما العجم الى اثناسيوس القديس فقال له اريد اية الاب اسلك عم ابوات شتا هي في الكتب المقدسة والناس يختلفون فيها وانا احب ان تفسّرها لي ليكون فيها منفعة لي ولمن بعدي من المسيحيين  فقال اثناسيوس سلْني عما تحب يا ابني فاخبرك بما يوحي الى الالاه بروح قدسه وينطق به على فمي فاتا كاهنا له وان كنت ليس لذلك اهلا"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "locus": "f. 283r",
+                          "as_written": " وقال حبقوق بوسط..."
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s18k5x",
+                        "pref_title": "Questions and Answers of Basil and Gregory",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1101c",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1101c",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Basil, Saint, Bishop of Caesarea, approximately 329-379",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 329-379",
+                                "iso": {
+                                  "not_before": "0304",
+                                  "not_after": "0404"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Basil, Saint, Bishop of Caesarea, approximately 329-379",
+                                  "uri": "https://viaf.org/viaf/88967224",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Basil, Saint, Bishop of Caesarea, approximately 329-379",
+                                  "uri": "http://id.loc.gov/authorities/names/n80004066",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Basil, Bishop of Caesarea, approximately 329-379",
+                                  "uri": "https://w3id.org/haf/person/641569108508",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Basil of Caesarea",
+                                  "uri": "http://syriaca.org/person/376",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Basilius Caesariensis",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/489/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          },
+                          {
+                            "id": "ark:/21198/s12s3c",
+                            "agent_record": {
+                              "ark": "ark:/21198/s12s3c",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Gregory, of Nazianzus, Saint",
+                              "alt_name": [
+                                "Gregory the Theologian"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 329-390",
+                                "iso": {
+                                  "not_before": "0304",
+                                  "not_after": "0415"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Gregory, of Nazianzus, Saint",
+                                  "uri": "http://viaf.org/viaf/46897094",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Gregory, of Nazianzus, Saint",
+                                  "uri": "https://id.loc.gov/authorities/names/n50082276",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Gregory, of Nazianzus, approximately 329-390",
+                                  "uri": "https://w3id.org/haf/person/889037265072",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Gregory Nazianzen",
+                                  "uri": "http://syriaca.org/person/511",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Gregorius Nazianzenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1239/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ]
+                      },
+                      "alt_title": "Various Responsa of Saint Gregory and Saint Basil",
+                      "as_written": "مسائل القديسيين باسيليوس واغريغوريوس صلاتهما تكون معنا امين",
+                      "locus": "ff. 283v-326r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 283v",
+                          "as_written": "المسلة الاوله قال باسيليوس اخبرْني يا اغريغوريوس اول الخليقة خلق التي خلق الله أي شيء كانت اجابه الملائكة"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "locus": "f. 326r",
+                          "as_written": "الذي له الملك والقوه والمجد مع ابينا وروحهما الاقدس الان ودائم والى دهر الداهرين امين"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Saint Gregory of Nazianzus on the Wonders of Creation and God’s Animals",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s12s3c",
+                            "agent_record": {
+                              "ark": "ark:/21198/s12s3c",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Gregory, of Nazianzus, Saint",
+                              "alt_name": [
+                                "Gregory the Theologian"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 329-390",
+                                "iso": {
+                                  "not_before": "0304",
+                                  "not_after": "0415"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Gregory, of Nazianzus, Saint",
+                                  "uri": "http://viaf.org/viaf/46897094",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Gregory, of Nazianzus, Saint",
+                                  "uri": "https://id.loc.gov/authorities/names/n50082276",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Gregory, of Nazianzus, approximately 329-390",
+                                  "uri": "https://w3id.org/haf/person/889037265072",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Gregory Nazianzen",
+                                  "uri": "http://syriaca.org/person/511",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Gregorius Nazianzenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1239/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "as_written": "من قول [...] تكلم في الالاهيات غريفوريوس اسقف نازينزو صلاواته تكون معنا امين (f.326r)",
+                      "locus": "ff. 325v-337v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "locus": "f. 326v",
+                          "as_written": "هذه قصص خليقة الله وعجائب وما ركّب الله في كل واحد منها من تمييز والعمل وكيف سيرتها الأسد سيد الوحوس والبهائم كلها ويعقوب اذ بارك يهوذا قال المحدث عن الخليقة جزء الأسد له ثلثة طبائع"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
+                      "contributor": [
+                        "Chris PreJean"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-02T23:36:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1w60t"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 338r",
+                "lang": [
+                  {
+                    "id": "arab1395",
+                    "label": "Arabic"
+                  }
+                ],
+                "as_written": "تم الكتاب بعون الله تعالى من نقل أنبا أنطوني الأنطاكي رئيس دير طور سمعان العجائبي نيح الله نفسه واسكنه مع ابراره وقديسين امين / كتبه بطرس القس الحقير وهو يسأل كل من ترى في هذه الكتابة المبارك وطالع فيه ان يذكره بالمغفرة وكل احد تصبر اعماله ونيته يكافاه / وكان الفراغ في خامس عشر برمهات وهو شهر آذار في سنة ستة آلاف وخمسمائه وتسعة تسعين من سنين آدم أبو البشر عليه السلام  موافق تاريخ العرب سنة أربعمائه واثنين وتسعين 492 / ونعم الله الذي ينعم المذكورين آمين",
+                "assoc_name": [
+                  {
+                    "value": "Anbā Antony the Antiochene, head of the Monastery of Ṭūr Simʿān the Wonderworker",
+                    "as_written": "أنبا أنطوني الأنطاكي رئيس دير طور سمعان العجائبي",
+                    "role": {
+                      "id": "source-exemplar",
+                      "label": "Source of the exemplar"
+                    }
+                  },
+                  {
+                    "value": "Father Buṭrus (Peter) the priest",
+                    "as_written": "بطرس القس",
+                    "role": {
+                      "id": "scribe",
+                      "label": "Scribe"
+                    }
+                  }
+                ],
+                "assoc_date": [
+                  {
+                    "value": "1091 CE",
+                    "iso": {
+                      "not_before": "1091"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "March 6599 of Adam (Byzantine World Era) :: 492 (arab) = 1091 CE ",
+                      "The first date is written in Hindu-Arabic numerals 9956 (LTR). The second date is the Arab date, written 429 (LTR)."
+                    ]
+                  }
+                ],
+                "note": [
+                  "Written in a different hand"
+                ]
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Chris PreJean",
+                  "Maroun El Houkayem"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T22:09:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1dj76t1"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[416], p. 33"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1dj76t1/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1dj76t1%2F3942m48n/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2020 September",
+        "delivery": "7.1",
+        "condition_category": "2",
+        "imaging_system": "Stokes-PBC, 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

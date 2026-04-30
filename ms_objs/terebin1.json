@@ -1,0 +1,72 @@
+{
+    "ark": "ark:/21198/terebin1",
+    "reconstruction": true,
+    "type": {
+        "id": "rebind",
+        "label": "Digital Rebinding"
+    },
+    "shelfmark": "Test Digital Rebinding 1",
+    "summary": "A test digital rebinding virtually assembling dispersed leaves from Sinai Syriac 12 and Arabic NF X 42",
+    "extent": "16 ff.",
+    "state": {
+        "id": "codex",
+        "label": "Codex"
+    },
+    "fol": "ff. 1-16 (reconstructed order)",
+    "part": [
+        {
+            "label": "Part 1",
+            "support": [
+                {
+                    "id": "paper",
+                    "label": "Paper"
+                }
+            ],
+            "ot_layer": [
+                {
+                    "id": "ark:/21198/te5fp1ol",
+                    "label": "Reconstruction (first part of text)",
+                    "type": {
+                        "id": "overtext",
+                        "label": "Overtext"
+                    }
+                },
+                {
+                    "id": "ark:/21198/tebvp1ol",
+                    "label": "Reconstruction (second part of text)",
+                    "type": {
+                        "id": "overtext",
+                        "label": "Overtext"
+                    }
+                }
+            ]
+        }
+    ],
+    "location": [
+        {
+            "id": "sinai-nf",
+            "repository": "St. Catherine's Monastery of the Sinai",
+            "collection": "New Finds"
+        }
+    ],
+    "iiif": [
+        {
+            "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fterebin1/manifest",
+            "type": {
+                "id": "main",
+                "label": "Main"
+            },
+            "label": "Main"
+        }
+    ],
+    "reconstructed_from": [
+        {
+            "id": "ark:/21198/te5f0f9b",
+            "shelfmark": "Sinai Syriac 12"
+        },
+        {
+            "id": "ark:/21198/tebv9g4m",
+            "shelfmark": "Arabic NF X 42"
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+  "ark": "ark:/21198/z1mh8fgb",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Arabic NF M 66, SPP No. 337",
+  "extent": "5 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 2r+7r+8v, 2v+7v+8r; 6r, 6v",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1xp7m",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1xp7m",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Arabic NF M 66, Undertext (Greek majuscule)",
+            "locus": "ff. 2, 4-r, 4-v, 6r, 6–8",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "note": [
+                  "Very small Alexandrian majuscule with influences of Biblical majuscule (in the letters mu, pi, omega). Critical signs, diacritics, and interlinear corrections were added by a later hand (7th-8th c. CE?)"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 columns",
+                "lines": "30 lines, reconstructed",
+                "note": [
+                  "This text comes from a luxurious manuscript, whose folios measured approximately 300 x 250 mm (Turner group II). The letters are 3 mm high and 2-4 mm wide, the space between the lines is 7-8 mm. The margins are large: the internal margin measures 30 mm, the external margin 50 mm, the upper margin 40 mm (the lower margin is not preserved). The written surface is 175 x 155 mm. At the end of the lines the letters are smaller, in order to respect the line division and the justification of the margins, which is a feature typical of luxury codices"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1kq3b",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1kq3b",
+                  "reconstruction": false,
+                  "label": "Mythological Poem in Hexameters (Orphic Rhapsodies?)",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Mythological Poem in Hexameters",
+                        "genre": [
+                          {
+                            "id": "poetry",
+                            "label": "Poetry"
+                          }
+                        ]
+                      },
+                      "alt_title": "Orphic Rhapsodies?",
+                      "note": [
+                        "Previously unknown hexameters of mythological content on the childhood of Dionysus. The presence of proparoxytone words at the end of the verses, of spondaic verses, and of consecutive spondees rules out the attribution of this work to a follower of the Nonnus of Panopolis school and of his \"modern style.\" The style is rather archaic, as in the uninterrupted reuse of Homeric formulae at the beginning and end of the verses"
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Giulia Rossetto"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-15T22:33:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1xp7m"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Giulia Rossetto"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-15T22:33:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1dv21gp",
+              "ark:/21198/z1mh8fgb"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1dv21gp/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jh42t4/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Giulia Rossetto"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-15T22:33:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1dv21gp",
+      "shelfmark": "Sinai Arabic NF M 66"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

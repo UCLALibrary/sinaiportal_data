@@ -1,0 +1,216 @@
+{
+  "ark": "ark:/21198/z1pz78b6",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac NF X 9",
+  "extent": "190 ff.",
+  "weight": "482.9 g",
+  "dim": "139 x 108 x 90.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s15s7t",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s15s7t",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac NF X 9, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1437m",
+                "label": "Item 1",
+                "locus": "ff. 1r-54v",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1437m",
+                  "reconstruction": false,
+                  "label": "Horologion",
+                  "locus": "ff. 1r-54v",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1dg6h",
+                        "pref_title": "Horologion",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Book of Hours, written by Mar George, from the Hebrew village of Egad in 1599 A.D.",
+                      "locus": "ff. 1r-54v"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s15s7t"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 185v",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "assoc_name": [
+                  {
+                    "id": "ark:/21198/s1gw2r",
+                    "agent_record": {
+                      "ark": "ark:/21198/s1gw2r",
+                      "type": {
+                        "id": "person",
+                        "label": "Person"
+                      },
+                      "pref_name": "Mar Georges of Egad",
+                      "alt_name": [
+                        "Mar Georges of Egad"
+                      ],
+                      "gender": {
+                        "id": "man",
+                        "label": "Man"
+                      }
+                    },
+                    "role": {
+                      "id": "scribe",
+                      "label": "Scribe"
+                    }
+                  }
+                ],
+                "assoc_date": [
+                  {
+                    "value": "1599 CE",
+                    "iso": {
+                      "not_before": "1599"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "fourth day of the week, the 24th of Elul (September) of the year 1599"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1pz78b6"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Philothée 2008",
+      "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+      "range": "[X9N], pp. 124-128"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1pz78b6/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1pz78b6%2F7h43k23b/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2020 April",
+        "delivery": "8.1",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

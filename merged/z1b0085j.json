@@ -1,0 +1,208 @@
+{
+  "ark": "ark:/21198/z1b0085j",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Arabic 246",
+  "extent": "68 ff.",
+  "weight": "196.9 g",
+  "dim": "173 x 116 x 18 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1003t",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1003t",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Arabic 246, Overtext (Undetermined (Arabic))",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "arabic-undetermined",
+                    "label": "Undetermined (Arabic)",
+                    "writing_system": "Arabic"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1sk93",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1sk93",
+                  "reconstruction": false,
+                  "label": "Life of Mary the Egyptian",
+                  "lang": [
+                    {
+                      "id": "arab1395",
+                      "label": "Arabic"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Life of Mary the Egyptian",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1nc71",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1nc71",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Sophronius, Saint, Patriarch of Jerusalem, approximately 560-approximately 638",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": " approximately 560-approximately 638",
+                                "iso": {
+                                  "not_before": "0535",
+                                  "not_after": "0663"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Sophronius, Saint, Patriarch of Jerusalem, approximately 560-approximately 638",
+                                  "uri": "https://viaf.org/viaf/20473427/",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Sophronius, Saint, Patriarch of Jerusalem, approximately 560-approximately 638",
+                                  "uri": "https://id.loc.gov/authorities/names/n83180836",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Sophronius, Patriarch of Jerusalem, approximately 560-approximately 638",
+                                  "uri": "https://w3id.org/haf/person/836003904700",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Sophronius of Jerusalem",
+                                  "uri": "http://syriaca.org/person/757",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Sophronius Hierosolymitanus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/2543/",
+                                  "source": "Pinakes"
+                                }
+                              ],
+                              "note": [
+                                "author"
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r-26r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1003t"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1b0085j"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[510], p. 42"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1b0085j/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1b0085j%2Fkb799q76/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2018 August",
+        "delivery": "8",
+        "imaging_system": "BC100 - 2 cam., 960 ppi, 120mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

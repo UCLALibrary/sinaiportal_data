@@ -1,0 +1,194 @@
+{
+  "ark": "ark:/21198/z1c83tzp",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 241",
+  "extent": "236 ff.",
+  "weight": "996.6 g",
+  "dim": "195 x 155 x 78.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1s62n",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1s62n",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 241, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1kq2z",
+                "label": "Item 1",
+                "locus": "ff. 2r-237r",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1kq2z",
+                  "reconstruction": false,
+                  "label": "Psalms",
+                  "locus": "ff. 2r-237r",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s11c7f",
+                        "pref_title": "Bible. Psalms",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Psalms",
+                            "uri": "http://id.loc.gov/authorities/names/n79056804",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Psalms",
+                            "uri": "https://viaf.org/viaf/60146153112905251951",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 2r-237r"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1s62n"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "236v-237r",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "as_written": "ܢܣܒ ܘܫܬܡܠܝ ܟܬܒܐ ܗܢܐ ܡܙܡܘܪܐ ܕܕܘܝܕ܀ ܕܗ̈ܘܝܢ ܒܡܢܝܐ ܩܢ܀ ܝܘܡ ܠܪ̈ܘܒܬܐ܀ ܕܓܣܪ̈ܝܢ ܘܒ̄ܐ܀ ܒܝܪܚܐ܀ ܐܒ̄܀ ܫܢܬ ܘ̄ܐܠܐܦ ܘܚ̄ ܡܐܐ܀ ܓܥ̈ܐ܀ ܠܐܒܘܢ ܐܕܡ܀ ܥܠ ܐܝܕܝ܀ ܐܢܫ ܚܛܝܐ ܟܗܢܐ܀ ܓܪܐܣ̄܀ ܡ̄܀ ܗ̄܀ ܒܪܝ ܕܡܬܪܝܐ܀ ܡܢ ܪܩܝܬܐ ܒܙܝܙܐ܀ ܡܢ ܐܬܪܐܕܐܛܪܐܦܠܘܣ܀ ܐܬܟܬܒ܀ ܬܕܝܪܐ ܕܩܪܝܬܢ ܝܠܕܬ ܐܠܗܐ܀ ܚܡܐ ܛܘܪܐ܀ ܐܠܗܐ ܡܢܝܚܐ ܢܦܫܗ ܒܡܠܟܘܬܗ ܕܫܡܝܐ܀ ܒܨܠܘܬܐ ܕܩܪܬܢ ܝܠܕܬ ܐܠܗܐ ܘܕܟܠܗܘܢ ܩܕܝܫ̈ܐ ܐܡܝܢ܀ ܘܐܡܝܢ܀",
+                "note": [
+                  "Attested places:  in monastery of Theotokos in mountain of Hama"
+                ]
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Identification and description of Syriac colophon(s) under the NEH Sinai Data Portal project (2021-2024).",
+                "contributor": [
+                  "Michael Wingert"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-11-12T17:48:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1c83tzp"
+            ],
+            "desc_provenance": {
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[26], p. 151"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c83tzp/manifest",
+      "label": "Natural Light",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1c83tzp%2Ftf32915x/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 July",
+        "delivery": "5.2",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}
