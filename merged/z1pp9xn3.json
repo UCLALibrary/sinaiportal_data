@@ -85,6 +85,35 @@
                       }
                     }
                   ],
+                  "bib": [
+                    {
+                      "id": "105a13f5-a0ef-4dd6-9762-7e90241f3fbe",
+                      "type": {
+                        "id": "edition",
+                        "label": "Edition"
+                      },
+                      "shortcode": "Vitali 1738",
+                      "citation": "Vitali, P., ed. Πεντηκοστάριον [Pentekostarion]. Rome, 1738"
+                    },
+                    {
+                      "id": "6a56f91b-4d74-4e3d-9f3e-48ccac5aeab1",
+                      "type": {
+                        "id": "edition",
+                        "label": "Edition"
+                      },
+                      "shortcode": "Pentekostarion (Rome) 1883",
+                      "citation": "Πεντηκοστάριον χαρμόσυνον [Pentekostarion charmosunon]. Rome, 1883"
+                    },
+                    {
+                      "id": "f50825de-c130-4c20-a4e9-2242f5dd799c",
+                      "type": {
+                        "id": "edition",
+                        "label": "Edition"
+                      },
+                      "shortcode": "Pentekostarion (Venice) 1875",
+                      "citation": "Πεντηκοστάριον [Pentekostarion]. Venice, 1875"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
@@ -108,35 +137,6 @@
                     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
                   }
                 }
-              }
-            ],
-            "bib": [
-              {
-                "id": "105a13f5-a0ef-4dd6-9762-7e90241f3fbe",
-                "type": {
-                  "id": "edition",
-                  "label": "Edition"
-                },
-                "shortcode": "Vitali 1738",
-                "citation": "Vitali, P., ed. Πεντηκοστάριον [Pentekostarion]. Rome, 1738"
-              },
-              {
-                "id": "6a56f91b-4d74-4e3d-9f3e-48ccac5aeab1",
-                "type": {
-                  "id": "edition",
-                  "label": "Edition"
-                },
-                "shortcode": "Pentekostarion (Rome) 1883",
-                "citation": "Πεντηκοστάριον χαρμόσυνον [Pentekostarion charmosunon]. Rome, 1883"
-              },
-              {
-                "id": "f50825de-c130-4c20-a4e9-2242f5dd799c",
-                "type": {
-                  "id": "edition",
-                  "label": "Edition"
-                },
-                "shortcode": "Pentekostarion (Venice) 1875",
-                "citation": "Πεντηκοστάριον [Pentekostarion]. Venice, 1875"
               }
             ],
             "cataloguer": [

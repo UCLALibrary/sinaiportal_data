@@ -96,6 +96,64 @@
                       ]
                     }
                   ],
+                  "bib": [
+                    {
+                      "id": "31086588-c563-4dca-b793-d9e4cbdc887b",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Greek New Finds",
+                      "citation": "Nikolopoulos, P. G. Τα νέα ευρήματα του Σινά (Athens, 1998). English translation: A. Hatzopoulos, The New Finds of Sinai (Athens, 1999)",
+                      "range": "p. 166"
+                    },
+                    {
+                      "id": "fb62d7cf-58cf-4481-a631-b6c70015371e",
+                      "type": {
+                        "id": "edition",
+                        "label": "Edition"
+                      },
+                      "shortcode": "Mateos 1962",
+                      "citation": "Mateos, Juan. ed. Le typicon de la Grande Église. ms. Saint-Croix no. 40, Xe siècle. Vol. 1. Le cycle des douze mois, Orientalia Christiana Analecta 165 (Rome, 1962)"
+                    },
+                    {
+                      "id": "05d46034-7c77-4d21-a2af-bab43715f977",
+                      "type": {
+                        "id": "edition",
+                        "label": "Edition"
+                      },
+                      "shortcode": "Mateos 1963",
+                      "citation": "Mateos, Juan. Le typicon de la Grande Église. ms. Saint-Croix no. 40, Xe siècle. Vol. 2. Le cycle des fêtes mobiles, Orientalia Christiana Analecta 166 (Rome, 1963)"
+                    },
+                    {
+                      "id": "394df1bb-b1e4-42ca-9f4f-156fca7e33b7",
+                      "type": {
+                        "id": "edition",
+                        "label": "Edition"
+                      },
+                      "shortcode": "Arranz 1969",
+                      "citation": "Arranz, Miguel. Le typicon du Monastère du Saint Sauveur à Messine, Codex Messinensis Gr. 115 A.D. 1131. Introduction, texte critique, and notes by M. Arranz SJ, Orientalia Christiana Analecta 185 (Rome, 1969)"
+                    },
+                    {
+                      "id": "d9bd6c7c-2346-4aa3-af84-f4cf22054afe",
+                      "type": {
+                        "id": "edition",
+                        "label": "Edition"
+                      },
+                      "shortcode": "Papadopulos-Kerameus 1897",
+                      "citation": "Papadopulos-Kerameus, Athanasios. Ἀνάλεκτα Ἱεροσολυμιτικῆς Σταχυολογίας. Vol. 4. St. Petersburg: 1897",
+                      "range": "Vols. 1-4"
+                    },
+                    {
+                      "id": "8f02caa9-88fd-4def-a30f-a64c28a04fe6",
+                      "type": {
+                        "id": "edition",
+                        "label": "Edition"
+                      },
+                      "shortcode": "TR",
+                      "citation": "Τριῴδιον κατανυκτικόν [Triōdion katanyktikon]. Rome, 1879"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
@@ -131,52 +189,6 @@
                 "shortcode": "Greek New Finds",
                 "citation": "Nikolopoulos, P. G. Τα νέα ευρήματα του Σινά (Athens, 1998). English translation: A. Hatzopoulos, The New Finds of Sinai (Athens, 1999)",
                 "range": "p. 166"
-              },
-              {
-                "id": "fb62d7cf-58cf-4481-a631-b6c70015371e",
-                "type": {
-                  "id": "edition",
-                  "label": "Edition"
-                },
-                "shortcode": "Mateos 1962",
-                "citation": "Mateos, Juan. ed. Le typicon de la Grande Église. ms. Saint-Croix no. 40, Xe siècle. Vol. 1. Le cycle des douze mois, Orientalia Christiana Analecta 165 (Rome, 1962)"
-              },
-              {
-                "id": "05d46034-7c77-4d21-a2af-bab43715f977",
-                "type": {
-                  "id": "edition",
-                  "label": "Edition"
-                },
-                "shortcode": "Mateos 1963",
-                "citation": "Mateos, Juan. Le typicon de la Grande Église. ms. Saint-Croix no. 40, Xe siècle. Vol. 2. Le cycle des fêtes mobiles, Orientalia Christiana Analecta 166 (Rome, 1963)"
-              },
-              {
-                "id": "394df1bb-b1e4-42ca-9f4f-156fca7e33b7",
-                "type": {
-                  "id": "edition",
-                  "label": "Edition"
-                },
-                "shortcode": "Arranz 1969",
-                "citation": "Arranz, Miguel. Le typicon du Monastère du Saint Sauveur à Messine, Codex Messinensis Gr. 115 A.D. 1131. Introduction, texte critique, and notes by M. Arranz SJ, Orientalia Christiana Analecta 185 (Rome, 1969)"
-              },
-              {
-                "id": "d9bd6c7c-2346-4aa3-af84-f4cf22054afe",
-                "type": {
-                  "id": "edition",
-                  "label": "Edition"
-                },
-                "shortcode": "Papadopulos-Kerameus 1897",
-                "citation": "Papadopulos-Kerameus, Athanasios. Ἀνάλεκτα Ἱεροσολυμιτικῆς Σταχυολογίας. Vol. 4. St. Petersburg: 1897",
-                "range": "Vols. 1-4"
-              },
-              {
-                "id": "8f02caa9-88fd-4def-a30f-a64c28a04fe6",
-                "type": {
-                  "id": "edition",
-                  "label": "Edition"
-                },
-                "shortcode": "TR",
-                "citation": "Τριῴδιον κατανυκτικόν [Triōdion katanyktikon]. Rome, 1879"
               }
             ],
             "cataloguer": [
