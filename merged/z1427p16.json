@@ -1,0 +1,264 @@
+{
+  "ark": "ark:/21198/z1427p16",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Georgian NF M 19, SPP No. 23",
+  "extent": "1 fol.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 1r, 1v",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1mw7w",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1mw7w",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Georgian NF M 19, Undertext (Christian Palestinian Aramaic)",
+            "locus": "f. 1",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Large CPA"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "23 lines, unclear"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s18x0g",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s18x0g",
+                  "reconstruction": false,
+                  "label": "Gospel of Matthew",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s12c7r",
+                        "pref_title": "Bible. Matthew",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Matthew",
+                            "uri": "http://id.loc.gov/authorities/names/n79056834",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Matthew",
+                            "uri": "https://viaf.org/viaf/188427863",
+                            "source": "VIAF"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Christa Müller-Kessler"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:42:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1mw7w"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "f1e208c7-35b0-4a45-b8aa-0204860f4aa3",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Müller-Kessler and Sokoloff 1998a",
+                "citation": "Müller-Kessler, Christa, and Michael Sokoloff. The Christian Palestinian Aramaic New Testament Version from the Early Period: Gospels. A corpus of Christian Palestinian Aramaic. Vol. 2A. Groningen: STYX Publishers, 1998"
+              },
+              {
+                "id": "a68d6ad1-06fd-4799-a210-04cef4803386",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Desreumaux 1997",
+                "citation": " Desreumaux, Alain. Codex sinaiticus Zosimi rescriptus. Lausanne: Éditions du Zèbre, 1997"
+              },
+              {
+                "id": "2214f321-729e-4152-ae2e-8eb76cb65384",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Duensing 1906",
+                "citation": "Duensing, Hugo. Christlich-palästinisch-aramäische Texte und Fragmente. Göttingen: Vandenhoeck & Ruprecht, 1906"
+              },
+              {
+                "id": "2214f321-729e-4152-ae2e-8eb76cb65384",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Duensing 1906",
+                "citation": "Duensing, Hugo. Christlich-palästinisch-aramäische Texte und Fragmente. Göttingen: Vandenhoeck & Ruprecht, 1906"
+              },
+              {
+                "id": "c17ed60d-e7b8-40f1-978b-8dea60223813",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Land 1875",
+                "citation": "Land, Jan Pieter Nicolaas. Anecdota Syriaca. Vol 4. Leiden: Brill, 1875"
+              },
+              {
+                "id": "b4ee85d4-739f-4f08-8f11-a940adc5f279",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Müller-Kessler 2014",
+                "citation": "Müller-Kessler, Christa. “Codex Sinaiticus Rescriptus (CSRG/O/P/S): A Collection of Christian Palestinian Aramaic Manuscripts.” Le Muséon 127 (2014): 263-309. https://dx.doi.org/10.2143/MUS.127.3.3062095",
+                "range": "pp. 263-309"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Christa Müller-Kessler"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:42:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z16d68k3",
+              "ark:/21198/z1427p16"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16d68k3/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1hh6xc3/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Christa Müller-Kessler"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:42:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z16d68k3",
+      "shelfmark": "Sinai Georgian NF M 19"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

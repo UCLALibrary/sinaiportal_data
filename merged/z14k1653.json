@@ -1,0 +1,225 @@
+{
+  "ark": "ark:/21198/z14k1653",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Arabic NF M 8, SPP No. 148",
+  "extent": "2 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "ff. 16–17",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s10k9z",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s10k9z",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Arabic NF M 8, Undertext (Greek majuscule)",
+            "locus": "ff. 16–17",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "note": [
+                  "Loose majuscule of small size"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "Number of lines per page is impossible to reconstruct (Rossetto)"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1nm3x",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1nm3x",
+                  "reconstruction": false,
+                  "label": "Botanical collection with images of plants similar to Dioscorides",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Crateuas, Botanical collection",
+                        "genre": [
+                          {
+                            "id": "scientific-works",
+                            "label": "Scientific works"
+                          }
+                        ]
+                      },
+                      "alt_title": "Botanical collection with images of plants similar to Dioscorides"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Agamemnon Tselikas",
+                        "Nigel Wilson",
+                        "Giulia Rossetto"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-18T22:48:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s10k9z"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "837fae5d-52f4-4480-8922-14e28a406049",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Wellman 1958",
+                "citation": "Wellmann, Max, ed. Pedanii Dioscuridis Anazarbei De Materia Medica Libri quinque, I–III. Berlin: 1958"
+              },
+              {
+                "id": "874101cc-626a-43d5-91a7-a9b1091871cd",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Boudalis and Rossetto",
+                "citation": "Boudalis, Georgios, and Giulia Rossetto. \"Colour Mapping of Sin. ar. NF 8 + Sin. ar. NF 28.\" In M. P. Brown and J. Lockhart, eds. The Apollonius of Tyre Fragment in Arabic NF 8: Studies of a Latin Palimpsest at St Catherine’s Monastery, Sinai. [Forthcoming]"
+              },
+              {
+                "id": "9f282c58-70c3-48bc-bf30-21fbd835c1ed",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Rossetto 2023b",
+                "citation": "Rossetto, Giulia. “Classical Texts Among the Palimpsests of the Monastery of St. Catherine (Sinai): An Overview.” Pages 55-71 in C. Rapp, G. Rossetto, J. Grusková, and  G. Kessel, eds. New Light on Old Manuscripts: The Sinai Palimpsests and Other Advances in Palimpsest Studies. Veröffentlichungen zur Byzanzforschung 45. Austrian Academy of Sciences, Vienna 2023. https://doi.org/10.1553/978OEAW91575s55"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Agamemnon Tselikas",
+                  "Nigel Wilson",
+                  "Giulia Rossetto"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-18T22:48:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1kd1z25",
+              "ark:/21198/z14k1653"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kd1z25/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q7rws/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Agamemnon Tselikas",
+        "Nigel Wilson",
+        "Giulia Rossetto"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-18T22:48:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1kd1z25",
+      "shelfmark": "Sinai Arabic NF M 8"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

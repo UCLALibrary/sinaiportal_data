@@ -1,0 +1,257 @@
+{
+  "ark": "ark:/21198/z1hz24pk",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Arabic 588, SPP No. 196",
+  "extent": "4 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 33v, 33r, 35v, 35r, 45r, 45v, 46v, 46r",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1kh04",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1kh04",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Arabic 588, Undertext (Christian Palestinian Aramaic)",
+            "locus": "ff. 33, 35, 45–46",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Early large Christian Palestinian Aramaic"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "22 lines",
+                "note": [
+                  "Presence of rulings for columns and lines"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s17h69",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s17h69",
+                  "reconstruction": false,
+                  "label": "2 Samuel-1 Kings (2-3 Kingdoms, Vatican version)",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1n30m",
+                        "pref_title": "Bible. Samuel",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Samuel",
+                            "uri": "http://id.loc.gov/authorities/names/n80008475",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Samuel",
+                            "uri": "https://viaf.org/viaf/180630917",
+                            "source": "VIAF"
+                          }
+                        ]
+                      }
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Christa Müller-Kessler"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:42:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1kh04"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "ae17034e-6106-431e-8725-aab43476e1af",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "De Lagarde 1883",
+                "citation": "De Lagarde, Paul A., ed. Librorum Vetis Testamenti Canonicorum pars prior graece. Göttingen: 1883",
+                "range": "p. 239"
+              },
+              {
+                "id": "cdb52f1c-7c0e-4d5e-973f-1692deb447a5",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Gibson 1894",
+                "citation": "Gibson, Margaret Dunlop. Catalogue of the Arabic Manuscripts in the Convent of S. Catharine on Mount Sinai. Cambridge University Press, 1894",
+                "range": "p. 125"
+              },
+              {
+                "id": "ce9cdae8-81ce-4c29-8431-ab599cd5491c",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Gwilliam, Burkitt, and Stenning",
+                "citation": "Gwilliam, George H.,  Francis C. Burkitt, and John F. Stenning, eds. Biblical and Patristic Relics of the Palestinian Syriac Literature from MSS. in the Bodleian Library and in the Library of Saint Catherine on Mount Sinai. Anecdota Oxoniensia 1:9. Oxford, 1896",
+                "range": "p. 31-34"
+              },
+              {
+                "id": "91fb570f-83cc-4bb8-8529-7e2c2872cabc",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Rahlfs 1965",
+                "citation": "Rahlfs, Alfred. Septuaginta-Studien, I-III. Göttingen: 1965",
+                "range": "p. 370-655"
+              },
+              {
+                "id": "1f7bb078-6129-447e-ac4d-49adbd732ef1",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Marcos and Busto-Saiz 1992",
+                "citation": "Marcos, N. Fernández and Jose Ramon Busto-Saiz. El texto antioqueno de la Biblia Griega. Vol. 2, 1-2 Reyes. Madrid, 1992"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Christa Müller-Kessler"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:42:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z16m44r0",
+              "ark:/21198/z1hz24pk"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16m44r0/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qj8gpq/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Christa Müller-Kessler"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:42:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z16m44r0",
+      "shelfmark": "Sinai Arabic 588"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "ark": "ark:/21198/z18t5fzg",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Georgian NF M 19, SPP No. 69",
+  "extent": "2 fols.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 8r, 8v, 9r, 9v",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1z64z",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1z64z",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Georgian NF M 19, Undertext (Christian Palestinian Aramaic)",
+            "locus": "ff. 8–9",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Later large CPA"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "24 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1m670",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1m670",
+                  "reconstruction": false,
+                  "label": "Dormition of the Virgin Mary A",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Dormition of the Virgin Mary",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Dormition of the Virgin Mary A",
+                      "note": [
+                        "A second independent and previously unknown early Christian Palestinian Aramaic version of the Dormition of the Holy Virgin (CP2); partially deviating from the Syriac (S1) and Ethiopic (E1)"
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Christa Müller-Kessler"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:42:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1z64z"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "71602685-54d5-457f-9808-3482851a3c57",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Arras 1973",
+                "citation": "Arras, Victor. De transitu Mariae apocrypha aethiopice. 2 vols. CSCO 343. Louvain: Peeters, 1973",
+                "range": "pp. 108-109",
+                "note": [
+                  "Ethiopic version"
+                ]
+              },
+              {
+                "id": "fb7c6c36-477c-4eb6-aa4d-7575f02293d5",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Shoemaker 2011",
+                "citation": "Shoemaker, Stephen J. “New Syriac Dormition Fragments from Palimpsests in the Schøyen Collection and The British Library.” Le Muséon 124 (2011)",
+                "range": "pp. 367-368"
+              },
+              {
+                "id": "fe75f0cd-bf84-448d-a895-f629bb3dc857",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Müller-Kessler 2019a",
+                "citation": "Müller-Kessler, Christa. “An Overlooked Christian Palestinian Aramaic Witness of the Dormition of Mary in Codex Climaci Rescriptus (CCR IV).” Collectanea Christiana Orientalia 16 (2019): 81-98. https://doi.org/10.21071/cco.v16i.14598",
+                "range": "pp. 81-98"
+              },
+              {
+                "id": "ad752e41-112e-4549-87d8-118ed8115846",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Müller-Kessler 2018b",
+                "citation": "Müller-Kessler, Christa. “Three Early Witnesses of the ‘Dormition of Mary’ in Christian Palestinian Aramaic from the Cairo Genizah (Taylor-Schechter Collection) and the New Finds in St Catherine’s Monastery.” Apocrypha 29 (2018): 69-95. https://doi.org/10.1484/J.APOCRA.5.116638",
+                "range": "pp. 69-95"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Christa Müller-Kessler"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:42:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z16d68k3",
+              "ark:/21198/z18t5fzg"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz16d68k3/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1hh6xc3/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Christa Müller-Kessler"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:42:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z16d68k3",
+      "shelfmark": "Sinai Georgian NF M 19"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

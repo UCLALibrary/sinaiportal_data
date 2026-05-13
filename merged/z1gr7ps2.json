@@ -1,0 +1,240 @@
+{
+  "ark": "ark:/21198/z1gr7ps2",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Arabic NF M 66, SPP No. 336",
+  "extent": "1 fol.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "f. 9",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1p62q",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1p62q",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Arabic NF M 66, Undertext (Greek majuscule)",
+            "locus": "f. 9",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "note": [
+                  "Sloping pointed majuscule"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "note": [
+                  "Only a few letters are visible. The parchment fragment is too small to reconstruct the number of columns and lines, but it is clear that the folio was made up from stitching together multiple pieces of parchment"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1b698",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1b698",
+                  "reconstruction": false,
+                  "label": "Unidentified text (grammatical or biblical)",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Unidentified grammatical or biblical text"
+                      }
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Giulia Rossetto"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-15T22:33:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1p62q"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "78bf8041-6c68-4c6c-8c73-a12f10940840",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Fleischer 1847",
+                "citation": "Fleischer, Heinrich Leberecht. \"Über einen griechisch-arabischen Codex rescriptus der Leipziger Universitäts-Bibliothek.\" In Zeitschrift der deutschen morgenländischen Gesellschaft 1 (1847)",
+                "range": "pp. 148-160",
+                "note": [
+                  "(repr. in ibid., Kleinere Schriften III [Leipzig, 1888], p. 379-388, n. xxii), with a plate"
+                ]
+              },
+              {
+                "id": "b6bd71bf-b3f3-4432-95c0-ce6d91f35898",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Fleischer 1854",
+                "citation": "Fleischer, Heinrich Leberecht. “Beschreibung der von Prof. Dr. Tischendorf im J. 1853 aus dem Morgenlande zurückgebrachten christlich-arabischen Handschriften.” In Zeitschrift der deutschen morgenländischen Gesellschaft 8 (1854) ",
+                "range": "pp. 584-587"
+              },
+              {
+                "id": "fa884a54-ba1d-4c9e-b64d-259e6ba0225f",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Tchernetska 2001",
+                "citation": "Tchernetska, Natalie. “Cambridge University Library Add. 1879.5 and Its Provenance.\" In Homer, Tragedy and Beyond: Essays in Honour of P. E. Easterling, ed. F. Budelmann, P. Michelakis. London, 2001",
+                "range": "pp. 201-208"
+              },
+              {
+                "id": "3c50d0a2-d209-4bdc-bd61-20cee4efb2c6",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Van Esbroeck 1986",
+                "citation": "Van Esbroeck, Michel. “Le codex rescriptus Tischendorf 2 à Leipzig et Cyrille de Scythopolis en version arabe.” In Actes du deuxième Congrès international d’études arabes chrétiennes (Oosterhesselen, September 1984), ed. S. K. Samir (OCA 226). Rome, 1986",
+                "range": "pp. 81-91"
+              },
+              {
+                "id": "409fdd9a-3d80-4944-ad02-ac64be40c0da",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Rossetto 2021",
+                "citation": "Rossetto, Giulia. \"Fragments from the Orphic Rhapsodies? Hitherto Unknown Hexameters in the Palimpsest Sin. ar. NF 66.\" Zeitschrift für Papyrologie und Epigraphik 219 (2021): 34–60",
+                "range": "pp. 34-60"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Giulia Rossetto"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-15T22:33:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1dv21gp",
+              "ark:/21198/z1gr7ps2"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1dv21gp/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jh42t4/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Giulia Rossetto"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-15T22:33:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1dv21gp",
+      "shelfmark": "Sinai Arabic NF M 66"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "ark": "ark:/21198/z1gr7pth",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Syriac NF frag 65, SPP No. 6",
+  "extent": "1 fol.",
+  "weight": "Original field name: Format.weight",
+  "dim": "Original field name: Format.dimensions",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 1v, 1r",
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1sq02",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1sq02",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Syriac NF frag 65, Undertext (Serto)",
+            "locus": "f. 1",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "serto",
+                    "label": "Serto",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Script used by the Syrian Orthodox communities"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "19 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1fq2q",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1fq2q",
+                  "reconstruction": false,
+                  "label": "On simple drugs",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Galen, On Simple Drugs",
+                        "genre": [
+                          {
+                            "id": "scientific-works",
+                            "label": "Scientific works"
+                          }
+                        ]
+                      },
+                      "alt_title": "De simplicium medicamentorum temperamentis ac facultatibus",
+                      "note": [
+                        "Precise identification of this text remains to be done"
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-15T22:33:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1sq02"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "d943377f-b641-4984-bcb1-0f859e11616f",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Bhayro, et al. 2012",
+                "citation": "Bhayro, Siam, Robert Hawley, Grigory Kessel, and Peter E. Pormann. \"Collaborative research on the digital Syriac Galen palimpsest.” Semitica et Classica 5 (2012): 261-264. https://doi.org/10.1484/J.SEC.1.103064",
+                "range": "pp. 261-264"
+              },
+              {
+                "id": "77fa1dc7-194d-438f-9724-b54fe1ad65e8",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Bhayro, et al. 2013",
+                "citation": "Bhayro, Siam, Robert Hawley, Grigory Kessel, and Peter E. Pormann. \"The Syriac Galen palimpsest: Progress, prospects and problems.” Journal of Semitic Studies 58 (2013): 131-148. https://doi.org/10.1093/jss/fgs042",
+                "range": "pp. 131-148"
+              },
+              {
+                "id": "bfa7ef83-eff2-4715-9e04-ae851adc5014",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Hawley 2014",
+                "citation": "Hawley, Robert. \"More identifications of the Syriac Galen palimpsest.” Semitica et Classica 7 (2014): 237-272. https://doi.org/10.1484/J.SEC.5.103532",
+                "range": "pp. 237-272"
+              },
+              {
+                "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Brock 1995",
+                "citation": "Brock, Sebastian P. Catalogue of Syriac Fragments (New Finds) in the Library of the Monastery of Saint Catherine, Mount Sinai. Mount Sinai Foundation, 1995",
+                "range": "pp. 63-64"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-15T22:33:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1t448qz",
+              "ark:/21198/z1gr7pth"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1t448qz/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11c28x5/0,902,5412,5412/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-15T22:33:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1t448qz",
+      "shelfmark": "Sinai Syriac NF frag 65"
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}
