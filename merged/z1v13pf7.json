@@ -1,0 +1,639 @@
+{
+  "ark": "ark:/21198/z1v13pf7",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 22",
+  "summary": "Menaion (incomplete)",
+  "extent": "172 ff.",
+  "weight": "1272.2 g",
+  "dim": "272 x 193 x 65 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "[I–VIII Syriac M5N, ff. 1–63] (to be imaged and checked!) ; [X Syriac M5N, ff. 72–79] (to be imaged and checked!) ; [XI–XV Syriac M55N, ff. 1–39] (to be imaged and checked!) ; [XVIII–XXIV Syriac M5N, ff. 146–201; Syriac NF Sp. 66] (to be checked!) ; [XXVII A 296 inf., ff. 278–287 (= Chabot 74)] (to be checked!) ; [XXVIII Or. 8607, ff. 20–27] ; XXIX Syriac 22, ff. 1–8 ; XXX ff. 9–16 ; XXXI ff. 17–24 ; XXXII ff. 25–32 ; XXXIII ff. 33–40 ; XXXIV ff. 41–48 ; XXXV ff. 49–56 ; XXXVI ff. 57–64 ; XXXVII ff. 65–72 ; XXXVIII ff. 73–80 ; XXXIX ff. 81–90 ; XL ff. 91–98 ; XLI ff. 99–106 ; XLII ff. 107–114 ; XLIII ff. 115–122 ; XLIV ff. 123–130 ; XLV ff. 131–139 ; XLVI ff. 140–148 ; XLVII ff. 149–156 ; XLVIII ff. 157–164 ; XLIX ff. 165–172 ; [L Syriac M5N, ff. 402–410]",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-172",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Sinai Syriac NF M 5 (ff. 1–63, 72–79, 146–201, 402–410)"
+            },
+            {
+              "label": "Sinai Syriac NF M 55 (ff. 1–39)"
+            },
+            {
+              "label": "Bilbioteca Ambrosiana, A 296 inf. (ff. 278–287 = Chabot 74)"
+            },
+            {
+              "label": "British Library, Or. 8607 (ff. 20–27)"
+            },
+            {
+              "label": "Sinai Syriac NF frag. 66"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1hk87",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1hk87",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 22, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Serto (Melkite)"
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black",
+                  "red",
+                  "yellow"
+                ],
+                "note": [
+                  "Black and red ink used in the text; black, red and occasionally gold/yellow colours used in ornamentation."
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "ca. 27 lines",
+                "note": [
+                  "Traces of ruling with either dry hard point or lead pencil/plummet marking borders of the writing area"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1b67h",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1b67h",
+                  "reconstruction": false,
+                  "label": "Menaion (incomplete)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16s3m",
+                        "pref_title": "Menologion",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menaion (Byzantine) (incomplete)",
+                      "locus": "ff. 1r-172v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 1r",
+                          "as_written": ".ܠܒܪܘܝܐ ܕܟܘܠܐ. ܕܠܗ ܡܫ̈ܒܚܝܢܢ ܘܩ̈ܥܝܢܢ. ܡܒܪܟ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "locus": "f. 172v",
+                          "as_written": "ܠܗ ܗܘ ܒܥܝ ܘܐܬܟܫܦ. ܕܖ̈ܚܡܐ ܢܬܝܗ̈ܒܘܢ ܠܢܦ̈ܫ ܕܟ܀"
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "[27 Kānūn II (January), Departure of St John Chrysostom ]",
+                          "locus": "f. 1r–v",
+                          "note": [
+                            "[Canon, mode 1]: Odes 7 (acephalous, continues from Or. 8607, f. 27v), 8, 9"
+                          ]
+                        },
+                        {
+                          "label": "28 Kānūn II (January), St Ephrem, the Teacher of the Syrians",
+                          "locus": "ff. 1v–4v",
+                          "note": [
+                            "Stichera (ff. 1v–2r)",
+                            "Canon, mode 8 (ff. 2r–4r): Odes 1, 3, 4 (marked 3), 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 4r–v)"
+                          ]
+                        },
+                        {
+                          "label": "2 Shbāṭ (February), Our Lord’s Entrance to the Temple",
+                          "locus": "ff. 4v–11r",
+                          "note": [
+                            "Troparion on God is the Lord, mode 1 (f. 4v)",
+                            "Kathismata, various modes (ff. 4v–5r)",
+                            "Stichera, various modes (ff. 5r–8r)",
+                            "Canon by Father Cosmas of Jerusalem, mode 3 (ff. 8r–11r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilaria (f. 11r)"
+                          ]
+                        },
+                        {
+                          "label": "24 Shbāṭ (February), the Second Discovery of the Head of St. John the Baptist",
+                          "locus": "ff. 11r–15r",
+                          "note": [
+                            "Troparion on God is the Lord, mode 2 (f. 11r–v)",
+                            "Kathisma, mode 4 (f. 11v)",
+                            "Stichera, various modes (ff. 11v–12v)",
+                            "Canon, mode 2 (ff. 12v–15r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 15r)"
+                          ]
+                        },
+                        {
+                          "label": "9 Ādar (March), Forty Martyrs",
+                          "locus": "ff. 15r–19v",
+                          "note": [
+                            "Troparion on God is the Lord, mode 1 (f. 15r–v)",
+                            "Kathisma, mode 8 (f. 15v)",
+                            "Stichera, mode 2 (ff. 15v–16v)",
+                            "Canon, mode 2 (ff. 16v–19v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 19v)"
+                          ]
+                        },
+                        {
+                          "label": "25 Ādar (March), Annunciation",
+                          "locus": "ff. 19v–24v",
+                          "note": [
+                            "Troparion on God is the Lord, mode 4 (f. 19v)",
+                            "Kathismata, various modes (ff. 19v–20r)",
+                            "Stichera, various modes (ff. 20r–21r)",
+                            "Canon, mode 4 (ff. 21v–24v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilaria (f. 24v)"
+                          ]
+                        },
+                        {
+                          "label": "[23] Nīsān (April), St George",
+                          "locus": "ff. 24v–33v",
+                          "note": [
+                            "Troparion on God is the Lord, mode 4 (f. 25r)",
+                            "Kathismata, various modes (f. 25r)",
+                            "Stichera, various modes (ff. 25r–27v)",
+                            "Canon, mode 2 (ff. 27v–30v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another canon by Father Cosmas of Jerusalem, mode 4 (ff. 30v–33v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilaria (f. 33v)"
+                          ]
+                        },
+                        {
+                          "label": "25 Nīsān (April), St. Mark Apostle and Evangelist",
+                          "locus": "ff. 33v–38r",
+                          "note": [
+                            "Troparion on God is the Lord, mode 3 (incipit only) (f. 33v)",
+                            "Kathisma, mode 1 (ff. 33v–34r)",
+                            "Stichera, mode 1 (ff. 34r–34v)",
+                            "Canon, mode 1 (ff. 34v–38r)",
+                            "Exapostilarion – the same as for Apostles in general (no text) (f. 38r)"
+                          ]
+                        },
+                        {
+                          "label": "6 Īyār (May), the Righteous Job",
+                          "locus": "ff. 38r–42r",
+                          "note": [
+                            "Troparion on God is the Lord, mode 2 (incipit only) (f. 38r)",
+                            "Stichera, mode 8 (ff. 38r–39r)",
+                            "Canon, mode 4 (ff. 39r–42r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 42r)"
+                          ]
+                        },
+                        {
+                          "label": "7 Īyār (May), Apparition of the Holy Cross in Jerusalem",
+                          "locus": "ff. 42r–47r",
+                          "note": [
+                            "Troparion on God is the Lord, mode 1 (incipit only) (f. 42v)",
+                            "Stichera, various modes, translation (ff. 42v–43v)",
+                            "Canon, mode 4 (ff. 43v–47r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 47r)"
+                          ]
+                        },
+                        {
+                          "label": "8 Īyār (May), St John the Apostle, Theologian and Evangelist and Hosios Arsenius",
+                          "locus": "ff. 47r–54v",
+                          "note": [
+                            "Troparion on God is the Lord to the Apostle, mode 2 (f. 47r)",
+                            "Troparion on God is the Lord to the Hosios, mode 2 (f. 47r)",
+                            "Kathisma to the Apostle, mode 8 (f. 47r–v)",
+                            "Kathisma to the Hosios, mode 8 (f. 47v)",
+                            "Stichera to the Apostle, various modes (ff. 47v–49r)",
+                            "Stichera to the Hosios (f. 49r–v)",
+                            "Canon, mode 8 (ff. 49v–54v): Odes 1, 3, 4, 5, 6, 7, 8, 9 (alternating odes of two canons, those to St John the Apostle and Hosios Arsenius)",
+                            "Exapostilarion [to St John the Apostle] (f. 54v)",
+                            "Exapostilarion to Hosios Arsenius (f. 54v)"
+                          ]
+                        },
+                        {
+                          "label": "9 Īyār (May), Holy Martyr Christopher",
+                          "locus": "ff. 54v–59r",
+                          "note": [
+                            "Troparion on God is the Lord, mode 3 (incipit only) (f. 54v)",
+                            "Kathisma, mode 8 (f. 55r)",
+                            "Stichera, mode 4 (f. 55r–v)",
+                            "Canon, mode 5 (ff. 55v–59r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 59r)"
+                          ]
+                        },
+                        {
+                          "label": "12 Īyār (May), Epiphanius, Bishop of Cyprus",
+                          "locus": "ff. 59r–63v",
+                          "note": [
+                            "Kathisma on God is the Lord, mode 4 (incipit only) (f. 59r)",
+                            "Kathisma, mode 8 (f. 59r–v)",
+                            "Stichera, mode 6 (ff. 59v–60r)",
+                            "Canon, mode 1 (ff. 60r–63v): Odes 1, 3, 4, 5, 6, 7, 8, 9"
+                          ]
+                        },
+                        {
+                          "label": "24 Īyār (May), Hosios St. Symeon the Stylite who performed miracles in the sea, from God’s city of Antioch in Syria",
+                          "locus": "ff. 63v–70r",
+                          "note": [
+                            "Troparion on God is the Lord, mode 1 (incipit only) (f. 63v)",
+                            "Kathismata, various modes (ff. 63v–64r)",
+                            "Stichera, various modes (ff. 64r–65r)",
+                            "Canon, mode 8 (ff. 65r–70r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 70r)"
+                          ]
+                        },
+                        {
+                          "label": "8 Ḥazīrān (June), Holy Martyr Theodore",
+                          "locus": "ff. 70r–74r",
+                          "note": [
+                            "Troparion on God is the Lord, mode 2 (f. 70r)",
+                            "Kathisma, mode 4 (f. 70r–v)",
+                            "Stichera, various modes (ff. 70v–71r)",
+                            "Canon, composition by the priest Father John bar Manṣūr Damascene (ff. 71r–74r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 74r)"
+                          ]
+                        },
+                        {
+                          "label": "12 Ḥazīrān (June), Hosios Onuphrius",
+                          "locus": "ff. 74r–78v",
+                          "note": [
+                            "Troparion on God is the Lord, mode 1 (incipit only) (f. 74r)",
+                            "Kathisma, mode 4 (f. 74r)",
+                            "Stichera, various modes (f. 74r–v)",
+                            "Canon, mode 4 (ff. 74v–78v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 78v)"
+                          ]
+                        },
+                        {
+                          "label": "14 Ḥazīrān (June), Dormition of Prophet Elisha",
+                          "locus": "ff. 78v–83r",
+                          "note": [
+                            "Kathisma on God is the Lord, mode 2 (incipit only) (f. 78v)",
+                            "Kathisma, mode 8 (f. 79r)",
+                            "Stichera, various modes (f. 79r–80r)",
+                            "Canon, mode 8 (ff. 80r–82v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (ff. 82v–83r)"
+                          ]
+                        },
+                        {
+                          "label": "18 Ḥazīrān (June), Holy Martyr Leontius",
+                          "locus": "ff. 83r–86v",
+                          "note": [
+                            "Kathisma on God is the Lord, mode 3 (incipit only) (f. 83r)",
+                            "Kathisma, mode 8 (f. 83r)",
+                            "Stichera, mode 4 (f. 83r–v)",
+                            "Canon, mode 4 (ff. 83v–86r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 86r–v)"
+                          ]
+                        },
+                        {
+                          "label": "24 Ḥazīrān (June), Nativity of St John the Baptist",
+                          "locus": "ff. 86v–92v",
+                          "note": [
+                            "Kathisma on God is the Lord, mode 4 (f. 86v)",
+                            "Kathismata, various modes (ff. 86v–87r)",
+                            "Stichera, various modes (ff. 87r–89r)",
+                            "Canon, composition by Father Cosmas of Jerusalem, mode 4 (ff. 89r–92v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 92v)"
+                          ]
+                        },
+                        {
+                          "label": "29 Ḥazīrān (June), the Chief Apostles Peter and Paul",
+                          "locus": "ff. 92v–104v",
+                          "note": [
+                            "Troparion on God is the Lord, mode 4 (f. 92v)",
+                            "Kathismata, various modes (ff. 92v–93v)",
+                            "Stichera, various modes (ff. 93v–97v)",
+                            "Canon on the Chief Apostle Peter, composition by Father John Damascene, mode 4 (ff. 97v–100v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Canon on the Apostle Paul, composition by Father John Damascene, mode 8 (ff. 100v–104v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 104v)"
+                          ]
+                        },
+                        {
+                          "label": "30 Ḥazīrān (June), 12 Apostles",
+                          "locus": "ff. 104v–109v",
+                          "note": [
+                            "Kathismata, mode 8 (ff. 104v–105r)",
+                            "Stichera, mode 4 (f. 105r–v)",
+                            "Canon to the 12 Apostles and the Chief Apostles Peter and Paul, mode 4 (ff. 105v–109v): Odes 1, 3, 4, 5, 6, 7, 8, 9 (alternating odes of the two canons)",
+                            "Exapostilarion of the 12 Apostles (f. 109v)"
+                          ]
+                        },
+                        {
+                          "label": "5 Tammūz (July), Dormition of the Holy Mother of St Symeon the Wonderworker and Stylite",
+                          "locus": "ff. 109v–114v",
+                          "note": [
+                            "Troparion on God is the Lord, mode 2 (incipit only) (f. 109v)",
+                            "[Kathisma], mode 1 (ff. 109v–110r)",
+                            "Stichera, translated, various modes (ff. 110r–111r)",
+                            "Canon, composition by Joseph the Greek, mode 4 (ff. 111r–114v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 114v)"
+                          ]
+                        },
+                        {
+                          "label": "8 Tammūz (July), Holy Martyr Procopius",
+                          "locus": "ff. 114v–118v",
+                          "note": [
+                            "Troparion on God is the Lord, mode 3 (incipit only) (f. 114v)",
+                            "Kathisma, mode 8 (ff. 114v–115r)",
+                            "Stichera, mode 4 (f. 115r–v)",
+                            "Canon, mode 4, translation (ff. 115v–118v): Odes 1, 3, 4, 5, 6, 7, 8, 9"
+                          ]
+                        },
+                        {
+                          "label": "15 Tammūz (July), Holy Martyrs Cyricus and his mother Julitta",
+                          "locus": "ff. 118v–",
+                          "note": [
+                            "Kathisma on God is the Lord, mode 5 (incipit only) (f. 118v)",
+                            "Kathisma, mode 8 (ff. 118v–119r)",
+                            "Stichera, mode 2 (ff. 119r–v)",
+                            "Canon, mode 5 (ff. 119v–123r): Odes 1, 3, 4, 5, 6, 7, 8, 9"
+                          ]
+                        },
+                        {
+                          "label": "20 Tammūz (July), Ascension of the Holy Prophet Elijah",
+                          "locus": "ff. 123r–129v",
+                          "note": [
+                            "Troparion on God is the Lord, mode 3 (f. 123r)",
+                            "Kathisma, mode 8 (f. 123r–v)",
+                            "Stichera, various modes (f. 123v–126r)",
+                            "Canon, mode 2 (ff. 126r–129r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 129r–v)"
+                          ]
+                        },
+                        {
+                          "label": "27 Tammūz (July), Holy Martyr Panteleimon",
+                          "locus": "ff. 129v–134r",
+                          "note": [
+                            "Troparion on God is the Lord, mode 3 (incipit only) (f. 129v)",
+                            "Kathisma, mode 8 (f. 129v)",
+                            "Stichera, various modes (ff. 129v–130v)",
+                            "Canon, mode 4 (ff. 130v–134r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 134r)"
+                          ]
+                        },
+                        {
+                          "label": "[1] (lit.: Beginning of) Āb (August), Holy Martyr Shmūnī and her Seven Sons (= the Maccabean Martyrs)",
+                          "locus": "ff. 134r–139r",
+                          "note": [
+                            "Troparion on God is the Lord, mode 1 (f. 134r)",
+                            "Kathisma, mode 8 (f. 134r–v)",
+                            "Stichera, various modes (ff. 134v–135r)",
+                            "Canon, mode 4, composition by Father John bar Manṣūr Damascene (ff. 135r–139r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 139r)"
+                          ]
+                        },
+                        {
+                          "label": "6 Āb (August), the Transfiguration of our Lord on Mt Tabor",
+                          "locus": "ff. 139r–151v",
+                          "note": [
+                            "Troparion on God is the Lord, mode 7 (f. 139r–v)",
+                            "Kathisma, various modes (f. 139v–140r)",
+                            "Stichera, various modes (ff. 140r–144r)",
+                            "Canon, mode 4, composition by Father Cosmas of Jerusalem (ff. 144r–147v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another canon, mode 8, composition by Father John Damascene bar Manṣūr (ff. 147v–151r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilaria (f. 151r–v)"
+                          ]
+                        },
+                        {
+                          "label": "7 Āb (August), Hosios Dometius",
+                          "locus": "ff. 151v–156r",
+                          "note": [
+                            "Kathisma on God is the Lord, mode 2 (incipit only) (f. 151v)",
+                            "Kathisma, mode 8 (f. 151v)",
+                            "Stichera, various modes (ff. 151v–153r)",
+                            "Canon, mode 6 (ff. 153r–156r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 156r)"
+                          ]
+                        },
+                        {
+                          "label": "15 Āb (August), the Dormition of the Mother of God",
+                          "locus": "ff. 156r–",
+                          "note": [
+                            "Troparion on God is the Lord, mode 1 (f. 156r)",
+                            "Kathisma, various modes (f. 156r–157v)",
+                            "Kontakion, mode 2 (f. 157v)",
+                            "Stichera, various modes (some: compositions by Father John Damascene bar Manṣūr) (ff. 157v–164r)",
+                            "Canon, mode 1, composition by Father John bar Manṣūr, the Priest (ff. 164r–167v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another canon on the Mother of God, mode 4, composition by Father Cosmas (ff. 167v–170v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilaria (f. 170v)",
+                            "(Text on ff. 170v (lower part of folio)–172v added in a different hand)",
+                            "Stichera, various modes (ff. 170v–171v)"
+                          ]
+                        },
+                        {
+                          "label": "29 Āb (August), Decollation of St John the Baptist",
+                          "locus": "ff. 171v–172v",
+                          "note": [
+                            "Stichera, various modes (ff. 171v–172v)"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Natalia Smelova"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:54:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1hk87"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[123], p. 155"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386383-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Natalia Smelova"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:54:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1v13pf7"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[123], p. 155"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386383-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v13pf7/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v13pf7%2Fjc07dt14/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:54:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.4",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

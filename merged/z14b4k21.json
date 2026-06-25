@@ -1,0 +1,439 @@
+{
+  "ark": "ark:/21198/z14b4k21",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 59",
+  "summary": "John Chrysostom, Homilies on the Gospel of John (Homilies 61–75)",
+  "extent": "61 ff.",
+  "weight": "535 g",
+  "dim": "273 x 184 x 50.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "<I>:\t(lacuna of 3 folios) [Syriac 29, ff. 3, 2, 1, 5, 4] + Syriac 59, ff. 1, 2 ; <II>: ff. 3–12 ; <III>: ff. 13–14, 14 bis, 15–21 ; <IV>: Syriac 59, f. 22 [+ Mingana Syr. 651, f. 1] + Syriac 59, ff. 23–30  ; <V>: ff. 31–40 ; <VI>: ff. 41–50  ; <VII>: ff. 51–60 ; [<VIII>: Mingana Syr. 651, f. 2 + Or. 8607, ff. 31–38 + Sp. 48] ; [<IX>: (lacuna of 8 folios) [Syriac M28N, ff. β, γ] ; [X: Syriac M28N, ff. δ, 3–10, α] ; [<XI>: Sp. 47, a–c (1 folio)]",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-60",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Sinai Syriac 29 (ff. 1–5)",
+              "id": "ark:/21198/z1mg9bzd"
+            },
+            {
+              "label": "Mingana Syr. 651 (ff. 1–2)"
+            },
+            {
+              "label": "British Library, Or. 8607 (ff. 31–38)"
+            },
+            {
+              "label": "Sinai Syriac NF M 28",
+              "id": "ark:/21198/z1zc9v3g"
+            },
+            {
+              "label": "Sinai Syriac NF frag. 48"
+            },
+            {
+              "label": "Sinai Syriac NF frag. 47"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1dp6k",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1dp6k",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 59, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "iron gall",
+                  "red"
+                ],
+                "note": [
+                  "Iron gall and red inks are used in the text"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "36 lines",
+                "note": [
+                  "Traces of ruling with lead pencil marking borders of the writing area"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1767k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1767k",
+                  "reconstruction": false,
+                  "label": "Four Gospels",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1n01z",
+                        "pref_title": "Homilies on John (Chrysostom)",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1x303",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1x303",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "John Chrysostom, Saint, -407",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 407",
+                                "iso": {
+                                  "not_before": "0407"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://viaf.org/viaf/305214868",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "http://id.loc.gov/authorities/names/n80001460",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "John Chrysostom, Saint, -407",
+                                  "uri": "https://w3id.org/haf/person/873419758532",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "John Chrysostom",
+                                  "uri": "http://syriaca.org/person/573",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Iohannes Chrysostomus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1449/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "John Chrysostom, Saint, -407. Homilies on John",
+                            "uri": "http://id.loc.gov/authorities/names/n97054490",
+                            "source": "LoC"
+                          }
+                        ]
+                      },
+                      "alt_title": "John Chrysostom, Homilies on the Gospel of John (Homilies 61–75)",
+                      "locus": "ff. 1r-60v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "... ܒܚܢܢܐ [    ] ܡܫ̇ܪܝܢ ܚܢܢ ܠܗܘܢ [   ] ܒܚܢܢܐ. ܐܢ ܨܒܬܐ ܗܢܐ ܘܣܩܝܠܘܬܐ [ ]",
+                          "note": [
+                            "Corresponds to Homily 61"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܠܐ ܓܝܪ ܣܦܩܐ ܗܘܬ ܕܢܐܡܪ ܕܩܠܝܠ ܙܒܢܐ ܥܡܟܘܢ ܐܢܐ. ܐܠܐ ܐܡܝܢܐܝܬ̣ ...",
+                          "note": [
+                            "Corresponds to Homily 75: Οὐ γὰρ ἤρκει τὸ εἰπεῖν, ὅτι Μικρὸν χρόνον μεθ’ ὑμῶν εἰμι, ἀλλὰ συνεχῶς (ed. PG 59, col. 408, lines 50–52)"
+                          ]
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Homily 61",
+                          "locus": "f .1r",
+                          "note": [
+                            "Incomplete, continued from Syriac 29, f. 4v"
+                          ]
+                        },
+                        {
+                          "label": "Homily 62",
+                          "locus": "ff. 1r–7r"
+                        },
+                        {
+                          "label": "Homily 63",
+                          "locus": "ff. 7r–11v"
+                        },
+                        {
+                          "label": "Homily 64",
+                          "locus": "ff. 11v–16v"
+                        },
+                        {
+                          "label": "Homily 65",
+                          "locus": "ff. 16v–20v"
+                        },
+                        {
+                          "label": "Homily 66",
+                          "locus": "ff. 20v–22v + [Mingana Syr. 651, f. 1] + Syriac 59, ff. 23r–24r"
+                        },
+                        {
+                          "label": "Homily 67",
+                          "locus": "ff. 24r–28r"
+                        },
+                        {
+                          "label": "Homily 68",
+                          "locus": "ff. 28r–31v"
+                        },
+                        {
+                          "label": "Homily 69",
+                          "locus": "ff. 31v–35r"
+                        },
+                        {
+                          "label": "Homily 70",
+                          "locus": "ff. 35r–38v"
+                        },
+                        {
+                          "label": "Homily 71",
+                          "locus": "ff. 38v–42v"
+                        },
+                        {
+                          "label": "Homily 72",
+                          "locus": "ff. 42v–48r"
+                        },
+                        {
+                          "label": "Homily 73",
+                          "locus": "ff. 48r–52v"
+                        },
+                        {
+                          "label": "Homily 74",
+                          "locus": "ff. 52v–56r"
+                        },
+                        {
+                          "label": "Homily 75",
+                          "locus": "ff. 56r–60v",
+                          "note": [
+                            "Incomplete, continues in Mingana Syr. 651, f. 2r"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "End of homily 75, homilies 76, 77 (incomplete) are in BL Or. 8607, ff. 31r–38v + Sp. 48 r–v"
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Natalia Smelova"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:54:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1dp6k"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[69], p. 153"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279387454-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Natalia Smelova"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:54:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z14b4k21"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[69], p. 153"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279387454-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz14b4k21/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz14b4k21%2F4g68s39p/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:54:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 November",
+        "delivery": "8",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 1 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

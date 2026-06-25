@@ -29,28 +29,26 @@
             "id": "overtext",
             "label": "Overtext"
           }
+        },
+        {
+          "id": "ark:/21198/s1ws8q",
+          "label": "Church Slavonic Undertext: Unidentified multiple liturgical texts",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 8, 9v, 12r, 13v, 17, 18v, 19v, 20v, 21r, 23v, 24, 27v, 28r, 29r, 30, 32r, 32v, 33r, 34–37, 38v, 39–40, 41v, 42r, 44v, 47v, 50r, 51r, 52r, 53v, 54–56, 57v, 58r, 59v, 60, 61r, 62v, 63, 64v, 66r, 69v, 71, 72r, 73–74, 77v, 78v, 79–80, 81v, 83–84, 86r, 87r, 88, 90v, 92v, 93, 94v, 96r, 97r, 98r, 99, 101v, 102v, 106"
+        },
+        {
+          "id": "ark:/21198/s1s05q",
+          "label": "Church Slavonic Undertext: Double palimpsest, lowest layer",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 64r, 68, 70v"
         }
       ]
-    }
-  ],
-  "layer": [
-    {
-      "id": "ark:/21198/s1ws8q",
-      "label": "Church Slavonic Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 8, 9v, 12r, 13v, 17, 18v, 19v, 20v, 21r, 23v, 24, 27v, 28r, 29r, 30, 32r, 32v, 33r, 34–37, 38v, 39–40, 41v, 42r, 44v, 47v, 50r, 51r, 52r, 53v, 54–56, 57v, 58r, 59v, 60, 61r, 62v, 63, 64v, 66r, 69v, 71, 72r, 73–74, 77v, 78v, 79–80, 81v, 83–84, 86r, 87r, 88, 90v, 92v, 93, 94v, 96r, 97r, 98r, 99, 101v, 102v, 106"
-    },
-    {
-      "id": "ark:/21198/s1s05q",
-      "label": "Church Slavonic Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 64r, 68, 70v"
     }
   ],
   "location": [
@@ -85,6 +83,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {

@@ -1,0 +1,410 @@
+{
+  "ark": "ark:/21198/z13j4xkn",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 19",
+  "summary": "Gregory of Nyssa, Homilies on the Song of Songs (incomplete)",
+  "extent": "65 ff.",
+  "weight": "613.8 g",
+  "dim": "257 x 180 x 51 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "[I: Mingana Syr. 628 (1 f.) + olim Hiersemann 500/18 (6 ff.) + Biblioteca Ambrosiana, A 296 inf., f. 194 = Chabot 39 (1 f.)] ; XI: ff. 6r–15v ; XII: ff. 16r–25v ; [? XIII: Leipzig Or. 1078/II (4 ff.)] ; XV: ff. 26r–35v ; XVI: ff. 36r–45v ; XVII: ff. 46r–55v ; XVIII: ff. 56r–65v ; [XIX: Syriac M53N (10 ff.)]  ; <? XXII> ff. 1r–5v [first 3 ff. are today Biblioteca Ambrosiana, A 296 inf., f. 191–193 = Chabot 39 (3 ff.)]",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-65",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Mingana Syr. 628 (1 f.)"
+            },
+            {
+              "label": "Hiersemann 500/18 (6 ff.)"
+            },
+            {
+              "label": "Biblioteca Ambrosiana, A 296 inf. (f. 191-194 = Chabot 39)"
+            },
+            {
+              "label": "Leipzig Or. 1078/II (4 ff.)"
+            },
+            {
+              "label": "Sinai Syriac NF M 53 (10 ff.)",
+              "id": "ark:/21198/z1962t47"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1s330",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1s330",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 19, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "28–30 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1kq1k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1kq1k",
+                  "reconstruction": false,
+                  "label": "Gregory of Nyssa, Homilies on the Song of Songs (incomplete)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1xg65",
+                        "pref_title": "Homilies on the Song of Songs (Gregory of Nyssa)",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1z30d",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1z30d",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Gregory, of Nyssa, Saint, approximately 335-approximately 394",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 335-approximately 394",
+                                "iso": {
+                                  "not_before": "0310",
+                                  "not_after": "0419"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Gregory, of Nyssa, Saint, approximately 335-approximately 394",
+                                  "uri": "http://viaf.org/viaf/103646160",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Gregory, of Nyssa, Saint, approximately 335-approximately 394",
+                                  "uri": "https://id.loc.gov/authorities/names/n79021401",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Gregory, of Nyssa, approximately 335-approximately 394",
+                                  "uri": "https://w3id.org/haf/person/805578325781",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Gregory of Nyssa",
+                                  "uri": "http://syriaca.org/person/512",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Gregorius Nyssenus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1240/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "In Canticum canticorum homiliae XV",
+                            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/7624/",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "In Canticum canticorum homiliae XV",
+                            "idno": "3158",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "Gregory of Nyssa, Homilies on the Song of Songs (incomplete)",
+                      "locus": "f. 6r–65v, 1r–5v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "... ܗܝܕܝܢ ܕܟܝܘܬ ܫܘܦܪܐ ܕܢܦܫܐ ܬܬܚܙܐ",
+                          "note": [
+                            "Corresponds to Hom. 6: οὕτω τὸ καθαρὸν τῆς ψυχῆς ἀναφαίνεται κάλλος (ed. Langerbeck, p. 192, line 6)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "as_written": "ܘܛܥܝܢ ܗܢܝܐܘܬܐ ܕܬܘܪܣܝܐ ܠܨ̈ܠܦܐ ܕܝܢ ܕܪ̈ܘܡܢܐ ܕܡܝ ...",
+                          "note": [
+                            "Corresponds to Hom. 15: τῷ δὲ λεπύρῳ τῆς ῥόας τὸ μῆλον τῆς παρειᾶς ὡραΐζων μεγάλην τινα (ed. Langerbeck, p. 455, lines 10–11)"
+                          ]
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Homily 6",
+                          "locus": "ff. 6r–9r",
+                          "note": [
+                            "Acephalous"
+                          ]
+                        },
+                        {
+                          "label": "Homily 7",
+                          "locus": "ff. 9r–25v",
+                          "note": [
+                            "Incomplete"
+                          ]
+                        },
+                        {
+                          "label": "Homily 9",
+                          "locus": "ff. 26r–30v",
+                          "note": [
+                            "Acephalous"
+                          ]
+                        },
+                        {
+                          "label": "Homily 10",
+                          "locus": "ff. 30v–39r"
+                        },
+                        {
+                          "label": "Homily 11",
+                          "locus": "ff. 39r–51r"
+                        },
+                        {
+                          "label": "Homily 12",
+                          "locus": "ff. 51v–65v"
+                        },
+                        {
+                          "label": "Homily 15",
+                          "locus": "ff. 1r–5v",
+                          "note": [
+                            "Incomplete in the beginning and end"
+                          ]
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "a261b925-70c0-41c4-a8b2-9547127edb63",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Langerbeck 1960",
+                          "citation": "Langerbeck, Hermann. Gregorii Nysseni in Canticum canticorum (Gregorii Nysseni Opera 6). Leiden: Brill, 1960"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-02-04T19:00:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1s330"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[59], p. 153"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386358-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-02-04T19:00:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z13j4xkn"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[59], p. 153"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386358-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz13j4xkn/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz13j4xkn%2Fw6937d1t/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.4",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

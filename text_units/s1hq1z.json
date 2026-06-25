@@ -1,0 +1,66 @@
+{
+  "ark": "ark:/21198/s1hq1z",
+  "reconstruction": false,
+  "label": "Sayings of SS. Macarius, John Carpatheus, Isaac of Nineveh and Gregory Nazienzis",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1d886"
+      },
+      "alt_title": "Psalter (incomplete; Peshitta version)",
+      "locus": "ff. 1r–47v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "as_written": "ܛܘܒܘܗܝ"
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "as_written": "ܡܛܠ ܕܐܠܗܐ ܢܒܕܪ ܓܪ̈ܡܝܗܘܢ",
+          "note": [
+            "Corresponds to Ps. 53:6"
+          ]
+        }
+      ],
+      "bib": [
+        {
+          "id": "f3f683e1-ab37-4103-995e-460bb58ae363",
+          "shortcode": "Walter, Vogel, and Ebied 1980",
+          "citation": "Walter, D. M., in collaboration with Adalbert Vogel, and Rifaat Y. Ebied. The Old Testament in Syriac according to the Peshitta Version, II.3 The Book of Psalms. Leiden: Brill, 1980",
+          "type": {
+            "id": "edition",
+            "label": "Edition"
+          }
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1q320"
+  ]
+}

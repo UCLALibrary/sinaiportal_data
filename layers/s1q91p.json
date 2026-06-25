@@ -1,0 +1,112 @@
+{
+  "ark": "ark:/21198/s1q91p",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 2 B, Overtext (Christian Palestinian Aramaic)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "cpa",
+          "label": "Christian Palestinian Aramaic",
+          "writing_system": "Syriac"
+        }
+      ],
+      "note": [
+        "Christian Palestinian Aramaic script"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "21-23 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1hw9q",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 153v",
+      "lang": [
+        {
+          "id": "chri1239",
+          "label": "CPA"
+        }
+      ],
+      "as_written": "ܬܡ ܒܥܘܢ ܐܠܡܣܝܚ | ܘܫܦܥܬ ܐܡ ܐܢܘܪ ܘܓܡܝܥ|  ܐܠܩܕܝܣܝܢ ܐܡܝܢ ܐܡܢ ܐܡܝܢ  |/ܘܟܐܢ ܐܠܦܪܘܓ ܦܝ ܬܠܬ  |ܣܐܥܬ ܡܢ ܐܢܗܪ ܝܘܡ | ܐܣܒܬ ܦܝ ܥܫܪܗ ܐܝܡ | ܡܢ ܐܒ ܣܢܗ ܣܬ ܐܠܐܦ | ܘܣܬ ܡܝܗ ܘܣܬܗ | ܘܥܫܖܝܢ ܣܢܗ ܡܢ ܣܢܝܢ | ܐܖܡ ܐܖܗܪܝܗ ܟܬܒܗ | ܐܠܩܣ ܒܛܪܘܣ ܐܚܩܝܪ | ܐܠܟ̈ܛܝ ܐܛܥܝܦ ܘܗܘ | ܝܩܘܠ ܟܘܠ ܡܢ ܩܪܐ ܦܝܗ ܝܕܥܝ | ܠܗ ܒܓܘܦܪܐܢ ܐܠܟ̈ܛܝܗ | ܪܚܡ ܐܠܗ ܡܢ ܟܬܒ | ܘܩܪܐ ܐܡܝܢ ܐܡܝܢ ܐܡܝܢ",
+      "translation": [
+        "Finished [the copying] with the help of Christ and the intercession of the Mother of the Light and all the saints. The completion took place in the third hour, on Saturday, tenth of August, the year six thousand, six hundred and twenty–six of the era of Adam. It was copied by the miserable, sinful and week priest Buṭros. And he asks everybody who will read [the book] to implore for the forgiveness of his sins. Let God have mercy upon the one who copies and reads [this book]. Amen. Amen. Amen"
+      ],
+      "assoc_name": [
+        {
+          "value": "Priest Buṭros",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1118 CE",
+          "iso": {
+            "not_before": "1118"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "The completion took place in the third hour, on Saturday, tenth of August, the year six thousand, six hundred and twenty–six of the era of Adam"
+          ]
+        }
+      ]
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[2], p. 161"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/z1mg975v"
+  ]
+}

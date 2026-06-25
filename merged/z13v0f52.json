@@ -138,6 +138,56 @@
             }
           }
         }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1993q",
+          "label": "Greek Undertext: Homilies 1-67 on Genesis",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–20",
+          "uto_ms_ark": "ark:/21198/z1vf7qf9",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1js90",
+          "label": "Greek Undertext: Liturgical text (the blessing of the waters for Epiphany?)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 21–58, 60–67, 136–139",
+          "uto_ms_ark": "ark:/21198/z10686z1",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1f060",
+          "label": "Greek Undertext: Collection of liturgical hymns",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 68–135, 140–170, 171v–204",
+          "uto_ms_ark": "ark:/21198/z1qp6zqk",
+          "script": [
+            "Greek minuscule"
+          ],
+          "lang": [
+            "Greek"
+          ]
+        }
       ]
     }
   ],
@@ -183,6 +233,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {
@@ -194,55 +250,5 @@
       }
     ],
     "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
-  },
-  "uto": [
-    {
-      "uto_layer_ark": "ark:/21198/s1993q",
-      "label": "Greek Undertext: Blessing of the waters for Epiphany",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 1–20",
-      "uto_ms_ark": "ark:/21198/z1vf7qf9",
-      "script": [
-        "Greek majuscule"
-      ],
-      "lang": [
-        "Greek"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1js90",
-      "label": "Greek Undertext: Collection of liturgical hymns",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 21–58, 60–67, 136–139",
-      "uto_ms_ark": "ark:/21198/z10686z1",
-      "script": [
-        "Greek majuscule"
-      ],
-      "lang": [
-        "Greek"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1f060",
-      "label": "Greek Undertext: John Chrysostom, Homilies on Genesis",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 68–135, 140–170, 171v–204",
-      "uto_ms_ark": "ark:/21198/z1qp6zqk",
-      "script": [
-        "Greek minuscule"
-      ],
-      "lang": [
-        "Greek"
-      ]
-    }
-  ]
+  }
 }

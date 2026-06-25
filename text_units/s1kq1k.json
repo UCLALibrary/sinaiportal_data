@@ -1,0 +1,111 @@
+{
+  "ark": "ark:/21198/s1kq1k",
+  "reconstruction": false,
+  "label": "Gregory of Nyssa, Homilies on the Song of Songs (incomplete)",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1xg65"
+      },
+      "alt_title": "Gregory of Nyssa, Homilies on the Song of Songs (incomplete)",
+      "locus": "f. 6r–65v, 1r–5v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "inc-mut",
+            "label": "First Preserved Line"
+          },
+          "as_written": "... ܗܝܕܝܢ ܕܟܝܘܬ ܫܘܦܪܐ ܕܢܦܫܐ ܬܬܚܙܐ",
+          "note": [
+            "Corresponds to Hom. 6: οὕτω τὸ καθαρὸν τῆς ψυχῆς ἀναφαίνεται κάλλος (ed. Langerbeck, p. 192, line 6)"
+          ]
+        },
+        {
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "as_written": "ܘܛܥܝܢ ܗܢܝܐܘܬܐ ܕܬܘܪܣܝܐ ܠܨ̈ܠܦܐ ܕܝܢ ܕܪ̈ܘܡܢܐ ܕܡܝ ...",
+          "note": [
+            "Corresponds to Hom. 15: τῷ δὲ λεπύρῳ τῆς ῥόας τὸ μῆλον τῆς παρειᾶς ὡραΐζων μεγάλην τινα (ed. Langerbeck, p. 455, lines 10–11)"
+          ]
+        }
+      ],
+      "contents": [
+        {
+          "label": "Homily 6",
+          "locus": "ff. 6r–9r",
+          "note": [
+            "Acephalous"
+          ]
+        },
+        {
+          "label": "Homily 7",
+          "locus": "ff. 9r–25v",
+          "note": [
+            "Incomplete"
+          ]
+        },
+        {
+          "label": "Homily 9",
+          "locus": "ff. 26r–30v",
+          "note": [
+            "Acephalous"
+          ]
+        },
+        {
+          "label": "Homily 10",
+          "locus": "ff. 30v–39r"
+        },
+        {
+          "label": "Homily 11",
+          "locus": "ff. 39r–51r"
+        },
+        {
+          "label": "Homily 12",
+          "locus": "ff. 51v–65v"
+        },
+        {
+          "label": "Homily 15",
+          "locus": "ff. 1r–5v",
+          "note": [
+            "Incomplete in the beginning and end"
+          ]
+        }
+      ],
+      "bib": [
+        {
+          "id": "a261b925-70c0-41c4-a8b2-9547127edb63",
+          "shortcode": "Langerbeck 1960",
+          "citation": "Langerbeck, Hermann. Gregorii Nysseni in Canticum canticorum (Gregorii Nysseni Opera 6). Leiden: Brill, 1960",
+          "type": {
+            "id": "edition",
+            "label": "Edition"
+          }
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1s330"
+  ]
+}

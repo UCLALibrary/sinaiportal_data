@@ -1,0 +1,157 @@
+{
+  "ark": "ark:/21198/s11q1m",
+  "reconstruction": false,
+  "label": "Selections from the Bible with Commentary",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1501m"
+      },
+      "alt_title": "Abba Isaiah, Ascetic Discourses",
+      "locus": "ff. 1r-130v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "inc-mut",
+            "label": "First Preserved Line"
+          },
+          "as_written": "... ܢܦܫܐ ܗ̣ܝ ܠܗ̇ ܡܢ ܟܠܗܘܢ ܢܘ̈ܬܦܐ",
+          "note": [
+            "Corresponds to Logos 6.3b (ed. Draguet, p. 36, line 4)"
+          ]
+        },
+        {
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "as_written": "ܝܘܬܪܢܐ ܘܐܝܩܪܐ ܘܢܝܚܐ ܡܩܪܒܝܢ ܥܡ ܒܪܐܢܫܐ ...",
+          "note": [
+            "Corresponds to Logos 25.63 (ed. Draguet, p. 395, lines 1–2)"
+          ]
+        }
+      ],
+      "contents": [
+        {
+          "label": "Logos 6",
+          "locus": "ff. 1r–5r",
+          "note": [
+            "Acephalous"
+          ]
+        },
+        {
+          "label": "Logos 7",
+          "locus": "ff. 5r–22v"
+        },
+        {
+          "label": "Logos 8",
+          "locus": "ff. 22v–24r"
+        },
+        {
+          "label": "Logos 9",
+          "locus": "ff. 24r–25r"
+        },
+        {
+          "label": "Logos 10",
+          "locus": "ff. 25r–28v"
+        },
+        {
+          "label": "Logos 11",
+          "locus": "ff. 28v–39v"
+        },
+        {
+          "label": "Logos 12",
+          "locus": "ff. 39v–45r"
+        },
+        {
+          "label": "Logos 13",
+          "locus": "ff. 45r–50v"
+        },
+        {
+          "label": "Logos 14",
+          "locus": "ff. 50v–59v"
+        },
+        {
+          "label": "Logos 15",
+          "locus": "ff. 59v–68r"
+        },
+        {
+          "label": "Logos 16",
+          "locus": "ff. 68r–81v"
+        },
+        {
+          "label": "Logos 17",
+          "locus": "ff. 81v–82r"
+        },
+        {
+          "label": "Logos 18",
+          "locus": "ff. 82r–83v"
+        },
+        {
+          "label": "Logos 19",
+          "locus": "ff. 83v–86r"
+        },
+        {
+          "label": "Logos 20",
+          "locus": "ff. 86r–91v"
+        },
+        {
+          "label": "Logos 21",
+          "locus": "ff. 91v–93v"
+        },
+        {
+          "label": "Logos 22",
+          "locus": "ff. 93v–112v"
+        },
+        {
+          "label": "Logos 23",
+          "locus": "ff. 112v–116v"
+        },
+        {
+          "label": "Logos 24",
+          "locus": "ff. 116v–121v"
+        },
+        {
+          "label": "Logos 25",
+          "locus": "ff. 121v–130v",
+          "note": [
+            "Incomplete"
+          ]
+        }
+      ],
+      "bib": [
+        {
+          "id": "9c345520-8eda-4ec6-beb3-74bb48417a66",
+          "shortcode": "Draguet 1968",
+          "citation": "Draguet, René. Les cinq recensions de l’Ascéticon syriaque d’Abba Isaïe (CSCO 289/90, 293/4; Syr. 120/1, 122/3). Louvain: Peeters, 1968",
+          "type": {
+            "id": "edition",
+            "label": "Edition"
+          }
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1732n"
+  ]
+}

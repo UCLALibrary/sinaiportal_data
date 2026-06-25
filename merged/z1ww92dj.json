@@ -1,0 +1,720 @@
+{
+  "ark": "ark:/21198/z1ww92dj",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 23",
+  "summary": "Selection from the Apophthegmata patrum, Lausiac History, and Historia monachorum in Aegypto",
+  "extent": "121 ff.",
+  "weight": "1195.9 g",
+  "dim": "253 x 179 x 65.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "<I>:\tff. 1–3 [first 5 folios of the quire are missing; f. 1 is preceded by Sinai Syriac Sparagma 35 (two small fragments), Sinai Syriac M83N/A (small fragment) and Mingana Syr. 642 (2 ff.)] ; <II>: ff. 4–13 ; <III>: ff. 14r–23v ; <IV>: ff. 24r–33v ; <V>: ff. 34r–43v ; <VI>: ff. 44r–52v (+ f. 52bis) ; <VII>: ff. 53r–62v ; <VIII>: ff. 63r–72v ; <IX>: ff. 73r–76v (lacuna of 6 ff. after f. 74) ; <X>: ff. 77r–86v ; <XI>: ff. 87r–90v (lacuna of 6 ff. after f. 88) ; <XII>: ff. 91–100 ; <XIII>: ff. 101–110 ; <XIV>: ff. 111–120 [f. 120 is followed by Sinai Syriac M83N (6 ff.)] ; [the position of a small fragment Sinai Syriac M83N/B has not been identified]",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-120",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Sinai Syriac frag. 35"
+            },
+            {
+              "label": "Sinai Syriac NF M 83 (6 ff.)"
+            },
+            {
+              "label": "Mingana Syr. 642 (2 ff.)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1cs5x",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1cs5x",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 23, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "35–38 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s16d5k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s16d5k",
+                  "reconstruction": false,
+                  "label": "Selection from the Apophthegmata patrum, Lausiac History, and Historia monachorum in Aegypto.",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s11984",
+                        "pref_title": "Apophthegmata patrum (Syriac version, old recension)",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "Apophthegmata. Versiones Syriacae: Recensio uetustior",
+                            "idno": "5578",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r–27r, 30v–42r, 76r–118v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "... ܕܬܕܒܪ ܘܟܕ ܥܒܕܬ ܬܡܢ ܩܠܝܠ ܝܘ̈ܡܬܐ ܐܡ̣ܪܬ ܕܐܢܐ ܚܛܝܬܐ ܐܢܐ",
+                          "note": [
+                            "Text begins at: Serapion 1",
+                            "= πορεύεσθαι. Καὶ ὡς ἐποίησεν ὀλίγας ἡμέρας, εἶπεν· Ἐγὼ ἁμαρτωλός εἰμι (PG 65, col. 416, lines 25–26)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܚܙܘܐ ܡܢ ܐܠܗܐ ܗܘ. ܐܠܐ ܐܢܬ ܙܠ ܐܫܬܥܒܕ ܠܐܒܘܟ ...",
+                          "note": [
+                            "Text ends at: Zacharias 4",
+                            "= ed. Budge, p. 688, line 4"
+                          ]
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "b637d6e0-94a2-4748-97fc-825b7fab0d91",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Bedjan 1897",
+                          "citation": "Bedjan, Paul. Acta martyrum et sanctorum. Vol. VII. Paris-Leipzig, 1897",
+                          "range": "p. 442–894"
+                        },
+                        {
+                          "id": "7bc381c3-4d8f-4850-9fe7-6d527e0d70c1",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Budge 1904",
+                          "citation": "Budge, E. A. Wallis. The Book of Paradise Being the Histories and Sayings of the Monks and Ascetics of the Egyptian Desert by Palladius, Hieronimus and Others. The Syriac Text According to the Recension of ʿAnân-Îshôʿ of Bêth ʿÂbhê. Vol. 2. London: 1904",
+                          "range": "p. 432–760"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1k109",
+                        "pref_title": "The Causes for Monastic Observances (Evagrius)",
+                        "alt_title": [
+                          "Rerum monachalium rationes"
+                        ],
+                        "genre": [
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          },
+                          {
+                            "id": "monastic",
+                            "label": "Monastic rules"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1b88k",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1b88k",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Evagrius, Ponticus, 345?-399",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "345?-399",
+                                "iso": {
+                                  "not_before": "0295",
+                                  "not_after": "0399"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "http://viaf.org/viaf/58103843",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "https://id.loc.gov/authorities/names/n86119200",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "https://w3id.org/haf/person/219264096524",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Evagrius of Pontus",
+                                  "uri": "http://syriaca.org/person/483",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Euagrius Ponticus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1022/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Rerum monachalium rationes",
+                            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/12057/",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "Rerum monachalium rationes",
+                            "idno": "2441",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "Evagrius Ponticus, Rerum monachorum rationes",
+                      "locus": "ff. 27r–30v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "ܡܪܬܝܢܘܬܐ ܕܡܪܝ ܐܘܓܪܝܣ ܕܥܠ ܕܝܪܝܘܬܐ",
+                          "translation": [
+                            "Admonition of Mār Evagrius about monastic way of life"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܨ̇ܒܐ ܐܢܬ ܗܟܝܠ ܚܒܝܒܝ܆ ܠܡܩܒ̇ܠܘ ܐܝܟ ܕܐܝܬܘܗܝ ܦܘܠܚܢܐ ܕܕܝܪܝܘܬܐ",
+                          "note": [
+                            "Text begins at: ch. 3",
+                            "= Βούλει τοιγαροῦν, ἀγαπητὲ, τὸν μονήρη βίον ὡς ἔστιν ἀναλαβεῖν (PG 40, col. 1253, lines 32–33)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܫܠܝܛ ܫܠܝ̈ܛܢܐ܆ ܠܡܠܟܐ ܡܫܝܚܐ ܡܠܟ ܡܠܟ̈ܝܢ܆ ܕܒܙܗܝܘܬܐ ܢܬܩܪܒ ܘܒܕܚܠܬܐ ܢܬܟܫܦ܇ ܕܗܘܝܘ ܦܪܘܩܐ ܕܚܝ̈ܝܢ. ܕܠܗ ܬܫܒܘܚܬܐ ܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ ...",
+                          "note": [
+                            "Text ends at: ch. 11",
+                            "≈ καὶ Χριστῷ Βασιλεῖ τῶν βασιλευόντων καὶ Ἄρχοντι τῶν ἀρχόντων ὁμοίως παρίστασθαι δεῖ, καὶ ὡσαύτως τὴν δέησιν καὶ ἱκετηρίαν ποιεῖσθαι; Ὅτι τῷ Θεῷ ἡ δόξα εἰς τοὺς αἰῶνας. Ἀμήν (PG 40, col. 1264, lines 39–41)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܡܪܬܝܢܘܬܐ ܕܡܪܝ ܐܘܓܪܝܣ ܕܥܠ ܕܝܪܝܘܬܐ"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s11984",
+                        "pref_title": "Apophthegmata patrum (Syriac version, old recension)",
+                        "genre": [
+                          {
+                            "id": "apophthegmata",
+                            "label": "Apophthegmata"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "Apophthegmata. Versiones Syriacae: Recensio uetustior",
+                            "idno": "5578",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 42r–55v, 118v–120v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "ܬܘܒ ܬܫܥܝ̈ܬܐ ܕܥܠ ܡܨܪ̈ܝܐ ܐܝܚܝ̈ܕܝܐ",
+                          "translation": [
+                            "Stories about the Egyptian monks"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "… ܐܡ̇ܪ ܗܘܐ ܐܢܫ ܕܐܝܬ ܗܘܐ ܬܠܬܐ ܐܢܫ̈ܐ ܪ̈ܚܡܝ ܥܠܡܐ",
+                          "note": [
+                            "Text begins at: Nau 134",
+                            "= ed. Budge, p. 432, lines 12–13."
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܣܘܪ̈ܝܝܐ ܕܝܢ ܘܝܘܢܝ̈ܐ܆ ܥܠ ܡܝܬܪ̈ܬܐ ܐܝܠܝܢ ܕܠܝܬ ܠܗܘܢ ܐܡܪܝܢ ܕܐܝܬ ܠܗܘܢ ܘܒܘܨܪ̈ܐ ܐܝܠܝܢ ܕܐܝܬ ܠܗܘܢ ܡܛܫܝܢ",
+                          "note": [
+                            "Text ends at: Zeno 3",
+                            "= ed. Budge, p. 565, lines 21–23"
+                          ]
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "b637d6e0-94a2-4748-97fc-825b7fab0d91",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Bedjan 1897",
+                          "citation": "Bedjan, Paul. Acta martyrum et sanctorum. Vol. VII. Paris-Leipzig, 1897",
+                          "range": "p. 442–894"
+                        },
+                        {
+                          "id": "7bc381c3-4d8f-4850-9fe7-6d527e0d70c1",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Budge 1904",
+                          "citation": "Budge, E. A. Wallis. The Book of Paradise Being the Histories and Sayings of the Monks and Ascetics of the Egyptian Desert by Palladius, Hieronimus and Others. The Syriac Text According to the Recension of ʿAnân-Îshôʿ of Bêth ʿÂbhê. Vol. 2. London: 1904",
+                          "range": "p. 432–760"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s14019",
+                        "pref_title": "Lausiac History (Palladius)",
+                        "alt_title": [
+                          "Historia Lausiaca"
+                        ],
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s12p4q",
+                            "agent_record": {
+                              "ark": "ark:/21198/s12p4q",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Palladius of Aspuna, 363/4-",
+                              "alt_name": [
+                                "Palladius of Galatia ",
+                                "Palladius of Helenopolis",
+                                "Παλλάδιος Γαλατίας"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 430",
+                                "iso": {
+                                  "not_before": "0405",
+                                  "not_after": "0455"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Palladius, Bishop of Aspuna, -approximately 430",
+                                  "uri": "http://viaf.org/viaf/61550437",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Palladius, Bishop of Aspuna, -approximately 430",
+                                  "uri": "http://id.loc.gov/authorities/names/n82093718",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Palladius, Bishop of Aspuna, -approximately 430",
+                                  "uri": "https://w3id.org/haf/person/391065198992",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Palladius Helenopolitanus ep.",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/2169/",
+                                  "source": "Pinakes"
+                                }
+                              ],
+                              "note": [
+                                "bishop of Helenopolis in Bithynia, and a devoted disciple of Saint John Chrysostom"
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Palladius Bishop of Aspuna d. ca. 430. Historia Lausiaca",
+                            "uri": "https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg2111.tlg001",
+                            "source": "Perseus"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 60v–65r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܒܬܘܠܬܐ ܕܝܢ ܚܕܐ ܐܝܬ ܗܘܐ ܒܐܠܟܣܢܕܪܝܐ܆ ܒܐܣܟܡܐ ܕܝܢ ܡܟܝܟܬܐ",
+                          "note": [
+                            "Text begins at: ch. 6"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܦܫܩܬ ܠܬܪ̈ܝܗܘܢ ܓܒ̈ܐ ܠܗ̇ܘ ܐܓܘܒܛܐܝܬ ܘܠܗܠܝܢ ܝܘܢܐܝܬ ...",
+                          "note": [
+                            "Text ends at: ch. 21"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "Contents: ch. 6 (f. 42r), ch. 12 (f. 43r), ch. 13 (f. 43v), ch. 14 (f. 44r), ch. 16 (f. 45r), ch. 18.18 (f. 46r), ch. 22 (f. 46v), ch. 23 (f. 48v), ch. 34 (f. 50r), ch. 37 (f. 51r), ch. 21 (f. 53r)."
+                      ],
+                      "bib": [
+                        {
+                          "id": "b81379d3-5378-4c9e-ba3b-e8a4edb67f17",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Draguet 1978a",
+                          "citation": "Draguet, René. Les formes syriaques de la matière de l’Histoire lausiaque, I. Les manuscrits. Édition des pièces liminaires et des ch. 1-19. (CSCO 389; Syr. 169). Louvain: 1978"
+                        },
+                        {
+                          "id": "a51e0222-da7d-45b2-88b2-de556f63c8eb",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Draguet 1978b",
+                          "citation": "Draguet, René. Les formes syriaques de la matière de l’Histoire lausiaque, II. Édition des ch. 20-71, épilogue [72-73]. (CSCO 398; Syr. 173). Louvain: 1978"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s16x2m",
+                        "pref_title": "History of the Monks of Egypt",
+                        "genre": [
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Historia monachorum in Aegypto",
+                            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/6842/",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "Historia monachorum in Aegypto",
+                            "idno": "5620",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "Historia monachorum in Aegypto (chs. 9, 10)",
+                      "locus": "ff. 55v–60v, 65r–76r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܬܘܒ ܚܙܝܢܢ ܓܒܪܐ ܩܫܝܫܐ ܕܫܡܗ ܗܘܐ ܩܘܦܪܘܣ ܕܥܡ̇ܪ ܗܘܐ ܒܡܕܒܪܐ",
+                          "note": [
+                            "Text begins at: ch. 9"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܩܒܠܘܗ̇ ܒܪܫܥܬܗ ܡܠܐ̈ܟܐ ܘܓܘ̈ܕܐ ܕܣܗ̈ܕܐ ܘܠܫܡܝܐ ܐܣܩܘܗ̇ ܟܕ ܚܝܪܝܢ ܚܢܢ ܘܫܡܥܝܢܢ ܬܫܒ̈ܚܬܗܘܢ",
+                          "note": [
+                            "Text ends at: ch. 10"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "Contents: Ch. 9 (f. 55v); Ch. 10 (f. 60r); Prologue (f. 65r); Ch. 1 (f. 66v); Ch. 12 (f. 68v); Ch. 3 (f. 69r); Ch. 4 (f. 69r); Ch. 5 (f. 69v); Ch. 6 (f. 70r); Ch. 7 (f. 70v); Ch. 8 (f. 71r); Ch. 11 (f. 73r); Ch. 13 (f. 74v, incomplete); Ch. 33 (f. 75r, the final section only); Epilogue (f. 75r)"
+                      ],
+                      "bib": [
+                        {
+                          "id": "b637d6e0-94a2-4748-97fc-825b7fab0d91",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Bedjan 1897",
+                          "citation": "Bedjan, Paul. Acta martyrum et sanctorum. Vol. VII. Paris-Leipzig, 1897",
+                          "range": "p. 329–442"
+                        },
+                        {
+                          "id": "7bc381c3-4d8f-4850-9fe7-6d527e0d70c1",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Budge 1904",
+                          "citation": "Budge, E. A. Wallis. The Book of Paradise Being the Histories and Sayings of the Monks and Ascetics of the Egyptian Desert by Palladius, Hieronimus and Others. The Syriac Text According to the Recension of ʿAnân-Îshôʿ of Bêth ʿÂbhê. Vol. 2. London: 1904",
+                          "range": "p. 345–431"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-02-04T19:00:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1cs5x"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[72], p. 154"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386395-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-02-04T19:00:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1ww92dj"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[72], p. 154"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386395-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1ww92dj/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1ww92dj%2F8w23788p/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 November",
+        "delivery": "8",
+        "condition_category": "2",
+        "imaging_system": "BC100 - 1 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

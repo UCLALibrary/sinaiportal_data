@@ -1,0 +1,165 @@
+{
+  "ark": "ark:/21198/r1vd6wc9",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac NF M 11",
+  "summary": "Cyril of Scythopolis, Life of St. Saba, Life of St. Euthymios",
+  "extent": "112 ff.",
+  "dim": "185 x 128 x 57 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "<I>: f. 1 ; ? f. 1bis ; IX: ff. 65–66 (ff. 67r–72r are fused together) ; <X>: f. 73 (ff. 74v–80r are fused together) ; XI: ff. 81–88 ; XII: ff. 89–96 ; XIII: ff. 97–104 ; <XIV>: ff. 105–112 (ff. 110–111 are fused together)\n",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-112",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "148 x 117 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s1ts6b",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          }
+        },
+        {
+          "id": "ark:/21198/s1635g",
+          "label": "CPA Undertext: Catecheses",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 105–109, 110r, 111v, 112"
+        },
+        {
+          "id": "ark:/21198/s1ss7d",
+          "label": "CPA Undertext: Gospel of John",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 73"
+        },
+        {
+          "id": "ark:/21198/s1p366",
+          "label": "CPA Undertext: Gospel of Mark",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 81–88"
+        },
+        {
+          "id": "ark:/21198/s12925",
+          "label": "CPA Undertext: Gospel of Matthew",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 65–66, 97–104"
+        },
+        {
+          "id": "ark:/21198/s1xm08",
+          "label": "CPA Undertext: Gospel of Luke",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 89–96"
+        },
+        {
+          "id": "ark:/21198/s19s6p",
+          "label": "Undetermined Undertext: Illegible or unidentified",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 64v, 67r, 72v, 74r, 80v"
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "repository": "St. Catherine's Monastery of the Sinai",
+      "collection": "New Finds"
+    }
+  ],
+  "bib": [
+    {
+      "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+      "shortcode": "Philothée 2008",
+      "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[M11N], pp. 301-305"
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "shortcode": "Géhin 2017",
+      "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 183"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "label": "SPP",
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr1vd6wc9/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cf9rf4/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ]
+}

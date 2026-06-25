@@ -31,55 +31,53 @@
             "id": "overtext",
             "label": "Overtext"
           }
+        },
+        {
+          "id": "ark:/21198/s14p7g",
+          "label": "Georgian Undertext: Psalter (version by George the Athonite)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 23– 25, 30–32"
+        },
+        {
+          "id": "ark:/21198/s1w63z",
+          "label": "Georgian Undertext: Horologion",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–22, 26–29"
+        },
+        {
+          "id": "ark:/21198/s1d63m",
+          "label": "Georgian Undertext: Hymnary (Heirmologion with Theotokia)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 35–36"
+        },
+        {
+          "id": "ark:/21198/s11068",
+          "label": "Georgian Undertext: Psalter",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 35–36"
+        },
+        {
+          "id": "ark:/21198/s18h1q",
+          "label": "Georgian Undertext: Unidentified",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 33–34, 37–38"
         }
       ]
-    }
-  ],
-  "layer": [
-    {
-      "id": "ark:/21198/s14p7g",
-      "label": "Georgian Undertext: Heirmologion",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 23– 25, 30–32"
-    },
-    {
-      "id": "ark:/21198/s1w63z",
-      "label": "Georgian Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 1–22, 26–29"
-    },
-    {
-      "id": "ark:/21198/s1d63m",
-      "label": "Georgian Undertext: Psalter",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 35–36"
-    },
-    {
-      "id": "ark:/21198/s11068",
-      "label": "Georgian Undertext: Psalter",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 35–36"
-    },
-    {
-      "id": "ark:/21198/s18h1q",
-      "label": "Georgian Undertext: Horologion",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 33–34, 37–38"
     }
   ],
   "location": [
@@ -114,6 +112,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {

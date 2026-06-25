@@ -30,37 +30,35 @@
             "id": "overtext",
             "label": "Overtext"
           }
+        },
+        {
+          "id": "ark:/21198/s1mp86",
+          "label": "CPA Undertext: Exodus",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 8"
+        },
+        {
+          "id": "ark:/21198/s1rh12",
+          "label": "CPA Undertext: Catecheses",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 2–3, 6–7"
+        },
+        {
+          "id": "ark:/21198/s1h06m",
+          "label": "CPA Undertext: Gospel of Matthew",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 4–5"
         }
       ]
-    }
-  ],
-  "layer": [
-    {
-      "id": "ark:/21198/s1mp86",
-      "label": "CPA Undertext: Cyril of Jerusalem, Catecheses",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 1, 8"
-    },
-    {
-      "id": "ark:/21198/s1rh12",
-      "label": "CPA Undertext: Exodus",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 2–3, 6–7"
-    },
-    {
-      "id": "ark:/21198/s1h06m",
-      "label": "CPA Undertext: Bible. Matthew",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 4–5"
     }
   ],
   "location": [
@@ -95,6 +93,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {

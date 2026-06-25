@@ -1,0 +1,60 @@
+{
+  "ark": "ark:/21198/s1q67x",
+  "reconstruction": false,
+  "label": "Triodion",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1030q"
+      },
+      "alt_title": "Triodion, part 1 (Byzantine) (incomplete)",
+      "locus": "ff. 1r-48v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "inc-mut",
+            "label": "First Preserved Line"
+          },
+          "locus": "f. 1r",
+          "as_written": "ܒܪܡ ܗ̇ܐ ܡܬܦܢܐ ܐܢܐ. ܠܘܬܟ ܐܘ ܐܒܐ ܚ̇ܢܢܐ. ܘܒܕܡ̈ܥܐ ܟܝܬ ܡ̇ܙܥܩ ܐܢܐ",
+          "note": [
+            "Corresponds to (Τῆς πατρικῆς δωρεᾶς) … ἀλλ’ ὑποστρέψας πρὸς τὸν εὔσπλαγχνον Πατέρα, κραυγάζω σὺν δάκρυσι. (Τριῴδιον, Rome 1879, p. 11)"
+          ]
+        },
+        {
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "locus": "f. 48v",
+          "as_written": "ܠܗܘ ܡܢܐ ܥܡ ܦܠܚ̈ܘܬܐ ܘܬܓܡ̈ܐ ܡ̈ܠܝܠܐ ܕܠܥܠ. ܘܡܢܗܘܢ ܩܪܝܐ ܐܬܚܙܝܬ. ܟܠܢ\nܡܗܝ̈ܡܢܐ ܫܪܝܪܐ",
+          "note": [
+            "No exact correspondence in the printed Greek Triodion"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:54+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1wp79"
+  ]
+}

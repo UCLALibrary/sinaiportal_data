@@ -1,0 +1,152 @@
+{
+  "ark": "ark:/21198/s1ft2r",
+  "reconstruction": false,
+  "label": "Maccabeans I-III",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1fk5g"
+      },
+      "alt_title": "1–3 Maccabees (incomplete)",
+      "locus": "ff. 1r-104v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "inc-mut",
+            "label": "First Preserved Line"
+          },
+          "as_written": "... ܠܩܪܝܒܗ. ܢܩܝܡ ܣܘܚܦܗ ܕܥܡܢ. ܘܢܩܪܒ ܥܠ ܐ̈ܦܝ ܥܡܢ ܘܩܘ̈ܕܫܝܢ",
+          "note": [
+            "Corresponds to 1 Macc. 3:43"
+          ]
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "as_written": "ܗܐ ܗܠܝܢ ܟܠܗܝܢ ܟܬܝܒܢ ܒܟܬܒܐ ܕܝܘ̈ܡܬܐ ܕܪܒܘܬ ܟܗܢܘܬܗ. ܕܗܘܐ ܪܒ ܟܗ̈ܢܐ ܚܠܦ ܐܒܘܗܝ ܡܢ ܒܬܪܗ ...",
+          "note": [
+            "Desinit for First Book of Maccabees"
+          ]
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "as_written": "ܫܠܡ ܠܡܟܬܒ ܣܦܪܐ ܩܕܡܝ‍[‍ܐ] ܕܡܩܒ̈ܝܐ",
+          "note": [
+            "Explicit for First Book of Maccabees"
+          ]
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "as_written": "... ܐܚ̈ܐ ܝܗܘ̈ܕܝܐ ܕܒܐܘܪܫܠܡ ܘܒܐܪܥܐ ܕܝܗܘܕܐ",
+          "note": [
+            "Incipit for Second Book of Maccabees"
+          ]
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "as_written": "ܘܒܨܝܢ ܘܒܥܝܢ ܘܥܕܡܐ ܠܗܪܟܐ ܡܟܝܠ ܢܗܘܐ ܫܘܠܡܐ ܕܡ̈ܠܐ ܕܬܫܥܝ̈ܬܐ ...",
+          "note": [
+            "Desinit for Second Book of Maccabees"
+          ]
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "as_written": "ܫܠܡ ܠܡܟܬܒ ܣܦܪܐ ܕܬܖ̈ܝܢ ܕܡܩܒ̈ܝܐ",
+          "note": [
+            "Explicit for Second Book of Maccabees"
+          ]
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "as_written": "... ܦܛܘܠܡܐܘܣ ܕܝܢ ܦܝܠܡܛ‍[‍ܘܪ] [ܝ‍]‍ܠܦ ܗܘ ܡܢ ܐܝܠܝܢ ܕܦܢܘ ܠܘܬܗ",
+          "note": [
+            "Incipit for Third Book of Maccabees"
+          ]
+        },
+        {
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "as_written": "ܐܠܘ ܗܘܘ ܐܢܫ̈ܝܟ ܐܘ ...",
+          "note": [
+            "Desinit mut. corresponds to 3 Macc. 5:31"
+          ]
+        }
+      ],
+      "contents": [
+        {
+          "label": "First Book of Maccabees",
+          "locus": "ff. 1r–47r"
+        },
+        {
+          "label": "Second Book of Maccabees",
+          "locus": "ff. 47r–93v"
+        },
+        {
+          "label": "Third Book of Maccabees",
+          "locus": "ff. 93v–104v"
+        }
+      ],
+      "bib": [
+        {
+          "id": "53a87646-624c-4f8e-941c-4e98708d04e9",
+          "shortcode": "De Lagarde 1861",
+          "citation": "de Lagarde, Paul A., ed. Libri Veteris Testamenti Apocryphi Syriace. Leipzig–London: 1861",
+          "type": {
+            "id": "edition",
+            "label": "Edition"
+          }
+        },
+        {
+          "id": "fbe0d9e1-f43f-4d09-9f83-b7e7f89c7cc6",
+          "shortcode": "Albert et al. 2013",
+          "citation": "Albert, Micheline and Angelo Penna, in collaboration with D. Bakker, K.D. Jenner, and Ch. Nakano, eds. The Old Testament in Syriac according to the Peshitta Version. Part IV, Fasc. 4: Ezra and Nehemiah, 1–2 Maccabees. Leiden: Brill, 2013",
+          "type": {
+            "id": "edition",
+            "label": "Edition"
+          }
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1n912"
+  ]
+}

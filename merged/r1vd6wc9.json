@@ -1,0 +1,580 @@
+{
+  "ark": "ark:/21198/r1vd6wc9",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac NF M 11",
+  "summary": "Cyril of Scythopolis, Life of St. Saba, Life of St. Euthymios",
+  "extent": "112 ff.",
+  "dim": "185 x 128 x 57 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "<I>: f. 1 ; ? f. 1bis ; IX: ff. 65–66 (ff. 67r–72r are fused together) ; <X>: f. 73 (ff. 74v–80r are fused together) ; XI: ff. 81–88 ; XII: ff. 89–96 ; XIII: ff. 97–104 ; <XIV>: ff. 105–112 (ff. 110–111 are fused together)\n",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-112",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "148 x 117 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1ts6b",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1ts6b",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac NF M 11, Overtext (Estrangela, Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  },
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Transitional Melkite Estrangela",
+                  "Palimpsest throughout with underwriting in Christian Palestinian Aramaic"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "19 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1nd60",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1nd60",
+                  "reconstruction": false,
+                  "label": "Cyril of Scythopolis, Life of Sabas",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Cyril of Scythopolis, Life of St. Saba (incomplete)",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1w88j",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1w88j",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                              "alt_name": [
+                                "Cyrillus Scythopolitanus",
+                                "Κύριλλος ο Σκυθοπολίτης"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 524-approximately 558",
+                                "iso": {
+                                  "not_before": "0499",
+                                  "not_after": "0583"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                                  "uri": "http://viaf.org/viaf/8181483",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                                  "uri": "https://id.loc.gov/authorities/names/n83228458",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                                  "uri": "https://w3id.org/haf/person/542390235937",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Cyril of Scythopolis ",
+                                  "uri": "http://syriaca.org/person/2806",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Cyrillus Scythopolitanus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/843/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "historical-works",
+                            "label": "Historical works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1–110",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "] ܕܟܬܒܝܢܢ ܬܫܥܝܬܗ ܕܡܪܝ ܣܒ (sic!) [     ܩ‍]‍ܕܝܫܐ ܕܗܘܐ ܒܡܕܒܪܐ ܕܐܘܪܫܠܡ ܕܐܝܬ ܒܗ ܪ̈ܝܫܐ ܬܫ̈ܥܝܢ",
+                          "translation": [
+                            "(‘[         ]’ we write the story of saint Mar Saba [          ] in the desert of Jerusalem, in 90 chapters’)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܪܝܫܐ ܩܕܡܝܐ܀ ܡܒܪܟ ܗ̣ܘ ܐܠܗܐ ܐܒܘܗܝ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ. ܗ̇ܘ ܕܐܩܝܡܟܘܢ ܡܫܡ̈ܠܐ ܒܡܝܬܪܘܬܐ. ܕܬܦܩܕܘܢ ܠܡܚܝܠܘܬܝ܆ ܕܒܟܬܒܐ ܐܫܕܪ ܠܟܘܢ ܐܘܪ̈ܚܬܗܘܢ ܘܥܡܠܝܗܘܢ ܕܗܠܝܢ ܕܩܕܡܘ ܫܦܪܘ ܠܐܠܗܐ ܐܒܗ̈ܬܢ ܩܕܝ̈ܫܐ. ܐܘܦܡܝܣ (sic!) ܘܣܐܒܐ …",
+                          "note": [
+                            "'= Εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ὁ διεγείρας τὴν ὑμετέραν ἐπ’ ἀρετῆι τελειότητα ἐπιτάξαι τῆι ἐμῆι οὐδενίαι ἀναγράπτους αὐτῆι ἀποστεῖλαι τὰς θεαρέστους τῶν προωδευκότων ἁγίων πατέρων ἡμῶν Εὐθυμίου καὶ Σάβα (ed. Schwartz, p. 85, lines 12–15)."
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܬܫܥܝܬܐ ܕܩܕܝܫܐ ܡܪܝ ܣܒܐ ܕܘܟܪܢܗ ܠܒܘܪܟܬܐ ܘܨܠܘܬܗ ܫܘܪܐ ܬܗܘܐ ܠܢ",
+                          "note": [
+                            "Reproduced from Philothée du Sinaï, p. 302"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "Ch. 1 (f. 1v; incomplete); Ch. 7 (f. 1bis r; acephalous), Ch. 8 (f. 1bis r–v; incomplete), Ch. 56 (ff. 65r–66r; beginning is inaccessible due to leaf adhesion), Ch. 57 (f. 66r; end is inaccessible due to leaf adhesion), Ch. 57 (f. 73r; beginning is inaccessible due to leaf adhesion) Ch. 58 (f. 73r–v), 59 (f. 73v; end is inaccessible due to leaf adhesion), Ch. 67 (ff. 81r–82r), Ch. 68 (f. 82r–v), Ch. 69 (ff. 82v–83v), Ch. 70 (f. 83v–84v), Ch. 71 (ff. 84v–86r), Ch. 72 (f. 86r–87v), Ch. 73 (ff. 87v–89v), Ch. 74 (ff. 89v–90v), Ch. 75 (ff. 90v–92r), Ch. 76 (ff. 92r–93r), Ch. 77 (f. 93r–v), Ch. 78 (ff. 93v–95r), Ch. 79 (f. 95r–v), Ch. 80 (f. 95v), Ch. 81 (f. 96r–v), Ch. 82 (Cod.: ‘83’; ff. 96v–97v), Ch. 83 (ff. 97v–99r), Ch. 84 (ff. 99r–100v), Ch. 85 (ff. 100v–102r), Ch. 86 (ff. 102r–104v), Ch. 87 (ff. 104v–106r), Ch. 88 (f. 106r–v), Ch. 89 (ff. 106v–108r), Ch. 90 (ff. 108r–110r)"
+                      ],
+                      "bib": [
+                        {
+                          "id": "2ca3ee97-88a5-4bd3-a828-9f8138446b93",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Schwartz 1939",
+                          "citation": "Schwartz, Eduard. Kyrillos von Skythopolis. Leipzig: 1939",
+                          "range": "p. 85–200",
+                          "note": [
+                            "Greek edition of the text"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1dd5f",
+                        "pref_title": "Life of St. Euthymios (Cyril of Scythopolis)",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1w88j",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1w88j",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                              "alt_name": [
+                                "Cyrillus Scythopolitanus",
+                                "Κύριλλος ο Σκυθοπολίτης"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "approximately 524-approximately 558",
+                                "iso": {
+                                  "not_before": "0499",
+                                  "not_after": "0583"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                                  "uri": "http://viaf.org/viaf/8181483",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                                  "uri": "https://id.loc.gov/authorities/names/n83228458",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Cyril, of Scythopolis, approximately 524-approximately 558",
+                                  "uri": "https://w3id.org/haf/person/542390235937",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Cyril of Scythopolis ",
+                                  "uri": "http://syriaca.org/person/2806",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Cyrillus Scythopolitanus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/843/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Vita S. Euthymii",
+                            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/13527/",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "Vita S. Euthymii ab. in eremo S. Civitatis",
+                            "idno": "7535",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "Cyril of Scythopolis, Life of St. Euthymios (incomplete)",
+                      "locus": "f. 112r–v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "[ܘܤܢܝܩܝܢ ܘܐܠܝܨ]ܝܢ ܘܡܛܪ̈[ܦܝܢ] [ܐܢܫܐ] ܕܠ‍[‍ܐ ܫܘܐ] ܗܘܐ [ܠ‍]‍ܗܘܢ ܥܠܡܐ. ܘܗܘܘ ܐܝܟ ܛܥܝ̈ܐ ܒܚܘܪ̈ܒܐ ܘܒܛܘܪ̈ܐ ܘܒܡܥܪ̈ܐ ܘܒܦܥܪ̈ܝܗ ܕܐܪܥܐ. ܠܗܢܐ ܕܘܒܪܐ ܢܩܦ ܗܘܐ ܡܪܝ ܐܘܬܡܝܣ ܛܘܒܢܐ …",
+                          "note": [
+                            "Text begins at: ch. 1",
+                            "= ὑστερούμενοι θλιβόμενοι κακουχού μενοι, ἐπ’ ἐρημίαις πλανώμενοι καὶ ὄρεσι καὶ σπηλαίοις καὶ ταῖς ὀπαῖς τῆς γῆς. τούτου τοῦ ἀνεπιλήπτου βίου μετασχὼν καὶ ὁ μέγας πατὴρ ἡμῶν Εὐθύμιος (ed. Schwartz, p. 8, lines 5–8)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "as_written": "… ܙܒܢܐ ܕܝܢ ܣܓܝܐܐ ܟܬܪܘ ܟܕ ܡܬܟܫܦܝܢ ܗܘܘ ܠܐܠܗܐ",
+                          "note": [
+                            "Text ends at: ch. 2",
+                            "= ἐπὶ συχνὸν χρόνον διέμειναν δεόμενοι τοῦ θεοῦ (ed. Schwartz, p. 8 line 25 – p. 9, line 1)"
+                          ]
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "2ca3ee97-88a5-4bd3-a828-9f8138446b93",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Schwartz 1939",
+                          "citation": "Schwartz, Eduard. Kyrillos von Skythopolis. Leipzig: 1939",
+                          "range": "p. 85–200",
+                          "note": [
+                            "Greek edition of the text"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-02-04T19:00:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1ts6b"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+                        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Philothée 2008",
+                "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+                "range": "[M11N], pp. 301-305"
+              },
+              {
+                "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Géhin 2017",
+                "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+                "range": "p. 183"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-02-04T19:00:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/r1vd6wc9"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). "
+                },
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1635g",
+          "label": "CPA Undertext: Catecheses",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 105–109, 110r, 111v, 112",
+          "uto_ms_ark": "ark:/21198/z1b09wx8",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1ss7d",
+          "label": "CPA Undertext: Gospel of John",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 73",
+          "uto_ms_ark": "ark:/21198/z12g8dgm",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1p366",
+          "label": "CPA Undertext: Gospel of Mark",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 81–88",
+          "uto_ms_ark": "ark:/21198/z1xq7x0b",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s12925",
+          "label": "CPA Undertext: Gospel of Matthew",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 65–66, 97–104",
+          "uto_ms_ark": "ark:/21198/z1fs0npp",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1xm08",
+          "label": "CPA Undertext: Gospel of Luke",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 89–96",
+          "uto_ms_ark": "ark:/21198/z167956b",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s19s6p",
+          "label": "Undetermined Undertext: Illegible or unidentified",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 64v, 67r, 72v, 74r, 80v",
+          "uto_ms_ark": "ark:/21198/z1kj1dcz",
+          "script": [
+            "Undetermined"
+          ],
+          "lang": [
+            "Undetermined"
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Philothée 2008",
+      "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+      "range": "[M11N], pp. 301-305"
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Géhin 2017",
+      "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+      "range": "p. 183"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr1vd6wc9/manifest",
+      "label": "SPP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1cf9rf4/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

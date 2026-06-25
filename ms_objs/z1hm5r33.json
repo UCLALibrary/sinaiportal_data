@@ -31,6 +31,24 @@
             "id": "overtext",
             "label": "Overtext"
           }
+        },
+        {
+          "id": "ark:/21198/s1qd23",
+          "label": "Greek Undertext: Liturgy of Basil the Great and of the Presanctified Gifts",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 91–106, 141–147"
+        },
+        {
+          "id": "ark:/21198/s1kk97",
+          "label": "Greek Undertext: Sticherarion with Coislin Musical Notation",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 9–50, 51, 51a, 52–90, 119–124, 148–154"
         }
       ],
       "related_mss": [
@@ -53,26 +71,6 @@
           ]
         }
       ]
-    }
-  ],
-  "layer": [
-    {
-      "id": "ark:/21198/s1qd23",
-      "label": "Greek Undertext: Liturgy of Saint Basil",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 91–106, 141–147"
-    },
-    {
-      "id": "ark:/21198/s1kk97",
-      "label": "Greek Undertext: Sticherarion",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 9–50, 51, 51a, 52–90, 119–124, 148–154"
     }
   ],
   "location": [
@@ -127,6 +125,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {

@@ -1,0 +1,106 @@
+{
+  "ark": "ark:/21198/z1mg975v",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 2 B",
+  "summary": "(Christian Palestinian Aramaic) Gospel Lectionary / Evangelion (Byzantine rite)",
+  "extent": "152 ff.",
+  "weight": "1490.1 g",
+  "dim": "239 x 196 x 89 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "I: ff. 3–8 ; II: ff. 9–16 ; III: ff. 17–24 ; IV: ff. 25–32 ; V: ff. 33–38 ; VI: ff. 39–46 ; VII: ff. 47–54 ; VIII: ff. 55–62 ; IX: ff. 63–70 ; X: ff. 71–78 ; XI: ff. 79–86 ; XII: ff. 87–94 ; XIII: ff. 95–102 ; XIV: ff. 103–110 ; XV: ff. 111–118 ; XVI: ff. 119–126 ; XVII: ff. 127–134 ; XVIII: ff. 135–142 ; XIX: ff. 143–151 ; XX: ff. 152–154 (followed by an unnumbered blank half-folio)",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 3-154",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "layer": [
+        {
+          "id": "ark:/21198/s1q91p",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "repository": "St. Catherine's Monastery of the Sinai",
+      "collection": "Old Collection"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[2], p. 161"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "label": "SLDP",
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1mg975v/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1mg975v%2F1055qt8x/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.4",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ]
+}

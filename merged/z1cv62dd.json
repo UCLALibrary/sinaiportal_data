@@ -1,0 +1,297 @@
+{
+  "ark": "ark:/21198/z1cv62dd",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 41",
+  "summary": "Psalter (incomplete; Peshitta version)",
+  "extent": "47 ff.",
+  "weight": "118.7 g",
+  "dim": "140 x 98 x 26.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "I: ff. 1–8 (one folio between ff. 1 and 2 is missing; f. 1 is a later restoration) ; II (Georgian XVIII): ff. 9–18 ; III (Georgian XVII): ff. 19–28 ; IV (Georgian XVI): ff. 29–38 ; V (Georgian XV): ff. 39–47 (last folio is missing) ; [VI is today Van Kampen collection, VK 631, first gathering; first and final folios are missing] ; [VII is today Van Kampen collection, VK 631, second gathering; first folio is missing; last folio is Sinai Syr. NF M87N] ; [VIII is today Van Kampen collection, VK 631, third gathering; first folio is missing; last folio is Sinai Syr. NF Sparagma 9] ; [IX – XVIII are today Leiden Or. 14237, with some missing folios] ; [XIX is today Biblioteca Ambrosiana, A 296 inf., ff. 195–197 = Chabot 77; probably seven folios are missing]",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-47",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Van Kampen collection, VK 631"
+            },
+            {
+              "label": "Sinai Syriac NF M 87",
+              "id": "ark:/21198/z1f784sb"
+            },
+            {
+              "label": "Sinai Syriac NF frag. 9"
+            },
+            {
+              "label": "Leiden Or. 14237"
+            },
+            {
+              "label": "Biblioteca Ambrosiana, A 296 inf. (ff. 195–197 = Chabot 77)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1q320",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1q320",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 41, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "20–23 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1hq1z",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1hq1z",
+                  "reconstruction": false,
+                  "label": "Sayings of SS. Macarius, John Carpatheus, Isaac of Nineveh and Gregory Nazienzis",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1d886",
+                        "pref_title": "Psalter",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Psalter (incomplete; Peshitta version)",
+                      "locus": "ff. 1r–47v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܛܘܒܘܗܝ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܡܛܠ ܕܐܠܗܐ ܢܒܕܪ ܓܪ̈ܡܝܗܘܢ",
+                          "note": [
+                            "Corresponds to Ps. 53:6"
+                          ]
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "f3f683e1-ab37-4103-995e-460bb58ae363",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Walter, Vogel, and Ebied 1980",
+                          "citation": "Walter, D. M., in collaboration with Adalbert Vogel, and Rifaat Y. Ebied. The Old Testament in Syriac according to the Peshitta Version, II.3 The Book of Psalms. Leiden: Brill, 1980"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-02-04T19:00:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1q320"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[3], p. 151"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386553-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-02-04T19:00:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1cv62dd"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[3], p. 151"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386553-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1cv62dd/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1cv62dd%2Ffq53hr01/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Iasonas Nikiteas"
+        ],
+        "imaging_date": "2019 November",
+        "delivery": "8",
+        "condition_category": "2",
+        "imaging_system": "Stokes-PBC, 930 ppi, 120mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

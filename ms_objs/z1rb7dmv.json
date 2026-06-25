@@ -30,37 +30,35 @@
             "id": "overtext",
             "label": "Overtext"
           }
+        },
+        {
+          "id": "ark:/21198/s15923",
+          "label": "Church Slavonic Undertext: Unknown",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 141av, 141bv, stub-141br"
+        },
+        {
+          "id": "ark:/21198/s11h05",
+          "label": "Latin Undertext: Unknown",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "f. 141av"
+        },
+        {
+          "id": "ark:/21198/s1906r",
+          "label": "Church Slavonic Undertext: Unknown",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 141a, stub-141a, 141b, stub-141b, 141c, stub-141c"
         }
       ]
-    }
-  ],
-  "layer": [
-    {
-      "id": "ark:/21198/s15923",
-      "label": "Church Slavonic Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 141av, 141bv, stub-141br"
-    },
-    {
-      "id": "ark:/21198/s11h05",
-      "label": "Church Slavonic Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "f. 141av"
-    },
-    {
-      "id": "ark:/21198/s1906r",
-      "label": "Latin Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 141a, stub-141a, 141b, stub-141b, 141c, stub-141c"
     }
   ],
   "location": [
@@ -94,6 +92,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {

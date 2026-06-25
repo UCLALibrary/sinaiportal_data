@@ -1,0 +1,379 @@
+{
+  "ark": "ark:/21198/z1795p8x",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 18",
+  "summary": "Menaion for September, October, November and December (incomplete)",
+  "extent": "251 ff.",
+  "weight": "1867.9 g",
+  "dim": "255 x 205 x 96 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "[I A 296 inf., f. 257 (= Chabot 73) (to be checked!)] Syriac 18, ff. 1–8 (?)] ; II ff. 9 (?)–16 ; III ff. 17–25, 1 f. cut off between ff. 22v and 23r ; IV ff. 26–33 ; V ff. 34–42 ; VI ff. 43–50 ; VII ff. 51–58 ; VIII ff. 59–66 ; IX ff. 67–74 ; X ff. 75–82 ; XI ff. 83–90 ; XII ff. 91–98 ; XIII ff. 99–106 ; XIV ff. 107–114 ; XV ff. 115–122 ; XVI ff. 123–130 ; XVII ff. 131–138 ; insertion\tff. 139–144 ; XVIII ff. 145–152 ; XIX ff. 153–160 ; XX ff. 161–168 ; XXI ff. 169–177, 1 f. cut off between ff. 169v and 170r ; XXII ff. 178–185 ; XXIII ff. 186–194, 1 f. cut off between ff. 187v and 188r ; XXIV ff. 195–202 ; XXV ff. 203–210 ; XXVI ff. 211–219, 1 f. cut off between ff. 213v and 214r ; XXVII ff. 220–227 ; XXVIII ff. 228–235 ; XXIX ff. 236–243 ; XXX ff. 244–251 ; [XXXI A 296 inf., ff. 258–265 (= Chabot 73) (to be checked!)]",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1–251",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Biblioteca Ambrosiana, A 296 inf. (ff. 257-275 = Chabot 73)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1ws5k",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1ws5k",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 18, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Writing in Greek on back pastedown (troparion to the Holy Cross)"
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black",
+                  "red",
+                  "green"
+                ],
+                "note": [
+                  "Black and red ink used in the text; black, red and green colours used in ornamentation"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "ca. 24 lines",
+                "note": [
+                  "Traces of ruling with hard point marking borders of the writing area"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1qd57",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1qd57",
+                  "reconstruction": false,
+                  "label": "Menaion for September, October, November and December (Byzantine, with local variations of the Antiochene region) (incomplete)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1bg6w",
+                        "pref_title": "Menaion",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Menaion for September, October, November and December (Byzantine, with local variations of the Antiochene region) (incomplete)",
+                      "locus": "ff. 1r-251v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "[ܒܫܡ ܐܠܗܐ ܡܚܟܡ ܠܟܘܠ. ܟܬܒܝܢܢ ܩܢܘ̈ܢܐ ܕܟܪܘܟܝܗ̇ ܕܫܢܬܐ ܟܠܗ̇ ܐܝܟ ܪܘܫܡܐ ܕܝܘ̈ܢܝܐ. ܡܫܪܐ ܕܝܢ ܡܢ ܐܝܠܘܠ ܝܪܚܐ ܕܗܘ ܐܝܬܘܗܝ ܪܝܫ ܫܢܬܐ.]",
+                          "translation": [
+                            "In the name of all-knowing God, we start the canons of the whole year according to the indication of the Greeks. We start then from the month of Ēlūl (September) which is the beginning of the year."
+                          ],
+                          "note": [
+                            "Supplied from A 296 inf., f. 257r (= Chabot 73)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 1r",
+                          "as_written": ".ܕܐܒܐ ܓܢܝܙܐ. ܘܠܥܘܫܢܗ ܕܡ̇ܘܬܐ. ܫ̣ܪܐ ܘܒ̇ܛܠ ܘܫ̇ܟܚ ܚ̈ܝܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 251v",
+                          "as_written": "ܬܫ(ܒܘܚܬܐ)܇ ܓ܇ ܠܘ(ܩܒܠ)܇ ܐܢܬ ܗܘ ܗܘ ܥܘܫܢܐ. ܐܝܢ̣ܐ ܠܐ ܡܙܕܟܝܢܐ. ܥܘܫܢܗ"
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Ēlūl (September)",
+                          "locus": "ff 1r-84v",
+                          "note": [
+                            "[1. St Symeon the Stylite, Beginning of the Year]: [Canon on the Beginning of the Year, mode 1] (ff. 1r–2r) (= Syriac 44, ff. 9r–11r)], Odes 3 (acephalous, continues presumably from A 296 inf., f. 257 (= Chabot 73)), 4, 5, 6, 7, 8, 9; Exapostilarion (f. 2r–v); Troparion on God is the Lord to St Symeon, mode 1 (f. 2v); Kathismata, various modes (ff. 2v–3r); Stichera, various modes (ff. 3r–4v); Canon [on St Symeon the Stylite] “by Father John”, mode 8 (ff. 4v–7r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 7r); Another canon on the same saint, mode 4 (ff. 7r–10r), Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "2. Holy Martyr Mamas of Caesarea (ff. 10r–14r): Troparion on God is the Lord, mode 4 (f. 10r); Kathisma, mode 8 (f. 10r); Stichera, mode 8 (ff. 10r–v); Canon, mode 4 (ff. 10v–14r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 14r)",
+                            "4. Holy Martyr Babylas, the Archbishop of Antioch (ff. 14r–17v): Troparion on God is the Lord, mode 4 (incipit only) (f. 14r); Kathisma, mode 8 (f. 14r); Stichera, mode 5 (ff. 14r–v); Canon, mode 6 (ff. 14v–17v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 17v)",
+                            "5. Holy Martyrs Thouthail and Boethius (ff. 17v–24v): Troparion on God is the Lord, mode 5 (incipit only) (f. 17v); Kathisma on St Thouthail, mode 1 (f. 17v); Another [kathisma] on St Boetius, mode 8 (f. 17v); Stichera on St Thouthail, various modes (ff. 17v–18r); Other [stichera] on St Boetius, mode 4 (f. 18r–v); Canon on St Thouthail, mode 8 (ff. 18v–21r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 21r); Canon on St Boethius mode 8 (ff. 21r–24r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 24r–v)",
+                            "6. Archangel Michael (f. 24v): See akolouthia of 8 Teshrīn II (November)",
+                            "7. Venerable Abraham, a former robber who repented in a women’s monastery (f. 24v–28r): Kathisma on God is the Lord, mode 2 (incipit only) (f. 24v); Kathisma, mode 8 (f. 24v); Stichera, various modes (ff. 24v–25v); Canon, mode 4 (ff. 25v–28r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 28r)",
+                            "8. Nativity of the Mother of God (ff. 28r–34r): Kathisma on God is the Lord, mode 1 (f. 28r–v); Kathismata, various modes (ff. 28v–29r); Stichera, various modes (ff. 29r–30v); Canon, mode 2 (ff. 30v–32v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Another canon on the Mother of God, mode 4 (ff. 32v–34r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilaria (f. 34r)",
+                            "9. Holy and Righteous Parents of the Mother of God Joachim and Anna (ff. 34r–36v): Kathisma on God is the Lord and other kathismata are the same as above (f. 34r); Stichera, mode 2 (ff. 34r–v); Canon, mode 2 (ff. 34v–36v), Odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "10. St Barhadbeshabba “who was blind, put some of the Blood of Christ on his eyes and could see” (ff. 36v–39v): Kathisma, mode 2 (incipit only) (f. 36v); Stichera, mode 5 (ff. 36v–37r); Canon, mode 5 (ff. 37r–39v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 39v)",
+                            "13. Dedication of the Church of the Lord’s Resurrection in Jerusalem (ff. 39v–44r): Kathisma on God is the Lord, mode 4 (f. 40r); Kathismata, various modes (ff. 40r); Stichera, various modes (ff. 40v–41v); Canon, mode 4 (ff. 41v–44r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 44r)",
+                            "14. Exaltation of the Holy Cross; passing away of the Archbishop of Constantinople St John Chrysostom, “see the akolouthia of 13 Teshrīn II (November)” (ff. 44r–49r): Troparion on God is the Lord, mode 1 (f. 44r); Kathismata, various modes (f. 44r–v); Stichera, various modes (ff. 44v–45v); “Canon to the Feast of the Cross, mode 8, composition of father John Damascene bar Manṣūr” (ff. 45v–48v), Odes 1, 3, 4, 5, 6, 7, 8, 9: Another heirmos of the same ode [9], mode 8 (f. 48v); Exapostilaria (f. 48v–49r)",
+                            "16. Holy Martyr Euphemia (ff. 49r–52r): Troparion on God is the Lord, mode 4 (f. 49r); Kathisma, mode 1 (f. 49r); Stichera, various modes (ff. 49r–50r); Canon, mode 8 (ff. 50r–52r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 52r)",
+                            "17. Holy Martyr Sophia (Wisdom) and her three daughters: Pistis (Faith), Elpis (Hope) and Agape (Love) (ff. 52r–55v): Troparion on God is the Lord, mode 4 (incipit only) (f. 52r); Kathisma, mode 1 (f. 52r–v); Stichera, mode 4 (f. 52v); Canon, mode 1 (ff. 53r–55v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 55v)",
+                            "20. Holy Martyr Eustathius, his wife and sons, [martyred] in Rome (ff. 55v–59r): Troparion on God is the Lord, mode 4 (incipit only) (f. 55v); Kathisma, mode 8 (f. 56r); Stichera, mode 2 (f. 56r–v); Canon, mode 8 (ff. 56v–58v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilaria (ff. 58v–59r)",
+                            "21. “Feast of the Mother of God when She has performed a miracle on the dragon that she killed, in the monastery known as Daphnōnā on the Black Mountain in the region of Antioch” (ff. 59r–61v): Stichera, mode 1 (f. 59r–v); Canon, mode 4 (ff. 59v–61v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 61v)",
+                            "22. Holy Martyr Phokas and his disciple John (ff. 61v–64v): Troparion on God is the Lord [common] for the martyrs (no text) (f. 61v); Kathisma, mode 5 (f. 61v); Stichera, mode 8 (ff. 61v–62r); Canon, mode 8 (ff. 62r–64v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 64v)",
+                            "23. Annunciation to the priest Zechariah about [the conception of] St John the Baptist (ff. 64v–68r): Kathisma on God is the Lord, mode 6 (f. 64v); Kathismata, various modes (ff. 64v–65r); Stichera, various modes (f. 65r–v); Canon, mode 6 (ff. 65v–68r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 68r)",
+                            "24. Holy Protomartyr Thecla (ff. 68r–71v): Troparion on God is the Lord (incipit only) (f. 68r); Kathisma, mode 8 (f. 68r); Stichera, mode 2 (f. 68r–v); Canon, mode 8 (ff. 68v–71r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 71r–v)",
+                            "26. Passing away of St John the Evangelist (ff. 71v–74v): Troparion on God is the Lord, mode 2 (f. 71v); Kathisma, mode 8 (f. 71v); Stichera, mode 8 (ff. 71v–72r); Canon, mode 2 (ff. 72r–74v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 74v)",
+                            "27. [Feast of] Our Lady Mary, the Helper of Martyrs (ff. 74v–78v): Troparion on God is the Lord (incipit only) (f. 74v); Kathisma, mode 1 (f. 74v); Stichera, mode 8 (ff. 74v–75r); Canon, mode 8 (ff. 75r–78v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (incipit only) (f. 78v)",
+                            "28. St Chariton of Jerusalem (ff. 78v–81v): Troparion on God is the Lord [common] to the venerable (f. 78v); Kathisma, mode 8 (f. 78v); Stichera, mode 4 (ff. 78v–79v); Canon, mode 4 (ff. 79v–81v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (incipit only) (f. 81v)",
+                            "29. Passing away of the Venerable Cyriacus of Jerusalem (ff. 81v–84v): Troparion on God is the Lord, mode 2 (f. 81v); “Kathisma common to the venerable or whatever you wish” (no text) (f. 81v); Stichera, mode 8 (ff. 81v–82r); Canon, mode 8 (ff. 82r–84v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion, [common] to the venerable (f. 84v)."
+                          ]
+                        },
+                        {
+                          "label": "Teshrīn I (October)",
+                          "locus": "ff. 85r-158r",
+                          "note": [
+                            "1. Apostle Ananias who baptized Apostle Paul (ff. 85r–87v): Troparion on God is the Lord, mode 6 (f. 85r); Kathisma, mode 1 (f. 85r); Stichera, mode 2 (f. 85r–v); Canon, mode 8 (ff. 85v–87v), Odes 1, 3, 4, 5, 6, 7, 8, 9; “Exapostilarion, chant [common] to the apostles” (no text) (f. 87v)",
+                            "2. Bishop Cyprian and Justina the Virgin (ff. 87v–92r): Troparion on God is the Lord (incipit only) (f. 87v); Kathisma, mode 8 (ff. 87v–88r); Stichera, various modes (ff. 88r–89v); Canon, mode 8 (ff. 89v–91v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilaria (ff. 91v–92r)",
+                            "3. Great [Martyr] Dionysius (ff. 92r–95r): Troparion on God is the Lord, mode 4 (f. 92r); Kathisma, mode 8 (f. 92r); Stichera, various modes (ff. 92r–v); Canon, mode 8 (ff. 92v–95r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 95r)",
+                            "6. Apostle Thomas from the Twelve (ff. 95r–98v): Troparion on God is the Lord, mode 3 (f. 95r); Kathisma, mode 8 (f. 95r); Stichera, mode 8 (f. 95r–v); Canon, mode 4 (ff. 95v–98r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilaria (f. 98r–v)",
+                            "7. Holy Martyr Sergius and his companion Bacchus (ff. 98v–106r): Troparion on God is the Lord, mode 5 (f. 98v); Kathismata, various modes (f. 98v–99r); Stichera, various modes (ff. 99r–101r); Canon, mode 1 (ff. 101r–103v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Another canon on the same martyrs, mode 8 (ff. 103v–106r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 106r)",
+                            "9. James, the son of Alphaeus, Apostle from the Twelve (ff. 106r–109r): Troparion on God is the Lord, mode 3 (incipit only) (f. 106r); Kathisma, mode 8 (f. 106r–v); Stichera, mode 4 (f. 106v–107r); Canon, (composition of the Venerable Theophanus), mode 6 (ff. 107r–109r), Odes 1, 3, 4, 5, 6, 7, 8, 9; “Exapostilarion, chant [common] for apostles” (no text) (f. 109r). Holy Martyrs Stratonicus and Seleucus (ff. 109r–112v): Troparion on God is the Lord, mode 4 (incipit only) (f. 109r); Kathisma, mode 8 (f. 109r–v); Stichera, various modes (f. 109v–110v); Canon, mode 8 (ff. 110v–112v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 112v)",
+                            "10. Venerable Euthalius (ff. 113r–115v): Troparion on God is the Lord, mode 2 (incipit only) (f. 113r); Kathismata, mode 5 (f. 113r); Stichera, mode 5 (ff. 113r–v); Canon, mode 5 (ff. 113v–115v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 115v)",
+                            "11. Seven [Ecumenical] Councils (ff. 115v–120r): Kathisma on God is the Lord, mode 8 (incipit only) (f. 115v); Kathismata, mode 8 (f. 115v); Stichera, mode 8 (ff. 115v–116r); Canon, mode 8 (ff. 116r–119v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilaria (f. 119v–120r)",
+                            "13. Holy Martyr Eustathius of Qenneshrin (ff. 120r–123r): Troparion on God is the Lord, mode 3 (incipit only) (f. 120r); Kathisma, mode 4 (f. 120r); Stichera, mode 2 (f. 120r–v); Canon, mode 4 (ff. 120v–123r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (ff. 123r)",
+                            "18. Apostle Luke the Evangelist (ff. 123r–127r): Kathisma on God is the Lord, mode 3 (incipit only) (f. 123r); Kathismata, mode 8 (f. 123r–v); Stichera, mode 8 (ff. 123v–124r); Canon, mode 8 (ff. 124r–126v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 126v–127r)",
+                            "19. Holy Martyr Bishop Conon and Holy Martyr Varus (ff. 127r–133r): Troparion on God is the Lord, mode 4 (incipit only) (f. 127r); [Another troparion] on a martyr, mode 3 (incipit only) (f. 127r); Kathisma on the Bishop [Conon], mode 1 (f. 127r); Another [kathisma] on the Martyr Varus, mode 5 (f. 127r); Stichera on the Bishop [Conon], mode 5 (ff. 127r–v); Stichera on the Holy Martyr Varus, mode 1 (f. 127v–128r); Canon on the Bishop [Conon], mode 4 (ff. 128r–130r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Canon on the Holy Martyr Varus, mode 6 (ff. 130r–133r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 133r); Exapostilarion on St Conon (f. 133r)",
+                            "21. Passing away of the Venerable Hilarion (ff. 133r–136v): Troparion on God is the Lord (incipit only) (f. 133r); Kathisma, mode 8 (f. 133r–v); Stichera, mode 4 (f. 133v–134r); Canon, mode 5 (ff. 134r–136v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (ff. 136v)",
+                            "22. Seven Youths of Ephesus (ff. 136v–138v): Troparion on God is the Lord, mode 5 (incipit only) (f. 136v); Stichera, mode 2 (f. 136v); Canon, mode 8 (ff. 136v–138v); “Exapostilarion [common] for the holy martyrs” (no text) (f. 138v)",
+                            "20. Holy Martyr Artemius (ff. 139r–144v) (insertion from another parchment manuscript, presumably of the same age and origin, ff. 139r–144v): Troparion on God is the Lord, mode 3 (f. 139r); Kathisma, mode 8 (f. 139r–v); Stichera, mode 1 (f. 139v–140r); Canon, mode 2 (ff. 140r–144v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (ff. 144v)",
+                            "23. Apostle James, [the Brother] of Our Lord (ff. 145r–148r): Troparion on God is the Lord, mode 3 (f. 145r); Kathisma, mode 8 (f. 145r); Stichera, mode 1 (f. 145r–v); Canon, mode 8 (ff. 145v–148r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (ff. 148r)",
+                            "26. Holy Martyr Demetrius (ff. 148v–159v): Troparion on God is the Lord, mode 3 (f. 148v); “Kathisma, say [common] to the martyrs” (no text) (f. 148v); [Stichera], mode 8 (ff. 148v–149r); Canon, mode 4 (ff. 149r–151v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Another canon on St Demetrius, mode 6 (ff. 151v–154v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 154v); Another canon on the Finding of the Head of St John the Baptist, mode 6 (ff. 154v–158r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 158r)."
+                          ]
+                        },
+                        {
+                          "label": "Teshrīn II (November)",
+                          "locus": "ff. 158r-239r",
+                          "note": [
+                            "1. Holy Martyrs Cosmas and Damian (ff. 158r–164v): Troparion on God is the Lord, mode 8 (f. 158r); Kathisma, mode 8 (f. 158r–v); Stichera, mode 6 (f. 158v–159r); Canon, mode 4 (ff. 159r–161v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Another canon on the same, mode 6 (ff. 161v–164v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 164v)",
+                            "3. Dedication of the Church of the Great Martyr George in Lydda (ff. 164v–167v): “Kathismata and stichera – see for 13 Ēlūl” (f. 164v); Other stichera, mode 4 (ff. 164v–165r); Canon, mode 2 (ff. 165r–167v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 167v)",
+                            "8. Archangel Michael (ff. 167v–174r): Troparion on God is the Lord, mode 4 (f. 167v–168r); Kathisma, mode 8 (f. 168r); Stichera, various modes (f. 168r–v); Canon, mode 5 (ff. 168v–171r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Another canon on the angels, mode 8 (ff. 171r–173v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 174r)",
+                            "11. Holy Martyr Menas of Alexandria (ff. 174r–176v): “Troparion on God is the Lord – say common” (f. 174r); Kathisma, mode 5 (f. 174r); Stichera, mode 1 (f. 174r–v); Canon, mode 4 (ff. 174v–176v), Odes 1, 3, 4, 5, 6, 7, 8, 9; “Exapostilarion – say common” (f. 176v)",
+                            "12. Archbishop St John the Merciful (ff. 176v–180r): Troparion on God is the Lord, mode 5 (f. 176v–177r); Kathisma, mode 8 (f. 177r); Stichera, mode 4 (f. 177r–v); Canon, mode 4 (ff. 177v–180r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 180r)",
+                            "13. Archbishop St John Chrysostom (ff. 180r–188r): Troparion on God is the Lord, mode 8 (f. 180r); Kathisma, mode 8 (f. 180r); Stichera, mode 4, 2 sets (ff. 180r–181r); “Other stichera are written for 27 Kānūn II (January), with two other canons” (no text) (f. 181r); Canon, mode 8 (ff. 181r–184r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Another canon on St John Chrysostom, “composition of Father John Damascene”, mode 8 (ff. 184r–188r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 188r)",
+                            "14. Apostle Philip from the Twelve (ff. 188r–191v): Troparion on God is the Lord, mode 3 (incipit only) (f. 188r); “The rest of kathismata – chant the common on apostles” (no text) (f. 188r); Stichera, mode 8 (ff. 188r–v); Canon, mode 6, “composition of Theophanes” (ff. 188v–191v), Odes 1, 3, 4, 5, 6, 7, 8, 9; “Exapostilarion from the common” (no text) (f. 191v)",
+                            "15. Holy Confessors Shamuna, Guria and Habib of Edessa (ff. 191v–196v): Kathisma on God is the Lord, mode 5 (incipit only) (f. 191v); Another kathisma, mode 8 (f. 191v); Stichera, mode 6 (ff. 191v–192r); Canon, mode 8 (ff. 192r–196r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 196r–v)",
+                            "17. Bishop St Gregory Thaumaturgus (ff. 196v–199r): “Kathismata and stichera chant either [common] on bishops or whatever you wish” (no texts) (f. 196v); Canon, mode 2 (ff. 196v–199r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 199r)",
+                            "18. Holy Martyrs Plotinus and Romanus (ff. 199r–206v): Troparion on God is the Lord, mode 5 (incipit only) (f. 199r); Kathisma on Holy Martyr Plotinus, mode 8 (f. 199r–v); Another [kathisma] on Holy Martyr Romanus, mode 1 (f. 199v); “Stichera – chant whatever you wish” (no text) (ff. 199v); Canon on Holy Martyr Plotinus, mode 8 (ff. 199v–203r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Another canon on Holy Martyr Romanus, mode 1 (ff. 203r–206v), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 206v)",
+                            "21. Entry of the Mother of God into the Temple (ff. 206v–212r): Troparion on God is the Lord, mode 4 (f. 206v); Another [troparion on God is the Lord], mode 4 (f. 206v); Kathismata, various modes (f. 206v–207r); Stichera, various modes (ff. 207r–208v); Canon, mode 4 (ff. 208v–212r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 212r)",
+                            "24. Bishop St Gregory of Agrigento (ff. 212r–217v): Troparion on God is the Lord, mode 8 (f. 212r); Kathisma, mode 8 (f. 212r–v); Stichera, various modes (ff. 212v–213v); Canon, “composition by Father Joseph”, mode 8 (ff. 213v–217v), Odes 1, 3, 4, 5, 6, 7, 8, 9; “Exapostilarion – from common on priests” (no text) (f. 217v)",
+                            "25. St Peter, the Archbishop of Alexandria (ff. 217v–221r): Troparion on God is the Lord, mode 4 (incipit only) (f. 217v); Kathismata, mode 8 (f. 217v–218r); Stichera, mode 4 (f. 218r); Canon, mode 4 (ff. 218r–221r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 221r)",
+                            "27. “Holy Martyr Jacob, who was mutilated in Persia and the Venerable Palladius” (ff. 221r–229v): Troparion on God is the Lord, mode 3 (incipit only) (f. 221r); [Troparion on God is the Lord] on the venerable, mode 2 (incipit only) (f. 221r); Kathisma to the martyr, mode 1 (f. 221r–v); Other [kathismata] to the venerable, various modes (f. 221v); Stichera to the martyr, mode 6 (ff. 221v–222r); Stichera to the venerable, various modes (ff. 222r–223r); Canon to the Holy Martyr Jacob, mode 8 (ff. 222r–226r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Canon to the Venerable Palladius, mode 8 (ff. 226r–229r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 229v); [Exapostilarion] to the martyr (incipit only) (f. 229v)",
+                            "30. “Apostle Andrew, from the Twelve, brother of the Supreme Apostle Peter” (ff. 229v–239r): Troparion on God is the Lord, mode 3 (incipit only) (f. 229v); Stichera, various modes (ff. 229v–231r); Kathisma, mode 8 (f. 231r); Canon “by Father John”, mode 1 (ff. 231r–236r), Odes 1, 3, 4, 5, 6, 7, 8, 9 (odes alternate with those on the martyr); Another canon to the Apostle Andrew, mode 2 (f. 236r–239r), Odes 1, 3, 4, 5, 6, 7, 8, 9; Exapostilarion (f. 239r)."
+                          ]
+                        },
+                        {
+                          "label": "Kānūn I (December)",
+                          "locus": "ff. 239r-258r",
+                          "note": [
+                            "4. “Holy Martyrs Barbara and Julian and passing away of the Venerable writer John Damascene” (ff. 239r–249v): Troparion on God is the Lord, mode 4 (incipit only) (f. 239r); “[Another troparion] to the venerable – chant the one to the Archbishop Basil” (f. 239r–v); Kathismata to the martyr, various modes (f. 239v); Stichera, various modes (ff. 240r–241r); [Stichera] to John, various modes (ff. 241r–v); Canon, mode 2 (ff. 241v–246r), Odes 1, 3, 4, 5, 6, 7, 8, 9 (odes alternate with those of Father John); Another canon to St Barbara, mode 2 (ff. 246r–249v); Exapostilarion (f. 249v)",
+                            "5. Passing away of the Venerable Sabas of Jerusalem (ff. 249v–251v) (incomplete): Troparion on God is the Lord, mode 4 (incipit only) (f. 249v); Kathisma, mode 8 (f. 249v–250r); Stichera, various modes (ff. 250r–251r); Canon, mode 8 (ff. 251r–v) (incomplete), Odes 1, 3 (continues presumably in A 296 inf., ff. 258r)"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Natalia Smelova"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:54:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1ws5k"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[122], p. 155"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386346-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Natalia Smelova"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:54:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1795p8x"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[122], p. 155"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386346-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1795p8x/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1795p8x%2Fp704tk90/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:54:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.4",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

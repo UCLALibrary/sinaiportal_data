@@ -31,6 +31,42 @@
             "id": "overtext",
             "label": "Overtext"
           }
+        },
+        {
+          "id": "ark:/21198/s1jm0v",
+          "label": "Greek Undertext: Liturgical Typikon",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 47–102"
+        },
+        {
+          "id": "ark:/21198/s1xw7p",
+          "label": "Greek Undertext: Kanon on Saint Eupraxia",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 56, 61"
+        },
+        {
+          "id": "ark:/21198/s1t34p",
+          "label": "Greek Undertext: Questions and Answers (?)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 80, 85"
+        },
+        {
+          "id": "ark:/21198/s1pd35",
+          "label": "Greek Undertext: Makarismoi from a Parakletike",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 81, 84, 89, 92, 95–96, 101–102"
         }
       ],
       "related_mss": [
@@ -53,44 +89,6 @@
           ]
         }
       ]
-    }
-  ],
-  "layer": [
-    {
-      "id": "ark:/21198/s1jm0v",
-      "label": "Greek Undertext: Clement the Hymnographer, Kanon on Saint Eupraxia",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 47–102"
-    },
-    {
-      "id": "ark:/21198/s1xw7p",
-      "label": "Greek Undertext: Questions and Answers",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 56, 61"
-    },
-    {
-      "id": "ark:/21198/s1t34p",
-      "label": "Greek Undertext: Paraklesis",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 80, 85"
-    },
-    {
-      "id": "ark:/21198/s1pd35",
-      "label": "Greek Undertext: Typikon",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 81, 84, 89, 92, 95–96, 101–102"
     }
   ],
   "location": [
@@ -145,6 +143,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {

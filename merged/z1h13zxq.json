@@ -161,6 +161,72 @@
             }
           }
         }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1bp7b",
+          "label": "Georgian Undertext: Hymnary (Heirmologion with Theotokia)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 123v, 138r",
+          "uto_ms_ark": "ark:/21198/z1cw58rb",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1gh06",
+          "label": "Georgian Undertext: Hymnary (Iadgari, Assumption)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 144–145, 204–205, 208–209, rear pastedown, 140–141",
+          "uto_ms_ark": "ark:/21198/z1s28thd",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1362f",
+          "label": "Georgian Undertext: Hymnary",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 130–131, 143, 146",
+          "uto_ms_ark": "ark:/21198/z1nd6s6d",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1zh1x",
+          "label": "Greek Undertext: Unidentified text",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff, 206–207",
+          "uto_ms_ark": "ark:/21198/z1hn61fm",
+          "script": [
+            "Undetermined (Greek)"
+          ],
+          "lang": [
+            "Greek"
+          ]
+        }
       ]
     }
   ],
@@ -215,6 +281,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {
@@ -229,56 +301,8 @@
   },
   "uto": [
     {
-      "uto_layer_ark": "ark:/21198/s1bp7b",
-      "label": "Georgian Undertext: Iadgari, Assumption",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 123v, 138r",
-      "uto_ms_ark": "ark:/21198/z1cw58rb",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1gh06",
-      "label": "Georgian Undertext: Heirmologion",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 144–145, 204–205, 208–209, rear pastedown, 140–141",
-      "uto_ms_ark": "ark:/21198/z1s28thd",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1362f",
-      "label": "Georgian Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 130–131, 143, 146",
-      "uto_ms_ark": "ark:/21198/z1nd6s6d",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
       "uto_layer_ark": "ark:/21198/s1705r",
-      "label": "Georgian Undertext: Hymns",
+      "label": "Georgian Undertext: Unidentified",
       "type": {
         "id": "undertext",
         "label": "Undertext"
@@ -290,22 +314,6 @@
       ],
       "lang": [
         "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1zh1x",
-      "label": "Greek Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff, 206–207",
-      "uto_ms_ark": "ark:/21198/z1hn61fm",
-      "script": [
-        "Undetermined (Greek)"
-      ],
-      "lang": [
-        "Greek"
       ]
     }
   ]

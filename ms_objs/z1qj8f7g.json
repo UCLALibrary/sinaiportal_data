@@ -31,46 +31,44 @@
             "id": "overtext",
             "label": "Overtext"
           }
+        },
+        {
+          "id": "ark:/21198/s12k9k",
+          "label": "Greek Undertext: Ecloga 21, De imperio, potestate et gloria (CPG 4684.21)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 182, 187"
+        },
+        {
+          "id": "ark:/21198/s1b33z",
+          "label": "Greek Undertext: Kanon on Saint Nicholas",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 183,186"
+        },
+        {
+          "id": "ark:/21198/s1fw7b",
+          "label": "Greek Undertext: Troparia for Saint Macrina the Younger",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 184–185"
+        },
+        {
+          "id": "ark:/21198/s16d3t",
+          "label": "Greek Undertext: Kanon on the Saints and Martyrs Peter, Andrew, Dionysius, Paul, Christina, Heraclius, Paulinus, Benedimus",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 183,186"
         }
       ]
-    }
-  ],
-  "layer": [
-    {
-      "id": "ark:/21198/s12k9k",
-      "label": "Greek Undertext: Troparion",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 182, 187"
-    },
-    {
-      "id": "ark:/21198/s1b33z",
-      "label": "Greek Undertext: Kanon on Saint Nicholas",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 183,186"
-    },
-    {
-      "id": "ark:/21198/s1fw7b",
-      "label": "Greek Undertext: Joseph the Hymnographer, Kanon on Saints and Martyrs",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 184–185"
-    },
-    {
-      "id": "ark:/21198/s16d3t",
-      "label": "Greek Undertext: John Chrysostom, Ecloga 21",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 183,186"
     }
   ],
   "location": [
@@ -125,6 +123,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {

@@ -1,0 +1,103 @@
+{
+  "ark": "ark:/21198/s1s67j",
+  "reconstruction": false,
+  "label": "Menologion (month of Ilūl)",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Services for selected festivals of the ecclesiastical year"
+      },
+      "locus": "ff. 3v-110v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 3v",
+          "as_written": "ܥܠ ܚܝܠܐ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܟܬܒܝܢܢ ܠܡܪܝ ܡܘܫܐ ܕ ܒܐܝܠܘܠ"
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "locus": "f. 110v",
+          "as_written": ".ܐܘ ܪܝܫܟܗܢܐ ܟܝܪܝܠܠܘܣ. ܫܐܠ ܠܢ ܖ̈ܚܡܐ ܘܚܘܣܝ ܚܘܒܐ"
+        }
+      ],
+      "contents": [
+        {
+          "label": "4 Ēlūl (September), St Moses [the Prophet]",
+          "locus": "ff. 3v–25r",
+          "note": [
+            "Kathismata, various modes (ff. 3v–4v)",
+            "Kontakia, mode 8 (ff. 4v–5r)",
+            "Stichera, mode 1 (ff. 5v–6v)",
+            "Kontakia, various modes (ff. 6v–8v)",
+            "Canon, mode 1 (ff. 8v–15r): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+            "Canon to the Holy Trinity, mode 4 (ff. 15r–19v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+            "Another canon, “composition by the bishop Metrophanes”, mode 2 (ff. 19v–25r): Odes 1, 3, 4, 5, 6, 7, 8, 9"
+          ]
+        },
+        {
+          "label": "Thursday of the fifth week of the Lent",
+          "locus": "ff. 25r–91r",
+          "note": [
+            "Stichera, various modes (ff. 25r–26v)",
+            "Idiomela, mode 8 (f. 26r–v)",
+            "Stichera of the Great Canon on Repentance, mode 6 (ff. 26v–29r)",
+            "Makarismoi of the Great Canon on Repentance “that we sing after ode 6”, mode 6 (ff. 29r–32r)",
+            "Kathisma, mode 8 (f. 32r–v)",
+            "Canon, “composition by the venerable Andrew, the bishop of the island of Crete, translated from Greek into Syriac by John bar ‘Īsā, the priest in the city of Rome” (ff. 32v–82v): Ode 1 (ff. 32v–37r); Ode 2 (ff. 37r–40r); Ode 2, “another heirmos” (ff. 40r–42v); Ode 3 (ff. 42v–46r); Ode 3, “another heirmos” (ff. 46r–47r); Ode 4 (ff. 47r–54r); Ode 4, “from the triode by father Joseph, mode 8” (f. 54r–v); Ode 4, “by father Theodore” (ff. 54v–55r); Ode 5 (ff. 55r–59v); Ode 6 (ff. 59v–62v); Ode 7 (ff. 62v–67r); Ode 8 (ff. 67r–72v); Ode 8, “heirmos from the triode, mode 8” (ff. 72v–73r); [Ode 8, heirmos] (f. 73r–v); Ode 9 (ff. 73v–81r); [Ode 9], “from the triode, mode 8” (f. 81r–v); [Ode 9], heirmos (ff. 81v–82v)",
+            "Idiomela of the morning, mode 8 (ff. 82v–83r)",
+            "“Stichera after Glory to God in the highest of the canon on repentance”, mode 4 (ff. 83r–91r)"
+          ]
+        },
+        {
+          "label": "2 Ēlūl (September), Holy Martyr Mamas of Caesarea",
+          "locus": "ff. 91r–102r",
+          "note": [
+            "Troparion on God is the Lord, mode 4 (f. 91r)",
+            "Kathisma, mode 8 (f. 91r–v)",
+            "Stichera, mode 8 (ff. 91v–93r)",
+            "Canon, “composition by father John”, mode 4 (ff. 93r–101v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+            "Exapostilarion (ff. 101v–102r)"
+          ]
+        },
+        {
+          "label": "12 Ēlūl (September), Holy Martyr Autonomus",
+          "locus": "ff. 102r–110v",
+          "note": [
+            "Stichera, mode 4 (ff. 102r–103r)",
+            "Kathisma, mode 4 (f. 103r–v)",
+            "Canon, mode 4 (ff. 103v–110v): Odes 1, 3, 4, 5, 6, 7, 8, 9",
+            "Exapostilarion (f. 110v)"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:54+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1zk7w"
+  ]
+}

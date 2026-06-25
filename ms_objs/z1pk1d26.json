@@ -31,46 +31,44 @@
             "id": "overtext",
             "label": "Overtext"
           }
+        },
+        {
+          "id": "ark:/21198/s1md25",
+          "label": "Greek Undertext: Numbers",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–15, 22–27"
+        },
+        {
+          "id": "ark:/21198/s1c050",
+          "label": "CPA Undertext: 1 Samuel (1 Kingdoms)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 16, 21, 28"
+        },
+        {
+          "id": "ark:/21198/s1gp9b",
+          "label": "CPA Undertext: Job",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 18–19"
+        },
+        {
+          "id": "ark:/21198/s1r65g",
+          "label": "CPA Undertext: Proverbs",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 17, 20"
         }
       ]
-    }
-  ],
-  "layer": [
-    {
-      "id": "ark:/21198/s1md25",
-      "label": "CPA Undertext: Bible. Proverbs",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 1–15, 22–27"
-    },
-    {
-      "id": "ark:/21198/s1c050",
-      "label": "Greek Undertext: Numbers",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 16, 21, 28"
-    },
-    {
-      "id": "ark:/21198/s1gp9b",
-      "label": "CPA Undertext: Bible. Job",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 18–19"
-    },
-    {
-      "id": "ark:/21198/s1r65g",
-      "label": "CPA Undertext: Bible. Samuel",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 17, 20"
     }
   ],
   "location": [
@@ -105,6 +103,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {

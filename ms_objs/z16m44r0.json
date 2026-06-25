@@ -31,82 +31,80 @@
             "id": "overtext",
             "label": "Overtext"
           }
+        },
+        {
+          "id": "ark:/21198/s1792q",
+          "label": "Syriac Undertext: Life of St. Simeon Stylites",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "throughout ff. 1–55, stub-58"
+        },
+        {
+          "id": "ark:/21198/s1q922",
+          "label": "Syriac Undertext: Departure of Mary (Transitus Mariae)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 50, 53, 56, 58–59, 63–65"
+        },
+        {
+          "id": "ark:/21198/s1v05b",
+          "label": "Syriac Undertext: Infancy Gospel of Thomas",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 52, 62, 66r–67"
+        },
+        {
+          "id": "ark:/21198/s1c04m",
+          "label": "Syriac Undertext: Infancy Gospel of James (Protoevangelium of James)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 57, 60–61, 67r, 68–69"
+        },
+        {
+          "id": "ark:/21198/s1kh04",
+          "label": "CPA Undertext: 2 Samuel-1 Kings (2-3 Kingdoms, Vatican version)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 33, 35, 45–46"
+        },
+        {
+          "id": "ark:/21198/s13g9v",
+          "label": "Syriac Undertext: Saint's life",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 33, 35, 45–46"
+        },
+        {
+          "id": "ark:/21198/s1zs8b",
+          "label": "Arabic Undertext: Unidentified",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "f. 39"
+        },
+        {
+          "id": "ark:/21198/s1gs7m",
+          "label": "Arabic Undertext: Unidentified",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "f. 68v"
         }
       ]
-    }
-  ],
-  "layer": [
-    {
-      "id": "ark:/21198/s1792q",
-      "label": "Arabic Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "throughout ff. 1–55, stub-58"
-    },
-    {
-      "id": "ark:/21198/s1q922",
-      "label": "Syriac Undertext: Gospel of James (Apocrypha)",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 50, 53, 56, 58–59, 63–65"
-    },
-    {
-      "id": "ark:/21198/s1v05b",
-      "label": "Syriac Undertext: Life of St. Simeon Stylites",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 52, 62, 66r–67"
-    },
-    {
-      "id": "ark:/21198/s1c04m",
-      "label": "Syriac Undertext: Unidentified hagiography",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 57, 60–61, 67r, 68–69"
-    },
-    {
-      "id": "ark:/21198/s1kh04",
-      "label": "Arabic Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 33, 35, 45–46"
-    },
-    {
-      "id": "ark:/21198/s13g9v",
-      "label": "Syriac Undertext: Infancy Gospels of Thomas",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 33, 35, 45–46"
-    },
-    {
-      "id": "ark:/21198/s1zs8b",
-      "label": "Syriac Undertext: Departure of Mary",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "f. 39"
-    },
-    {
-      "id": "ark:/21198/s1gs7m",
-      "label": "CPA Undertext: Bible. Samuel, Bible. Kings",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "f. 68v"
     }
   ],
   "location": [
@@ -162,6 +160,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {

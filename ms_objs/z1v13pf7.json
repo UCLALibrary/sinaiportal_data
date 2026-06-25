@@ -1,0 +1,142 @@
+{
+  "ark": "ark:/21198/z1v13pf7",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 22",
+  "summary": "Menaion (incomplete)",
+  "extent": "172 ff.",
+  "weight": "1272.2 g",
+  "dim": "272 x 193 x 65 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "[I–VIII Syriac M5N, ff. 1–63] (to be imaged and checked!) ; [X Syriac M5N, ff. 72–79] (to be imaged and checked!) ; [XI–XV Syriac M55N, ff. 1–39] (to be imaged and checked!) ; [XVIII–XXIV Syriac M5N, ff. 146–201; Syriac NF Sp. 66] (to be checked!) ; [XXVII A 296 inf., ff. 278–287 (= Chabot 74)] (to be checked!) ; [XXVIII Or. 8607, ff. 20–27] ; XXIX Syriac 22, ff. 1–8 ; XXX ff. 9–16 ; XXXI ff. 17–24 ; XXXII ff. 25–32 ; XXXIII ff. 33–40 ; XXXIV ff. 41–48 ; XXXV ff. 49–56 ; XXXVI ff. 57–64 ; XXXVII ff. 65–72 ; XXXVIII ff. 73–80 ; XXXIX ff. 81–90 ; XL ff. 91–98 ; XLI ff. 99–106 ; XLII ff. 107–114 ; XLIII ff. 115–122 ; XLIV ff. 123–130 ; XLV ff. 131–139 ; XLVI ff. 140–148 ; XLVII ff. 149–156 ; XLVIII ff. 157–164 ; XLIX ff. 165–172 ; [L Syriac M5N, ff. 402–410]",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-172",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "layer": [
+        {
+          "id": "ark:/21198/s1hk87",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          }
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Sinai Syriac NF M 5 (ff. 1–63, 72–79, 146–201, 402–410)"
+            },
+            {
+              "label": "Sinai Syriac NF M 55 (ff. 1–39)"
+            },
+            {
+              "label": "Bilbioteca Ambrosiana, A 296 inf. (ff. 278–287 = Chabot 74)"
+            },
+            {
+              "label": "British Library, Or. 8607 (ff. 20–27)"
+            },
+            {
+              "label": "Sinai Syriac NF frag. 66"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "repository": "St. Catherine's Monastery of the Sinai",
+      "collection": "Old Collection"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[123], p. 155"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "url": "https://www.loc.gov/item/00279386383-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "label": "SLDP",
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1v13pf7/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1v13pf7%2Fjc07dt14/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.4",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:54+00:00"
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "ark": "ark:/21198/z1mg975v",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 2 B",
+  "summary": "(Christian Palestinian Aramaic) Gospel Lectionary / Evangelion (Byzantine rite)",
+  "extent": "152 ff.",
+  "weight": "1490.1 g",
+  "dim": "239 x 196 x 89 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "I: ff. 3–8 ; II: ff. 9–16 ; III: ff. 17–24 ; IV: ff. 25–32 ; V: ff. 33–38 ; VI: ff. 39–46 ; VII: ff. 47–54 ; VIII: ff. 55–62 ; IX: ff. 63–70 ; X: ff. 71–78 ; XI: ff. 79–86 ; XII: ff. 87–94 ; XIII: ff. 95–102 ; XIV: ff. 103–110 ; XV: ff. 111–118 ; XVI: ff. 119–126 ; XVII: ff. 127–134 ; XVIII: ff. 135–142 ; XIX: ff. 143–151 ; XX: ff. 152–154 (followed by an unnumbered blank half-folio)",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 3-154",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1q91p",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1q91p",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 2 B, Overtext (Christian Palestinian Aramaic)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Christian Palestinian Aramaic script"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "21-23 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1hw9q",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1hw9q",
+                  "reconstruction": false,
+                  "label": "Gospel Lectionary; Evangelion (Byzantine rite)",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ]
+                      },
+                      "alt_title": "Gospel Lectionary; Evangelion (Byzantine rite)",
+                      "locus": "ff. 3r-154v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܐܠܘܠ ܡܢܗܐ ܝܚܢܐ ܘܗܝ ܟܡ̈ܣܝܢ ܐܢܓܝܠ ܠܝܘܡ ܐܠܦܙܚ ܡܢ ܒܣܘܪܗ ܕܝܚܢܐ"
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "[Easter season] Easter",
+                          "locus": "f. 3r–v"
+                        },
+                        {
+                          "label": "[Easter season] 1st Week",
+                          "locus": "ff. 3v-8v",
+                          "note": [
+                            "‘2’, Monday (ff. 3v–4v), ‘3’, Tuesday (ff. 4v–5v), ‘4’, Wednesday (ff. 5v–6v), ‘5’, Thursday (ff. 6v–7r), ‘6’, Friday (ff. 7r–8r), ‘7’, Saturday (f. 8r–v)"
+                          ]
+                        },
+                        {
+                          "label": "[Easter season] 2nd Week",
+                          "locus": "ff. 8v-12r",
+                          "note": [
+                            "‘8’, New Sunday (f. 8v), ‘9’, Monday (ff. 8v–9r), ‘10’, Tuesday (f. 9r–v), ‘11’, Wednesday (ff. 9v–10r), ‘12’, Thursday (f. 10r–v), ‘13’, Friday (ff. 10v–11r), ‘14’, Saturday (ff. 11r–12r)"
+                          ]
+                        },
+                        {
+                          "label": "[Easter season] 3rd Week",
+                          "locus": "ff. 12r-15r",
+                          "note": [
+                            "'15’, Sunday (ff. 12r–13r), ‘16’, Monday (f. 13r–v), ‘17’, Tuesday (f. 13v), ‘18’, Wednesday (ff. 13v–14r), ‘19’, Thursday (f. 14r–v), ‘20’, Friday (f. 14v), ‘21’, Saturday (ff. 14v–15r)"
+                          ]
+                        },
+                        {
+                          "label": "[Easter season] 4th Week",
+                          "locus": "ff. 15v-20r",
+                          "note": [
+                            "‘22’, Sunday (ff. 15v–16r), ‘23’, Monday (ff. 16r–17r), Tuesday (f. 17r–v), ‘25’, Wednesday (ff. 17v–18r), ‘26’, Thursday (f. 18r–v), ‘27’, Friday (ff. 18v–19r), ‘28’, Saturday (ff. 19r–20r)"
+                          ]
+                        },
+                        {
+                          "label": "[Easter season] 5th Week",
+                          "locus": "ff. 20r-25r",
+                          "note": [
+                            "‘29’, Sunday (ff. 20r–21v), ‘30’, Monday, (f. 21v–22r), ‘31’, Tuesday, (f. 22r–v), ‘32’, Wednesday (ff. 22v–23r), ‘33’, Thursday (ff. 23r–24r), ‘34’, Friday (f. 24r), ‘35’, Saturday (ff. 24r–25r)"
+                          ]
+                        },
+                        {
+                          "label": "[Easter season] 6th Week",
+                          "locus": "ff. 25r-29r",
+                          "note": [
+                            "‘36’, Sunday (ff. 25r–26v), ‘37’, Monday (ff. 26v–27r), ‘38’, Tuesday (f. 27r–v), ‘39’, Wednesday (ff. 27v–28r), ‘40’, Thursday (Feast of the Ascension) (f. 28r), ‘41’, Friday (f. 28r–v), ‘42’, Saturday (ff. 28v–29r)"
+                          ]
+                        },
+                        {
+                          "label": "[Easter season] 7th Week",
+                          "locus": "ff. 29r-32r",
+                          "note": [
+                            "‘43’, Sunday (f. 29r–v), ‘44’, Monday (ff. 29v–30r), ‘45’, Tuesday (f. 30r–v), ‘46’, Wednesday (ff. 30v–31r), ‘47’, Thursday, (f. 31r–v), ‘48’, Friday, (ff. 31v–32r), Saturday (f. 32r)"
+                          ]
+                        },
+                        {
+                          "label": "Pentecost Sunday",
+                          "locus": "ff. 32r–33r"
+                        },
+                        {
+                          "label": "1st Week after Pentecost",
+                          "locus": "ff. 33r-36v",
+                          "note": [
+                            "Monday (f. 33r–v), Tuesday (ff. 33v–34r), Wednesday (f. 34r–v), Thursday (ff. 34v–35r), Friday (f. 35r–v), Saturday (ff. 35v–36r), Sunday (f. 36r–v)"
+                          ]
+                        },
+                        {
+                          "label": "2nd Week after Pentecost",
+                          "locus": "ff. 36v-37r",
+                          "note": [
+                            "Saturday (ff. 36v–37r), Sunday (f. 37r)"
+                          ]
+                        },
+                        {
+                          "label": "3rd Week after Pentecost",
+                          "locus": "ff. 37r-38v",
+                          "note": [
+                            "Saturday (f. 37r–v), Sunday (ff. 37v–38v)"
+                          ]
+                        },
+                        {
+                          "label": "4th Week after Pentecost",
+                          "locus": "ff. 38v-39v",
+                          "note": [
+                            "Saturday (ff. 38v–39r), Sunday (f. 39r–v)"
+                          ]
+                        },
+                        {
+                          "label": "5th Week after Pentecost",
+                          "locus": "ff. 39v-40r",
+                          "note": [
+                            "Saturday (ff. 39v–40r), Sunday (f. 40r)"
+                          ]
+                        },
+                        {
+                          "label": "6th Week after Pentecost",
+                          "locus": "ff. 40r-41r",
+                          "note": [
+                            "Saturday (f. 40r–v), Sunday (ff. 40v–41r)"
+                          ]
+                        },
+                        {
+                          "label": "7th Week after Pentecost",
+                          "locus": "ff. 41r-41v",
+                          "note": [
+                            "Saturday (f. 41r–v), Sunday (f. 41v)"
+                          ]
+                        },
+                        {
+                          "label": "8th Week after Pentecost",
+                          "locus": "ff. 41v-42v",
+                          "note": [
+                            "Saturday (ff. 41v–42r), Sunday (f. 42r–v)"
+                          ]
+                        },
+                        {
+                          "label": "9th Week after Pentecost",
+                          "locus": "ff. 42v-43v",
+                          "note": [
+                            "Saturday (ff. 42v–43r), Sunday (f. 43r–v)"
+                          ]
+                        },
+                        {
+                          "label": "10th Week after Pentecost",
+                          "locus": "ff. 43v-44v",
+                          "note": [
+                            "Saturday (ff. 43v–44r), Sunday (f. 44r–v)"
+                          ]
+                        },
+                        {
+                          "label": "11th Week after Pentecost",
+                          "locus": "ff. 44v-45v",
+                          "note": [
+                            "Saturday (ff. 44v–45r), Sunday (f. 45r–v)"
+                          ]
+                        },
+                        {
+                          "label": "12th Week after Pentecost",
+                          "locus": "ff. 45v-46v",
+                          "note": [
+                            "Saturday (f. 45v), Sunday (ff. 45v–46v)"
+                          ]
+                        },
+                        {
+                          "label": "13th Week after Pentecost",
+                          "locus": "ff. 46v-47r",
+                          "note": [
+                            "Saturday (f. 46v), Sunday (ff. 46v–47r)"
+                          ]
+                        },
+                        {
+                          "label": "14th Week after Pentecost",
+                          "locus": "ff. 47r-48r",
+                          "note": [
+                            "Saturday (f. 47r–v), Sunday (ff. 47v–48r)"
+                          ]
+                        },
+                        {
+                          "label": "15th Week after Pentecost",
+                          "locus": "ff. 48r-49r",
+                          "note": [
+                            "Saturday (ff. 48r–49r), Sunday (f. 49r)"
+                          ]
+                        },
+                        {
+                          "label": "16th Week after Pentecost",
+                          "locus": "ff. 49r-50v",
+                          "note": [
+                            "Saturday (f. 49r–v), Sunday (ff. 49v–50v)"
+                          ]
+                        },
+                        {
+                          "label": "17th Week after Pentecost",
+                          "locus": "ff. 50v-51r",
+                          "note": [
+                            "Saturday (ff. 50v–51r), Sunday (f. 51r)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 1st Saturday and Sunday",
+                          "locus": "f. 51r-v",
+                          "note": [
+                            "1st Saturday (f. 51r–v), Sunday (f. 51v)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 2nd Saturday and Sunday",
+                          "locus": "ff. 51v-52v",
+                          "note": [
+                            "2nd Saturday (ff. 51v–52v), Sunday (f. 52v)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 3rd Saturday and Sunday",
+                          "locus": "ff. 52v-53v",
+                          "note": [
+                            "3rd Saturday (ff. 52v–53r), Sunday (f. 53r–v)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 4th Saturday and Sunday",
+                          "locus": "ff. 53v-54r",
+                          "note": [
+                            "4th Saturday (ff. 53v–54r), Sunday (f. 54r)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 5th Saturday and Sunday",
+                          "locus": "ff. 54v-55v",
+                          "note": [
+                            "5th Saturday (ff. 54v–55r), Sunday (f. 55r–v)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 6th Saturday and Sunday",
+                          "locus": "ff. 55v-56v",
+                          "note": [
+                            "6th Saturday (ff. 55v–56r), Sunday (f. 56r–v)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 7th Saturday and Sunday",
+                          "locus": "ff. 56v-57v",
+                          "note": [
+                            "7th Saturday (ff. 56v–57r), Sunday (f. 57r–v)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 8th Saturday and Sunday",
+                          "locus": "ff. 57v-58v",
+                          "note": [
+                            "8th Saturday (ff. 57v–58r), Sunday (f. 58r–v)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 9th Saturday and Sunday",
+                          "locus": "ff. 58v-59r",
+                          "note": [
+                            "9th Saturday (ff. 58v–59r), Sunday (f. 59r)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 10th Saturday and Sunday",
+                          "locus": "ff. 59r-60r",
+                          "note": [
+                            "10th Saturday (f. 59r–v), Sunday (ff. 59v–60r)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 11th Saturday and Sunday",
+                          "locus": "ff. 60r-61r",
+                          "note": [
+                            "11th Saturday (f. 60r–v), Sunday (ff. 60v–61r)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 12th Saturday and Sunday",
+                          "locus": "ff. 61r-62r",
+                          "note": [
+                            "12th Saturday (f. 61r–v), Sunday (ff. 61v–62r)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 13th Saturday and Sunday",
+                          "locus": "ff. 62r-63r",
+                          "note": [
+                            "13th Saturday (f. 62r–v), Sunday (ff. 62v–63r)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 14th Saturday and Sunday",
+                          "locus": "f. 63r-v",
+                          "note": [
+                            "14th Saturday (f. 63r–v), Sunday (f. 63v)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 15th Saturday and Sunday",
+                          "locus": "ff. 63v-64v",
+                          "note": [
+                            "15th Saturday (f. 63v–64r), Sunday (f. 64r–v)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 16th Saturday and Sunday",
+                          "locus": "ff. 64v-65r",
+                          "note": [
+                            "16th Saturday (f. 64v), Sunday (f. 65r)"
+                          ]
+                        },
+                        {
+                          "label": "[Gospels from the cycle of Luke] 17th Saturday and Sunday",
+                          "locus": "ff. 65r-66v",
+                          "note": [
+                            "17th Saturday (f. 65r–v), Sunday (ff. 65v–66v)"
+                          ]
+                        },
+                        {
+                          "label": "Meatfare Week",
+                          "locus": "ff. 66v-67v",
+                          "note": [
+                            "Saturday (ff. 66v–67r), Sunday (f. 67r–v)"
+                          ]
+                        },
+                        {
+                          "label": "Cheesefare Week",
+                          "locus": "ff. 67v-69r",
+                          "note": [
+                            "Saturday (ff. 67v–68v), Sunday (ff. 68v–69r)"
+                          ]
+                        },
+                        {
+                          "label": "1st Week of Great Lent",
+                          "locus": "ff. 69r-72r",
+                          "note": [
+                            "Monday (ff. 69r–70r), Tuesday (f. 70r), Wednesday (f. 70r), Thursday (f. 70r–v), Friday (ff. 70v–71r), Saturday (commemoration of the holy Theodore) (f. 71r–v), Sunday (ff. 71v–72r)"
+                          ]
+                        },
+                        {
+                          "label": "2nd Week of Great Lent",
+                          "locus": "ff. 72r-73r",
+                          "note": [
+                            "Saturday (f. 72r–v), Sunday (ff. 72v–73r)"
+                          ]
+                        },
+                        {
+                          "label": "3rd Week of Great Lent",
+                          "locus": "f. 73r-v",
+                          "note": [
+                            "Saturday (f. 73r–v), Sunday (f. 73v)"
+                          ]
+                        },
+                        {
+                          "label": "4th Week of Great Lent",
+                          "locus": "ff. 73v-75r",
+                          "note": [
+                            "Saturday (ff. 73v–74r), Sunday (ff. 74r–75r)"
+                          ]
+                        },
+                        {
+                          "label": "5th Week of Great Lent",
+                          "locus": "ff. 75r-76r",
+                          "note": [
+                            "Saturday (f. 75r–v), Sunday (ff. 75v–76r)"
+                          ]
+                        },
+                        {
+                          "label": "6th Week of Great Lent",
+                          "locus": "ff. 76r-79v",
+                          "note": [
+                            "Lazarus Saturday (ff. 76r–78r), Palm Sunday (ff. 78r–79v)"
+                          ]
+                        },
+                        {
+                          "label": "Holy Week",
+                          "locus": "ff. 79v-116v",
+                          "note": [
+                            "Monday (ff. 79v–82v), Tuesday (ff. 82v–86v), Wednesday (ff. 86v–88v), Thursday (ff. 88v–95r), Friday (ff. 95r–115r), Saturday (ff. 115v–116v)"
+                          ]
+                        },
+                        {
+                          "label": "Eleven Resurrection Gospels",
+                          "locus": "ff. 116v–122v"
+                        },
+                        {
+                          "label": "Additional reading for Palm Sunday",
+                          "locus": "ff. 122v–123v"
+                        },
+                        {
+                          "label": "Readings for the fixed feasts",
+                          "locus": "ff. 123v–153v",
+                          "note": [
+                            "September (ff.123v–128r), October (ff. 128r–129r), November (ff. 129r–136r), December (ff. 136r–139r), January (ff. 139r–142v), February (ff. 142v–144v), March (ff. 144v–146r), April (ff. 146r–v), May (ff. 146v–147v), June (ff. 147v–150v), July (ff. 150v–151r), August (ff. 151r–153v)"
+                          ]
+                        },
+                        {
+                          "label": "Additional reading",
+                          "locus": "f. 154r–v"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "355df1c4-b108-4ddd-9a02-24a5891d8676",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis and Gibson 1899",
+                          "citation": "Lewis, Agnes Smith and Margaret Dunlop Gibson. The Palestinian Syriac Lectionary of the Gospels. London: 1899",
+                          "range": "(codex c)"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-02-04T19:00:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1q91p"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "locus": "f. 153v",
+                "lang": [
+                  {
+                    "id": "chri1239",
+                    "label": "CPA"
+                  }
+                ],
+                "as_written": "ܬܡ ܒܥܘܢ ܐܠܡܣܝܚ | ܘܫܦܥܬ ܐܡ ܐܢܘܪ ܘܓܡܝܥ|  ܐܠܩܕܝܣܝܢ ܐܡܝܢ ܐܡܢ ܐܡܝܢ  |/ܘܟܐܢ ܐܠܦܪܘܓ ܦܝ ܬܠܬ  |ܣܐܥܬ ܡܢ ܐܢܗܪ ܝܘܡ | ܐܣܒܬ ܦܝ ܥܫܪܗ ܐܝܡ | ܡܢ ܐܒ ܣܢܗ ܣܬ ܐܠܐܦ | ܘܣܬ ܡܝܗ ܘܣܬܗ | ܘܥܫܖܝܢ ܣܢܗ ܡܢ ܣܢܝܢ | ܐܖܡ ܐܖܗܪܝܗ ܟܬܒܗ | ܐܠܩܣ ܒܛܪܘܣ ܐܚܩܝܪ | ܐܠܟ̈ܛܝ ܐܛܥܝܦ ܘܗܘ | ܝܩܘܠ ܟܘܠ ܡܢ ܩܪܐ ܦܝܗ ܝܕܥܝ | ܠܗ ܒܓܘܦܪܐܢ ܐܠܟ̈ܛܝܗ | ܪܚܡ ܐܠܗ ܡܢ ܟܬܒ | ܘܩܪܐ ܐܡܝܢ ܐܡܝܢ ܐܡܝܢ",
+                "translation": [
+                  "Finished [the copying] with the help of Christ and the intercession of the Mother of the Light and all the saints. The completion took place in the third hour, on Saturday, tenth of August, the year six thousand, six hundred and twenty–six of the era of Adam. It was copied by the miserable, sinful and week priest Buṭros. And he asks everybody who will read [the book] to implore for the forgiveness of his sins. Let God have mercy upon the one who copies and reads [this book]. Amen. Amen. Amen"
+                ],
+                "assoc_name": [
+                  {
+                    "value": "Priest Buṭros",
+                    "role": {
+                      "id": "scribe",
+                      "label": "Scribe"
+                    }
+                  }
+                ],
+                "assoc_date": [
+                  {
+                    "value": "1118 CE",
+                    "iso": {
+                      "not_before": "1118"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "The completion took place in the third hour, on Saturday, tenth of August, the year six thousand, six hundred and twenty–six of the era of Adam"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[2], p. 161"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-02-04T19:00:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1mg975v"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[2], p. 161"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1mg975v/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1mg975v%2F1055qt8x/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.4",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

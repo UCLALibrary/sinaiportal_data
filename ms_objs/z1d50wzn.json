@@ -30,6 +30,83 @@
             "id": "overtext",
             "label": "Overtext"
           }
+        },
+        {
+          "id": "ark:/21198/s19h0n",
+          "label": "Caucasian Albanian Undertext: Gospel of John",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 5, 7–14, 17–18, 21–22, 35–36, 39–40, 54–55, 60, 62v, 63, 66, 68–75, 77–78"
+        },
+        {
+          "id": "ark:/21198/s15p9j",
+          "label": "Caucasian Albanian Undertext: Lectionary",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 2–4, 6r, 15–16, 23–27, 30–34, 41r, 41v, 42r, 4, 62r, 65r, 65v, 67r, 67v"
+        },
+        {
+          "id": "ark:/21198/s1x64n",
+          "label": "Armenian Undertext: Pauline Epistles with Euthalian apparatus",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 28–29, 37–38"
+        },
+        {
+          "id": "ark:/21198/s12056",
+          "label": "Armenian Undertext: Ecclesiastes",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          }
+        },
+        {
+          "id": "ark:/21198/s1pp96",
+          "label": "Armenian Undertext: Hebrews",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "f. 64"
+        },
+        {
+          "id": "ark:/21198/s1np8h",
+          "label": "CPA Undertext: Gospel of Mark",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 19–20"
+        },
+        {
+          "id": "ark:/21198/s1jw6w",
+          "label": "CPA Undertext: Unknown",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          }
+        },
+        {
+          "id": "ark:/21198/s1sh1c",
+          "label": "Armenian Undertext: Wisdom of Solomon",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          }
+        },
+        {
+          "id": "ark:/21198/s1f649",
+          "label": "Armenian Undertext: Song of Songs",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          }
         }
       ],
       "related_mss": [
@@ -47,85 +124,6 @@
           ]
         }
       ]
-    }
-  ],
-  "layer": [
-    {
-      "id": "ark:/21198/s19h0n",
-      "label": "Armenian Undertext: Hebrews",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 1, 5, 7–14, 17–18, 21–22, 35–36, 39–40, 54–55, 60, 62v, 63, 66, 68–75, 77–78"
-    },
-    {
-      "id": "ark:/21198/s15p9j",
-      "label": "CPA Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 2–4, 6r, 15–16, 23–27, 30–34, 41r, 41v, 42r, 4, 62r, 65r, 65v, 67r, 67v"
-    },
-    {
-      "id": "ark:/21198/s1x64n",
-      "label": "Armenian Undertext: Song of Songs",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 28–29, 37–38"
-    },
-    {
-      "id": "ark:/21198/s12056",
-      "label": "Caucasian Albanian Undertext: Bible. John",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      }
-    },
-    {
-      "id": "ark:/21198/s1pp96",
-      "label": "Caucasian Albanian Undertext: Lectionary",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "f. 64"
-    },
-    {
-      "id": "ark:/21198/s1np8h",
-      "label": "Armenian Undertext: Bible. Ecclesiastes",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 19–20"
-    },
-    {
-      "id": "ark:/21198/s1jw6w",
-      "label": "Armenian Undertext: Bible. Epistles of Paul",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      }
-    },
-    {
-      "id": "ark:/21198/s1sh1c",
-      "label": "Armenian Undertext: Wisdom of Solomon",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      }
-    },
-    {
-      "id": "ark:/21198/s1f649",
-      "label": "CPA Undertext: Bible. Mark",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      }
     }
   ],
   "location": [
@@ -169,6 +167,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {

@@ -1,0 +1,87 @@
+{
+  "ark": "ark:/21198/s1867w",
+  "reconstruction": false,
+  "label": "Horologion",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1d886"
+      },
+      "alt_title": "Antiphonal Liturgical Psalter, volume 2 (Syrian Orthodox)",
+      "locus": "ff. 2r–85v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "heading",
+            "label": "Heading"
+          },
+          "as_written": "ܥܠ ܚܝܠܐ ܘܥܘܕܪܢܐ ܐܠܗܝܐ ܪܡ̇ܝܢܢ ܐܝ̣ܕܐ ܠܡ݂ܟܬܒ ܦܠܓܘܬܐ ܕܬܖ̈ܬܝܢ ܕܕܘܝܕ ܢܒܝܐ ܘܡܲܠܟܐ ܐܠܗܝܐ",
+          "translation": [
+            "With the power and help of God we cast our hand to write the second volume of [the psalms of] David, the prophet and the Godly king"
+          ],
+          "note": [
+            "Vat. sir. 647, f. 24v"
+          ]
+        },
+        {
+          "type": {
+            "id": "inc-mut",
+            "label": "First Preserved Line"
+          },
+          "locus": "f. 2r",
+          "as_written": "ܠܟ ܗ ܡܛܠ ܕܐܠܗܐ ܐܢܬ ܕܠܐ ܨ̇ܒܐ ܪܘܫ̣ܥܐ ܒ ܣܢ̣ܝܬ ܠܟܠ ܥ̈ܒ̇ܕܝ ܫܘܩܪܐ",
+          "note": [
+            "Ps 5:4–7, with gaps"
+          ]
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "locus": "f. 85v",
+          "as_written": "ܘܣܝܦܝ ܢ̣ܐܟܘܠ ܒܣܪܐ ܒ ܡܟܝܠ ܫܲܒܚܘ ܥ̈ܡܡܐ ܥܡܗ ܗ ܡܛܠ ܕܕܡܐ ܕܥ̣̈ܒܕܘܗܝ ܡܬܦ̣ܪܥ",
+          "note": [
+            "Deut. 32:42–43, with gaps"
+          ]
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "locus": "f. 85v",
+          "as_written": "ܫܘܒ̣ܚܐ ܠܐܒܐ ܘܠܒܪܐ ܘܠܪܘܚܐ ܩܕܝܫܐ ܠܥܠܡܝܢ ܐܡܝ̣ܢ. ",
+          "translation": [
+            "Glory be to the Father, the Son and the Holy Spirit, unto the ages. Amen"
+          ],
+          "note": [
+            "Refrain"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:54+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1fk77"
+  ]
+}

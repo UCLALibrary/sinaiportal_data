@@ -1,0 +1,80 @@
+{
+  "ark": "ark:/21198/s10q19",
+  "reconstruction": false,
+  "label": "Services",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1sk5k"
+      },
+      "alt_title": "Praxapostolos (Byzantine rite)",
+      "locus": "ff. 1r-137r",
+      "excerpt": [
+        {
+          "type": {
+            "id": "inc-mut",
+            "label": "First Preserved Line"
+          },
+          "as_written": "ܐܣܝܖ̈ܐ. ܗ̇ܐ ܩܝ̈ܡܝܢ ܒܗܝܟܠܐ ܘܡ̈ܠܦܝܢ ܠܥܡܐ",
+          "note": [
+            "Corresponds to Acts 5:25, the reading for the Saturday of the second week after Easter"
+          ]
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "as_written": ".ܫܠܡ ܒܥܘܕܪܢ ܡܪܢ ܩܖ̈ܝܢܐ ܕܚܕܒܫ̈ܒܐ ܘܕܫܒ̈ܐ. ܡܢ ܚܕܒܫܒܐ ܕܦܢܛܝܩܘ(ܣܛܝ) ܥܕܡܐ ܠܚܕܒܫܒܐ ܪܒܐ"
+        }
+      ],
+      "contents": [
+        {
+          "work_id": "ark:/21198/s1h30c",
+          "locus": "ff. 1r–76r",
+          "note": [
+            "Byzantine rite, with occasional additions of the readings marked as ‘according to the rite of the Syrians’"
+          ]
+        },
+        {
+          "work_id": "ark:/21198/s16s3m",
+          "locus": "ff. 76v–133v"
+        },
+        {
+          "label": "Readings for various occasions",
+          "locus": "ff. 133v–136r"
+        },
+        {
+          "label": "Akolouthia of the weekdays",
+          "locus": "f. 136r–v"
+        },
+        {
+          "label": "General indications for the use of the lectionary.",
+          "locus": "ff. 136v–137r"
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1633q"
+  ]
+}

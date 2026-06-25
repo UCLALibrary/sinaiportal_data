@@ -1,0 +1,135 @@
+{
+  "ark": "ark:/21198/z1r79zws",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 1 A",
+  "summary": "Gospel Lectionary / Evangelion (Byzantine rite)",
+  "extent": "237 ff.",
+  "weight": "1782.7 g",
+  "dim": "228 x 174 x 99 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "I: ff. 1–8 ; II: ff. 9–16 ; III: ff. 17–24 ; IV: ff. 25–32 ; V: ff. 33–40 ; VI: ff. 41–48 ; VII: ff. 49–54 ; VIII: ff. 55–62 ; IX: ff. 63–70 ; X: ff. 71–80 ; XI: ff. 81–86 ; XII: ff. 87–93 ; XIII: ff. 94–101 ; XIV: ff. 102–109 ; XV: ff. 110–117 ; XVI: ff. 118–125 ; XVII: ff. 126–133 ; XVIII: ff. 134–141 ; XIX: ff. 142–149 ; XX: ff. 150–157 ; XXI: ff. 158–165 ; XXII: ff. 166–173 ; XXIII: ff. 174–181 ; XXIV: ff. 182–189 ; XXV: ff. 190–196 ; XXVI: ff. 197–204 ; XXVII: ff. 205–212 ; XXVIII: ff. 213–220 ; XXIX: ff. 221–228 ; XXX: ff. 229–237 (f. 232 is a later insertion with the Gospel reading for Transfiguration that is already present in full on ff. 231v–232r)",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-237",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "layer": [
+        {
+          "id": "ark:/21198/s13g8g",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          }
+        }
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 3r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "as_written": "اقول انا ارسني اسقف طور سينا ان هذا الانجيل وقف على كنيسة المناجاة فمن اخرجه عنها يكون حظه مع يودس",
+      "translation": [
+        "I, Arsenius, bishop of the Mount Sinai, state that this Gospel book is the property of the Church of the Colloquy. Whoever takes it from there, will have his share with Judas."
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "repository": "St. Catherine's Monastery of the Sinai",
+      "collection": "Old Collection"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[217], p. 159"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "url": "https://www.loc.gov/item/00279386206-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "label": "SLDP",
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1r79zws/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1r79zws%2Fnr37hq9g/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.4",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ]
+}

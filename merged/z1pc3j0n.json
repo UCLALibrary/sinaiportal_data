@@ -129,6 +129,56 @@
             }
           }
         }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1vp8c",
+          "label": "Georgian Undertext: Lectionary, Jerusalem type",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 216–218, 221–223, 240, 247",
+          "uto_ms_ark": "ark:/21198/z11m02r3",
+          "script": [
+            "Asomtavruli"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1m623",
+          "label": "Georgian Undertext: Hymnary (Iadgari)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 219–220, 224–239, 241–246, 248–261, 263, 265",
+          "uto_ms_ark": "ark:/21198/z1941k65",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1r041",
+          "label": "Georgian Undertext: Mravaltavi",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 262, 266",
+          "uto_ms_ark": "ark:/21198/z15c0tf0",
+          "script": [
+            "Asomtavruli"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        }
       ]
     }
   ],
@@ -163,6 +213,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {
@@ -174,55 +230,5 @@
       }
     ],
     "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
-  },
-  "uto": [
-    {
-      "uto_layer_ark": "ark:/21198/s1vp8c",
-      "label": "Georgian Undertext: Lectionary",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 216–218, 221–223, 240, 247",
-      "uto_ms_ark": "ark:/21198/z11m02r3",
-      "script": [
-        "Asomtavruli"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1m623",
-      "label": "Georgian Undertext: Mravaltavi",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 219–220, 224–239, 241–246, 248–261, 263, 265",
-      "uto_ms_ark": "ark:/21198/z1941k65",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1r041",
-      "label": "Georgian Undertext: Iadgari",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 262, 266",
-      "uto_ms_ark": "ark:/21198/z15c0tf0",
-      "script": [
-        "Asomtavruli"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    }
-  ]
+  }
 }

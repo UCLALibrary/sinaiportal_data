@@ -1,0 +1,110 @@
+{
+  "ark": "ark:/21198/s1zq10",
+  "reconstruction": false,
+  "label": "Heirmologion",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1sp47"
+      },
+      "alt_title": "Heirmologion (Byzantine rite)",
+      "locus": "ff. 1r–155r",
+      "excerpt": [
+        {
+          "type": {
+            "id": "heading",
+            "label": "Heading"
+          },
+          "as_written": "(sic!) ܥܠ ܚܝܠܐ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܢܟܬܘܒ ܐܪܡܘܠܐܘܢ",
+          "translation": [
+            "With the help of Our Lord Jesus Christ we are writing Heirmologion"
+          ],
+          "note": [
+            "Vat. sir. 647, f. 27v"
+          ]
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 1r",
+          "as_written": "ܩܐܛܐ̄ ܕܦܨܚܐ ܩ ܐ̄ ܝܘܡܐ ܗܘ ܕܩܝܡܬܐ ܬܘ ܟܠܢ ܡܗ̈ܝܡܢܐ ܢܦܪܓ ܒܚܓܐ\nܦܨܚܐ ܗܘ ܓܝܪ ܕܡܪܝܐ ܦܨܚܐ. ܡܢ ܡܘܬܐ ܓܝܪ ܠܘܬ ܚ̈ܝܐ",
+          "note": [
+            "'= Ἀναστάσεως ἡμέρα λαμπρυνθῶμεν Λαοί, Πάσχα Κυρίου, Πάσχα· ἐκ γὰρ θανάτου πρὸς ζωήν (S. Eustratiadēs, Εἱρμολόγιον, Chennevierès-sur-Marne, 1932, akolouthia 6 (hereafter: EE 6), ode 1, p. 4)"
+          ]
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "locus": "f. 155r",
+          "as_written": "ܡܘܪܒܝܢܢ ܠܟܝ ܟܠܢ. ܐܡܗ ܕܢܘܗܪܐ ܫܪܝܪܐ. ܘܡܩܠܣܝܢܢ ܪܒܬ. ܝܠܕܬ ܐܠܗܐ ܒܬܘ̄. ܐܟܡܢ ܕܝܠܕܬܝ ܠܦܪܘܩܐ ܕܢܦܫܬܐ ܕܟܠܢ",
+          "note": [
+            "'= Μεγαλύνομέν σε τὴν μητέρα τοῦ φωτὸς καὶ δοξάζομέν σε, Θεοτόκε Παρθένε, ὡς σωτῆρα τεκοῦσαν τῶν ψυχῶν ἡμῶν. (EE 326, ode 9, p. 298)"
+          ]
+        }
+      ],
+      "contents": [
+        {
+          "label": "Mode 1",
+          "locus": "ff. 1r–21r",
+          "note": [
+            "Vat. sir. 647, f. 27v–28v"
+          ]
+        },
+        {
+          "label": "Mode 2",
+          "locus": "ff. 21v–43r"
+        },
+        {
+          "label": "Mode 3",
+          "locus": "ff. 43r–58r"
+        },
+        {
+          "label": "Mode 4",
+          "locus": "ff. 58v–86v"
+        },
+        {
+          "label": "Mode 5",
+          "locus": "ff. 87r–97r"
+        },
+        {
+          "label": "Mode 6",
+          "locus": "ff. 97v–116r"
+        },
+        {
+          "label": "Mode 7",
+          "locus": "ff. 117r–127v"
+        },
+        {
+          "label": "Mode 8",
+          "locus": "ff. 128r–155r"
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:54+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1561p"
+  ]
+}

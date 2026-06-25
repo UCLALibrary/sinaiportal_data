@@ -231,6 +231,40 @@
             }
           }
         }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s19w6q",
+          "label": "Greek Undertext: Exodus",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 128–130v, 133–137, 139, 143",
+          "uto_ms_ark": "ark:/21198/z1w19xwj",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1fk90",
+          "label": "Greek Undertext: Genesis",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 131–132v, 138, 140–142",
+          "uto_ms_ark": "ark:/21198/z1r89662",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ]
+        }
       ]
     }
   ],
@@ -297,6 +331,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {
@@ -319,39 +359,5 @@
       }
     ],
     "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
-  },
-  "uto": [
-    {
-      "uto_layer_ark": "ark:/21198/s19w6q",
-      "label": "Greek Undertext: Bible. Genesis",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 128–130v, 133–137, 139, 143",
-      "uto_ms_ark": "ark:/21198/z1w19xwj",
-      "script": [
-        "Greek majuscule"
-      ],
-      "lang": [
-        "Greek"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1fk90",
-      "label": "Greek Undertext: Exodus",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 131–132v, 138, 140–142",
-      "uto_ms_ark": "ark:/21198/z1r89662",
-      "script": [
-        "Greek majuscule"
-      ],
-      "lang": [
-        "Greek"
-      ]
-    }
-  ]
+  }
 }

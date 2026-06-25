@@ -126,6 +126,88 @@
             }
           }
         }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s14p7g",
+          "label": "Georgian Undertext: Psalter (version by George the Athonite)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 23– 25, 30–32",
+          "uto_ms_ark": "ark:/21198/z1xf1spm",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1w63z",
+          "label": "Georgian Undertext: Horologion",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–22, 26–29",
+          "uto_ms_ark": "ark:/21198/z15v4bhf",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1d63m",
+          "label": "Georgian Undertext: Hymnary (Heirmologion with Theotokia)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 35–36",
+          "uto_ms_ark": "ark:/21198/z19m536q",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s11068",
+          "label": "Georgian Undertext: Psalter",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 35–36",
+          "uto_ms_ark": "ark:/21198/z126296r",
+          "script": [
+            "Asomtavruli"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s18h1q",
+          "label": "Georgian Undertext: Unidentified",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 33–34, 37–38",
+          "uto_ms_ark": "ark:/21198/z1sp121k",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        }
       ]
     }
   ],
@@ -161,6 +243,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {
@@ -172,87 +260,5 @@
       }
     ],
     "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
-  },
-  "uto": [
-    {
-      "uto_layer_ark": "ark:/21198/s14p7g",
-      "label": "Georgian Undertext: Heirmologion",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 23– 25, 30–32",
-      "uto_ms_ark": "ark:/21198/z1xf1spm",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1w63z",
-      "label": "Georgian Undertext: Unidentified text",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 1–22, 26–29",
-      "uto_ms_ark": "ark:/21198/z15v4bhf",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1d63m",
-      "label": "Georgian Undertext: Psalter",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 35–36",
-      "uto_ms_ark": "ark:/21198/z19m536q",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s11068",
-      "label": "Georgian Undertext: Psalter",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 35–36",
-      "uto_ms_ark": "ark:/21198/z126296r",
-      "script": [
-        "Asomtavruli"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s18h1q",
-      "label": "Georgian Undertext: Horologion",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 33–34, 37–38",
-      "uto_ms_ark": "ark:/21198/z1sp121k",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    }
-  ]
+  }
 }

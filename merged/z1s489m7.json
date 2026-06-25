@@ -1,0 +1,424 @@
+{
+  "ark": "ark:/21198/z1s489m7",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 50",
+  "summary": "Services for selected festivals of the ecclesiastical year",
+  "extent": "99 ff.",
+  "weight": "918.0 g",
+  "dim": "216 x 160 x 60 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "<I> ; [II (fragmentary): Syriac M50N, ff. 4–5] [Syriac M50N, ff. 1–3; Syriac M63N, f. 3–4; Milan, Biblioteca Ambrosiana, A 296 inf., ff. 214–216, 219–221 (= Chabot 75; 6 ff.), belong to either quire I or II] (the latter to be checked on site!) ; [III:\tSyriac M63N, f. 1; Syriac M50N, ff. 11–16; Syriac M63N, f. 2] ; IV (Greek V, traces): ff. 1–8 ; V (Greek VI, traces): ff. 9–16 ; VI (Greek VII, traces): ff. 17–24 ; VII (Greek traces): ff. 25–32 ; VIII (Greek traces): ff. 33–40 ; IX (Greek X): ff. 41–46 ; X (Greek XI): ff. 47–48, 50–55 ; XI (Greek XII): ff. 56–63 ; XII (Greek XIII): ff. 64–71 ; XIII: ff. 72–79 ; XIV (Greek XV): ff. 80–87 ; XV: ff. 88–91 ; XVI: ff. 92–99",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-99",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Sinai Syriac NF M 50",
+              "id": "ark:/21198/z1jq49kz"
+            },
+            {
+              "label": "Sinai Syriac NF M 63",
+              "id": "ark:/21198/z1rn510k"
+            },
+            {
+              "label": "Milan, Biblioteca Ambrosiana, A 296 inf., (ff. 214–216, 219–221 = Chabot 75)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1sw5p",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1sw5p",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 50, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Transitional Estrangela (Melkite)"
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "iron gall",
+                  "red",
+                  "black"
+                ],
+                "note": [
+                  "Iron gall and red ink used; text on some folios throughout the manuscript partially rewritten in black ink"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "20 lines",
+                "note": [
+                  "Traces of ruling with hard point marking borders of the writing area"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1mh3k",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1mh3k",
+                  "reconstruction": false,
+                  "label": "Sticherarion",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1ms4q",
+                        "pref_title": "Sticherarion",
+                        "genre": [
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Services for selected festivals of the ecclesiastical year",
+                      "locus": "ff. 1r-99v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܩܢܘܢܐ ܡܬܟܫܦܢܐ ܕܩܕܝܫܐ ܓܐܘܪܓܝܘܣ ܒܩܠܐ ܕ",
+                          "note": [
+                            "Corresponds to Supplicatory canon to St George, mode 4",
+                            "Rubricated"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܥܘܠ ܠܚܕܘܬܐ ܫܒܝܚܬܐ ܗ̇ܝ ܕܡܪܟ ܘܐܠܗܟ. ܒܥܝ ܘܐܬܟܫܦ ܡܛܠܬܢ ܩܕܝܫܐ ܢܝܩܘܠܐ"
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "[Memory of St George]",
+                          "locus": "ff. 1–12r",
+                          "note": [
+                            "Supplicatory canon to St George, mode 4 (f. 1r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another canon, mode 6 (f. 4v): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another canon, mode 8 (f. 8v): odes 1, 3, 4, 5, 6, 7, 8, 9"
+                          ]
+                        },
+                        {
+                          "label": "3 Teshrin II (November), Feast of the Dedication of the Church of St George in Lydda",
+                          "locus": "ff. 12v–22r",
+                          "note": [
+                            "Kathisma on The Lord is God, mode 4 (f. 12v)",
+                            "Kathisma, mode 5 (f. 12v)",
+                            "Another [kathisma], mode 8 (f. 13r)",
+                            "Stichera, mode 1 (f. 13r)",
+                            "Stichera, mode 4 (f. 14r)",
+                            "Stichera, mode 5 (f. 14v)",
+                            "Night canon, mode 2 (f. 15r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Canon on the Dedication of the Church, mode 4 (f. 18v): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "(interpolation in a later hand) Exapostilarion (f. 22r)"
+                          ]
+                        },
+                        {
+                          "label": "6 Shbat (February), Holy Martyr Julian of Emesa",
+                          "locus": "ff. 22v–29r",
+                          "note": [
+                            "Kathisma on The Lord is God, mode 3 (f. 22v), incipit only",
+                            "Kathisma, mode 8 (f. 22v)",
+                            "Stichera, mode 1 (f. 22v)",
+                            "Stichera, mode 4 (f. 23v)",
+                            "Stichera, mode 8 (f. 24r)",
+                            "Night canon, mode 8 (f. 24v): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 29r)",
+                            "(interpolation in a later hand) Theotokion (f. 29r)"
+                          ]
+                        },
+                        {
+                          "label": "6 Kanun I (December), [St] Nicholas the Bishop",
+                          "locus": "ff. 29v–37r",
+                          "note": [
+                            "Troparion on The Lord is God, mode 4 (f. 29v)",
+                            "Kathisma, mode 4 (f. 29v)",
+                            "Stichera, mode 2 (f. 29v)",
+                            "Stichera, mode 6 (f. 30v)",
+                            "Stichera, mode 6 (f. 30v)",
+                            "Night canon, mode 8 (f. 31r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another canon to St Nicholas, mode 2 (f. 34r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 37r)",
+                            "[Theotokion] (f. 37r)"
+                          ]
+                        },
+                        {
+                          "label": "8 Teshrin II (November), Archangel Michael",
+                          "locus": "ff. 37v–46v",
+                          "note": [
+                            "Kathisma on The Lord is God, mode 4 (f. 37v)",
+                            "Kathisma, mode 8 (f. 37v)",
+                            "Stichera, mode 1 (f. 38r)",
+                            "Stichera, mode 4 (f. 38v)",
+                            "Stichera, mode 5 (f. 39r)",
+                            "Stichera, mode 6 (f. 39r)",
+                            "Night canon, mode 5 (f. 40r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another canon to the angels, mode 8 (f. 43r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilarion (f. 46v)",
+                            "(interpolation in a later hand) Another [exapostilarion], [theotokion] (f. 46v)"
+                          ]
+                        },
+                        {
+                          "label": "15 Ab (August), the Departure of Our Lady the Mother of God",
+                          "locus": "ff. 47r–97r",
+                          "note": [
+                            "Kathisma on The Lord is God, mode 1 (f. 47r)",
+                            "Kathisma (f. 47r)",
+                            "Another [kathisma], mode 4 (f. 47r)",
+                            "[Kathisma] (f. 47v)",
+                            "[Kathisma], mode 5 (f. 47v)",
+                            "[Kathisma], mode 8 (f. 48r)",
+                            "[Kathisma], mode 8 (f. 48r)",
+                            "(interpolation in a later hand) Stichera, mode 2 (f. 48v; continued on the inset, f. 49r–v)",
+                            "Stichera, mode 1 (f. 50r)",
+                            "Other [stichera], mode 1 (f. 50v)",
+                            "Other [stichera], mode 1 (f. 51r)",
+                            "Other [stichera], mode 2 (f. 51v)",
+                            "Other [stichera], mode 4 (f. 52r)",
+                            "[Other stichera] (f. 52v)",
+                            "Stichera, mode 1 (f. 53v)",
+                            "Other [stichera], mode 2 (f. 53v)",
+                            "Other [stichera], mode 2 (f. 54r)",
+                            "Other [stichera], mode 4 (f. 54v)",
+                            "Other [stichera], mode 4 (f. 55r)",
+                            "Other [stichera], mode 4 (f. 55r)",
+                            "Other [stichera], mode 6 (f. 55v)",
+                            "Other [stichera], mode 6 (f. 56r)",
+                            "Other [stichera], mode 6 (f. 56r)",
+                            "Other [stichera], mode 8 (f. 56v)",
+                            "Other [stichera], mode 5 (f. 57r)",
+                            "Night canon by Father John with acrostic, mode 1 (f. 58r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another canon by Father Cosmas, mode 4 (f. 62r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Exapostilaria (3 strophes) (f. 66r)",
+                            "Kontakion (f. 66v)",
+                            "Stichera on the Mother of God whenever needed, mode 1 (f. 67r)",
+                            "Stichera, mode 4 (f. 67v)",
+                            "Other [stichera], mode 8 (f. 68r)",
+                            "Supplicatory canon to the Mother of God, mode 6 (f. 68v): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Supplicatory canon to the Mother of God, mode 1 (f. 72r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another supplicatory canon, mode 1 (f. 75r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another canon to the Mother of God, mode 6 (f. 79r): odes 1, 3, 4, 5, 6, 7, 8, 9",
+                            "Another supplicatory canon to the Mother of God in the time of suffering and persecution, mode 4 (f. 82v): odes 1, 2, 3, 4, 5, 6, 7, 8, 9",
+                            "Another supplicatory canon, mode 6 (f. 88v): odes 1, 2, 3, 4, 5, 6, 7, 8, 9",
+                            "Another supplicatory canon to the Mother of God, mode 8 (f. 94r): odes 1, 3, 4, 5, 6, 7, 8, 9"
+                          ]
+                        },
+                        {
+                          "label": "[Other materials]",
+                          "locus": "ff. 97v–99v",
+                          "note": [
+                            "Three odes of the canon (=Triodion) to St George (f. 97v): odes 5, 8, 9",
+                            "Stichera to St Nicholas, mode 1 (f. 99r)",
+                            "[Another stichera], mode 4 (f. 99r)"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Natalia Smelova"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:54:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1sw5p"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[257], p. 160"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386620-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Natalia Smelova"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:54:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1s489m7"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[257], p. 160"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386620-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1s489m7/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1s489m7%2Fj051db3g/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:54:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2019 April",
+        "delivery": "4.2",
+        "imaging_system": "BC100 - 2 cam., 745 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

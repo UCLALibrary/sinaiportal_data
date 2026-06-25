@@ -137,6 +137,72 @@
             }
           }
         }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1nw6t",
+          "label": "Georgian Undertext: Hymns",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 13–45",
+          "uto_ms_ark": "ark:/21198/z1q061sd",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1sk8q",
+          "label": "Georgian Undertext: Psalter B",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 5r, 87r, 87v, 93–94, 103, 106r, 106–107, 117, 139",
+          "uto_ms_ark": "ark:/21198/z1tr6shf",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1234v",
+          "label": "Georgian Undertext: Psalter C",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 57, 70, 95",
+          "uto_ms_ark": "ark:/21198/z1zh7j75",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1xd06",
+          "label": "Georgian Undertext: Psalter A",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 2–12, 16r, 46–56, 58–69, 71–86, 88–92, 96–102, 104–105, 108–116, 118–138, 140–154",
+          "uto_ms_ark": "ark:/21198/z1k75940",
+          "script": [
+            "Nuskhurimt"
+          ],
+          "lang": [
+            "Georgian"
+          ]
+        }
       ]
     }
   ],
@@ -172,6 +238,12 @@
     }
   ],
   "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
   },
   "image_provenance": {
@@ -183,71 +255,5 @@
       }
     ],
     "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
-  },
-  "uto": [
-    {
-      "uto_layer_ark": "ark:/21198/s1nw6t",
-      "label": "Georgian Undertext: Psalter",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 13–45",
-      "uto_ms_ark": "ark:/21198/z1q061sd",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1sk8q",
-      "label": "Georgian Undertext: Psalter",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 1, 5r, 87r, 87v, 93–94, 103, 106r, 106–107, 117, 139",
-      "uto_ms_ark": "ark:/21198/z1tr6shf",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1234v",
-      "label": "Georgian Undertext: Psalter",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 57, 70, 95",
-      "uto_ms_ark": "ark:/21198/z1zh7j75",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    },
-    {
-      "uto_layer_ark": "ark:/21198/s1xd06",
-      "label": "Georgian Undertext: Hymns",
-      "type": {
-        "id": "undertext",
-        "label": "Undertext"
-      },
-      "locus": "ff. 2–12, 16r, 46–56, 58–69, 71–86, 88–92, 96–102, 104–105, 108–116, 118–138, 140–154",
-      "uto_ms_ark": "ark:/21198/z1k75940",
-      "script": [
-        "Nuskhurimt"
-      ],
-      "lang": [
-        "Georgian"
-      ]
-    }
-  ]
+  }
 }

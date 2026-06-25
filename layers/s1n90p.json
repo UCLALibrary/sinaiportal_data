@@ -1,0 +1,129 @@
+{
+  "ark": "ark:/21198/s1n90p",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 20, Overtext (Melkite)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
+        }
+      ],
+      "note": [
+        "Transitional Melkite script"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "19–21 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1fw93",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 179r",
+      "lang": [
+        {
+          "id": "class1252",
+          "label": "Syriac"
+        }
+      ],
+      "as_written": "ܐܬܟܬܒ ܣܘܢܟܣܖ̈ܝܢ ܗܢܐ ܕܩܖ̈ܝܢܐ ܕܡܢ ܐܘܢܓܠܝܘܢ ܐܝܟ ܕܠܗܕܪܐ ܘܬܒܘ(ܚܬܐ) ܕܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ ܘܫܘܝܬ ܒܐܘܣܝܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩܘܕܫܐ ܒܕܝܪܐ ܩܕܝܫܬܐ ܐܘܟܝܬ ܫܘܩܐ ܕܡܪܝ ܐܠܝܐ ܢܒܝܐ ܒܛܘܪܐ ܐܘܟܡܐ ܕܥܠ ܓܢܒ ܡܕܝܢܬ ܐܠܗܐ ܐܢܛܝܘܟܝܐ ܫܢܬ ܫܢܬ ܫ̈ܬܐ ܐܠܦܝܢ ܘܚܡ̈ܫܡܐܐ ܘܥ̄ܙ̄ ܕܥܠܡܐ. ܟܬܒܗ ܕܝܢ ܐܢܫ ܚܛܝܐ ܘܕܘܐ ܡܢ ܟܠ ܬܐܘܕܘܣܝ ܗ̇ܘ ܕܠܐ ܫ̇ܘܐ ܐܦܝܣܩܘ(ܦܐ) ܕܐܫܬܐܠ ܘܥ̇ܡܪ ܗ̇ܝ ܬܡܢ ܐܚܝܕܐܝܬ [...] ܕܡܪܝܐ ܐܠܗܐ ܢܬܠ ܠܗ ܕܢܬܚܢܢ ܐܝܟ ܓܝܣܐ ܕܡܢ ܝܡܝܢܐ ܒܨܠܘܬܗ ܕܝܠܕܬ ܐܠܗܐ ܘܕܩܕܝܫܐ ܐܡܝܢ.",
+      "assoc_name": [
+        {
+          "value": "Bishop Theodosios",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ],
+      "assoc_place": [
+        {
+          "value": "Monastery of the Black Mountain",
+          "event": {
+            "id": "origin",
+            "label": "Place of Origin"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1068-1069 CE",
+          "iso": {
+            "not_before": "1068",
+            "not_after": "1069"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          }
+        }
+      ],
+      "note": [
+        "The manuscript was copied in the monastery, or Lavra, of Elijah the prophet on the Black Mountain, near Antioch, in the year 6577 AM [= CE 1068/9] by the bishop Theodosios."
+      ]
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[80], p. 154"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "url": "https://www.loc.gov/item/0027938636A-ms/"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/z1zs4f46"
+  ]
+}

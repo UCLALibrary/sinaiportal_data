@@ -1,0 +1,524 @@
+{
+  "ark": "ark:/21198/z15f09d1",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 13",
+  "summary": "New and Old Testament Lectionary for the entire year (Jerusalem rite)",
+  "extent": "237 ff.",
+  "weight": "1679.0 g",
+  "dim": "221 x 167 x 107 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "[I: Vat. sir. 647, f. 9 (flyleaf) + Milan, Biblioteca Ambrosiana, A 296 inf., ff. 55–62 (= Chabot 25)] ; II: ff. 1–8 ; III: ff. 9–16 ; IV: ff. 17–26 ; V: ff. 27–34 ; VI: ff. 35–42 ; VII: ff. 43–50 ; VIII: ff. 51–58 ; IX: ff. 59–66 ; X: ff. 67–76 ; XI: ff. 77–84 ; XII: ff. 85–92 ; XIII: ff. 93–100 ; XIV: ff. 101–108 ; XV: ff. 109–116 ; XVI: ff. 117–124 ; XVII: ff. 125–132 ; XVIII: ff. 133–140 ; XIX: missing ; XX: ff. 141–148 ; XXI: ff. 149–158 ; XXII: ff. 159–166 ; XXIII: ff. 167–176 ; XXIV: ff. 177–184 ; XXV: ff. 185–192 ; XXVI: ff. 193–200 ; XXVII: ff. 201–208 ; XXVIII: ff. 209–216 ; XXIX: ff. 217–224 ; XXX: ff. 225-232 + 233–237 (more recent repair)",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-237",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Vat. sir. 647 (f. 9)"
+            },
+            {
+              "label": "Biblioteca Ambrosiana, A 296 inf. (ff. 55–62 = Chabot 25)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s19328",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s19328",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 13, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Transitional Melkite Estrangela"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "20-21 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s13m3z",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s13m3z",
+                  "reconstruction": false,
+                  "label": "New and Old Testament Lectionary for the entire year (Jerusalem rite)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1088g",
+                        "pref_title": "Lectionary",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "lectionaries",
+                            "label": "Lectionaries"
+                          }
+                        ]
+                      },
+                      "alt_title": "New and Old Testament Lectionary for the entire year (Jerusalem rite)",
+                      "locus": "ff. 1r–236r",
+                      "contents": [
+                        {
+                          "label": "Nativity (acephalous)",
+                          "locus": "ff. 1r–14r"
+                        },
+                        {
+                          "label": "Evening of Nativity, Jacob, brother of our Lord, and David",
+                          "locus": "f. 14r–v"
+                        },
+                        {
+                          "label": "Second day",
+                          "locus": "ff. 14v–17v"
+                        },
+                        {
+                          "label": "Third day, St. Stephen",
+                          "locus": "ff. 17v–19v"
+                        },
+                        {
+                          "label": "1 January, St. Basil and other bishops",
+                          "locus": "ff. 19v–21v"
+                        },
+                        {
+                          "label": "Sunday after Nativity",
+                          "locus": "ff. 21v–24r"
+                        },
+                        {
+                          "label": "5 January, ‘Theophany Fast’",
+                          "locus": "ff. 24r–25r"
+                        },
+                        {
+                          "label": "Theophany",
+                          "locus": "ff. 25r–38v"
+                        },
+                        {
+                          "label": "2nd day of Theophany",
+                          "locus": "ff. 38v–40r"
+                        },
+                        {
+                          "label": "3rd day of Theophany",
+                          "locus": "ff. 40r–41r"
+                        },
+                        {
+                          "label": "4th day of Theophany",
+                          "locus": "ff. 41r–43v"
+                        },
+                        {
+                          "label": "Sunday after Theophany",
+                          "locus": "ff. 43v–46v"
+                        },
+                        {
+                          "label": "17 January, St. Anthony the Great",
+                          "locus": "ff. 46v–48r"
+                        },
+                        {
+                          "label": "23 January (sic !), St. Gregory the Theologian",
+                          "locus": "f. 48r"
+                        },
+                        {
+                          "label": "2 February, Hypapante",
+                          "locus": "ff. 48r–50r"
+                        },
+                        {
+                          "label": "Meatfare, ‘Beginning of Great Lent’",
+                          "locus": "ff. 50r–53r"
+                        },
+                        {
+                          "label": "Cheesefare Saturday",
+                          "locus": "ff. 53r–54r"
+                        },
+                        {
+                          "label": "Cheesefare Sunday",
+                          "locus": "ff. 54r–59r"
+                        },
+                        {
+                          "label": "St. Theodore Teron",
+                          "locus": "ff. 59r–60v"
+                        },
+                        {
+                          "label": "2nd Sunday of Lent",
+                          "locus": "ff. 60v–63r"
+                        },
+                        {
+                          "label": "2nd Saturday of Lent",
+                          "locus": "ff. 63r–64v"
+                        },
+                        {
+                          "label": "3rd Sunday of Lent",
+                          "locus": "ff. 64v–68r"
+                        },
+                        {
+                          "label": "3rd Saturday of Lent",
+                          "locus": "ff. 68r–69r"
+                        },
+                        {
+                          "label": "4th Sunday of Lent",
+                          "locus": "ff. 69r–72r"
+                        },
+                        {
+                          "label": "4th Saturday of Lent",
+                          "locus": "f. 72r–v"
+                        },
+                        {
+                          "label": "5th Sunday of Lent",
+                          "locus": "ff. 72v–76r"
+                        },
+                        {
+                          "label": "5th Saturday of Lent",
+                          "locus": "ff. 76r–77v"
+                        },
+                        {
+                          "label": "6th Saturday of Lent",
+                          "locus": "ff. 77v–78r",
+                          "note": [
+                            "Copied at wrong spot and marked as such by the scribe"
+                          ]
+                        },
+                        {
+                          "label": "6th Sunday of Lent",
+                          "locus": "ff. 78r–81r"
+                        },
+                        {
+                          "label": "6th Saturday of Lent",
+                          "locus": "f. 81r–v"
+                        },
+                        {
+                          "label": "9 March, 40 martyrs (of Sebaste)",
+                          "locus": "ff. 81v–83r"
+                        },
+                        {
+                          "label": "25 March, Annunciation",
+                          "locus": "ff. 83r–85r"
+                        },
+                        {
+                          "label": "Saturday before Palm Sunday",
+                          "locus": "ff. 85r–88r"
+                        },
+                        {
+                          "label": "Palm Sunday",
+                          "locus": "ff. 88r–95v"
+                        },
+                        {
+                          "label": "Holy Monday",
+                          "locus": "ff. 95v–105v"
+                        },
+                        {
+                          "label": "Holy Tuesday",
+                          "locus": "ff. 105v–127r"
+                        },
+                        {
+                          "label": "Holy Wednesday (incomplete)",
+                          "locus": "ff. 127r–140"
+                        },
+                        {
+                          "label": "Holy Thursday (acephalous)",
+                          "locus": "f. 141r–v"
+                        },
+                        {
+                          "label": "Holy Friday Matins",
+                          "locus": "ff. 141v–157r"
+                        },
+                        {
+                          "label": "Holy Friday, sixth hour",
+                          "locus": "ff. 157r–172r"
+                        },
+                        {
+                          "label": "Holy Saturday",
+                          "locus": "ff. 172r–173r"
+                        },
+                        {
+                          "label": "Holy Saturday, ninth hour ‘when they gather in the church according to the rite’",
+                          "locus": "ff. 173r–184v"
+                        },
+                        {
+                          "label": "Pascha",
+                          "locus": "ff. 184v–188r"
+                        },
+                        {
+                          "label": "Bright Monday",
+                          "locus": "ff. 188r–189v"
+                        },
+                        {
+                          "label": "Bright Tuesday",
+                          "locus": "ff. 189v–191r"
+                        },
+                        {
+                          "label": "Bright Wednesday",
+                          "locus": "ff. 191r–192v"
+                        },
+                        {
+                          "label": "Bright Thursday",
+                          "locus": "ff. 192v–194v"
+                        },
+                        {
+                          "label": "Bright Friday",
+                          "locus": "ff. 194v–195v"
+                        },
+                        {
+                          "label": "Bright Saturday",
+                          "locus": "ff. 195v–197v"
+                        },
+                        {
+                          "label": "New Sunday",
+                          "locus": "ff. 197v–200v"
+                        },
+                        {
+                          "label": "Friday after New Sunday, Commemoration of St. Stephanos",
+                          "locus": "f. 202r"
+                        },
+                        {
+                          "label": "Saturday after New Sunday, Commemoration of Elijah the prophet",
+                          "locus": "ff. 202v–204r"
+                        },
+                        {
+                          "label": "2nd Sunday after Pascha",
+                          "locus": "ff. 204r–206r"
+                        },
+                        {
+                          "label": "3rd Thursday after Pascha",
+                          "locus": "ff. 206r–207v"
+                        },
+                        {
+                          "label": "4th Sunday",
+                          "locus": "ff. 207v–209v"
+                        },
+                        {
+                          "label": "4th Sunday",
+                          "locus": "ff. 209v–212r"
+                        },
+                        {
+                          "label": "4th Thursday",
+                          "locus": "ff. 212r–213v"
+                        },
+                        {
+                          "label": "5th Sunday",
+                          "locus": "ff. 213v–216v"
+                        },
+                        {
+                          "label": "5th Thursday",
+                          "locus": "ff. 216v–219r"
+                        },
+                        {
+                          "label": "6th Sunday",
+                          "locus": "ff. 219r–223r"
+                        },
+                        {
+                          "label": "Ascension",
+                          "locus": "ff. 223r–224r"
+                        },
+                        {
+                          "label": "7th Sunday",
+                          "locus": "ff. 224r–229r"
+                        },
+                        {
+                          "label": "8th Sunday",
+                          "locus": "ff. 229r–231r"
+                        },
+                        {
+                          "label": "Pentecost",
+                          "locus": "ff. 231r–232v"
+                        },
+                        {
+                          "label": "15 May, [Feast of the Theotokos Mary]",
+                          "locus": "ff. 232v–236v"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-02-04T19:00:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s19328"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[79], p. 154"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386322-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-02-04T19:00:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z15f09d1"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[79], p. 154"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386322-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz15f09d1/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f09d1%2F8455609z/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 March",
+        "delivery": "4.2",
+        "imaging_system": "BC100 - 2 cam., 745 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

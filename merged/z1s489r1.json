@@ -1,0 +1,445 @@
+{
+  "ark": "ark:/21198/z1s489r1",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 33",
+  "summary": "Abba Isaiah, Ascetic Discourses",
+  "extent": "130 ff.",
+  "weight": "742.3 g",
+  "dim": "212 x 157 x 62.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "II: ff. 1–9 ; III: ff. 11–20 ; IV: ff. 21–30 ; V: ff. 31–40 ; <VI>: ff. 41–49 (f. 41r was left nearly completely blank) ; <VII>: ff. 50–58 ; <VIII>: ff. 59–68 ; <IX>: ff. 69–77 ; <X>: ff. 78–87 ; <XI>: ff. 88–97 ; <XII>: ff. 98–107 ; <XIII>: ff. 108–119 ; <XIV>: ff. 120–129 ; <XV>: f. 130 [+ Biblioteca Ambrosiana, A 296 inf., ff. 104–111 (8 ff.) = Chabot 44] (the final folio is wanting)",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-130",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Biblioteca Ambrosiana, A 296 inf. (ff. 104–113 = Chabot 44)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1732n",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1732n",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 33, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Medial Estrangela"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "28–31 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s11q1m",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s11q1m",
+                  "reconstruction": false,
+                  "label": "Selections from the Bible with Commentary",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1501m",
+                        "pref_title": "Asceticon (Isaiah, Abba)",
+                        "genre": [
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s15k50",
+                            "agent_record": {
+                              "ark": "ark:/21198/s15k50",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Isaiah, Abba, -489 or 491",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 489 or 491",
+                                "iso": {
+                                  "not_before": "0489",
+                                  "not_after": "0491"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Isaiah, Abba, -489 or 491",
+                                  "uri": "http://viaf.org/viaf/79027721",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Isaiah, Abba, -489 or 491",
+                                  "uri": "https://id.loc.gov/authorities/names/no2003039117",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Isaiah, of Scetis, active 5th century",
+                                  "uri": "https://w3id.org/haf/person/576491190443",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Isaiah of Scetis",
+                                  "uri": "http://syriaca.org/person/548",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Isaias Gazaeus abbas",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1560/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Isaiah, Abba, -489 or 491. | Asceticon",
+                            "uri": "http://viaf.org/viaf/180983978",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Isaiah, Abba, -489 or 491. Asceticon",
+                            "uri": "https://w3id.org/haf/work/152400286849",
+                            "source": "HAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Abba Isaiah, Ascetic Discourses",
+                      "locus": "ff. 1r-130v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "... ܢܦܫܐ ܗ̣ܝ ܠܗ̇ ܡܢ ܟܠܗܘܢ ܢܘ̈ܬܦܐ",
+                          "note": [
+                            "Corresponds to Logos 6.3b (ed. Draguet, p. 36, line 4)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "as_written": "ܝܘܬܪܢܐ ܘܐܝܩܪܐ ܘܢܝܚܐ ܡܩܪܒܝܢ ܥܡ ܒܪܐܢܫܐ ...",
+                          "note": [
+                            "Corresponds to Logos 25.63 (ed. Draguet, p. 395, lines 1–2)"
+                          ]
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Logos 6",
+                          "locus": "ff. 1r–5r",
+                          "note": [
+                            "Acephalous"
+                          ]
+                        },
+                        {
+                          "label": "Logos 7",
+                          "locus": "ff. 5r–22v"
+                        },
+                        {
+                          "label": "Logos 8",
+                          "locus": "ff. 22v–24r"
+                        },
+                        {
+                          "label": "Logos 9",
+                          "locus": "ff. 24r–25r"
+                        },
+                        {
+                          "label": "Logos 10",
+                          "locus": "ff. 25r–28v"
+                        },
+                        {
+                          "label": "Logos 11",
+                          "locus": "ff. 28v–39v"
+                        },
+                        {
+                          "label": "Logos 12",
+                          "locus": "ff. 39v–45r"
+                        },
+                        {
+                          "label": "Logos 13",
+                          "locus": "ff. 45r–50v"
+                        },
+                        {
+                          "label": "Logos 14",
+                          "locus": "ff. 50v–59v"
+                        },
+                        {
+                          "label": "Logos 15",
+                          "locus": "ff. 59v–68r"
+                        },
+                        {
+                          "label": "Logos 16",
+                          "locus": "ff. 68r–81v"
+                        },
+                        {
+                          "label": "Logos 17",
+                          "locus": "ff. 81v–82r"
+                        },
+                        {
+                          "label": "Logos 18",
+                          "locus": "ff. 82r–83v"
+                        },
+                        {
+                          "label": "Logos 19",
+                          "locus": "ff. 83v–86r"
+                        },
+                        {
+                          "label": "Logos 20",
+                          "locus": "ff. 86r–91v"
+                        },
+                        {
+                          "label": "Logos 21",
+                          "locus": "ff. 91v–93v"
+                        },
+                        {
+                          "label": "Logos 22",
+                          "locus": "ff. 93v–112v"
+                        },
+                        {
+                          "label": "Logos 23",
+                          "locus": "ff. 112v–116v"
+                        },
+                        {
+                          "label": "Logos 24",
+                          "locus": "ff. 116v–121v"
+                        },
+                        {
+                          "label": "Logos 25",
+                          "locus": "ff. 121v–130v",
+                          "note": [
+                            "Incomplete"
+                          ]
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "9c345520-8eda-4ec6-beb3-74bb48417a66",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Draguet 1968",
+                          "citation": "Draguet, René. Les cinq recensions de l’Ascéticon syriaque d’Abba Isaïe (CSCO 289/90, 293/4; Syr. 120/1, 122/3). Louvain: Peeters, 1968"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-02-04T19:00:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1732n"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[65], p. 153"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386486-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-02-04T19:00:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1s489r1"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[65], p. 153"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386486-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1s489r1/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1s489r1%2F7957dh33/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 November",
+        "delivery": "8",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 1 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

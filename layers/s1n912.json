@@ -1,0 +1,76 @@
+{
+  "ark": "ark:/21198/s1n912",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 279, Overtext (Estrangela)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "estrangela",
+          "label": "Estrangela",
+          "writing_system": "Syriac"
+        }
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "1 column",
+      "lines": "25-27 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1ft2r",
+      "label": "Item 1"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[37], p. 152"
+    },
+    {
+      "id": "f3ea9df2-bf85-465c-ac1d-6bd4cce71e21",
+      "shortcode": "NLI",
+      "citation": "Manuscripts in the Holy Monastery of St. Catherine at Mount Sinai. National Library of Israel",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "url": "https://www.nli.org.il/en/manuscripts/NNL_ALEPH990038917530205171//NLI"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-02-04T19:00+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/z1r518c2"
+  ]
+}
