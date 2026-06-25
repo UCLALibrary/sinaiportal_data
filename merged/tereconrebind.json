@@ -1,0 +1,439 @@
+{
+  "ark": "ark:/21198/tereconrebind",
+  "reconstruction": true,
+  "type": {
+    "id": "rebind",
+    "label": "Digital Rebinding"
+  },
+  "shelfmark": "UTOs of Sinai Arabic NF M 28",
+  "summary": "A digital reconstrucion using the Undertext Objects from Sinai Arabic NF M 28, modeling a 6th c. Gospel manuscript",
+  "extent": "26 ff.",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "fol": "ff. 128-143",
+  "coll": "Quires 1-2: 2x8 (16)",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 128-143",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "extent": "26 ff.",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/tereconuto",
+          "label": "Reconstructed Overtext",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/tereconuto",
+            "reconstruction": true,
+            "state": {
+              "id": "reconstruction",
+              "label": "Reconstruction"
+            },
+            "label": "UTO Reconstruction: Genesis, Exodus",
+            "locus": "ff. 128-142",
+            "summary": "A reconstruction of the undertexts of Arabic NF M 28, a 6th c. manuscript of Genesis and Exodus",
+            "extent": "26 ff.",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "locus": "ff. 128-142",
+                "note": [
+                  "Round biblical majuscule"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/ten0p1ul1t1",
+                "label": "Primary Text Unit 1",
+                "locus": "ff. 128-130, 133-137, 139, 143",
+                "text_unit_record": {
+                  "ark": "ark:/21198/ten0p1ul1t1",
+                  "reconstruction": false,
+                  "label": "Exodus",
+                  "locus": "ff. 128-130, 133-137, 139, 143",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Exodus",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 128-130, 133-137, 139, 143",
+                      "note": [
+                        "contributors: Rossetto; Tselikas"
+                      ]
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "The original manuscript also included the UTO Genesis from Arabic NF 28 and the UTOs Genesis and Exodus from Arabic NF 8 (Rossetto)"
+                    }
+                  ],
+                  "bib": [
+                    {
+                      "id": "874101cc-626a-43d5-91a7-a9b1091871cd",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Boudalis and Rossetto",
+                      "citation": "Boudalis, Georgios, and Giulia Rossetto. “Colour Mapping of Sin. ar. NF 8 + Sin. ar. NF 28.” In M. P. Brown and J. Lockhart, eds. The Apollonius of Tyre Fragment in Arabic NF 8: Studies of a Latin Palimpsest at St Catherine's Monastery, Sinai. [Forthcoming]",
+                      "note": [
+                        "Boudalis and Rossetto"
+                      ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/z1n02zkr"
+                  ]
+                }
+              },
+              {
+                "id": "ark:/21198/ten0p1ul2t1",
+                "label": "Primary Text Unit 2",
+                "locus": "ff. 131-132, 138, 140-142",
+                "text_unit_record": {
+                  "ark": "ark:/21198/ten0p1ul2t1",
+                  "reconstruction": false,
+                  "label": "Asceticon",
+                  "locus": "ff. 131-132, 138, 140-142",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1501m",
+                        "pref_title": "Asceticon (Isaiah, Abba)",
+                        "genre": [
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s15k50",
+                            "agent_record": {
+                              "ark": "ark:/21198/s15k50",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Isaiah, Abba, -489 or 491",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "death": {
+                                "value": "d. 489 or 491",
+                                "iso": {
+                                  "not_before": "0489",
+                                  "not_after": "0491"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Isaiah, Abba, -489 or 491",
+                                  "uri": "http://viaf.org/viaf/79027721",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Isaiah, Abba, -489 or 491",
+                                  "uri": "https://id.loc.gov/authorities/names/no2003039117",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Isaiah, of Scetis, active 5th century",
+                                  "uri": "https://w3id.org/haf/person/576491190443",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Isaiah of Scetis",
+                                  "uri": "http://syriaca.org/person/548",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Isaias Gazaeus abbas",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1560/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Isaiah, Abba, -489 or 491. | Asceticon",
+                            "uri": "http://viaf.org/viaf/180983978",
+                            "source": "VIAF"
+                          },
+                          {
+                            "label": "Isaiah, Abba, -489 or 491. Asceticon",
+                            "uri": "https://w3id.org/haf/work/152400286849",
+                            "source": "HAF"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 131-132, 138, 140-142",
+                      "note": [
+                        "contributors: Rossetto; Tselikas"
+                      ]
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "The original manuscript also included the UTO Exodus from Arabic NF 28 and the UTOs Genesis and Exodus from Arabic NF 8 (Rossetto)"
+                    }
+                  ],
+                  "bib": [
+                    {
+                      "id": "874101cc-626a-43d5-91a7-a9b1091871cd",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Boudalis and Rossetto",
+                      "citation": "Boudalis, Georgios, and Giulia Rossetto. “Colour Mapping of Sin. ar. NF 8 + Sin. ar. NF 28.” In M. P. Brown and J. Lockhart, eds. The Apollonius of Tyre Fragment in Arabic NF 8: Studies of a Latin Palimpsest at St Catherine's Monastery, Sinai. [Forthcoming]",
+                      "note": [
+                        "Boudalis and Rossetto"
+                      ]
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/z1n02zkr"
+                  ]
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "6th c. CE",
+                "iso": {
+                  "not_before": "0501",
+                  "not_after": "0600"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Origin Date"
+                },
+                "note": [
+                  "Paleographic dating"
+                ]
+              }
+            ],
+            "related_mss": [
+              {
+                "type": {
+                  "id": "disjecta",
+                  "label": "Disjecta Membra"
+                },
+                "label": "The original manuscript also included the UTOs Genesis and Exodus from Arabic NF 8 (Rossetto)",
+                "mss": [
+                  {
+                    "label": "Sinai Arabic NF 8",
+                    "id": "ark:/21198/z1kd1z25"
+                  }
+                ]
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "foliation",
+                  "label": "Foliation"
+                },
+                "value": "Folios in order of reconstructed undertext:  138v, 138r, 142v, 142r, 140r, 140v, 141v, 141r, 132v, 132r, 131v, 131r, 130v, 130r, 135v, 135r, 128v, 128r, 133r, 133v, 134r, 134v, 129r, 129v, 137v, 137r, 136r, 136v, 143r, 143v, 139v, 139r"
+              }
+            ],
+            "bib": [
+              {
+                "id": "cb8b8b52-569b-4d1f-8d5c-adf911afd205",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference Work"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "p. 29",
+                "note": [
+                  "Kamil"
+                ]
+              },
+              {
+                "id": "ebe32f6b-ad60-472c-aceb-d86913448530",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Kashouh 2008",
+                "citation": "Kashouh, Hikmat. “Sinai Ar. N.F. Parchment 8 and 28: Its Contribution to Textual Criticism of the Gospel of Luke.” Novum Testamentum 50 (2008): 28-57",
+                "range": "28-57",
+                "note": [
+                  "Kashouh article"
+                ]
+              },
+              {
+                "id": "01d4a639-d314-4271-b7f8-3f559c6c744c",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Kashouh 2012",
+                "citation": "Kashouh, Hikmat. The Arabic Versions of the Gospels: The Manuscripts and their Families. Berlin: De Gruyter, 2012",
+                "range": "28-57",
+                "note": [
+                  "Kashouh book"
+                ]
+              }
+            ],
+            "reconstructed_from": [
+              {
+                "id": "ark:/21198/z1n02zkr",
+                "shelfmark": "Sinai Arabic NF M 28"
+              }
+            ],
+            "parent": [
+              "ark:/21198/tereconrebind"
+            ]
+          },
+          "locus": "ff. 128-142"
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "foliation",
+        "label": "Foliation"
+      },
+      "value": "Folios in order of reconstructed undertext: 138v, 138r, 142v, 142r, 140r, 140v, 141v, 141r, 132v, 132r, 131v, 131r, 130v, 130r, 135v, 135r, 128v, 128r, 133r, 133v, 134r, 134v, 129r, 129v, 137v, 137r, 136r, 136v, 143r, 143v, 139v, 139r"
+    }
+  ],
+  "bib": [
+    {
+      "id": "cb8b8b52-569b-4d1f-8d5c-adf911afd205",
+      "type": {
+        "id": "ref",
+        "label": "Reference Work"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "p. 29",
+      "note": [
+        "Kamil"
+      ]
+    },
+    {
+      "id": "ebe32f6b-ad60-472c-aceb-d86913448530",
+      "type": {
+        "id": "cite",
+        "label": "Citation"
+      },
+      "shortcode": "Kashouh 2008",
+      "citation": "Kashouh, Hikmat. “Sinai Ar. N.F. Parchment 8 and 28: Its Contribution to Textual Criticism of the Gospel of Luke.” Novum Testamentum 50 (2008): 28-57",
+      "range": "28-57",
+      "note": [
+        "Kashouh article"
+      ]
+    },
+    {
+      "id": "01d4a639-d314-4271-b7f8-3f559c6c744c",
+      "type": {
+        "id": "cite",
+        "label": "Citation"
+      },
+      "shortcode": "Kashouh 2012",
+      "citation": "Kashouh, Hikmat. The Arabic Versions of the Gospels: The Manuscripts and their Families. Berlin: De Gruyter, 2012",
+      "range": "28-57",
+      "note": [
+        "Kashouh book"
+      ]
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1n02zkr/manifest",
+      "label": "Current physical order",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg"
+    },
+    {
+      "type": {
+        "id": "alt",
+        "label": "Alternate"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fr1qn64nz/manifest",
+      "label": "Re-ordered manuscript",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz15f0f9b%2Fp161m45m/full/!200,200/0/default.jpg"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z1n02zkr",
+      "shelfmark": "Sinai Arabic NF M 28"
+    }
+  ]
+}
