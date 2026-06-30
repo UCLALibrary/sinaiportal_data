@@ -25,6 +25,44 @@
           "label": "Parchment"
         }
       ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "locus": "f. 1v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "label": "Several notes in Greek and Arabic by later hands",
+          "as_written": "قول باسيليوس في الستة الأيام",
+          "translation": [
+            "Homily of Basil about the six days (of creation)"
+          ]
+        },
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "locus": "f. 2r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "label": "Several notes in Greek and Arabic by later hands",
+          "as_written": "كتاب الست ايام سرياني",
+          "translation": [
+            "The book of six days in Syriac"
+          ]
+        }
+      ],
       "related_mss": [
         {
           "type": {
