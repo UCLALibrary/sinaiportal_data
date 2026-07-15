@@ -35,6 +35,19 @@
       "label": "Item 1"
     }
   ],
+  "assoc_date": [
+    {
+      "value": "Before the 13th c. CE",
+      "iso": {
+        "not_before": "0600",
+        "not_after": "1300"
+      },
+      "type": {
+        "id": "origin",
+        "label": "Date of Origin"
+      }
+    }
+  ],
   "desc_provenance": {
     "program": [
       {

@@ -1,0 +1,139 @@
+{
+  "ark": "ark:/21198/s13h3x",
+  "reconstruction": false,
+  "label": "Evagrius Ponticus, Treatise to the Monk Eulogius and On the Thoughts",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1210n"
+      },
+      "alt_title": "Evagrius Ponticus, Treatise to the Monk Eulogius",
+      "locus": "ff. 1r–23v, 24r–32r",
+      "excerpt": [
+        {
+          "type": {
+            "id": "inc-mut",
+            "label": "First Preserved Line"
+          },
+          "as_written": "... ܐܝܢܐ ܕܠܟ ܡܢ ܣܓܝ̈ܐܐ ܡܬܩܪܒ ܬܫܒܘܚܬܐ ܗܟܝܠ ܡܢ ܒܣܪܐ ܠܐ ܬܒܥܐ",
+          "note": [
+            "Text begins at: ch. 3",
+            "= Gr. Δόξαν ἀπὸ σαρκὸς μὴ ζήτει (ed. Fogielman, p. 280, ch. 3, line 4)"
+          ]
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "as_written": "ܟܕ ܐܣܟܝܡܐ ܠܒ̇ܫ ܐܢܬ ܕܡܝܬܪܘܬܐ ܣܘܥܪ̈ܢܐ ܕܝܢ ܡܬܥܛܦ ܐܢܬ ܕܕܠܩܘܒܠܐ ..."
+        },
+        {
+          "type": {
+            "id": "explicit",
+            "label": "Explicit"
+          },
+          "as_written": "ܫܠܡ ܡܐܡܪܐ ܕܥܠ ܐܟܣܢܝܘܬܐ ܕܡܪܝ ܐܘܓܪܝܣ",
+          "translation": [
+            "Mēmrā on xeniteia is completed"
+          ]
+        }
+      ],
+      "note": [
+        "The text is divided in unnumbered sections.",
+        "Contents: [lacuna of three folios, one of which is Sinai Syriac NF Sparagma 43], Ch. 3 (f. 1r–v, acephalous), Ch. 4 (ff. 1v–3v), Ch. 5 (ff. 3v–4r), Ch. 6 (ff. 4r–5v), Ch. 7 (ff. 5v–6bis), Ch. 8 (ff. 6bis–7r), Ch. 9 (f. 7r–v), Ch. 10 (ff. 7v–8v), Ch. 11 (ff. 8v–10r), Ch. 12 (ff. 10r–11r), Ch. 13 (ff. 11r–12r), Ch. 14 (ff. 12r–13r), Ch. 15 (ff. 13r–14v), Ch. 16 (ff. 14v–15v), Ch. 17 (ff. 15v–17r), Ch. 18 (ff. 17r–18v), Ch. 19 (ff. 18v–19v), Ch. 20 (ff. 19v–21r), Ch. 21 (f. 21r–v), Ch. 22 (ff. 21v–23r), Ch. 23 (f. 23r–v), Ch. 27 (f. 23v, incomplete), [lacuna of three folios, two of which are BnF syr. 378, ff.  19–20], Ch. 25 (f. 24r–v, acephalous), Ch. 26 (ff. 24v–25v), Ch. 28 (ff. 25v–26r), Ch. 29 (ff. 26r–27v), Ch. 30 (ff. 27v–28v), Ch. 31 (ff. 28v–30r), Ch. 32 (ff. 30r–32r)"
+      ],
+      "bib": [
+        {
+          "id": "12c7b1ff-914b-41a1-ba49-8f1c76bbb4bd",
+          "shortcode": "Fogielman 2017",
+          "citation": "Fogielman, Charles-Antoine, ed. Evagrius Ponticus. A Euloge: Les vices opposés aux vertus (Sources chrétiennes, 591). Paris: Éditions du Cerf, 2017",
+          "type": {
+            "id": "edition",
+            "label": "Edition"
+          },
+          "note": [
+            "Greek version of the text"
+          ]
+        }
+      ]
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s1k593"
+      },
+      "alt_title": "Evagrius Ponticus, De malignis cogitationibus / On the Thoughts",
+      "locus": "ff. 32r–43v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "heading",
+            "label": "Heading"
+          },
+          "as_written": " ܬܘܒ ܪ̈ܝܫܐ ܕܡܪܝ ܐܘܓܪܝܣ ܐܡܝܪ̈ܝܢ ܥܠ ܚܘ̈ܫܒܐ ܕܥܪܨܝܢ ܥܠ ܝܚܝ̈ܕܝܐ ܘܥܠ ܟܠ ܕܒܥܢܘܝܘܬܐ ܡܬܕܒܪ",
+          "translation": [
+            "Chapters by Mār Evagrius about thoughts that occur to solitaries and to everybody who pursues the monastic way of life"
+          ]
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "as_written": "... ܠܘܩܕܡ ܥܠ ܚܘ̈ܫܒܐ ܐܝܠܝܢ ܕܥܒܝܕܝܢ ܣܩܘܒܠܐ ܠܟܠܗ ܕܘܒܪܐ ܕܕܚܠܬ ܐܠܗܐ"
+        },
+        {
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "as_written": "ܘܢܚܒܠ ܚܘܫܒܘܗܝ ܘܗܕܐ ܐܝܬܝܗ̇ ܗܝ ܕܟܬܝܒܐ ܕܪܓܙܘ ܘܠܐ ܬܚܛܘܢ ܘܡܛܠܬܗ̇ ܕܗܕܐ ...",
+          "note": [
+            "Text ends at: ch. 15",
+            "= Greek, ch. 16, καὶ διαφθείροντα αὐτοῦ τὰ νοήματα· καὶ τοῦτό ἐστι τὸ “ὀργίζεσθε, καὶ μὴ ἁμαρτάνετε” (ed. Guillaumont et al., p. 206–205, lines 19–21)"
+          ]
+        }
+      ],
+      "note": [
+        "The Syriac version of the work presents the text divided into chapters, each bearing its individual title and number. Some of the chapters have additional subdivision marked by rubrics.",
+        "Contents: Ch. 1 (f. 32r–v), Ch. 2 (ff. 32v–33r), Ch. 3 (ff. 33r–34r), Ch. 4 (ff. 34r–35r), Ch. 5 (ff. 35r–36r), Ch. 6 (f. 36r–v), Ch. 7 (ff. 36v–37r), Ch. 8 (ff. 37r–38r), Ch. 9 (ff. 38r–39r), Ch. 10 (f. 39r–v), Ch. 11 (ff. 39v–40v), Ch. 12 (ff. 40v–41v), Ch. 13 (ff. 41v–42r), Ch. 14 (ff. 42r–43r), Ch. 15 (ff. 43r–v, incomplete), [lacuna of four folios which are today BnF syr. 378, ff. 1–4]"
+      ],
+      "bib": [
+        {
+          "id": "fc1c6c15-bef7-47b8-917c-e13d0e166212",
+          "shortcode": "Guillaumont, Guillaumont, and Géhin 1998",
+          "citation": "Guillaumont, Antoine, Claire Guillaumont, and Paul Géhin, eds. Évagre le Pontique. Sur les pensées (SC, 438). Paris: Éditions du Cerf, 1998",
+          "type": {
+            "id": "edition",
+            "label": "Edition"
+          },
+          "note": [
+            "Greek edition of the text|~|On p. 307–309 one can find a concordance between the Greek and Syriac versions; the version attested by the Sinai Syriac 60 demonstrates some differences"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s18w4n"
+  ]
+}

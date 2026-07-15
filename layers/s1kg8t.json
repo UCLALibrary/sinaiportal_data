@@ -1,0 +1,80 @@
+{
+  "ark": "ark:/21198/s1kg8t",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 3 B, Overtext (Christian Palestinian Aramaic)",
+  "locus": "ff. 1-14",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "cpa",
+          "label": "Christian Palestinian Aramaic",
+          "writing_system": "Syriac"
+        }
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "ca. 25 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1d373",
+      "label": "Item 1"
+    }
+  ],
+  "assoc_date": [
+    {
+      "value": "9th-10th c. CE",
+      "iso": {
+        "not_before": "0801",
+        "not_after": "1000"
+      },
+      "type": {
+        "id": "origin",
+        "label": "Date of Origin"
+      }
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[3], p. 161"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/z1wq2397"
+  ]
+}

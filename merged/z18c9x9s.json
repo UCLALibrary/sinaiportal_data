@@ -105,6 +105,19 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "7th c.  CE",
+                "iso": {
+                  "not_before": "0601",
+                  "not_after": "0700"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
@@ -147,6 +160,19 @@
           ],
           "lang": [
             "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "5th-7th c. CE",
+              "iso": {
+                "not_before": "0401",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -163,6 +189,19 @@
           ],
           "lang": [
             "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 10th c. CE",
+              "iso": {
+                "not_before": "0975",
+                "not_after": "0985"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

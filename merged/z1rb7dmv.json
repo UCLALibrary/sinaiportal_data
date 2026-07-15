@@ -104,6 +104,15 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "n.d.",
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "03f2516b-1a60-4cb9-89de-24c655df4020",
@@ -145,6 +154,19 @@
           ],
           "lang": [
             "Church Slavonic"
+          ],
+          "orig_date": [
+            {
+              "value": "mid 11th c. CE",
+              "iso": {
+                "not_before": "1025",
+                "not_after": "1075"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -162,6 +184,19 @@
           ],
           "lang": [
             "Latin"
+          ],
+          "orig_date": [
+            {
+              "value": "9th-10th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "1000"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -178,6 +213,19 @@
           ],
           "lang": [
             "Church Slavonic"
+          ],
+          "orig_date": [
+            {
+              "value": "11th c. CE",
+              "iso": {
+                "not_before": "1001",
+                "not_after": "1100"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

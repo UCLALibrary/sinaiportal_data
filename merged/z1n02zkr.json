@@ -185,6 +185,19 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "Second half 9th c. CE",
+                "iso": {
+                  "not_before": "0851",
+                  "not_after": "0900"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "cb8b8b52-569b-4d1f-8d5c-adf911afd205",
@@ -247,6 +260,19 @@
           ],
           "lang": [
             "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -263,6 +289,19 @@
           ],
           "lang": [
             "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

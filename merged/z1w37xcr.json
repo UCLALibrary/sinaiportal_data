@@ -181,6 +181,19 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "9th c.  CE",
+                "iso": {
+                  "not_before": "0801",
+                  "not_after": "0900"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
@@ -243,6 +256,19 @@
           ],
           "lang": [
             "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

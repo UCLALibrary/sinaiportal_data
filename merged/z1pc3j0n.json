@@ -104,6 +104,19 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "11th c.  CE",
+                "iso": {
+                  "not_before": "1001",
+                  "not_after": "1100"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "6e969e87-70b6-4d13-bcff-a087e4b2b924",
@@ -145,6 +158,19 @@
           ],
           "lang": [
             "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "ca. 9th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "0900"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -161,6 +187,19 @@
           ],
           "lang": [
             "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "ca. 9th c. CE",
+              "iso": {
+                "not_before": "0750",
+                "not_after": "0950"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -177,6 +216,19 @@
           ],
           "lang": [
             "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "9th-10th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "1000"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

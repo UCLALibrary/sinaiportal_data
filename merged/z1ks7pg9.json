@@ -126,6 +126,19 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "13th c.   CE",
+                "iso": {
+                  "not_before": "1201",
+                  "not_after": "1300"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "deb668b6-feec-4828-8749-a97441881226",
@@ -168,6 +181,19 @@
           ],
           "lang": [
             "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "9th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "0900"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -184,6 +210,19 @@
           ],
           "lang": [
             "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "9th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "0900"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -200,6 +239,19 @@
           ],
           "lang": [
             "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "9th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "0900"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

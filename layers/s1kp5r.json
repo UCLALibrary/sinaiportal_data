@@ -23,6 +23,19 @@
       "label": "Item 1"
     }
   ],
+  "assoc_date": [
+    {
+      "value": "11th c. CE",
+      "iso": {
+        "not_before": "1001",
+        "not_after": "1200"
+      },
+      "type": {
+        "id": "origin",
+        "label": "Date of Origin"
+      }
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",

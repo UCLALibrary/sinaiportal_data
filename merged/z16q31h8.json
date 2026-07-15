@@ -85,7 +85,7 @@
                             "id": "explicit",
                             "label": "Explicit"
                           },
-                          "as_written": "و أعفوا الكاتب […]"
+                          "as_written": "و أعفوا الكاتب [....]"
                         }
                       ]
                     }
@@ -123,6 +123,18 @@
                     }
                   }
                 ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "1245 CE",
+                "iso": {
+                  "not_before": "1245"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
               }
             ],
             "bib": [

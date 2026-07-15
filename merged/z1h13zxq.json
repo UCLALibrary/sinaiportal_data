@@ -116,6 +116,18 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "932  CE",
+                "iso": {
+                  "not_before": "0932"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "7502e15c-0626-4086-9f3d-14febce6efc9",
@@ -177,6 +189,19 @@
           ],
           "lang": [
             "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "ca. 9th-10th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "0950"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -193,6 +218,19 @@
           ],
           "lang": [
             "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "ca. 9th-10th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "0950"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -209,6 +247,19 @@
           ],
           "lang": [
             "Georgian"
+          ],
+          "orig_date": [
+            {
+              "value": "ca. 9th-mid 10th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "0950"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -314,6 +365,19 @@
       ],
       "lang": [
         "Georgian"
+      ],
+      "orig_date": [
+        {
+          "value": "ca. 6th- mid 10th c. CE",
+          "iso": {
+            "not_before": "0501",
+            "not_after": "0948"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          }
+        }
       ]
     }
   ]

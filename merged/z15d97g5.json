@@ -110,6 +110,15 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "n.d.",
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "parent": [
               "ark:/21198/z15d97g5"
             ],
@@ -140,6 +149,19 @@
           ],
           "lang": [
             "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "2nd half 10th c. CE",
+              "iso": {
+                "not_before": "0951",
+                "not_after": "1000"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

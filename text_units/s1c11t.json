@@ -1,0 +1,147 @@
+{
+  "ark": "ark:/21198/s1c11t",
+  "reconstruction": false,
+  "label": "Hagiographies",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1j961"
+      },
+      "alt_title": "John Chrysostom",
+      "locus": "f. 154v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "heading",
+            "label": "Heading"
+          },
+          "as_written": "ܕܩܕܝܫܐ ܝܘܚܢܢ ܐܦܣܩܦܐ ܕܩܘܣܛܢܛܝܢܦܠܝܣ"
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "as_written": "... ܘܙܕ̇ܩ ܕܩܕܡ ܗܠܝܢ ܟܠܗܝܢ ܐܚܪ̈ܢܝܬܐ ܠܝܘܡܐ ܗܘ ܢܥܗܕܝܘܗܝ",
+          "note": [
+            "'= Καὶ δεῖ πρὸ τῶν ἄλλων ἁπάντων ἐκείνης αὐτὸν ἀναμνῆσαι τῆς ἡμέρας (PG 47, col. 349, lines 42–43)"
+          ]
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "as_written": "ܠܫܘܢܩܐ ܪܒܐ ܘܩܫܝܐ ܡܫܠܡ ...",
+          "note": [
+            "'= μετιόντος κολάσει (PG 47, col. 350, line 16)"
+          ]
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "John and the Robber"
+      },
+      "locus": "f. 155r–156v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "heading",
+            "label": "Heading"
+          },
+          "as_written": "ܬܫܥܝܬܐ ܕܥܠ ܝܘܚܢܢ ܫܠܝܚܐ ܩܕܝܫܐ"
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "as_written": "... ܫܡ̣ܥ ܫܘܥܝܬܐ ܕܠܐ ܐܝܬܝܗ̇ ܫܘܥܝܬܐ ܕܡܬܐܡܪܐ ܡܛܠ ܝܘܚܢܢ ܫܠܝܚܐ"
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "as_written": "ܗܠܝܢ ܡܢ ܬܫܥܝܬܗ ܕܩܠܝܡܣ ܢܬܬܣܝܡܢ ܡܛܠ ܥܘܗܕܢܐ ..."
+        }
+      ],
+      "bib": [
+        {
+          "id": "69d37db5-f6b4-4149-8272-e1a9f3c20100",
+          "shortcode": "Lollar 2020",
+          "citation": "Lollar, Jacob A. The History of John the Son of Zebedee: Introduction, Texts and Translations, Texts from Christian Late Antiquity 56. Piscataway: Gorgias Press, 2020",
+          "type": {
+            "id": "edition",
+            "label": "Edition"
+          },
+          "range": "p. 196–203"
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "An Account of the Decease of Saint Apostle John"
+      },
+      "locus": "f. 156v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "heading",
+            "label": "Heading"
+          },
+          "as_written": "ܬܘܒ ܥܘܗܕܢܐ ܕܝܠܗ ܕܩܕܝܫܐ ܝܘܚܢܢ ܫܠܝܚܐ ܕܐܬܢܝܚ ܒܐܦܣܣ ܡܕܝܢܬܐ ܕܐܣܝܐ ܦܪܐ ܛܣܪܘܢ ܩܠܢܕܘܢ ܐܝܘܪܝܘܢ ܕܐܝܬܘܗܝ ܥܣܪ̈ܝܢ ܘܬܫܥܐ ܒܟܢܘܢ ܩܕܝܡ"
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "as_written": "... ܐܝܬܘܗܝ ܗܘܐ ܥܡ ܐܚ̈ܐ ܛܘܒܢܐ ܝܘܚܢܢ ܟܕ ܪܘܙ ܒܡܪܝܐ"
+        },
+        {
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "as_written": "ܟܡܐ ܐܬܘ̈ܬܐ ܟܡܐ ܡܘܗ̈ܒܬܐ ..."
+        }
+      ],
+      "bib": [
+        {
+          "id": "349d31fc-5b5e-4240-9f33-f6ea6fecab8c",
+          "shortcode": "Wright 1871",
+          "citation": "Wright, William, ed. Apocryphal Acts of the Apostles. Vol I. London: 1871",
+          "type": {
+            "id": "edition",
+            "label": "Edition"
+          },
+          "range": "p. 66*–72*"
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s10k8k"
+  ]
+}

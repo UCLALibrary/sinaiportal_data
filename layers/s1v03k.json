@@ -1,0 +1,167 @@
+{
+  "ark": "ark:/21198/s1v03k",
+  "reconstruction": false,
+  "state": {
+    "id": "overtext",
+    "label": "Overtext"
+  },
+  "label": "Sinai Syriac 2 A, Overtext (Estrangela, Melkite)",
+  "writing": [
+    {
+      "script": [
+        {
+          "id": "estrangela",
+          "label": "Estrangela",
+          "writing_system": "Syriac"
+        },
+        {
+          "id": "melkite",
+          "label": "Melkite",
+          "writing_system": "Syriac"
+        }
+      ],
+      "note": [
+        "Estrangela (Melkite script in the replacements and additions)"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "columns": "2 columns",
+      "lines": "25-26 lines"
+    }
+  ],
+  "text_unit": [
+    {
+      "id": "ark:/21198/s1nm2j",
+      "label": "Item 1"
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "locus": "f. 179r",
+      "lang": [
+        {
+          "id": "class1252",
+          "label": "Syriac"
+        }
+      ],
+      "as_written": "ܐܫܬܠܡ ܒܥܘܕܪܢ ܡܪܝܐ ܣܘܢܟܣܪܝܢ ܝܘܡ ܕ ܒܫ̄ ܟ̄ܗ̄ ܒܝܪܚܐ ܫܒܛ ܆ ܫܢܬܐ ܫܬܐ ܐܠܦܝ̈ܢ ܘܫܒܥܡ̈ܐܐ ܘܣ̄ܚ̄ ܠܠܥܠܡܐ ܒܐܝܕܐ ܐܢܫܐ ܘܚܛܝܐ ܒܫܡ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ ܟܬܒܗ ܒܛܘܪ ܣܝܢܝ ܐܠܗܐ ܢܪܚܡ ܥܠܘܗܝ ܘܥܠ ܟܠ ܡܢ ܕܩܪܐ ܘܐܡܪ ܐܡܝܢ ܘܐܡܝܢ",
+      "translation": [
+        "Synaxarion was completed on Wednesday, 25 of the month Shbaṭ [February], in the year 6768 (according to the era of the creation) of the world [= CE 1260] by the hand of the sinner and a monk (only) by designation John bar Manṣūr, who wrote this on Mount Sinai. God, have mercy upon him and upon everybody who will read and chant. Amen. And amen."
+      ],
+      "assoc_name": [
+        {
+          "value": "Monk John bar Manṣūr",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1260 CE",
+          "iso": {
+            "not_before": "1260"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "completed on Wednesday, 25 of the month Shbaṭ [February], in the year 6768 (according to the era of the creation) of the world [= CE 1260]"
+          ]
+        }
+      ],
+      "note": [
+        "Colophon of the Melkite liturgical supplement"
+      ]
+    }
+  ],
+  "assoc_date": [
+    {
+      "value": "6th c. CE",
+      "iso": {
+        "not_before": "0501",
+        "not_after": "0600"
+      },
+      "type": {
+        "id": "origin",
+        "label": "Date of Origin"
+      }
+    }
+  ],
+  "bib": [
+    {
+      "id": "33aadcf6-1e7a-4533-abd9-052809f06b83",
+      "shortcode": "Lewis 1894",
+      "citation": "Lewis, Agnes Smith. Catalogue of the Syriac Manuscripts in the Convent of S. Catharine on Mount Sinai. Studia Sinaitica I. London: Cambridge University Press, 1894",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "pp. 1-2"
+    },
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[152], p. 152 "
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "shortcode": "Géhin 2017",
+      "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "pp. 28-30"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "url": "https://www.loc.gov/item/0027938619A-ms/"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). "
+      },
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/z1x07bdf"
+  ]
+}

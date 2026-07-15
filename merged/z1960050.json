@@ -122,6 +122,18 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "986  CE",
+                "iso": {
+                  "not_before": "0986"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "8eab4b8e-e5d8-40c6-9a5f-70748ca6d41e",
@@ -164,6 +176,19 @@
           ],
           "lang": [
             "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

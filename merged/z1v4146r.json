@@ -102,6 +102,19 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "11th c.  CE",
+                "iso": {
+                  "not_before": "1001",
+                  "not_after": "1100"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
@@ -154,6 +167,19 @@
           ],
           "lang": [
             "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

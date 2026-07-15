@@ -196,6 +196,19 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "First quarter 10th c. CE",
+                "iso": {
+                  "not_before": "0901",
+                  "not_after": "0925"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "cb8b8b52-569b-4d1f-8d5c-adf911afd205",
@@ -268,6 +281,19 @@
           ],
           "lang": [
             "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -284,6 +310,19 @@
           ],
           "lang": [
             "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -300,6 +339,19 @@
           ],
           "lang": [
             "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -316,6 +368,19 @@
           ],
           "lang": [
             "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "7th-8th c. CE",
+              "iso": {
+                "not_before": "0601",
+                "not_after": "0800"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -332,6 +397,19 @@
           ],
           "lang": [
             "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "5th-6th c. CE",
+              "iso": {
+                "not_before": "0401",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

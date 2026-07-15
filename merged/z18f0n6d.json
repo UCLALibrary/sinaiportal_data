@@ -98,6 +98,19 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "10th c. CE",
+                "iso": {
+                  "not_before": "0901",
+                  "not_after": "1000"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "cataloguer": [
               {
                 "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",

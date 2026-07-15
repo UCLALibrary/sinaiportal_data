@@ -97,6 +97,19 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "13th c.  CE",
+                "iso": {
+                  "not_before": "1201",
+                  "not_after": "1300"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
@@ -139,6 +152,19 @@
           ],
           "lang": [
             "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "12th c. CE",
+              "iso": {
+                "not_before": "1101",
+                "not_after": "1200"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -155,6 +181,19 @@
           ],
           "lang": [
             "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "8th c. CE",
+              "iso": {
+                "not_before": "0701",
+                "not_after": "0800"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]

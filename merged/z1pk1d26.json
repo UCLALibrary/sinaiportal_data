@@ -99,6 +99,19 @@
                 }
               }
             ],
+            "assoc_date": [
+              {
+                "value": "10th c.  CE",
+                "iso": {
+                  "not_before": "0901",
+                  "not_after": "1000"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "31086588-c563-4dca-b793-d9e4cbdc887b",
@@ -141,6 +154,19 @@
           ],
           "lang": [
             "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -157,6 +183,19 @@
           ],
           "lang": [
             "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -173,6 +212,19 @@
           ],
           "lang": [
             "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         },
         {
@@ -189,6 +241,19 @@
           ],
           "lang": [
             "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "6th-7th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
           ]
         }
       ]
