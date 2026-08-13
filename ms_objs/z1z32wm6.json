@@ -12,6 +12,16 @@
     "id": "quire",
     "label": "Quire(s)"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -66,6 +76,15 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Sewn quire (quaternion); this was quire 2 of the original manuscript as indicated by quire signature"
     }
   ],
   "bib": [

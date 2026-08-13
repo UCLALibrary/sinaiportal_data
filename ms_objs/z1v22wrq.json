@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 1r, 1v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,22 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "f. 1"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Fol. 1 and fol. 2 cannot be contiguous, although they must come from the same manuscript."
     }
   ],
   "iiif": [

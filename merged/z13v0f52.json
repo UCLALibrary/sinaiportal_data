@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire 1: 1x8 (8), Quire 2: 1x4 (12), Quires 3 to 5: 3x8 (36), Quire 6: 1x6 (42), Quires 7 to 9: 3x8 (67; there is no number 59 in the foliation sequence), Quire 10: 1x10 (77), Quires 11 to 18: 7x8 (133), Quire 19: 1x6+1 (I140), Quires 20 to 25: 6x8 (188), Quire 26: 1x6+1+1 (196), Quire 27: 1x8 (204)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -248,6 +258,43 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "The number 59 was omitted in the foliation sequence; f. 58 is foliated '58+59', with the following leaf foliated as number 60"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Each quire was numbered in the center of the lower margin on the concluding verso and the following recto, using the letters of the Greek alphabet, to ensure proper order when the manuscript was bound"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "The original sewn book block (sewn on only three cords), and the original boards have been recently rebound with new headband and footband, the whole covered in a deep red polished calfskin of cheap quality, the inside of each board lined in modern paper, in contradistinction to Byzantine binding techniques; the metal post in the middle of the top board was retained, but no attempt was made to replicate the braided cord and loop that would have attached to this from the bottom board, providing the manuscript with a slight pressure when closed"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "The modern headband and footband have already broken because of the lack of flexibility in the binding"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "All leaves palimpsested, some stitched together from two separate leaves of parchment | The parchment varies in color, thickness, and quality, because the leaves were taken from several different original manuscripts; the leaves are irregular in size, since they were left untrimmed after binding"
     }
   ],
   "bib": [

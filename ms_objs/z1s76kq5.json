@@ -15,6 +15,16 @@
     "label": "Codex"
   },
   "coll": "[I olim Hiersemann 500/47, ff. 1–6 (lost)] ; II ff. 1–8 ; III ff. 9–17 (f. 16 is an insertion, a singleton) ; IV ff. 18–25 (unnumbered insertion after f. 19) ; V ff. 26–33 ; VI ff. 34–41 ; VII ff. 42–48 [+ A 296 inf., f. 288] ; [VIII, partially Syriac M79N, ff. 1–2] ; IX–XXII missing ; [XXIII Syriac M71N, ff. 1–4]",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -66,6 +76,36 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Incomplete manuscript; originally composed of 23 quires, of which 8 quires are preserved (fully or partially). Quire numbers in Syriac numerals on the first recto of each quire, top right corner; quires of 8 ff., with the exception of quire XXIII"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Supplicant inscription, front board inside | Inscription, f. 47v"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "One binding board, back board lacking."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "F. 19b is palimpsest"
     }
   ],
   "bib": [

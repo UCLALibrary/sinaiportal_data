@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -127,6 +133,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "The front pastedown consists of three leaves glued together"
     }
   ],
   "bib": [

@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "catchwords",
+      "label": "Catchwords"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -267,6 +277,25 @@
                       "locus": "ff. 277v-279v"
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    },
+                    {
+                      "id": "table",
+                      "label": "Table(s)"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "para",
+                        "label": "Paracontent Note"
+                      },
+                      "value": "Table, f. 29r; bordered table, f. 209r"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
@@ -296,6 +325,45 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "border-deco",
+                "label": "Border(s), Decorative"
+              },
+              {
+                "id": "initials-deco",
+                "label": "Initial(s), Decorated"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Geometric headpieces, ff. 2v, 65v, 145r, 158r, 167v, interlace; minor headpiece, f. 102v | Geometric decorations, ff. 70v, 156r, 169r; vegetative decoration, f. 98r | Border with vine, f. 61r I Decorated Greek initials, ff. 55r-56r, rubricated; f. 276r, vegetative"
               }
             ],
             "bib": [
@@ -348,6 +416,16 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "transfer",
+          "label": "Transfer of ownership"
+        },
+        {
+          "id": "gift",
+          "label": "Gift"
+        }
+      ],
       "locus": "f. 277r",
       "lang": [
         {
@@ -387,6 +465,16 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "transfer",
+          "label": "Transfer of ownership"
+        },
+        {
+          "id": "purchase",
+          "label": "Purchase"
+        }
+      ],
       "locus": "f. 277r",
       "lang": [
         {
@@ -443,6 +531,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Greek text on flyleaves including front board inside"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Ff. 1–9 resewn higher; f. 10 loose; ff. 19–20 loose bifolio; ff. 148–65 rodent damage top corner"
     }
   ],
   "bib": [

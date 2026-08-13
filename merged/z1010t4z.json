@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 81, 89, 102, 95, 92, 101, 84, 96",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -148,6 +158,15 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Lower (oldest) layer of double palimpsest"
+              }
+            ],
             "bib": [
               {
                 "id": "1dd25ff5-4d69-4d2d-9550-e556790887c1",
@@ -193,6 +212,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 81, 84, 89, 92, 95–96, 101–102"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Seven folia belong to the same quire, that can be reconstructed as follows: 81, missing folio, 89, 102, 95, 92, 101, 84 (Rossetto). Folio 96 comes from a different quire"
     }
   ],
   "iiif": [

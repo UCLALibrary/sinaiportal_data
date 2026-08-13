@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -192,6 +198,15 @@
                       ]
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Lectionary tables ff. 163-193r"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s11k5r"
                   ],
@@ -207,6 +222,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 163r",
                 "lang": [
                   {
@@ -239,6 +260,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 193r",
                 "lang": [
                   {
@@ -247,6 +274,16 @@
                   }
                 ],
                 "as_written": "كمل يعون الله ورحمته كتبة السنكساد الاثنى عشرشهر لكل السنة التي أولها أيلول وآخرها اب ولله الشكر والسجود والسبح دائما"
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
               }
             ],
             "bib": [
@@ -298,6 +335,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 202 and 223 lacking"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Reader and supplicant inscriptions, f. 1r | Reader inscription, f. 193v | Inscription (Coptic?), f. 194v"
     }
   ],
   "bib": [

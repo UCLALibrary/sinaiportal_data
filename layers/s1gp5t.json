@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 294r",
       "lang": [
         {
@@ -55,6 +61,37 @@
       "note": [
         "Attested places:  Mount Sinai"
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Ornate geometric headpiece, f. 135r, cross and knot motif, f. 1r ascending knots; f. 83r, knot motif with fleur de lis; f. 225r, vegetative and fleur de lis motif"
     }
   ],
   "bib": [

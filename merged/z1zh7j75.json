@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 57r, 57v, 70v, 70r, 95v, 95r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -147,6 +157,15 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "This UTO was part of a different original manuscript and does not have any relation to other undertext folios"
+              }
+            ],
             "bib": [
               {
                 "id": "ba235bc4-167a-49a7-8511-9ab3d357b098",
@@ -195,6 +214,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 57, 70, 95"
     }
   ],
   "iiif": [

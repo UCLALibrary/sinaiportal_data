@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 246v, 241r; remainder not yet established",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -183,6 +193,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 219–220, 224–239, 241–246, 248–261, 263, 265"
     }
   ],
   "iiif": [

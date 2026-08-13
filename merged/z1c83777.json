@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire 1: 5x1+1x2 (7), Quire 2: 1x8 (15), Quire 3: 1x2+5x1 (22), Quire 4: 1x10 (32), Quire 5: 1x6 (38)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -281,6 +291,43 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation beginning with 1 at top center (followed here); irregular alternative foliation in outer margin, not followed here; foliation in pencil, bottom (not followed)"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Covers missing"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Codex incomplete at beginning and end | Unbound quires, stitching largely intact | All folios very dark and stiff, fragmentary folios at front and back"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "The dating of this manuscript by Aleksidze, et al. is now called into question because of the erased undertexts of later date"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Palimpsest discernible by surface reflection"
     }
   ],
   "bib": [

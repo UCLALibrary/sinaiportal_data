@@ -15,6 +15,12 @@
     "label": "Codex"
   },
   "coll": "II ff. 1–7 (incomplete) ; III ff. 7–14 ; IV ff. 15–22 ; V ff. 23–30 ; VI ff. 31–38 ; VII ff. 39–47 (f. 44 is a singleton) ; VIII ff. 48–55 ; IX ff. 56–63 ; X ff. 64–71 ; XI ff. 72–79 ; XII ff. 80–87 ; XIII ff. 88–95 ; XIV ff. 96–103 ; XV ff. 104–110 (incomplete)",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -42,6 +48,29 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quires of 8 folios; signatures in Syriac numerals on the top margin of the first recto of each quire, twice"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two binding boards"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Palimpsest throughout"
     }
   ],
   "bib": [

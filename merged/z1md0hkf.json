@@ -111,6 +111,25 @@
                 }
               }
             ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Geometric headpieces on ff. 71r, 125r, 153r | Minor geometric headpieces on ff. 133r, 152v"
+              }
+            ],
             "bib": [
               {
                 "id": "deb668b6-feec-4828-8749-a97441881226",

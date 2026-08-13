@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -107,6 +113,21 @@
                 }
               }
             ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Headpiece (f. 1r)"
+              }
+            ],
             "bib": [
               {
                 "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
@@ -135,6 +156,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "The front and end fly-leaves each consist of two glued together leaves"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Palimpsest and parchment front and end fly-leaves ; Syro-Palestinian script on the flyleaves."
     }
   ],
   "bib": [

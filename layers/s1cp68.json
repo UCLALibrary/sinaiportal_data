@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 164v",
       "lang": [
         {
@@ -53,6 +59,12 @@
         "id": "origin",
         "label": "Date of Origin"
       }
+    }
+  ],
+  "features": [
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "bib": [

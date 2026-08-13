@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 270r",
       "lang": [
         {
@@ -68,6 +74,33 @@
         "Attested names:  Bishop Germanius, Mount Sinai",
         "Attested places:  Mount Sinai"
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Minor geometric headpieces throughout, beginning on ff. 58r"
     }
   ],
   "bib": [

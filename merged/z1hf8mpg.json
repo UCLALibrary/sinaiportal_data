@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 1v, 2r, 3v, 4r, 5v, 6r, 7v, 8r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -164,6 +174,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Text is written on the flesh sides."
     }
   ],
   "iiif": [

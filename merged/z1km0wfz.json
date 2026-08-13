@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "catchwords",
+      "label": "Catchwords"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -96,6 +106,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 468v",
                 "lang": [
                   {
@@ -116,6 +132,16 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
               }
             ],
             "bib": [

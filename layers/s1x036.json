@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 107ar",
       "lang": [
         {
@@ -64,6 +70,37 @@
       "note": [
         "Attested places:  Mount Sinai"
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "deco-architectural",
+      "label": "Decoration, Architectural"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Headpiece on f. 108r, intertwined vines with thorns and fleur de lis in arch | Minor geometric headpiece on f. 130r"
     }
   ],
   "bib": [

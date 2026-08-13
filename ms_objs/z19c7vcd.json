@@ -13,6 +13,16 @@
     "label": "Folio(s)"
   },
   "coll": " 9x1 (9)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -68,6 +78,36 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Folios are identified by reference to the plates in Brock 1995"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Foliation in Coptic"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Four damaged folios and five further fragments"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Palimpsest: Armenian Erkatagir. (a) Inner part of the top of a folio, with parts of eight lines; Armenian underwriting; (b) Almost complete folio, quite well preserved; (c) and (d) Two consecutive damaged folios, with Armenian underwriting; (e) Damaged top half of a folio, with Armenian underwriting; (f) Fragment from the middle of a folio with parts of eleven lines, and with traces of Syriac underwriting; (g) Diagonal strip; (h) Small scrap with seven half lines; (i) Folio with damaged top, inner side and bottom, Armenian underwriting."
     }
   ],
   "bib": [

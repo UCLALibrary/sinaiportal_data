@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 7v, 1br",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -132,6 +142,15 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Belongs to the same codex as the UTOs Ephesians and 1 Timothy in Sinai Arabic 514"
+              }
+            ],
             "cataloguer": [
               {
                 "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
@@ -165,6 +184,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1br, 7v"
     }
   ],
   "iiif": [

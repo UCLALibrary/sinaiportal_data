@@ -36,6 +36,29 @@
       }
     }
   ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Headpiece on f. 4r, intertwined vines with thorns, ascending and descending cross"
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",

@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -418,6 +424,21 @@
                       ]
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "toc",
+                      "label": "Table(s) of Contents"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Table of Contents, ff. 1v-24r"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
@@ -443,6 +464,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 232v ",
                 "lang": [
                   {
@@ -469,6 +496,16 @@
                     ]
                   }
                 ]
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
               }
             ],
             "bib": [
@@ -520,6 +557,29 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Donation inscription, f. 1r | Reader inscriptions, etc., ff. 78r, 233r, 291v"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Half of back board lacking"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Ff. 290–291 split in half"
     }
   ],
   "bib": [

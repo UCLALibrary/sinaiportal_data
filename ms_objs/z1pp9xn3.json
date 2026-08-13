@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 81v (right side), 81r (left side), 81r (right side), 81v (left side)",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "f. 81"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "The current fol. 81 was a bifolio (recto 270 degrees, verso 90 degrees) and therefore it consists of two folios (1 = left portion of fol. 81r / right portion of fol. 81v; 2 = right portion of fol. 81r / left portion of fol. 81v [only the inner half is preserved])"
     }
   ],
   "iiif": [

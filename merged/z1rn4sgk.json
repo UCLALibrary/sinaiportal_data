@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -120,6 +126,51 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "border",
+                "label": "Border(s)"
+              },
+              {
+                "id": "illumination",
+                "label": "Illumination(s)"
+              },
+              {
+                "id": "calligraphic-practice",
+                "label": "Calligraphic Practice"
+              },
+              {
+                "id": "deco-anthropomorph",
+                "label": "Decoration, Anthropomorphic"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Ornate knotted headpiece, f. 110r, bordered, Chrysography"
+              },
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Partial anthropomorphic figure and decorative calligraphy practice, f. 75r"
+              },
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Bordered text, marginalia, throughout."
               }
             ],
             "bib": [

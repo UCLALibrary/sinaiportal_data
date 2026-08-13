@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -93,6 +99,15 @@
                       ]
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Includes introduction and index at the beginning"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s15s4p"
                   ],
@@ -108,6 +123,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 619r",
                 "lang": [
                   {
@@ -143,6 +164,16 @@
                     ]
                   }
                 ]
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
               }
             ],
             "bib": [
@@ -194,6 +225,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Reader inscription, front flyleaf 1r | Multiple reader inscriptions, front flyleaf 1v, f. 615v | Donation inscription (Coptic?), f. 619r | Multiple reader inscriptions, etc., f. 619v | Reader inscription, back board inside"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Rodent damage affecting text front board inside–f. 7"
     }
   ],
   "bib": [

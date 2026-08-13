@@ -13,6 +13,16 @@
     "label": "Folio(s)"
   },
   "coll": "Quire 1: 1x6 (6), 3x2 (12)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -49,6 +59,29 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Consecutive foliation in lower right corner is followed here; some folios carry alternate foliation in pencil (not followed)"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Binding absent"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "One quire and three bifolios, unbound | All folios are incomplete at lower margin and severely cockled"
     }
   ],
   "bib": [

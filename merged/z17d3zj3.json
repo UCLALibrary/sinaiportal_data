@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -120,6 +126,25 @@
                       ]
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    },
+                    {
+                      "id": "table",
+                      "label": "Table(s)"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Table, ff. 301-302"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
@@ -149,6 +174,37 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "border-deco",
+                "label": "Border(s), Decorative"
+              },
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Partial border on f. 240v, with fleur de lis, paired ascending cross, sun, and crescent forms | Minor geometric and vegetative headpieces throughout, beginning on f. 5v"
               }
             ],
             "bib": [
@@ -189,6 +245,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Donation inscription, etc. f. 72v | Reader inscriptions, ff. 184r, 221r, 240v | Supplicant inscription, f. 211r"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Rodent damage affecting text on ff. 1–6 and 290–303"
     }
   ],
   "bib": [

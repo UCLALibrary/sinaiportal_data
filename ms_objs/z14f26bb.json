@@ -12,6 +12,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -81,6 +91,36 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Palimpsest folios are in the third quire; Quire 3: 1x8 (16-23)"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quires are repaired with parchment strips with writing in Greek and Christian Palestian Aramaic"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood; metal studs along narrow edges of front and back covers; leather fastening strip on back cover. Leather covering of spine and parts of back cover missing."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Codex with partially exposed spine | Stiff parchment folios throughout, many with signs of erasure"
     }
   ],
   "bib": [

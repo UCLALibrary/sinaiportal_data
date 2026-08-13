@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 101r, 102v, 100v, 99r, 100r, 99v, 101v, 102r, 104r, 103v, 97v, 98r, 97r, 98v, 104v, 103r, 66v, 65r, 66r, 65v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,15 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 65–66, 97–104"
     }
   ],
   "iiif": [

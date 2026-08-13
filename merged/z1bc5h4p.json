@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "catchwords",
+      "label": "Catchwords"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -143,6 +149,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Occasional catchwords"
     }
   ],
   "bib": [

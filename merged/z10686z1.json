@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 21–58, 60–67, 136–139",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -209,6 +219,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "It is not possible to reconstruct the order of all the folios; a certain sequence is fols. 138r+137v and 138v+137r."
     }
   ],
   "iiif": [

@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "232v",
       "lang": [
         {
@@ -60,6 +66,33 @@
         "id": "origin",
         "label": "Date of Origin"
       }
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "border",
+      "label": "Border(s)"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Minor geometric headpieces throughout | Border, f. 232v"
     }
   ],
   "bib": [

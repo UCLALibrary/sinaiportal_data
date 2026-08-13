@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -94,6 +100,15 @@
                       "locus": "ff. 3r-256v"
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Tables on ff. 72v, 73v, 118r, 118v, 119r, 119v"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s1kk63"
                   ],
@@ -114,6 +129,29 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "table",
+                "label": "Table(s)"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Fleurons on ff. 72r, 117v, 119v, 195v, 196v"
               }
             ],
             "bib": [
@@ -144,6 +182,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Decorative binding on front board outside"
     }
   ],
   "bib": [

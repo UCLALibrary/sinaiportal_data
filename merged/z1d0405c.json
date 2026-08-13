@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 125v, 125r, 122v, 122r, 124r, 124v, 123r, 123v, 120r, 120v, 127r, 127v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -136,6 +146,15 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "To the same original manuscript belong also the UTO Genesis from this same manuscript and the UTOs Genesis and Exodus from Sinai Arabic NF 28 (Rossetto)"
+              }
+            ],
             "bib": [
               {
                 "id": "874101cc-626a-43d5-91a7-a9b1091871cd",
@@ -182,6 +201,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 120,122–125, 127"
     }
   ],
   "iiif": [

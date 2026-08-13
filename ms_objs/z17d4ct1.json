@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "deco-anthropomorph",
+      "label": "Decoration, Anthropomorphic"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -39,6 +49,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Greek text, front and back board, inside"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Face with raised arm, back board inside"
     }
   ],
   "bib": [

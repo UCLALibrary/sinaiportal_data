@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 2r+7r+8v, 2v+7v+8r; 6r, 6v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -159,6 +169,24 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Possibly Egypt",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "The fragmentary fols. 2r+7r+8v as well as 2v+7v+8r were originally part of one original folio"
+              }
+            ],
             "bib": [
               {
                 "id": "409fdd9a-3d80-4944-ad02-ac64be40c0da",
@@ -221,6 +249,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 2, 4-r, 4-v, 6r, 6–8"
     }
   ],
   "iiif": [

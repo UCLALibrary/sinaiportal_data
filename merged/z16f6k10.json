@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 64r, 68, 70v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -96,6 +106,22 @@
                     "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
                   }
                 }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Double palimpsest, lowest layer"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Multiple decorative features, including faint traces of figures (saints?)"
               }
             ],
             "cataloguer": [

@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 95v",
       "lang": [
         {
@@ -53,6 +59,37 @@
           ]
         }
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Vegetative and geometric headpieces throughout, beginning on f. 3r | Ornate geometric headpiece on f. 27r, flower motif with volutes | Geometric decorations on ff. 17r, 42r, 69v, 80v, knotted cross"
     }
   ],
   "bib": [

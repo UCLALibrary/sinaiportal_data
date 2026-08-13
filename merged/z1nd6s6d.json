@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 130–131, 143, 146",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -138,6 +148,24 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "assoc_place": [
+              {
+                "value": "Possibly Jerusalem",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Traces of the same undertext are also found in Leipzig University Library, ms. V 1096, which contains four folios that are likely to have originally belonged to Sinai Georgian 34"
               }
             ],
             "bib": [

@@ -11,6 +11,16 @@
     "id": "folio",
     "label": "Folio(s)"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -123,6 +133,15 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "para",
+                  "label": "Paracontent Note"
+                },
+                "value": "Annotations (glosses) in Greek inclined majuscule"
+              }
+            ],
             "bib": [
               {
                 "id": "6ced4f13-e0b7-43d6-aa6d-260c00656341",
@@ -188,6 +207,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Not foliated; arrangement and numbering follows Brock 1995, which is based on the sequence of the Psalms"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Three bifolios, a single folio, and five fragments, total of 24 sides"
     }
   ],
   "bib": [

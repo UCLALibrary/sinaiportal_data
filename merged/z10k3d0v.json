@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -114,6 +120,25 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Geometric headpiece on Front Board Inside, f. 3r | Geometric decoration, ff. 23v, 37r, 83r, 98r, 114v"
               }
             ],
             "bib": [

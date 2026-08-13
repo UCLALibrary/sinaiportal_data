@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 79r",
       "lang": [
         {
@@ -76,6 +82,33 @@
       "note": [
         "Attested places:  Mount Sinai"
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Vegetative tailpiece, f. 62r"
     }
   ],
   "bib": [

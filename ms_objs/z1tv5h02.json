@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 7r (col. a), 2v (col. b), 7r (col. b), 2v (col. b), 7v (col. a), 2r (col. a), 7v (col. b), 2r (col. b), lacuna, 8r (col. a), 1v (col. a), 8r (col. b), 1v (col. b), 8v (col. a), 1r (col. a), 8v (col. b), 1r (col. b), lacuna, 5r (col. a), 4v (col. a), 5r (col. b), 4v (col. b), 5v (col. a), 4r (col. a), 5v (col. b), 4r (col. b), lacuna, 6r (col. a), 3v (col. a), 6r (col. b), 3v (col. b), 6v (col. a), 3r (col. a), 6v (col. b), 3r (col. b)",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,22 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1–8"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Nonconsecutive undertext"
     }
   ],
   "iiif": [

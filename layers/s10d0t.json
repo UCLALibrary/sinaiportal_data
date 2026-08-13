@@ -37,6 +37,47 @@
       }
     }
   ],
+  "features": [
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "border",
+      "label": "Border(s)"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Vegetal Headpieces, f. 162v, knotted rosette and vine motif; f. 221v, vine motif with ascending cross | Minor vegetal headpieces, vine motif from ff. 50r-388v"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Knotted rosettes, ff. 1r, 38v"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Borders, ff. 230v, 235v, 441v-442r; Partial border, ff. 11r, 27v"
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",

@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 98v",
       "lang": [
         {
@@ -61,6 +67,33 @@
         "id": "origin",
         "label": "Date of Origin"
       }
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Headpiece on f. 241v | Minor geometric decorations, ff. 138r, 170r, 170v I Decoration, crosses, f. 180v"
     }
   ],
   "bib": [

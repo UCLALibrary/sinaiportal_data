@@ -11,6 +11,16 @@
     "id": "bifolio",
     "label": "Bifolio(s)"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -82,6 +92,15 @@
                       }
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Fol. 2v has the beginnings of an index of lections in CPA"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s1x32v"
                   ],
@@ -108,6 +127,21 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Two six-pointed stars with dots, in red and black ink, on f. 2r"
               }
             ],
             "bib": [
@@ -204,6 +238,29 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Not foliated; sequence follows Brock, 1995, pl. 436-437"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Ff. 1v and 2r contain some notes in Arabic, including a date (AM 6760 = AD 1252)"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Bifolio; five evenly spaced horizontal creases running across bifolio"
     }
   ],
   "bib": [

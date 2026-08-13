@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 64r, 64v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -124,6 +134,15 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "This UTO is not part of the UTO of the Pauline Epistles with Euthalian apparatus as the script style is different and the text passage identified overlaps with that contained in the undertext of Sinai Georgian NF M 13, fol. 62; it also overlaps with the UTO Hebrews in Sinai Syriac 7"
+              }
+            ],
             "cataloguer": [
               {
                 "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
@@ -157,6 +176,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "f. 64"
     }
   ],
   "iiif": [

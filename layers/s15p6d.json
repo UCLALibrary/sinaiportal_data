@@ -37,6 +37,29 @@
       }
     }
   ],
+  "features": [
+    {
+      "id": "deco-full-page",
+      "label": "Decoration, Full-page"
+    },
+    {
+      "id": "deco-zoomorph",
+      "label": "Decoration, Zoomorphic"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Full page decoration on f. 2r"
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",

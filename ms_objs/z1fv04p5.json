@@ -15,6 +15,12 @@
     "label": "Codex"
   },
   "coll": "I (Greek II) [Or. 8608, f. 37; † G-151, 1 f.] Syriac 44, ff. 1–6 ; II (Greek III) Syriac 44, ff. 7–14 ; III (Greek IV) ff. 15–20, 2 fols. cut off. ; IV (Greek V) ff. 21–28 ; V (Greek VI) ff. 29–36 ; VI (Greek VII) ff. 37–44 ; VII (Greek VIII)\tff. 45–52 ; VIII (Greek IX) ff. 53–60 ; IX (Greek X) ff. 61–68 ; X (Greek XI) ff. 69–76 ; XI (Greek XII) ff. 77–79, 5 fols. cut off ; XII (Greek XIII)\tff. 80–87 ; XIII (Greek XIV) ff. 88–95 ; XIV (Greek XV) ff. 96–100, 3 fols. cut off ; XV (Greek XVI) ff. 101–108 ; XVI (Greek XVII) ff. 109–112, 4 fols. cut off ; XVII (Greek XVIII) ff. 113–120 ; XVIII (Greek XIX) ff. 121–128 ; XIX (Greek XX) ff. 129–136 ; XX (Greek XXI) ff. 137–144 ; XXI (Greek XXII) ff. 145–148, 4 fols. cut off ; XXII (Greek XXIII) ff. 149–156 ; XXIII (Greek XXIV) ff. 157–164 ; XXIV (Greek XXV) ff. 165–172 ; XXV (Greek XXVI) ff. 173–180 ; XXVI (Greek XXVII) ff. 181–188 ; XXVII (Greek XXVIII) ff. 189–196 ; XXVIII (Greek XXIX) ff. 197–204 ; XXIX (Greek XXX) ff. 205–211, 1 fol. cut off ; XXX (Greek XXXI) ff. 212–219 ; XXXI (Greek XXXII) ff. 220–227 ; [XXXII † G-151, 4 ff.; Vat. sir. 647, ff. 44–46, 2]",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -62,6 +68,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Syriac numbering in black or red ink in the bottom margin of the first and/or last folio in each quire, Greek numbering on the top margin of the first folio in each quire (does not correspond to the Syriac numbering); quires of 8 ff., with the exception of quires III (6 ff.), XI (3 ff.), XIV (5 ff.), XVI (4 ff.)"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two binding boards."
     }
   ],
   "bib": [

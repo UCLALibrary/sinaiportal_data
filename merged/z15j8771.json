@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 3v+8r, 3r+8v, 23v+24r, 23r+24v, 10r+13v, 10v+13r, 4r+7v, 4v+7r, 15v+22r, 15r+22v, 11v+12r, 11r+12v, 27v, 27r, 26v, 25r, 25v, 26r, 9r+14v, 9v+14r, 5r+6v, 5v+6r, 1r+2v, 1v+2r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -161,6 +171,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1–15, 22–27"
     }
   ],
   "iiif": [

@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 35r+34v, 36v+37r, 36r+37v, 35v+34r; 32v+33r, 31r+30v, 31v+30r, 32r+33v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -156,6 +166,15 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "All folios are double palimpsest, with fragments from the Life of St. Febronia as the upper palimpsest layer"
+              }
+            ],
             "bib": [
               {
                 "id": "513d68f3-92eb-4b9d-84a1-d8c2f6f5b4d2",
@@ -201,6 +220,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 30–37"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "One folio of the original has yielded four folios of the palimpsest. The eight extant folios thus constituted two folios (probably one bifolio) of the original"
     }
   ],
   "iiif": [

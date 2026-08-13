@@ -32,6 +32,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "ff. 186v-187r",
       "lang": [
         {
@@ -51,6 +57,47 @@
         "id": "origin",
         "label": "Date of Origin"
       }
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "border-deco",
+      "label": "Border(s), Decorative"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Red borders throughout, beginning on f. 9v"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Cross, f. 16r"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Quire signatures with geometric decoration ff. 4r, 12r, 20r, 28r, 36r, 84r, 92r, 100r, 108r, 116r, 148r, 156r, 164r, 180r; numerical, ff .229, 237r, 245r, 253r"
     }
   ],
   "bib": [

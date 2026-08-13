@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -154,6 +160,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 242v",
                 "lang": [
                   {
@@ -195,6 +207,63 @@
                     ]
                   }
                 ]
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "border-deco",
+                "label": "Border(s), Decorative"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-calligraphic",
+                "label": "Decoration, Calligraphic"
+              },
+              {
+                "id": "initials-deco",
+                "label": "Initial(s), Decorated"
+              },
+              {
+                "id": "deco-architectural",
+                "label": "Decoration, Architectural"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Knotted vine arched headpiece, with fleur de lis, ascending knots and crosses, red, and black ink throughout; f. 3 v with decorated initials; f. 133v, knotted cross"
+              },
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Variety of marginalia knot motifs throughout; bordered ff. 169v-191r; bordering text, f. 5r, 115v"
+              },
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Vegetative scroll decoration, f. 1r; arabesque design, f. 250r"
               }
             ],
             "bib": [
@@ -246,6 +315,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Greek text, f. 2v"
     }
   ],
   "bib": [

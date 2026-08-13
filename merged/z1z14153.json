@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 12–13",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -130,6 +140,15 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Several features like script size, layout, folio size, etc., make it clear that this UTO is quite unrelated to the UTO Unidentified Homily. Though the layout may be similar to the UTO Unidentified Text, the hand is different"
               }
             ],
             "cataloguer": [

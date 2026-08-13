@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -113,6 +123,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "235v",
                 "lang": [
                   {
@@ -146,6 +162,37 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-zoomorph",
+                "label": "Decoration, Zoomorphic"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "border",
+                "label": "Border(s)"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Minor geometric headpieces throughout, beginning f. 12r I Zoomorphic headpiece, bird-like motif, f. 5v I Border, f. 235v"
               }
             ],
             "bib": [
@@ -215,6 +262,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Ancient Greek inscriptions, flyleaves 1r–3r | Arabic, flyleaves 2r–3r | Arabic supplicant inscription, f. 235v | Arabic, f. 236v  | Ancient Greek, f. 237r"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Front board and flyleaves detached"
     }
   ],
   "viscodex": [

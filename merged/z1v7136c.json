@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -1515,6 +1521,12 @@
                       ]
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
@@ -1540,6 +1552,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 108r",
                 "lang": [
                   {
@@ -1584,6 +1602,63 @@
                 "note": [
                   "A colophon on the inside back cover – possibly a disjuncture – may correlate to another manuscript. On f. 1v, a date of 15 Huzayran 69XX (cut off) of Adam is given."
                 ]
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "border-deco",
+                "label": "Border(s), Decorative"
+              },
+              {
+                "id": "deco-zoomorph",
+                "label": "Decoration, Zoomorphic"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "initials-deco",
+                "label": "Initial(s), Decorated"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Ornate zoomorphic headpiece, f. 192r, serpent headed motif with geometric entwined vine and tail; f. 193r, geometric stylized serpent, vine motif | Bordered headpiece, f. 247v, geometric vine"
+              },
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Decorated Greek initials throughout"
+              },
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "End-piece, f. 346r, cross."
               }
             ],
             "bib": [

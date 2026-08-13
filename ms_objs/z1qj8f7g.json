@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire 1: 1x6+1 (7); Quires 2-4: 3x8 (31); Quire 5: 1x6 (37); Quire 6: 1x6+1 (44); Quires 7-8: 2x8 (60); Quire 9: 1+1x10 (71); Quire 10: 1x14 (85); Quires 11-21: 11x8 (173); Quire 22: 1x6+1+1 (181); Quire 23: 1x6 (187); Quire 24: 1x8 (195); Quire 25: 1+1x6 (202",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -76,6 +86,36 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures preserved at the beginning of each quire, except the first and the seventh | Presence of reinforcement strips at the beginning, end, and middle of most quires"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Palimpsest is only in Quire 23 (ff. 182-187), which is more recent than the rest of the manuscript (13th c.), although the overtext is continuous"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood, back and front cover consist of two pieces of leather; visible fabric layer, no pastedowns. Binding partially missing, spine exposed"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Codex with damaged spine"
     }
   ],
   "bib": [

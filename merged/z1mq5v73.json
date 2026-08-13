@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 48–49, 51–52, 54–55",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -149,6 +159,22 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "provenance",
+                  "label": "Provenance Note"
+                },
+                "value": "Script date: 5th-6th c. CE (Wilson)"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Common codicological and palaeographical features suggest that the three Hippocratic UTOs and the two other medical UTOs in this codex (\"Antyllus?, Recipes for different diseases\" and \"Treatise on medical terms\") belonged to the same original manuscript (Rossetto)"
+              }
+            ],
             "bib": [
               {
                 "id": "874101cc-626a-43d5-91a7-a9b1091871cd",
@@ -204,6 +230,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Traces of foliation by a later hand on fol. 54v, the same hand that foliated the UTO Antyllus?, Recipes for different diseases, fol. 7r (Rossetto)"
     }
   ],
   "iiif": [

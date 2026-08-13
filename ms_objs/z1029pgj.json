@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "flyleaf+1x2+1 (4, paper), Quires 1-2 : 2x10 (24), Quire 3 : 1x8 (32), Quire 4 : 1x10 (42), Quires 5-7 : 3x8 (66), Quire 8 : 1x4 (70), Quires 9-14 : 6x8 (118), Quire 15 : 1x6 + 1 (125), Quire 16 : 1x2+1x4 (131); 1x2+pastedown (134, paper)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -107,6 +117,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation beginning with front pastedown (f. 1v); foliation of parchment leaves begins with f. 5r"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood, Greek binding; paper fly leaves in front and back. Broken leather spine"
     }
   ],
   "bib": [

@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -152,6 +158,15 @@
                       "locus": "ff. 86r-106v"
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Bilingual Greek and Arabic"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
@@ -182,6 +197,25 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Ornate headpiece, f. 4r, geometric interlace, with central ascending cross and diamond motif; Headpieces, ff. 40r, 86r, geometric with ascending cross | Geometric decoration, f. 93v, interlace, knots | Rubricated Greek initials throughout"
               }
             ],
             "bib": [

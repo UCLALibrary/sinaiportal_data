@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 51, stub+53, 53, 55",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -178,6 +188,15 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Fols. 50 through 56 are written in the same hand and have the same layout. They probably came from the same original manuscript."
               }
             ],
             "cataloguer": [

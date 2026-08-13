@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire structure only indicated for palimpsested folios: Quire 11: 1+6x1+1 (80 and 82 are single-folios)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -49,6 +59,43 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire numbering by scribe"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Upper board is leather on wood; internal cover is parchment with ruling lines and attached fabric. Lower board missing; detached block of quires"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Unbound quires, ff. 1-56, 103-118 (end); bound quires from ff. 57-102"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Dating of manuscript supplied by by Harlfinger"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Palimpsest from ff. 80-87 (quire 11)"
     }
   ],
   "bib": [

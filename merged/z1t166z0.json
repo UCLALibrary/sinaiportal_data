@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "catchwords",
+      "label": "Catchwords"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -91,6 +101,21 @@
                       "locus": "ff. 1r-120v"
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Parallel Greek and Arabic text on ff. 104v-105r"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s1990k"
                   ],
@@ -111,6 +136,29 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "initials-deco",
+                "label": "Initial(s), Decorated"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "parallel-text",
+                "label": "Parallel text"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Decorated Greek intials, minor, f. 13v; vegetative, ff. 15r, 53v, 73v | Headpieces, ff. 16r, 18v, vegetative; f. 17v, geometric"
               }
             ],
             "bib": [
@@ -151,6 +199,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "f. 5 lacking"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "ff. 1–4 rodent damage"
     }
   ],
   "bib": [

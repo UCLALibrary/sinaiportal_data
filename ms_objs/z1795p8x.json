@@ -15,6 +15,12 @@
     "label": "Codex"
   },
   "coll": "[I A 296 inf., f. 257 (= Chabot 73) (to be checked!)] Syriac 18, ff. 1–8 (?)] ; II ff. 9 (?)–16 ; III ff. 17–25, 1 f. cut off between ff. 22v and 23r ; IV ff. 26–33 ; V ff. 34–42 ; VI ff. 43–50 ; VII ff. 51–58 ; VIII ff. 59–66 ; IX ff. 67–74 ; X ff. 75–82 ; XI ff. 83–90 ; XII ff. 91–98 ; XIII ff. 99–106 ; XIV ff. 107–114 ; XV ff. 115–122 ; XVI ff. 123–130 ; XVII ff. 131–138 ; insertion\tff. 139–144 ; XVIII ff. 145–152 ; XIX ff. 153–160 ; XX ff. 161–168 ; XXI ff. 169–177, 1 f. cut off between ff. 169v and 170r ; XXII ff. 178–185 ; XXIII ff. 186–194, 1 f. cut off between ff. 187v and 188r ; XXIV ff. 195–202 ; XXV ff. 203–210 ; XXVI ff. 211–219, 1 f. cut off between ff. 213v and 214r ; XXVII ff. 220–227 ; XXVIII ff. 228–235 ; XXIX ff. 236–243 ; XXX ff. 244–251 ; [XXXI A 296 inf., ff. 258–265 (= Chabot 73) (to be checked!)]",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -76,6 +82,15 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures in Syriac in the bottom margin of the last folio of each quire; quires of 8 ff., with the exception of quires I (9 ff.), III (9 ff.), V (9 ff.), XXI (9 ff.), XXIII (9 ff.), XXVI (9 ff.)"
     }
   ],
   "bib": [

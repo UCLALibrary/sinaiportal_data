@@ -46,6 +46,55 @@
       }
     }
   ],
+  "features": [
+    {
+      "id": "deco-architectural",
+      "label": "Decoration, Architectural"
+    },
+    {
+      "id": "deco-full-page",
+      "label": "Decoration, Full-page"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "initials-deco",
+      "label": "Initial(s), Decorated"
+    },
+    {
+      "id": "illumination",
+      "label": "Illumination(s)"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Full page Illumination, f. 2v"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Columned illuminated arch with ascending vegetative elements and a central circular medallion with missing image in a cross shape, bordered by red"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Decorated initials in margins, throughout, f. 18v"
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",

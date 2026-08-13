@@ -36,6 +36,29 @@
       }
     }
   ],
+  "features": [
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "initials-deco",
+      "label": "Initial(s), Decorated"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Vegetative headpiece on f. 112r; Greek Initals beginning, ff. 94v"
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",

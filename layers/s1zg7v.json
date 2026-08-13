@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 203r",
       "lang": [
         {
@@ -53,6 +59,37 @@
           ]
         }
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "deco-zoomorph",
+      "label": "Decoration, Zoomorphic"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Knotted vine headpiece, f. 76v;  f. 1r, with ascending cross and Greek initials; f.112v, with zoomorphic head"
     }
   ],
   "bib": [

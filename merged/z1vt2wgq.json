@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -97,6 +103,21 @@
                       ]
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Parallel text (Arabic and Greek)"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s19w3k"
                   ],
@@ -112,6 +133,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 205v",
                 "lang": [
                   {
@@ -138,6 +165,45 @@
                 "note": [
                   "Attested places:  Mount Sinai"
                 ]
+              }
+            ],
+            "features": [
+              {
+                "id": "border",
+                "label": "Border(s)"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "initials-deco",
+                "label": "Initial(s), Decorated"
+              },
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "parallel-text",
+                "label": "Parallel text"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Border, ff. 2r, 107r I Geometric headpieces and minor headpieces throughout I Decorated Greek initials throughout"
               }
             ],
             "bib": [
@@ -179,6 +245,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Left to right foliation"
     }
   ],
   "bib": [

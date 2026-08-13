@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "catchwords",
+      "label": "Catchwords"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -161,6 +171,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 1r",
                 "lang": [
                   {
@@ -213,6 +229,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 239v ",
                 "lang": [
                   {
@@ -221,6 +243,29 @@
                   }
                 ],
                 "as_written": "نجز هذا الكتاب المبارك بعون الله تأييده وله السبح الله دائما لله المجد لله دائما / الحقير في / رؤسا الاهية فلان خادم لرئيس / فلان [الحقير] الرؤسا الاهية / والفلان حاكم لرئيس فلان / وأكتب ويقين عقلي يوم ؟ انا الحقير المسكين في رهبان طور سيناء الراهب يوصف"
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              },
+              {
+                "id": "dated",
+                "label": "Dated"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Geometric decoration on f. 1r, rosette with pattern in red and black ink"
               }
             ],
             "bib": [
@@ -272,6 +317,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Supplicant inscriptions, etc. ff. 1r, 59v, 99r, 239r, 239v, back board inside"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "The beginning of f. 1v (2 and 1/4 lines) copied on f. 17r and then crossed out with red ink"
     }
   ],
   "bib": [

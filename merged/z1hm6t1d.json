@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -98,6 +104,25 @@
                 }
               }
             ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Minor geometric headpiece, f. 26r"
+              }
+            ],
             "bib": [
               {
                 "id": "deb668b6-feec-4828-8749-a97441881226",
@@ -136,6 +161,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Flyleaves in Arabic (Naskh)"
     }
   ],
   "viscodex": [

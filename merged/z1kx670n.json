@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 33–70",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -131,6 +141,15 @@
                 "type": {
                   "id": "origin",
                   "label": "Date of Origin"
+                }
+              }
+            ],
+            "assoc_place": [
+              {
+                "value": "Possibly Palestine",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
                 }
               }
             ],

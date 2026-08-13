@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 57–62, 64–73, 78–95, 112–119",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -118,6 +128,15 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "The Greek undertext folios of Sinai Georgian NF frag 73a (fols. 1r-4v) belong to the same original manuscript"
               }
             ],
             "cataloguer": [

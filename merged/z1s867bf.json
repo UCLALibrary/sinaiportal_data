@@ -10,6 +10,16 @@
     "id": "uto",
     "label": "Undertext Object"
   },
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -119,6 +129,15 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "The script (small round biblical majuscule) suggests that this could belong to one of the Hippocratic texts in this codex (Rossetto)"
               }
             ],
             "bib": [

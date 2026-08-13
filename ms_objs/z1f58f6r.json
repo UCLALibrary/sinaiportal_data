@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 41r, 41v, 44r, 44v, 43v, 42v, 43r, 53v, 53r, 18r, 18v, 19r (col. a), 19r (col. b), 19v, 46v, 46r, 40v, 40r, 39v, 39r, 42r, 82v, 82r, 54r, 54v, 59v, 59r, 56v, 56r, 61r, 61v, 81v, 81r, 50r, 50v, 58v, 58r, 83v, 83r, 51v, 51r, 48v, 48r, 80v, 80r, 57v, 57r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,15 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 18, 19, 39–44, 46, 48, 50, 51, 53, 54, 56–59, 61, 80–83"
     }
   ],
   "iiif": [

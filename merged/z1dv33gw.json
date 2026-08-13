@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -94,6 +100,12 @@
                       "locus": "Ff. 3v-197r"
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s1b630"
                   ],
@@ -114,6 +126,25 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "initials-deco",
+                "label": "Initial(s), Decorated"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Decorated Greek Initials throughout I Geometric decorations throughout beginning, f. 45r, cross motif"
               }
             ],
             "bib": [

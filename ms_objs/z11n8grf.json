@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire structure only indicated for palimpsested folios (ff. 50 to 81): Quire 1: 1x6+1 (56), Quire 2: 1x6+1+1 (64), Quire 3: 1+1+1 (67), Quire 4: 1x4+1 (72), Quire 5: 1x6+1+1+1 (81)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -107,6 +117,36 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Consecutive pencil foliation in large numbers at center top, followed here; parchment ff. 50-81 also carry small numbers in upper right (not followed)"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "All single folios (except f. 81v) have stubs as their conjoins"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Spine is leather on fabric. Fraying; front and back covers missing."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Bound quires"
     }
   ],
   "bib": [

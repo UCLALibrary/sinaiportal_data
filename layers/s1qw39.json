@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 370r",
       "lang": [
         {
@@ -62,6 +68,41 @@
           ]
         }
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "border-deco",
+      "label": "Border(s), Decorative"
+    },
+    {
+      "id": "deco-anthropomorph",
+      "label": "Decoration, Anthropomorphic"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Ornate bordered headpiece, f. 1V, vine motif, ascending crosses, fleur de lis;f. 306r, Anthropomorphic knotted vine with bird head and ascending crosses | Minor headpieces, ff. 353r-367v, knot motif"
     }
   ],
   "bib": [

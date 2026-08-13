@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire 1: 1x8 (8); Quires 2-6: 8x1 (48); Quire 7: 1x6+1 (55); Quires 8-14: 7x8 (119)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -372,6 +382,36 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation in upper margin"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures by original hand"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Covers missing; uncovered spine"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Several folios made up of multiple pieces joined either horizontally or vertically; flesh and hair sides not always matching"
     }
   ],
   "bib": [

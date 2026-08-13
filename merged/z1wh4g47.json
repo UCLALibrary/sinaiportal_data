@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -1570,6 +1576,21 @@
                       ]
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "toc",
+                      "label": "Table(s) of Contents"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "The table of contents (ff. 1r-3v) does not accurately reflect the contents of the manuscript: some texts mentioned are not found in the manuscript, while some unmentioned texts do appear, such as the Mimars and scriptural proof of Abu Qurra ff. 4v-27v"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
@@ -1617,6 +1638,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Cut folios between ff. 155 and 156r | F. 169v is water damaged"
     }
   ],
   "bib": [

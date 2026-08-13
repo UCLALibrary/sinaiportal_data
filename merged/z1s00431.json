@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "f. 63",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -115,6 +125,15 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "The outer portion of fol. 63, written in sloping pointed majuscule, is sewn with the inner portion (written in minuscule), which belongs to the UTO containing the Divine Liturgy of St. James"
               }
             ],
             "cataloguer": [

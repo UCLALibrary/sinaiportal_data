@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 25r+28v (ll. 20), 25v+28r (ll. 21); 26r+27v (ll. 24), 26v+27r (ll. 24)",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -142,6 +152,15 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Sinai region",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "36b520ea-e97b-42e5-b496-5ecbd515c236",
@@ -190,6 +209,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 25–28"
     }
   ],
   "iiif": [

@@ -99,6 +99,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "238v",
                 "lang": [
                   {
@@ -129,6 +135,86 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "deco-anthropomorph",
+                "label": "Decoration, Anthropomorphic"
+              },
+              {
+                "id": "deco-calligraphic",
+                "label": "Decoration, Calligraphic"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "deco-zoomorph",
+                "label": "Decoration, Zoomorphic"
+              },
+              {
+                "id": "illumination",
+                "label": "Illumination(s)"
+              },
+              {
+                "id": "illustration",
+                "label": "Illustration(s)"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "miniature",
+                "label": "Miniature(s)"
+              },
+              {
+                "id": "signatures",
+                "label": "Signatures"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Heavily ornamented from ff. 1v-232v including decorative calligraphy with bird elements, ff. 98r- 154r, human figures and faces"
+              },
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Ornamented foliation, f. 74r, zoomorphic, ff. 89v, 98r, feline, f. 47v, serpentine; anthropomorphic, between ff. 178r-232v, ornate cross motif"
+              },
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Ornate elements including peacock ff. 81 v-82r"
+              },
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Zoomorphic headpieces, ff. 200r, 203v"
               }
             ],
             "bib": [

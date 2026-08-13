@@ -13,6 +13,16 @@
     "label": "Folio(s)"
   },
   "coll": "1x2 (2); Quires 1-2: 2x4 (10), 11x1 (21)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -222,6 +232,29 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Consecutive foliation in small pencil numerals in lower right (followed here); some folios numbered in large pencil numerals (not followed)"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Loose folios and bifolios, envelope with very small fragments; all folios in fragmentary condition, some severely so | Folios have been pressed and flattened"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Glossy undertext"
     }
   ],
   "bib": [

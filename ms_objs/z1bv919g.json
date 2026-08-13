@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -78,6 +84,15 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Ff. 41v-44r, 47v-49r, 50v-51r, 66v-68r, 69v-72r, 73v-76r, 78v-82r, 87v-91r, 92v-93r, 102v-103r stuck together"
     }
   ],
   "bib": [

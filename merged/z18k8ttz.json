@@ -15,6 +15,12 @@
     "label": "Codex"
   },
   "coll": "I: ff. 1–8 ; II: ff. 9–16 ; III: ff. 17–24 ; IV: ff. 25–32 ; V: ff. 33–40 ; VI: ff. 41–46 (ff. 42 and 45 are followed by 42bis and 45bis respectively) ; VII: ff. 47–54 ; VIII: ff. 55–62 ; IX: ff. 63–70 ; X: ff. 71–78 ; XI: ff. 79–86 ; XII: ff. 87–94 ; XIII: ff. 95–102 ; XIV: ff. 103–110 ; XV: ff. 111–117 [the last folio of the quire is today London, British Library, Or. 8608, f. 1] ; [quire XVI is today divided: London, BL Or. 8608, f. 2 + Mingana Syr. 652 (1 f.) + London, British Library, Or. 8608, ff. 3–6 + Milan, Biblioteca Ambrosiana, A 296 inf., ff. 166–167 (= Chabot 37)]",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -356,6 +362,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "The quire signature is marked in the bottom margin of the first folio of each quire; quires of 8 ff."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "One binding board."
     }
   ],
   "bib": [

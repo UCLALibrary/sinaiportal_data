@@ -13,6 +13,20 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "deco-full-page",
+      "label": "Decoration, Full-page"
+    },
+    {
+      "id": "deco-zoomorph",
+      "label": "Decoration, Zoomorphic"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -228,6 +242,25 @@
                       ]
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    },
+                    {
+                      "id": "table",
+                      "label": "Table(s)"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Table with parallel text in Greek and Syriac, f. 27r"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
@@ -258,6 +291,32 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "border-deco",
+                "label": "Border(s), Decorative"
+              },
+              {
+                "id": "border",
+                "label": "Border(s)"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "illustration",
+                "label": "Illustration(s)"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
               }
             ],
             "bib": [
@@ -314,6 +373,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Full page illustration, Front Board Inside, zoomorphic, bordered"
     }
   ],
   "viscodex": [

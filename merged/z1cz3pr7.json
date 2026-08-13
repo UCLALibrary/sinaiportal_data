@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quires 1-3: 3x8 (24), Quire 4: 1x8+1+1 (34), Quire 5: 1x6+1+1 (42), Quire 6: 1x2+1+1 (46), Quire 7: 1x6+1+1 (54), Quires 8-12: 5x8 (94), Quire 13: 1x6+1+1 (102)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -138,6 +148,30 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "assoc_place": [
+              {
+                "value": "Southern Italy (Salento)",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Decorative bars"
               }
             ],
             "bib": [
@@ -299,6 +333,29 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures on first folio of new quire in Greek (2, 3, 5, 6, 7, 8, 9) for quires 6, 7, 9, 10, 11, 12, 13, beginning on f. 43"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Codex incomplete at beginning and end | Quires 1-3 detached, quires 4-10 sewn, quires 11-13 (ff, 79-102) detached"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Previous catalogs dated this manuscript to the 13th-14th c. CE"
     }
   ],
   "bib": [

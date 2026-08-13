@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 310v",
       "lang": [
         {
@@ -65,6 +71,33 @@
           ]
         }
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Minor vegetative headpieces on ff. 6v, 11v, 32r"
     }
   ],
   "bib": [

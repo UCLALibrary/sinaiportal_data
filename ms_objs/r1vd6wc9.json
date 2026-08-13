@@ -14,6 +14,16 @@
     "label": "Codex"
   },
   "coll": "<I>: f. 1 ; ? f. 1bis ; IX: ff. 65–66 (ff. 67r–72r are fused together) ; <X>: f. 73 (ff. 74v–80r are fused together) ; XI: ff. 81–88 ; XII: ff. 89–96 ; XIII: ff. 97–104 ; <XIV>: ff. 105–112 (ff. 110–111 are fused together)\n",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -96,6 +106,36 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1-64 are unfoliated and fused together in upper part of leaf; foliation in pencil in bottom margin begins with f. 65; two detached folios at back foliated in pencil, both as f. 1"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "The quire signature is marked in the bottom margin of the first page of a quire; quires of 8 ff."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Front and back covers missing."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Unbound quires; ff. 1-64 (unfoliated) damaged and fused together in upper part of leaf; ff. 65-80 partially damaged; ff. 67r-72r do not open; ff. 74v-80r do not open"
     }
   ],
   "bib": [

@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. fols. 18r/15v, col. b; 15r; 18v; 25v; 15v; 18r/15v, col. a; 19v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -252,6 +262,24 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Possibly Sinai",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Identification of script by Michelle Brown and Daniela Mairhofer"
+              }
+            ],
             "bib": [
               {
                 "id": "e913dab9-4318-4b37-8c69-19dd9e1792e6",
@@ -390,6 +418,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 14v, 15, 18–19v, 24r, 25, 26v, 27"
     }
   ],
   "iiif": [

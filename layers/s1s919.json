@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "284r",
       "lang": [
         {
@@ -63,6 +69,33 @@
         "id": "origin",
         "label": "Date of Origin"
       }
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "border",
+      "label": "Border(s)"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Minor geometric headpieces ff. 225r, 256v, 277r, 278r-278v, 283r | Geometric decorations on ff. 16v, 225v | Headpiece on f. 30v, knotwork with diamond motif; ff. 58v, 109v, 163v, diamond grid; f. 79v, linked chain with diamonds; f. 137r, linked chain; ff. 4r, 186v, 230r, 269v, knotwork I Borders ff. 138v, 277r"
     }
   ],
   "bib": [

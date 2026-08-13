@@ -42,6 +42,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 165v",
       "lang": [
         {
@@ -87,6 +93,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "ff. 181r-v",
       "lang": [
         {
@@ -132,6 +144,25 @@
           ]
         }
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Black and red dots, in the shape of a cross or other shapes, mark titles or new segments of text"
     }
   ],
   "bib": [

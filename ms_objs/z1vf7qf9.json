@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 16r/13v (col. 1) + 17v/20r (col. 2); 17r/20v (col. 1) + 16v/13r (col. 2); 15r/14v (col. 1) + 18v/19r (col. 2); 18r/19v (col. 1) + 15v/14r (col. 2); 9v (lower part of col. 1) + 12r (lower part of col. 2); 12v (lower part of col. 1) + 9r (lower part of col. 2); 10v (lower part of col. 1) + 11r (lower part of col. 2); 11v (lower part of col. 1) + 10r (lower part of col. 2); 7r/6v (col. 1) + 2v/3r (col. 2); 2r/3v (col. 1) + 7v/6r (col. 2); 8r/5v (col. 1) + 1v/4r (col. 2); 1r/4v (col. 1) + 8v/5r (col. 2)",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,15 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1–20"
     }
   ],
   "iiif": [

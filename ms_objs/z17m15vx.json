@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire 1: 1x8 (8); Quire 2: 1x8 (16); Quire 3: 1x6+1+1 (24); Quire 4: 1x8 (32); Quire 5: 1x6+1+1 (40); Quire 6: 1x8 (48); Quire 7: 1x6+1+1 (56); Quires 8-12: 5x8 (96); Quire 13a: 2x1 (98); Quire 13b: 1x6+1+1 (106); Quire 14: 1x8 (114)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -49,6 +59,43 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation in top right"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Mistakes in foliation from ff. 104-114, with attempted corrections: f. 107 originally numbered 106, consecutive folios were numbered and corrected accordingly"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quires numbered 1 to 14 by scribe in top right; quire 13 numbered twice, on ff. 97 and 99, here distinguished as quire 13a and quire 13b"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Binding absent"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Individual quires; quires 1-9 unsewn, quires 10-13a (ff. 73-98) barely attached, and quires 13b-14 (ff. 99-114) unsewn"
     }
   ],
   "bib": [

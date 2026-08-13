@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -204,6 +210,15 @@
                       }
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Story of Job; Story of Joseph; Saint Ephraim the Syrian on the Prophet Elias; Story of a Saint Moses who lived in Rome; Sibylline Oracles;  Forty Martyrs of Sebastea (with the word “Satan” written upside down); Story of Saint James the Persian; Life of Saint Elias before the coming of Islam; Homily by Saint Jacob about the Prophet Aaron; Story of Saints Peter and Paul; Story of the Prophet Moses; Life of Saint John the Evangelist"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s1bk6x"
                   ],
@@ -219,6 +234,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 58r",
                 "lang": [
                   {
@@ -232,6 +253,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 96v",
                 "lang": [
                   {
@@ -245,6 +272,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f.104v",
                 "lang": [
                   {
@@ -264,6 +297,41 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "border-deco",
+                "label": "Border(s), Decorative"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Vegetative and geometric headpieces on ff. 9v, 59r, 153r | Minor geometric headpieces throughout | Ornate headpiece on f. 120r with knot work motif | Decorative vegetative border on f. 97r"
               }
             ],
             "cataloguer": [

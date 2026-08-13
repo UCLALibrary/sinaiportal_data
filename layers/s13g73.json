@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 223r",
       "lang": [
         {
@@ -76,6 +82,48 @@
           ]
         }
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "deco-zoomorph",
+      "label": "Decoration, Zoomorphic"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Zoomorphic, geometrical headpieces, bird motif ff. 89r, 121r, 189v | Minor vegetative headpiece, ff. 29v, 134v; knotted vine motif, f. 194v"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Knot motif in red throughout beginning f. 13v; f. 95v, with palmetteI~IGeometric decoration on quire signatures beginning f. 8v with catchwords occasionally used at quire boundaries; ff. 174v-175r, 184v, 185r, facing decorative quire signatures."
     }
   ],
   "bib": [

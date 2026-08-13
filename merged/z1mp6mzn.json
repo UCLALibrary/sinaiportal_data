@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -260,6 +266,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 135v",
                 "lang": [
                   {
@@ -295,6 +307,16 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
               }
             ],
             "bib": [
@@ -483,6 +505,15 @@
                 "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
               }
             }
+          }
+        ],
+        "note": [
+          {
+            "type": {
+              "id": "general",
+              "label": "General Note"
+            },
+            "value": "Guest content on front board inside, f. 1, and backboard inside appear to be from the same Greek ms, used as fly-leafs. May include other blank fly leaves as well as the material is similar."
           }
         ],
         "parent": [

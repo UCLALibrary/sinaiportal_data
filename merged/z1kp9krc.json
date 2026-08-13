@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -195,6 +201,33 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "border",
+                "label": "Border(s)"
+              },
+              {
+                "id": "deco-calligraphic",
+                "label": "Decoration, Calligraphic"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "calligraphic-practice",
+                "label": "Calligraphic Practice"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Bordered Headpiece of Calligraphic decoration, f. 9r; minor calligraphic decoration, ff. 22r, 27v"
               }
             ],
             "bib": [

@@ -12,6 +12,16 @@
     "id": "folio",
     "label": "Folio(s)"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -57,6 +67,64 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Cataloging and imaging follows current sequence of folios as found in February 2014; alternate foliations are indicated for each folio"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "For the complete folios, there are different foliation systems in pencil, all incomplete and not corresponding to current sequence; the last two folios carry no foliation"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "The handwritten catalogers' notes in the cardboard manuscript wrapping yield no relevant information regarding foliation; the sleeves which contain the fragments are numbered 1 to 46"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Mostly single folios, some bifolios"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Burn marks; many folios badly eaten | All folios were pressed and flattened, some have white fibers attached"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Previous catalogs dated this manuscript to the 9th-10th c. CE."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "The cardboard wrapping contained an envelope of fragments of various sizes."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "In February 2014, large fragments from the envelope were placed in acrylic sleeves (frags. 1-25); small fragments were first placed in paper sleeves, then in acrylic sleeves (26-46)."
     }
   ],
   "bib": [

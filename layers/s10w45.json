@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 229v",
       "lang": [
         {
@@ -75,6 +81,29 @@
           ]
         }
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "border",
+      "label": "Border(s)"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Border, f. 29r"
     }
   ],
   "bib": [

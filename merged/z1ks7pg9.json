@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "1+1 (2); Quire 1: 1x2 (4); Quire 2-3: 2x6 (16); Quire 4: 1x8 (24); Quire 5: 1x4 (28); Quire 6: 1x8-2 (34)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -262,6 +272,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Sewing intact, but boards missing and spine uncovered"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Opens easily, but an imperfect glue repair at ff. 4v/5r is causing f. 4 to tear | Discoloration through use in lower outer edges"
     }
   ],
   "bib": [

@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quires 1-3: 3x8 (24); Quire 4: 1x6+1 (31); Quire 5-7 (incl. fol. 51a): 3x8 (54); Quire 8: 1x6 (60); Quire 9-10: 2x8 (76); Quire 11: 1x6+1( 83); Quire 12: 1x6 (89); Quire 13: 1x8+1 (98); Quire 14: 1x8 (106); Quire 15: 1x4 (110); Quire 16: 1x8 (118); Quire 17: 1x4+1+1 (124); Quire 18-19: 2x8 (140); Quire 20: 1x4+1+1 (146), singleton (147); Quire 21: 1x6+1 (154)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -78,6 +88,29 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation in bottom outer margin; incorrect sequence for ff. 50, 51, 51a, 52"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Fabric cover at front and back. Broken binding with several detached quires in first third; boards missing"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Previous catalogs dated this manuscript to the 13th-14th c. CE"
     }
   ],
   "bib": [

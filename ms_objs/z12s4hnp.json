@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 7, stub-9, 42–45, 59–60, 99",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,15 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Traces of foliation by a later hand on fol. 7r, the same same hand that foliated the UTO Treatise on medical terms, fol. 54v (Rossetto)"
     }
   ],
   "iiif": [

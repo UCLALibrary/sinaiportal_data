@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -280,6 +290,22 @@
       "repository": "St. Catherine's Monastery of the Sinai"
     }
   ],
+  "note": [
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Detached folios (ff. 59, 60)"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Manuscript contains palimpsested parchment with Syriac undertext (ff. 92-99)"
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",
@@ -409,6 +435,15 @@
                 "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
               }
             }
+          }
+        ],
+        "note": [
+          {
+            "type": {
+              "id": "general",
+              "label": "General Note"
+            },
+            "value": "Guest content recycled from other ms as fly leaf."
           }
         ],
         "parent": [

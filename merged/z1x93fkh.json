@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -466,6 +472,21 @@
                       ]
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "toc",
+                      "label": "Table(s) of Contents"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Table of Contents, f. 1v"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
@@ -491,6 +512,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 118r",
                 "lang": [
                   {
@@ -528,6 +555,44 @@
                 "note": [
                   "Colophon also mentions an independent Hijri date 592 AH ≈ 1196 CE that precedes the completion date by roughly 72 years."
                 ]
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "deco-full-page",
+                "label": "Decoration, Full-page"
+              },
+              {
+                "id": "illustration",
+                "label": "Illustration(s)"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "para",
+                  "label": "Paracontent Note"
+                },
+                "value": "Scribal note, f. 233r, where the scribe can be identified as Simon Nasr b. Samuel: الكتاب الذي وضعه قطري ابن عثمان الشماس صاحب بيت راس...فمن قرا هذا الكتاب واقتنا لنفسه حيا ورغبة في الخلاص فليدعى الكتاب الذي عناية وولي كتابة بالعون والحفض ومغفرة الخطايا فان كتابته كانت في بيت جبرين وللمسيح العظمة الان وكل أوان والى دهر الداهرين امين. وكتبه الحقير في الرهبان الغير المستحق لهذا الاسم من كثيرة خطاياه انبا سمعان بن نصر بن صمويل وهو يسل كل من فري في هذا الكتاب يدعى له ولوالديه بالرحمة المغفرة له لجميع دين النصرانية بشفاعة السيدة ام النور وجميع القديسين امين"
+              },
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Geometric decorations on f. 2r, embellished cross; f. 175v, embellished cross, wavy line outlined in red I Minor geometric headpieces, beginning ff. 121r, 198r, 281v  | Full page Illustration on f. 321r, outline of figure riding a horse"
               }
             ],
             "bib": [
@@ -579,6 +644,36 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "F. 321r contains a note by  by George the Priest (George al-Maliki) along with a waqf statement"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Secondary texts: List of names from Adam to Christ (ff. 321r-322r) | Unidentified (ff.  322v-323r)"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Broken in places; some folios loose; tight between ff. 238–39"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "A leaf may have been lost between ff. 235 and 236"
     }
   ],
   "bib": [

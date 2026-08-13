@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Pastedown, Quire 1: 1x8 (8), Quire 2: 1x6+1+1 (16), Quire 3: 1x8 (24), Quire 4: 1x8 (32), Quire 5: 1+1x4+1 (38), Quire 6: 1x2+1x6+1+1x4+1 (46), Quire 7, 1x10 (62), Quire 8: undetermined (80), Quire 9: 1x14 (96), Quire 10: 1x14 (110), Quire 11: 1x12 (122), Quire 12: 1x14+1+1 (138), Quire 13: 8x1 (146), Quire 14: undetermined (169), Quire 15: undetermined (185), Quire 16: undetermined (195), Quire 17: 1x8 (203), Quire 18: 1x6+1 (210), pastedown",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -126,6 +136,21 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "para",
+                  "label": "Paracontent Note"
+                },
+                "value": "Many additions and erasures in overtext"
               }
             ],
             "bib": [
@@ -286,6 +311,36 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire structure difficult to establish, due to missing folios, frequency of single-folios, and tight binding"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures (with gaps) in Georgian, beginning with 3 (fol. 1), ending with 27 (fol. 204); these signatures differ from quire structure given above"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood, decorated with tooling; holes on covers and along edges (for metal reinforcements); leather fastening strap on top cover."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Front cover only attached at top, spine broken, outer edge of back cover missing."
     }
   ],
   "bib": [

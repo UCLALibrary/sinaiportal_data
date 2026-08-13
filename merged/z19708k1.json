@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 8r+58r (col. a), 9v+61v (col. a), 51r (col. b), 61v (col. b), 58v (col. a), 61r (col. a), 58v (col. b)+8v, 61r (col. b)+9r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -204,6 +214,22 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "To the same original manuscript belong also folios from Sinai Arabic NF M 27 (Rossetto)"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Common codicological and palaeographical features suggest that the three Hippocratic UTOs and the two other medical UTOs in this codex (\"Antyllus?, Recipes for different diseases\" and \"Treatise on medical terms\") belonged to the same original manuscript. The following folios could also possibly belong to \"Hippocrates' Letters\": 8r (middle piece), 8v (middle piece), 9r (middle piece), 9v (middle piece) (Rossetto)"
+              }
+            ],
             "bib": [
               {
                 "id": "874101cc-626a-43d5-91a7-a9b1091871cd",
@@ -259,6 +285,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 8–9, 58, 61"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Original recto: 8r top+58r (col. a), 9v top+61v (col. a), 58r (col. b), 61v (col. b); original verso: 58v (col. a), 61r (col. a), 58v (col. b)+8v top, 61r (col. b )+9r top (Rossetto)"
     }
   ],
   "iiif": [

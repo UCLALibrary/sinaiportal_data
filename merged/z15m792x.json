@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -177,6 +183,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 207v",
                 "lang": [
                   {
@@ -203,6 +215,33 @@
                     ]
                   }
                 ]
+              }
+            ],
+            "features": [
+              {
+                "id": "colophon",
+                "label": "Colophon"
+              },
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Minor tailpiece on f. 207v"
               }
             ],
             "bib": [
@@ -254,6 +293,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Supplicant inscriptions, f. 207v, back flyleaf 1v"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Water damage to the bottom half throughout, affecting text on some folios"
     }
   ],
   "bib": [

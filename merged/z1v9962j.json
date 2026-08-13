@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire relations are difficult to determine, but can be established as follows: Quire 1 (6), Quire 2 (12), Quire  3 (21), Quire 4 (29), Quire 5 (35), Quire 6 (41), Quire 7 (49), Quire 8 (57), Quire 9 (66), Quire 10 (75), Quire 11 (81), Quire 12 (89), Quire 13 (99), Quire 14 (106), Quire 15 (114), Quire 16 (120), Quire 17 (paper, 128)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -265,6 +275,29 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood, with stud holes on center of upper and lower outer boards; tooled lines on upper cover; incisions (secondary) on upper and lower covers; wooden peg extrudes from center of outside of upper board; remnant of leather loop on center of lower board; pastedowns of dark blue linen fabric on inner covers; total of seven metal studs along narrow edges of upper and lower boards"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Binding intact with boards present and spine covered | Repair of outer board with tape; remnants of several repairs with glue"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Codex with multiple signs of repair. Single-folios are often joined to form bifolios for binding purposes."
     }
   ],
   "bib": [

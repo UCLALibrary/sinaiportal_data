@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 1–31, 38–41, 44r–46, 48–49, 68–70, 72–73, 75–82, 83–86, 88–89, 91–93, 100–101, 108–109",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -179,6 +189,15 @@
                 "type": {
                   "id": "origin",
                   "label": "Date of Origin"
+                }
+              }
+            ],
+            "assoc_place": [
+              {
+                "value": "Sinai region",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
                 }
               }
             ],

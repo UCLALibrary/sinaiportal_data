@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "218r-218v",
       "lang": [
         {
@@ -75,6 +81,41 @@
         "id": "origin",
         "label": "Date of Origin"
       }
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "border",
+      "label": "Border(s)"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    },
+    {
+      "id": "table",
+      "label": "Table(s)"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Headpiece on f. 2r, a hand of God holding a cross, a second hand of God descending from the outer upper margin, vegetative motifs, red, black and green ink | Borders on ff. 122v, 183r, 219r"
     }
   ],
   "bib": [

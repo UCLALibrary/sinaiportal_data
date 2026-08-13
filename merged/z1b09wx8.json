@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 109r, 112v, 108v, 105r, 108r, 105v, 109v, 112r, 107v, 106r, 107r, 106v, 110r, 111v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -214,6 +224,15 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Possibly St. Catherine's Monastery",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "7eb4b64a-5b75-4897-a8a9-60b7b252e139",
@@ -259,6 +278,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 105–109, 110r, 111v, 112"
     }
   ],
   "iiif": [

@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 71, 84, 65, 92, 89, 68, 81, 78, 95, 76, 101, 90, 91, 96, 73, 102, 55, 70, 77, 50, 51, 72, 63, 62, 53, 66, 100, 97, 67, 48, 87, 88, 99, 64, 69, 98, 93, 94, 83, 60, 75, 74, 57, 82, 79, 54, 61, 52, 80, 85, 49, 56, 47, 86 (Rossetto)",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 47–102"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Seven quires can be reconstructed."
     }
   ],
   "iiif": [

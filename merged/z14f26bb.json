@@ -12,6 +12,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -128,6 +138,15 @@
                       ]
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "The parchment folios (ff. 1-103) contain the Pauline Epistles, incomplete at the beginning and end; the paper folios (ff. 104-198) contain Acts; the seven Catholic Epistles; and various liturgical excerpts"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s1b049"
                   ],
@@ -241,6 +260,36 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Palimpsest folios are in the third quire; Quire 3: 1x8 (16-23)"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quires are repaired with parchment strips with writing in Greek and Christian Palestian Aramaic"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood; metal studs along narrow edges of front and back covers; leather fastening strip on back cover. Leather covering of spine and parts of back cover missing."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Codex with partially exposed spine | Stiff parchment folios throughout, many with signs of erasure"
     }
   ],
   "bib": [

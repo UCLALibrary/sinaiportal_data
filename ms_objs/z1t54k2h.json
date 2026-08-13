@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 126v, 126r, 160v, 160r, 158v, 158r, 156v, 156r, 153v, 153r, 163r, 163v, 162v, 162r, 157v, 157r, 154v, 154r, 164r, 164v, 161r, 161v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,15 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 126, 153, 154, 156, 157, 158, 160, 161, 162, 163, 164"
     }
   ],
   "iiif": [

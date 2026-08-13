@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire 1: 1x8+1 (8), Quire 2: 2x1 inside 1x2, +4x1 (16), Quire 3: 2x1 inside 1x2,+3x1 (23), Quire 4: 1x6 (29), Quire 5: 7x1 (36), Quire 6: 3x1, 2x1 inside 1x2, +1 (44), Quire 7: 3x1, 2x1 inside 1x2, +2x1 (53), Quire 8-11: 4x8 (85), Quire 12: 1x8+1 (94), Quire 13: 6x1 (100),  Quire 14: 5x1 (105), Quire 15: 1+1x6+1 (113), Quire 16: 1x8 (121), Quire 17: 1x6 (127), Quire 18: 1x10 (137), Quire 19: 1x6 (149), Quire 20: 1+1x8 (152), Quire 21-22: 2x8 (168), Quire 23: 1+1x6 (175)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -1059,6 +1069,29 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Front cover detached; cloth strip attached to back cover (remains of spine)."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Some individual quires or groups of quires, detached, up to f. 94; some single-folios; several stubs with undertext"
     }
   ],
   "bib": [

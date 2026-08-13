@@ -43,6 +43,29 @@
       }
     }
   ],
+  "features": [
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-zoomorph",
+      "label": "Decoration, Zoomorphic"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Geometric decoration with elevated cross, on f. 49r, decending cross, f. 60v | Minor geometric headpieces on f. 67r, f. 70r with ascending cross; ff. 83v, 86v, 102r, thin line with loops | Minor zoomorphic headpieces on ff. 114r, 118r I Minor geometric decoration, cross, f. 36r"
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",

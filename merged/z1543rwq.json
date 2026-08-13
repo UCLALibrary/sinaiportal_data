@@ -13,6 +13,20 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "toc",
+      "label": "Table(s) of Contents"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -95,6 +109,22 @@
                       "locus": "ff. 3v-123r"
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Preceded by index and short introduction, followed by table of Gospel lessons to be recited throughout the year"
+                    },
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Tables of contents on ff. 37r-38r; ff. 59r- 61r"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s1k902"
                   ],
@@ -110,6 +140,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 123r",
                 "lang": [
                   {
@@ -130,6 +166,16 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
               }
             ],
             "bib": [
@@ -181,6 +227,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Greek text on front board inside and back board inside"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Architectural decoration on end flyleaf 1v, altar or church entrance | Geometric decoration on end flyleaf 1r, two crowns | Manicules, end flyleaf 1r"
     }
   ],
   "bib": [

@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 118r",
       "lang": [
         {
@@ -67,6 +73,44 @@
       "note": [
         "Colophon also mentions an independent Hijri date 592 AH ≈ 1196 CE that precedes the completion date by roughly 72 years."
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "deco-full-page",
+      "label": "Decoration, Full-page"
+    },
+    {
+      "id": "illustration",
+      "label": "Illustration(s)"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Scribal note, f. 233r, where the scribe can be identified as Simon Nasr b. Samuel: الكتاب الذي وضعه قطري ابن عثمان الشماس صاحب بيت راس...فمن قرا هذا الكتاب واقتنا لنفسه حيا ورغبة في الخلاص فليدعى الكتاب الذي عناية وولي كتابة بالعون والحفض ومغفرة الخطايا فان كتابته كانت في بيت جبرين وللمسيح العظمة الان وكل أوان والى دهر الداهرين امين. وكتبه الحقير في الرهبان الغير المستحق لهذا الاسم من كثيرة خطاياه انبا سمعان بن نصر بن صمويل وهو يسل كل من فري في هذا الكتاب يدعى له ولوالديه بالرحمة المغفرة له لجميع دين النصرانية بشفاعة السيدة ام النور وجميع القديسين امين"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Geometric decorations on f. 2r, embellished cross; f. 175v, embellished cross, wavy line outlined in red I Minor geometric headpieces, beginning ff. 121r, 198r, 281v  | Full page Illustration on f. 321r, outline of figure riding a horse"
     }
   ],
   "bib": [

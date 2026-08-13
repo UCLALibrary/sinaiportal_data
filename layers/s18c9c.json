@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 314v",
       "lang": [
         {
@@ -67,6 +73,16 @@
         "Attested names: Ibn Sahqun (see also Sinai Arabic 252), known as Isa Ibn Ishaq al-Homsi, Ibn Sahqun",
         "Attested places:  Church of Our Lady, Damascus"
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "bib": [

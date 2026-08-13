@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 1v, 1r, 5v+4r, 5r+4v, 3r+2v, 3v+2r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -156,6 +166,22 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "From the same original manuscript as the UTO Khanmeti Mravaltavi in Sinai Georgian NF M 90; f. 1 is the lower part of Georgian NF M 90, f. 25"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Fragments identified so far are also found in Sinai Georgian 32, 57, and 33 (the so-called Sinuri Mravaltavi, one manuscript broken into three parts) as well as other homiletic collections of the type"
+              }
+            ],
             "bib": [
               {
                 "id": "d599a955-6857-409b-844f-4f70abb8d122",
@@ -222,6 +248,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1–5"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "The complete order is given under Georgian NF 90."
     }
   ],
   "iiif": [

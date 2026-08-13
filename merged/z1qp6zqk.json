@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 156v+149r+152v+153r and 153v+152r+149v+156r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -151,6 +161,15 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Sinai or Palestine",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "55eae5e7-ad84-46af-a814-4f5524b2d09d",
@@ -206,6 +225,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 68–135, 140–170, 171v–204"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "It is not possible to completely reconstruct the order of the folios; a definite sequence is fols"
     }
   ],
   "iiif": [

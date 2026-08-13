@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 3–79",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,15 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Cannot be discerned, except perhaps in the case of the Commemoration of Theodore, where the sequence of tops of half lines must be 19r+24v, 24r+19v, 23v+20v, 20r+23r."
     }
   ],
   "iiif": [

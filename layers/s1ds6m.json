@@ -41,6 +41,31 @@
       }
     }
   ],
+  "assoc_place": [
+    {
+      "value": "Ramla",
+      "event": {
+        "id": "origin",
+        "label": "Place of Origin"
+      }
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "provenance",
+        "label": "Provenance Note"
+      },
+      "value": "The date (227 AH), which is hard to decipher, is found on folios 39r and 35r. On fol. fol. 30v, the date is given in Coptic letters"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "The Arabic undertext appears on only one side of the folios, suggesting that the undertext comes from a scroll (Kashouh)"
+    }
+  ],
   "bib": [
     {
       "id": "874101cc-626a-43d5-91a7-a9b1091871cd",

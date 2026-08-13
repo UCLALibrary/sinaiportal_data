@@ -46,6 +46,31 @@
       }
     }
   ],
+  "assoc_place": [
+    {
+      "value": "Syria or Antioch",
+      "event": {
+        "id": "origin",
+        "label": "Place of Origin"
+      }
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "These folios preserve two sections of text (John 6:68-7:31 and 8:53-9:23), with an extensive gap between them (John 7:31-8:52). The missing text would have occupied about 18 columns (9 sides, i.e. 4 folios + 1 side). Codicologically more likely is the exclusion of the “Pericope Adulterae” (7:53-8:11). In that case, the missing text would have occupied about 16 columns (8 sides, i.e. 4 folios.). These four lost folios were the two central bifolios of the quire (if it was a quaternion)"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "The original quaternion must have been as follows: I (142rv), II (144vr), III (folio lost), IV (folio lost) | V (folio lost), VI (folio lost), VII (147vr), VIII (149rv)"
+    }
+  ],
   "bib": [
     {
       "id": "3cbf71e0-1b92-419b-803c-b6d29754bf65",

@@ -15,6 +15,12 @@
     "label": "Codex"
   },
   "coll": "I: Sinai Syriac 43, f. 1 (blank) + Vat. sir. 647, ff. 24–25 + Sinai Syriac 43, ff. 2–8 ; II: Sinai Syriac 43, ff. 9–18 ; III: ff. 19–28 ; IV: ff. 29–38 ; V: ff. 39–48 ; VI: ff. 49–58 ; VII: ff. 59–68 ; VIII: ff. 69–78 ; IX: Sinai Syriac 43, ff. 79–85 + Vat. sir. 647, f. 26 + Sinai Syriac 43, ff. 86–87 (blank)",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -244,6 +250,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures in Syriac surrounded by lines and dots ornament on the first and the last page of each quire, in the bottom margin. Quires of 10 folios."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two binding boards covered with leather."
     }
   ],
   "bib": [

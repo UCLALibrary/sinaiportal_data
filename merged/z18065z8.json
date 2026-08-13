@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "catchwords",
+      "label": "Catchwords"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -403,6 +413,15 @@
                       "locus": "ff. 337r-366v"
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "para",
+                        "label": "Paracontent Note"
+                      },
+                      "value": "Portions of a Table of Contents (ff. 1r-3v)"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
@@ -433,6 +452,21 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Minor geometric decoration on f. 177v, cross"
               }
             ],
             "bib": [

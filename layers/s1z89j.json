@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 318v",
       "lang": [
         {
@@ -81,6 +87,53 @@
       "note": [
         "Attested places:  Damietta, Egypt"
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "deco-zoomorph",
+      "label": "Decoration, Zoomorphic"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "deco-anthropomorph",
+      "label": "Decoration, Anthropomorphic"
+    },
+    {
+      "id": "border-deco",
+      "label": "Border(s), Decorative"
+    },
+    {
+      "id": "initials-deco",
+      "label": "Initial(s), Decorated"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Geometric headpiece, knot motif with Fleur de Lis on ff. 1r, 152r; with border and Fleur de Lis, f. 179r; tailpiece on f. 66r with geometric crosses | Geometric decoration, f. 211r, small cross; f. 228v, knot motif | Zoomorphic decoration of winged creature, f. 227r; with Anthropomorphic figure, ff. 251v, 306r | Decorated Greek initials, f. 150v"
     }
   ],
   "bib": [

@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "signatures",
+      "label": "Signatures"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -108,6 +118,21 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Geometric headpieces, ff. 213r, with interlace; 305v, with interlace and fleur de lis motif; 442r, with ascending cross I Minor geometric headpieces, ff. 51r, 108v, 159v, 264v, 287r, 349v, 422v I Minor geometric decorations, ff. 207v, 208r, 315v | Geometric decorations on fore-edge, rosettes"
               }
             ],
             "bib": [

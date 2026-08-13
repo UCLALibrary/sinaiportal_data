@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 23r+18v, 23v+18r; 24r+17v, 24v+17r; 27r, 27v; 26r, 26v; 15r+10v, 15v+10r; 16r+9v, 16v+9r; 38v, 38r; 14r+11v, 14v+11r; 13r+12v, 13v+12r; 5r+4v, 5v+4r, 6r+3v, 6v+3r; 7r+2v, 7v+2r, 8r+1v, 8v+1r [Georgian NF 84: 7v+6r, 7r+6v]",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,22 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1–18, 23, 24, 26r–27, 38"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "All folios are double palimpsest, with fragments from the Life of St. Febronia, the homilies of John Chrysostom, or the unidentified undertext as the upper palimpsest layer"
     }
   ],
   "iiif": [

@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "deco-full-page",
+      "label": "Decoration, Full-page"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -102,6 +112,12 @@
                 }
               }
             ],
+            "features": [
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              }
+            ],
             "bib": [
               {
                 "id": "deb668b6-feec-4828-8749-a97441881226",
@@ -140,6 +156,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Front Board Inside, interlaced cross, full page"
     }
   ],
   "viscodex": [

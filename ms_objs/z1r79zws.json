@@ -15,6 +15,12 @@
     "label": "Codex"
   },
   "coll": "I: ff. 1–8 ; II: ff. 9–16 ; III: ff. 17–24 ; IV: ff. 25–32 ; V: ff. 33–40 ; VI: ff. 41–48 ; VII: ff. 49–54 ; VIII: ff. 55–62 ; IX: ff. 63–70 ; X: ff. 71–80 ; XI: ff. 81–86 ; XII: ff. 87–93 ; XIII: ff. 94–101 ; XIV: ff. 102–109 ; XV: ff. 110–117 ; XVI: ff. 118–125 ; XVII: ff. 126–133 ; XVIII: ff. 134–141 ; XIX: ff. 142–149 ; XX: ff. 150–157 ; XXI: ff. 158–165 ; XXII: ff. 166–173 ; XXIII: ff. 174–181 ; XXIV: ff. 182–189 ; XXV: ff. 190–196 ; XXVI: ff. 197–204 ; XXVII: ff. 205–212 ; XXVIII: ff. 213–220 ; XXIX: ff. 221–228 ; XXX: ff. 229–237 (f. 232 is a later insertion with the Gospel reading for Transfiguration that is already present in full on ff. 231v–232r)",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -43,6 +49,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "possession-note",
+          "label": "Possession note"
+        }
+      ],
       "locus": "f. 3r",
       "lang": [
         {
@@ -61,6 +73,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "The quire signature is marked (but is not everywhere visible) in the bottom margin of the recto of the first folio and of the verso of the last folio of each quire. Quires of 8 ff. with the exception of quires VII (6 ff.), X (10 ff.), XI (6 ff.), XII (7 ff.), XXV (7 ff.), which are nonetheless complete."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two wooden binding boards covered with leather."
     }
   ],
   "bib": [

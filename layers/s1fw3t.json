@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 334r",
       "lang": [
         {
@@ -71,6 +77,29 @@
       "note": [
         "Attested places:  Monastery of Elijah and Elisha, Mount al-Lukkam"
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "deco-anthropomorph",
+      "label": "Decoration, Anthropomorphic"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Anthropomorphic figure, f. 334v, with halo, wings and decorated robe"
     }
   ],
   "bib": [

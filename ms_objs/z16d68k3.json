@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire 1 (12), Quire 2 (20), Quire 3 (28), Quire 4 (36), Quire 5 (44), Quire 6 (52), Quire 7 (60), Quire 8 (61",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -175,6 +185,43 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Foliation in pencil at the center or top of outer margin"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "All quires are quaternions, except quires 1 and 8; quire 8 consists only of f. 61 | Quire signatures at the beginning of most quires | Quires are tightly stitched | Relations within the quires are difficult to establish | Only quires 1, 7, and 8 are palimpsested"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Warped back, with parchment reinforcements (with writing in CPA)."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Unbound codex, incomplete at beginning and end | Tightly stitched quires | Most folios are stitched together from several pieces"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Only quires 1, 7, and 8 are palimpsested"
     }
   ],
   "bib": [

@@ -36,6 +36,33 @@
       }
     }
   ],
+  "features": [
+    {
+      "id": "border",
+      "label": "Border(s)"
+    },
+    {
+      "id": "deco-calligraphic",
+      "label": "Decoration, Calligraphic"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "calligraphic-practice",
+      "label": "Calligraphic Practice"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Bordered Headpiece of Calligraphic decoration, f. 9r; minor calligraphic decoration, ff. 22r, 27v"
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",

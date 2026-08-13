@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "front pastedown, ff. 1–29, stub-30, 30–165",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -142,6 +152,15 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Occasional quire marks"
               }
             ],
             "bib": [

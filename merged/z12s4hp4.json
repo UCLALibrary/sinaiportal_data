@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 1, 7",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -137,6 +147,15 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Clearly from a different book than the other two UTOs in this codex; layout, size of letters, and ductus are all distinct"
               }
             ],
             "cataloguer": [

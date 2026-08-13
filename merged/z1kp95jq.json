@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -153,6 +159,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Greek(?) inscriptions, ff. 1r, 199v"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "F. 184 is a new insert that differs stylistically from what precedes and follows it, and supplies text omitted earlier. The first three lines on f. 185r had to be repeated on f. 184r and then the supplied text is entered. However, those three lines were not crossed out as is usually done on similar occasions; instead, a diesis (double dagger) is provided before and after the lines with the instruction \"[s]eek this sign\" (last, rubricated line on f. 184v)"
     }
   ],
   "bib": [

@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Quire 1: 1x4+1x2+1 inside 1x4 (11), Quire 2: 1x10 (21), Quire 3: 1x8 (29), Quire 4: 1x10 (39), Quire 5: 1x8 (47), Quire 6: 1x8 (55), Quire 7: 1x8 (63), Quire 8: 1x8 (71), Quire 9: 1x8 (79), Quire 10: (87), Quire 11: 1x8 (95), Quire 12: 1x8 (103), Quire 13: 1x8 (111), Quire 14: 1x8 (119), Quire 15: 1+1x6+1 (127)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -153,6 +163,21 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Some decorative lines in black and red ink"
               }
             ],
             "bib": [
@@ -1067,6 +1092,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Front and back cover missing, spine separate"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Quires 1-8 unsewn, quires 9-15 sewn; individual folios of various size | Some folios stitched together of different pieces"
     }
   ],
   "bib": [

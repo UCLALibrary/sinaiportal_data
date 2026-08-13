@@ -12,6 +12,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -236,6 +246,29 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Foliated in pencil, ff. 141a-141c; the last three folios are unnumbered and are identified by their conjoin and preceded by a minus sign, for example -141ar (recto) or -141av (verso)"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Unsewn palimpsest quire of three bifolios of smaller size, inserted after fol. 141: 1x6 (6)"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood. Lower board fragmentary; damaged spine"
     }
   ],
   "bib": [

@@ -42,6 +42,29 @@
       }
     }
   ],
+  "features": [
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "initials-deco",
+      "label": "Initial(s), Decorated"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Tailpiece on f. 87v | Decorated initials on ff. 64v, 77v, 78v, 80r, 82r, 84v, 87r, 89v, 92r, 93v, 94v, 96v, 97v | Minor geometric headpieces throughout, beginning on f. 79r"
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",

@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 101r (col. a), 98v (col. a), 101r (col. b), 98v (col. b), 101v (col. a), 98r (col. a), 101v (col. b), 98r (col. b), 107v (col. a), 108r (col. a), 107v (col. b), 108r (col. b), 107r (col. a), 108v (col. a), 107r (col. b), 108v (col. b), 65r (col. a), 70v (col. a), 77r, 65r (col. b), 70v (col. b), 65v (col. b), 62v (col. a), 57r (col. a), 62v (col. b), 57r (col. b), 62r (col. a), 57v (col. a), 62r (col. b), 57v (col. b) (Rossetto)",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -153,6 +163,22 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "This text was copied by the same scribe as the UTO Gospel of John in this codex. These two texts belonged to the same original manuscript"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "The following fragments could possibly also belong to the Gospel of Matthew: 66r (narrow outer piece), 66v (narrow outer piece), 68r (narrow outer piece), 68v (narrow outer piece), 71r (narrow outer piece), 71v (narrow outer piece), 90r (lower outer piece), 90v? (lower outer piece), 92r (upper and lower outer piece), 92v (upper and lower outer piece), 94r (upper and lower outer piece), 94v (upper and lower outer piece), 95r (upper and lower outer piece), 95v (upper and lower outer piece), 115r (both inner pieces), 115v (both inner pieces) (Rossetto)"
+              }
+            ],
             "bib": [
               {
                 "id": "874101cc-626a-43d5-91a7-a9b1091871cd",
@@ -199,6 +225,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 57, 62, 65, 65, 70, 77, 98, 101, 107, 108"
     }
   ],
   "iiif": [

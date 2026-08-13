@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -988,6 +994,22 @@
                         ]
                       },
                       "locus": "f. 362r-v"
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "para",
+                        "label": "Paracontent Note"
+                      },
+                      "value": "Table corresponding letters of the Arabic alphabet with letters of the Coptic alphabet (f. 363r)"
+                    },
+                    {
+                      "type": {
+                        "id": "general",
+                        "label": "General Note"
+                      },
+                      "value": "Crossed-out text on ff. 355v-356r"
                     }
                   ],
                   "cataloguer": [

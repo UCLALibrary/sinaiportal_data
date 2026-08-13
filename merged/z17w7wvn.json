@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -95,6 +101,15 @@
                       "locus": "ff. 7r-224v"
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Preceded by an index of chapters and followed by general calendar of Gospel readings for the year"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s1xs4h"
                   ],
@@ -110,6 +125,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "f. 206v",
                 "lang": [
                   {
@@ -159,6 +180,12 @@
                   "id": "history",
                   "label": "History"
                 },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
                 "locus": "ff. 225v-226r",
                 "lang": [
                   {
@@ -167,6 +194,16 @@
                   }
                 ],
                 "as_written": "وكتب المسكين الخاطئ يراسمه المسمى راهب فهو يسأل كلمن قرأ فيه يدعى لصاحبة وكاتبه ولمهتم في نساخته بغفران الخطايا والخلا من عدونا الطالب هلاكنا إلى الاهنا وربنا ومخلصنا ايسوع المسيح ابن الله بشفاعة والدته العذراء البتول مرت مريم حكمة الله الذي عملت ان لا يشد عن كيف المصلوب عنّا قيامتنا وحياتنا حكمت الله السيد الالاه الأب الضابط الكل وقوته ذلك أيها القارئ  والسامع وكل بني المعمودية الارتذكسية وجميع السامعين والقائلين آمين والسبح لله دائما وعلينا رحمته آمين "
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              },
+              {
+                "id": "colophon",
+                "label": "Colophon"
               }
             ],
             "bib": [

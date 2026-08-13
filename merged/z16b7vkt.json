@@ -11,6 +11,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. e vr, g 1v+2r, g 1r+2v, cd 1r+4v, cd 1v+4r, f rv, cd 2v+3r, cd 2r+3v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -135,6 +145,15 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Palestine",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
             "cataloguer": [
               {
                 "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
@@ -168,6 +187,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "throughout"
     }
   ],
   "iiif": [

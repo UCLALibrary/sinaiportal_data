@@ -15,6 +15,12 @@
     "label": "Codex"
   },
   "coll": "I: [olim Hiersemann 500/26 (8 ff.) = Louvain G-134 – lost] ; <II>: ff. 1–6 (first two folios of the quire are missing) ; III: ff. 7–14 ; IV: ff. 15–22 ; V: ff. 23–30 ; VI: ff. 31–38 ; VII: ff. 39–46 ; VIII: ff. 47–54 ; IX: ff. 55–62 ; X: ff. 63–70 ; XI: ff. 71–78 ; XII: ff. 79–86 ; XIII: ff. 87–94 ; XIV: ff. 95–101 ; XV: ff. 102–109 ; XVI: ff. 110–117 ; XVII: ff. 118–125 ; XVIII: ff. 126–133 ; XIX: ff. 134–137",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -293,6 +299,29 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "f. 4 lacking"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "The quire signature is marked in the bottom margin of the first folio of a quire; quires of 8 ff."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Front board loose and not a match."
     }
   ],
   "bib": [

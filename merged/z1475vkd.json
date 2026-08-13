@@ -119,6 +119,57 @@
                 }
               }
             ],
+            "features": [
+              {
+                "id": "border-deco",
+                "label": "Border(s), Decorative"
+              },
+              {
+                "id": "deco-calligraphic",
+                "label": "Decoration, Calligraphic"
+              },
+              {
+                "id": "deco-full-page",
+                "label": "Decoration, Full-page"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "illumination",
+                "label": "Illumination(s)"
+              },
+              {
+                "id": "deco-anthropomorph",
+                "label": "Decoration, Anthropomorphic"
+              },
+              {
+                "id": "deco-architectural",
+                "label": "Decoration, Architectural"
+              },
+              {
+                "id": "miniature",
+                "label": "Miniature(s)"
+              },
+              {
+                "id": "table",
+                "label": "Table(s)"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Illumination on ff. 28r, 54r"
+              }
+            ],
             "bib": [
               {
                 "id": "deb668b6-feec-4828-8749-a97441881226",

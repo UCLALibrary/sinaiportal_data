@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 5r, 14v, 5v, 14r; 6r, 13v, 6v, 13r; 7r, 12v, 7v, 12r; 11v, 8r, 11r, 8v; 9r, 10v, 9v, 10r; 15r, 24v, 15v, 24r; 16r, 23v, 16v, 23r; 22v, 17r, 22r, 17v; 21v, 18r, 21r, 18v; 19r, 20v, 19v, 20r; 25r, 32v, 25v, 32r; 31v, 26r, 31r, 26v; 27r, 30v, 27v, 30r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -211,6 +221,15 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Possibly Palestine or North Africa",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "1a042f38-e435-46c4-bc0f-296e71b0c642",
@@ -274,6 +293,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 5–27, 30–32"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Impossible to establish. The following list is based on codicological examination"
     }
   ],
   "iiif": [

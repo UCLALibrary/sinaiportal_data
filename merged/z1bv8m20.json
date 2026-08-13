@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -112,6 +118,15 @@
                       "locus": "Ff. 272v-168v"
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Followed by Greek Lectionary and prayers"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s1m309"
                   ],
@@ -132,6 +147,29 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "initials-deco",
+                "label": "Initial(s), Decorated"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Geometric headpiece on f. 268v, knotwork and an elevated cross | Decorated Greek initials throughout ff. 169v-272v I Minor headpieces throughout ff.198r-272v"
               }
             ],
             "bib": [

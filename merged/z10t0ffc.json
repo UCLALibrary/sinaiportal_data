@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 51, 52v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -136,6 +146,15 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "The fragment was apparently cut out of an original folio. The size of the original folio is difficult to estimate"
               }
             ],
             "bib": [

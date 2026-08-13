@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "catchwords",
+      "label": "Catchwords"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -86,6 +96,12 @@
                       "locus": "ff. 3r-41v"
                     }
                   ],
+                  "features": [
+                    {
+                      "id": "parallel-text",
+                      "label": "Parallel text"
+                    }
+                  ],
                   "parent": [
                     "ark:/21198/s19g7z"
                   ],
@@ -106,6 +122,33 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "initials-deco",
+                "label": "Initial(s), Decorated"
+              },
+              {
+                "id": "illumination",
+                "label": "Illumination(s)"
+              },
+              {
+                "id": "parallel-text",
+                "label": "Parallel text"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Minor headpiece, interlace, f. 3r. | Ornate headpiece, interlace, chrysography, f. 17v | Decorated Greek initals throughout"
               }
             ],
             "bib": [

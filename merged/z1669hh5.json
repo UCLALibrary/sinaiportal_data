@@ -13,6 +13,12 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -398,6 +404,15 @@
                       "locus": "ff. 254r-257r"
                     }
                   ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "para",
+                        "label": "Paracontent Note"
+                      },
+                      "value": "Portion of a liturgical text in Syriac on f. 258r-v"
+                    }
+                  ],
                   "cataloguer": [
                     {
                       "message": "Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).",
@@ -428,6 +443,25 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Minor geometric headpieces,  ff. 5r, 116v, 131v, 244r, 253r"
               }
             ],
             "bib": [
@@ -468,6 +502,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 11 and 193 lacking"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Syriac scrap inserted at the end as f. 258 (image of f. 258v has the writing upside down)"
     }
   ],
   "bib": [

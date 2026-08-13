@@ -15,6 +15,12 @@
     "label": "Codex"
   },
   "coll": "I: ff. 3–8 ; II: ff. 9–16 ; III: ff. 17–24 ; IV: ff. 25–32 ; V: ff. 33–38 ; VI: ff. 39–46 ; VII: ff. 47–54 ; VIII: ff. 55–62 ; IX: ff. 63–70 ; X: ff. 71–78 ; XI: ff. 79–86 ; XII: ff. 87–94 ; XIII: ff. 95–102 ; XIV: ff. 103–110 ; XV: ff. 111–118 ; XVI: ff. 119–126 ; XVII: ff. 127–134 ; XVIII: ff. 135–142 ; XIX: ff. 143–151 ; XX: ff. 152–154 (followed by an unnumbered blank half-folio)",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -605,6 +611,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signature is marked in the bottom margin of the first and last folios of a quire; the signature of the preceding quire is repeated in the beginning of the following one; quires of 8 ff. with the exception of quires I, V (6 ff.), XX (9 ff.) and XXI (4 ff.) which are nonetheless complete."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two wooden binding boards covered with leather. Traces of pastedowns (in Greek) attached to binding boards."
     }
   ],
   "bib": [

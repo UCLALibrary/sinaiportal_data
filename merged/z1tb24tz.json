@@ -13,6 +13,16 @@
     "label": "Quire(s)"
   },
   "coll": "Quire 1: 3x1+1x2+3x1 (8), Quire 2: 1x8 (16), Quire 3: 1x8 (24), Quire 4: 5x1 (29), Quire 5: 1x4 (33), Quire 6: 1x4+1 (38)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -342,6 +352,29 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "The present sequence of the leaves does not follow the original order"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quires 2 and 3 are attached"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Unbound combination of single folios and quires; most folios are fragmentary"
     }
   ],
   "bib": [

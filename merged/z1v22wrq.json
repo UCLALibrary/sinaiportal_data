@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 1r, 1v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -145,6 +155,24 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Palestine",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Since fol. 1 and fol. 2 constitute a bifolio, both must belong to a CPA Lectionary"
+              }
+            ],
             "bib": [
               {
                 "id": "f1e208c7-35b0-4a45-b8aa-0204860f4aa3",
@@ -189,6 +217,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "f. 1"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Fol. 1 and fol. 2 cannot be contiguous, although they must come from the same manuscript."
     }
   ],
   "iiif": [

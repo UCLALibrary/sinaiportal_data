@@ -11,6 +11,16 @@
     "id": "folio",
     "label": "Folio(s)"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -76,6 +86,22 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "The recto of this single folio has quire numbering (8) in the lower margin, towards the right"
+    },
+    {
+      "type": {
+        "id": "provenance",
+        "label": "Provenance Note"
+      },
+      "value": "Brought to Sinai in the 13th century"
     }
   ],
   "bib": [

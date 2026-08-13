@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 48–49, 51–52, 54–55",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,15 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Traces of foliation by a later hand on fol. 54v, the same hand that foliated the UTO Antyllus?, Recipes for different diseases, fol. 7r (Rossetto)"
     }
   ],
   "iiif": [

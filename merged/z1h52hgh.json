@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 27r, 27v, 26r, 26v, 32r+31v, 32v+31r, 34r+37v, 34v+37r, 35r+36v, 35v+36r, 30v+33r, 30r+33v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -136,6 +146,22 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Probably from the same hand and original as the UTOs containing the homilies by John Chrysostom and the Unidentified Asomtavruli text in this manuscript. Probably from the same original as the other parts of the UTO Life of Febronia in Sinai Georgian NF M 84"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Upper palimpsest layer over the Haemeti Psalter and the Khanmeti Gospels"
+              }
+            ],
             "bib": [
               {
                 "id": "4383882d-097c-49a4-a037-149628d721a3",
@@ -182,6 +208,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 26–27, 30r, 30–37"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Lower parts of folios 27 and 26 are missing"
     }
   ],
   "iiif": [

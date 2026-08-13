@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 117v, 117r, 107v, 107r, 94v, 94r, 93v, 93r, 106v, 106r, 139v, 139r, 1v, 87v, 87r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -143,6 +153,15 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Psalter B is written by a different scribe from the UTOs Psalter A and Psalter C"
+              }
+            ],
             "bib": [
               {
                 "id": "ba235bc4-167a-49a7-8511-9ab3d357b098",
@@ -187,6 +206,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1, 5r, 87r, 87v, 93–94, 103, 106r, 106–107, 117, 139"
     }
   ],
   "iiif": [

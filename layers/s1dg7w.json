@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 310v",
       "lang": [
         {
@@ -77,6 +83,16 @@
         "Damage to folios inhibits reading of part of the date.",
         "Attested names: Simeon Ibn al-Batita of Antioch ; Father Thomas"
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "bib": [

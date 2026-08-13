@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Only palimpsest quires are considered: Quire 1 begins f. 216r. Quires 1-5: 5x8 (216-255), Quire 6: 1x6 (261), Quire 7:  1x4+1 (266, f. 264 is a single-folio)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -67,6 +77,29 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood, Greek binding, remains of metal clasps on front cover, remains of leather straps on back cover. Spine partially exposed."
+    },
+    {
+      "type": {
+        "id": "provenance",
+        "label": "Provenance Note"
+      },
+      "value": "Not produced at Sinai; according to the fragmentary colophon on fol. 256v, the codex was “sent to Mt. Sinai” by a certain David"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "All folios darkened by use on outer upper and lower margins | Palimpsest in margins often appears with raised surface structure"
     }
   ],
   "bib": [

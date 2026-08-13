@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. Hesychius, Homily:117v,112,117r,112v,111r,118, 118v,111v. Gregory of Nazianzus, Homily : 113,116,113v, 116, 114, 115v,114v,115",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -242,6 +252,15 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Jerusalem",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "8a5dc93b-8ca2-4bd7-ac2e-36674f5ef11a",
@@ -297,6 +316,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 111–118, 120, 124"
     }
   ],
   "iiif": [

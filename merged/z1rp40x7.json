@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 3–6, 9–10, 15–18, 23–24, 38",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -131,6 +141,15 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Probably from the same hand (and original) as the UTOs of the Life of St. Febronia and the homilies on the Koimesis by John Chrysostom in this manuscript"
+              }
+            ],
             "cataloguer": [
               {
                 "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
@@ -165,6 +184,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Undertext folio order undeterminable."
     }
   ],
   "iiif": [

@@ -11,6 +11,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 45v, 45r, 48r, 48v, 50r, 50v, 46v, 46r, (NF 13: 79v, 79r), 57v, 57r, 59v, 59r, 51v, 51r, (NF 13: 87v, 87r, 80v, 80r, 88r, 88v, 95r, 95v), 61r, 61v, 56v, 56r, 53v, 53r, (NF 13: 90r, 90v), 47v, 47r, (NF 13: 85v, 85r, 82v, 82r), 44v, 44r, (NF 13: 93r, 93v), 43r, 43v, 49r, 49v, (NF 13: 86v, 86r, 84v, 84r, 83v, 83r, 81v, 81r, 92r, 92v, 91r, 91v), 52r, 52v, (NF 13: 94v, 94r, 89v, 89r), 58r, 58v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -37,6 +47,15 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "The undertext folio order includes the erased Armenian texts of Ecclesiastes, Song of Songs and Wisdom of Solomon, because these all belonged to the same original manuscript. References to Sin. geo. NF 13 included to show the original sequence"
     }
   ],
   "iiif": [

@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "1x2+3x1+3x2+1 (12), Quire 1: 1x8 (20), Quire 2: 1x4+1+1 (26), Quire 3: 1x4 (30), Quire 4: 1x8 (38), Quire 5: 1x8+1+1 (48), Quire 6: 1x6 (54), Quire 7: 1x6 (60), Quire 8: 1x8 (68), Quire 9: 1x8 (76), Quire 10: 1x8 (84), Quire 11: 1x8 (92), Quire 12: 1x8 (100), Quire 13: 1x8 (108), 1+1+2x2+1 (115)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -67,6 +77,64 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Foliation in top margin in pencil by a later hand (followed here); some folios have additional foliation in pencil by a later hand in outer margin (not followed)"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures in Greek on recto (and verso) of first (and last) folios of a quire (not followed here), beginning with quire number 18, as follows: folio 12v (end of quire 18), folio 13r (quire 19), folio 21r (quire 20), folio 27r (quire 21), folio 31r (quire 22), folio 30r (quire 23), folio 55r (quire 26), folio 61r (quire 27), folio 69r (quire 28), folio 77 (quire 29), folio 85r (quire 30), folio 93r (quire 31), folio 101r (quire 32)"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Original quires 24 and 25 are missing, and some quires have folios missing"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Binding absent"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Unbound quires; some folios fragmentary; some original bifolios are now split up into two individual folios; ff. 1-12 and 109-115 are fragmentary and of (currently) undetermined sequence"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Folios have been cleaned and flattened"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Some original bifolios are now split up into two individual folios"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Ff. 1-12 and 109-115 are fragmentary and of (currently) undetermined sequence."
     }
   ],
   "bib": [

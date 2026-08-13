@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "ff. 123v, 138r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -160,6 +170,15 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Possibly Jerusalem",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "7502e15c-0626-4086-9f3d-14febce6efc9",
@@ -214,6 +233,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Writing only on flesh side."
     }
   ],
   "iiif": [

@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "f. 19v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -147,6 +157,24 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "assoc_place": [
+              {
+                "value": "Italy",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Lower layer of double palimpsest"
               }
             ],
             "bib": [

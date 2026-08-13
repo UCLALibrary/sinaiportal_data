@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 3v/6r+18r, 3r/6v+18, 1v/2r, 1r/2v, 4v/5r+17r, 4r/5v+17v, 9v/8r, 9r/8v, 7v/10r, 7r/10v, 11v/12r, 11r/12v, 19r, 19v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,22 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1–12, 17–19"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Folio order of the undertext follows the Armenian Jerusalem Lectionary"
     }
   ],
   "iiif": [

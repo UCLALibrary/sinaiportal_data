@@ -11,6 +11,16 @@
     "id": "folio",
     "label": "Folio(s)"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -56,6 +66,50 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation does not necessarily represent original sequence; there is only partial correspondence between the sequence of images, the pencil foliation on individual rectos and versos, and Miklas 2000"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Remnants of binding in Envelope 1"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Poorly legible overtext, some erasures due to scraping or washing"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Folios and fragmented folios, some very small | Small piece in Envelope 1 with majuscule Greek writing was originally inserted between ff. 18v and 19r"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Manuscript fragments contained in 9 envelopes: 6 with small fragments, 3 are empty (kept for documentation purposes). Envelope 1 contains remains of binding; envelope 2 contains 11 unnumbered fragments; Envelope 3 contains 9 large, unfoliated fragments and a number of small fragments; envelope 4 contains folios numbered 8, 9, 12, 13, 16-21, 23-25; envelope 5 contains 16 folios, unnumbered; envelope 6 contains folios numbered 27-64, 66, 68. Total number of foliated and unfoliated folios is 86, as of February 2015."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Palimpsest suspected throughout."
     }
   ],
   "bib": [

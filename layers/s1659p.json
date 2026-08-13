@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 138v",
       "lang": [
         {
@@ -64,6 +70,48 @@
           ]
         }
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "border",
+      "label": "Border(s)"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "deco-anthropomorph",
+      "label": "Decoration, Anthropomorphic"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Scribal note, f. 138v"
+    },
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Ornate geometric headpiece on f. 3r, with border and decending side pieces | Minor tailpieces, ff. 22r, 46r, 130r; minor geometric headpiece, f. 138v | Anthropomorphic and geometric decoration on f. 22r I Partial border in red, f.74r"
     }
   ],
   "bib": [

@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 163r",
       "lang": [
         {
@@ -61,6 +67,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 193r",
       "lang": [
         {
@@ -69,6 +81,16 @@
         }
       ],
       "as_written": "كمل يعون الله ورحمته كتبة السنكساد الاثنى عشرشهر لكل السنة التي أولها أيلول وآخرها اب ولله الشكر والسجود والسبح دائما"
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "bib": [

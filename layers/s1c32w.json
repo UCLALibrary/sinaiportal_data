@@ -29,6 +29,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 360r",
       "lang": [
         {
@@ -64,6 +70,16 @@
       "note": [
         "Attested places: Copied from a manuscipt at Antioch, Monastery of Elijah and Elisha, Mount al-Lukkam"
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "bib": [

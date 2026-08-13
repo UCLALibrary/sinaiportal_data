@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "3x1 (3); Quire 1, four single-folios with stubs: 4x1 (7) plus five singletons: 5x1 (12); Quire 2: 1x4 (16) plus 1 singleton (17); Quire 3, bifolio encompassing 8 single-folios: 8x1 inserted in 1x2 (27); Quire 4, bifolio encompassing 10 single-folios: 10x1 inserted in 1x2 (39) plus four singletons: 4x1 (43); Quire 5, 3 single-folios with stubs: 3x1 (46); 3 singletons: 3x1 (49); Quire 6, 1 bifolio encompassing, from outside in, 2 single-folios with stubs, 2 bifolios, 2 single-folios with stubs: 1x2, 2x1, 2x2, 2x1 (59); Quire 7: 2x2, 2x1, 1x2 (67); 1x2 (69)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -112,6 +122,50 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Small Arabic numerals in pencil in upper left (followed here); sporadic foliation in pencil in center of bottom margin (not followed)"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Foliation may not correspond to sequence of overtext"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Several detached folios are counted here as singletons, because their quire context cannot be determined"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Detached components of binding: front leather cover, reinforced with papyrus, to which is attached the spine cover, made of woven fabric with leather and parchment remnants; back leather cover reinforced with papyrus."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Unbound quires and detached folios; numerous stubs | Folios curl at gutter; some folios of very stiff parchment"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Small holes aligned horizontally across middle of some folios may be sewing holes, indicating original bifolios with double palimpsest"
     }
   ],
   "bib": [

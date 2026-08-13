@@ -13,6 +13,16 @@
     "label": "Quire(s)"
   },
   "coll": "Quire 1: 1x6+1 (7, fol. 6 single-folio);  Quire 2: 1+1 (9); Quire 3: 1x2 (11); Quire 4: 1x2 (13); Quire 5: 1x4 (17)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -239,6 +249,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Foliation in pencil provisional, not sequential"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Unsewn quires, one small fragment; folios partially fragmentary and badly damaged | Text may be missing"
     }
   ],
   "bib": [

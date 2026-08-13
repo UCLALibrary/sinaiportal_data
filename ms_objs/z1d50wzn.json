@@ -12,6 +12,16 @@
     "label": "Codex"
   },
   "coll": "2x1 (2); 2x1 inside 1x2 (6); 1x1 (7); Quire 1: 1x6 (13); 2x1 (15); Quire 2: 1x8 (23); 2x1 (25); Quire 3: 1x6 (31); 3x1 (34); Quire 4: 1x6 (40); 13x1 (53); 1x2 (55); 17x1 (72); 6x1 (78)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -131,6 +141,22 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Occasional alternate foliation in pencil (not followed)"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Unbound quires, single folios, and fragments | Several folios have transfer of ink from facing page that may appear as double palimpsest"
     }
   ],
   "bib": [

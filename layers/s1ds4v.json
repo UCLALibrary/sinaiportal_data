@@ -30,6 +30,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
       "locus": "f. 175v",
       "lang": [
         {
@@ -62,6 +68,41 @@
           ]
         }
       ]
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "headpiece",
+      "label": "Headpiece(s)"
+    },
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "deco-zoomorph",
+      "label": "Decoration, Zoomorphic"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Ornate headpieces on f. 2v, red and green triangle motif with leaves in the center, elevated cross, palmettes on the corners; f. 67v, volutes with flowers in the center, branches, palmettes on the corners, two elevated crosses; f. 94v, geometric motif with palmettes and elevated volutes | Headpieces on f. 15r, chain motif with palmettes; f. 36r, volutes with leaves, palmettes on the corners; f. 53r, triangle motif with fleur de lis | Minor geometric headpieces on ff. 73v, 79r, 85v | Minor vegetative headpiece on f. 126v, red leaf I Minor geometric and zoomorphic headpiece, f. 73v, bird heads"
     }
   ],
   "bib": [

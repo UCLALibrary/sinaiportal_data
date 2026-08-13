@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 30v, 30r, 101r, 101v, 110r, 110v, 21v, 21r, 137r, 137v, 53v, 53r, 25r, 25v, 41r, 41v, 94r, 94v, 97r, 97v, 50r, 50v, 26r, 26v, 58v, 58r, 28v, 28r, 64v, 64r, 148v, 148r, 48v, 48r, 12r, 12v, 19r, 19v, 43v, 43r, 143v, 143r, 67v, 67r, 23v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 12, 19, 21, 23, 25, 26, 28, 30, 41, 43, 48, 50, 53, 58, 64, 67, 94, 97, 101, 110, 137, 143, 148"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Fol. 23v also has the beginning of Luke"
     }
   ],
   "iiif": [

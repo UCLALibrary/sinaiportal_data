@@ -15,6 +15,16 @@
     "label": "Codex"
   },
   "coll": "I (Coptic I, Syriac not detected): [first two folios: Vat. sir. 647, ff. 27–28], Syriac 64, ff. 1–6 ; II (Coptic not detected): Syriac 64, ff. 7–14 ; III (Coptic not detected): ff. 15–24 ; IV (Coptic not detected): ff. 25–32 ; V (Coptic not detected): ff. 33–40 ; VI (Coptic not detected): ff. 41–48 ; VII (Coptic not detected): ff. 49–56 ; VIII (Coptic not detected): ff. 57–64 ; IX (Coptic not detected): ff. 65–72 ; X (Syriac: traces, Coptic not detected): ff. 73–80 ; XI (Coptic XII, Syriac not detected): ff. 81–88 ; XII (Coptic not detected): ff. 89–96 ; XIII (Coptic XIII: traces): ff. 97–104 ; XIV (Coptic XIV): ff. 105–112 ; XV (Coptic XV): ff. 113–120 ; XVI (Coptic XVI, traces): ff. 121–128 ; XVII (Coptic not detected): ff. 129–136 + f. 137a (an insertion glued to f. 136v) ; XVIII (Coptic XVIII): ff. 137b–144 ; <XIX> (Syriac/Coptic not detected): ff. 145–152 ; XX (Coptic XX): ff. 153–155, [Vat. sir. 647, f. 43], Syriac 64, ff. 156–158",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -56,6 +66,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire numbers in Syriac numerals on the first page of each quire, bottom margin (presumably, by the scribe John bar Manṣūr), and occasionally in Coptic numerals on the first page of each quire, top margin. Quires of 8 folios except quires III (10 ff.) and XX (7 ff.)."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two binding boards."
     }
   ],
   "bib": [

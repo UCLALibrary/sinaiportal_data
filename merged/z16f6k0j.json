@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. original recto: 53v (col. a), 50r (col. a), 53v (col. b), 50r (col. b) - original verso: 53r (col. a), 50v (col. a), 53r (col. b), 50v (col. b) (Rossetto)",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -207,6 +217,22 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Common codicological and palaeographical features suggest that the three Hippocratic UTOs and the two other medical UTOs in this codex (\"Antyllus?, Recipes for different diseases\" and \"Treatise on medical terms\") belonged to the same original manuscript"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "The following fragments could also possibly belong to \"Hippocrates' Letters\": 8r (middle piece), 8v (middle piece), 9r (middle piece), 9v (middle piece) (Rossetto)"
+              }
+            ],
             "bib": [
               {
                 "id": "874101cc-626a-43d5-91a7-a9b1091871cd",
@@ -262,6 +288,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 50, 53"
     }
   ],
   "iiif": [

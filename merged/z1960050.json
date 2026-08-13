@@ -12,6 +12,16 @@
     "id": "folio-fragment",
     "label": "Folio Fragment(s)"
   },
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -134,6 +144,12 @@
                 }
               }
             ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              }
+            ],
             "bib": [
               {
                 "id": "8eab4b8e-e5d8-40c6-9a5f-70748ca6d41e",
@@ -199,6 +215,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Binding absent"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "The parchment is fragile; all four sides are now irregular, with some splitting to the parchment along the ruled lines of the undertext, and losses to the inner areas of the leaf; dirt adheres to areas of the verso"
     }
   ],
   "bib": [

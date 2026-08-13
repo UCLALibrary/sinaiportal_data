@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 56v (1:1-?), 4r (2:9-13), 3v (2:14-17), 4v (2:18-23), 3r (2:24-3:4), 22v (4:5-7), 12r (5:23 - 6:3), 7v (6:4-?), 112r (9:28-33), 101v (10:19-?), 102r (10:?-28), 26v (11:9 - 12:4), 23v (12:15-19), 5v (12:40-47), 2r (12:48 - 13:4), 5r (13:5-10), 2v (13:11-15), 66v (13:16-19)",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 2–5, 7v, 12r, 22v, 23v, 26v, 27v, 56v, 66v, 73r, 101v, 102r, 112r"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "There are certainly other folios in this palimpsest with text from Exodus, where it is not sufficiently legible to be identified"
     }
   ],
   "iiif": [

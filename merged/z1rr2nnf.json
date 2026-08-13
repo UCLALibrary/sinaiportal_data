@@ -13,6 +13,16 @@
     "label": "Folio(s)"
   },
   "coll": "3x1 (3); Quire 1: 1x4 (7), 1x1 (8); Quire 2: 1x8 (16); Quire 3: 1x8 (24), 1x2 (26), 1x1 (27)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -120,6 +130,21 @@
                   "id": "origin",
                   "label": "Date of Origin"
                 }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Decorative bars in black and red"
               }
             ],
             "bib": [
@@ -303,6 +328,29 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Regular foliation in bottom right corner (followed here); Irregular foliation in upper right corner (not followed)"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Sequence of folios may not reflect the sequence of the overtext"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Individual folios and bifolios | Each folio and bifolio has been pressed and flattened"
     }
   ],
   "bib": [

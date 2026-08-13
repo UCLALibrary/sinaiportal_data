@@ -15,6 +15,12 @@
     "label": "Codex"
   },
   "coll": "flyleaf (f. 1) ; I:  ff. 2–8 [first folios is today Biblioteca Ambrosiana, A 296 inf., f. 266 = Chabot 24 (1 f.)] ; II: ff. 9–15 (f. 14 is a paper restoration; final folio is missing) ; III: ff. 16–23 ; IV: ff. 24–31 ; V: ff. 32–40 ; VI: ff. 41–48 ; VII: ff. 49–55 ; VIII: ff. 56–62 ; IX: ff. 63–70 ; X: ff. 71–78 ; XI: ff. 79–85 ; XII: ff. 86–93 ; XIII: ff. 94–101 ; XIV: ff. 102–109 ; XV: ff. 110–117 ; XVI: ff. 118–125 ; XVII: ff. 126–131 ; XVIII: ff. 132–139 ; XIX: ff. 140–146 ; XX: ff. 147–155 ; XXI: ff. 156–163 (f. 162v is blank) ; XXII: ff. 164–171 ; XXIII: ff. 172–179 ; flyleaf (f. 180); an endleaf pasted onto the inner side of the back board",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -41,6 +47,12 @@
             "id": "history",
             "label": "History"
           },
+          "subtype": [
+            {
+              "id": "waqf-endow",
+              "label": "Waqf/Endowment"
+            }
+          ],
           "locus": "f. 1r",
           "lang": [
             {
@@ -76,6 +88,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "The quire signature is marked irregularly, in the bottom margin of either recto of the first folio or verso of the last folio of each quire; quires of 8 ff. with the exception of quires V (9 ff.), VII (7 ff.), VIII (7 ff.), XI (7 ff.), XVII (6 ff.), XIX (7 ff.), XX (9 ff.) which are nonetheless complete"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two wooden binding boards."
     }
   ],
   "bib": [

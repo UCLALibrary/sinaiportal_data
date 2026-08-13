@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 38r, 38v, 45r, 45v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -119,6 +129,15 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "para",
+                  "label": "Paracontent Note"
+                },
+                "value": "Colophon on fol. 45v."
+              }
+            ],
             "bib": [
               {
                 "id": "a4bfd252-a8ad-4464-912a-a6f70b9f5daf",
@@ -164,6 +183,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 38, 45"
     }
   ],
   "iiif": [

@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 101r (col. a), 98v (col. a), 101r (col. b), 98v (col. b), 101v (col. a), 98r (col. a), 101v (col. b), 98r (col. b), 107v (col. a), 108r (col. a), 107v (col. b), 108r (col. b), 107r (col. a), 108v (col. a), 107r (col. b), 108v (col. b), 65r (col. a), 70v (col. a), 77r, 65r (col. b), 70v (col. b), 65v (col. b), 62v (col. a), 57r (col. a), 62v (col. b), 57r (col. b), 62r (col. a), 57v (col. a), 62r (col. b), 57v (col. b) (Rossetto)",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,15 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 57, 62, 65, 65, 70, 77, 98, 101, 107, 108"
     }
   ],
   "iiif": [

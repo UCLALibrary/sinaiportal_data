@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 1v+4r, 1r+4v, 2r+3v, 2v+3r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -172,6 +182,15 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Palestine",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "f1e208c7-35b0-4a45-b8aa-0204860f4aa3",
@@ -239,6 +258,22 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1–4"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Fols. 1 + 4 constitute a single folio of the undertext object, whereas fols. 2 + 3 constitute the upper half and lower half of a single folio."
     }
   ],
   "iiif": [

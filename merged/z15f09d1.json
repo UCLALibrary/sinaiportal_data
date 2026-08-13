@@ -15,6 +15,12 @@
     "label": "Codex"
   },
   "coll": "[I: Vat. sir. 647, f. 9 (flyleaf) + Milan, Biblioteca Ambrosiana, A 296 inf., ff. 55–62 (= Chabot 25)] ; II: ff. 1–8 ; III: ff. 9–16 ; IV: ff. 17–26 ; V: ff. 27–34 ; VI: ff. 35–42 ; VII: ff. 43–50 ; VIII: ff. 51–58 ; IX: ff. 59–66 ; X: ff. 67–76 ; XI: ff. 77–84 ; XII: ff. 85–92 ; XIII: ff. 93–100 ; XIV: ff. 101–108 ; XV: ff. 109–116 ; XVI: ff. 117–124 ; XVII: ff. 125–132 ; XVIII: ff. 133–140 ; XIX: missing ; XX: ff. 141–148 ; XXI: ff. 149–158 ; XXII: ff. 159–166 ; XXIII: ff. 167–176 ; XXIV: ff. 177–184 ; XXV: ff. 185–192 ; XXVI: ff. 193–200 ; XXVII: ff. 201–208 ; XXVIII: ff. 209–216 ; XXIX: ff. 217–224 ; XXX: ff. 225-232 + 233–237 (more recent repair)",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -491,6 +497,29 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures are marked in the middle of a bottom margin of the first page of a quire. Quires of 8 ff. with the exception of quires IV, X, XXI and XXII which are of 10 ff."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two wooden binding boards covered with leather. Pastedowns from Syriac parchment codex attached to the boards."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Repair on parchment by a more recent Melkite hand: ff. 233-237."
     }
   ],
   "bib": [

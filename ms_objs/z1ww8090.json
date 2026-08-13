@@ -12,6 +12,16 @@
     "label": "Codex"
   },
   "coll": "Quire 1: 1x6+1 (7); Quire 2: 1x8 (15); Quire 3-6: 4x8 (47);  Quire 7: 1x8 (56); Quire 7: 1x10+1 (58); Quire 8: 1x8+2 (68); Quire 9: 1+1x4+1 (74); Quire 10: 1x4 (78); Quire 11: 1+1x8 (87); Quire 12: 1x8 (95); Quire 13: 1x6 (101); Quire 14: 6x1 (107)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -114,6 +124,22 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Foliation in pencil center of lower margin (followed); occasional alternative foliation in pencil in inner upper margin (not followed); rare third foliation in outer upper margin (not followed)"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Unbound quires stitched together (Quires 2-5, 6-7); some single folios | Folios darkened by use in outer lower corners"
     }
   ],
   "bib": [

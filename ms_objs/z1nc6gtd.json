@@ -13,6 +13,16 @@
     "label": "Codex"
   },
   "coll": "Pastedown+flyleaf (1). Quires 1-3: 3x8 (25), Quire 4: 1x6+1 (32), Quires 5-12: 8x8 (96), Quire 13: 1+1x6 (103), Quires 14-20: 7x8 (159), Quire 21: 1x6 (165)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -60,6 +70,22 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Recent quire numbering in pencil at beginning of each quire on bottom right"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood; metal stud extrudes from center edge of front cover; holes for fastening device on back cover. Spine cover partially detached at top end; quires partially detached from spine"
     }
   ],
   "bib": [

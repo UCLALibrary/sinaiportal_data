@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 1r, 1v, 2r, 2v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -157,6 +167,22 @@
                 }
               }
             ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Sinai CPA NF frag 16, fol. 1 + St. Petersburg, Syr. no. 16, fol. 50"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Fragment belongs to Codex Sinaiticus Rescriptus; parts of this codex are now in the National Library of Russia, the Schoyen Collection, and St. Catherine's Monastery"
+              }
+            ],
             "bib": [
               {
                 "id": "b4ee85d4-739f-4f08-8f11-a940adc5f279",
@@ -212,6 +238,15 @@
       "id": "sinai-nf",
       "collection": "New Finds",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 1–2"
     }
   ],
   "iiif": [

@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 8r+58r (col. a), 9v+61v (col. a), 51r (col. b), 61v (col. b), 58v (col. a), 61r (col. a), 58v (col. b)+8v, 61r (col. b)+9r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -38,6 +48,22 @@
       "id": "sinai-nf",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 8–9, 58, 61"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Original recto: 8r top+58r (col. a), 9v top+61v (col. a), 58r (col. b), 61v (col. b); original verso: 58v (col. a), 61r (col. a), 58v (col. b)+8v top, 61r (col. b )+9r top (Rossetto)"
     }
   ],
   "iiif": [

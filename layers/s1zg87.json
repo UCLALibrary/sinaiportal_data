@@ -49,6 +49,33 @@
       }
     }
   ],
+  "features": [
+    {
+      "id": "deco-geometric",
+      "label": "Decoration, Geometric"
+    },
+    {
+      "id": "initials-deco",
+      "label": "Initial(s), Decorated"
+    },
+    {
+      "id": "deco-vegetative",
+      "label": "Decoration, Vegetative"
+    },
+    {
+      "id": "parallel-text",
+      "label": "Parallel text"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "ornamentation",
+        "label": "Ornamentation note"
+      },
+      "value": "Geometric decorations on ff. 12r, 13r, 14r, fleurons | Decorated Greek initials on ff. 2r-11r; f. 20r with leaves"
+    }
+  ],
   "bib": [
     {
       "id": "deb668b6-feec-4828-8749-a97441881226",

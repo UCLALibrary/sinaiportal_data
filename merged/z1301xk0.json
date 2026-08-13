@@ -12,6 +12,16 @@
     "label": "Undertext Object"
   },
   "fol": "Reconstructed folio order, ff. 130v, 129r, 129v, 130r, 131v, 128r, 128v, 131r",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -209,6 +219,15 @@
                 }
               }
             ],
+            "assoc_place": [
+              {
+                "value": "Jerusalem",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
             "bib": [
               {
                 "id": "ae87935d-e925-4e64-83c0-d09d5f5d7321",
@@ -254,6 +273,22 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 128–131"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "The original manuscript had folios with text in 2 columns. Later, it was cut so that now each folio includes only part of one or the other column"
     }
   ],
   "iiif": [

@@ -13,6 +13,16 @@
     "id": "codex",
     "label": "Codex"
   },
+  "features": [
+    {
+      "id": "catchwords",
+      "label": "Catchwords"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
   "part": [
     {
       "label": "Part 1",
@@ -91,6 +101,21 @@
                 }
               }
             ],
+            "features": [
+              {
+                "id": "deco-anthropomorph",
+                "label": "Decoration, Anthropomorphic"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Anthropomorphic decoration, f. 1v"
+              }
+            ],
             "parent": [
               "ark:/21198/z1t45bq5"
             ],
@@ -107,6 +132,15 @@
       "id": "sinai-oc",
       "collection": "Old Collection",
       "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "The inside endleaf contains a note about the purchase of wheat and tobacco"
     }
   ],
   "iiif": [
