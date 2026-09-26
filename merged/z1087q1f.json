@@ -82,6 +82,10 @@
                           {
                             "id": "hagiographies",
                             "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrologies",
+                            "label": "Martyrologies"
                           }
                         ]
                       },
@@ -118,6 +122,16 @@
                   }
                 ],
                 "as_written": "كمل بتمجيد الله وتسبيحة الجزء الأول من … عباد القديسين وشروحها في مجاهدهم وطروهم / وكان الفراغ منه في العشر الثاني من المحرم سنة سبع وتسعين وأربعة مائه وكتب سعيدين يحيى بن سعيد الجلى بدمشق والمجد لله ابدا",
+                "assoc_place": [
+                  {
+                    "value": "Damascus",
+                    "as_written": "بدمشق",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    }
+                  }
+                ],
                 "assoc_date": [
                   {
                     "value": "1103 CE",
@@ -132,9 +146,6 @@
                       "12 Muharram 497"
                     ]
                   }
-                ],
-                "note": [
-                  "Attested places:  Damascus"
                 ]
               }
             ],

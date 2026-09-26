@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z1d0405c",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -33,7 +36,108 @@
   "ot_genre_ssim": [
     "Biblical texts"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582,
+    583,
+    584,
+    585,
+    586,
+    587,
+    588,
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    600
+  ],
   "ot_language_ssim": [
     "Greek"
   ],
@@ -50,6 +154,8 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Arabic NF M 8, SPP No. 138",
+  "shelfmark_tsi": "UTO Sinai Arabic NF M 8, SPP No. 138",
+  "shelfmark_tsort": "UTO Sinai Arabic NF M 8, SPP No. 138",
   "titles_tesim": [
     "Exodus"
   ],
@@ -66,8 +172,10 @@
     "Greek majuscule",
     "Parchment",
     "Round biblical majuscule",
+    "To the same original manuscript belong also the UTO Genesis from this same manuscript and the UTOs Genesis and Exodus from Sinai Arabic NF 28 (Rossetto)",
     "UTO Sinai Arabic NF M 8, SPP No. 138",
     "ark:/21198/z1d0405c",
+    "ff. 120,122–125, 127",
     "spputos"
   ],
   "cataloguer_tesim": [
@@ -76,7 +184,7 @@
     "Nigel Wilson"
   ],
   "last_modified_dtsi": "2025-12-18T22:48:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1d0405c\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Arabic NF M 8, SPP No. 138\",\"extent\":\"5 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 125v, 125r, 122v, 122r, 124r, 124v, 123r, 123v, 120r, 120v, 127r, 127v\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s13d14\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s13d14\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Arabic NF M 8, Undertext (Greek majuscule)\",\"locus\":\"ff. 120,122–125, 127\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Round biblical majuscule\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"21 lines\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1rd6x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rd6x\",\"reconstruction\":false,\"label\":\"Exodus\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Exodus\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/s13d14\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/z1kd1z25\",\"ark:/21198/z1d0405c\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kd1z25/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q7rws/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1kd1z25\",\"shelfmark\":\"Sinai Arabic NF M 8\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1d0405c\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Arabic NF M 8, SPP No. 138\",\"extent\":\"5 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 125v, 125r, 122v, 122r, 124r, 124v, 123r, 123v, 120r, 120v, 127r, 127v\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s13d14\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s13d14\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Arabic NF M 8, Undertext (Greek majuscule)\",\"locus\":\"ff. 120,122–125, 127\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Round biblical majuscule\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"21 lines\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1rd6x\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1rd6x\",\"reconstruction\":false,\"label\":\"Exodus\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Exodus\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}]}}],\"bib\":[{\"id\":\"874101cc-626a-43d5-91a7-a9b1091871cd\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Boudalis and Rossetto\",\"citation\":\"Boudalis, Georgios, and Giulia Rossetto. \\\"Colour Mapping of Sin. ar. NF 8 + Sin. ar. NF 28.\\\" In M. P. Brown and J. Lockhart, eds. The Apollonius of Tyre Fragment in Arabic NF 8: Studies of a Latin Palimpsest at St Catherine’s Monastery, Sinai. [Forthcoming]\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/s13d14\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"6th c. CE\",\"iso\":{\"not_before\":\"0501\",\"not_after\":\"0600\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"General Note\"},\"value\":\"To the same original manuscript belong also the UTO Genesis from this same manuscript and the UTOs Genesis and Exodus from Sinai Arabic NF 28 (Rossetto)\"}],\"bib\":[{\"id\":\"874101cc-626a-43d5-91a7-a9b1091871cd\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Boudalis and Rossetto\",\"citation\":\"Boudalis, Georgios, and Giulia Rossetto. \\\"Colour Mapping of Sin. ar. NF 8 + Sin. ar. NF 28.\\\" In M. P. Brown and J. Lockhart, eds. The Apollonius of Tyre Fragment in Arabic NF 8: Studies of a Latin Palimpsest at St Catherine’s Monastery, Sinai. [Forthcoming]\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/z1kd1z25\",\"ark:/21198/z1d0405c\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"ff. 120,122–125, 127\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kd1z25/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q7rws/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1kd1z25\",\"shelfmark\":\"Sinai Arabic NF M 8\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1d0405c",
   "has_model_ssim": [
     "Work"
@@ -97,12 +205,18 @@
     "UTO Sinai Arabic NF M 8, SPP No. 138",
     "5 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "6th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "6th c. CE"
+  ],
   "extent_tesi": "5 fols.",
   "text_unit_labels_tesim": [
     "Exodus"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "6th c. CE"
+  ]
 }

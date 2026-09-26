@@ -43,12 +43,12 @@
         "desc_title": "Martyrdom",
         "genre": [
           {
-            "id": "martyrologies",
-            "label": "Martyrologies"
-          },
-          {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       },
@@ -63,10 +63,6 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
-          },
-          {
-            "id": "theological-works",
-            "label": "Theological works"
           }
         ]
       }
@@ -76,12 +72,12 @@
         "desc_title": "Story of Thecla who was engaged to Thamyris and then became a pupil to St. Paul",
         "genre": [
           {
-            "id": "hagiographies",
-            "label": "Hagiographies"
+            "id": "apocrypha",
+            "label": "Apocrypha"
           },
           {
-            "id": "biblical-texts",
-            "label": "Biblical texts"
+            "id": "hagiographies",
+            "label": "Hagiographies"
           }
         ]
       }

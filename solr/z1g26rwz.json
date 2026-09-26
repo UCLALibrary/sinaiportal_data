@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z1g26rwz",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -34,7 +37,108 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023,
+    1024,
+    1025,
+    1026,
+    1027,
+    1028,
+    1029,
+    1030,
+    1031,
+    1032,
+    1033,
+    1034,
+    1035,
+    1036,
+    1037,
+    1038,
+    1039,
+    1040,
+    1041,
+    1042,
+    1043,
+    1044,
+    1045,
+    1046,
+    1047,
+    1048,
+    1049,
+    1050,
+    1051,
+    1052,
+    1053,
+    1054,
+    1055,
+    1056,
+    1057,
+    1058,
+    1059,
+    1060,
+    1061,
+    1062,
+    1063,
+    1064,
+    1065,
+    1066,
+    1067,
+    1068,
+    1069,
+    1070,
+    1071,
+    1072,
+    1073,
+    1074,
+    1075,
+    1076,
+    1077,
+    1078,
+    1079,
+    1080,
+    1081,
+    1082,
+    1083,
+    1084,
+    1085,
+    1086,
+    1087,
+    1088,
+    1089,
+    1090,
+    1091,
+    1092,
+    1093,
+    1094,
+    1095,
+    1096,
+    1097,
+    1098,
+    1099,
+    1100
+  ],
   "ot_language_ssim": [
     "Greek"
   ],
@@ -53,6 +157,8 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Greek NF M 48, SPP No. 209",
+  "shelfmark_tsi": "UTO Sinai Greek NF M 48, SPP No. 209",
+  "shelfmark_tsort": "UTO Sinai Greek NF M 48, SPP No. 209",
   "titles_tesim": [
     "Typikon"
   ],
@@ -65,6 +171,7 @@
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
+    "According to the sequence of the text, it is possible to assume that the bifolios 24-25 and 22-27 belonged to the same quire",
     "Greek",
     "Greek majuscule",
     "Greek minuscule",
@@ -74,13 +181,14 @@
     "Typikon",
     "UTO Sinai Greek NF M 48, SPP No. 209",
     "ark:/21198/z1g26rwz",
+    "ff. 22–27",
     "spputos"
   ],
   "cataloguer_tesim": [
     "Pasquale Orsini"
   ],
   "last_modified_dtsi": "2025-12-20T00:44:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1g26rwz\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek NF M 48, SPP No. 209\",\"extent\":\"6 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 26r, 26v, 23r, 23v, 24r, 24v, 22r, 22v, 27r, 27v, 25r, 25v\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s11p8x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s11p8x\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek NF M 48, Undertext (Greek minuscule, Greek majuscule)\",\"locus\":\"ff. 22–27\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"},{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Informal minuscule, upright or sloping to the right, with numerous abbreviations. The liturgical rubrics are written in a small “Alexandrinische Auszeichnungs-Majuskel”\"]}],\"layout\":[{\"columns\":\"1 columns\",\"lines\":\"12-16 lines\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1pq4n\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1pq4n\",\"reconstruction\":false,\"label\":\"Typikon\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1qk5z\",\"pref_title\":\"Typikon\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"note\":[\"The text presents many variations and different arrangements compared to the editions\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/s11p8x\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/z1jm2s61\",\"ark:/21198/z1g26rwz\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jm2s61/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pz5nmk/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1jm2s61\",\"shelfmark\":\"Sinai Greek NF M 48\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1g26rwz\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek NF M 48, SPP No. 209\",\"extent\":\"6 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 26r, 26v, 23r, 23v, 24r, 24v, 22r, 22v, 27r, 27v, 25r, 25v\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s11p8x\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s11p8x\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek NF M 48, Undertext (Greek minuscule, Greek majuscule)\",\"locus\":\"ff. 22–27\",\"writing\":[{\"script\":[{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"},{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Informal minuscule, upright or sloping to the right, with numerous abbreviations. The liturgical rubrics are written in a small “Alexandrinische Auszeichnungs-Majuskel”\"]}],\"layout\":[{\"columns\":\"1 columns\",\"lines\":\"12-16 lines\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1pq4n\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1pq4n\",\"reconstruction\":false,\"label\":\"Typikon\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1qk5z\",\"pref_title\":\"Typikon\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"note\":[\"The text presents many variations and different arrangements compared to the editions\"]}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Greek New Finds\",\"citation\":\"Nikolopoulos, P. G. Τα νέα ευρήματα του Σινά (Athens, 1998). English translation: A. Hatzopoulos, The New Finds of Sinai (Athens, 1999)\",\"range\":\"p. 166\"},{\"id\":\"fb62d7cf-58cf-4481-a631-b6c70015371e\",\"type\":{\"id\":\"edition\",\"label\":\"Edition\"},\"shortcode\":\"Mateos 1962\",\"citation\":\"Mateos, Juan. ed. Le typicon de la Grande Église. ms. Saint-Croix no. 40, Xe siècle. Vol. 1. Le cycle des douze mois, Orientalia Christiana Analecta 165 (Rome, 1962)\"},{\"id\":\"05d46034-7c77-4d21-a2af-bab43715f977\",\"type\":{\"id\":\"edition\",\"label\":\"Edition\"},\"shortcode\":\"Mateos 1963\",\"citation\":\"Mateos, Juan. Le typicon de la Grande Église. ms. Saint-Croix no. 40, Xe siècle. Vol. 2. Le cycle des fêtes mobiles, Orientalia Christiana Analecta 166 (Rome, 1963)\"},{\"id\":\"394df1bb-b1e4-42ca-9f4f-156fca7e33b7\",\"type\":{\"id\":\"edition\",\"label\":\"Edition\"},\"shortcode\":\"Arranz 1969\",\"citation\":\"Arranz, Miguel. Le typicon du Monastère du Saint Sauveur à Messine, Codex Messinensis Gr. 115 A.D. 1131. Introduction, texte critique, and notes by M. Arranz SJ, Orientalia Christiana Analecta 185 (Rome, 1969)\"},{\"id\":\"d9bd6c7c-2346-4aa3-af84-f4cf22054afe\",\"type\":{\"id\":\"edition\",\"label\":\"Edition\"},\"shortcode\":\"Papadopulos-Kerameus 1897\",\"citation\":\"Papadopulos-Kerameus, Athanasios. Ἀνάλεκτα Ἱεροσολυμιτικῆς Σταχυολογίας. Vol. 4. St. Petersburg: 1897\",\"range\":\"Vols. 1-4\"},{\"id\":\"8f02caa9-88fd-4def-a30f-a64c28a04fe6\",\"type\":{\"id\":\"edition\",\"label\":\"Edition\"},\"shortcode\":\"TR\",\"citation\":\"Τριῴδιον κατανυκτικόν [Triōdion katanyktikon]. Rome, 1879\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/s11p8x\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"11th c. CE\",\"iso\":{\"not_before\":\"1001\",\"not_after\":\"1100\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"bib\":[{\"id\":\"31086588-c563-4dca-b793-d9e4cbdc887b\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Greek New Finds\",\"citation\":\"Nikolopoulos, P. G. Τα νέα ευρήματα του Σινά (Athens, 1998). English translation: A. Hatzopoulos, The New Finds of Sinai (Athens, 1999)\",\"range\":\"p. 166\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/z1jm2s61\",\"ark:/21198/z1g26rwz\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"ff. 22–27\"},{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"According to the sequence of the text, it is possible to assume that the bifolios 24-25 and 22-27 belonged to the same quire\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1jm2s61/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1pz5nmk/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1jm2s61\",\"shelfmark\":\"Sinai Greek NF M 48\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1g26rwz",
   "has_model_ssim": [
     "Work"
@@ -101,12 +209,18 @@
     "UTO Sinai Greek NF M 48, SPP No. 209",
     "6 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "11th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "11th c. CE"
+  ],
   "extent_tesi": "6 fols.",
   "text_unit_labels_tesim": [
     "Typikon"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "11th c. CE"
+  ]
 }

@@ -1,0 +1,205 @@
+{
+  "ark": "ark:/21198/z1nw19cs",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac NF M 39",
+  "summary": "Diadochus of Photice, 100 Practical Chapters of Knowledge and Spiritual Discernment (incomplete)",
+  "extent": "18 ff.",
+  "weight": "104.2 g",
+  "dim": "230 x 181 x 19.0 mm",
+  "state": {
+    "id": "quire",
+    "label": "Quire(s)"
+  },
+  "coll": "I: ff. 18, 1–7 [lacuna of 2 ff. before f. 18] ; II: ff. 8–17",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 18, 1–17",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "225 x 170 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s10d16",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          }
+        },
+        {
+          "id": "ark:/21198/s1qw86",
+          "label": "Syriac Undertext: Gospel of Matthew",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 9, 11, 16"
+        },
+        {
+          "id": "ark:/21198/s1vk9q",
+          "label": "Syriac Undertext: Gospel of Mark",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 7–8, 14, 17"
+        },
+        {
+          "id": "ark:/21198/s10d2k",
+          "label": "Syriac Undertext: Gospel of Luke",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 2–3, 5–6, 10, 12–13, 15, 18"
+        },
+        {
+          "id": "ark:/21198/s1434g",
+          "label": "Syriac Undertext: Gospel of John",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 4"
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "repository": "St. Catherine's Monastery of the Sinai",
+      "collection": "New Finds"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures are marked in the inner edge of a bottom margin of the first and last pages of a quire; quires of 10 ff."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Two sewn quires and two singletons"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "From f. 18 only a top half is preserved"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Old Syriac Gospels palimpsest, overwritten by Diadochus' of Photike's treatise On Spiritual Perfection"
+    }
+  ],
+  "bib": [
+    {
+      "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+      "shortcode": "Philothée 2008",
+      "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[M39N], pp. 425-435 "
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "shortcode": "Géhin 2017",
+      "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[M39N], p. 190"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "label": "SPP",
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kk9tdr/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged"
+    },
+    {
+      "type": {
+        "id": "alt",
+        "label": "Alternate"
+      },
+      "label": "SLDP",
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1nw19cs/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1612rfs%2F3p446b5z/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2020 September",
+        "delivery": "7.2",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 1 cam., 740 ppi, 90mm lens"
+      },
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31+00:00"
+    }
+  ]
+}

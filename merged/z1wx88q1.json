@@ -1,0 +1,324 @@
+{
+  "ark": "ark:/21198/z1wx88q1",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Syriac 30, SPP No. 164",
+  "extent": "35 fols.",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 102r, 102v, 140v, 140r, 93r, 93v, 98r, 98v, 131v, 131r, 109r, 109v, 62v, 62r, 123r, 123v, 125r, 125v, 124r, 124v, 16v, 16r, 15v, 15r, 127r, 127v, 126r, 126v, 128r, 128v, 69v, 69r, 73r, 73v, 105r, 105v, 54r, 54v, 61r, 61v, 70r, 70v, 57r, 57v, 106r, 106v, 78r, 78v, 11r, 11v, 3r, 3v, 117r, 117v, 119v, 119r, 112v, 112r, 114r, 114v, 8r, 8v, 20r, 20v, 132r, 132v, 35r, 35v, 36r, 36v, 139r, 139v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1r05d",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1r05d",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Syriac 30, Undertext (Estrangela)",
+            "locus": "ff. 3, 8, 11, 15, 16, 20, 35, 36, 54, 57, 61, 62, 69, 70, 73, 78, 93, 98, 102, 105, 106, 109, 112, 114, 117, 119, 123–128, 131, 132, 139, 140",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Early Syriac"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1d39v",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1d39v",
+                  "reconstruction": false,
+                  "label": "Gospel of John",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1388d",
+                        "pref_title": "Bible. John",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. John",
+                            "uri": "http://id.loc.gov/authorities/names/n79060414",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. John",
+                            "uri": "https://viaf.org/viaf/57145910123927021804",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "Follows the text of the Old Syriac Gospel"
+                      ]
+                    }
+                  ],
+                  "bib": [
+                    {
+                      "id": "3cbf71e0-1b92-419b-803c-b6d29754bf65",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Bensley, Harris, and Burkitt 1894",
+                      "citation": "Bensley, Robert Lubbock, James Rendel Harris, and Francis C. Burkitt. The Four Gospels in Syriac transcribed from the Sinaitic Palimpsest. Cambridge, 1894"
+                    },
+                    {
+                      "id": "9ae79f9b-1733-49ee-b285-b5f888d5f480",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Lewis 1910",
+                      "citation": "Lewis, Agnes Smith. The Old Syriac Gospels. London, 1910"
+                    },
+                    {
+                      "id": "09cff330-0165-4291-8e21-39c3167f0749",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Hjelt 1930",
+                      "citation": "Hjelt, Arthur, ed. Syrus sinaiticus. Helsingfors, 1930"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    },
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Sebastian Brock"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:43:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1r05d"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "Late 5th-6th c. CE",
+                "iso": {
+                  "not_before": "0450",
+                  "not_after": "0600"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "assoc_place": [
+              {
+                "value": "North Mesopotamia",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "The UTOs of the Gospels of Matthew, Mark, Luke, and John are from the same Old Syriac manuscript"
+              }
+            ],
+            "bib": [
+              {
+                "id": "3cbf71e0-1b92-419b-803c-b6d29754bf65",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Bensley, Harris, and Burkitt 1894",
+                "citation": "Bensley, Robert Lubbock, James Rendel Harris, and Francis C. Burkitt. The Four Gospels in Syriac transcribed from the Sinaitic Palimpsest. Cambridge, 1894"
+              },
+              {
+                "id": "9ae79f9b-1733-49ee-b285-b5f888d5f480",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Lewis 1910",
+                "citation": "Lewis, Agnes Smith. The Old Syriac Gospels. London, 1910"
+              },
+              {
+                "id": "09cff330-0165-4291-8e21-39c3167f0749",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Hjelt 1930",
+                "citation": "Hjelt, Arthur, ed. Syrus sinaiticus. Helsingfors, 1930"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Sebastian Brock"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:43:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z12n5hwt",
+              "ark:/21198/z1wx88q1"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 3, 8, 11, 15, 16, 20, 35, 36, 54, 57, 61, 62, 69, 70, 73, 78, 93, 98, 102, 105, 106, 109, 112, 114, 117, 119, 123–128, 131, 132, 139, 140"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12n5hwt/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1988nbt/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Sebastian Brock"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:43:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z12n5hwt",
+      "shelfmark": "Sinai Syriac 30"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

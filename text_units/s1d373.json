@@ -11,7 +11,17 @@
   "work_wit": [
     {
       "work": {
-        "desc_title": "Homily 1 (attributed to John <Chrysostom>), ‘concerning the one who was made a priest’"
+        "desc_title": "Homily 1 (attributed to John <Chrysostom>), ‘concerning the one who was made a priest’",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          }
+        ]
       },
       "locus": "ff. 1r–3r",
       "excerpt": [
@@ -84,7 +94,17 @@
     },
     {
       "work": {
-        "desc_title": "Homily 2, dealing with the flood"
+        "desc_title": "Homily 2, dealing with the flood",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          }
+        ]
       },
       "locus": "ff. 3r–5v",
       "excerpt": [
@@ -146,7 +166,17 @@
     },
     {
       "work": {
-        "desc_title": "Homily 3, dealing with apostle Peter"
+        "desc_title": "Homily 3, dealing with apostle Peter",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "commentaries",
+            "label": "Commentaries"
+          }
+        ]
       },
       "locus": "ff. 7r–14v",
       "excerpt": [

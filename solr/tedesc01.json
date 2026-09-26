@@ -400,6 +400,8 @@
     500
   ],
   "shelfmark_ssi": "Shelfmark string, e.g. Sinai Arabic 999 or Sinai Syriac NF X 1",
+  "shelfmark_tsi": "Shelfmark string, e.g. Sinai Arabic 999 or Sinai Syriac NF X 1",
+  "shelfmark_tsort": "Shelfmark string, e.g. Sinai Arabic 999 or Sinai Syriac NF X 1",
   "titles_tesim": [
     "Descriptive title for an unidentified or unlinked work, e.g. Prefatory table or index",
     "Descriptive title for an unidentified or unlinked work, e.g. Unidentified liturgical text",
@@ -857,9 +859,9 @@
     "Secondary text unit label, e.g. name of a secondary or unidentified text"
   ],
   "origin_date_values_tesim": [
-    "Origin date as a human-readable string, e.g. 10th c. CE",
     "Origin date as expressed in the colophon, e.g. 10th c. CE",
     "Date as written in the paracontent, e.g. 10th c. CE",
-    "Date as expressed in the paracontent"
+    "Date as expressed in the paracontent",
+    "Origin date as a human-readable string, e.g. 10th c. CE"
   ]
 }

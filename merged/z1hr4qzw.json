@@ -1,0 +1,363 @@
+{
+  "ark": "ark:/21198/z1hr4qzw",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Syriac 30, SPP No. 155",
+  "extent": "4 fols.",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 142r, 142v, 144v, 144r, 147v, 147r, 149r, 149v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1734d",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1734d",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Syriac 30, Undertext (Greek majuscule)",
+            "locus": "ff. 142, 144, 147, 149",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "note": [
+                  "Biblical majuscule | Similar to Vindob. theol. gr. 31, Paris. suppl. gr. 1286, and Codex Purpureus Rossanensis, suggesting a date in the sixth century (501-600 CE) and a place of origin in the region of Syria or Antioch (cf. G. Cavallo, Ricerche sulla maiuscola biblica (Florence, 1967), pp. 98-104; P. Orsini, Manoscritti in maiuscola biblica. Materiali per un aggiornamento (Cassino, 2005), pp. 176-177, 201-203, 210-211"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "25 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1w404",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1w404",
+                  "reconstruction": false,
+                  "label": "Gospel of John",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1388d",
+                        "pref_title": "Bible. John",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. John",
+                            "uri": "http://id.loc.gov/authorities/names/n79060414",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. John",
+                            "uri": "https://viaf.org/viaf/57145910123927021804",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "These folios preserve two sections of text (John 6:68-7:31 and 8:53-9:23), with an extensive gap between them (John 7:31-8:52). The missing text would have occupied about 18 columns (9 sides, i.e. 4 folios + 1 side). Codicologically more likely is the exclusion of the “Pericope Adulterae” (7:53-8:11). In that case, the missing text would have occupied about 16 columns (8 sides, i.e. 4 folios.). These four lost folios were the two central bifolios of the quire (if it was a quaternion)"
+                      ]
+                    }
+                  ],
+                  "bib": [
+                    {
+                      "id": "3cbf71e0-1b92-419b-803c-b6d29754bf65",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Bensley, Harris, and Burkitt 1894",
+                      "citation": "Bensley, Robert Lubbock, James Rendel Harris, and Francis C. Burkitt. The Four Gospels in Syriac transcribed from the Sinaitic Palimpsest. Cambridge, 1894",
+                      "range": "p. xvi"
+                    },
+                    {
+                      "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Lewis 1900",
+                      "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                      "range": "pp. 45-46"
+                    },
+                    {
+                      "id": "09cff330-0165-4291-8e21-39c3167f0749",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Hjelt 1930",
+                      "citation": "Hjelt, Arthur, ed. Syrus sinaiticus. Helsingfors, 1930",
+                      "range": "p. 15"
+                    },
+                    {
+                      "id": "f4a6014c-131b-4b99-be49-436979a52cac",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Guignard 2015",
+                      "citation": "Guignard, Christophe. “0323: A Forgotten 4th or 5th Century Greek Fragment of the Gospel of John in the Syrus Sinaiticus.” Novum Testamentum 57 (2015)",
+                      "range": "pp. 311-319"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    },
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Pasquale Orsini"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:44:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1734d"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "6th c. CE",
+                "iso": {
+                  "not_before": "0501",
+                  "not_after": "0600"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "assoc_place": [
+              {
+                "value": "Syria or Antioch",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "These folios preserve two sections of text (John 6:68-7:31 and 8:53-9:23), with an extensive gap between them (John 7:31-8:52). The missing text would have occupied about 18 columns (9 sides, i.e. 4 folios + 1 side). Codicologically more likely is the exclusion of the “Pericope Adulterae” (7:53-8:11). In that case, the missing text would have occupied about 16 columns (8 sides, i.e. 4 folios.). These four lost folios were the two central bifolios of the quire (if it was a quaternion)"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "The original quaternion must have been as follows: I (142rv), II (144vr), III (folio lost), IV (folio lost) | V (folio lost), VI (folio lost), VII (147vr), VIII (149rv)"
+              }
+            ],
+            "bib": [
+              {
+                "id": "3cbf71e0-1b92-419b-803c-b6d29754bf65",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Bensley, Harris, and Burkitt 1894",
+                "citation": "Bensley, Robert Lubbock, James Rendel Harris, and Francis C. Burkitt. The Four Gospels in Syriac transcribed from the Sinaitic Palimpsest. Cambridge, 1894",
+                "range": "p. xvi"
+              },
+              {
+                "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Lewis 1900",
+                "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                "range": "pp. 45-46"
+              },
+              {
+                "id": "09cff330-0165-4291-8e21-39c3167f0749",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Hjelt 1930",
+                "citation": "Hjelt, Arthur, ed. Syrus sinaiticus. Helsingfors, 1930",
+                "range": "p. 15"
+              },
+              {
+                "id": "f4a6014c-131b-4b99-be49-436979a52cac",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Guignard 2015",
+                "citation": "Guignard, Christophe. “0323: A Forgotten 4th or 5th Century Greek Fragment of the Gospel of John in the Syrus Sinaiticus.” Novum Testamentum 57 (2015)",
+                "range": "pp. 311-319"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Pasquale Orsini"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:44:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z12n5hwt",
+              "ark:/21198/z1hr4qzw"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 142, 144, 147, 149"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12n5hwt/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1988nbt/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Pasquale Orsini"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:44:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z12n5hwt",
+      "shelfmark": "Sinai Syriac 30"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

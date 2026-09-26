@@ -1,0 +1,131 @@
+{
+  "ark": "ark:/21198/s1jh4b",
+  "reconstruction": false,
+  "label": "(Christian Palestinian Aramaic) Gospel Lectionary / Evangelion (Byzantine rite)",
+  "lang": [
+    {
+      "id": "chri1239",
+      "label": "CPA"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s19p4w"
+      },
+      "alt_title": "(Christian Palestinian Aramaic) Gospel Lectionary / Evangelion (Byzantine rite)",
+      "locus": "ff. 1r–8v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "inc-mut",
+            "label": "First Preserved Line"
+          },
+          "as_written": "... ܘܬܘܝܐ ܒܪ̈ܡ ܖܝ ܐܡܝܪ̈ ܐܢܐ ܠܟܘܢ ܕܨܘܪ ܘܠܨܝܕܝܢ ܝܗܐ ܢܝܚ ܒܝܘܡܗ ܖܕܝܢܐ"
+        },
+        {
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "as_written": "ܘܐܡܪ ܠܗ ܗܝܢܘܢ ܐܢܝܫ ܠܐ ܚܐܝܒ ܝܬ[ܟܝ] [ܗܝ] ܖܝ ܐܡܪ[ܬ ܘܠܐ ܐܢܫ] ܡܪܝ܀ ܐܡܪ [ܠܗ] ܡܪܐ ܐܝܣܘܣ܀ ܐܘܦ ܠܐ ܐܢܐ [ܠܝܬ] ܐܢܐ ܡܚܝܒ [ܠܝ]ܟܝ ܀ ܐܙܠܝ ...",
+          "note": [
+            "Corresponds to Jn. 8:10–11 (ed. Lewis and Gibson, p. 243, reading 200)",
+            "Bears no rubric"
+          ]
+        }
+      ],
+      "contents": [
+        {
+          "label": "Acephalous reading, Mt. 11:21–30",
+          "locus": "f. 1r–v"
+        },
+        {
+          "label": "25 April, Evangelist Mark",
+          "locus": "f. 1v–2r"
+        },
+        {
+          "label": "30 <April>, apostle James, son of Zebedee",
+          "locus": "f. 2r–v"
+        },
+        {
+          "label": "15 June, Amos the prophet",
+          "locus": "f. 3r"
+        },
+        {
+          "label": "19 <June>, Ezekiel the prophet",
+          "locus": "f. 3r–v"
+        },
+        {
+          "label": "15 July, St. Cyricus and his mother Julitta",
+          "locus": "ff. 3v–4v"
+        },
+        {
+          "label": "14 August, St. Aeglon and 70 disciples, Micah the prophet",
+          "locus": "f. 4v"
+        },
+        {
+          "label": "16 <August>, St. GNDY (?)",
+          "locus": "ff. 4v–5r"
+        },
+        {
+          "label": "26 October, St. Demetrius",
+          "locus": "f. 5r"
+        },
+        {
+          "label": "13 <September>, Enkainia of Anastasis",
+          "locus": "f. 5r–v"
+        },
+        {
+          "label": "29 <September> St. Cyriacus <the Anchorite>",
+          "locus": "f. 5v"
+        },
+        {
+          "label": "Readings for various occasions",
+          "locus": "f. 5v–7v"
+        },
+        {
+          "label": "11 June, apostles Bartholomew and Barnabas",
+          "locus": "ff. 7v–8r"
+        },
+        {
+          "label": "defective rubric, Jn. 8:1–11",
+          "locus": "f. 8r–v"
+        }
+      ],
+      "bib": [
+        {
+          "id": "355df1c4-b108-4ddd-9a02-24a5891d8676",
+          "shortcode": "Lewis and Gibson 1899",
+          "citation": "Lewis, Agnes Smith and Margaret Dunlop Gibson. The Palestinian Syriac Lectionary of the Gospels. London: 1899",
+          "type": {
+            "id": "edition",
+            "label": "Edition"
+          }
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1m33f"
+  ]
+}

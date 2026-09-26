@@ -178,8 +178,15 @@
                     }
                   }
                 ],
-                "note": [
-                  "Attested places:  Famagusta, Cyprus"
+                "assoc_place": [
+                  {
+                    "value": "Famagusta",
+                    "as_written": "الماغوصة",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    }
+                  }
                 ]
               }
             ],

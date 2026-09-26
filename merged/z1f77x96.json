@@ -1,0 +1,902 @@
+{
+  "ark": "ark:/21198/z1f77x96",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 17",
+  "summary": "New Testament (Peshitta version)",
+  "extent": "165 ff.",
+  "weight": "1482.9 g",
+  "dim": "225 x 161 x 98.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "flyleaf (f. 1) ; I: [first folio is today Mingana Syr. 633, f. 1] + ff. 2–9 (all replacements) ; II: ff. 9b–16 (all replacements) ; III: ff. 17–24 (f. 22 is a replacement) ; IV: ff. 25–31 ; V: ff. 32–41 ; VI: ff. 42–51 ; VII: ff. 52–61 ; VIII: ff. 62–71 ; IX: ff. 72–81 ; X: ff. 82–91 ; XI: ff. 92–98 (all replacements) + [Mingana Syr. 633, f. 2 + Biblioteca Ambrosiana, A 296 inf., f. 77 = Chabot 22] ; XII: [Biblioteca Ambrosiana, A 296 inf., f. 78 = Chabot 22] + ff. 99–109 (ff. 99–103 are replacements) ; XIII: ff. 110–119 ; XIV: ff. 120–129 ; XV: ff. 130–139 ; XVI: ff. 140–149 (ff. 144–149 are replacements) ; XVII: ff. 150–159 (all replacements) ; XVIII: ff. 160 (replacement) ; flyleaves (ff. 161–164)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 2-160",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        },
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "note": [
+        {
+          "type": {
+            "id": "support",
+            "label": "Support Note"
+          },
+          "value": "Ff. 144-147, 149 are paper"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Mingana Syr. 633 (ff. 1-2)"
+            },
+            {
+              "label": "Biblioteca Ambrosiana, A 296 inf. (ff. 77-78 = Chabot 22)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s11k8w",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s11k8w",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 17, Overtext ()",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "locus": "ff. 1-2, 161-163"
+              },
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "locus": "ff. 3-160",
+                "note": [
+                  "Transitional Estrangela with East Syriac vocalization"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "37–42 (34–39 lines – replacements)"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1v374",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1v374",
+                  "reconstruction": false,
+                  "label": "New Testament (Peshitta version)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1p30x",
+                        "pref_title": "Bible. New Testament",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "New Testament (Peshitta version)",
+                      "locus": "ff. 2r-164",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "... ܕܩܘܕܫܐ . ܬܐܠܕ ܕܝܢ ܒܪܐ܆ ܘܬܩܪܐ ܫܡܗ ܝܫܘܥ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": " ܘܗ̇ܐ ܐܢܐ ܥܡܟܘܢ ܐܢܐ ܟܠܗܘܢ ܝܘܡ̈ܬܐ܆ ܥܕܡܐ ܠܫܘܠܡܗ ܕܥܠܡܐ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܐܘܢܓܠܝܘܢ ܩܕܝܫܐ ܟܪܘܙܘܬܐ ܕܡܬܝ ܕܐܟܪܙ ܥܒܪܐܝܬ ܒܦܠܣܛܝܢܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܪܫܐ ܕܐܘܢܓܠܝܘܢ ܕܝܫܘܥ ܡܫܝܚܐ ܒܪܗ ܕܐܠܗܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܡܫܪ ܡܠܝܗ̈ܘܢ ܒܐܬܘ̈ܬܐ ܕܥܒܕܝܢ ܗܘܘ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܐܘܢܓܠܝܘܢ ܩܕܝܫܐ ܟܪܘܙܘܬܐ ܕܡܪܩܘܣ ܕܡܠܠ ܪܗܘܡܐܝܬ ܒܖ̈ܗܘܡܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܡܛܠ ܕܤܓܝ̈ܐܐ ܨܒ̣ܘ ܕܢܟܬܒܘܢ ܬܫܥܝ̈ܬܐ ܕܤܘܥܖ̈ܢܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܟܕ ܡܫܒܚܝܢ ܘܡܒܪܟܝܢ ܠܐܠܗܐ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܐܘܢܓܠܝܘܢ ܩܕܝܫܐ ܟܪܘܙܘܬܐ ܕܠܘܩܐ ܕܡܠܠ ܝܘܢܐܝܬ ܒܐܠܟܣܢܕܪܝܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܒܪܝܫܝܬ ܐܝܬܘܗܝ ܗܘ̣ܐ ܡܠܬܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܐܝܟ ܕܤ̇ܒܪ ܐܢܐ܇ ܤ̇ܦܩ ܗܘ̣ܐ ܠܟܬܒ̈ܐ ܕܡܬܟܬܒܝܢ ܗ̣ܘܘ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܐܘܢܓܠܝܘܢ ܩܕܝܫܐ ܟܪܘܙܘܬܐ ܕܝܘܚܢܢ ܕܡܠܠ ܝܘܢܐܝܬ ܒܐܦܣܘܣ. ܫܘܒܚܐ ܠܡܫܝܚܐ ܡܪܢ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܟܬܒܐ ܩܕܡܝܐ ܟܬܒܬ ܐܘ ܬܐܘܦܝܠܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܡܠܦ ܗܘ̣ܐ ܥܝܢ ܒܓܠܐ ܥܠ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܠܐ ܟܠܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܦܪܟܣܝܣ ܕܫܠܝ̈ܚܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܝܥܩܘܒ ܥܒܕܗ ܕܐܠܗܐ. ܘܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܥ̇ܛܐ ܤܘܓܐܐ ܕܚܛܗ̈ܘܗܝ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܝܥܩܘܒ ܫܠܝܚܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܛܪܘܣ ܫܠܝܚܐ ܕܝܫܘܥ ܡܫܝܚܐ. ܠܓܒ̈ܝܐ ܘܬܘ̈ܬܒܐ ܕܙܪܝܥܝܢ ܒܦܘܢܛܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܫܠܡܐ ܥܡ ܟܠܗܘܢ ܐܝܠܝܢ ܕܒܡܫܝܚܐ ܐܢܘܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ [ܕܦ]ܛܪܘܣ ܫܠܝܚܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܡܤ̇ܒܪܝܢܢ ܚܢܢ ܠܟܘܢ ܠܗ̇ܘ ܕܐܝܬܘܗܝ ܗܘ̣ܐ ܡܢ ܒܪܝܫܝܬ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܒܢܝ ܛܪܘ ܢܦܫܟܘܢ ܡܢ ܕܚܠܬ ܦܬܟܖ̈ܐ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": ".ܫܠܡ ܦܪܟܣܝܣ ܕܫܠܝ̈ܚܐ ܘܐܓܖ̈ܬܐ ܩܬܘܠܝܩ̈ܘܣ. ܫܘܒܚܐ ܠܡܫܝܚܐ ܡܪܢ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "...ܦܘܠܘܣ ܥܒܕܐ ܕܝܫܘܥ ܡܫܝܚܐ. ܩܪܝܐ ܘܫܠܝܚܐ   "
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܛܝܒܘܬܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܥܡ ܟܠܟܘܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܖ̈ܗܘܡܝܐ ܕܐܬܟܬܒܬ ܡܢ ܩܘܪܢܬܘܣ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܦܘܒܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܩܪܝܐ ܘܫܠܝܚܐ ܕܝܫܘܥ ܡܫܝܚܐ ܒܨܒܝܢܗ ܕܐܠܗܐ. ܘܤܘܤܬܢܝܣ ܐܚܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܚܘܒܝ ܥܡ ܟܠܟܘܢ ܒܡܫܝܚܐ ܝܫܘܥ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܩܘܖ̈ܢܬܝܐ ܩܕܡܝܬܐ ܕܐܬܟܬܒܬ ܡܢ ܐܦܣܘܣ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܛܝܡܬܐܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܫܠܝܚܐ ܕܝܫܘܥ ܡܫܝܚܐ ܒܨܒܝܢܗ ܕܐܠܗܐ. ܘܛܝܡܬܐܘܣ ܐܚܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܫܘܬܦܘܬܐ ܕܪܘܚܐ ܕܩܘܕܫܐ ܥܡ ܟܠܟܘܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܩܘܖ̈ܢܬܝܐ ܕܬܖ̈ܝܢ ܕܐܬܟܬܒܬ ܡܢ ܦܝܠܝܦܘܣ ܕܡܩܕܘܢܝܐ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܛܛܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܫܠܝܚܐ ܠܐ ܡܢ ܒܢܝܢܫ̈ܐ ܘܠܐ ܒܝܕ ܒܪܢܫܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": " ܛܝܒܘܬܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܥܡ ܪܘܚܟܘܢ ܐܚ̈ܝ ܐܡܝܢ ... "
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܓܠܛܝ̈ܐ ܕܐܬܟܬܒܬ ܡܢ ܖ̈ܗܘܡܐ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܛܛܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܫܠܝܚܐ ܕܝܫܘܥ ܡܫܝܚܐ ܒܨܒܝܢܗ ܕܐܠܗܐ. ܠܐܝܠܝܢ ܕܐܝܬܝܗܘܢ ܒܐܦܤܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܛܝܒܘܬܐ ܥܡ ܟܠܗܘܢ ܐܝܠܝܢ ܕܡ̇ܚܒܝܢ ܠܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܠܐ ܚܒ̣ܠ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܐܦܣ̈ܝܐ ܕܐܬܟܬܒܬ ܡܢ ܖ̈ܗܘܡܐ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܛܘܟܝܩܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܘܛܝܡܬܐܘܣ ܥܒ̈ܕܐ ܕܝܫܘܥ ܡܫܝܚܐ. ܠܟܠܗܘܢ ܩܕܝܫ̈ܐ ܕܒܝܫܘܥ ܡܫܝܚܐ ܕܐܝܬ ܒܦܝܠܝܦܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܛܝܒܘܬܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܥܡ ܟܠܟܘܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܦܝܠܝܦܣ̈ܝܐ ܕܐܬܟܬܒܬ ܡܢ ܖ̈ܗܘܡܐ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܐܦܦܪܘܕܝܛܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܫܠܝܚܐ ܕܝܫܘܥ ܡܫܝܚܐ ܒܨܒܝܢܗ ܕܐܠܗܐ. ܘܛܝܡܬܐܘܣ ܐܚܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܠܐܤܘܖ̈ܝ ܛܝܒܘܬܐ ܥܡܟܘܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܩܘ̈ܠܣܝܐ ܕܐܬܟܬܒܬ ܡܢ ܖ̈ܗܘܡܐ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܛܘܟܝܩܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܘܤܠܘܢܘܣ ܘܛܝܡܬܐܘܣ ܠܥܕܬܐ ܕܬܤܠܘ̈ܢܝܩܝܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܛܝܒܘܬܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܥܡܟܘܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܬܣܠܘ̈ܢܝܩܝܐ ܩܕܡܝܬܐ ܕܐܬܟܬܒܬ ܡܢ ܐܬܢܘܣ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܛܝܡܬܐܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܘܤܠܘܢܘܣ ܘܛܝܡܬܐܘܣ. ܠܥܕܬܐ ܕܬܤܠܘ̈ܢܝܩܝܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܛܝܒܘܬܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܥܡ ܟܠܟܘܢ ܐܚ̈ܝ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܬܣܠܘ̈ܢܝܩܝܐ ܕܬܖ̈ܝܢ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܫܠܝܚܐ ܕܝܫܘܥ ܡܫܝܚܐ ܒܦܘܩܕܢܐ ܕܐܠܗܐ "
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܛܥ̣ܘ ܠܗܘܢ ܡ̣ܢ ܗܝܡܢܘܬܐ. ܛܝܒܘܬܐ ܥܡܟ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܛܝܡܬܐܘܣ ܩܕܡܝܬܐ ܕܐܬܟܬܒܬ ܡܢ ܠܕܝܩܝܐ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܠܘܩܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܫܠܝܚܐ ܕܝܫܘܥ ܡܫܝܚܐ ܒܨܒܝܢܗ ܕܐܠܗܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܥܡ ܪܘܚܟ ܀ ܛܝܒܘܬܐ ܥܡܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܛܝܡܬܐܘܣ ܕܬܖ̈ܝܢ ܕܐܬܟܬܒܬ ܡܢ ܪܗܘܡܐ ܘܐܫܬܕܪܬ ܒܝܕ ܠܘܩܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܥܒܕܗ ܕܐܠܗܐ܆ ܘܫܠܝܚܗ ܕܝܫܘܥ ܡܫܝܚܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": " ܕܟܠܗܘܢ ܐܝܠܝܢ ܕܪܚܡܝܢ ܠܢ ܒܗܝܡܢܘܬܐ. ܛܝܒܘܬܐ ܥܡ ܟܠܟܘܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܛܛܘܣ ܕܐܬܟܬܒܬ ܡܢ ܢܝܩܦܘܠܝܣ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܙܐܢܐ ܣܦܪܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܦܘܠܘܣ ܐܤܝܪܗ ܕܝܫܘܥ ܡܫܝܚܐ. ܘܛܝܡܬܐܘܣ ܐܚܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܛܝܒܘܬܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܥܡ ܪܘܚܟܘܢ ܐܚ̈ܝ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܦܝܠܝܡܘܢ ܕܐܬܟܬܒܬ ܡܢ ܖ̈ܗܘܡܐ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܐܢܣܝܡܘܣ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܒܟܠ ܡܢܘ̈ܢ ܘܒܟܠ ܕܡܘ̈ܢ ܡܠܠ ܐܠܗܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܛܝܒܘܬܐ ܥܡ ܟܠܟܘܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܐܓܪܬܐ ܕܠܘܬ ܥܒܖ̈ܝܐ ܕܐܬܟܬܒܬ ܡܢ ܐܝܛܠܝܐ ܘܐܫܬܕܪܬ ܒܐܝܕ̈ܝ ܛܝܡܬܐܘܣ"
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Gospel of Matthew",
+                          "locus": "ff. 2r–26v"
+                        },
+                        {
+                          "label": "Gospel of Mark",
+                          "locus": "ff. 27r–42r"
+                        },
+                        {
+                          "label": "Gospel of Luke",
+                          "locus": "ff. 42r–69r"
+                        },
+                        {
+                          "label": "Gospel of John",
+                          "locus": "ff. 69r–88r"
+                        },
+                        {
+                          "label": "Acts of the Apostles",
+                          "locus": "ff. 88r–108v"
+                        },
+                        {
+                          "label": "Epistle of James",
+                          "locus": "ff. 108v–110v"
+                        },
+                        {
+                          "label": "First Epistle of Peter",
+                          "locus": "ff. 110v–113r"
+                        },
+                        {
+                          "label": "First Epistle of John",
+                          "locus": "ff. 113r–115r"
+                        },
+                        {
+                          "label": "Epistle to the Romans",
+                          "locus": "ff. 115r–123r"
+                        },
+                        {
+                          "label": "First Epistle to the Corinthians",
+                          "locus": "ff. 123r–131r"
+                        },
+                        {
+                          "label": "Second Epistle to the Corinthians",
+                          "locus": "ff. 132r–136r"
+                        },
+                        {
+                          "label": "Epistle to the Galatians",
+                          "locus": "ff. 136r–138v"
+                        },
+                        {
+                          "label": "Epistle to the Ephesians",
+                          "locus": "ff. 138v–141r"
+                        },
+                        {
+                          "label": "Epistle to the Philippians",
+                          "locus": "ff. 141r–143r"
+                        },
+                        {
+                          "label": "Epistle to the Colossians",
+                          "locus": "ff. 143r–145r"
+                        },
+                        {
+                          "label": "First Epistle to the Thessalonians",
+                          "locus": "ff. 145r– 147r"
+                        },
+                        {
+                          "label": "Second Epistle to the Thessalonians",
+                          "locus": "ff. 147r–148r"
+                        },
+                        {
+                          "label": "First Epistle to Timothy",
+                          "locus": "ff. 148r–150r"
+                        },
+                        {
+                          "label": "Second Epistle to Timothy",
+                          "locus": "ff. 150r–151v"
+                        },
+                        {
+                          "label": "Epistle to Titus",
+                          "locus": "ff. 151v–152v"
+                        },
+                        {
+                          "label": "Epistle to Philemon",
+                          "locus": "ff. 152v–153r"
+                        },
+                        {
+                          "label": "Epistle to the Hebrews",
+                          "locus": "ff. 153r–160r"
+                        }
+                      ]
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Homily (unidentified) (ff. 161–163)"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s11k8w"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "8th c. CE",
+                "iso": {
+                  "not_before": "0701",
+                  "not_after": "0800"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[51], p. 152"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386280-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1f77x96"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signature, consisting of double Syriac numeral with decoration, is marked in the bottom margin of the first page and last of a quire; a second series of quire signatures in Arabic added by a later hand; quires of 10 ff."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two binding boards."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Ff. 160v-163v partly erased"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "The original manuscript was restored so that defective folios (ff. 2–16, 22, 92–103, 144–160) were replaced with new parchment leaves and accurately supplied with corresponding text; during the same restoration the faded sections in the remaining part of the original codex were retraced."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Flyleaves: John Chrysostom, Homilies on First Corinthians (CPG 4428) (f. 1r–v) ; Palimpsested folio with two layers of writing in Syriac. (f. 164)"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[51], p. 152"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386280-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1f77x96/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1f77x96%2Fbp27c296/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2019 September",
+        "delivery": "6.1",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

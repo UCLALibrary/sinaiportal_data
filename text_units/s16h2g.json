@@ -36,8 +36,8 @@
             "label": "Hagiographies"
           },
           {
-            "id": "martyrologies",
-            "label": "Martyrologies"
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       }
@@ -46,6 +46,10 @@
       "work": {
         "desc_title": "Book of the Nativity of Our Lady, and mother on Her Dormition",
         "genre": [
+          {
+            "id": "apocrypha",
+            "label": "Apocrypha"
+          },
           {
             "id": "hagiographies",
             "label": "Hagiographies"

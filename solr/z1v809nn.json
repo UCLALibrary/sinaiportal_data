@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z1v809nn",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -34,7 +37,108 @@
     "Biblical texts",
     "Liturgical texts"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    801,
+    802,
+    803,
+    804,
+    805,
+    806,
+    807,
+    808,
+    809,
+    810,
+    811,
+    812,
+    813,
+    814,
+    815,
+    816,
+    817,
+    818,
+    819,
+    820,
+    821,
+    822,
+    823,
+    824,
+    825,
+    826,
+    827,
+    828,
+    829,
+    830,
+    831,
+    832,
+    833,
+    834,
+    835,
+    836,
+    837,
+    838,
+    839,
+    840,
+    841,
+    842,
+    843,
+    844,
+    845,
+    846,
+    847,
+    848,
+    849,
+    850,
+    851,
+    852,
+    853,
+    854,
+    855,
+    856,
+    857,
+    858,
+    859,
+    860,
+    861,
+    862,
+    863,
+    864,
+    865,
+    866,
+    867,
+    868,
+    869,
+    870,
+    871,
+    872,
+    873,
+    874,
+    875,
+    876,
+    877,
+    878,
+    879,
+    880,
+    881,
+    882,
+    883,
+    884,
+    885,
+    886,
+    887,
+    888,
+    889,
+    890,
+    891,
+    892,
+    893,
+    894,
+    895,
+    896,
+    897,
+    898,
+    899,
+    900
+  ],
   "ot_language_ssim": [
     "Greek"
   ],
@@ -53,13 +157,17 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Greek 2053, SPP No. 303",
+  "shelfmark_tsi": "UTO Sinai Greek 2053, SPP No. 303",
+  "shelfmark_tsort": "UTO Sinai Greek 2053, SPP No. 303",
   "titles_tesim": [
     "Anthology of Psalms",
     "Psalter"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
-  "places_tesim": [],
+  "places_tesim": [
+    "Sinai region"
+  ],
   "contents_tesim": [
     "Anthology of Psalms",
     "Psalter"
@@ -71,17 +179,19 @@
     "Greek majuscule",
     "Parchment",
     "Psalter",
+    "Sinai region",
     "The original manuscript was a parchment roll",
     "The script is \"sloping pointed majuscule,\" but with the occasional and inconsistent use of letters alpha and mU of the \"scrittura mista\"",
     "UTO Sinai Greek 2053, SPP No. 303",
     "ark:/21198/z1v809nn",
+    "ff. 1, 2r, 3–16",
     "spputos"
   ],
   "cataloguer_tesim": [
     "Pasquale Orsini"
   ],
   "last_modified_dtsi": "2025-12-20T00:44:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1v809nn\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 2053, SPP No. 303\",\"extent\":\"14 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 16r+11v+13v+14r\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1dw71\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1dw71\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 2053, Undertext (Greek majuscule)\",\"locus\":\"ff. 1, 2r, 3–16\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"The script is \\\"sloping pointed majuscule,\\\" but with the occasional and inconsistent use of letters alpha and mU of the \\\"scrittura mista\\\"\"]}],\"layout\":[{\"note\":[\"The original manuscript was a parchment roll\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s12x10\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s12x10\",\"reconstruction\":false,\"label\":\"Anthology of Psalms\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1d886\",\"pref_title\":\"Psalter\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Anthology of Psalms\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/s1dw71\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/z1ks7pg9\",\"ark:/21198/z1v809nn\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ks7pg9/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18k86rm/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1ks7pg9\",\"shelfmark\":\"Sinai Greek 2053\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1v809nn\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 2053, SPP No. 303\",\"extent\":\"14 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 16r+11v+13v+14r\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1dw71\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1dw71\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 2053, Undertext (Greek majuscule)\",\"locus\":\"ff. 1, 2r, 3–16\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"The script is \\\"sloping pointed majuscule,\\\" but with the occasional and inconsistent use of letters alpha and mU of the \\\"scrittura mista\\\"\"]}],\"layout\":[{\"note\":[\"The original manuscript was a parchment roll\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s12x10\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s12x10\",\"reconstruction\":false,\"label\":\"Anthology of Psalms\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1d886\",\"pref_title\":\"Psalter\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]},\"alt_title\":\"Anthology of Psalms\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/s1dw71\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"9th c. CE\",\"iso\":{\"not_before\":\"0801\",\"not_after\":\"0900\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Sinai region\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/z1ks7pg9\",\"ark:/21198/z1v809nn\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"ff. 1, 2r, 3–16\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ks7pg9/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18k86rm/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1ks7pg9\",\"shelfmark\":\"Sinai Greek 2053\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1v809nn",
   "has_model_ssim": [
     "Work"
@@ -102,12 +212,18 @@
     "UTO Sinai Greek 2053, SPP No. 303",
     "14 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "9th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "9th c. CE"
+  ],
   "extent_tesi": "14 fols.",
   "text_unit_labels_tesim": [
     "Anthology of Psalms"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "9th c. CE"
+  ]
 }

@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z1gz53hr",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -36,7 +39,59 @@
     "Sermons",
     "Theological works"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    775,
+    776,
+    777,
+    778,
+    779,
+    780,
+    781,
+    782,
+    783,
+    784,
+    785,
+    786,
+    787,
+    788,
+    789,
+    790,
+    791,
+    792,
+    793,
+    794,
+    795,
+    796,
+    797,
+    798,
+    799,
+    800,
+    801,
+    802,
+    803,
+    804,
+    805,
+    806,
+    807,
+    808,
+    809,
+    810,
+    811,
+    812,
+    813,
+    814,
+    815,
+    816,
+    817,
+    818,
+    819,
+    820,
+    821,
+    822,
+    823,
+    824,
+    825
+  ],
   "ot_language_ssim": [
     "Greek"
   ],
@@ -53,6 +108,8 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Arabic NF M 8, SPP No. 140",
+  "shelfmark_tsi": "UTO Sinai Arabic NF M 8, SPP No. 140",
+  "shelfmark_tsort": "UTO Sinai Arabic NF M 8, SPP No. 140",
   "titles_tesim": [
     "Basil of Caesarea, Homily on the Martyr Julitta",
     "In martyrem Julittam"
@@ -71,6 +128,7 @@
   "full_text_tesim": [
     "Basil of Caesarea, Homily on the Martyr Julitta",
     "Basil, Saint, Bishop of Caesarea, approximately 329-379",
+    "Fragment 21r (upper outer piece), 21v (upper outer piece) possibly also belongs to this text; fragments 86r (gutter lower piece), 86v (gutter lower piece), 116r (lower piece), 116v (lower piece), could also belong to this text (Rossetto)",
     "Greek",
     "Greek majuscule",
     "Homily on the Martyr Julitta (In martyrem Julittam)",
@@ -78,8 +136,10 @@
     "Number of lines is reconstructed (Rossetto)",
     "Parchment",
     "Sloping pointed majuscule",
+    "This text was written by the same scribe who copied the UTO Basil of Caesarea, Homily on the on Thanksgiving in this codex. These two texts belonged to the same original manuscript",
     "UTO Sinai Arabic NF M 8, SPP No. 140",
     "ark:/21198/z1gz53hr",
+    "ff. 66–69, 81, 87",
     "spputos"
   ],
   "cataloguer_tesim": [
@@ -88,7 +148,7 @@
     "Nigel Wilson"
   ],
   "last_modified_dtsi": "2025-12-18T22:48:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1gz53hr\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Arabic NF M 8, SPP No. 140\",\"extent\":\"7 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 81v (col. a), 68r, 81v (col. b), 67v, 81r (col. a), 67r, 81r (col. b), 68v, 66r, 87v (col. a), 69v, 87v (col. b), 69r, 87r (col. a), 66v, 87r (col. b ) (Rossetto)\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1fs8p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1fs8p\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Arabic NF M 8, Undertext (Greek majuscule)\",\"locus\":\"ff. 66–69, 81, 87\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Sloping pointed majuscule\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"32 lines\",\"note\":[\"Number of lines is reconstructed (Rossetto)\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s13t18\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13t18\",\"reconstruction\":false,\"label\":\"Homily on the Martyr Julitta (In martyrem Julittam)\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Basil of Caesarea, Homily on the Martyr Julitta\",\"creator\":[{\"id\":\"ark:/21198/s1101c\",\"agent_record\":{\"ark\":\"ark:/21198/s1101c\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Basil, Saint, Bishop of Caesarea, approximately 329-379\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"approximately 329-379\",\"iso\":{\"not_before\":\"0304\",\"not_after\":\"0404\"}},\"rel_con\":[{\"label\":\"Basil, Saint, Bishop of Caesarea, approximately 329-379\",\"uri\":\"https://viaf.org/viaf/88967224\",\"source\":\"VIAF\"},{\"label\":\"Basil, Saint, Bishop of Caesarea, approximately 329-379\",\"uri\":\"http://id.loc.gov/authorities/names/n80004066\",\"source\":\"LoC\"},{\"label\":\"Basil, Bishop of Caesarea, approximately 329-379\",\"uri\":\"https://w3id.org/haf/person/641569108508\",\"source\":\"HAF\"},{\"label\":\"Basil of Caesarea\",\"uri\":\"http://syriaca.org/person/376\",\"source\":\"Syriaca\"},{\"label\":\"Basilius Caesariensis\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/489/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"sermons\",\"label\":\"Sermons\"},{\"id\":\"theological-works\",\"label\":\"Theological works\"}]},\"alt_title\":\"In martyrem Julittam\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/s1fs8p\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/z1kd1z25\",\"ark:/21198/z1gz53hr\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kd1z25/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q7rws/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1kd1z25\",\"shelfmark\":\"Sinai Arabic NF M 8\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1gz53hr\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Arabic NF M 8, SPP No. 140\",\"extent\":\"7 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 81v (col. a), 68r, 81v (col. b), 67v, 81r (col. a), 67r, 81r (col. b), 68v, 66r, 87v (col. a), 69v, 87v (col. b), 69r, 87r (col. a), 66v, 87r (col. b ) (Rossetto)\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1fs8p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1fs8p\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Arabic NF M 8, Undertext (Greek majuscule)\",\"locus\":\"ff. 66–69, 81, 87\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Sloping pointed majuscule\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"32 lines\",\"note\":[\"Number of lines is reconstructed (Rossetto)\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s13t18\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s13t18\",\"reconstruction\":false,\"label\":\"Homily on the Martyr Julitta (In martyrem Julittam)\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Basil of Caesarea, Homily on the Martyr Julitta\",\"creator\":[{\"id\":\"ark:/21198/s1101c\",\"agent_record\":{\"ark\":\"ark:/21198/s1101c\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Basil, Saint, Bishop of Caesarea, approximately 329-379\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"floruit\":{\"value\":\"approximately 329-379\",\"iso\":{\"not_before\":\"0304\",\"not_after\":\"0404\"}},\"rel_con\":[{\"label\":\"Basil, Saint, Bishop of Caesarea, approximately 329-379\",\"uri\":\"https://viaf.org/viaf/88967224\",\"source\":\"VIAF\"},{\"label\":\"Basil, Saint, Bishop of Caesarea, approximately 329-379\",\"uri\":\"http://id.loc.gov/authorities/names/n80004066\",\"source\":\"LoC\"},{\"label\":\"Basil, Bishop of Caesarea, approximately 329-379\",\"uri\":\"https://w3id.org/haf/person/641569108508\",\"source\":\"HAF\"},{\"label\":\"Basil of Caesarea\",\"uri\":\"http://syriaca.org/person/376\",\"source\":\"Syriaca\"},{\"label\":\"Basilius Caesariensis\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/489/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"sermons\",\"label\":\"Sermons\"},{\"id\":\"theological-works\",\"label\":\"Theological works\"}]},\"alt_title\":\"In martyrem Julittam\"}],\"bib\":[{\"id\":\"874101cc-626a-43d5-91a7-a9b1091871cd\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Boudalis and Rossetto\",\"citation\":\"Boudalis, Georgios, and Giulia Rossetto. \\\"Colour Mapping of Sin. ar. NF 8 + Sin. ar. NF 28.\\\" In M. P. Brown and J. Lockhart, eds. The Apollonius of Tyre Fragment in Arabic NF 8: Studies of a Latin Palimpsest at St Catherine’s Monastery, Sinai. [Forthcoming]\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/s1fs8p\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"Late 8th-early 9th c. CE\",\"iso\":{\"not_before\":\"0775\",\"not_after\":\"0825\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"General Note\"},\"value\":\"This text was written by the same scribe who copied the UTO Basil of Caesarea, Homily on the on Thanksgiving in this codex. These two texts belonged to the same original manuscript\"},{\"type\":{\"id\":\"general\",\"label\":\"General Note\"},\"value\":\"Fragment 21r (upper outer piece), 21v (upper outer piece) possibly also belongs to this text; fragments 86r (gutter lower piece), 86v (gutter lower piece), 116r (lower piece), 116v (lower piece), could also belong to this text (Rossetto)\"}],\"bib\":[{\"id\":\"874101cc-626a-43d5-91a7-a9b1091871cd\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Boudalis and Rossetto\",\"citation\":\"Boudalis, Georgios, and Giulia Rossetto. \\\"Colour Mapping of Sin. ar. NF 8 + Sin. ar. NF 28.\\\" In M. P. Brown and J. Lockhart, eds. The Apollonius of Tyre Fragment in Arabic NF 8: Studies of a Latin Palimpsest at St Catherine’s Monastery, Sinai. [Forthcoming]\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/z1kd1z25\",\"ark:/21198/z1gz53hr\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"ff. 66–69, 81, 87\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kd1z25/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q7rws/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1kd1z25\",\"shelfmark\":\"Sinai Arabic NF M 8\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1gz53hr",
   "has_model_ssim": [
     "Work"
@@ -109,12 +169,18 @@
     "UTO Sinai Arabic NF M 8, SPP No. 140",
     "7 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "Late 8th-early 9th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "Late 8th-early 9th c. CE"
+  ],
   "extent_tesi": "7 fols.",
   "text_unit_labels_tesim": [
     "Homily on the Martyr Julitta (In martyrem Julittam)"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "Late 8th-early 9th c. CE"
+  ]
 }

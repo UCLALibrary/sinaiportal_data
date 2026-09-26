@@ -11,7 +11,17 @@
   "work_wit": [
     {
       "work": {
-        "desc_title": "Anonymous, Polemics against heretics in the form of questions."
+        "desc_title": "Anonymous, Polemics against heretics in the form of questions.",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "polemic",
+            "label": "Polemical works"
+          }
+        ]
       },
       "locus": "ff. 1r–42r",
       "excerpt": [
@@ -143,7 +153,17 @@
     },
     {
       "work": {
-        "desc_title": "Anonymous, Melkite chronicle."
+        "desc_title": "Anonymous, Melkite chronicle.",
+        "genre": [
+          {
+            "id": "calendars",
+            "label": "Calendars"
+          },
+          {
+            "id": "historical-works",
+            "label": "Historical works"
+          }
+        ]
       },
       "locus": "ff. 42r–53v",
       "excerpt": [
@@ -326,7 +346,16 @@
     },
     {
       "work": {
-        "desc_title": "Theophilus of Alexandria, On sufferings, compunction and consolation for departed."
+        "desc_title": "Theophilus of Alexandria, On sufferings, compunction and consolation for departed.",
+        "creator": [
+          "ark:/21198/s1nt30"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
       },
       "locus": "ff. 62r–64r",
       "excerpt": [
@@ -370,7 +399,16 @@
     },
     {
       "work": {
-        "desc_title": "John Chrysostom, On arrogance and pride."
+        "desc_title": "John Chrysostom, On arrogance and pride.",
+        "creator": [
+          "ark:/21198/s1x303"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
       },
       "locus": "ff. 64r–65r",
       "excerpt": [
@@ -405,7 +443,16 @@
     },
     {
       "work": {
-        "desc_title": "John Chrysostom, On mourning for God."
+        "desc_title": "John Chrysostom, On mourning for God.",
+        "creator": [
+          "ark:/21198/s1x303"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
       },
       "locus": "ff. 65–66r",
       "excerpt": [
@@ -440,7 +487,16 @@
     },
     {
       "work": {
-        "desc_title": "John Chrysostom, On laughter that comes from Satan."
+        "desc_title": "John Chrysostom, On laughter that comes from Satan.",
+        "creator": [
+          "ark:/21198/s1x303"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
       },
       "locus": "ff. 66r–69r",
       "excerpt": [
@@ -475,7 +531,13 @@
     },
     {
       "work": {
-        "desc_title": "Abraham of Nathpar, Admonition (= Discourse 8)."
+        "desc_title": "Abraham of Nathpar, Admonition (= Discourse 8).",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
       },
       "locus": "ff. 69r-72r",
       "excerpt": [
@@ -519,7 +581,13 @@
     },
     {
       "work": {
-        "desc_title": "Anonymous (? Abraham of Nathpar), Admonition."
+        "desc_title": "Anonymous (? Abraham of Nathpar), Admonition.",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
       },
       "locus": "ff. 72r–74v",
       "excerpt": [
@@ -554,7 +622,20 @@
     },
     {
       "work": {
-        "desc_title": "Ephrem of Nisibis, Ascetic directions."
+        "desc_title": "Ephrem of Nisibis, Ascetic directions.",
+        "creator": [
+          "ark:/21198/s1v887"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "ascetica",
+            "label": "Ascetica"
+          }
+        ]
       },
       "locus": "ff. 74v–75v",
       "excerpt": [
@@ -589,7 +670,20 @@
     },
     {
       "work": {
-        "desc_title": "Jacob of Serugh, Madrāshē on repentance."
+        "desc_title": "Jacob of Serugh, Madrāshē on repentance.",
+        "creator": [
+          "ark:/21198/s11s32"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "hymnals",
+            "label": "Hymnals"
+          }
+        ]
       },
       "locus": "ff. 75v–80r",
       "excerpt": [
@@ -643,7 +737,20 @@
     },
     {
       "work": {
-        "desc_title": "Ephrem of Nisibis, Selected stanzas from madrāshē."
+        "desc_title": "Ephrem of Nisibis, Selected stanzas from madrāshē.",
+        "creator": [
+          "ark:/21198/s1v887"
+        ],
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          },
+          {
+            "id": "hymnals",
+            "label": "Hymnals"
+          }
+        ]
       },
       "locus": "ff. 80r–93r",
       "excerpt": [
@@ -678,7 +785,13 @@
     },
     {
       "work": {
-        "desc_title": "Patristic pro-Chalcedon florilegium."
+        "desc_title": "Patristic pro-Chalcedon florilegium.",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
       },
       "locus": "ff. 95r-165v",
       "excerpt": [
@@ -757,7 +870,13 @@
     },
     {
       "work": {
-        "desc_title": "Anonymous, On the use of different signs in the Bible."
+        "desc_title": "Anonymous, On the use of different signs in the Bible.",
+        "genre": [
+          {
+            "id": "theological-works",
+            "label": "Theological works"
+          }
+        ]
       },
       "locus": "ff. 178r–181r",
       "excerpt": [
@@ -789,7 +908,10 @@
     },
     {
       "work": {
-        "desc_title": "Ephrem, Sōghyāthā."
+        "desc_title": "Ephrem, Sōghyāthā.",
+        "creator": [
+          "ark:/21198/s1v887"
+        ]
       },
       "locus": "ff. 181r–187v",
       "excerpt": [
@@ -843,7 +965,10 @@
     },
     {
       "work": {
-        "desc_title": "Isaac the Teacher, Sōghīthā."
+        "desc_title": "Isaac the Teacher, Sōghīthā.",
+        "creator": [
+          "ark:/21198/s19888"
+        ]
       },
       "locus": "ff. 187v–189r",
       "excerpt": [
@@ -887,7 +1012,10 @@
     },
     {
       "work": {
-        "desc_title": "Jacob of Serugh, Sōghīthā."
+        "desc_title": "Jacob of Serugh, Sōghīthā.",
+        "creator": [
+          "ark:/21198/s11s32"
+        ]
       },
       "locus": "ff. 189r–190v",
       "excerpt": [
@@ -1194,7 +1322,10 @@
     },
     {
       "work": {
-        "desc_title": "Gregory of Nyssa, Against Eunomius (?, unidentified)."
+        "desc_title": "Gregory of Nyssa, Against Eunomius (?, unidentified).",
+        "creator": [
+          "ark:/21198/s1z30d"
+        ]
       },
       "locus": "f. 210r",
       "excerpt": [
@@ -1484,7 +1615,10 @@
     },
     {
       "work": {
-        "desc_title": "Ephrem of Nisbis, Selected stanzas to the tone (qōlō) ‘Pardaysā’."
+        "desc_title": "Ephrem of Nisbis, Selected stanzas to the tone (qōlō) ‘Pardaysā’.",
+        "creator": [
+          "ark:/21198/s1v887"
+        ]
       },
       "locus": "ff. 220r–222r",
       "excerpt": [

@@ -2,7 +2,12 @@
   "ark_ssi": "ark:/21198/z1rn4c44",
   "ms_type_ssi": "Manuscript",
   "state_ssi": "Codex",
-  "features_ssim": [],
+  "features_ssim": [
+    "Binding",
+    "Colophon",
+    "Dated",
+    "Decoration, Geometric"
+  ],
   "support_ssim": [
     "Paper"
   ],
@@ -30,7 +35,9 @@
     "Biblical texts",
     "Hagiographies"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    1231
+  ],
   "ot_language_ssim": [
     "Arabic",
     "Coptic"
@@ -47,11 +54,15 @@
   "para_works_ssim": [],
   "para_genre_ssim": [],
   "para_names_ssim": [],
-  "para_type_ssim": [],
+  "para_type_ssim": [
+    "Colophon"
+  ],
   "uto_script_ssim": [],
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "Sinai Arabic 37",
+  "shelfmark_tsi": "Sinai Arabic 37",
+  "shelfmark_tsort": "Sinai Arabic 37",
   "titles_tesim": [
     "Bible. Psalms",
     "Life of Jacob, the Brother of the Lord",
@@ -83,11 +94,15 @@
     "Incomplete at the beginning",
     "Life of Jacob, the Brother of the Lord",
     "Life of St. Theodore the Martyr (incomplete)",
+    "Minor decoration, crosses, ff. 20v, 23r, 23v, 27v, 55v; geometric decoration on f. 69v",
     "Naskh",
     "Paper",
+    "Paper fragile and stained; sections with reinforcing thread that prevents easy opening",
     "Psalms 13 to 134",
     "Psalms 13 to 134 preceded by two Mimars and an incomplete Life of St. Theodore the Martyr",
     "Sinai Arabic 37",
+    "Some of the texts are in Coptic",
+    "The leaves making up the front board have been pried open",
     "Unidentified Mimar",
     "Varia",
     "ark:/21198/z1rn4c44"
@@ -98,7 +113,7 @@
     "Maroun El Houkayem"
   ],
   "last_modified_dtsi": "2025-12-08T15:02:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1rn4c44\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 37\",\"extent\":\"127 ff.\",\"weight\":\"486.0 g\",\"dim\":\"178 x 142 x 48 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1kp4c\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1kp4c\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 37, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1d93n\",\"label\":\"Item 1\",\"locus\":\"ff. 1v-127v\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1d93n\",\"reconstruction\":false,\"label\":\"Varia\",\"summary\":\"Psalms 13 to 134 preceded by two Mimars and an incomplete Life of St. Theodore the Martyr\",\"locus\":\"ff. 1v-127v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"copt1239\",\"label\":\"Coptic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Life of Jacob, the Brother of the Lord\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"locus\":\"Ff. 1v-9v\"},{\"work\":{\"desc_title\":\"Unidentified Mimar\"},\"locus\":\"Ff. 10r-23v\"},{\"work\":{\"desc_title\":\"Unidentified Mimar\"},\"locus\":\"Ff. 24r-26v\"},{\"work\":{\"desc_title\":\"Unidentified Mimar\"},\"locus\":\"Ff. 27r-37v\"},{\"work\":{\"desc_title\":\"Life of St. Theodore the Martyr (incomplete)\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"locus\":\"Ff. 38r-43v\",\"note\":[\"Incomplete\"]},{\"work\":{\"ark\":\"ark:/21198/s11c7f\",\"pref_title\":\"Bible. Psalms\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Psalms\",\"uri\":\"http://id.loc.gov/authorities/names/n79056804\",\"source\":\"LoC\"},{\"label\":\"Bible. Psalms\",\"uri\":\"https://viaf.org/viaf/60146153112905251951\",\"source\":\"VIAF\"}]},\"alt_title\":\"Psalms 13 to 134\",\"locus\":\"Ff. 44r-127v\",\"note\":[\"Incomplete at the beginning\"]}],\"cataloguer\":[{\"message\":\"Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).\",\"contributor\":[\"Justin Arnwine\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-08T15:02:00Z\"}],\"parent\":[\"ark:/21198/s1kp4c\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"locus\":\"f. 26v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}]}],\"cataloguer\":[{\"message\":\"Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).\",\"contributor\":[\"Chris PreJean\",\"Maroun El Houkayem\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-11-12T22:09:00Z\"}],\"parent\":[\"ark:/21198/z1rn4c44\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Kamil 1970\",\"citation\":\"Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970\",\"range\":\"[37], p. 63\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1rn4c44/manifest\",\"label\":\"Natural Light\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1rn4c44%2Fqm71zn8n/full/!200,200/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Library Digitization Project, Phase 1\",\"description\":\"Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.\",\"camera_operator\":[\"Lampros Galanis\"],\"imaging_date\":\"2018 August\",\"delivery\":\"8\",\"imaging_system\":\"BC100 - 2 cam., 975 ppi, 120mm lens\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1rn4c44\",\"reconstruction\":false,\"type\":{\"id\":\"manuscript\",\"label\":\"Manuscript\"},\"shelfmark\":\"Sinai Arabic 37\",\"extent\":\"127 ff.\",\"weight\":\"486.0 g\",\"dim\":\"178 x 142 x 48 mm\",\"state\":{\"id\":\"codex\",\"label\":\"Codex\"},\"features\":[{\"id\":\"binding\",\"label\":\"Binding\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"paper\",\"label\":\"Paper\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1kp4c\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1kp4c\",\"reconstruction\":false,\"state\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"label\":\"Sinai Arabic 37, Overtext (Naskh)\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}]}],\"text_unit\":[{\"id\":\"ark:/21198/s1d93n\",\"label\":\"Item 1\",\"locus\":\"ff. 1v-127v\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1d93n\",\"reconstruction\":false,\"label\":\"Varia\",\"summary\":\"Psalms 13 to 134 preceded by two Mimars and an incomplete Life of St. Theodore the Martyr\",\"locus\":\"ff. 1v-127v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"},{\"id\":\"copt1239\",\"label\":\"Coptic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Life of Jacob, the Brother of the Lord\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"locus\":\"Ff. 1v-9v\"},{\"work\":{\"desc_title\":\"Unidentified Mimar\"},\"locus\":\"Ff. 10r-23v\"},{\"work\":{\"desc_title\":\"Unidentified Mimar\"},\"locus\":\"Ff. 24r-26v\"},{\"work\":{\"desc_title\":\"Unidentified Mimar\"},\"locus\":\"Ff. 27r-37v\"},{\"work\":{\"desc_title\":\"Life of St. Theodore the Martyr (incomplete)\",\"genre\":[{\"id\":\"hagiographies\",\"label\":\"Hagiographies\"}]},\"locus\":\"Ff. 38r-43v\",\"note\":[\"Incomplete\"]},{\"work\":{\"ark\":\"ark:/21198/s11c7f\",\"pref_title\":\"Bible. Psalms\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"}],\"rel_con\":[{\"label\":\"Bible. Psalms\",\"uri\":\"http://id.loc.gov/authorities/names/n79056804\",\"source\":\"LoC\"},{\"label\":\"Bible. Psalms\",\"uri\":\"https://viaf.org/viaf/60146153112905251951\",\"source\":\"VIAF\"}]},\"alt_title\":\"Psalms 13 to 134\",\"locus\":\"Ff. 44r-127v\",\"note\":[\"Incomplete at the beginning\"]}],\"note\":[{\"type\":{\"id\":\"contents\",\"label\":\"Contents Note\"},\"value\":\"Some of the texts are in Coptic\"}],\"cataloguer\":[{\"message\":\"Texts identified and described as part of the NEH Sinai Data Portal project (2021-2024).\",\"contributor\":[\"Justin Arnwine\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-08T15:02:00Z\"}],\"parent\":[\"ark:/21198/s1kp4c\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"para\":[{\"type\":{\"id\":\"history\",\"label\":\"History\"},\"subtype\":[{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"locus\":\"f. 26v\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}]}],\"assoc_date\":[{\"value\":\"1231 CE\",\"iso\":{\"not_before\":\"1231\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"features\":[{\"id\":\"dated\",\"label\":\"Dated\"},{\"id\":\"deco-geometric\",\"label\":\"Decoration, Geometric\"},{\"id\":\"colophon\",\"label\":\"Colophon\"}],\"note\":[{\"type\":{\"id\":\"ornamentation\",\"label\":\"Ornamentation note\"},\"value\":\"Minor decoration, crosses, ff. 20v, 23r, 23v, 27v, 55v; geometric decoration on f. 69v\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Kamil 1970\",\"citation\":\"Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970\",\"range\":\"[37], p. 63\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"shortcode\":\"LOC\",\"citation\":\"Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress\",\"url\":\"https://www.loc.gov/item/00279385925-ms/\"}],\"cataloguer\":[{\"message\":\"Identification and description Arabic colophon(s) under the NEH Sinai Data Portal project (2021-2024).\",\"contributor\":[\"Chris PreJean\",\"Maroun El Houkayem\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-11-12T22:09:00Z\"}],\"parent\":[\"ark:/21198/z1rn4c44\"],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"binding\",\"label\":\"Binding Note\"},\"value\":\"The leaves making up the front board have been pried open\"},{\"type\":{\"id\":\"condition\",\"label\":\"Condition Note\"},\"value\":\"Paper fragile and stained; sections with reinforcing thread that prevents easy opening\"}],\"bib\":[{\"id\":\"deb668b6-feec-4828-8749-a97441881226\",\"type\":{\"id\":\"ref\",\"label\":\"Reference\"},\"shortcode\":\"Kamil 1970\",\"citation\":\"Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970\",\"range\":\"[37], p. 63\"},{\"id\":\"ec7c937f-655a-4459-b327-3793637b9db9\",\"type\":{\"id\":\"otherdigversion\",\"label\":\"Other Digital Version\"},\"shortcode\":\"LOC\",\"citation\":\"Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress\",\"url\":\"https://www.loc.gov/item/00279385925-ms/\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1rn4c44/manifest\",\"label\":\"Natural Light\",\"text_direction\":\"right-to-left\",\"behavior\":\"paged\",\"thumbnail\":\"https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1rn4c44%2Fqm71zn8n/full/!200,200/0/default.jpg\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Library Digitization Project, Phase 1\",\"description\":\"Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.\",\"camera_operator\":[\"Lampros Galanis\"],\"imaging_date\":\"2018 August\",\"delivery\":\"8\",\"imaging_system\":\"BC100 - 2 cam., 975 ppi, 120mm lens\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1rn4c44",
   "has_model_ssim": [
     "Work"
@@ -119,12 +134,18 @@
     "Sinai Arabic 37",
     "127 ff."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "1231 CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "1231 CE"
+  ],
   "extent_tesi": "127 ff.",
   "text_unit_labels_tesim": [
     "Varia"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "1231 CE"
+  ]
 }

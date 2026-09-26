@@ -104,12 +104,16 @@
                         "desc_title": "Martyrdom of St. Barbara and two anonymous Saints during the wars of Heraclius and Chosroes the Persian",
                         "genre": [
                           {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
                           },
                           {
                             "id": "historical-works",
                             "label": "Historical works"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ]
                       }
@@ -198,10 +202,6 @@
                           {
                             "id": "hagiographies",
                             "label": "Hagiographies"
-                          },
-                          {
-                            "id": "theological-works",
-                            "label": "Theological works"
                           }
                         ]
                       }
@@ -215,8 +215,8 @@
                             "label": "Hagiographies"
                           },
                           {
-                            "id": "liturgical-texts",
-                            "label": "Liturgical texts"
+                            "id": "narrations",
+                            "label": "Narrations"
                           }
                         ]
                       }
@@ -230,8 +230,8 @@
                             "label": "Hagiographies"
                           },
                           {
-                            "id": "historical-works",
-                            "label": "Historical works"
+                            "id": "narrations",
+                            "label": "Narrations"
                           }
                         ]
                       }

@@ -53,6 +53,24 @@
             "id": "scribe",
             "label": "Scribe"
           }
+        },
+        {
+          "value": "Germanus, Bishop of Mount Sinai",
+          "as_written": "كير جرمانوس",
+          "role": {
+            "id": "ecclesiastical-authority",
+            "label": "Ecclesiastical authority"
+          }
+        }
+      ],
+      "assoc_place": [
+        {
+          "value": "the Holy Monastery of Tur Sinai",
+          "as_written": "طور سيناء",
+          "event": {
+            "id": "origin",
+            "label": "Place of Origin"
+          }
         }
       ],
       "assoc_date": [
@@ -69,10 +87,6 @@
             "23 Adhar 6841 (adam)"
           ]
         }
-      ],
-      "note": [
-        "Attested names:  Bishop Germanius, Mount Sinai",
-        "Attested places:  Mount Sinai"
       ]
     }
   ],

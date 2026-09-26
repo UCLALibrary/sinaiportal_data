@@ -144,10 +144,6 @@
                           {
                             "id": "hagiographies",
                             "label": "Hagiographies"
-                          },
-                          {
-                            "id": "theological-works",
-                            "label": "Theological works"
                           }
                         ]
                       }
@@ -157,12 +153,12 @@
                         "desc_title": "Martyrdom of St. Mamas",
                         "genre": [
                           {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
-                          },
-                          {
                             "id": "hagiographies",
                             "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ]
                       }

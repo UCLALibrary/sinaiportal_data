@@ -1,0 +1,599 @@
+{
+  "ark": "ark:/21198/z1wq2397",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 3 B",
+  "summary": "Homilies (fragments)",
+  "extent": "14 ff.",
+  "weight": "181.0 g",
+  "dim": "217 x 152 x 30.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-12",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1kg8t",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1kg8t",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 3 B, Overtext (Christian Palestinian Aramaic)",
+            "locus": "ff. 1-14",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "ca. 25 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1d373",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1d373",
+                  "reconstruction": false,
+                  "label": "Homilies (fragments)",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Homily 1 (attributed to John <Chrysostom>), ‘concerning the one who was made a priest’",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 1r–3r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 1",
+                          "as_written": "ܒܩܝܡܬܐ ܪܥܝ ܐܝܡܪ̈ܝܝ ܡܐ ܕܗܢܘܢ ܓܒܪ̈ܝܐ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 1",
+                          "as_written": "ܘܩܪܒ ܩܘܪܒܢ ܠܡܪܐ ܥܠ ܖܛܒܗ̇",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 2",
+                          "as_written": "ܡܛܐ ܝܬܗ̇ ܟܕܢ܀ ܘܐܠܘ ܠܐ ܡܘܫܐ ܠܐ ܐܬܖܟܝܐܬ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 2",
+                          "as_written": "ܘܓܒܝ ܟܣܦܝ ܥܡ ܪܒܝܬܗ܀",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 3",
+                          "as_written": "ܣܢܖܘܢ܇ ܖܡܐ ܖܐܢܐ ܡܠܦ ܝܥܒܖ܀",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܫܠܡ ܡܡܠܠܐ ܖܡܢ ܕܡܪܝܘܚܢܝܣ ܥܠܛܒ ܡ̇ܢ ܖܗܘܝ ܡܬܥܒܖ ܟܗܢ",
+                          "translation": [
+                            "Finished the discourse from Mar John concerning the one who was made a priest"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Homily 2, dealing with the flood",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 3r–5v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "as_written": "ܖܐܢܢ ܥܒ̈ܖܝܢ ܘܡܝ̈ܢ ܖܛܘܦܢ ܠܐ ܐܬܐ ܥܠܝܢܢ܀",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 4",
+                          "as_written": "ܖܐܡܪ [....] ܨܘܒ ܐܪ̈ܙܝܢ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 4",
+                          "as_written": "ܖܒܦܪܝܥ ܬܬܥܒܖ ܟܝܒܘܬܐ܀",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 5",
+                          "as_written": "ܖܒܦܪܝܥ ܬܫܠܘܡ ܡܠܬܐ ܥܠ ܣܖܘܡ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 5",
+                          "as_written": "ܐܐ̇ ܡܖܡܐ ܛܘܪܐ",
+                          "note": [
+                            "col. B"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Homily 3, dealing with apostle Peter",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "commentaries",
+                            "label": "Commentaries"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 7r–14v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 7",
+                          "as_written": "ܐܡܪܘ ܕܠܐ ܝܗܐ ܐܢܐ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 7",
+                          "as_written": "ܗܝܟ ܐܢܫ̈ܝܢ ܐܡܪ̈ܝܢ. ܕܥܠ ܧܛܪܘܣ [....] ܒܢܝܬ",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 8",
+                          "as_written": "ܠܐ ܡܙܖܥܙܥܐ܀ ܫܡܘܥ ܗܝܟ ܗܘ ܐܡܪ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 8",
+                          "as_written": "ܠܡܐ ܐܡܪ ܩܘܡ ܘܠܐ",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 9",
+                          "as_written": ":ܐܡܪ ܠܐ ܬܩܬܘܠ ܝܬܗܘܢ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 9",
+                          "as_written": ".ܕܚ̈ܝܠܘ ܘܫܪ̈ܘ ܡܨܘ̈ܚܝܢ ܡܢ ܖܚܠܬܐ",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 10",
+                          "as_written": "ܠܗ ܧܛܪܘܣ: ܐܢ ܐܬ ܗܘ ܡܪܝ ܐܡܘܪ ܠܝ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 10",
+                          "as_written": "ܐܬܢܫܝ̈ܬܘܢ ܗܖܐ ܘܠܡܐ ܐܬܘܢ ܠܐ",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 11",
+                          "as_written": "ܡܠܬܐ܀ ܡܪܝܐܡ ܖܝ ܡܓܖܠܝܬܐ ܗܖܐ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 11",
+                          "as_written": "ܫܠܛܢܘ ܒܫܘܡܝܐ ܘܒܐܪܥܐ ܘܬܚܘܬ ܐܪܥܐ: ܖܡܐ ܠܐ ܗܘܐ",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 12",
+                          "as_written": "ܡܘܬܐ ܘܣܛܢܐ ܒܥܠܡܐ ܟܖ ܨܒܐ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 12",
+                          "as_written": "ܘܨܢܪܬܟ ܘܝܗܒܬ ܠܟ ܗܖܐ ܩܨܝܨܬܐ",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 13",
+                          "as_written": "ܐܡܪ ܠܗ ܡܪܐ ܐܬ ܗܘ ܣܝܡܘܢ ܕܡܬܪܓܡ ܧܛܪܘܣ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 13",
+                          "as_written": "ܖܫ̈ܬܝܢ ܗܘܘ ܡܢ ܫܝܢܐ ܕܗܘܬ ܖܒܝܩܐ: ܐܡܪ",
+                          "note": [
+                            "col. B"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "locus": "f. 14",
+                          "as_written": "ܝܬܟܘܢ ܚܒܝ̈ܒܝ ܟܖ ܚܡܐ ܡܪܐ ܕܡܢ ܒܬܪ ܟܘܠ ܗܠܝܢ",
+                          "note": [
+                            "col. A"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "locus": "f. 14",
+                          "as_written": "ܘܐܢ ܝܐܡܘܪ ܐܢܫ ܠܟܘܢ. ܐܬ ܡܖܡܐ ܝܬܗ",
+                          "note": [
+                            "col. B"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "bib": [
+                    {
+                      "id": "ce9cdae8-81ce-4c29-8431-ab599cd5491c",
+                      "type": {
+                        "id": "edition",
+                        "label": "Edition"
+                      },
+                      "shortcode": "Gwilliam, Burkitt, and Stenning",
+                      "citation": "Gwilliam, George H.,  Francis C. Burkitt, and John F. Stenning, eds. Biblical and Patristic Relics of the Palestinian Syriac Literature from MSS. in the Bodleian Library and in the Library of Saint Catherine on Mount Sinai. Anecdota Oxoniensia 1:9. Oxford, 1896",
+                      "range": "p. 50-75"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1kg8t"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "9th-10th c. CE",
+                "iso": {
+                  "not_before": "0801",
+                  "not_after": "1000"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[3], p. 161"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1wq2397"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "The remains of a further leaf are attached to the modern binding"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "15 tipped-in paper folios interleaved between each of the parchment folios"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "The remains of a further leaf are attached to the modern binding"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[3], p. 161"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1wq2397/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "individuals",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1wq2397%2F6d43p44g/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Damianos Kasotakis"
+        ],
+        "imaging_date": "2020 March",
+        "delivery": "8.1",
+        "condition_category": "1",
+        "imaging_system": "Stokes-PBC, 900 ppi, 120mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

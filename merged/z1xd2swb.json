@@ -1,0 +1,525 @@
+{
+  "ark": "ark:/21198/z1xd2swb",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac NF M 37",
+  "summary": "Evagrius Ponticus, On Prayer",
+  "extent": "6 ff.",
+  "weight": "31.8 g",
+  "dim": "226 x 172 x 10.0 mm",
+  "state": {
+    "id": "quire",
+    "label": "Quire(s)"
+  },
+  "coll": "Quire 1: 1x6 (6)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-6",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "220 x 172 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s17w63",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s17w63",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac NF M 37, Overtext (Estrangela)",
+            "locus": "ff. 1-6",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Late Estrangela, Significant water damage; the outer parts of each folio are lost."
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black"
+                ],
+                "note": [
+                  "The text is divided into chapters with chapter numbers marked in black ink"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "25-29 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s16678",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s16678",
+                  "reconstruction": false,
+                  "label": "Evagrius Ponticus, On Prayer",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s17q4m",
+                        "pref_title": "On Prayer (Evagrius)",
+                        "genre": [
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1b88k",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1b88k",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Evagrius, Ponticus, 345?-399",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "345?-399",
+                                "iso": {
+                                  "not_before": "0295",
+                                  "not_after": "0399"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "http://viaf.org/viaf/58103843",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "https://id.loc.gov/authorities/names/n86119200",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "https://w3id.org/haf/person/219264096524",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Evagrius of Pontus",
+                                  "uri": "http://syriaca.org/person/483",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Euagrius Ponticus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1022/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Capita de oratione",
+                            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1011/",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "De oratione",
+                            "idno": "2452",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "Evagrius Ponticus, On Prayer",
+                      "locus": "ff. 1r–6v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "... ܬܦܪܢܣܝܗ̇ ܠܨܒܘܬܐ ܛܒܐܝ[ܬ] ܒܟܠ ܐܘܡܢܘ ܗܟܝܠ ܐܬܚܫܚ ܕܠܐ ܬܙܥܩ ܚܡܬܐ",
+                          "note": [
+                            "Corresponds to ch. 24"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "as_written": "ܪܚܡܬܐ ܝܬܝܪܬܐ ܩܢܐ ܠܘܬ ܐܠܗܐ ܒܟܠܙܒܢ ...",
+                          "note": [
+                            "Corresponds to πλείονα πόθον ἀεὶ πρὸς Θεὸν προσλαμβάνει (PG 79, col. 1193, lines 13-14; Géhin, p. 336)"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Evagrius's Treatise on Prayer"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s17w63"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+                        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "9th–10th c. CE",
+                "iso": {
+                  "not_before": "0801",
+                  "not_after": "1000"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Philothée 2008",
+                "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+                "range": "[M37N], pp. 405-421 "
+              },
+              {
+                "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Géhin 2017",
+                "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+                "range": "[M37N], p. 189"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1xd2swb"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). "
+                },
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1ck80",
+          "label": "Syriac Undertext: Gospel of Matthew",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 6",
+          "uto_ms_ark": "ark:/21198/z1wt9k7t",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1n344",
+          "label": "Syriac Undertext: Gospel of Luke",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 2–4",
+          "uto_ms_ark": "ark:/21198/z1n982s2",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1hd27",
+          "label": "Syriac Undertext: Gospel of John",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "f. 5",
+          "uto_ms_ark": "ark:/21198/z1s28tjv",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Six contiguous folios made of three bifolia. No other sections from the same codex are known. The position of the fragment within the codex is impossible to ascertain."
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Single quire"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Unsewn"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Significant water damage; the outer parts of each folio are lost."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Palimpsest throughout; Old Syriac Gospels overwritten by Evagrius's Treatise on Prayer"
+    }
+  ],
+  "bib": [
+    {
+      "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Philothée 2008",
+      "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+      "range": "[M37N], pp. 405-421 "
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Géhin 2017",
+      "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+      "range": "[M37N], p. 189"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1gx4mjp/manifest",
+      "label": "SPP",
+      "text_direction": "right-to-left",
+      "behavior": "paged"
+    },
+    {
+      "type": {
+        "id": "alt",
+        "label": "Alternate"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1xd2swb/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1xd2swb%2Fxg28g46d/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2020 September",
+        "delivery": "7.2",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 1 cam., 740 ppi, 90mm lens"
+      },
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

@@ -60,11 +60,25 @@
             "id": "patron",
             "label": "Patron"
           }
+        },
+        {
+          "value": "Arsenius, Bishop of Mount Sinai",
+          "as_written": "ܐܦܣܩܘܦܐ ܐܪܣܢܝܘܣ",
+          "role": {
+            "id": "ecclesiastical-authority",
+            "label": "Ecclesiastical authority"
+          }
         }
       ],
-      "note": [
-        "Attested names:  Bishop Arsanios (ܐܦܣܟܘܦܘ ܐܪܣܢܝܘ), Bishop at the time of commission",
-        "Attested places:  Mt. Sinai"
+      "assoc_place": [
+        {
+          "value": "the Holy Monastery of Tur Sinai",
+          "as_written": "ܒܝܕܝܪܐ ܘܡܩܕܫ ܛܘܪ ܣܝܢܝ",
+          "event": {
+            "id": "origin",
+            "label": "Place of Origin"
+          }
+        }
       ]
     }
   ],

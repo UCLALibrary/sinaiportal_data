@@ -354,15 +354,30 @@
                 "assoc_name": [
                   {
                     "value": "Metropolitan Abd Allah Ibn al-Fadl (translator, Greek-Arabic)",
+                    "as_written": "عبد الله بن الفضل بن عبد الله المطران",
                     "role": {
                       "id": "translator",
                       "label": "Translator"
                     }
+                  },
+                  {
+                    "value": "Benjamin al-Siqi",
+                    "as_written": "راهب بنيمين السيقى",
+                    "role": {
+                      "id": "scribe",
+                      "label": "Scribe"
+                    }
                   }
                 ],
-                "note": [
-                  "Attested names:  Benjamin al-Siqi",
-                  "Attested places:  Church of Our Lady, Damascus"
+                "assoc_place": [
+                  {
+                    "value": "Church of the Lady, Damascus",
+                    "as_written": "بكنيسة دمشق بالمجيبة",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    }
+                  }
                 ]
               }
             ],

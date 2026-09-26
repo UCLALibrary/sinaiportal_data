@@ -1,0 +1,711 @@
+{
+  "ark": "ark:/21198/z1x07bdf",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 2 A",
+  "summary": "Four Gospels",
+  "extent": "180 ff.",
+  "weight": "3788.3 g",
+  "dim": "328 x 255 x 97 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "Two flyleaves (infoliated and blank) ; [I: Biblioteca Ambrosiana, A 296 inf., ff. 69r–v, 51r–54v, 50r–v (6 ff.) = Chabot 12] ; II: ff. 1–10\t(all – later – replacements) ; III: ff. 11–16 (perhaps an outer bifolium is missing) ; IV: ff. 17–24 (all – later – replacements) ; V: ff. 25–33 (all – later – replacements) ; VI: ff. 34–41 (all – later – replacements) ; VII (X*): ff. 42–49 (ff. 45–46 are earlier replacements) ; VIII (XI*): ff. 50–57 ; IX (XII*): ff. 58–65 ; X (XII*): ff. 66–73 ; XI (XIV*): ff. 74–81 ; XII (XV*): ff. 82–89 ; XIII (XVI*): ff. 90–97 ; XIV (XVII*): ff. 98–106 (f. 106 used to be the first folio of the next quire in the original codex) ; XV (XVIII*): ff. 107–114 ; XVI (XIX*): ff. 115–122 ; XVII (XX*): ff. 123–128 (all – earlier – replacements) ; XVIII (<XXI*>): ff. 129–135 ; XIX (XXII*): ff. 136–142 ; XX (XXIII*): ff. 143–148 ; XXI: ff. 149–152 (all – later – replacements) ; XXII: ff. 153–160 (all – earlier – replacements) ; XXIII: ff. 161–166 (all – earlier – replacements) ; XXIV: ff. 167–174 (later addition) ; XXV: ff. 175–180 (later addition) ; Two flyleaves (infoliated and blank)\n",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-180",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "307 x 230 mm (representative folio)",
+      "note": [
+        {
+          "type": {
+            "id": "support",
+            "label": "Support Note"
+          },
+          "value": "Quires 20, 23, and 24 are paper"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Milan, Biblioteca Ambrosiana, A 296 inf. (ff. 50-54, 69 = Chabot 12)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1v03k",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1v03k",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 2 A, Overtext (Estrangela, Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  },
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Estrangela (Melkite script in the replacements and additions)"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "25-26 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1nm2j",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1nm2j",
+                  "reconstruction": false,
+                  "label": "Four Gospels",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s10k5f",
+                        "pref_title": "Bible. Gospels",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Gospels",
+                            "uri": "http://id.loc.gov/authorities/names/n79063688",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Gospels ",
+                            "uri": "https://viaf.org/viaf/317284260",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "Four Gospels",
+                      "locus": "ff. 1r-179v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "ܠܟ ܓܝܪ ܕܢܐܒܕ ܚܕ ܡܢ ܗܕܡ̈ܝܟ ܘܠܐ ܟܠܗ ܦܓܪܟ ܢܦܠ ܒܓܗܢܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": " ܘܗܐ ܐܢܐ ܥܡܟܘܢ ܐܢܐ ܟܠܗܘܢ ܝܘ̈ܡܬܐ ܥܕܡܐ ܠܫܘܠܡܗ ܕܥܠܡܐ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܐܘܢܓܠܝܘܢ ܕܡܬܝ ܕܡܠܠ ܥܒܪܐܝܬ ܒܦܠܣܛܝܢܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܚܕ ܒ(ܫܒܐ) ܕܩܕܡ ܕܢܚܐ : ܪܫܐ ܕܐܘܢܓܠܝܘܢ ܕܝܫܘܥ ܡܫܝܚܐ ܒܪܗ ܕܐܠܗܐ "
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": " ܘܡܫܪ ܡܠܝܗ̈ܘܢ ܒܐܬܘ̈ܬܐ ܕܥܒܕܝܢ ܗܘ̣ܘ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܐܘܢܓܠܝܘܢ ܩܕܝܫܐ ܟܪܘܙܘܬܐ ܕܡܪܩܘܣ ܚܕ ܡܢ ܫܒܥܝܢ ܕܡܠܠ ܘܐܟܪܙ ܘܣܒܪ ܪܗܘܡܐܝܬ ܒܪܗܘܡܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܡܛܠ ܕܤܓܝ̈ܐܐ ܨܒܘ ܕܢܟܬܒܘܢ ܬܫܥܝ̈ܬܐ ܕܤܘܥܖ̈ܢܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܟܕ ܡܫܒܚܝܢ ܘܡܒܪܟܝܢ ܠܐܠܗܐ ܐܡܝܢ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܐܘܢܓܠܝܘܢ ܩܕܝܫܐ ܟܪܘܙܘܬܐ ܕܠܘܩܐ ܫܠܝܚܐ ܚܕ ܡܢ ܫܒܥܝܢ ܕܡܠܠ ܘܐܟܪܙ ܘܣܒܪ ܝܘܢܐܝܬ ܒܐܠܟܣܢܕܪܝܐ ܪܒܬܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܒܪܝܫܝܬ ܐܝܬܘܗܝ ܗܘ̣ܐ ܡܠܬܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܐܝܟ ܕܤ̇ܒܪ ܐܢܐ. ܤ̇ܦܩ ܗܘܐ ܠܟܬܒ̈ܐ ܕܡܬܟܬܒܝܢ ܗܘܘ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܐܘܢܓܠܝܘܢ ܕܩܕܝܫܐ ܡܪܝ ܝܘܚܢܢ ܕܡܠܠ ܝܘܢܐܝܬ ܒܐܦܣܘܣ"
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "work_id": "ark:/21198/s12c7r",
+                          "locus": "ff. 1r–31v",
+                          "pref_title": "Bible. Matthew"
+                        },
+                        {
+                          "work_id": "ark:/21198/s1630k",
+                          "locus": "ff. 31v-59r",
+                          "pref_title": "Bible. Mark"
+                        },
+                        {
+                          "work_id": "ark:/21198/s1k88r",
+                          "locus": "ff. 59r–114v",
+                          "pref_title": "Bible. Luke"
+                        },
+                        {
+                          "work_id": "ark:/21198/s1388d",
+                          "locus": "ff. 115r–152v",
+                          "pref_title": "Bible. John"
+                        },
+                        {
+                          "label": "Index of Gospel readings for moveable feast days (Byzantine rite)",
+                          "locus": "ff. 153r–166v"
+                        },
+                        {
+                          "label": "Index of Gospel readings for fixed feast days (Byzantine rite)",
+                          "locus": "ff. 167r–179v"
+                        }
+                      ]
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "para",
+                        "label": "Paracontent Note"
+                      },
+                      "value": "During the restoration in Syriac Chalcedonian milieu, the Gospel book received liturgical rubrics indicating the sequential number of the liturgical reading and a corresponding commemoration. In 1260 on Mount Sinai, an index of Gospel readings for fixed feast days was added."
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1v03k"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+                        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
+                "locus": "f. 179r",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "as_written": "ܐܫܬܠܡ ܒܥܘܕܪܢ ܡܪܝܐ ܣܘܢܟܣܪܝܢ ܝܘܡ ܕ ܒܫ̄ ܟ̄ܗ̄ ܒܝܪܚܐ ܫܒܛ ܆ ܫܢܬܐ ܫܬܐ ܐܠܦܝ̈ܢ ܘܫܒܥܡ̈ܐܐ ܘܣ̄ܚ̄ ܠܠܥܠܡܐ ܒܐܝܕܐ ܐܢܫܐ ܘܚܛܝܐ ܒܫܡ ܕܝܪܝܐ ܝܘܚܢܢ ܒܪ ܡܢܨܘܪ ܟܬܒܗ ܒܛܘܪ ܣܝܢܝ ܐܠܗܐ ܢܪܚܡ ܥܠܘܗܝ ܘܥܠ ܟܠ ܡܢ ܕܩܪܐ ܘܐܡܪ ܐܡܝܢ ܘܐܡܝܢ",
+                "translation": [
+                  "Synaxarion was completed on Wednesday, 25 of the month Shbaṭ [February], in the year 6768 (according to the era of the creation) of the world [= CE 1260] by the hand of the sinner and a monk (only) by designation John bar Manṣūr, who wrote this on Mount Sinai. God, have mercy upon him and upon everybody who will read and chant. Amen. And amen."
+                ],
+                "assoc_name": [
+                  {
+                    "value": "Monk John bar Manṣūr",
+                    "role": {
+                      "id": "scribe",
+                      "label": "Scribe"
+                    }
+                  }
+                ],
+                "assoc_date": [
+                  {
+                    "value": "1260 CE",
+                    "iso": {
+                      "not_before": "1260"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "completed on Wednesday, 25 of the month Shbaṭ [February], in the year 6768 (according to the era of the creation) of the world [= CE 1260]"
+                    ]
+                  }
+                ],
+                "note": [
+                  "Colophon of the Melkite liturgical supplement"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "6th c. CE",
+                "iso": {
+                  "not_before": "0501",
+                  "not_after": "0600"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Minor geometric headpieces throughout, beginning on ff. 31v"
+              }
+            ],
+            "bib": [
+              {
+                "id": "33aadcf6-1e7a-4533-abd9-052809f06b83",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Lewis 1894",
+                "citation": "Lewis, Agnes Smith. Catalogue of the Syriac Manuscripts in the Convent of S. Catharine on Mount Sinai. Studia Sinaitica I. London: Cambridge University Press, 1894",
+                "range": "pp. 1-2"
+              },
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[152], p. 152 "
+              },
+              {
+                "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Géhin 2017",
+                "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+                "range": "pp. 28-30"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/0027938619A-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1x07bdf"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). "
+                },
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1hh0h",
+          "label": "Syriac Undertext: Gospel of Mark",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 123–125, 127–128v, 155, 159",
+          "uto_ms_ark": "ark:/21198/z1xx59tz",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "Mid 5th c. CE",
+              "iso": {
+                "not_before": "0425",
+                "not_after": "0475"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1n93t",
+          "label": "Syriac Undertext: Gospel of Luke",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 126, 153, 154, 156, 157, 158, 160, 161, 162, 163, 164",
+          "uto_ms_ark": "ark:/21198/z1t54k2h",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "Mid 5th c. CE",
+              "iso": {
+                "not_before": "0425",
+                "not_after": "0475"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1cs82",
+          "label": "Syriac Undertext: Gospel of John",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 165–166",
+          "uto_ms_ark": "ark:/21198/z12p5t8t",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "Mid 5th c. CE",
+              "iso": {
+                "not_before": "0425",
+                "not_after": "0475"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Palimpsest folios with underwriting in Syriac Estrangela: ff. 123–128, 149–166."
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Five series of quire signatures are present reflecting the condition of the manuscript during different stages of its history. The oldest series of quire signatured can be found written in old Syriac numerals in the inner edge of a bottom margin of the quire’s first folio recto side and running until quire XX. The second series features in the middle of a bottom margin of the quire’s first folio recto side and corresponds to the original series. The third series marked in Arabic at the outer edge of the upper margin of the quire’s first folio recto side also corresponds to the original series but most probably was marked after the repair, when the codex received additional quires; the signatures for quires XI–XXIII are noticeable, others must have been cut during trimming. The fourth series of quire signatures was added after the codex was supplemented by liturgical indices and reached 25 quires; these signatures were written vertically in the bottom of the first and last pages of a quire. The fifth series was provided in Greek (signatures for quires V–XXV are at present visible) at the center of the upper margin of the quire’s first folio recto side and corresponds to the previous one."
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Greek inscription, f. 180r"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Binding in fair condition. Relatively recent; leather on wood showing signs of repair; metal studs (some missing) on front and back and along edges; remnants of clasps (four total, two for edge and one each at top and bottom)."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Intact codex"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "The manuscript underwent several repairs throughout its history until the 13th century. To one of the earliest repairs belong ff. 45–46, when the scribe tried to reproduce the layout of the original codex. Somewhat later, in Syriac Chalcedonian milieu, other missing parts were restored (ff. 123–128, 153–166). Most probably on another occasion, but also in Syriac Chalcedonian milieu, were added ff. 1–10, 17–41. Later on, ff. 149–152 were supplied on paper. In 1260 on Mount Sinai, additional paper folios were added."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Palimpsest folios with underwriting in Syriac Estrangela: ff. 123–128, 149–166."
+    }
+  ],
+  "bib": [
+    {
+      "id": "33aadcf6-1e7a-4533-abd9-052809f06b83",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Lewis 1894",
+      "citation": "Lewis, Agnes Smith. Catalogue of the Syriac Manuscripts in the Convent of S. Catharine on Mount Sinai. Studia Sinaitica I. London: Cambridge University Press, 1894",
+      "range": "pp. 1-2"
+    },
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[152], p. 152 "
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Géhin 2017",
+      "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+      "range": "pp. 28-30"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/0027938619A-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1h70g33/manifest",
+      "label": "SPP",
+      "text_direction": "right-to-left",
+      "behavior": "paged"
+    },
+    {
+      "type": {
+        "id": "alt",
+        "label": "Alternate"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1x07bdf/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1x07bdf%2Fcw62ns60/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Vasilis Kasotakis"
+        ],
+        "imaging_date": "2019 January",
+        "delivery": "3",
+        "imaging_system": "BC100 - 2 cam., 600 ppi, 90mm lens"
+      },
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

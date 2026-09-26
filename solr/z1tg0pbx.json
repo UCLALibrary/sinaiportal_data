@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z1tg0pbx",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -37,7 +40,84 @@
     "Sermons",
     "Theological works"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    975,
+    976,
+    977,
+    978,
+    979,
+    980,
+    981,
+    982,
+    983,
+    984,
+    985,
+    986,
+    987,
+    988,
+    989,
+    990,
+    991,
+    992,
+    993,
+    994,
+    995,
+    996,
+    997,
+    998,
+    999,
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023,
+    1024,
+    1025,
+    1026,
+    1027,
+    1028,
+    1029,
+    1030,
+    1031,
+    1032,
+    1033,
+    1034,
+    1035,
+    1036,
+    1037,
+    1038,
+    1039,
+    1040,
+    1041,
+    1042,
+    1043,
+    1044,
+    1045,
+    1046,
+    1047,
+    1048,
+    1049,
+    1050
+  ],
   "ot_language_ssim": [
     "Arabic"
   ],
@@ -54,6 +134,8 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Greek 468, SPP No. 173",
+  "shelfmark_tsi": "UTO Sinai Greek 468, SPP No. 173",
+  "shelfmark_tsort": "UTO Sinai Greek 468, SPP No. 173",
   "titles_tesim": [
     "John of Damascus, Homily on the Dormition of the Virgin Mary"
   ],
@@ -61,7 +143,9 @@
     "John, of Damascus, Saint"
   ],
   "exerpts_tesim": [],
-  "places_tesim": [],
+  "places_tesim": [
+    "Possibly Palestine or North Africa"
+  ],
   "contents_tesim": [
     "Arabic translator: Abba Antonios or ‘Abdallah ibn al-Fadl al-Antaki?",
     "Homily on the Dormition of the Virgin Mary?",
@@ -75,21 +159,24 @@
     "Arabic translator: Abba Antonios or ‘Abdallah ibn al-Fadl al-Antaki?",
     "Combination of early Naskh and Maghribi scripts | Same script as UTO Homily on the Rich and the Poor. Large bowls with sweeping curves for a number of descending strokes. Occasionally the stems of letter alif have a club-like extension to the left of their top point, and the loop of letter Ḍād and letter ṣād has no “tooth”. The base stroke of the initial letter ‘ayn is elongated backward to the right. Sporadic diacritical marks",
     "Homily on the Dormition of the Virgin Mary?",
+    "Impossible to establish. The following list is based on codicological examination",
     "John of Damascus, Homily on the Dormition of the Virgin Mary",
     "John, of Damascus, Saint",
     "Naskh",
     "Parchment",
+    "Possibly Palestine or North Africa",
     "The undertext appears to contain a homily on, or perhaps the narrative of, the dormition of the Virgin Mary from the Bethlehem tradition",
     "There is a clear divergence between this undertext object and the well-known published versions (cf. Shoemaker 2002). See also, Graf, Geschichte, Vol. 1, pp. 249-251 and his references to Sinai MSS of similar content. Finally, compare Enger 1854, p. 54 with the undertext on fol. 30r",
     "UTO Sinai Greek 468, SPP No. 173",
     "ark:/21198/z1tg0pbx",
+    "ff. 5–27, 30–32",
     "spputos"
   ],
   "cataloguer_tesim": [
     "Hikmat Kashouh"
   ],
   "last_modified_dtsi": "2025-12-15T22:33:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1tg0pbx\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 468, SPP No. 173\",\"extent\":\"26 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 5r, 14v, 5v, 14r; 6r, 13v, 6v, 13r; 7r, 12v, 7v, 12r; 11v, 8r, 11r, 8v; 9r, 10v, 9v, 10r; 15r, 24v, 15v, 24r; 16r, 23v, 16v, 23r; 22v, 17r, 22r, 17v; 21v, 18r, 21r, 18v; 19r, 20v, 19v, 20r; 25r, 32v, 25v, 32r; 31v, 26r, 31r, 26v; 27r, 30v, 27v, 30r\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1s92p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1s92p\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 468, Undertext (Naskh)\",\"locus\":\"ff. 5–27, 30–32\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}],\"note\":[\"Combination of early Naskh and Maghribi scripts | Same script as UTO Homily on the Rich and the Poor. Large bowls with sweeping curves for a number of descending strokes. Occasionally the stems of letter alif have a club-like extension to the left of their top point, and the loop of letter Ḍād and letter ṣād has no “tooth”. The base stroke of the initial letter ‘ayn is elongated backward to the right. Sporadic diacritical marks\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1f97g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1f97g\",\"reconstruction\":false,\"label\":\"Homily on the Dormition of the Virgin Mary?\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"John of Damascus, Homily on the Dormition of the Virgin Mary\",\"creator\":[{\"id\":\"ark:/21198/s18c7m\",\"agent_record\":{\"ark\":\"ark:/21198/s18c7m\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John, of Damascus, Saint\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"d. approximately 750\",\"iso\":{\"not_before\":\"0725\",\"not_after\":\"0775\"}},\"rel_con\":[{\"label\":\"John, of Damascus, Saint\",\"uri\":\"http://viaf.org/viaf/44435485\",\"source\":\"VIAF\"},{\"label\":\"John, of Damascus, Saint\",\"uri\":\"https://id.loc.gov/authorities/names/n80032173\",\"source\":\"LoC\"},{\"label\":\"John, of Damascus, -approximately 750\",\"uri\":\"https://w3id.org/haf/person/353918456335\",\"source\":\"HAF\"},{\"label\":\"John of Damascus\",\"uri\":\"http://syriaca.org/person/575\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Damascenus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1464/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"sermons\",\"label\":\"Sermons\"},{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"commentaries\",\"label\":\"Commentaries\"}]},\"note\":[\"The undertext appears to contain a homily on, or perhaps the narrative of, the dormition of the Virgin Mary from the Bethlehem tradition\",\"Arabic translator: Abba Antonios or ‘Abdallah ibn al-Fadl al-Antaki?\",\"There is a clear divergence between this undertext object and the well-known published versions (cf. Shoemaker 2002). See also, Graf, Geschichte, Vol. 1, pp. 249-251 and his references to Sinai MSS of similar content. Finally, compare Enger 1854, p. 54 with the undertext on fol. 30r\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Hikmat Kashouh\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/s1s92p\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Hikmat Kashouh\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/z1029pgj\",\"ark:/21198/z1tg0pbx\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Hikmat Kashouh\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1029pgj\",\"shelfmark\":\"Sinai Greek 468\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1tg0pbx\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 468, SPP No. 173\",\"extent\":\"26 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 5r, 14v, 5v, 14r; 6r, 13v, 6v, 13r; 7r, 12v, 7v, 12r; 11v, 8r, 11r, 8v; 9r, 10v, 9v, 10r; 15r, 24v, 15v, 24r; 16r, 23v, 16v, 23r; 22v, 17r, 22r, 17v; 21v, 18r, 21r, 18v; 19r, 20v, 19v, 20r; 25r, 32v, 25v, 32r; 31v, 26r, 31r, 26v; 27r, 30v, 27v, 30r\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1s92p\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1s92p\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 468, Undertext (Naskh)\",\"locus\":\"ff. 5–27, 30–32\",\"writing\":[{\"script\":[{\"id\":\"naskh\",\"label\":\"Naskh\",\"writing_system\":\"Arabic\"}],\"note\":[\"Combination of early Naskh and Maghribi scripts | Same script as UTO Homily on the Rich and the Poor. Large bowls with sweeping curves for a number of descending strokes. Occasionally the stems of letter alif have a club-like extension to the left of their top point, and the loop of letter Ḍād and letter ṣād has no “tooth”. The base stroke of the initial letter ‘ayn is elongated backward to the right. Sporadic diacritical marks\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1f97g\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1f97g\",\"reconstruction\":false,\"label\":\"Homily on the Dormition of the Virgin Mary?\",\"lang\":[{\"id\":\"arab1395\",\"label\":\"Arabic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"John of Damascus, Homily on the Dormition of the Virgin Mary\",\"creator\":[{\"id\":\"ark:/21198/s18c7m\",\"agent_record\":{\"ark\":\"ark:/21198/s18c7m\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John, of Damascus, Saint\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"d. approximately 750\",\"iso\":{\"not_before\":\"0725\",\"not_after\":\"0775\"}},\"rel_con\":[{\"label\":\"John, of Damascus, Saint\",\"uri\":\"http://viaf.org/viaf/44435485\",\"source\":\"VIAF\"},{\"label\":\"John, of Damascus, Saint\",\"uri\":\"https://id.loc.gov/authorities/names/n80032173\",\"source\":\"LoC\"},{\"label\":\"John, of Damascus, -approximately 750\",\"uri\":\"https://w3id.org/haf/person/353918456335\",\"source\":\"HAF\"},{\"label\":\"John of Damascus\",\"uri\":\"http://syriaca.org/person/575\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Damascenus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1464/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"sermons\",\"label\":\"Sermons\"},{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"commentaries\",\"label\":\"Commentaries\"}]},\"note\":[\"The undertext appears to contain a homily on, or perhaps the narrative of, the dormition of the Virgin Mary from the Bethlehem tradition\",\"Arabic translator: Abba Antonios or ‘Abdallah ibn al-Fadl al-Antaki?\",\"There is a clear divergence between this undertext object and the well-known published versions (cf. Shoemaker 2002). See also, Graf, Geschichte, Vol. 1, pp. 249-251 and his references to Sinai MSS of similar content. Finally, compare Enger 1854, p. 54 with the undertext on fol. 30r\"]}],\"bib\":[{\"id\":\"1a042f38-e435-46c4-bc0f-296e71b0c642\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Shoemaker 2002\",\"citation\":\"Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford: University Press, 2002\"},{\"id\":\"2e09f6db-6b52-4700-80d8-6cca52aaeede\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Graf 1944\",\"citation\":\"Graf, Georg. Geschichte der Christlichen Arabischen Literatur. Vol. 1. Vatican City, 1944.\",\"range\":\"pp. 249-251\"},{\"id\":\"8c7ea6d8-88b4-4890-8e45-51aa8b224493\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Enger 1854\",\"citation\":\"Enger, Maximilian. Akhbär Yühanna as-salîh fi-naqlat umm al-Masih, id est Joannis Apostoli de transitu Beatae Mariae Virginis Liber. Eberfeld: R. L. Friderichs, 1854\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Hikmat Kashouh\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/s1s92p\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"Late 10th-beginning 11th c. CE\",\"iso\":{\"not_before\":\"0975\",\"not_after\":\"1050\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Possibly Palestine or North Africa\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"bib\":[{\"id\":\"1a042f38-e435-46c4-bc0f-296e71b0c642\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Shoemaker 2002\",\"citation\":\"Shoemaker, Stephen J. Ancient Traditions of the Virgin Mary’s Dormition and Assumption. Oxford: University Press, 2002\"},{\"id\":\"2e09f6db-6b52-4700-80d8-6cca52aaeede\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Graf 1944\",\"citation\":\"Graf, Georg. Geschichte der Christlichen Arabischen Literatur. Vol. 1. Vatican City, 1944.\",\"range\":\"pp. 249-251\"},{\"id\":\"8c7ea6d8-88b4-4890-8e45-51aa8b224493\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Enger 1854\",\"citation\":\"Enger, Maximilian. Akhbär Yühanna as-salîh fi-naqlat umm al-Masih, id est Joannis Apostoli de transitu Beatae Mariae Virginis Liber. Eberfeld: R. L. Friderichs, 1854\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Hikmat Kashouh\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/z1029pgj\",\"ark:/21198/z1tg0pbx\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"ff. 5–27, 30–32\"},{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"Impossible to establish. The following list is based on codicological examination\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Hikmat Kashouh\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1029pgj\",\"shelfmark\":\"Sinai Greek 468\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1tg0pbx",
   "has_model_ssim": [
     "Work"
@@ -110,12 +197,18 @@
     "UTO Sinai Greek 468, SPP No. 173",
     "26 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "Late 10th-beginning 11th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "Late 10th-beginning 11th c. CE"
+  ],
   "extent_tesi": "26 fols.",
   "text_unit_labels_tesim": [
     "Homily on the Dormition of the Virgin Mary?"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "Late 10th-beginning 11th c. CE"
+  ]
 }

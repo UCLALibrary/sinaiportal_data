@@ -1,0 +1,632 @@
+{
+  "ark": "ark:/21198/z196124r",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 8",
+  "summary": "Old Testament Lectionary; Prophetologion (Byzantine rite)",
+  "extent": "150 ff.",
+  "weight": "1513.0 g",
+  "dim": "220 x 203 x 80 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "I: ff. 1–6 [first two folios are Vat. sir. 647, f. 4 (1 f.) and Biblioteca Ambrosiana, A 296 inf., f. 28 = Chabot 10 (1 ff.)] ; II: ff. 7–14 ; III: ff. 15–22 ; IV: ff. 23–30 ; V: ff. 31–38 ; VI: ff. 39–46 ; VII: ff. 47–54 ; VIII: ff. 55–62 ; IX: ff. 63–70 ; X: ff. 71–78 ; XI: ff. 79–86 ; XII: ff. 87–94 ; XIII: ff. 95–102 ; XIV: ff. 103–110 ; XV: ff. 111–118 ; XVI: ff. 119–126 ; XVII: ff. 127–134 ; XVIII: ff. 135–142 ; XIX: ff. 143–148 ; Flyleaves (ff. 148–150) derive from a CPA manuscript.",
+  "features": [
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-150",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Vatican BAV Vat. sir. 647 (f. 4)"
+            },
+            {
+              "label": "Biblioteca Ambrosiana, A 296 inf. (f. 28 = Chabot 10)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1xs68",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1xs68",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 8, Overtext (Melkite)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Transitional Melkite script"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "17-19 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1rd5j",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1rd5j",
+                  "reconstruction": false,
+                  "label": "Old Testament Lectionary; Prophetologion (Byzantine rite)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1j30p",
+                        "pref_title": "Prophetologion",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Old Testament Lectionary; Prophetologion (Byzantine rite)",
+                      "locus": "ff. 1r–148v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "ܘܬܚܪܡܝܢ ܩܢܝܢܗܘܢ ܠܡܪܝܐ ܘܢܟܣ̈ܝܗܘܢ ܠܡܪܐ ܕܟܠܗ̇ ܐܪܥܐ",
+                          "note": [
+                            "Continues from Biblioteca Ambrosiana, A 296 inf., f. 28v, Micah 4:13 (Nativity)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "as_written": "ܗܠܝ̈ܢ ܡܬܩܖ̈ܝܢ ܒܥܐܕܐ ܕܩܕܝܫܬܐ ܫܡܘܢܝ ܘܒܢܝ̈ܗ. ܘܒܚܣܝܪܘܬ ܡܛܪܐ",
+                          "note": [
+                            "Rubricated"
+                          ]
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Nativity (acephalous)",
+                          "locus": "f. 1r"
+                        },
+                        {
+                          "label": "Epiphany",
+                          "locus": "f. 5r"
+                        },
+                        {
+                          "label": "Blessing of water",
+                          "locus": "f. 11v"
+                        },
+                        {
+                          "label": "Wednesday of the Cheesefare Week (Matins, Vespers)",
+                          "locus": "f. 13v"
+                        },
+                        {
+                          "label": "Friday of the Cheesefare Week (Matins, Vespers)",
+                          "locus": "f. 15r"
+                        },
+                        {
+                          "label": "Monday of the First Week of Lent (Matins, Vespers)",
+                          "locus": "f. 16v"
+                        },
+                        {
+                          "label": "Tuesday of the First Week of Lent (Matins, Vespers)",
+                          "locus": "f. 19r"
+                        },
+                        {
+                          "label": "Wednesday of the First Week of Lent (Matins, Vespers)",
+                          "locus": "f. 21r"
+                        },
+                        {
+                          "label": "Thursday day of the First Week of Lent (Matins, Vespers)",
+                          "locus": "f. 23r"
+                        },
+                        {
+                          "label": "Friday of the First Week of Lent (Matins, Vespers)",
+                          "locus": "f. 25r"
+                        },
+                        {
+                          "label": "Monday of the second week of Lent (Matins, Vespers)",
+                          "locus": "f. 28r"
+                        },
+                        {
+                          "label": "Tuesday of the second week of Lent (Matins, Vespers)",
+                          "locus": "f. 30r"
+                        },
+                        {
+                          "label": "Wednesday of the second week of Lent (Matins, Vespers)",
+                          "locus": "f. 32r"
+                        },
+                        {
+                          "label": "Thursday of the second week of Lent (Matins, Vespers)",
+                          "locus": "f. 33v"
+                        },
+                        {
+                          "label": "Friday of the second week of Lent (Matins, Vespers)",
+                          "locus": "f. 36r"
+                        },
+                        {
+                          "label": "Monday of the third week of Lent (Matins, Vespers)",
+                          "locus": "f. 38r"
+                        },
+                        {
+                          "label": "Tuesday of the third week of Lent (Matins, Vespers)",
+                          "locus": "f. 41r"
+                        },
+                        {
+                          "label": "Wednesday of the third week of Lent (Matins, Vespers)",
+                          "locus": "f. 43r"
+                        },
+                        {
+                          "label": "Thursday of the third week of Lent (Matins, Vespers)",
+                          "locus": "f. 44v"
+                        },
+                        {
+                          "label": "Friday of the third week of Lent (Matins, Vespers)",
+                          "locus": "f. 47"
+                        },
+                        {
+                          "label": "Monday of the fourth week of Lent (Matins, Vespers)",
+                          "locus": "f. 49v"
+                        },
+                        {
+                          "label": "Tuesday of the fourth week of Lent (Matins, Vespers)",
+                          "locus": "f. 51v"
+                        },
+                        {
+                          "label": "Wednesday of the fourth week of Lent (Matins, Vespers)",
+                          "locus": "f. 54r"
+                        },
+                        {
+                          "label": "Thursday of the fourth week of Lent (Matins, Vespers)",
+                          "locus": "f. 56v"
+                        },
+                        {
+                          "label": "Friday of the fourth week of Lent (Matins, Vespers)",
+                          "locus": "f. 58v"
+                        },
+                        {
+                          "label": "Monday of the fifth week of Lent (Matins, Vespers)",
+                          "locus": "f. 61r"
+                        },
+                        {
+                          "label": "Tuesday of the fifth week of Lent (Matins, Vespers)",
+                          "locus": "f. 63r"
+                        },
+                        {
+                          "label": "Wednesday of the fifth week of Lent (Matins, Vespers)",
+                          "locus": "f. 65r"
+                        },
+                        {
+                          "label": "Thursday of the fifth week of Lent (Matins, Vespers)",
+                          "locus": "f. 67v"
+                        },
+                        {
+                          "label": "Friday of the fifth week of Lent (Matins, Vespers)",
+                          "locus": "f. 70r"
+                        },
+                        {
+                          "label": "Monday of the sixth week of Lent (Matins, Vespers)",
+                          "locus": "f. 73r"
+                        },
+                        {
+                          "label": "Tuesday of the sixth week of Lent (Matins, Vespers)",
+                          "locus": "f. 76v"
+                        },
+                        {
+                          "label": "Wednesday of the sixth week of Lent (Matins, Vespers)",
+                          "locus": "f. 78v"
+                        },
+                        {
+                          "label": "Thursday of the sixth week of Lent (Matins, Vespers)",
+                          "locus": "f. 84r"
+                        },
+                        {
+                          "label": "Friday of the sixth week of Lent (Matins, Vespers)",
+                          "locus": "f. 86v"
+                        },
+                        {
+                          "label": "Palm Sunday (Midnight office)",
+                          "locus": "f. 90v"
+                        },
+                        {
+                          "label": "Monday of the Holy Week (Matins, Vespers)",
+                          "locus": "f. 92r"
+                        },
+                        {
+                          "label": "Tuesday of the Holy Week (Matins, Vespers)",
+                          "locus": "f. 96v"
+                        },
+                        {
+                          "label": "Wednesday of the Holy Week (Matins, Vespers)",
+                          "locus": "f. 98v"
+                        },
+                        {
+                          "label": "Thursday of the Holy Week (Matins, Vespers)",
+                          "locus": "f. 102r"
+                        },
+                        {
+                          "label": "Friday of the Holy Week (Matins, Sixth hour)",
+                          "locus": "f. 106r"
+                        },
+                        {
+                          "label": "Holy Saturday (Matins, Vespers)",
+                          "locus": "f. 115r"
+                        },
+                        {
+                          "label": "Ascension (Midnight office)",
+                          "locus": "f. 135r"
+                        },
+                        {
+                          "label": "Sunday of the holy fathers (Midnight office)",
+                          "locus": "f. 136v"
+                        },
+                        {
+                          "label": "Sunday of Pentecost (Midnight office)",
+                          "locus": "f. 138r"
+                        },
+                        {
+                          "label": "Sunday after Pentecost, feast of all the saints (Midnight office)",
+                          "locus": "f. 139v"
+                        },
+                        {
+                          "label": "1 September, Saint Simeon, the head of stylites",
+                          "locus": "f. 140v"
+                        },
+                        {
+                          "label": "8 September, Nativity of Mary",
+                          "locus": "f. 141r"
+                        },
+                        {
+                          "label": "14 September, feast of the Cross",
+                          "locus": "f. 142r"
+                        },
+                        {
+                          "label": "26 September, John the Evangelist",
+                          "locus": "f. 142v"
+                        },
+                        {
+                          "label": "2 February, Presentation of Jesus at the Temple",
+                          "locus": "f. 143v"
+                        },
+                        {
+                          "label": "25 March, Annunciation",
+                          "locus": "f. 143v"
+                        },
+                        {
+                          "label": "29 June, Peter and Paul",
+                          "locus": "f. 144v"
+                        },
+                        {
+                          "label": "20 July, Ascension of Elias the Prophet",
+                          "locus": "f. 146r"
+                        },
+                        {
+                          "label": "6 August, Transfiguration",
+                          "locus": "f. 146r"
+                        },
+                        {
+                          "label": "15 August, Dormition of Mary",
+                          "locus": "f. 148r"
+                        },
+                        {
+                          "label": "13 September, Renovation of the Temple",
+                          "locus": "f. 148r"
+                        },
+                        {
+                          "label": "26 October, Saint Demetrius and commemoration of the earthquake",
+                          "locus": "f. 148v"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "33aadcf6-1e7a-4533-abd9-052809f06b83",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1894",
+                          "citation": "Lewis, Agnes Smith. Catalogue of the Syriac Manuscripts in the Convent of S. Catharine on Mount Sinai. Studia Sinaitica I. London: Cambridge University Press, 1894",
+                          "range": "p. 120-123 (fragment 55)"
+                        },
+                        {
+                          "id": "f3252cd6-31fa-4b56-bed8-abafa4c732f5",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1897",
+                          "citation": "Lewis, Agnes Smith, ed. A Palestinian Syriac Lectionary containing lessons from the Pentateuch, Job, Proverbs, Acts and Epistles London: C.J. Clay and Sons, 1897 ",
+                          "range": "p. 137-139"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1xs68"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "9th–10th c. CE",
+                "iso": {
+                  "not_before": "0801",
+                  "not_after": "1000"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              },
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "border",
+                "label": "Border(s)"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Geometric headpieces and minor headpieces throughout, beginning on f. 5r; geometric headpiece, f. 38r, partially-filled with red border | Geometric decoration on f. 23r, knotted cross"
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[178], p. 157"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386243-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z196124r"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "waqf-endow",
+          "label": "Waqf/Endowment"
+        }
+      ],
+      "locus": "Front board inside",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "label": "Endowment note",
+      "as_written": "هذا النبويات وقف على طور سينا ما لا سلطان من الله يخرجها عنها عنها ومن اخرجها يكون محرم من فم الله و ملايكته",
+      "translation": [
+        "This prophetologion is an endowment for [the monastery of] Mount Sinai, and no one has authority from God to take it out from there. Whoever takes it out, may he be deprived of [the words of] the mouth of God and his angels"
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "The quire signature is marked in the bottom margin of recto of the first folio; a later hand added quires signatures at the wrong place; quires of 8 ff. with the exception of quire XIX (6 ff.) which seems to be complete"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two wooden binding boards."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Flyleaves (ff. 148–150) from a CPA manuscript (trimmed bifolium). No other part of the same CPA codex is known. Hymn in honour of the apostles Peter and Paul (fragment)"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[178], p. 157"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386243-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz196124r/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz196124r%2Fp250050t/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 April",
+        "delivery": "4.2",
+        "imaging_system": "BC100 - 2 cam., 745 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

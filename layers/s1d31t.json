@@ -50,6 +50,32 @@
             "id": "scribe",
             "label": "Scribe"
           }
+        },
+        {
+          "value": "Elias al-Amirni",
+          "as_written": "القس الياس الاميرني",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        },
+        {
+          "value": "Ephrem, Abbot of the Monastery of Our Lady of Kaftoun",
+          "as_written": "أبا افرام خادم دير سيدة كفتون",
+          "role": {
+            "id": "overseer",
+            "label": "Overseer"
+          }
+        }
+      ],
+      "assoc_place": [
+        {
+          "value": "Amyoun (village, near Tripoli)",
+          "as_written": "قرية اميون",
+          "event": {
+            "id": "origin",
+            "label": "Place of Origin"
+          }
         }
       ],
       "assoc_date": [
@@ -68,9 +94,7 @@
         }
       ],
       "note": [
-        "Sephardi Hebrew script mentioned",
-        "Attested names: Pastor Elias al-Amirni (scribe of original copy) ; Abbot Ephrem of the Monastery of Out Lady of Kaftoun (overseer, binder)",
-        "Attested places:  Mount Sinai ; Tripoli/Tarablus ; Monastery of Our Lady of Kaftoun"
+        "Sephardi Hebrew script mentioned"
       ]
     }
   ],

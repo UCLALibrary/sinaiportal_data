@@ -1,0 +1,73 @@
+{
+  "ark": "ark:/21198/s12d6q",
+  "reconstruction": false,
+  "label": "John Climacus, Ladder of Divine Ascent",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1cc8x"
+      },
+      "alt_title": "John Climacus, Ladder of Divine Ascent",
+      "locus": "ff. 1r–8v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "inc-mut",
+            "label": "First Preserved Line"
+          },
+          "as_written": "... ܢܕܚܠ ܐܠܐ ܢܟܬܪ ܒܢܩܫܐ ܟܕ ܠܐ ܡܣܬܪܕ ܠܒܢ",
+          "note": [
+            "Corresponds to Ad pastorem, ch. 9"
+          ]
+        },
+        {
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "as_written": "ܠܐܝܠܝܢ ܕܥܕܟܝܠ ܥܠ ܐܪܥܐ ܛܝܦܝܢ ܒܗܠܝܢ ...",
+          "note": [
+            "Corresponds to Ad pastorem, ch. 15: τοὺς ἐπὶ γῆς ἔτι πέλοντας· οἷς (PG 88, col. 1201, ch. 15, lines 16–17)"
+          ]
+        }
+      ]
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "contents",
+        "label": "Contents Note"
+      },
+      "value": "John of Sinai's Ladder, chapter 31"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1432q"
+  ]
+}

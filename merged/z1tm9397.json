@@ -1,0 +1,466 @@
+{
+  "ark": "ark:/21198/z1tm9397",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac NF M 3",
+  "summary": "Horologion (the Book of Hours)",
+  "extent": "163 ff.",
+  "weight": "476.3 g",
+  "dim": "128 x 113 x 116.0 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "Flyleaves: ff. 1–2  ; <I>: ff. 3–10 ; II: ff. 11–17 (lacuna of 1 folio after f. 12) ; III: ff. 18–25 ; IV: ff. 26–33 ; V: ff. 34–41 ; VI: ff. 42–49 ; VII: ff. 50–57 ; VIII: ff. 58–65 ; IX: ff. 66–71 ; X: ff. 72–79 ; XI: ff. 80–87 ; XII: ff. 88–95 ; XIII: ff. 96–103 ; XIV: ff. 104–111 ; XV: ff. 112–119 ; XVI: ff. 120–127 ; XVII: ff. 128–135 ; XVIII: ff. 136–143 ; <XIX>: ff. 144–151 ; XX: ff. 152–159 ; XXI: ff. 160–163 (incomplete)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-163",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "120 x 85 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1bs7c",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1bs7c",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac NF M 3, Overtext (Melkite)",
+            "locus": "ff. 1-163",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "iron gall",
+                  "red",
+                  "yellow",
+                  "black"
+                ],
+                "note": [
+                  "Iron gall, red and yellow inks used in the text; black, red and yellow colours used in ornamentation"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "ca. 14 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s15d6n",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s15d6n",
+                  "reconstruction": false,
+                  "label": "Horologion (the Book of Hours)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1dg6h",
+                        "pref_title": "Horologion",
+                        "genre": [
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          }
+                        ]
+                      },
+                      "alt_title": "Horologion (the Book of Hours)",
+                      "locus": "ff. 3v–162r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܩܕܝܫ ܐܢܬ ܐܠܗܐ ܓ ܙܒܢ̈ܝܢ [....] ܩܕܝܫܬܐ ܬܠܝܬܝܘܬܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "locus": "f. 162r",
+                          "as_written": "ܩܕܝܫ ܐܢܬ ܐܠܗܐ ܀ ܩܬܣܡܐ ܕܝܘܡܐ ܘܡܚܬܡ ܐܝܟ ܫܪܟܐ ܀",
+                          "translation": [
+                            "Holy God (= Trisagion); kathisma of the day (= Dismissal); and finish as usual"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Natalia Smelova"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:37:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1bs7c"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+                        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "ca. 12th century CE",
+                "iso": {
+                  "not_before": "1101",
+                  "not_after": "1200"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Philothée 2008",
+                "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+                "range": "[M3N] pp. 273-276"
+              },
+              {
+                "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Géhin 2017",
+                "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+                "range": "p. 181"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Natalia Smelova"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:37:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1tm9397"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). "
+                },
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1fm0x",
+          "label": "Syriac Undertext: Tropologion B",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 3–79",
+          "uto_ms_ark": "ark:/21198/z1zq4z4q",
+          "script": [
+            "Melkite"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "9th-10th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "1000"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1k92t",
+          "label": "Syriac Undertext: Tropologion A",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 80–164",
+          "uto_ms_ark": "ark:/21198/z1q9253p",
+          "script": [
+            "Melkite"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "9th-10th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "1000"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1q354",
+          "label": "Syriac Undertext: 2 Corinthians",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–2",
+          "uto_ms_ark": "ark:/21198/z1tz46ft",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation at either top or bottom of recto"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures in Syriac on the first page of each quire, in the top margin. Quires of 8 folios, except for quires II (7 folios, lacuna of 1 f.), IX (6 folios), XXI (4 folios)."
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Writing on flyleaves: f. 1r–v – Arabic (to be read!), f. 2r – Syriac (prayer), f. 2v – Arabic (to be read!), ff. 162v–163v – Arabic (to be read!)"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Two binding boards covered with leather."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Binding in fair condition; spine exposed; no pastedown on back cover; loose paper fragment inside front cover"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather on wood; leather on front cover stitched; leather strap in front cover."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Philothée's catalogue incorrectly dates this manuscript to 917 CE, a date found on the Arabic flyleaves; subsequent catalogues have dated this to the 13th c."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Palimpsest in Estrangela."
+    }
+  ],
+  "bib": [
+    {
+      "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Philothée 2008",
+      "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+      "range": "[M3N] pp. 273-276"
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Géhin 2017",
+      "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+      "range": "p. 181"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f48m2p/manifest",
+      "label": "SPP",
+      "text_direction": "right-to-left",
+      "behavior": "paged"
+    },
+    {
+      "type": {
+        "id": "alt",
+        "label": "Alternate"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1tm9397/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1p28qb0%2F5z16512v/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:37:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2020 September",
+        "delivery": "7.2",
+        "condition_category": "1",
+        "imaging_system": "Stokes-PBC, 900 ppi, 120mm lens"
+      },
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

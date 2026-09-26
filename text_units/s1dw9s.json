@@ -14,12 +14,12 @@
         "desc_title": "Acts of Thecla",
         "genre": [
           {
-            "id": "hagiographies",
-            "label": "Hagiographies"
+            "id": "apocrypha",
+            "label": "Apocrypha"
           },
           {
-            "id": "historical-works",
-            "label": "Historical works"
+            "id": "hagiographies",
+            "label": "Hagiographies"
           }
         ]
       },
@@ -93,6 +93,10 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       },
@@ -393,6 +397,10 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       },
@@ -507,6 +515,10 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       },
@@ -621,6 +633,10 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       },
@@ -678,6 +694,10 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       },
@@ -735,6 +755,10 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       },
@@ -805,6 +829,10 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       },
@@ -930,8 +958,8 @@
         "desc_title": "History of Susanna",
         "genre": [
           {
-            "id": "hagiographies",
-            "label": "Hagiographies"
+            "id": "biblical-texts",
+            "label": "Biblical texts"
           }
         ]
       },
@@ -989,6 +1017,10 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       },
@@ -1042,10 +1074,17 @@
     {
       "work": {
         "desc_title": "Ephrem of Nisibis, Hymns on Paradise (selected stanzas)",
+        "creator": [
+          "ark:/21198/s1v887"
+        ],
         "genre": [
           {
             "id": "theological-works",
             "label": "Theological works"
+          },
+          {
+            "id": "hymnals",
+            "label": "Hymnals"
           }
         ]
       },
@@ -1110,8 +1149,8 @@
       },
       "subtype": [
         {
-          "id": "subscription",
-          "label": "Subscription"
+          "id": "concl-rubric",
+          "label": "Concluding rubric"
         }
       ],
       "locus": "f. 181r",

@@ -73,8 +73,12 @@
         "desc_title": "Forty Martyrs of Sebastea",
         "genre": [
           {
-            "id": "martyrologies",
-            "label": "Martyrologies"
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       },
@@ -89,6 +93,10 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "martyrdoms",
+            "label": "Martyrdoms"
           }
         ]
       }
@@ -122,6 +130,10 @@
           {
             "id": "hagiographies",
             "label": "Hagiographies"
+          },
+          {
+            "id": "apocrypha",
+            "label": "Apocrypha"
           }
         ]
       }

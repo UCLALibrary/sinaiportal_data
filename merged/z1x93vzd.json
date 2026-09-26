@@ -130,16 +130,25 @@
                 "assoc_name": [
                   {
                     "value": "Abdeh daMshihā bar Gabriel",
-                    "as_written": "ܥܒܕܗ ܕܡܫܝܚܐ",
+                    "as_written": "ܥܒܕܗ ܡܡܫܝܚܐ ܒܪܝ ܓܒܪܐܝܠ",
                     "role": {
                       "id": "scribe",
                       "label": "Scribe"
                     }
                   }
                 ],
+                "assoc_place": [
+                  {
+                    "value": "Kfar'la (village near Tripoli)",
+                    "as_written": "ܟܦܪܥܠܐ",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    }
+                  }
+                ],
                 "note": [
-                  "Last portion on 190v is smudged.",
-                  "Attested places:  in Kfar `Q' (near Tripolis)"
+                  "Last portion on 190v is smudged."
                 ]
               }
             ],

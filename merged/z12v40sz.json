@@ -184,6 +184,10 @@
                           {
                             "id": "liturgical-texts",
                             "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
                           }
                         ]
                       },
@@ -286,8 +290,15 @@
                   }
                 ],
                 "as_written": "ܫܠܡ ܛܟܣܐ ܕܠܘܘ̈ܝܐ ܕܥܢ̈ܝܕܐ ܒܥܘܕܪܢ ܐܠܗܐ܀ ܝܘܡ ܗ̄܀ ܒ̄ܕ܀ ܡܢ ܚܙܝܪܢ܀ ܫܢܬ ܐܠܦ܀ ܘܬܩ̄܀ ܘܦ̄ܒ܀ ܝܘܢ̈ܝܐ܀ ܒܕܝܪܐ ܩܕܝܫܐ ܕܡܪܝ ܝܥܩܘܒ ܒܫܬܘܕܪ܀ ܒܝܕܝ ܚܛܝܐ ܐܢܛܘܢܝ ܕܝܪܝܐ܀ ܐܠܗܐ ܡܚ̇ܣܐ ܠܗ ܘܠܐܒܗ̈ܘܗܝ ܘܠܟܠܡ̇ܢ ܕܩܲܪܐ ܒܗ ܘܨ̇ܠܐ ܥܠܝܗܘܢ. ܒܬܟ̄ܫ ܕܝܠܕܬ ܐܠܗܐ: ܘܩ̄ܕܝ ܡܪܝ ܝܥܩܘܒ ܘܟܠܗܘܢ ܩܕܝ̈ܫܐ܀ ܐܡܝܢ ܐܡܝܢ ܐܡܝܢ܀",
-                "note": [
-                  "Attested places:  in monastery of Jacob at Beshtodar"
+                "assoc_place": [
+                  {
+                    "value": "Monastery of Jacob at Beshtodar",
+                    "as_written": "ܕܡܪܝ ܝܥܩܘܒ ܒܫܬܘܕܪ",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    }
+                  }
                 ]
               }
             ],

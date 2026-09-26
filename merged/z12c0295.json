@@ -112,6 +112,10 @@
                         "desc_title": "The Assumption of the Virgin",
                         "genre": [
                           {
+                            "id": "apocrypha",
+                            "label": "Apocrypha"
+                          },
+                          {
                             "id": "hagiographies",
                             "label": "Hagiographies"
                           },
@@ -131,8 +135,8 @@
                             "label": "Hagiographies"
                           },
                           {
-                            "id": "historical-works",
-                            "label": "Historical works"
+                            "id": "narrations",
+                            "label": "Narrations"
                           }
                         ]
                       }

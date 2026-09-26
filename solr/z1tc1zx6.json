@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z1tc1zx6",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -34,7 +37,59 @@
     "Biblical texts",
     "Gospel books"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    975,
+    976,
+    977,
+    978,
+    979,
+    980,
+    981,
+    982,
+    983,
+    984,
+    985,
+    986,
+    987,
+    988,
+    989,
+    990,
+    991,
+    992,
+    993,
+    994,
+    995,
+    996,
+    997,
+    998,
+    999,
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1011,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1021,
+    1022,
+    1023,
+    1024,
+    1025
+  ],
   "ot_language_ssim": [
     "Greek"
   ],
@@ -53,12 +108,16 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Greek NF M 98, SPP No. 103",
+  "shelfmark_tsi": "UTO Sinai Greek NF M 98, SPP No. 103",
+  "shelfmark_tsort": "UTO Sinai Greek NF M 98, SPP No. 103",
   "titles_tesim": [
     "Bible. Luke"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
-  "places_tesim": [],
+  "places_tesim": [
+    "Possibly Palestine"
+  ],
   "contents_tesim": [
     "Bible. Luke",
     "Gospel of Luke",
@@ -72,17 +131,21 @@
     "Greek",
     "Greek majuscule",
     "Parchment",
+    "Possibly Palestine",
+    "Since the original manuscript had a two-column layout, according to the reconstruction of the original position of the palimpsest folios, a more correct representation of the textual order would be one of the two following: (1) 2v+1r, 1v+2r; (2) 2v (col. a), 1r (col. b), 1v (col. a), 2r (col. b)",
     "The text displays some variants compared to the Aland edition",
     "UTO Sinai Greek NF M 98, SPP No. 103",
     "Upright pointed majuscule",
+    "Very damaged sheet, with material deficiencies; partially preserved margins, except the lower margin",
     "ark:/21198/z1tc1zx6",
+    "ff. 1–2",
     "spputos"
   ],
   "cataloguer_tesim": [
     "Guglielmo Cavallo"
   ],
   "last_modified_dtsi": "2025-12-15T22:33:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1tc1zx6\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek NF M 98, SPP No. 103\",\"extent\":\"2 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 2v, 1r, 1v, 2r\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1cw5z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1cw5z\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek NF M 98, Undertext (Greek majuscule)\",\"locus\":\"ff. 1–2\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Upright pointed majuscule\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"12 lines\",\"note\":[\"Current number of lines on each folio is 12; each original folio had a larger number of lines\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s11x1p\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s11x1p\",\"reconstruction\":false,\"label\":\"Gospel of Luke\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1k88r\",\"pref_title\":\"Bible. Luke\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Luke\",\"uri\":\"http://viaf.org/viaf/257061095\",\"source\":\"VIAF\"}]},\"note\":[\"The text displays some variants compared to the Aland edition\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Guglielmo Cavallo\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/s1cw5z\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Guglielmo Cavallo\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/z1w385bk\",\"ark:/21198/z1tc1zx6\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w385bk/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14t6jxd/1022,0,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Guglielmo Cavallo\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1w385bk\",\"shelfmark\":\"Sinai Greek NF M 98\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1tc1zx6\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek NF M 98, SPP No. 103\",\"extent\":\"2 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 2v, 1r, 1v, 2r\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1cw5z\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1cw5z\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek NF M 98, Undertext (Greek majuscule)\",\"locus\":\"ff. 1–2\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Upright pointed majuscule\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"12 lines\",\"note\":[\"Current number of lines on each folio is 12; each original folio had a larger number of lines\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s11x1p\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s11x1p\",\"reconstruction\":false,\"label\":\"Gospel of Luke\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1k88r\",\"pref_title\":\"Bible. Luke\",\"genre\":[{\"id\":\"biblical-texts\",\"label\":\"Biblical texts\"},{\"id\":\"gospel-books\",\"label\":\"Gospel books\"}],\"rel_con\":[{\"label\":\"Bible. Luke\",\"uri\":\"http://viaf.org/viaf/257061095\",\"source\":\"VIAF\"}]},\"note\":[\"The text displays some variants compared to the Aland edition\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Guglielmo Cavallo\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/s1cw5z\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"Late 10th-early 11th c. CE\",\"iso\":{\"not_before\":\"0975\",\"not_after\":\"1025\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Possibly Palestine\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"General Note\"},\"value\":\"Very damaged sheet, with material deficiencies; partially preserved margins, except the lower margin\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Guglielmo Cavallo\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/z1w385bk\",\"ark:/21198/z1tc1zx6\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"ff. 1–2\"},{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"Since the original manuscript had a two-column layout, according to the reconstruction of the original position of the palimpsest folios, a more correct representation of the textual order would be one of the two following: (1) 2v+1r, 1v+2r; (2) 2v (col. a), 1r (col. b), 1v (col. a), 2r (col. b)\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1w385bk/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14t6jxd/1022,0,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Guglielmo Cavallo\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1w385bk\",\"shelfmark\":\"Sinai Greek NF M 98\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1tc1zx6",
   "has_model_ssim": [
     "Work"
@@ -103,12 +166,18 @@
     "UTO Sinai Greek NF M 98, SPP No. 103",
     "2 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "Late 10th-early 11th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "Late 10th-early 11th c. CE"
+  ],
   "extent_tesi": "2 fols.",
   "text_unit_labels_tesim": [
     "Gospel of Luke"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "Late 10th-early 11th c. CE"
+  ]
 }

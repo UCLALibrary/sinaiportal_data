@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z1301xk0",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -36,7 +39,59 @@
     "Sermons",
     "Theological works"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    1075,
+    1076,
+    1077,
+    1078,
+    1079,
+    1080,
+    1081,
+    1082,
+    1083,
+    1084,
+    1085,
+    1086,
+    1087,
+    1088,
+    1089,
+    1090,
+    1091,
+    1092,
+    1093,
+    1094,
+    1095,
+    1096,
+    1097,
+    1098,
+    1099,
+    1100,
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    1106,
+    1107,
+    1108,
+    1109,
+    1110,
+    1111,
+    1112,
+    1113,
+    1114,
+    1115,
+    1116,
+    1117,
+    1118,
+    1119,
+    1120,
+    1121,
+    1122,
+    1123,
+    1124,
+    1125
+  ],
   "ot_language_ssim": [
     "Greek"
   ],
@@ -55,6 +110,8 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Greek 468, SPP No. 238",
+  "shelfmark_tsi": "UTO Sinai Greek 468, SPP No. 238",
+  "shelfmark_tsort": "UTO Sinai Greek 468, SPP No. 238",
   "titles_tesim": [
     "Homilies on Genesis (Chrysostom)"
   ],
@@ -62,7 +119,9 @@
     "John Chrysostom, Saint, -407"
   ],
   "exerpts_tesim": [],
-  "places_tesim": [],
+  "places_tesim": [
+    "Jerusalem"
+  ],
   "contents_tesim": [
     "Homilies on Genesis (Chrysostom)",
     "Homily 43, on Genesis 19 (=ΟΜΙΛΙΑ ΜΓ': Ήλθον δε, φησίν, οι δύο άγγελοι εις Σόδομα εσπέρας)",
@@ -75,18 +134,21 @@
     "Homilies on Genesis (Chrysostom)",
     "Homily 43, on Genesis 19 (=ΟΜΙΛΙΑ ΜΓ': Ήλθον δε, φησίν, οι δύο άγγελοι εις Σόδομα εσπέρας)",
     "Homily on Genesis",
+    "Jerusalem",
     "John Chrysostom, Saint, -407",
     "Parchment",
     "Sloping pointed majuscule | Systematic use of punctuation",
+    "The original manuscript had folios with text in 2 columns. Later, it was cut so that now each folio includes only part of one or the other column",
     "UTO Sinai Greek 468, SPP No. 238",
     "ark:/21198/z1301xk0",
+    "ff. 128–131",
     "spputos"
   ],
   "cataloguer_tesim": [
     "Vasilios Katsaros"
   ],
   "last_modified_dtsi": "2025-12-20T00:39:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1301xk0\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 468, SPP No. 238\",\"extent\":\"4 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 130v, 129r, 129v, 130r, 131v, 128r, 128v, 131r\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1x34m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1x34m\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 468, Undertext (Greek majuscule)\",\"locus\":\"ff. 128–131\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Sloping pointed majuscule | Systematic use of punctuation\"]}],\"layout\":[{\"columns\":\"1 columns, reconstructed\",\"lines\":\"ca. 16-17 lines, reconstructed\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1k40b\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1k40b\",\"reconstruction\":false,\"label\":\"Homily on Genesis\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1rp59\",\"pref_title\":\"Homilies on Genesis (Chrysostom)\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"sermons\",\"label\":\"Sermons\"}],\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom, Saint, -407\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"d. 407\",\"iso\":{\"not_before\":\"0407\"}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407. Homilies on Genesis\",\"uri\":\"http://id.loc.gov/authorities/names/n85120913\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407. | Homilies on Genesis\",\"uri\":\"https://viaf.org/viaf/185525092\",\"source\":\"VIAF\"}]},\"note\":[\"Homily 43, on Genesis 19 (=ΟΜΙΛΙΑ ΜΓ': Ήλθον δε, φησίν, οι δύο άγγελοι εις Σόδομα εσπέρας)\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Vasilios Katsaros\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:39:00Z\"}],\"parent\":[\"ark:/21198/s1x34m\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Vasilios Katsaros\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:39:00Z\"}],\"parent\":[\"ark:/21198/z1029pgj\",\"ark:/21198/z1301xk0\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Vasilios Katsaros\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:39:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1029pgj\",\"shelfmark\":\"Sinai Greek 468\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1301xk0\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 468, SPP No. 238\",\"extent\":\"4 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 130v, 129r, 129v, 130r, 131v, 128r, 128v, 131r\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1x34m\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1x34m\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 468, Undertext (Greek majuscule)\",\"locus\":\"ff. 128–131\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Sloping pointed majuscule | Systematic use of punctuation\"]}],\"layout\":[{\"columns\":\"1 columns, reconstructed\",\"lines\":\"ca. 16-17 lines, reconstructed\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1k40b\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1k40b\",\"reconstruction\":false,\"label\":\"Homily on Genesis\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1rp59\",\"pref_title\":\"Homilies on Genesis (Chrysostom)\",\"genre\":[{\"id\":\"theological-works\",\"label\":\"Theological works\"},{\"id\":\"sermons\",\"label\":\"Sermons\"}],\"creator\":[{\"id\":\"ark:/21198/s1x303\",\"agent_record\":{\"ark\":\"ark:/21198/s1x303\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"John Chrysostom, Saint, -407\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"death\":{\"value\":\"d. 407\",\"iso\":{\"not_before\":\"0407\"}},\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://viaf.org/viaf/305214868\",\"source\":\"VIAF\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"http://id.loc.gov/authorities/names/n80001460\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407\",\"uri\":\"https://w3id.org/haf/person/873419758532\",\"source\":\"HAF\"},{\"label\":\"John Chrysostom\",\"uri\":\"http://syriaca.org/person/573\",\"source\":\"Syriaca\"},{\"label\":\"Iohannes Chrysostomus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1449/\",\"source\":\"Pinakes\"}]},\"role\":{\"id\":\"author\",\"label\":\"Author\"}}],\"rel_con\":[{\"label\":\"John Chrysostom, Saint, -407. Homilies on Genesis\",\"uri\":\"http://id.loc.gov/authorities/names/n85120913\",\"source\":\"LoC\"},{\"label\":\"John Chrysostom, Saint, -407. | Homilies on Genesis\",\"uri\":\"https://viaf.org/viaf/185525092\",\"source\":\"VIAF\"}]},\"note\":[\"Homily 43, on Genesis 19 (=ΟΜΙΛΙΑ ΜΓ': Ήλθον δε, φησίν, οι δύο άγγελοι εις Σόδομα εσπέρας)\"]}],\"bib\":[{\"id\":\"ae87935d-e925-4e64-83c0-d09d5f5d7321\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"PG (Migne)\",\"citation\":\"Migne, J.-P. Patrologiae Cursus Completus, Series Graeca. Paris, 1857–1866.\",\"range\":\"vol. 53:21-385; vol. 54:385-580\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Vasilios Katsaros\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:39:00Z\"}],\"parent\":[\"ark:/21198/s1x34m\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"late 11th-early 12th c. CE\",\"iso\":{\"not_before\":\"1075\",\"not_after\":\"1125\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Jerusalem\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"bib\":[{\"id\":\"ae87935d-e925-4e64-83c0-d09d5f5d7321\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"PG (Migne)\",\"citation\":\"Migne, J.-P. Patrologiae Cursus Completus, Series Graeca. Paris, 1857–1866.\",\"range\":\"vol. 53:21-385; vol. 54:385-580\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Vasilios Katsaros\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:39:00Z\"}],\"parent\":[\"ark:/21198/z1029pgj\",\"ark:/21198/z1301xk0\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"ff. 128–131\"},{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"The original manuscript had folios with text in 2 columns. Later, it was cut so that now each folio includes only part of one or the other column\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1029pgj/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f7778g/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Vasilios Katsaros\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:39:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1029pgj\",\"shelfmark\":\"Sinai Greek 468\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1301xk0",
   "has_model_ssim": [
     "Work"
@@ -107,12 +169,18 @@
     "UTO Sinai Greek 468, SPP No. 238",
     "4 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "late 11th-early 12th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "late 11th-early 12th c. CE"
+  ],
   "extent_tesi": "4 fols.",
   "text_unit_labels_tesim": [
     "Homily on Genesis"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "late 11th-early 12th c. CE"
+  ]
 }

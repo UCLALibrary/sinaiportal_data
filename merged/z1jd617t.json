@@ -346,6 +346,14 @@
                           {
                             "id": "apophthegmata",
                             "label": "Apophthegmata"
+                          },
+                          {
+                            "id": "narrations",
+                            "label": "Narrations"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
                           }
                         ]
                       },
@@ -368,8 +376,12 @@
                         "desc_title": "Martyrdom of Longinus",
                         "genre": [
                           {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ]
                       },
@@ -392,8 +404,12 @@
                         "desc_title": "Martyrdom of Ignatius",
                         "genre": [
                           {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ]
                       },
@@ -648,8 +664,8 @@
                         "desc_title": "Story of a rich man",
                         "genre": [
                           {
-                            "id": "hagiographies",
-                            "label": "Hagiographies"
+                            "id": "narrations",
+                            "label": "Narrations"
                           }
                         ]
                       },
@@ -719,13 +735,8 @@
                     },
                     {
                       "work": {
-                        "desc_title": "Martyrdom of al-Harith of Najran",
-                        "genre": [
-                          {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
-                          }
-                        ]
+                        "ark": "ark:/21198/s1kh51",
+                        "pref_title": "Martyrdom of al-Harith (Arethas), Priest of Najran"
                       },
                       "locus": "ff. 255r-298v",
                       "note": [
@@ -737,8 +748,12 @@
                         "desc_title": "Martyrdom of Demetrius and his disciple Nestor",
                         "genre": [
                           {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ]
                       },

@@ -1,7 +1,7 @@
 {
   "ark": "ark:/21198/s1c11t",
   "reconstruction": false,
-  "label": "Hagiographies",
+  "label": "Ascetic and Hagiographical Miscellany",
   "lang": [
     {
       "id": "class1252",
@@ -88,7 +88,17 @@
     },
     {
       "work": {
-        "desc_title": "An Account of the Decease of Saint Apostle John"
+        "desc_title": "An Account of the Decease of Saint Apostle John",
+        "genre": [
+          {
+            "id": "apocrypha",
+            "label": "Apocrypha"
+          },
+          {
+            "id": "hagiographies",
+            "label": "Hagiographies"
+          }
+        ]
       },
       "locus": "f. 156v",
       "excerpt": [

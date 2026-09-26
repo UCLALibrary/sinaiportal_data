@@ -223,6 +223,24 @@
                       "id": "scribe",
                       "label": "Scribe"
                     }
+                  },
+                  {
+                    "value": "Ibn Sahqun (Isa ibn Ishaq al-Homsi)",
+                    "as_written": "عيسى ابن إسحاق الكاتب الحمصي المعروف بابن سحقون",
+                    "role": {
+                      "id": "translator",
+                      "label": "Translator"
+                    }
+                  }
+                ],
+                "assoc_place": [
+                  {
+                    "value": "Damascus",
+                    "as_written": "بدمشق",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    }
                   }
                 ],
                 "assoc_date": [
@@ -241,9 +259,7 @@
                   }
                 ],
                 "note": [
-                  "cf. Sinai Arabic 252",
-                  "Attested names: Ibn Sahqun (see also Sinai Arabic 252), known as Isa Ibn Ishaq al-Homsi, Ibn Sahqun",
-                  "Attested places:  Church of Our Lady, Damascus"
+                  "cf. Sinai Arabic 252"
                 ]
               }
             ],

@@ -502,8 +502,16 @@
                         "pref_title": "History of the Monks of Egypt",
                         "genre": [
                           {
-                            "id": "historical-works",
-                            "label": "Historical works"
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "narrations",
+                            "label": "Narrations"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
                           }
                         ],
                         "rel_con": [

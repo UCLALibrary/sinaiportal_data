@@ -137,8 +137,15 @@
                     }
                   }
                 ],
-                "note": [
-                  "Attested places:  in monastery of Mar Symeon the Stylite in the Upper Mountain"
+                "assoc_place": [
+                  {
+                    "value": "Monastery of Mar Symeon the Stylite the Younger (Upper Mountain)",
+                    "as_written": "ܕܡܪ ܫܡܥܘܢ ܪܝܫ ܐܣܛܡܝܐ",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    }
+                  }
                 ]
               }
             ],

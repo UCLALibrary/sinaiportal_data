@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z1qd0vg5",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -33,7 +36,59 @@
   "ot_genre_ssim": [
     "Liturgical texts"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    1025,
+    1026,
+    1027,
+    1028,
+    1029,
+    1030,
+    1031,
+    1032,
+    1033,
+    1034,
+    1035,
+    1036,
+    1037,
+    1038,
+    1039,
+    1040,
+    1041,
+    1042,
+    1043,
+    1044,
+    1045,
+    1046,
+    1047,
+    1048,
+    1049,
+    1050,
+    1051,
+    1052,
+    1053,
+    1054,
+    1055,
+    1056,
+    1057,
+    1058,
+    1059,
+    1060,
+    1061,
+    1062,
+    1063,
+    1064,
+    1065,
+    1066,
+    1067,
+    1068,
+    1069,
+    1070,
+    1071,
+    1072,
+    1073,
+    1074,
+    1075
+  ],
   "ot_language_ssim": [
     "Church Slavonic"
   ],
@@ -50,12 +105,16 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Slavonic NF M 3, SPP No. 186",
+  "shelfmark_tsi": "UTO Sinai Slavonic NF M 3, SPP No. 186",
+  "shelfmark_tsort": "UTO Sinai Slavonic NF M 3, SPP No. 186",
   "titles_tesim": [
     "Unidentified text"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
-  "places_tesim": [],
+  "places_tesim": [
+    "Possibly Sinai"
+  ],
   "contents_tesim": [
     "Unidentified text",
     "Unknown"
@@ -66,19 +125,22 @@
     "Cyrillic",
     "Cyrillic majuscule (ustav)",
     "Number of lines of the original manuscript is undetermined",
+    "Only headings and initials are preserved",
     "Parchment",
+    "Possibly Sinai",
     "UTO Sinai Slavonic NF M 3, SPP No. 186",
     "Undetermined (Cyrillic)",
     "Unidentified text",
     "Unknown",
     "ark:/21198/z1qd0vg5",
+    "pp. 117-131 (full description of the MedFol); 124-125, 134, 136, 138, and 140 (remarks on the Latin and Glagolitic palimpsests); 298-301 (images of MedFol); 301 (multispectral image of palimpsest-layer on f. 141av)",
     "spputos"
   ],
   "cataloguer_tesim": [
     "Heinz Miklas"
   ],
   "last_modified_dtsi": "2025-12-15T22:33:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1qd0vg5\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Slavonic NF M 3, SPP No. 186\",\"extent\":\"6 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"ff. 141av, 141bv, stub-141br\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s15923\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s15923\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Slavonic NF M 3, Undertext (Undetermined (Cyrillic))\",\"locus\":\"ff. 141av, 141bv, stub-141br\",\"writing\":[{\"script\":[{\"id\":\"cyrilic-undetermined\",\"label\":\"Undetermined (Cyrillic)\",\"writing_system\":\"Cyrillic\"}],\"note\":[\"Cyrillic majuscule (ustav)\"]}],\"layout\":[{\"note\":[\"Number of lines of the original manuscript is undetermined\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1t988\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1t988\",\"reconstruction\":false,\"label\":\"Unknown\",\"lang\":[{\"id\":\"chur1257\",\"label\":\"Church Slavonic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Unidentified text\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Heinz Miklas\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/s15923\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Heinz Miklas\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/z1rb7dmv\",\"ark:/21198/z1qd0vg5\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rb7dmv/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1g44s4f/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Heinz Miklas\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1rb7dmv\",\"shelfmark\":\"Sinai Slavonic NF M 3\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1qd0vg5\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Slavonic NF M 3, SPP No. 186\",\"extent\":\"6 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"ff. 141av, 141bv, stub-141br\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s15923\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s15923\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Slavonic NF M 3, Undertext (Undetermined (Cyrillic))\",\"locus\":\"ff. 141av, 141bv, stub-141br\",\"writing\":[{\"script\":[{\"id\":\"cyrilic-undetermined\",\"label\":\"Undetermined (Cyrillic)\",\"writing_system\":\"Cyrillic\"}],\"note\":[\"Cyrillic majuscule (ustav)\"]}],\"layout\":[{\"note\":[\"Number of lines of the original manuscript is undetermined\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1t988\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1t988\",\"reconstruction\":false,\"label\":\"Unknown\",\"lang\":[{\"id\":\"chur1257\",\"label\":\"Church Slavonic\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Unidentified text\",\"genre\":[{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]}}],\"bib\":[{\"id\":\"03f2516b-1a60-4cb9-89de-24c655df4020\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Miklas, et al.\",\"citation\":\"Miklas, Heinz, et al. Psalterium Demetrii Sinaitici (monasterii sanctae Catharinae codex slav. 3/N). Glagolitica Sinaitica 1. Vienna, 2012\",\"note\":[\"pp. 117-131 (full description of the MedFol); 124-125, 134, 136, 138, and 140 (remarks on the Latin and Glagolitic palimpsests); 298-301 (images of MedFol); 301 (multispectral image of palimpsest-layer on f. 141av)\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Heinz Miklas\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/s15923\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"mid 11th c. CE\",\"iso\":{\"not_before\":\"1025\",\"not_after\":\"1075\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Possibly Sinai\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"General Note\"},\"value\":\"Only headings and initials are preserved\"}],\"bib\":[{\"id\":\"03f2516b-1a60-4cb9-89de-24c655df4020\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Miklas, et al.\",\"citation\":\"Miklas, Heinz, et al. Psalterium Demetrii Sinaitici (monasterii sanctae Catharinae codex slav. 3/N). Glagolitica Sinaitica 1. Vienna, 2012\",\"note\":[\"pp. 117-131 (full description of the MedFol); 124-125, 134, 136, 138, and 140 (remarks on the Latin and Glagolitic palimpsests); 298-301 (images of MedFol); 301 (multispectral image of palimpsest-layer on f. 141av)\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Heinz Miklas\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/z1rb7dmv\",\"ark:/21198/z1qd0vg5\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1rb7dmv/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1g44s4f/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Heinz Miklas\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1rb7dmv\",\"shelfmark\":\"Sinai Slavonic NF M 3\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1qd0vg5",
   "has_model_ssim": [
     "Work"
@@ -99,12 +161,18 @@
     "UTO Sinai Slavonic NF M 3, SPP No. 186",
     "6 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "mid 11th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "mid 11th c. CE"
+  ],
   "extent_tesi": "6 fols.",
   "text_unit_labels_tesim": [
     "Unknown"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "mid 11th c. CE"
+  ]
 }

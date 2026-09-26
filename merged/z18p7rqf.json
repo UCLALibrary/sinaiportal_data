@@ -1,0 +1,450 @@
+{
+  "ark": "ark:/21198/z18p7rqf",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac NF M 42",
+  "summary": "(Christian Palestinian Aramaic) Gospel Lectionary / Evangelion (Byzantine rite)",
+  "extent": "8 ff.",
+  "weight": "37.1 g",
+  "dim": "238 x 180 x 10.0 mm",
+  "state": {
+    "id": "quire",
+    "label": "Quire(s)"
+  },
+  "coll": "8x1 (8)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-8",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "233 x 178 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1m33f",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1m33f",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac NF M 42, Overtext (Christian Palestinian Aramaic)",
+            "locus": "ff. 1-8",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "cpa",
+                    "label": "Christian Palestinian Aramaic",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Christian Palestinian script (Aramaic Melkite)",
+                  "Two hands"
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black",
+                  "red"
+                ],
+                "note": [
+                  "Red ink for titles and punctuation"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "19–22 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1jh4b",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1jh4b",
+                  "reconstruction": false,
+                  "label": "(Christian Palestinian Aramaic) Gospel Lectionary / Evangelion (Byzantine rite)",
+                  "lang": [
+                    {
+                      "id": "chri1239",
+                      "label": "CPA"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s19p4w",
+                        "pref_title": "Evangelion",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          },
+                          {
+                            "id": "liturgical-texts",
+                            "label": "Liturgical texts"
+                          },
+                          {
+                            "id": "gospel-books",
+                            "label": "Gospel books"
+                          }
+                        ]
+                      },
+                      "alt_title": "(Christian Palestinian Aramaic) Gospel Lectionary / Evangelion (Byzantine rite)",
+                      "locus": "ff. 1r–8v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "... ܘܬܘܝܐ ܒܪ̈ܡ ܖܝ ܐܡܝܪ̈ ܐܢܐ ܠܟܘܢ ܕܨܘܪ ܘܠܨܝܕܝܢ ܝܗܐ ܢܝܚ ܒܝܘܡܗ ܖܕܝܢܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "as_written": "ܘܐܡܪ ܠܗ ܗܝܢܘܢ ܐܢܝܫ ܠܐ ܚܐܝܒ ܝܬ[ܟܝ] [ܗܝ] ܖܝ ܐܡܪ[ܬ ܘܠܐ ܐܢܫ] ܡܪܝ܀ ܐܡܪ [ܠܗ] ܡܪܐ ܐܝܣܘܣ܀ ܐܘܦ ܠܐ ܐܢܐ [ܠܝܬ] ܐܢܐ ܡܚܝܒ [ܠܝ]ܟܝ ܀ ܐܙܠܝ ...",
+                          "note": [
+                            "Corresponds to Jn. 8:10–11 (ed. Lewis and Gibson, p. 243, reading 200)",
+                            "Bears no rubric"
+                          ]
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "Acephalous reading, Mt. 11:21–30",
+                          "locus": "f. 1r–v"
+                        },
+                        {
+                          "label": "25 April, Evangelist Mark",
+                          "locus": "f. 1v–2r"
+                        },
+                        {
+                          "label": "30 <April>, apostle James, son of Zebedee",
+                          "locus": "f. 2r–v"
+                        },
+                        {
+                          "label": "15 June, Amos the prophet",
+                          "locus": "f. 3r"
+                        },
+                        {
+                          "label": "19 <June>, Ezekiel the prophet",
+                          "locus": "f. 3r–v"
+                        },
+                        {
+                          "label": "15 July, St. Cyricus and his mother Julitta",
+                          "locus": "ff. 3v–4v"
+                        },
+                        {
+                          "label": "14 August, St. Aeglon and 70 disciples, Micah the prophet",
+                          "locus": "f. 4v"
+                        },
+                        {
+                          "label": "16 <August>, St. GNDY (?)",
+                          "locus": "ff. 4v–5r"
+                        },
+                        {
+                          "label": "26 October, St. Demetrius",
+                          "locus": "f. 5r"
+                        },
+                        {
+                          "label": "13 <September>, Enkainia of Anastasis",
+                          "locus": "f. 5r–v"
+                        },
+                        {
+                          "label": "29 <September> St. Cyriacus <the Anchorite>",
+                          "locus": "f. 5v"
+                        },
+                        {
+                          "label": "Readings for various occasions",
+                          "locus": "f. 5v–7v"
+                        },
+                        {
+                          "label": "11 June, apostles Bartholomew and Barnabas",
+                          "locus": "ff. 7v–8r"
+                        },
+                        {
+                          "label": "defective rubric, Jn. 8:1–11",
+                          "locus": "f. 8r–v"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "355df1c4-b108-4ddd-9a02-24a5891d8676",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis and Gibson 1899",
+                          "citation": "Lewis, Agnes Smith and Margaret Dunlop Gibson. The Palestinian Syriac Lectionary of the Gospels. London: 1899"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1m33f"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+                        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "13th c. CE",
+                "iso": {
+                  "not_before": "1201",
+                  "not_after": "1300"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-geometric",
+                "label": "Decoration, Geometric"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Decorative bars in red and black"
+              }
+            ],
+            "bib": [
+              {
+                "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Philothée 2008",
+                "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+                "range": "[ΣΠ42N], pp. 448-463 (by A. Desreumaux)"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z18p7rqf"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). "
+                },
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1m356",
+          "label": "Greek Undertext: Homily on Genesis",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1–8",
+          "uto_ms_ark": "ark:/21198/z1vv2j6b",
+          "script": [
+            "Greek minuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "Early 10th c. CE",
+              "iso": {
+                "not_before": "0900",
+                "not_after": "0925"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation in bottom margin of recto"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Regular quire consisting of eight single-folios, sewn between ff. 4 and 5; stubs of conjoins barely detectable; no two folios are conjoins"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "The fragment (with consecutive folios) may be a complete quire; hence the quires of 8 ff. No visible quire signatures suggests that an outer bifolium is missing, in this case the quires of 10 ff. Final or penultimate quires of a codex."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Unbound quire; most of outer margin missing; large area at lower half missing throughout"
+    }
+  ],
+  "bib": [
+    {
+      "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Philothée 2008",
+      "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+      "range": "[ΣΠ42N], pp. 448-463 (by A. Desreumaux)"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1c53vvq/manifest",
+      "label": "SPP",
+      "text_direction": "right-to-left",
+      "behavior": "paged"
+    },
+    {
+      "type": {
+        "id": "alt",
+        "label": "Alternate"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz18p7rqf/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1q25rdg%2Fc8723z38/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2020 September",
+        "delivery": "7.2",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 1 cam., 740 ppi, 90mm lens"
+      },
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z1jx95z6",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -35,7 +38,108 @@
     "Hymnals",
     "Liturgical texts"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    801,
+    802,
+    803,
+    804,
+    805,
+    806,
+    807,
+    808,
+    809,
+    810,
+    811,
+    812,
+    813,
+    814,
+    815,
+    816,
+    817,
+    818,
+    819,
+    820,
+    821,
+    822,
+    823,
+    824,
+    825,
+    826,
+    827,
+    828,
+    829,
+    830,
+    831,
+    832,
+    833,
+    834,
+    835,
+    836,
+    837,
+    838,
+    839,
+    840,
+    841,
+    842,
+    843,
+    844,
+    845,
+    846,
+    847,
+    848,
+    849,
+    850,
+    851,
+    852,
+    853,
+    854,
+    855,
+    856,
+    857,
+    858,
+    859,
+    860,
+    861,
+    862,
+    863,
+    864,
+    865,
+    866,
+    867,
+    868,
+    869,
+    870,
+    871,
+    872,
+    873,
+    874,
+    875,
+    876,
+    877,
+    878,
+    879,
+    880,
+    881,
+    882,
+    883,
+    884,
+    885,
+    886,
+    887,
+    888,
+    889,
+    890,
+    891,
+    892,
+    893,
+    894,
+    895,
+    896,
+    897,
+    898,
+    899,
+    900
+  ],
   "ot_language_ssim": [
     "Greek"
   ],
@@ -54,23 +158,29 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Greek 699, SPP No. 217",
+  "shelfmark_tsi": "UTO Sinai Greek 699, SPP No. 217",
+  "shelfmark_tsort": "UTO Sinai Greek 699, SPP No. 217",
   "titles_tesim": [
     "Heirmologion"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
-  "places_tesim": [],
+  "places_tesim": [
+    "Sinai or Palestine"
+  ],
   "contents_tesim": [
     "Heirmologion"
   ],
   "paracontent_tesim": [],
   "full_text_tesim": [
+    "For other abbreviations of editions",
     "Greek",
     "Greek majuscule",
     "Greek minuscule",
     "Heirmologion",
     "Parchment",
     "Scrittura mista | Sloping pointed majuscule with introduction of minuscule letters (alpha and mu)",
+    "Sinai or Palestine",
     "UTO Sinai Greek 699, SPP No. 217",
     "ark:/21198/z1jx95z6",
     "spputos"
@@ -79,7 +189,7 @@
     "Pasquale Orsini"
   ],
   "last_modified_dtsi": "2025-12-20T00:44:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1jx95z6\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 699, SPP No. 217\",\"extent\":\"12 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"ff. 73–76, stub+77, 77–80, stub+81\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s10s78\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s10s78\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 699, Undertext (Greek majuscule, Greek minuscule)\",\"locus\":\"ff. 73–76, stub+77, 77–80, stub+81\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Scrittura mista | Sloping pointed majuscule with introduction of minuscule letters (alpha and mu)\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1nt2m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1nt2m\",\"reconstruction\":false,\"label\":\"Heirmologion\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1sp47\",\"pref_title\":\"Heirmologion\",\"genre\":[{\"id\":\"hymnals\",\"label\":\"Hymnals\"},{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}],\"rel_con\":[{\"label\":\"Heirmologion\",\"uri\":\"http://viaf.org/viaf/213239652\",\"source\":\"VIAF\"}]}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/s10s78\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/z11n8grf\",\"ark:/21198/z1jx95z6\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8grf/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19w0z1p/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z11n8grf\",\"shelfmark\":\"Sinai Greek 699\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1jx95z6\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Greek 699, SPP No. 217\",\"extent\":\"12 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"ff. 73–76, stub+77, 77–80, stub+81\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s10s78\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s10s78\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Greek 699, Undertext (Greek majuscule, Greek minuscule)\",\"locus\":\"ff. 73–76, stub+77, 77–80, stub+81\",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"},{\"id\":\"greek-min\",\"label\":\"Greek minuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Scrittura mista | Sloping pointed majuscule with introduction of minuscule letters (alpha and mu)\"]}],\"text_unit\":[{\"id\":\"ark:/21198/s1nt2m\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1nt2m\",\"reconstruction\":false,\"label\":\"Heirmologion\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s1sp47\",\"pref_title\":\"Heirmologion\",\"genre\":[{\"id\":\"hymnals\",\"label\":\"Hymnals\"},{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}],\"rel_con\":[{\"label\":\"Heirmologion\",\"uri\":\"http://viaf.org/viaf/213239652\",\"source\":\"VIAF\"}]}}],\"bib\":[{\"id\":\"36b520ea-e97b-42e5-b496-5ecbd515c236\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Follieri 1960-1966\",\"citation\":\"Follieri, Henrica. Initia hymnorum ecclesiae Graecae. Vols. I-V.2. Studi e testi (Vatican City, 1960-1966)\",\"range\":\"211-215bis\",\"note\":[\"For other abbreviations of editions\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/s10s78\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"9th c. CE\",\"iso\":{\"not_before\":\"0801\",\"not_after\":\"0900\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Sinai or Palestine\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"bib\":[{\"id\":\"36b520ea-e97b-42e5-b496-5ecbd515c236\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Follieri 1960-1966\",\"citation\":\"Follieri, Henrica. Initia hymnorum ecclesiae Graecae. Vols. I-V.2. Studi e testi (Vatican City, 1960-1966)\",\"range\":\"211-215bis\",\"note\":[\"For other abbreviations of editions\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"parent\":[\"ark:/21198/z11n8grf\",\"ark:/21198/z1jx95z6\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-oc\",\"collection\":\"Old Collection\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz11n8grf/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz19w0z1p/0,902,5412,5412/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Pasquale Orsini\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-20T00:44:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z11n8grf\",\"shelfmark\":\"Sinai Greek 699\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1jx95z6",
   "has_model_ssim": [
     "Work"
@@ -100,12 +210,18 @@
     "UTO Sinai Greek 699, SPP No. 217",
     "12 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "9th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "9th c. CE"
+  ],
   "extent_tesi": "12 fols.",
   "text_unit_labels_tesim": [
     "Heirmologion"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "9th c. CE"
+  ]
 }

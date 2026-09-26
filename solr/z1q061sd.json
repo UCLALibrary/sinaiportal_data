@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z1q061sd",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -34,7 +37,49 @@
     "Hymnals",
     "Liturgical texts"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    960,
+    961,
+    962,
+    963,
+    964,
+    965,
+    966,
+    967,
+    968,
+    969,
+    970,
+    971,
+    972,
+    973,
+    974,
+    975,
+    976,
+    977,
+    978,
+    979,
+    980,
+    981,
+    982,
+    983,
+    984,
+    985,
+    986,
+    987,
+    988,
+    989,
+    990,
+    991,
+    992,
+    993,
+    994,
+    995,
+    996,
+    997,
+    998,
+    999,
+    1000
+  ],
   "ot_language_ssim": [
     "Georgian"
   ],
@@ -53,12 +98,16 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Georgian NF M 7, SPP No. 145",
+  "shelfmark_tsi": "UTO Sinai Georgian NF M 7, SPP No. 145",
+  "shelfmark_tsort": "UTO Sinai Georgian NF M 7, SPP No. 145",
   "titles_tesim": [
     "Hymns"
   ],
   "names_tesim": [],
   "exerpts_tesim": [],
-  "places_tesim": [],
+  "places_tesim": [
+    "Tao-Klarjeti (Historical South Georgia)"
+  ],
   "contents_tesim": [
     "Hymns"
   ],
@@ -69,6 +118,7 @@
     "Nuskhuri, Mtavruli",
     "Nuskhurimt",
     "Parchment",
+    "Tao-Klarjeti (Historical South Georgia)",
     "UTO Sinai Georgian NF M 7, SPP No. 145",
     "ark:/21198/z1q061sd",
     "spputos"
@@ -77,7 +127,7 @@
     "Zaza Alexidze"
   ],
   "last_modified_dtsi": "2025-12-15T22:33:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1q061sd\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Georgian NF M 7, SPP No. 145\",\"extent\":\"33 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"ff. 13–45\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1nw6t\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1nw6t\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Georgian NF M 7, Undertext (Nuskhurimt)\",\"locus\":\"ff. 13–45\",\"writing\":[{\"script\":[{\"id\":\"nuskhurimt\",\"label\":\"Nuskhurimt\",\"writing_system\":\"Georgian\"}],\"note\":[\"Nuskhuri, Mtavruli\"]}],\"layout\":[{\"columns\":\"1 columns\",\"lines\":\"22 lines\"}],\"text_unit\":[{\"id\":\"ark:/21198/s19x15\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s19x15\",\"reconstruction\":false,\"label\":\"Hymns\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s18p4k\",\"pref_title\":\"Hymns\",\"genre\":[{\"id\":\"hymnals\",\"label\":\"Hymnals\"},{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Zaza Alexidze\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/s1nw6t\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Zaza Alexidze\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/z1ms4qq1\",\"ark:/21198/z1q061sd\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ms4qq1/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f48cpv/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Zaza Alexidze\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1ms4qq1\",\"shelfmark\":\"Sinai Georgian NF M 7\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z1q061sd\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Georgian NF M 7, SPP No. 145\",\"extent\":\"33 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"ff. 13–45\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1nw6t\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1nw6t\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Georgian NF M 7, Undertext (Nuskhurimt)\",\"locus\":\"ff. 13–45\",\"writing\":[{\"script\":[{\"id\":\"nuskhurimt\",\"label\":\"Nuskhurimt\",\"writing_system\":\"Georgian\"}],\"note\":[\"Nuskhuri, Mtavruli\"]}],\"layout\":[{\"columns\":\"1 columns\",\"lines\":\"22 lines\"}],\"text_unit\":[{\"id\":\"ark:/21198/s19x15\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s19x15\",\"reconstruction\":false,\"label\":\"Hymns\",\"lang\":[{\"id\":\"nucl1302\",\"label\":\"Georgian\"}],\"work_wit\":[{\"work\":{\"ark\":\"ark:/21198/s18p4k\",\"pref_title\":\"Hymns\",\"genre\":[{\"id\":\"hymnals\",\"label\":\"Hymnals\"},{\"id\":\"liturgical-texts\",\"label\":\"Liturgical texts\"}]}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Zaza Alexidze\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/s1nw6t\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"Late 10th c. CE\",\"iso\":{\"not_before\":\"0960\",\"not_after\":\"1000\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"assoc_place\":[{\"value\":\"Tao-Klarjeti (Historical South Georgia)\",\"event\":{\"id\":\"origin\",\"label\":\"Place of Origin\"}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Zaza Alexidze\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"parent\":[\"ark:/21198/z1ms4qq1\",\"ark:/21198/z1q061sd\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ms4qq1/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1f48cpv/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Zaza Alexidze\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-15T22:33:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1ms4qq1\",\"shelfmark\":\"Sinai Georgian NF M 7\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z1q061sd",
   "has_model_ssim": [
     "Work"
@@ -98,12 +148,18 @@
     "UTO Sinai Georgian NF M 7, SPP No. 145",
     "33 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "Late 10th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "Late 10th c. CE"
+  ],
   "extent_tesi": "33 fols.",
   "text_unit_labels_tesim": [
     "Hymns"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "Late 10th c. CE"
+  ]
 }

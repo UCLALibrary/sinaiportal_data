@@ -82,6 +82,10 @@
                           {
                             "id": "hagiographies",
                             "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrologies",
+                            "label": "Martyrologies"
                           }
                         ]
                       },
@@ -142,6 +146,16 @@
                 "translation": [
                   "[The copying of] this book, which is for the month of Tammūz [June–July], finished on 20 in the month of Īlūl [Elul; August–September] in the Year of Our Father Adam [Anno Mundi] 6843 …"
                 ],
+                "assoc_place": [
+                  {
+                    "value": "the Holy Monastery of Tur Sinai",
+                    "as_written": "طور سيناء",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    }
+                  }
+                ],
                 "assoc_date": [
                   {
                     "value": "1335 CE",
@@ -156,9 +170,6 @@
                       "20 Aylul 6843 (adam)"
                     ]
                   }
-                ],
-                "note": [
-                  "Attested places:  Mount Sinai"
                 ]
               }
             ],

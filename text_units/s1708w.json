@@ -1,0 +1,98 @@
+{
+  "ark": "ark:/21198/s1708w",
+  "reconstruction": false,
+  "label": "Hymns of Lazarus Saturday and Palm Sunday (fragment of the Triodion or the New Tropologion)",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "desc_title": "Hymns of Lazarus Saturday and Palm Sunday (fragment of the Triodion or the New Tropologion)"
+      },
+      "locus": "ff. 1r–8v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "heading",
+            "label": "Heading"
+          },
+          "locus": "f. 1r",
+          "as_written": "ܬܘܒ ܩܢܘܢܐ ܕܡܪܝ ܠܥܙܪ ܕܡܪܝܐ ܩܪܝܬܟ ܩܠܐ ܕܬܡܝܢܐ ",
+          "note": [
+            "Canon/akolouthia of [the feast of] St Lazarus. [Stichera] on Lord, I have cried, mode 8"
+          ]
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "locus": "f. 1r",
+          "as_written": "ܟܕ ܐܬܝܬ ܡܪܝ ܠܒܝܬ ܥܢܝܐ ܗܘ ܕܟܠ ܒܪܝܟ ܐܚܝܕ ܐܢܬ",
+          "note": [
+            "No exact correspondence in the printed Triodion"
+          ]
+        },
+        {
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "locus": "f. 8v",
+          "as_written": "ܢܒܐܝܬ [....] ܛܒܐ. ܟܕ ܪܟܝܒ ܐܢܬ ܥܠ",
+          "note": [
+            "No exact correspondence in the printed Triodion"
+          ]
+        }
+      ],
+      "contents": [
+        {
+          "label": "Lazarus Saturday",
+          "locus": "ff. 1r–3r"
+        },
+        {
+          "label": "Palm Sunday",
+          "locus": "ff. 3r–8v"
+        }
+      ],
+      "note": [
+        "The present quire and a separate folio (Syriac NF Fragment 63) formed parts of either the book of Triodion or the New Tropologion."
+      ]
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "contents",
+        "label": "Contents Note"
+      },
+      "value": "Liturgical text containing kathismata, invocations of the Holy Trinity, and words of the priest and deacon, fragments of St. Paul's Epistles"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:37+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s18p83"
+  ]
+}

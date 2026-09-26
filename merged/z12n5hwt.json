@@ -1,0 +1,1955 @@
+{
+  "ark": "ark:/21198/z12n5hwt",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 30",
+  "summary": "Codex Sinaiticus Syrus / Codex Sinaiticus Syriacus / Syriac Sinaiticus",
+  "extent": "181 ff.",
+  "dim": "220 x 160 x 127 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "I: ff. 1–10 ; II: ff. 11–20 ; III: ff. 21–30 ; IV: ff. 31–40 ; V: ff. 41–50 ; VI: ff. 51–60 ; VII: ff. 61–70 ; VIII: ff. 71–80 ; IX: ff. 81–90 ; X: ff. 91–100 ; XI: ff. 101–110 ; XII: ff. 111–120 ; XIII: ff. 121–130 ; XIV: ff. 131–140 ; XV: ff. 141–150 ; XVI: ff. 151–160 ; XVII: ff. 161–170 ; XVIII: ff. 171–181",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "binding",
+      "label": "Binding"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-181",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1mc9g",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1mc9g",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 30, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "19–29 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1dw9s",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1dw9s",
+                  "reconstruction": false,
+                  "label": "Lives of Holy Women",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Acts of Thecla",
+                        "genre": [
+                          {
+                            "id": "apocrypha",
+                            "label": "Apocrypha"
+                          },
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 2v–21r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܐ܀ ܩܕܡܐܝܬ ܟܬܒܐ ܕܛܘܒܢܝܬܐ ܡܪܬܝ ܬܩܠܐ ܬܠܡܝܕܬܗ ܕܦܘܠܘܣ ܫܠܝܚܐ ܛܘܒܢܐ ܐܚ̈ܝ ܨ̈ܠܘ ܥܠܝ",
+                          "translation": [
+                            "‘1’ First, the book of the blessed lady Thecla, the disciple of blessed apostle Paul; brothers, pray for me"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܟܕ ܣܠ̣ܩ ܗܘܐ ܦܘܠܘܣ ܠܐܝܩܢܘܢ ܟܪܟܐ ܒܬܪ ܪܕܘܦܝܗ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "... ܐܝܠܝܢ ܕܢܛܪܝܢ ܦܘܩ̈ܕܢܘܗܝ ܩܕܝܫܐܝܬ ܒܟܐܢܘܬܐ ܕܢܚܘܢ ܠܥܠܡ ܥܠܡܝܢ ܐܡܝܼܢ ܘܐܡܝܢ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܟܬܒܐ ܕܣܗܕܘܬܗ̇ ܕܛܘܒܢܝܬܐ ܡܪܬܝ ܬܩܠܐ ܕܐܣܗܕܬ ܒܐܝܩܢܘܢ ܡܕܝܢܬܐ ܘܒܐܢܛܝܘܟܝܐ ܕܣܘܪܝܐ ܘܫܟܒܬ ܒܫܠܡܐ ܠܘܬ ܡܫܝܚܐ ܡܟܠܠܢܗ̇ ܒܣܠܘܩܝܐ ܡܕܝܢܬܐ ܕܣܘܪܝܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "349d31fc-5b5e-4240-9f33-f6ea6fecab8c",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Wright 1871",
+                          "citation": "Wright, William, ed. Apocryphal Acts of the Apostles. Vol I. London: 1871",
+                          "range": "p. 128-169",
+                          "note": [
+                            "Not using the Sinai ms"
+                          ]
+                        },
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 290*–305*",
+                          "note": [
+                            "Collation of the Sinai ms against Wright’s edition"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Martyrdom of Eugenia",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 21r–62v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܒ܀ ܕܘܒܪ̈ܝܗ̇ ܘܣܗܕܘܬܗ̇ ܕܛܘܒܢܝܬܐ ܐܘܓܢܝܐ ܘܕܒܘܗ̇ (sic) ܦܝܠܝܦܘܣ ܘܕܟܠܗܘܢ ܕܐܣܗܕܘ ܥܡܗܘܢ",
+                          "translation": [
+                            "‘2’ The acts and the martyrdom of the Blessed Eugenia and of her father Philip and of all who were martyred with them"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܟܕ ܡܡܠܟ ܗܘܐ ܩܘܡܘܕܘܣ ܐܚܝܕ ܫܘܠܛܢܐ ܕܥܠܡܐ ܥܒܘܪܐ. ܒܡܕܝܢܬܐ ܪܒܬܐ ܘܡܫܡܗܬܐ ܪܗܘܡܐ ܒܗܘܦܛܝܐ ܕܝܠܗ ܕܫܒܥ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܫܦܪ̈ܘ ܓܝܪ ܒܕܘܒܪ̈ܝܗܘܢ ܠܡܫܝܝܝܐ: ܘܥܠܘ ܘܐܬܚܠܛܘ ܒܓܘ̈ܕܐ ܫܒܝ̈ܚܬܐ ܕܟܐ̈ܢܐ ܘܙܕܝ̈ܩܐ: ܕܥܡܗܘܢ ܐܦ ܐܢܚܢܢ ܢܫܬܘܐ ܕܢܗܘܐ ܝܖ̈ܘܬܐ ܒܡܠܟܘܬܐ ܕܫܡܝܐ: ܒܛܝܒܘܬܗ ܘܒܡܪܚܡܢܘܬܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܥܡܗ ܐܦ ܠܐܒܘܗܝ ܬܫܒܘܚܬܐ ܘܐܝܩܪܐ ܘܩܘܠܣܐ ܘܪܘܡܪܡܐ ܥܡ ܪܘܚܐ ܕܩܘܕܫܐ ܗܫܐ ܘܒܟܠ ܙܒܢ ܘܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܣܗܕܘܬܐ ܕܐܘܓܢܝܐ ܛܘܒܢܝܬܐ ܘܕܟܠܗܘܢ ܣܗ̈ܕܐ ܩܕܝ̈ܫܐ ܕܐܣܗܕܘ ܥܡܗ̇ ܫܘܒܚܐ ܠܗ̇ܘ ܟܣܝܐ ܕܐܬܓܠܝ ܒܦܓܪܢ ܘܚܙܝܢܝܗ (sic) ܠܠܐ ܡܬܚܙܝܢܐ ܒܦܓܪܢ ܡܬܚܙܝܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 1*–48*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Life of Pelagia",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 63r–70r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܓ܀ ܬܫܥܝܬܐ ܕܕܘܒܪ̈ܐ ܡܝܬܪ̈ܐ ܕܬܘܠܡܕܗ̇ ܕܦܠܓܝܐ ܙܢܝܬܐ ܕܡܢ ܐܢܛܝܟܝܐ ܡܕܝܢܬܐ ܕܣܘܪܝܐ",
+                          "translation": [
+                            "‘3’ The story of the virtuous acts of the conversion of Pelagia the harlot from the city of Antioch in Syria"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܡܢ ܝܥܩܘܒ ܡܫܡܫܢܐ ܚܛܝܐ. ܠܡܗܝ̈ܡܢܐ ܘܪ̈ܘܚܢܐ ܒܡܪܢ ܫܠܡ܀ ܥܠ ܬܘܠܡܕܗ̇ ܕܦܠܓܝܐ ܙܢܝܬܐ ܙܒܝܬ ܕܐܟܬܘܒ ܠܟܘܢ. ܩܕܝ̈ܫܐ ܐܒܗ̈ܝ ܘܐܚ̈ܝ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܡܢ ܚܛܝܘܬܝ ܕܚܙܝܬ ܘܟܬܒܬ ܕܘܒܪ̈ܐ ܗܠܝܢ: ܫܘܒܚܐ ܘܐܝܩܪܐ ܘܬܘܕܝܬܐ ܠܐܒܐ ܘܠܒܪܐ ܘܠܪܘܚܐ ܕܩܘܕܫܐ ܗܫܐ ܘܒܟܠ ܙܒܢ ܘܠܥܠܡ ܥܠܡܝܢ ܐܡܝ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܬܫܥܝܬܐ ܕܦܠܓܝܐ ܙܢܝܬܐ ܕܬܒ̣ܬ ܡܢ ܚܛܗ̈ܝܗ ܨܠܘܬܗ̇ ܥܠ ܕܟܬ̣ܒ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "3016b860-5337-4f44-9b56-2a1ba0d9dac1",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Gildemeister 1879",
+                          "citation": "Gildemeister, Johann. Acta S. Pelagiae syriace. Bonn: 1879",
+                          "range": "p. 306*–325*",
+                          "note": [
+                            "Not using the Sinai ms"
+                          ]
+                        },
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "note": [
+                            "Collation of the Sinai ms against Gildemeister’s edition"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Life of Marina",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 70r–76v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܕ܀ ܬܘܒ ܬܫܥܝܬܐ ܕܛܘܒܢܝܬܐ ܡܪܝܐ ܕܐܬܩܪܝܬ ܡܪܝܢܘܣ",
+                          "note": [
+                            "‘4’ The story of the blessed Mary, who was (also) called Marinos"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܬܫܒܘܚܬܐ ܘܬܘܕܝܬܐ ܘܣܓܕܬܐ ܠܐܠܗܐ ܪܚ̇ܡ ܐܢܫ̈ܐ. ܗ̇ܘ ܕܦܬܝܚ ܬܪܥܗ ܒܟܠ ܙܒܢ ܠܬܝ̈ܒܐ. ܘܡ̇ܢ ܕܠܐ ܥܐ̇ܠ ܡܢ ܕܝܠܗ ܗ̣ܝ ܟܠܝܬܐ …"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "… ܕܥܡܗ̇ ܢܬܠ ܠܢ ܡܪܢ ܕܢܫܟܚ ܛܝܒܘܬܐ ܘܪ̈ܚܡܐ ܘܡܢܬܐ ܕܩܕܝ̈ܫܐ. ܒܝܘܡܐ ܕܚܝܠܐ ܕܕܝܢܐ. ܒܡܪܢ ܝܫܘܥ ܡܫܝܚܐ. ܗ̇ܘ ܕܠܗ ܥܡ ܐܒܘܗܝ ܘܪܘܚܗ ܚܝܐ ܘܩܕܝܫܐ ܫܘܒܚܐ ܘܐܝܩܪܐ ܘܣܓܕܬܐ ܠܥܠܡ ܥܠܡܝܢ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܬܫܥܝܬܐ ܕܛܘܒܢܝܬܐ ܡܪܝܐ܀ ܡܪܝܢܘܣ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 48*–61*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Life of Euphrosyne",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 76v–85r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܗ܀ ܬܘܒ ܬܫܥܝܬܐ ܕܐܘܦܪܘܣܝܢܐ ܒܐܠܟܣܢܕܪܝܐ",
+                          "translation": [
+                            "‘5’ The story of Euphrosyne in Alexandria"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܐܝܬ ܗܘܐ ܕܝܢ ܒܙܒܢ ܒܡܕܝܢܬܐ ܪܒܬܐ ܐܠܟܣܢܕܪܝܐ. ܓܒܪܐ ܚܕ ܡܝܩܪܐ ܘܫܡܗ ܗܘܐ ܦܦܢܛܘܣ: ܘܚܦܝܛ ܗܘܐ ܕܢܫܡܠܐ ܦܘܩ̈ܕܢܘܗܝ ܕܐܠܗܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "...ܘܫܒ̣ܩ ܐܪ̈ܥܢܝܬܐ ܘܐܬܩܒܪ ܥܠ ܓܪ̈ܡܝܗ̇ ܕܩܕܝܫܬܐ ܐܘܦܪܘܣܝܢܐ ܒܪܬܗ: ܠܬܫܒܘܚܬܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩܘܕܫܐ ܕܠܗ ܦܐܐ ܫܘܒܚܐ ܘܐܝܩܪܐ ܠܥܠܡ ܥܠܡܝܢ ܐܡܝ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܬܫܥܝܬܐ ܕܐܙܡܪܓܕܘܣ ܕܡܢ ܐܠܟܣܢܕܪܝܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 61*–80*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Life of Onesima",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 85v–91v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܘ܀ ܬܫܥܝܬܐ ܬܘܒ ܕܛܘܒܢܝܬܐ ܐܢܣܝܡܘܣ",
+                          "translation": [
+                            "‘6’ The story of the blessed Onesima"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܐܢܬܬܐ ܚܕܐ ܛܘܒܢܝܬܐ ܐܝܬ ܗܘܐ ܒܐܓܒܛܘܣ. ܕܫܡܗܿ ܗܘܐ ܐܢܣܝܡܐ. ܕܐܝܬܝܗ̇ ܗܘܬ ܒܪܬ ܡܠܟܐ. ܘܐܝܬ ܗܘܐ ܠܐܒ̈ܗܝܗ̇ ܚܡܫܥܣܪ̈ܐ ܡܕܝ̈ܢܢ ܒܥܠܡܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܗܐ ܕܘܟܪܢܗ̇ ܡܬܝܒܠ ܥܕܡܐ ܠܡܐܬܝܬܗ ܕܒܪܗ ܕܐܠܗܐ: ܕܠܗ ܘܠܐܒܘܗܝ ܘܠܪܘܚܐ ܕܩܘܕܫܐ ܫܘܒܚܐ ܘܐܝܩܪܐ ܘܣܓܕܐ ܠܥܠܡ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܬܫܥܝܬܐ ܕܛܘܒܢܝܬܐ ܐܢܣܝܡܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 81*–93*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Martyrdom of Drosis",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 91v–95v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܙ܀ ܬܘܒ ܣܗܕܘܬܐ ܕܩܕܝܫܬܐ ܕܪܘܣܝܣ ܘܕܐܝܠܝܢ ܕܣܗܕܘ ܗܘܘ ܥܡܗ̇ ܒܐܢܛܝܟܝܐ",
+                          "translation": [
+                            "‘7’ The martyrdom of saint Drosis and of those who were martyred with her in Antioch"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܒܡܠܟܘܬܗ ܕܐܛܪܝܢܘܣ ܥܘܠܐ ܘܪܫܝܥܐ ܐܝܬ ܗܘܐ ܠܗ ܒܪܬܐ ܒܪܬ ܓܘܫܡܗ. ܐܠܐ ܠܐ ܗܘܬ ܒܪܬ ܗܝܡܢܘܬܗ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܠܝܘܡܐ ܕܬܡ̈ܢܝܐ. ܐܬܟܠܠܬ ܒܝܘܩܕܢܐ ܕܐܬܘܢܐ ܥܡ ܗ̇ܢܘܢ ܡܗܝ̈ܡܢܐ ܐܫܠܡܬ ܪܘܚܗ̇ ܒܬܫܒܘܚܬܐ ܕܐܠܗܐ ܐܒܐ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ. ܗ̇ܘ ܕܠܗ ܫܘܒܚܐ ܘܐܝܩܪܐ ܠܥܠܡ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܬܫܥܝܬܐ ܕܕܪܘܣܝܢܐ ܘܕܐܝܠܝܢ ܕܥܡܗ̇ ܣܗܕܘ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 93*–101*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Life of Barbara",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 95v–100r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܚ܀ ܬܘܒ ܬܫܥܝܬܐ ܕܩܕܝܫܬܐ ܒܪܒܪܐ ܒܡܕܝܢܬ ܫܡܫܐ",
+                          "translation": [
+                            "‘8’ The story of Barbara in Heliopolis"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܒܙܒ̈ܢܐ ܗܢܘܢ ܕܡܕܒܪܢܘܬܐ ܕܐܟܣܝܡܝܘܣ ܥܘܠܐ ܘܪܫܝܥܐ. ܐܝܬܘܗܝ ܗܘܐ ܗܢܐ ܗܓܡܘܢܐ ܐܩܝܢܘܣ. ܘܐܝܬ ܗܘܐ ܕܝܢ ܪܕܘܦܝܐ ܪܒܬܐ ܠܟܪ̈ܣܛܝܢܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": ".ܐܬܟܠܠܬ ܕܝܢ ܩܕܝܫܬܐ ܒܪܒܪܐ ܒܐܝܪܚ ܟܢܘܢ ܩܕܡ ܒܐܪ̈ܒܥܐ ܒܗ. ܕܠܗ ܠܐܠܗܐ ܫܘܒܚܐ ܘܐܝܩܪܐ ܠܥܠܡ ܥܠܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܣܗܕܘܬܐ ܕܩܕܝܫܬܐ ܒܪܒܪܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 101*–110*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Martyrdom of Mary",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 100v–105v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܛ܀ ܬܘܒ ܣܗܕܘܬܐ ܕܡܪܝܐ [ܛܘܒܢܝܬܐ]",
+                          "translation": [
+                            "‘9’ The martyrdom of the [blessed] Mary"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܗܕܪܝܢܘܣ ܘܐܛܘܢܝܢܘܣ ܡܠܟ̈ܐ ܥܘ̈ܠܐ ܫܕܪܘ ܦܘܩܕܢܐ ܕܡܠܟܘܬܗܘܢ. ܕܟܠ ܐܢܫ ܕܠܡܫܝܚܐ ܣ̇ܓܕ. ܢܗܦܘܟ ܠܕܚܠܬܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܕܥܡܗ̇ ܢܬܠ ܠܢ ܡܪܝܐ ܐܠܗܐ ܕܢܫܟܚ ܪ̈ܚܡܐ ܒܝܬ ܕܝܢܐ ܒܐܬܪܐ ܕܗ̇ܘܐ ܒܗ ܦܘܪܥܢܐ ܠܙܕܝ̈ܩܐ ܘܟܘܐܪܐ ܠܚܛܝ̈ܐ. ܒܛܝܒܘܬܗ ܘܒܡܪܚܡܢܘܬܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ. ܕܥܡܗ ܐܦ ܠܐܒܘܗܝ ܫܘܒܚܐ ܘܐܝܩܪܐ ܥܡ ܪܘܚܐ ܕܩܘܕܫܐ ܠܥܠܡ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܣܗܕܘܬܐ ܕܡܪܝܐ ܛܘܒܢܝܬܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 111*–122*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Life of Irene",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 105v–137v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܝ܀ ܬܘܒ ܬܫܥܝܬܐ ܕܐܝܪܝܢܝܐ ܩܕܝܫܬܐ",
+                          "translation": [
+                            "‘10’ The story of Saint Irene"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܫܠܡܬ ܬܫܥܝܬܐ ܕܐܝܪܝܢܐ ܛܘܒܢܝܬܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܕܫܬܐ ܫܒܘܪ ܡܠܟܐ ܦܪܣܝܐ܇ ܗ̇ܘ ܕܨܐ̈ܕܘܗܝ ܫܠܡܬ ܪܗܛܐ ܕܐܓܘܢܗ̇. ܫܘܒܚܐ ܠܗ ܠܡܫܝܚܐ ܕܚܝܠܗ̇ ܠܒܬܘܠܬܐ ܘܙܟܬ ܠܟܠܗܝܢ ܨܢܥ̈ܬܗ ܕܐܟܠ ܩܪܨܐ܆ ܕܥܡܗ̇ ܢܬܠ ܠܢ ܡܫܝܚܐ ܐܠܗܐ ܡܢܬܐ ܘܝܪܬܘܬܐ ܒܡܠܟܘܬܗ ܕܫܡܝܐ. ܘܨܠܘܬܗ̇ ܥܠ ܚܛܝܐ ܕܐܬܚܦܛ ܘܟ̇ܬܒ ܣܗܕܘܬܗ̇ ܠܥܠܡ ܥܠܡܝܢ."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܬܫܥܝܬܐ ܕܐܝܪܝܢܐ ܛܘܒܢܝܬܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 123*–194*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Martyrdom of Euphemia",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 137v–148v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܝܐ܀ ܬܘܒ ܣܗܕܘܬܐ ܕܐܘܦܡܝܐ ܛܘܒܢܝܬܐ ܕܗܘ̣ܬ ܥܠ ܡܝܠܐ ܡܢ ܟܠܩܝܕܘܢܐ ܡܕܝܢܬܐ ܒܝܘ̈ܡܝ ܐܘܛܩܪܛܘܪ ܛܪܝܢܘܣ ܩܣܪ",
+                          "translation": [
+                            "‘11’ The martyrdom of the blessed Euphemia, which took place a mile from the city of Chalcedon, in the days of the Emperor Traian the Caesar"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܟܕ ܐܝܬܘܗܝ ܗܘܐ ܦܪܝܣܩܘܣ ܐܢܬܘܦܛܘܣ ܒܐܘܪܘܦܐ: ܐܝܬ ܗܘܐ ܟܢܫܐ ܣܓܝܐܐ ܕܟܪ̈ܣܛܝܢܐ ܒܟܠܩܝܕܘܢܐ ܡܕܝܢܬܐ …"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܗ̣ܘ ܓܝܪ ܐܢܬܘܦܛܘܣ ܒܟܘܪܗܢܐ ܩܫܝܐ ܢܦ̣ܠ ܗܘܐ. ܘܡܫܬܢܩ ܗܘܐ ܡܪܝܪܐܝܬ ܐܝܟ ܡܠܬܗܿ ܕܛܘܒܢܝܬܐ ܕܐܡܪܬ ܠܗ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܣܗܕܘܬܐ ܕܐܘܦܡܝܐ ܩܕܝܫܬܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 194*–218*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Martyrdom of Sophia and her three daughters",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 149r–160r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܝܒ܀ ܬܘܒ ܣܗܕܘܬܐ ܕܣܘܦܝܐ ܘܕܬܠܬ ܒܢ̈ܬܗ̇ ܒܬܘ̈ܠܬܐ ܦܝܣܛܝܣ ܘܗܠܦܝܣ ܘܐܓܦܐ",
+                          "translation": [
+                            "‘12’ The martyrdom of Sophia and her three daughters, virgins, Pistis, Elpis and Agape"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܒܛܝܒܘܬܗ ܕܐܠܗܐ ܣܒܪܬܐ ܬܚܝܬ ܫܡܝܐ ܒܐܪܥܐ ܟܠܗ̇ ܐܙܕܪܥܬ. ܡܢ ܝܫܘܥ ܡܫܝܚܐܡܪܢ ܦܪܘܩܐ ܕܟܠܗܘܢ ܒܢܝ̈ܢܫܐ. ܕܢܗܝܡܢ ܟܠܢܫ ܒܐܠܗܐ ܐܚܝܕ ܟܠ\"..."
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܟܕ ܗܠܝܢ ܐܡ̣ܪ ܐܝܠܠ ܒܩܠܐ ܪܡܐ. ܘܐܨܛܪܝ ܠܬܪܝܢ ܐܬܒܕܪ ܒܣܪܗ ܡܢܗ. ܘܓܪ̈ܡܘܗܝ ܠܐ ܐܫܬܟܚܘ. ܘܗܕܐ ܒܢܒܝܘܬܐ ܗܘܬ ܠܗ. ܠܪܫܝܥܐ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܣܗܕܘܬܐ ܕܣܘܦܝܐ ܘܕܬܠܬ ܒܢ̈ܬܗ̇"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 218*–244*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Martyrdom of Theodosia",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 160r–161r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܝܓ܀ ܬܘܒ ܣܗܕܘܬܐ ܕܬܐܕܣܝܐ ܒܬܘܠܬܐ ܕܐܠܗܐ ܒܫܢܬ ܚܡܫ ܕܪܕܘܦܝܐ ܕܒܝܘ̈ܡܬܢ",
+                          "translation": [
+                            "‘13’ The martyrdom of Theodosia the virgin in the fifth year of persecution in our days"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܒܫܢܬ ܚܡܫ ܕܪܕܘܦܝܐ ܕܒܝܘ̈ܡܬܢ ܐܬܡܬܚ ܗܘܐ. ܘܝܪܚܐ ܐܝܬܘܗܝ ܢܝܣܢ ܘܒܬܪܟܢ ܒܗ ܒܝܪܚܐ ܗܢܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "(sic) ܝܘܡܐ ܕܝܢ ܕܚܕ ܒܫܒܐ ܗܘܐ. ܟܕ ܗܠܝܢ ܒܩܣܝܐ / ܡܕܝܢܬܐ ܐܣܬܥܪ: ܕܠܐ ܠܐܠܗܐ ܫܘܒܚܐ ܘܐܝܩܪܐ ܘܣܓܕܬܐ ܠܥܠܡ ܥܠܡܝܢ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܣܗܕܘܬܐ ܕܬܐܕܣܝܐ ܒܬܘܠܬܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "fe38984e-1738-4404-aad0-770c3304b96a",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Assemani 1748",
+                          "citation": "Assemani, Joseph S. Acta sanctorum martyrum Orientalium et Occidentalium. Vol. 2. Rome: 1748",
+                          "range": "p. 204–206"
+                        },
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 326*",
+                          "note": [
+                            "Collation of the Sinai ms against Wright’s edition"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Martyrdom of Theodota",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 161r–163v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܝܕ܀ ܬܘܒ ܣܗܕܘܬܐ ܕܬܐܕܘܛܐ ܙܢܝܬܐ",
+                          "translation": [
+                            "‘14’ The martyrdom of Theodota the harlot"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܒܫܢܬ ܫܒܥܡܐܐ ܘܐܪܒܥܝܢ ܘܬܪ̈ܬܝܢ. ܪܕܘܦܝܐ ܩܡ ܥܠܝܢ. ܒܝܪܚ ܐܝܠܘܠ. ܒܝܘܡܐ ܕܥܪܘܒܬܐ: ܒܦܝܠܝܦܘܣ ܡܕܝܢܬܐ. ܐܓܪܦܘܣ ܗܓܡܘܢܐ ܕܒܚ ܠܐܠܗ̈ܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": ".ܘܪܓܡܘܗ̇ ܠܬܐܕܛܐ. ܘܢܦܫܗ̇ ܠܡܠܟܘܬܐ ܕܫܡܝܐ ܫܢܝܬ. ܫܘܒܚܐ ܠܡܚܝܠܢܐ ܕܐܝܠܝܢ ܕܣܒܪܝܢ ܒܗ. ܐܦ ܗܫܐ ܘܠܥܠܡ ܥܠܡܝܢ ܐܡܝ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܣܗܕܘܬܐ ܕܬܐܕܘܛܐ ܙܢܝܬܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "fe38984e-1738-4404-aad0-770c3304b96a",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Assemani 1748",
+                          "citation": "Assemani, Joseph S. Acta sanctorum martyrum Orientalium et Occidentalium. Vol. 2. Rome: 1748",
+                          "range": "p. 221–224"
+                        },
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 327*–328*",
+                          "note": [
+                            "Collation of the Sinai ms against Wright’s edition"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Creed",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 163v–165v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "ܬܘܒ ܡܦܩ ܒܪܘܚܐ ܕܥܠ ܐܦܝ̈ ܗܝܡܢܘܬܐ",
+                          "translation": [
+                            "Apology for the faith"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܡܗܝܡܢ ܐܢܐ ܒܚܕܐ ܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ ܕܐܒܐ ܘܕܒܪܐ ܘܕܪܘܚܐ ܕܩܘܕܫܐ ܐܝܬܘܬܐ ܒܫܒܚܬܐ / ܘܐܠܗܘܬܐ ܡܪܝܡܬܐ (sic)"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܒܛܝܒܘܬܗ ܢܦܢܐ ܐܢܘܢ ܠܝܕܥܬܐ ܕܫܪܪܐ. ܘܥܠ ܟܠ ܪ̈ܚܡܘܗܝ ܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܡܦܩ ܒܪܘܚܐ ܕܥܠ ܐܦܝ̈ ܗܝܡܢܘܬܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "3cbf71e0-1b92-419b-803c-b6d29754bf65",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Bensley, Harris, and Burkitt 1894",
+                          "citation": "Bensley, Robert Lubbock, James Rendel Harris, and Francis C. Burkitt. The Four Gospels in Syriac transcribed from the Sinaitic Palimpsest. Cambridge, 1894",
+                          "range": "p. viii–xii"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "History of Susanna",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 166r–169v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܝܗ܀ ܬܘܒ ܟܬܒܝܢܢ ܟܬܒܐ ܕܫܘܫܢ",
+                          "translation": [
+                            "‘15’ We write the book of Susanna"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܐܝܬ ܗܘܐ ܓܒܪܐ ܚܕ ܘܥܡܪ ܗܘܐ ܒܒܒܠ. ܫܡܗ ܝܘܝܩܝܡ. ܗ̣ܘ ܗܢܐ ܢܣ̣ܒ ܐܢܬܬܐ ܘܫܡܗ̇ ܫܘܫܢ. ܒܪܬܗ ܕܒܠܩܝܐ …"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܡܫܒܚܝܢ ܗܘܘ ܪܘܪܒܐܝܬ ܠܫܡܗ ܕܐܠܗܐ: ܘܕܢܝܐܝܠ ܡܬܚܙܐ ܗܘܐ ܠܥܡܐ ܕܪܒ ܡܢ ܟܠܗܘܢ ܘܐ[ܘܪ]ܒܗ ܐܠܗܐ ܡܢ ܝܘܡܐ ܗ̇ܘ ܘܠܗܠ ܘܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡܬ ܟܬܒܐ ܕܫܘܫܢ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 282*–289*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Martyrdom of Cyprian and Justa",
+                        "genre": [
+                          {
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 170r–180r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܝܘ܀ ܬܘܒ ܣܗܕܘܬܐ ܕܩܘܦܪܝܢܐ ܚܪܫܐ ܘܕܝܘܣܛܐ ܒܬܘܠܬܐ",
+                          "translation": [
+                            "‘16’ The martyrdom of Cyprian the wizard and of Justa the virgin"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "ܒܕܢܚܗ ܕܦܪܘܩܢ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܕܡܢ ܫܡܝܐ ܥܠ ܐܪܥܐ: ܘܒܫܘܠܡ ܡܠܝ̈ܗܘܢ ܕܢܒܝ̈ܐ܆ ܟܠܗ ܬܚܝܬ ܫܡܝܐ ܐܬܢܗܪ. ܕܒܚܕ ܐܠܗܐ ܐܒܐ ܐܚܝܕ ܟܠ …"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܗܢܝܢ ܕܝܢ ܗܠܝܢ ܐܣܬܥܪ ܒܗܘܦܛܝܐ ܕܕܘܩܠܛܝܢܘܣ. ܒܡܕܝܢܬܐ ܝܕܝܥܬܐ ܕܐܝܬܝܗ̇ ܢܝܩܡܘܕܝܐ: ܒܚܡܫܥܣܪ̈ܐ ܒܝܪܚܐ ܕܡܬܩܪܐ ܝܘܢܝܣ. ܕܐܝܬܘܗܝ ܚܙܝܪܢ: ܟܕ ܡܡܠܟ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܒܫܡܝܐ ܘܒܐܪܥܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܠܡܟܬܒ ܬܫܥܝܬܐ ܕܩܘܦܪܝܢܐ ܚܪܫܐ ܘܕܝܘܣܛܐ ܒܬܘܠܬܐ"
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 245*–278*"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Ephrem of Nisibis, Hymns on Paradise (selected stanzas)",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1v887",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1v887",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Ephrem the Syrian, Saint, 303-373",
+                              "alt_name": [
+                                "Ephrem the Syrian",
+                                "ܐܦܪܝܡ"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "303-373",
+                                "iso": {
+                                  "not_before": "0303",
+                                  "not_after": "0373"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://viaf.org/viaf/100177778",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Ephraem, Syrus, Saint, 303-373",
+                                  "uri": "http://id.loc.gov/authorities/names/n50082928",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Ephrem, of Nisibis, 303-373",
+                                  "uri": "https://w3id.org/haf/person/818572788967",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Ephrem",
+                                  "uri": "http://syriaca.org/person/13",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Ephraem Graecus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/995/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "hymnals",
+                            "label": "Hymnals"
+                          }
+                        ]
+                      },
+                      "locus": "ff. 180r–181r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": "܀ܝܙ܀ ܬܘܒ ܒ̈ܬܐ ܕܡܪܝ ܐܦܪܝܡ ܡܢ ܡܕܪ̈ܫܐ ܕܦܪܕܝܣܐ",
+                          "translation": [
+                            "‘17’ Stanzas from Мār Ephrem’s madrāshē on Paradise"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܟܢܫܐ ܕܩܕܝ̈ܫܐ ܒܛܘܦܣܐ ܗܘ ܕܦܪܕܝܣܐ ܦܐܪܗ ܕܡܚܐ ܟܠ ܒܗ ܡܬܩܛܦ ܟܠܝܘܡ"
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܕܢ[ܟܠܠܘ]ܢ ܥܩܒܗ̇ ܡܣܬܪܗܒܝܢ ܦܩ̈ܚܐ. ܚܒܨܝܢ ܕܡܢ ܢܩܕܘܡ ܢܢܫܩ ܠܕܘܪ̈ܟܬܗ̇ ..."
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "0f525edc-4e1b-4c8c-8be3-20e43d9f1383",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Lewis 1900",
+                          "citation": "Lewis, Agnes Smith. Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest. Studia Sinaitica IX. London: 1900",
+                          "range": "p. 278*–280*"
+                        },
+                        {
+                          "id": "7db34ec1-cddc-4fb1-9155-282919be0730",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Beck 1957",
+                          "citation": "Beck, Edmund, ed. Des Heiligen Ephraem des Syrers Hymnen de Paradiso und Contra Julianum, CSCO 174 – 175, Scr. Syri 78 – 79. Leuven: 1957",
+                          "note": [
+                            "Complete edition of the hymns On Paradise"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "para": [
+                    {
+                      "type": {
+                        "id": "framing",
+                        "label": "Framing"
+                      },
+                      "subtype": [
+                        {
+                          "id": "concl-rubric",
+                          "label": "Concluding rubric"
+                        }
+                      ],
+                      "locus": "f. 181r",
+                      "lang": [
+                        {
+                          "id": "class1252",
+                          "label": "Syriac"
+                        }
+                      ],
+                      "label": "General conclusion",
+                      "as_written": "ܫܘܒܚܐ ܠܐܒܐ ܘܠܒܪܐ ܘܠܪܘܚܐ ܕܩܘܕܫܐ ܗܫܐ ܘܒܟܠ ܙܒܢ ܘܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ: / ܫܠܡ ܒܟܬܒܐ ܗܢܐ ܬܫܥܝ̈ܬܐ ܡܓܒܝ̈ܬܐ ܩܕܡܝܬܐ ܕܛܘܒܢܝܬܐ ܬܩܠܐ ܕܬܪ̈ܬܝܢ ܕܐܘܓܢܝܐ ܕܬܠܬ ܕܦܠܓܝܐ ܕܪ̈ܒܥ ܕܡܪܝܢܘܣ ܕܚܡܫ ܕܐܘܦܪܘܣܝܢܐ ܕܫܬ ܕܐܢܣܝܡܐ ܕܫܒܥ ܕܕܪܘܣܝܣ ܕܬܡ̈ܢܐ ܕܒܪܒܪܐ ܕܬܫܥܐ ܕܡܪܝܐ ܕܥܣܪ ܕܐܝܪܝܢܐ ܕܚܕܥܣܪ̈ܐ ܕܐܘܦܡܝܐ ܕܬܪܬܥܣܪ̈ܐ ܕܣܘܦܝܐ ܕܬܠܬܥܣܪ̈ܐ ܕܬܐܕܣܝܐ ܕܐܪ̈[ܒܥܣܪܐ] ܕܬܐܕܘܛܐ ܘܒܬܪ ܗܕܐ ܡܦܩ ܒܪܘܚܐ ܗܝܡܢܘܬܐ ܕܚܡܫܥܣܪ̈ܐ ܕܫܘܫܢ ܕܫܬܥܣܪ̈ܐ ܕܩܘܦܪܝܢܐ ܘܕܝܘܣܛܐ ܕܫܒܥܣܪ̈ܐ ܒ̈ܬܐ ܕܥܠ ܦܪܕܝܣܐ",
+                      "translation": [
+                        "Glory to the Father and to the Son and to the Holy Spirit. / The book of the selected stories is completed. First, of the blessed Thecla; second, of Eugenia; third, of Pelagia; fourth, of Marinus; fifth, of Euphrosyne; sixth, of Onesima; seventh, of Drosis; eight, of Barbara; ninth, of Mary; tenth, of Irene; eleventh, of Euphemia; twelfth, of Sophia; thirteenth, of Theodosia; fourteenth, of Theodota; and after this one an apology for the faith; fifteenth, of Susanna; sixteenth, of Cyprian and Justa; seventeenth, stanzas about the paradise."
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1mc9g"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+                        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
+                "locus": "f. 165v",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "as_written": "ܫܘܒܚܐ ܠܐܒܐ ܘܠܒܪܐ ܘܠܪܘܚܐ ܕܩܘܕܫܐ ܕܚܝܠ ܘܥܕܪ ܠܥܒܕܗ ܒܨܝܪܐ ܘܚܠܫܐ ܝܘܚܢܢ ܘܟܬܒ ܦܢܩܝܬܐ ܗܕܐ ܠܝܘܬܪܢܐ ܕܢܦܫܗ ܘܕܐܚܘ̈ܗܝ ܐܢܕܪܝܐ ܘܕܟܠ ܡܢܘ ܕܩ̇ܪܐ ܒܗ ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܒܪܐ ܝܚܝܕܝܐ ܗ̇ܘ ܕܐܝܬܘܗܝ ܥܡ ܐܒܐ ܕܠܐ ܫܘܪܝ ܒܐܠܗܘܬܗ ܒܙܒ̈ܢܐ ܕܝܢ ܐܚܪ̈ܝܐ ܨܒ̣ܐ ܕܢܗܘܐ ܬܚܝܬ ܫܘܪܝܐ ܒܐܢܫܘܬܗ ܫܩ̣ܠ ܕܡܘܬܐ ܕܥܒܕܐ ܘܒܟܘܠ ܡܕܡ ܐܬܕܡܝ ܠܢ ܣܛܪ ܡܢ ܚܛܝܬܐ ܗ̣ܘ ܕܝܢ ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܐܠܗܐ ܕܥܠ ܟܠ ܢܬܠ ܠܗ ܠܚܛܝܬܐ ܝܘܚܢܢ ܚܒܝܫܝܐ ܕܒܝܬ ܡܪܝ ܩܢܘܢ ܩܕܝܫܐ ܕܡܥܪܬ ܡܨܪܝܢ ܡܕܝܢܬܐ ܘܠܐܚܘ̈ܗܝ [ܘܟܠܗ ܥܡܐtwo words erased, perhaps] ܡܢܬܐ ܘܝܪܬܘܬܐ ܒܥܠܡܐ ܕܠܐ ܥ̇ܒܪ ܥܡ ܟܠܗܘܢ ܩܕܝ̈ܫܐ ܕܫܦ̣ܪ ܠܨܒܝܢܗ ܟܕ ܡܫܘܐ ܠܗܘܢ ܡܫܝܚܐ ܐܠܗܐ ܠܚܘܣܝܐ ܕܚܘ̈ܒܐ ܘܠܫܘܒܩܢܐ ܕܚܛܗ̈ܐ ܘܠܚܝ̈ܐ ܕܠܥܠܡ ܒܨܠܘܬܐ ܕܢܒܝ̈ܐ ܘܕܫܠܝ̈ܚܐ ܘܣܗ̈ܕܐ ܘܡܘܕܝ̈ܢܐ ܘܡܪܬܝ ܡܪܝܡ ܝܠܕܬ ܐܠܗܐ ܐܢ ܘܐܡܝܢ ܘܐܡܝܢ",
+                "translation": [
+                  "Glory to the Father, and to the Son, and to the Holy Spirit, who has strengthened and helped His wanting and feeble servant John; and he has written this volume, for the benefit of himself, and of his brethren, Andrew, and of every one who reads in it so that our Lord Jesus Christ, the Only Son, He who is with the Father without beginning in His Godhead, but who in the latter times has willed to become subject to a beginning in His manhood, took the form of a servant, and in everything became similar to us, except in sin. Now may He, our Lord Jesus Christ, God over all, give to the sinner, John the Recluse of Beth Mar QNWN the saint, in the city of Maʿarrat Meṣrēn, and to his brethren, and to [all the people], a part and an inheritance in the world that does not pass away ; with all the saints who pleased His will; making them worthy, God the Christ, for the remission of faults, and the forgiveness of sins, and the everlasting life, by the prayers of the prophets, and of the apostles, and the martyrs, and the confessors, and of the Lady Mary, the mother of God, yea, and Amen, and Amen."
+                ],
+                "assoc_name": [
+                  {
+                    "value": "John of Mar Conon, Ma'arret Misrin (Syria)",
+                    "role": {
+                      "id": "scribe",
+                      "label": "Scribe"
+                    }
+                  },
+                  {
+                    "value": "Andrew",
+                    "role": {
+                      "id": "unknown",
+                      "label": "Unknown"
+                    }
+                  }
+                ],
+                "assoc_place": [
+                  {
+                    "value": "Maʿarrat Meṣrēn (city)",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    },
+                    "note": [
+                      "The monastery of Beth Mar Conon in Maʿarrat Meṣrēn (North Syria)"
+                    ]
+                  }
+                ],
+                "note": [
+                  "Reproduced in A. Smith Lewis, Select Narratives of Holy Women from the Syro-Antiochene or Sinai Palimpsest (Studia Sinaitica IX; London, 1900), p. xxiii–xxiv"
+                ]
+              },
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
+                "locus": "ff. 181r-v",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "as_written": "ܐܢܐ ܒܨܝܪ[ܐ] ܘܚܛܝܐ ܝܘܚܢܢ ܐܣܛܘܢܝܐ ܕܒܝܬ / ܡܪܝ ܩܢܘܢ ܩܕܝܫܐ ܕܡܥܪܬ ܡܨܪܝܢ ܡܕܝܢܬܐ ܟܘܪܐ / ܕܐܢܛܝܘܟܝܐ ܡ‍[ܕܝܢ‍]‍ܬ ܐܠܗܐ ܟܬܒܬ ܟܬܒܐ ܗܢܐ / ܐܝܟ ܕܠܝܘܬܪܢܐ ܕܢܦܫܝ ܘܕܐܚ̈ܝ ܘܕܐܝܠܝܢ ܕܫܡܥܝܢ / ܠܗ ܐܠܐ ܡܛܠ ܚܘܒܗ ܕܡܫܝܚܐ ܡܦܝܣ ܐܢܐ / ܠܟܠܗܘܢ ܐܝܠܝܢ ܕܩܪ̈ܝܢ ܒܗ ܕܬܨܠܘܢ ܥܠ ܚܛܝܘܬܝ / ܐܝܬܝܪܐܝܬ ܠܟܝ [ܠܟcod.: ] ܡ‍[‍  ]ܐ ܡܦܝܣ ܐܢܐ ܕܠܐ ܬܛܥܝܢ / ܐܠܐ ܡܐ ܕܦܓܥ ܒܟ ܒܥܐ (؟) ܒܪܝܟܐ (؟) ܕ[  ] / ܬܬܥܗܕܝܢ [ܐܬܐܗܕܝܢcod.: ]  ܠܝ ܚܛܝܐ ܒܨܠܘܬܟܝ [ܒܨܠܘܬܟcod.: ] // ܘܐܫܬܠܡ ܕܝܢ ܟܬܒܐ ܒܫܢܬ ܐܠܦ ܘܬܫܥ‍[ܝܢ ؟] / [ܕ]ܐܠܟܣܢܕܪܘܣ ܡܩܕ[ܘܢܝܐ] ܒܪ ܦܠ‍[‍ܝܦܘ]ܣ ܝܪܚ / ܬܡܘܙ [ܟܓ ܒܗ in margine:] ܒܝܘܡ ܬܠܬܐ [ܒ‍]‍ܫ‍[‍ܒ‍]‍ܐ ܒ‍[‍ܬܫ‍]‍ܥ [ܫܥܝ̈ܢ] / ܕܝܘܡܐ ܪ̈ܚܡܘܗܝ ܕܡܪܢ [ܝܫ‍]‍ܘܥ ܡܫܝܚܐ / ܢܗܘܘܢ ܥܠ ܚܛܝܐ ܕܟܬܒ ܟܬܒܐ ܗܢܐ ܐ[ܝܟ] / ܓܝܣܐ ܕܡܢ ܝܡܝܢܐ ܐܢ ܘܐܡܝܢ ܘܐܡܝܢ",
+                "translation": [
+                  "I, the wanting and sinful John, the stylite of Beth Mar QNWN the saint, in the city of Maʿarrat Meṣrēn, (in) the region of Antioch, [the city] of God, I copied this book for the benefit of myself and of my brethren and of those who will listen to it (the book). But for the love of Christ, I beseech all those, who will read it, to pray for my sinfulness, especially you, [       ], I beseech you not to forget (fem.), but whenever you encounter it (this book ?) (two uncertain words) [      ] to remember (fem.) me, a sinner, in your prayer./And the book was completed in the year one thousand and nine[teen ?] of Alexander the Macedonian, son of Philip, (in) the month of Tammuz (July), (on the day) 23 in it, on the third day in the week, at the ninth hour of the day. Let the mercy of Our Lord Jesus Christ be upon the sinner who copied this book, as (it was upon) the thief on the right hand, yea, and Amen, and Amen."
+                ],
+                "assoc_name": [
+                  {
+                    "value": "John the stylite of Beth Mar",
+                    "role": {
+                      "id": "scribe",
+                      "label": "Scribe"
+                    }
+                  }
+                ],
+                "assoc_place": [
+                  {
+                    "value": "Maʿarrat Meṣrēn (city)",
+                    "event": {
+                      "id": "origin",
+                      "label": "Place of Origin"
+                    }
+                  }
+                ],
+                "assoc_date": [
+                  {
+                    "value": "698 or 779 CE",
+                    "iso": {
+                      "not_before": "0698",
+                      "not_after": "0779"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "Completed in the year one thousand and nine[teen ?] of Alexander the Macedonian, son of Philip, (in) the month of Tammuz (July), (on the day) 23 in it, on the third day in the week, at the ninth hour of the day"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "features": [
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              },
+              {
+                "id": "dated",
+                "label": "Dated"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Black and red dots, in the shape of a cross or other shapes, mark titles or new segments of text"
+              }
+            ],
+            "bib": [
+              {
+                "id": "33aadcf6-1e7a-4533-abd9-052809f06b83",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Lewis 1894",
+                "citation": "Lewis, Agnes Smith. Catalogue of the Syriac Manuscripts in the Convent of S. Catharine on Mount Sinai. Studia Sinaitica I. London: Cambridge University Press, 1894",
+                "range": "pp. 43-47 "
+              },
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[81], p. 154"
+              },
+              {
+                "id": "34ba1655-f27f-4da2-9234-a09e9b3d7922",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Brock 2003",
+                "citation": "Brock, Sebastian P. “Syriac on Sinai: The Main Connections.” In Eukosmia: Studi miscellanei per il 75° di Vincenzo Poggi S.J. Edited by V. Ruggieri and L. Pieralli, 103-117. Catanzaro, 2003",
+                "range": "pp. 106, notes 16, 12 "
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386462-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z12n5hwt"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). "
+                },
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1734d",
+          "label": "Greek Undertext: Gospel of John",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 142, 144, 147, 149",
+          "uto_ms_ark": "ark:/21198/z1hr4qzw",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1bs8r",
+          "label": "Syriac Undertext: Gospel of Mark",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 12, 19, 21, 23, 25, 26, 28, 30, 41, 43, 48, 50, 53, 58, 64, 67, 94, 97, 101, 110, 137, 143, 148",
+          "uto_ms_ark": "ark:/21198/z15f9hxn",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 5th-6th c. CE",
+              "iso": {
+                "not_before": "0450",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1m93h",
+          "label": "Syriac Undertext: Gospel of Matthew",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 10, 14, 17, 24r, 27, 31, 34, 37, 40, 42, 45–46, 49, 55–56, 71, 74–77, 80, 82, 89, 91, 95, 96, 100, 113, 115–116, 118, 134r–136",
+          "uto_ms_ark": "ark:/21198/z1d0406t",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 5th-6th c. CE",
+              "iso": {
+                "not_before": "0450",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1ts7q",
+          "label": "Syriac Undertext: Gospel of Luke",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 2, 4–6, 7v, 9, 13, 18, 22, 23, 24v, 29, 32, 33, 38, 39, 44, 47, 51, 52, 59, 60, 63, 65, 66, 68, 72, 79, 81, 83–90, 92, 99, 103, 104, 107, 108, 111, 120–122, 129, 130, 133, 138",
+          "uto_ms_ark": "ark:/21198/z18737g3",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 5th-6th c. CE",
+              "iso": {
+                "not_before": "0450",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1r05d",
+          "label": "Syriac Undertext: Gospel of John",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 3, 8, 11, 15, 16, 20, 35, 36, 54, 57, 61, 62, 69, 70, 73, 78, 93, 98, 102, 105, 106, 109, 112, 114, 117, 119, 123–128, 131, 132, 139, 140",
+          "uto_ms_ark": "ark:/21198/z1wx88q1",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 5th-6th c. CE",
+              "iso": {
+                "not_before": "0450",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1vs8d",
+          "label": "Syriac Undertext: Dormition of the Virgin Mary",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 151, 155, 156, 159r, 160",
+          "uto_ms_ark": "ark:/21198/z11p8s5w",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1zk9n",
+          "label": "Syriac Undertext: Acts of Thomas",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 141, 145, 146, 150, 152–154, 157, 158, 159v, 161–170",
+          "uto_ms_ark": "ark:/21198/z19708mg",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1393v",
+          "label": "Greek Undertext: Epistula magna",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 171, 172r, 176–177, 181,182r",
+          "uto_ms_ark": "ark:/21198/z1nd6s7v",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "7th c. CE",
+              "iso": {
+                "not_before": "0601",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1gk99",
+          "label": "Greek Undertext: Sermo asceticus",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 172v, 173, 174–175, 178–180",
+          "uto_ms_ark": "ark:/21198/z1s57hz5",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "7th c. CE",
+              "iso": {
+                "not_before": "0601",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Pencil foliation beginning with '4', intending to include exposed unnumbered front pastedown as f. 1"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quires are established according to natural movement of folios and do not correspond to original Georgian quire signatures in overtext"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Unbound quires until f. 150; large number of singletons at the beginning and end of quires (usually quinions) that may originally have been bifolios belonging to a quire"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures are marked in the bottom inner margin of the last folio of each quire; quires of 10 ff. A later hand provided the quire signatures in Georgian that run backwards"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Reinforced leather. Large parts missing in front; back cover in two vertical parts, reattached with thread; exposed spine."
+    },
+    {
+      "type": {
+        "id": "provenance",
+        "label": "Provenance Note"
+      },
+      "value": "The presence of quire signatures in Georgian, probably by a binder, points to the fact the manuscript was probably in Palestine between the 9th and the 10th c. CE"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Mostly unbound quires"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Most folios severely cockled, with raised ridges appearing as glossy; various degrees of discoloration, at least in part due to application of liquid in the course of prior scholarly investigation"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "This is the well-known Codex Sinaiticus Syriacus"
+    }
+  ],
+  "bib": [
+    {
+      "id": "33aadcf6-1e7a-4533-abd9-052809f06b83",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Lewis 1894",
+      "citation": "Lewis, Agnes Smith. Catalogue of the Syriac Manuscripts in the Convent of S. Catharine on Mount Sinai. Studia Sinaitica I. London: Cambridge University Press, 1894",
+      "range": "pp. 43-47 "
+    },
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[81], p. 154"
+    },
+    {
+      "id": "34ba1655-f27f-4da2-9234-a09e9b3d7922",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Brock 2003",
+      "citation": "Brock, Sebastian P. “Syriac on Sinai: The Main Connections.” In Eukosmia: Studi miscellanei per il 75° di Vincenzo Poggi S.J. Edited by V. Ruggieri and L. Pieralli, 103-117. Catanzaro, 2003",
+      "range": "pp. 106, notes 16, 12 "
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386462-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12n5hwt/manifest",
+      "label": "SPP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1988nbt/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

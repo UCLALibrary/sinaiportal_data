@@ -589,6 +589,10 @@
                           {
                             "id": "hagiographies",
                             "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ]
                       },
@@ -1022,8 +1026,8 @@
                             "label": "Hagiographies"
                           },
                           {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ],
                         "rel_con": [
@@ -1159,8 +1163,12 @@
                         "desc_title": "The Passio of the Forty Martyrs ",
                         "genre": [
                           {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ]
                       },
@@ -1286,8 +1294,8 @@
                             "label": "Hagiographies"
                           },
                           {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ],
                         "creation": {
@@ -1379,8 +1387,8 @@
                             "label": "Hagiographies"
                           },
                           {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ],
                         "rel_con": [
@@ -1440,8 +1448,8 @@
                             "label": "Hagiographies"
                           },
                           {
-                            "id": "martyrologies",
-                            "label": "Martyrologies"
+                            "id": "martyrdoms",
+                            "label": "Martyrdoms"
                           }
                         ],
                         "rel_con": [
@@ -1485,8 +1493,16 @@
                         "desc_title": "Account of Luke the Apostle and mimar [...] to the temple",
                         "genre": [
                           {
-                            "id": "theological-works",
-                            "label": "Theological works"
+                            "id": "hagiographies",
+                            "label": "Hagiographies"
+                          },
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          },
+                          {
+                            "id": "apocrypha",
+                            "label": "Apocrypha"
                           }
                         ]
                       },

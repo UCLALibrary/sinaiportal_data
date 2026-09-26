@@ -47,9 +47,36 @@
       "assoc_name": [
         {
           "value": "Isa Ibn Ishaq al-Homsi, known as Ibn Sahqun",
+          "as_written": "عيسى ابن إسحاق الكاتب الحمصي المعروف بابن سحقون",
           "role": {
             "id": "translator",
             "label": "Translator"
+          }
+        },
+        {
+          "value": "Abd al-Masih Ibn Umar",
+          "as_written": "عبد المسيح ابن عمر",
+          "role": {
+            "id": "translator",
+            "label": "Translator"
+          }
+        },
+        {
+          "value": "Deacon Ibn al-Antus",
+          "as_written": "الشماس ابن الانطس",
+          "role": {
+            "id": "translator",
+            "label": "Translator"
+          }
+        }
+      ],
+      "assoc_place": [
+        {
+          "value": "Damascus",
+          "as_written": "بمدينة دمشق",
+          "event": {
+            "id": "origin",
+            "label": "Place of Origin"
           }
         }
       ],
@@ -69,9 +96,7 @@
         }
       ],
       "note": [
-        "Written at a later date by a different hand, translated from Greek to Arabic. A shorter version of the same colophon appears on the preceeding folio (162v), ending with \"translated from Greek\".",
-        "Attested names:  Abd al-Masih Ibn Umar ; Deacon Ibn al-Antus",
-        "Attested places:  Damascus"
+        "Written at a later date by a different hand, translated from Greek to Arabic. A shorter version of the same colophon appears on the preceeding folio (162v), ending with \"translated from Greek\"."
       ]
     }
   ],

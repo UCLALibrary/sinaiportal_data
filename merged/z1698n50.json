@@ -1,0 +1,569 @@
+{
+  "ark": "ark:/21198/z1698n50",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 60",
+  "summary": "Evagrius Ponticus, Treatise to the Monk Eulogius and On the Thoughts",
+  "extent": "44 ff. (f. 6bis)",
+  "weight": "329.5 g",
+  "dim": "233 x 163 x 28 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "<I>: [Sinai Syriac NF Sparagma 43 (1 f.)] + ff. 1–6bis (first two folios missing) ; <II>: ff. 7–16 ; <III>: ff. 17–23 + [BnF syr. 378, ff.  19–20] (final folio missing) ; <IV>: ff. 24–33 ; <V>: ff. 34–43 ; [<VI>: BnF syr. 378, ff. 1–10] ; [<VII>: BnF syr. 378, ff. 11–18 + Mingana Syr. 644 (1 f.) (lacuna of one folio after BnF syr. 378, f. 18)] ; [<VIII>: Milan, Biblioteca Ambrosiana, A 296 inf., ff. 75–76 (= Chabot 52)) + Sinai Syriac NF Sparagma 25 (1 f.) (first four folios and last three folios missing)]",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-43",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Sinai Syriac NF frag. 43 (1 f.)"
+            },
+            {
+              "label": "BnF syr. 378 (ff. 1–20)"
+            },
+            {
+              "label": "Mingana Syr. 644 (1 f.)"
+            },
+            {
+              "label": "Biblioteca Ambrosiana, A 296 inf. (ff. 75–76 = Chabot 52)"
+            },
+            {
+              "label": "Sinai Syriac NF frag. 25 (1 f.)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s18w4n",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s18w4n",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 60, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "2 columns",
+                "lines": "28 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s13h3x",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s13h3x",
+                  "reconstruction": false,
+                  "label": "Evagrius Ponticus, Treatise to the Monk Eulogius and On the Thoughts",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1210n",
+                        "pref_title": "Treatise to the Monk Eulogius (Evagrius)",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1b88k",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1b88k",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Evagrius, Ponticus, 345?-399",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "345?-399",
+                                "iso": {
+                                  "not_before": "0295",
+                                  "not_after": "0399"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "http://viaf.org/viaf/58103843",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "https://id.loc.gov/authorities/names/n86119200",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "https://w3id.org/haf/person/219264096524",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Evagrius of Pontus",
+                                  "uri": "http://syriaca.org/person/483",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Euagrius Ponticus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1022/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Tractatus ad Eulogium",
+                            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/13057/",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "Tractatus ad Eulogium",
+                            "idno": "2447",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "Evagrius Ponticus, Treatise to the Monk Eulogius",
+                      "locus": "ff. 1r–23v, 24r–32r",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "... ܐܝܢܐ ܕܠܟ ܡܢ ܣܓܝ̈ܐܐ ܡܬܩܪܒ ܬܫܒܘܚܬܐ ܗܟܝܠ ܡܢ ܒܣܪܐ ܠܐ ܬܒܥܐ",
+                          "note": [
+                            "Text begins at: ch. 3",
+                            "= Gr. Δόξαν ἀπὸ σαρκὸς μὴ ζήτει (ed. Fogielman, p. 280, ch. 3, line 4)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܟܕ ܐܣܟܝܡܐ ܠܒ̇ܫ ܐܢܬ ܕܡܝܬܪܘܬܐ ܣܘܥܪ̈ܢܐ ܕܝܢ ܡܬܥܛܦ ܐܢܬ ܕܕܠܩܘܒܠܐ ..."
+                        },
+                        {
+                          "type": {
+                            "id": "explicit",
+                            "label": "Explicit"
+                          },
+                          "as_written": "ܫܠܡ ܡܐܡܪܐ ܕܥܠ ܐܟܣܢܝܘܬܐ ܕܡܪܝ ܐܘܓܪܝܣ",
+                          "translation": [
+                            "Mēmrā on xeniteia is completed"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "The text is divided in unnumbered sections.",
+                        "Contents: [lacuna of three folios, one of which is Sinai Syriac NF Sparagma 43], Ch. 3 (f. 1r–v, acephalous), Ch. 4 (ff. 1v–3v), Ch. 5 (ff. 3v–4r), Ch. 6 (ff. 4r–5v), Ch. 7 (ff. 5v–6bis), Ch. 8 (ff. 6bis–7r), Ch. 9 (f. 7r–v), Ch. 10 (ff. 7v–8v), Ch. 11 (ff. 8v–10r), Ch. 12 (ff. 10r–11r), Ch. 13 (ff. 11r–12r), Ch. 14 (ff. 12r–13r), Ch. 15 (ff. 13r–14v), Ch. 16 (ff. 14v–15v), Ch. 17 (ff. 15v–17r), Ch. 18 (ff. 17r–18v), Ch. 19 (ff. 18v–19v), Ch. 20 (ff. 19v–21r), Ch. 21 (f. 21r–v), Ch. 22 (ff. 21v–23r), Ch. 23 (f. 23r–v), Ch. 27 (f. 23v, incomplete), [lacuna of three folios, two of which are BnF syr. 378, ff.  19–20], Ch. 25 (f. 24r–v, acephalous), Ch. 26 (ff. 24v–25v), Ch. 28 (ff. 25v–26r), Ch. 29 (ff. 26r–27v), Ch. 30 (ff. 27v–28v), Ch. 31 (ff. 28v–30r), Ch. 32 (ff. 30r–32r)"
+                      ],
+                      "bib": [
+                        {
+                          "id": "12c7b1ff-914b-41a1-ba49-8f1c76bbb4bd",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Fogielman 2017",
+                          "citation": "Fogielman, Charles-Antoine, ed. Evagrius Ponticus. A Euloge: Les vices opposés aux vertus (Sources chrétiennes, 591). Paris: Éditions du Cerf, 2017",
+                          "note": [
+                            "Greek version of the text"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1k593",
+                        "pref_title": "On Evil Thoughts (Evagrius)",
+                        "orig_lang": {
+                          "id": "gree1276",
+                          "label": "Greek"
+                        },
+                        "orig_lang_title": "Περὶ διαφορῶν πονηρῶν λογισμῶν",
+                        "alt_title": [
+                          "De malignis cogitationibus ",
+                          "Thoughts"
+                        ],
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1b88k",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1b88k",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Evagrius, Ponticus, 345?-399",
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "345?-399",
+                                "iso": {
+                                  "not_before": "0295",
+                                  "not_after": "0399"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "http://viaf.org/viaf/58103843",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "https://id.loc.gov/authorities/names/n86119200",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Evagrius, Ponticus, 345?-399",
+                                  "uri": "https://w3id.org/haf/person/219264096524",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Evagrius of Pontus",
+                                  "uri": "http://syriaca.org/person/483",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Euagrius Ponticus",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/1022/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "creation": {
+                          "value": "4th c. CE",
+                          "iso": {
+                            "not_before": "0301",
+                            "not_after": "0400"
+                          }
+                        },
+                        "rel_con": [
+                          {
+                            "label": "Euagrius Ponticus De Cogitationibus",
+                            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/2244/",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "De malignis cogitationibus",
+                            "idno": "2450",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "Evagrius Ponticus, De malignis cogitationibus / On the Thoughts",
+                      "locus": "ff. 32r–43v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "heading",
+                            "label": "Heading"
+                          },
+                          "as_written": " ܬܘܒ ܪ̈ܝܫܐ ܕܡܪܝ ܐܘܓܪܝܣ ܐܡܝܪ̈ܝܢ ܥܠ ܚܘ̈ܫܒܐ ܕܥܪܨܝܢ ܥܠ ܝܚܝ̈ܕܝܐ ܘܥܠ ܟܠ ܕܒܥܢܘܝܘܬܐ ܡܬܕܒܪ",
+                          "translation": [
+                            "Chapters by Mār Evagrius about thoughts that occur to solitaries and to everybody who pursues the monastic way of life"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܠܘܩܕܡ ܥܠ ܚܘ̈ܫܒܐ ܐܝܠܝܢ ܕܥܒܝܕܝܢ ܣܩܘܒܠܐ ܠܟܠܗ ܕܘܒܪܐ ܕܕܚܠܬ ܐܠܗܐ"
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "as_written": "ܘܢܚܒܠ ܚܘܫܒܘܗܝ ܘܗܕܐ ܐܝܬܝܗ̇ ܗܝ ܕܟܬܝܒܐ ܕܪܓܙܘ ܘܠܐ ܬܚܛܘܢ ܘܡܛܠܬܗ̇ ܕܗܕܐ ...",
+                          "note": [
+                            "Text ends at: ch. 15",
+                            "= Greek, ch. 16, καὶ διαφθείροντα αὐτοῦ τὰ νοήματα· καὶ τοῦτό ἐστι τὸ “ὀργίζεσθε, καὶ μὴ ἁμαρτάνετε” (ed. Guillaumont et al., p. 206–205, lines 19–21)"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "The Syriac version of the work presents the text divided into chapters, each bearing its individual title and number. Some of the chapters have additional subdivision marked by rubrics.",
+                        "Contents: Ch. 1 (f. 32r–v), Ch. 2 (ff. 32v–33r), Ch. 3 (ff. 33r–34r), Ch. 4 (ff. 34r–35r), Ch. 5 (ff. 35r–36r), Ch. 6 (f. 36r–v), Ch. 7 (ff. 36v–37r), Ch. 8 (ff. 37r–38r), Ch. 9 (ff. 38r–39r), Ch. 10 (f. 39r–v), Ch. 11 (ff. 39v–40v), Ch. 12 (ff. 40v–41v), Ch. 13 (ff. 41v–42r), Ch. 14 (ff. 42r–43r), Ch. 15 (ff. 43r–v, incomplete), [lacuna of four folios which are today BnF syr. 378, ff. 1–4]"
+                      ],
+                      "bib": [
+                        {
+                          "id": "fc1c6c15-bef7-47b8-917c-e13d0e166212",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Guillaumont, Guillaumont, and Géhin 1998",
+                          "citation": "Guillaumont, Antoine, Claire Guillaumont, and Paul Géhin, eds. Évagre le Pontique. Sur les pensées (SC, 438). Paris: Éditions du Cerf, 1998",
+                          "note": [
+                            "Greek edition of the text|~|On p. 307–309 one can find a concordance between the Greek and Syriac versions; the version attested by the Sinai Syriac 60 demonstrates some differences"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s18w4n"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "8th–beginning of the 9th c.",
+                "iso": {
+                  "not_before": "0701",
+                  "not_after": "0900"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[70], p. 154"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279387442-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1698n50"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "The quire signatures are not visible; perhaps covered by binding strips; quires of 10 ff."
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Reinforcement strips derive from several Greek majuscule codices (ff. 6bisv, 24r, 25v, 26v, 31r, 32r, 33v, 34r, 42v)"
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "No binding boards."
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[70], p. 154"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279387442-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1698n50/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1698n50%2Fbj675439/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.4",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

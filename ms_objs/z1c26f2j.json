@@ -1,0 +1,251 @@
+{
+  "ark": "ark:/21198/z1c26f2j",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 7",
+  "summary": "Gospel Lectionary; Evangelion (Byzantine rite)",
+  "extent": "73 ff.",
+  "weight": "591.5 g",
+  "dim": "261 x 208 x 37 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "[IV: (4 ff. are wanting), Sinai, Syriac NF, Sparagma 56 (2 ff.) + Sparagma 57a (1 f.) + Sparagma 57b (half folio) + Sparagma 57c (half folio)] ; [V: (1 f. is wanting), Paris, BnF, syr. 382, ff. 6–1 (6 ff.) + (lost) Hiersemann 500/10, f. 1 (1 f.)] ; [VI: Paris, BnF, syr. 382, ff. 8–7 (2 ff.) + (lost) Hiersemann 500/10, ff. 2–7 (6 ff.)] ; [VII: Harvard, Houghton Library, Syr. 171 (1 f.) + Biblioteca Ambrosiana, A 296 inf., ff. 267–272 = Chabot 26 (6 ff.) + A 296 inf., f. 276 = Chabot 27 (1 ff.)] ; VIII:  ff. 1a–6 (the final folio is wanting) ; IX: ff. 7–14 ; X: ff. 15–22 ; XI: ff. 23–30 ; XII: ff. 31–38 (f. 37v is blank) ; XIII: ff. 39–46 ; XIV: ff. 47–54 (ff. 47–48 are a later restoration of ca. 13th c.; the final folio is wanting) ; XV: ff. 55–62 ; XVI: ff. 63–70 ; [XVII: London, British Library, Or. 8609, ff. 5, 5a, 6–11 (8 ff.)] ; [? Sinai, Syriac NF, Sparagma 55 (1 f.)] ; Latter addition: ff. 71–72 (palimpsest with underwriting in Greek)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1a-72",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "260 x 205 mm (representative folio)",
+      "layer": [
+        {
+          "id": "ark:/21198/s12g9j",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          }
+        },
+        {
+          "id": "ark:/21198/s10h0v",
+          "label": "Armenian Undertext: Letter to the Hebrews",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 47–48"
+        },
+        {
+          "id": "ark:/21198/s14935",
+          "label": "Greek Undertext: Gospel of Matthew",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 71–72"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Sinai NF frag 55"
+            },
+            {
+              "label": "Sinai NF frag 56"
+            },
+            {
+              "label": "Sinai NF frag 57"
+            },
+            {
+              "label": "London British Library Or. 8609/II"
+            },
+            {
+              "label": "Milan, Biblioteca Ambrosiana, A 296 inf. (ff. 262-272 = Chabot 26)"
+            },
+            {
+              "label": "Milan, Biblioteca Ambrosiana, A 296 inf. (f. 276 = Chabot 27)"
+            },
+            {
+              "label": "Paris BNF syr. 382/I"
+            },
+            {
+              "label": "Houghton syr. 171"
+            },
+            {
+              "label": "Hiersemann 500/10 (lost)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "repository": "St. Catherine's Monastery of the Sinai",
+      "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "First three folios labeled ff. 1a, 1b, 2"
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "The quire signature is marked in the bottom margin of recto of the first folio and verso of the last folio of each quire; quires of 8 ff."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Boards missing."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Quires, partially detached"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Overtext of folios 71r-72v (palimpsests) written at a later date, 13th c."
+    }
+  ],
+  "bib": [
+    {
+      "id": "33aadcf6-1e7a-4533-abd9-052809f06b83",
+      "shortcode": "Lewis 1894",
+      "citation": "Lewis, Agnes Smith. Catalogue of the Syriac Manuscripts in the Convent of S. Catharine on Mount Sinai. Studia Sinaitica I. London: Cambridge University Press, 1894",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "p. 3"
+    },
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "[78], p. 154"
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "shortcode": "Géhin 2017",
+      "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "range": "pp. 37-38"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "url": "https://www.loc.gov/item/00279386231-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "label": "SPP",
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1qc0k41/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged"
+    },
+    {
+      "type": {
+        "id": "alt",
+        "label": "Alternate"
+      },
+      "label": "SLDP",
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1c26f2j/manifest",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1c26f2j%2F7q70t309/full/!200,200/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.4",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      },
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31+00:00"
+    }
+  ]
+}

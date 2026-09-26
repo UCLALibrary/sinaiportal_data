@@ -82,6 +82,10 @@
                           {
                             "id": "hagiographies",
                             "label": "Hagiographies"
+                          },
+                          {
+                            "id": "martyrologies",
+                            "label": "Martyrologies"
                           }
                         ]
                       },
@@ -149,6 +153,14 @@
                       "id": "scribe",
                       "label": "Scribe"
                     }
+                  },
+                  {
+                    "value": "Simeon Ibn al-Batita of Antioch",
+                    "as_written": "سميون ابن البطيطة",
+                    "role": {
+                      "id": "scribe",
+                      "label": "Scribe"
+                    }
                   }
                 ],
                 "assoc_place": [
@@ -184,8 +196,7 @@
                   }
                 ],
                 "note": [
-                  "Damage to folios inhibits reading of part of the date.",
-                  "Attested names: Simeon Ibn al-Batita of Antioch ; Father Thomas"
+                  "Damage to folios inhibits reading of part of the date."
                 ]
               }
             ],

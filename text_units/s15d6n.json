@@ -1,0 +1,62 @@
+{
+  "ark": "ark:/21198/s15d6n",
+  "reconstruction": false,
+  "label": "Horologion (the Book of Hours)",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s1dg6h"
+      },
+      "alt_title": "Horologion (the Book of Hours)",
+      "locus": "ff. 3v–162r",
+      "excerpt": [
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "as_written": "ܩܕܝܫ ܐܢܬ ܐܠܗܐ ܓ ܙܒܢ̈ܝܢ [....] ܩܕܝܫܬܐ ܬܠܝܬܝܘܬܐ"
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "locus": "f. 162r",
+          "as_written": "ܩܕܝܫ ܐܢܬ ܐܠܗܐ ܀ ܩܬܣܡܐ ܕܝܘܡܐ ܘܡܚܬܡ ܐܝܟ ܫܪܟܐ ܀",
+          "translation": [
+            "Holy God (= Trisagion); kathisma of the day (= Dismissal); and finish as usual"
+          ]
+        }
+      ]
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Natalia Smelova"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:37+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1bs7c"
+  ]
+}

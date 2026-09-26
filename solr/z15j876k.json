@@ -2,7 +2,10 @@
   "ark_ssi": "ark:/21198/z15j876k",
   "ms_type_ssi": "Undertext Object",
   "state_ssi": "Undertext Object",
-  "features_ssim": [],
+  "features_ssim": [
+    "Multispectral Imaging",
+    "Palimpsest"
+  ],
   "support_ssim": [
     "Parchment"
   ],
@@ -35,7 +38,108 @@
   "ot_genre_ssim": [
     "Scientific works"
   ],
-  "ot_year_isim": [],
+  "ot_year_isim": [
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582,
+    583,
+    584,
+    585,
+    586,
+    587,
+    588,
+    589,
+    590,
+    591,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    600
+  ],
   "ot_language_ssim": [
     "Greek"
   ],
@@ -52,6 +156,8 @@
   "uto_language_ssim": [],
   "uto_year_isim": [],
   "shelfmark_ssi": "UTO Sinai Arabic NF M 8, SPP No. 141",
+  "shelfmark_tsi": "UTO Sinai Arabic NF M 8, SPP No. 141",
+  "shelfmark_tsort": "UTO Sinai Arabic NF M 8, SPP No. 141",
   "titles_tesim": [
     "Hippocrates, Regimen"
   ],
@@ -68,6 +174,7 @@
   "paracontent_tesim": [],
   "full_text_tesim": [
     "Book 1",
+    "Common codicological and palaeographical features suggest that the three Hippocratic texts and the two other medical texts in this codex (\"Antyllus?, Recipes for different diseases\" and \"Treatise on medical terms\") belonged to the same original manuscript (Rossetto)",
     "Greek",
     "Greek majuscule",
     "Hippocrates",
@@ -77,6 +184,7 @@
     "Round biblical majuscule (Rossetto)",
     "UTO Sinai Arabic NF M 8, SPP No. 141",
     "ark:/21198/z15j876k",
+    "ff. 8–9, 40–41, 46–47",
     "spputos"
   ],
   "cataloguer_tesim": [
@@ -85,7 +193,7 @@
     "Nigel Wilson"
   ],
   "last_modified_dtsi": "2025-12-18T22:48:00Z",
-  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z15j876k\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Arabic NF M 8, SPP No. 141\",\"extent\":\"4 fols.\",\"weight\":\"Original field name: Format.weight\",\"dim\":\"Original field name: Format.dimensions\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 9r+46r (col. a), 8v+41v (col. a), 46r (col. b), 41v (col. b), 46v (col. a), 41r (col. a), 46v (col. b)+9v, 41r (col. b)+8r, 40v (col. a), 47r (col. a), 40v (col. b), 47r (col. b), 40r (col. a), 47v (col. a), 40r (col. b), 47v (col. b); original recto: 9r bottom+46r (col. a), 8v bottom+41v (col. a), 46r (col. b), 41v (col. b); original verso: 46v (col. a), 41r (col. a), 46v (col. b)+9v bottom, 41r (col. b)+8r bottom; original recto: 40v (col. a), 47r (col. a), 40v (col. b), 47r (col. b); original verso: 40r (col. a), 47v (col. a), 40r (col. b), 47v (col. b). (Rossetto)\",\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1zk88\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1zk88\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Arabic NF M 8, Undertext (Greek majuscule)\",\"locus\":\"ff. 8–9, 40–41, 46–47 \",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Round biblical majuscule (Rossetto)\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"42-43 lines, reconstructed (Rossetto)\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1mm5c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1mm5c\",\"reconstruction\":false,\"label\":\"Regimen (Book 1)\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Hippocrates, Regimen\",\"creator\":[{\"id\":\"ark:/21198/s1f30r\",\"agent_record\":{\"ark\":\"ark:/21198/s1f30r\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Hippocrates\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"birth\":{\"value\":\"b. 460 BCE\",\"iso\":{\"not_before\":\"-0460\"}},\"death\":{\"value\":\"d. approximately 377 BCE\",\"iso\":{\"not_before\":\"-0397\",\"not_after\":\"-0357\"}},\"floruit\":{\"value\":\" 460 BCE-approximately 377 BCE\",\"iso\":{\"not_before\":\"-0460\",\"not_after\":\"-0352\"}},\"rel_con\":[{\"label\":\"Hippocrates\",\"uri\":\"http://viaf.org/viaf/287984736\",\"source\":\"VIAF\"},{\"label\":\"Hippocrates\",\"uri\":\"http://id.loc.gov/authorities/names/n79005643\",\"source\":\"LoC\"},{\"label\":\"Hippocrates, approximately 460 BCE-approximately 377 BCE\",\"uri\":\"https://w3id.org/haf/person/673204385438\",\"source\":\"HAF\"},{\"label\":\"Hippocrates medicus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1355/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"scientific-works\",\"label\":\"Scientific works\"}]},\"note\":[\"Book 1\"]}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/s1zk88\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/z1kd1z25\",\"ark:/21198/z15j876k\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kd1z25/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q7rws/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1kd1z25\",\"shelfmark\":\"Sinai Arabic NF M 8\"}],\"desc_provenance\":{\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
+  "manuscript_json_ts": "{\"ark\":\"ark:/21198/z15j876k\",\"reconstruction\":true,\"type\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"shelfmark\":\"UTO Sinai Arabic NF M 8, SPP No. 141\",\"extent\":\"4 fols.\",\"state\":{\"id\":\"uto\",\"label\":\"Undertext Object\"},\"fol\":\"Reconstructed folio order, ff. 9r+46r (col. a), 8v+41v (col. a), 46r (col. b), 41v (col. b), 46v (col. a), 41r (col. a), 46v (col. b)+9v, 41r (col. b)+8r, 40v (col. a), 47r (col. a), 40v (col. b), 47r (col. b), 40r (col. a), 47v (col. a), 40r (col. b), 47v (col. b); original recto: 9r bottom+46r (col. a), 8v bottom+41v (col. a), 46r (col. b), 41v (col. b); original verso: 46v (col. a), 41r (col. a), 46v (col. b)+9v bottom, 41r (col. b)+8r bottom; original recto: 40v (col. a), 47r (col. a), 40v (col. b), 47r (col. b); original verso: 40r (col. a), 47v (col. a), 40r (col. b), 47v (col. b). (Rossetto)\",\"features\":[{\"id\":\"msi\",\"label\":\"Multispectral Imaging\"},{\"id\":\"palimpsest\",\"label\":\"Palimpsest\"}],\"part\":[{\"label\":\"Part 1\",\"support\":[{\"id\":\"parchment\",\"label\":\"Parchment\"}],\"ot_layer\":[{\"id\":\"ark:/21198/s1zk88\",\"label\":\"Overtext Layer\",\"type\":{\"id\":\"overtext\",\"label\":\"Overtext\"},\"layer_record\":{\"ark\":\"ark:/21198/s1zk88\",\"reconstruction\":false,\"state\":{\"id\":\"undertext\",\"label\":\"Undertext\"},\"label\":\"Sinai Arabic NF M 8, Undertext (Greek majuscule)\",\"locus\":\"ff. 8–9, 40–41, 46–47 \",\"writing\":[{\"script\":[{\"id\":\"greek-maj\",\"label\":\"Greek majuscule\",\"writing_system\":\"Greek\"}],\"note\":[\"Round biblical majuscule (Rossetto)\"]}],\"layout\":[{\"columns\":\"2 columns\",\"lines\":\"42-43 lines, reconstructed (Rossetto)\"}],\"text_unit\":[{\"id\":\"ark:/21198/s1mm5c\",\"label\":\"Item 1\",\"text_unit_record\":{\"ark\":\"ark:/21198/s1mm5c\",\"reconstruction\":false,\"label\":\"Regimen (Book 1)\",\"lang\":[{\"id\":\"gree1276\",\"label\":\"Greek\"}],\"work_wit\":[{\"work\":{\"desc_title\":\"Hippocrates, Regimen\",\"creator\":[{\"id\":\"ark:/21198/s1f30r\",\"agent_record\":{\"ark\":\"ark:/21198/s1f30r\",\"type\":{\"id\":\"person\",\"label\":\"Person\"},\"pref_name\":\"Hippocrates\",\"gender\":{\"id\":\"man\",\"label\":\"Man\"},\"birth\":{\"value\":\"b. 460 BCE\",\"iso\":{\"not_before\":\"-0460\"}},\"death\":{\"value\":\"d. approximately 377 BCE\",\"iso\":{\"not_before\":\"-0397\",\"not_after\":\"-0357\"}},\"floruit\":{\"value\":\" 460 BCE-approximately 377 BCE\",\"iso\":{\"not_before\":\"-0460\",\"not_after\":\"-0352\"}},\"rel_con\":[{\"label\":\"Hippocrates\",\"uri\":\"http://viaf.org/viaf/287984736\",\"source\":\"VIAF\"},{\"label\":\"Hippocrates\",\"uri\":\"http://id.loc.gov/authorities/names/n79005643\",\"source\":\"LoC\"},{\"label\":\"Hippocrates, approximately 460 BCE-approximately 377 BCE\",\"uri\":\"https://w3id.org/haf/person/673204385438\",\"source\":\"HAF\"},{\"label\":\"Hippocrates medicus\",\"uri\":\"https://pinakes.irht.cnrs.fr/notices/auteur/1355/\",\"source\":\"Pinakes\"}]}}],\"genre\":[{\"id\":\"scientific-works\",\"label\":\"Scientific works\"}]},\"note\":[\"Book 1\"]}],\"bib\":[{\"id\":\"874101cc-626a-43d5-91a7-a9b1091871cd\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Boudalis and Rossetto\",\"citation\":\"Boudalis, Georgios, and Giulia Rossetto. \\\"Colour Mapping of Sin. ar. NF 8 + Sin. ar. NF 28.\\\" In M. P. Brown and J. Lockhart, eds. The Apollonius of Tyre Fragment in Arabic NF 8: Studies of a Latin Palimpsest at St Catherine’s Monastery, Sinai. [Forthcoming]\"},{\"id\":\"9f282c58-70c3-48bc-bf30-21fbd835c1ed\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Rossetto 2023b\",\"citation\":\"Rossetto, Giulia. “Classical Texts Among the Palimpsests of the Monastery of St. Catherine (Sinai): An Overview.” Pages 55-71 in C. Rapp, G. Rossetto, J. Grusková, and  G. Kessel, eds. New Light on Old Manuscripts: The Sinai Palimpsests and Other Advances in Palimpsest Studies. Veröffentlichungen zur Byzanzforschung 45. Austrian Academy of Sciences, Vienna 2023. https://doi.org/10.1553/978OEAW91575s55\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/s1zk88\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}],\"assoc_date\":[{\"value\":\"6th c. CE\",\"iso\":{\"not_before\":\"0501\",\"not_after\":\"0600\"},\"type\":{\"id\":\"origin\",\"label\":\"Date of Origin\"}}],\"note\":[{\"type\":{\"id\":\"general\",\"label\":\"General Note\"},\"value\":\"Common codicological and palaeographical features suggest that the three Hippocratic texts and the two other medical texts in this codex (\\\"Antyllus?, Recipes for different diseases\\\" and \\\"Treatise on medical terms\\\") belonged to the same original manuscript (Rossetto)\"}],\"bib\":[{\"id\":\"874101cc-626a-43d5-91a7-a9b1091871cd\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Boudalis and Rossetto\",\"citation\":\"Boudalis, Georgios, and Giulia Rossetto. \\\"Colour Mapping of Sin. ar. NF 8 + Sin. ar. NF 28.\\\" In M. P. Brown and J. Lockhart, eds. The Apollonius of Tyre Fragment in Arabic NF 8: Studies of a Latin Palimpsest at St Catherine’s Monastery, Sinai. [Forthcoming]\"},{\"id\":\"9f282c58-70c3-48bc-bf30-21fbd835c1ed\",\"type\":{\"id\":\"cite\",\"label\":\"Citation\"},\"shortcode\":\"Rossetto 2023b\",\"citation\":\"Rossetto, Giulia. “Classical Texts Among the Palimpsests of the Monastery of St. Catherine (Sinai): An Overview.” Pages 55-71 in C. Rapp, G. Rossetto, J. Grusková, and  G. Kessel, eds. New Light on Old Manuscripts: The Sinai Palimpsests and Other Advances in Palimpsest Studies. Veröffentlichungen zur Byzanzforschung 45. Austrian Academy of Sciences, Vienna 2023. https://doi.org/10.1553/978OEAW91575s55\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"parent\":[\"ark:/21198/z1kd1z25\",\"ark:/21198/z15j876k\"],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"}}}]}],\"location\":[{\"id\":\"sinai-nf\",\"collection\":\"New Finds\",\"repository\":\"St. Catherine's Monastery of the Sinai\"}],\"note\":[{\"type\":{\"id\":\"fol\",\"label\":\"Foliation Note\"},\"value\":\"ff. 8–9, 40–41, 46–47\"}],\"iiif\":[{\"type\":{\"id\":\"main\",\"label\":\"Main\"},\"manifest\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kd1z25/manifest\",\"label\":\"SPP\",\"thumbnail\":\"https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz14q7rws/0,1022,6132,6132/150,150/0/default.jpg\"}],\"cataloguer\":[{\"message\":\"Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.\",\"contributor\":[\"Agamemnon Tselikas\",\"Nigel Wilson\",\"Giulia Rossetto\"],\"added_by\":\"sinai-admin\",\"timestamp\":\"2025-12-18T22:48:00Z\"}],\"reconstructed_from\":[{\"id\":\"ark:/21198/z1kd1z25\",\"shelfmark\":\"Sinai Arabic NF M 8\"}],\"desc_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\"}],\"rights\":\"Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/.\"},\"image_provenance\":{\"program\":[{\"label\":\"Sinai Palimpsests Project\",\"description\":\"Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.\",\"delivery\":\"spputos\"}],\"rights\":\"All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu.\"}}",
   "id": "ark:/21198/z15j876k",
   "has_model_ssim": [
     "Work"
@@ -106,12 +214,18 @@
     "UTO Sinai Arabic NF M 8, SPP No. 141",
     "4 fols."
   ],
-  "ot_date_tesim": [],
+  "ot_date_tesim": [
+    "6th c. CE"
+  ],
   "para_date_tesim": [],
-  "uto_date_tesim": [],
+  "uto_date_tesim": [
+    "6th c. CE"
+  ],
   "extent_tesi": "4 fols.",
   "text_unit_labels_tesim": [
     "Regimen (Book 1)"
   ],
-  "origin_date_values_tesim": []
+  "origin_date_values_tesim": [
+    "6th c. CE"
+  ]
 }

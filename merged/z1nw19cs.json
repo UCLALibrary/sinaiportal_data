@@ -1,0 +1,559 @@
+{
+  "ark": "ark:/21198/z1nw19cs",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac NF M 39",
+  "summary": "Diadochus of Photice, 100 Practical Chapters of Knowledge and Spiritual Discernment (incomplete)",
+  "extent": "18 ff.",
+  "weight": "104.2 g",
+  "dim": "230 x 181 x 19.0 mm",
+  "state": {
+    "id": "quire",
+    "label": "Quire(s)"
+  },
+  "coll": "I: ff. 18, 1–7 [lacuna of 2 ff. before f. 18] ; II: ff. 8–17",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 18, 1–17",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "225 x 170 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s10d16",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s10d16",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac NF M 39, Overtext (Melkite)",
+            "locus": "ff. 18, 1–17",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Transitional Melkite script"
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1-2 columns",
+                "lines": "23–27 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1xq1p",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1xq1p",
+                  "reconstruction": false,
+                  "label": "Diadochus of Photice, 100 Practical Chapters of Knowledge and Spiritual Discernment",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1p41n",
+                        "pref_title": "100 Practical Chapters of Knowledge and Spiritual Discernment",
+                        "genre": [
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          },
+                          {
+                            "id": "ascetica",
+                            "label": "Ascetica"
+                          }
+                        ],
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1h01q",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1h01q",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Diadochus, Bishop of Photice, active 5th century",
+                              "alt_name": [
+                                "Diadochus, Bishop of Photice, active 5th century"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 5th century",
+                                "iso": {
+                                  "not_before": "0401",
+                                  "not_after": "0500"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Diadochus, Bishop of Photice, active 5th century",
+                                  "uri": "http://viaf.org/viaf/32806504",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Diadochus Photicensis",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/auteur/895/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            },
+                            "role": {
+                              "id": "author",
+                              "label": "Author"
+                            }
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Capita centum de perfectione spirituali",
+                            "uri": "https://pinakes.irht.cnrs.fr/notices/oeuvre/1002/",
+                            "source": "Pinakes"
+                          }
+                        ],
+                        "refno": [
+                          {
+                            "label": "Capita centum de perfectione spirituali",
+                            "idno": "6106",
+                            "source": "CPG"
+                          }
+                        ]
+                      },
+                      "alt_title": "Diadochus of Photice, 100 Practical Chapters of Knowledge and Spiritual Discernment",
+                      "locus": "ff. 18, 1–17",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "ܬܪܥܝܬܐ ܕܣܛܪ ܡܢ ܐܠܗܐ܇ ܥܒܕܐ ܦܝܠܘܣܘܦܝܐ ܗܠܝܢ ܕܐܠܗܐ",
+                          "note": [
+                            "Corresponds to ch. 7"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "as_written": "ܠܐ ܚܫܚܝܬܐ ܡܕܡ ܬܬܚܙܐ ܢܦܫܐ. ܐܦܢ ...",
+                          "note": [
+                            "Corresponds to ch. 99: ἀχρεία πως ἡ ψυχὴ φαίνηται, κἂν (ed. des Places, p. 161, line 12)"
+                          ]
+                        }
+                      ],
+                      "note": [
+                        "Contents: Ch. 7 (f. 18r, the final sentence only), Ch. 8 (f. 18r), Ch. 9 (f. 18r, incomplete), Ch. 10 (f. 18v, incomplete), Ch. 11 (f. 18v), Ch. 12 (f. 18v, incomplete), Ch. 13 (f. 1r, acephalous), Ch. 14 (f. 1r), Ch. 15 (f. 1r–v), Ch. 16 (f. 1v–2r), Ch. 17 (f. 2r–v), Ch. 18 (f. 2v), Ch. 19 (f. 2v), Ch. 20 (f. 2v), Ch. 21 (f. 2v–3r), Ch. 22 (f. 3r), Ch. 23 (f. 3r), Ch. 24 (f. 3r–v), Ch. 25 (f. 3v), Ch. 26 (f. 3v–4r), Ch. 27 (f. 4r), Ch. 28 (f. 4r–v), Ch. 29 (f. 4v–5r), Ch. 30 (f. 5r), Ch. 31 (f. 5r–v), Ch. 32 (f. 5v), Ch. 33 (f. 5v–6r), Ch. 34 (f. 6r–v), Ch. 35 (f. 6v), Ch. 36 (f. 6v–7r), Ch. 37 (f. 7r–v), Ch. 38 (f. 7v), Ch. 39 (f. 7v), Ch. 40 (f. 7v–8r), Ch. 41 (f. 8r), Ch. 42 (f. 8r–v), Ch. 43 (f. 8v), Ch. 44 (f. 8v), Ch. 45 (f. 8v–9r), Ch. 46 (f. 9r), Ch. 47 (f. 9r), Ch. 48 (f. 9r–v), Ch. 49 (f. 9v), Ch. 50 (f. 9v), Ch. 51 (f. 9v–10r), Ch. 52 (f. 10r), Ch. 53 (f. 10r–v), Ch. 54 (f. 10v), Ch. 55 (f. 10v–11r), Ch. 56 (f. 11r), Ch. 57 (f. 11r), Ch. 58 (f. 11v), Ch. 59 (f. 11v–12r), Ch. 60 (f. 12r), Ch. 61 (f. 12r–v), Ch. 62 (f. 12v–13r), Ch. 63 (f. 13r), Ch. 64 (f. 13r–v), Ch. 65 (f. 13v–14r), Ch. 66 (f. 14r–v), Ch. 67 (f. 14v), Ch. 68 (f. 14v–15r), Ch. 69 (f. 15r–v), Ch. 70 (f. 15v), Ch. 71 (f. 15v–16r), Ch. 72 (f.  16r), Ch. 73 (f. 16r–v), Ch. 74 (f. 16v, incomplete), Ch. 96 (f. 17r, acephalous), Ch. 97 (f. 17r), Ch. 97 (f. 17r), Ch. 98 (f. 17r–v), Ch. 99 (f. 17v, incomplete)"
+                      ],
+                      "bib": [
+                        {
+                          "id": "472ef21c-bdb9-4970-8b82-ba1d7d5979fd",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Des Places 1955",
+                          "citation": "des Places, Édouard. Diadoque de Photicé, Œuvres spirituelles (Sources Chrétiennes 5 bis.) Paris: Éditions du Cerf, 1955",
+                          "range": "p. 84–163",
+                          "note": [
+                            "Greek edition of the text"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "note": [
+                    {
+                      "type": {
+                        "id": "contents",
+                        "label": "Contents Note"
+                      },
+                      "value": "Bilingual Syriac-Arabic text containing Bar Sira (Ecclesiasticus) 7:10-18. Diadochus' of Photike's treatise On Spiritual Perfection; no other Syriac translation is known to exist."
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s10d16"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+                        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "9th-10th c. CE",
+                "iso": {
+                  "not_before": "0801",
+                  "not_after": "1000"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "para",
+                  "label": "Paracontent Note"
+                },
+                "value": "Marginal notes by a later hand in Serto providing variant readings and explanatory glosses"
+              }
+            ],
+            "bib": [
+              {
+                "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Philothée 2008",
+                "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+                "range": "[M39N], pp. 425-435 "
+              },
+              {
+                "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Géhin 2017",
+                "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+                "range": "[M39N], p. 190"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1nw19cs"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). "
+                },
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1qw86",
+          "label": "Syriac Undertext: Gospel of Matthew",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 9, 11, 16",
+          "uto_ms_ark": "ark:/21198/z1815tph",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1vk9q",
+          "label": "Syriac Undertext: Gospel of Mark",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 7–8, 14, 17",
+          "uto_ms_ark": "ark:/21198/z14c3s9m",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s10d2k",
+          "label": "Syriac Undertext: Gospel of Luke",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 2–3, 5–6, 10, 12–13, 15, 18",
+          "uto_ms_ark": "ark:/21198/z10m31mq",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1434g",
+          "label": "Syriac Undertext: Gospel of John",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 4",
+          "uto_ms_ark": "ark:/21198/z1cs6kb1",
+          "script": [
+            "Estrangela"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "6th c. CE",
+              "iso": {
+                "not_before": "0501",
+                "not_after": "0600"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Quire signatures are marked in the inner edge of a bottom margin of the first and last pages of a quire; quires of 10 ff."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Two sewn quires and two singletons"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "From f. 18 only a top half is preserved"
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Old Syriac Gospels palimpsest, overwritten by Diadochus' of Photike's treatise On Spiritual Perfection"
+    }
+  ],
+  "bib": [
+    {
+      "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Philothée 2008",
+      "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+      "range": "[M39N], pp. 425-435 "
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Géhin 2017",
+      "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+      "range": "[M39N], p. 190"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1kk9tdr/manifest",
+      "label": "SPP",
+      "text_direction": "right-to-left",
+      "behavior": "paged"
+    },
+    {
+      "type": {
+        "id": "alt",
+        "label": "Alternate"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1nw19cs/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1612rfs%2F3p446b5z/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Lampros Galanis"
+        ],
+        "imaging_date": "2020 September",
+        "delivery": "7.2",
+        "condition_category": "1",
+        "imaging_system": "BC100 - 1 cam., 740 ppi, 90mm lens"
+      },
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

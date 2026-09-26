@@ -1,0 +1,453 @@
+{
+  "ark": "ark:/21198/z1q82xrz",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac 28",
+  "summary": "1 and 2 Kings",
+  "extent": "97 ff.",
+  "weight": "772.2 g",
+  "dim": "252 x 183 x 51 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "[I: Syriac M24N, ff. 1–9] ; [II: Syriac M24N, ff. 10–19] ; III: [Biblioteca Ambrosiana, A 296 inf., ff. 26, 25 = Chabot 4 (2 ff.)] + ff. 1–7 (one folio before f. 1 is wanting) ; IV: ff. 8–17 ; V: ff. 18–27 ; VI: ff. 28–37 ; VII: ff. 38–47 ; VIII: ff. 48–57 ; IX: ff. 58–67 ; X: ff. 68–77 ; XI: ff. 78–77 ; XII: ff. 88–97",
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 1-97",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "related_mss": [
+        {
+          "type": {
+            "id": "disjecta",
+            "label": "Disjecta Membra"
+          },
+          "label": "Originally belonged together with the following",
+          "mss": [
+            {
+              "label": "Sinai Syriac NF M 24 (ff. 1–19)",
+              "id": "ark:/21198/z1gb3w5t"
+            },
+            {
+              "label": "Biblioteca Ambrosiana, A 296 inf. (ff. 26, 25 = Chabot 4)"
+            }
+          ]
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1vs6n",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1vs6n",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac 28, Overtext (Estrangela)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "estrangela",
+                    "label": "Estrangela",
+                    "writing_system": "Syriac"
+                  }
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 column",
+                "lines": "20 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1pd5x",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1pd5x",
+                  "reconstruction": false,
+                  "label": "1 and 2 Kings (both incomplete)",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1q307",
+                        "pref_title": "Bible. Kings",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Kings",
+                            "uri": "http://id.loc.gov/authorities/names/n82066851",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Kings",
+                            "uri": "http://viaf.org/viaf/177005732",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "1 Kings (incomplete)",
+                      "locus": "ff. 1r–65v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "inc-mut",
+                            "label": "First Preserved Line"
+                          },
+                          "as_written": "... ܕܒܝܬ ܒܢܣܖ̈ܐ ܕܐܪܙܐ ܡܢ ܫܬܐ̈ܣܘܗܝ ܘܥܕܡܐ ܠܫܡܘ̈ܗܝ",
+                          "note": [
+                            "Corresponds to 1 Kings 6:16"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "id": "subscription",
+                            "label": "Subscription"
+                          },
+                          "as_written": "ܘܐܪܓܙ ܩܕܡ ܡܪܝܐ ܐܠܗܐ ܕܐܝܪܣܝܠ. ܐܝܟ ܕܥܒ̣ܕ ܐܒܘܗܝ ..."
+                        }
+                      ],
+                      "note": [
+                        "Contents: (f. 8r) Thursday of the Mid-Lent and for the renovation of the altar (1 Kings 8:1–); (f. 30r) commemoration of the martyrs (1 Kings 13:1–); (f. 43v) commemoration of the bishops (1 Kings 17:1–); (f. 47v) Wednesday of the Week of Rest and commemoration of Peter and Paul (1 Kings 18:21–); (f. 51v) beginning of the Lent, Tuesday of the Week of Rest, and commemoration of John the Baptist (1 Kings 19:1–); (f. 55r) Friday of the Week of Rest (1 Kings 20:22–); (f. 57v) Saturday of the Week of Rest and commemoration of saint Stephen (1 Kings 21:1–); (f. 65v) commemoration of the bishops (1 Kings 22:52–); (f. 68r) Ascension, Baptism and the Midnight office of Easter (2 Kings 2:1–); (f. 74r) first Saturday of the Lent and commemoration of the diseased (2 Kings 4:8–); (f. 77v) Nativity and the Ninth Hour of the Great Friday (2 Kings 5:1–); (f. 80v) Friday of the Week of Rest (2 Kings 6:1–); (f. 81r) commemoration of the Apostles (2 Kings 6:8–);"
+                      ],
+                      "bib": [
+                        {
+                          "id": "c8bb7efd-8475-4ff9-93c0-05859d30f8d9",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Gottlieb and Hammershaimb 1976",
+                          "citation": "Gottlieb, Hans, in collaboration with E. Hammershaimb, eds. The Old Testament in Syriac according to the Peshitta Version. Part II, fasc. 4: The Book of Kings. Leiden: Brill, 1976"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "ark": "ark:/21198/s1q307",
+                        "pref_title": "Bible. Kings",
+                        "genre": [
+                          {
+                            "id": "biblical-texts",
+                            "label": "Biblical texts"
+                          }
+                        ],
+                        "rel_con": [
+                          {
+                            "label": "Bible. Kings",
+                            "uri": "http://id.loc.gov/authorities/names/n82066851",
+                            "source": "LoC"
+                          },
+                          {
+                            "label": "Bible. Kings",
+                            "uri": "http://viaf.org/viaf/177005732",
+                            "source": "VIAF"
+                          }
+                        ]
+                      },
+                      "alt_title": "2 Kings (the beginning of the book is not marked; incomplete)",
+                      "locus": "ff. 65v–97v",
+                      "excerpt": [
+                        {
+                          "type": {
+                            "id": "incipit",
+                            "label": "Incipit"
+                          },
+                          "as_written": "... ܘܡܪܕ ܡܘܐܒ ܥܠ ܡܠܟܐ ܕܐܝܣܪܝܠ ܡܢ ܒܬܪ ܕܡܝܬ ܐܚܒ"
+                        },
+                        {
+                          "type": {
+                            "id": "des-mut",
+                            "label": "Last Preserved Line"
+                          },
+                          "as_written": "ܘܥܬܠܝܐ ܐܡܠܟܬ ܥܠ ܐܪܥܐ ...",
+                          "note": [
+                            "Corresponds to 2 Kings 11:3"
+                          ]
+                        }
+                      ],
+                      "contents": [
+                        {
+                          "label": "20 July, Elijah the Prophet",
+                          "locus": "f. 43v",
+                          "note": [
+                            "1 Kings 17:1–24"
+                          ]
+                        },
+                        {
+                          "label": "8th reading for the Holy Saturday",
+                          "locus": "f. 44r",
+                          "note": [
+                            "1 Kings 17:8–24"
+                          ]
+                        },
+                        {
+                          "label": "11th reading for the Vespers of Theophany",
+                          "locus": "f. 48v",
+                          "note": [
+                            "1 Kings 18:30–39"
+                          ]
+                        },
+                        {
+                          "label": "Transfiguration",
+                          "locus": "f. 50v",
+                          "note": [
+                            "1 Kings 19:3b–16"
+                          ]
+                        },
+                        {
+                          "label": "4th reading for the Vespers of Theophany",
+                          "locus": "f. 68r",
+                          "note": [
+                            "2 Kings 2:2–14"
+                          ]
+                        },
+                        {
+                          "label": "12th reading for the Vespers of Theophany",
+                          "locus": "f. 70r",
+                          "note": [
+                            "2 Kings 2:19–22"
+                          ]
+                        },
+                        {
+                          "label": "12th reading for the Holy Saturday",
+                          "locus": "f. 74r",
+                          "note": [
+                            "2 Kings 4:8–37"
+                          ]
+                        },
+                        {
+                          "label": "5th reading for the Vespers of Theophany",
+                          "locus": "f. 78v",
+                          "note": [
+                            "2 Kings 5:9–14"
+                          ]
+                        }
+                      ],
+                      "bib": [
+                        {
+                          "id": "c8bb7efd-8475-4ff9-93c0-05859d30f8d9",
+                          "type": {
+                            "id": "edition",
+                            "label": "Edition"
+                          },
+                          "shortcode": "Gottlieb and Hammershaimb 1976",
+                          "citation": "Gottlieb, Hans, in collaboration with E. Hammershaimb, eds. The Old Testament in Syriac according to the Peshitta Version. Part II, fasc. 4: The Book of Kings. Leiden: Brill, 1976"
+                        }
+                      ]
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1vs6n"
+                  ],
+                  "desc_provenance": {
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "7th c.",
+                "iso": {
+                  "not_before": "0601",
+                  "not_after": "0700"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "deco-vegetative",
+                "label": "Decoration, Vegetative"
+              },
+              {
+                "id": "headpiece",
+                "label": "Headpiece(s)"
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "ornamentation",
+                  "label": "Ornamentation note"
+                },
+                "value": "Minor vegetal headpieces throughout, ff. 42v-92v, fleur de lis"
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[1], p. 151"
+              },
+              {
+                "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+                "type": {
+                  "id": "otherdigversion",
+                  "label": "Other Digital Version"
+                },
+                "shortcode": "LOC",
+                "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+                "url": "https://www.loc.gov/item/00279386413-ms/"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1q82xrz"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "Double quire signature – in Syriac and Aramaic numerals – is marked in the bottom margin of the first page of a quire; quires of 10 ff."
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[1], p. 151"
+    },
+    {
+      "id": "ec7c937f-655a-4459-b327-3793637b9db9",
+      "type": {
+        "id": "otherdigversion",
+        "label": "Other Digital Version"
+      },
+      "shortcode": "LOC",
+      "citation": "Manuscripts in St. Catherine's Monastery, Mount Sinai. Library of Congress",
+      "url": "https://www.loc.gov/item/00279386413-ms/"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://iiif.library.ucla.edu/ark%3A%2F21198%2Fz1q82xrz/manifest",
+      "label": "SLDP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://iiif.sinaimanuscripts.library.ucla.edu/iiif/2/ark%3A%2F21198%2Fz1q82xrz%2Fq245561z/full/!200,200/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Library Digitization Project, Phase 1",
+        "description": "Digitized under the Sinai Library Digitization Project, Phase 1 (2018-2023), a collaboration of St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, with funding from the Arcadia Fund, the Ahmanson Foundation, and the Steinmetz Family Foundation. The project provided high-resolution images and basic description of the Arabic and Syriac manuscripts held in the Monastery’s library.",
+        "camera_operator": [
+          "Christos Georgiades"
+        ],
+        "imaging_date": "2019 May",
+        "delivery": "4.4",
+        "imaging_system": "BC100 - 2 cam., 740 ppi, 90mm lens"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

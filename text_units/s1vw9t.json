@@ -1,0 +1,125 @@
+{
+  "ark": "ark:/21198/s1vw9t",
+  "reconstruction": false,
+  "label": "Liturgical gospels and psalms",
+  "lang": [
+    {
+      "id": "class1252",
+      "label": "Syriac"
+    }
+  ],
+  "work_wit": [
+    {
+      "work": {
+        "id": "ark:/21198/s19p4w"
+      },
+      "alt_title": "Gospel readings for Easter season (? fragment from a Gospel lectionary)",
+      "locus": "ff. 1r–4v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "inc-mut",
+            "label": "First Preserved Line"
+          },
+          "as_written": "ܕܩܝܡܬܐ ܡܢ ܠܘܩܐ ܫܠܝܚܐ ܘܡܣܒܪܢܐ",
+          "note": [
+            "Rubric"
+          ]
+        },
+        {
+          "type": {
+            "id": "subscription",
+            "label": "Subscription"
+          },
+          "as_written": "ܕܚܙܬ ܠܡܪܢ ܘܕܗܠܝܢ ܐܡܪ ܠܗ"
+        }
+      ]
+    },
+    {
+      "work": {
+        "desc_title": "Responsorial psalms for a liturgical year (Jerusalem rite) (incomplete)",
+        "genre": [
+          {
+            "id": "liturgical-texts",
+            "label": "Liturgical texts"
+          },
+          {
+            "id": "hymnals",
+            "label": "Hymnals"
+          }
+        ]
+      },
+      "locus": "ff. 5r–8v",
+      "excerpt": [
+        {
+          "type": {
+            "id": "heading",
+            "label": "Heading"
+          },
+          "as_written": "ܦܪܘܒܣܠܡܛܐ ܕܥܕ̈ܐ ܘܕܚܕܒܫ̈ܒܐ ܕܟܠܗ̇ ܫܢܬܐ",
+          "translation": [
+            "Propsalma (responsorial psalms) for the entire year"
+          ]
+        },
+        {
+          "type": {
+            "id": "incipit",
+            "label": "Incipit"
+          },
+          "as_written": "ܕܒܝܬ ܝܠܕܐ ܡܙܡܘܪܐ : ܩ : ܐ : ܡܪܝܐ ܐܡܪ ܠܝ ܕܒܪܝ ܐܢܬ ܘܐܢܐ ܝܘܡܢܐ ܝܠܕܬܟ",
+          "note": [
+            "Text begins at: Ps. 2:7"
+          ]
+        },
+        {
+          "type": {
+            "id": "des-mut",
+            "label": "Last Preserved Line"
+          },
+          "as_written": "ܬܡܢ ܐܕܢܚ ܩܪܢܐ ܠܕܘܝܕ ܘܐܢܗܪ ܫܪܓܐ ܠܡܫܝܚܗ",
+          "note": [
+            "Text ends at: Ps. 131:17"
+          ]
+        }
+      ]
+    },
+    {
+      "work": {
+        "id": "ark:/21198/s10k5f"
+      },
+      "alt_title": "Selected readings from the Gospels",
+      "locus": "ff. 9–13"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "contents",
+        "label": "Contents Note"
+      },
+      "value": "Selected readings from the Gospels (ff. 9r–13r): Matthew 5:1–16, Luke 1:39–56, John 19:23–37."
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31+00:00"
+    }
+  ],
+  "parent": [
+    "ark:/21198/s1xk9b"
+  ]
+}
