@@ -472,7 +472,10 @@
     },
     {
       "work": {
-        "id": "ark:/21198/s1xd53"
+        "id": [
+          "ark:/21198/s1xd53"
+        ],
+        "desc_title": "Life of Gregory of Armenia"
       },
       "as_written": "هذه تسعية اغريغوريوس القديس...الذي تلمد ارمينية وجميع اعمالها... شفاعته تحفظنا امين",
       "locus": "ff. 119v-198r",
@@ -523,9 +526,11 @@
     },
     {
       "work": {
-        "id": "ark:/21198/s18w2w"
+        "id": [
+          "ark:/21198/s18w2w"
+        ],
+        "desc_title": "Exodus and excerpts from Leviticus"
       },
-      "alt_title": "Exodus and excerpts from Leviticus",
       "as_written": "هذا الكتاب خروج بني اسرايل من مصر مجموع من التوراة يقرا النياحة موسى النبي معاين الله (f. 206r)",
       "locus": "ff. 206r-400v",
       "excerpt": [

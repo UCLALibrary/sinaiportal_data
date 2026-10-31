@@ -148,7 +148,7 @@
             "subtype": [
                 {
                     "id": "possession-note",
-                    "label": "Possession Note"
+                    "label": "Possession note"
                 }
             ],
             "locus": "front pastedown",
@@ -170,8 +170,8 @@
             },
             "subtype": [
                 {
-                    "id": "transfer-of-ownership",
-                    "label": "Transfer of Ownership"
+                    "id": "transfer",
+                    "label": "Transfer of ownership"
                 }
             ],
             "locus": "rear pastedown",
@@ -590,7 +590,7 @@
                     "subtype": [
                         {
                             "id": "reader-note",
-                            "label": "Reader's Note"
+                            "label": "Reader note"
                         }
                     ],
                     "locus": "f. 201r, margin",
@@ -630,8 +630,8 @@
                     },
                     "subtype": [
                         {
-                            "id": "toc",
-                            "label": "Table of Contents"
+                            "id": "title-note",
+                            "label": "Title note"
                         }
                     ],
                     "locus": "f. 281r",

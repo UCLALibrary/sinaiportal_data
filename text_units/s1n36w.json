@@ -12,9 +12,11 @@
   "work_wit": [
     {
       "work": {
-        "id": "ark:/21198/s1h30c"
+        "id": [
+          "ark:/21198/s1h30c"
+        ],
+        "desc_title": "Synaxarium for the whole year"
       },
-      "alt_title": "Synaxarium for the whole year, preceded by an introduction and followed by an appendix in different hands and in smaller format",
       "locus": "ff. 3v-248r",
       "contents": [
         {
@@ -59,6 +61,9 @@
         {
           "label": "Appendix, ff. 243r-248r"
         }
+      ],
+      "note": [
+        "Preceded by an introduction and followed by an appendix in different hands and in smaller format"
       ]
     }
   ],

@@ -46,6 +46,20 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "commission",
+          "label": "Commission"
+        },
+        {
+          "id": "purchase",
+          "label": "Purchase"
+        },
+        {
+          "id": "attested-scribe",
+          "label": "Attested scribe"
+        }
+      ],
       "locus": "f. 107r",
       "lang": [
         {
@@ -63,6 +77,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "possession-note",
+          "label": "Possession note"
+        }
+      ],
       "locus": "f. 134v",
       "lang": [
         {

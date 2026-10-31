@@ -43,9 +43,15 @@
   "para": [
     {
       "type": {
-        "id": "history",
-        "label": "History"
+        "id": "misc",
+        "label": "Miscellaneous"
       },
+      "subtype": [
+        {
+          "id": "title-note",
+          "label": "Title note"
+        }
+      ],
       "locus": "Front board outside",
       "lang": [
         {
@@ -54,6 +60,9 @@
         }
       ],
       "as_written": "هذا الاستشريرا المقدس / [....] / الى جميع القديسـين",
+      "translation": [
+        "This holy Sticherarion (?) […] to All Saints."
+      ],
       "note": [
         "Paper fragment pasted as a label on the out side of the board"
       ]

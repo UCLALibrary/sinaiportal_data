@@ -11,9 +11,11 @@
   "work_wit": [
     {
       "work": {
-        "id": "ark:/21198/s1q307"
+        "id": [
+          "ark:/21198/s1q307"
+        ],
+        "desc_title": "1 Kings (incomplete)"
       },
-      "alt_title": "1 Kings (incomplete)",
       "locus": "ff. 1r–65v",
       "excerpt": [
         {
@@ -51,9 +53,11 @@
     },
     {
       "work": {
-        "id": "ark:/21198/s1q307"
+        "id": [
+          "ark:/21198/s1q307"
+        ],
+        "desc_title": "2 Kings"
       },
-      "alt_title": "2 Kings (the beginning of the book is not marked; incomplete)",
       "locus": "ff. 65v–97v",
       "excerpt": [
         {
@@ -131,6 +135,9 @@
             "2 Kings 5:9–14"
           ]
         }
+      ],
+      "note": [
+        "The beginning of the book is not marked; incomplete"
       ],
       "bib": [
         {

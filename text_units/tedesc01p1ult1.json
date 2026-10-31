@@ -13,7 +13,10 @@
     "work_wit": [
         {
             "work": {
-                "id": "ark:/21198/tedescw1"
+                "id": [
+                    "ark:/21198/tedescw1"
+                ],
+                "desc_title": "Descriptive title for the work witness, e.g. Gospel of Matthew"
             },
             "locus": "Locus of the undertext work witness",
             "as_written": "Undertext incipit as written in the original script",

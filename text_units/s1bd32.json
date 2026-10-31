@@ -12,7 +12,10 @@
   "work_wit": [
     {
       "work": {
-        "id": "ark:/21198/s1qk5z"
+        "id": [
+          "ark:/21198/s1qk5z"
+        ],
+        "desc_title": "Typikon"
       },
       "locus": "ff. 1r-91r",
       "contents": [
@@ -104,14 +107,22 @@
     },
     {
       "work": {
-        "id": "ark:/21198/s1088g"
+        "id": [
+          "ark:/21198/s1088g"
+        ],
+        "desc_title": "Lectionary (Gospels)"
       },
-      "alt_title": "Lectionary (Gospels), comprising eleven sections and beginning with [the third section from] the Gospel of Mark",
-      "locus": "ff. 103r-116r"
+      "locus": "ff. 103r-116r",
+      "note": [
+        "Comprising eleven sections and beginning with [the third section from] the Gospel of Mark"
+      ]
     },
     {
       "work": {
-        "id": "ark:/21198/s1088g"
+        "id": [
+          "ark:/21198/s1088g"
+        ],
+        "desc_title": "Lectionary (Epistles and Gospels)"
       },
       "alt_title": "Lectionary (Epistles and Gospels), beginning with the Epistle to the Hebrews",
       "locus": "ff. 116r-130r"

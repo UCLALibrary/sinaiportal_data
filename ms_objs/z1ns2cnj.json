@@ -46,6 +46,16 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "possession-note",
+          "label": "Possession note"
+        },
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
       "locus": "f. 138r",
       "lang": [
         {
@@ -63,6 +73,16 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "commission",
+          "label": "Commission"
+        },
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
       "locus": "f. 200v",
       "lang": [
         {
@@ -80,6 +100,12 @@
         "id": "misc",
         "label": "Miscellaneous"
       },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
       "locus": "f. 178r",
       "lang": [
         {

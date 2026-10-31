@@ -11,14 +11,19 @@
   "work_wit": [
     {
       "work": {
-        "id": "ark:/21198/s18306"
+        "id": [
+          "ark:/21198/s18306"
+        ],
+        "desc_title": "Book of Ezra"
       }
     },
     {
       "work": {
-        "id": "ark:/21198/s1p88p"
-      },
-      "alt_title": "Prophecy of Baruch"
+        "id": [
+          "ark:/21198/s1p88p"
+        ],
+        "desc_title": "Prophecy of Baruch"
+      }
     }
   ],
   "desc_provenance": {

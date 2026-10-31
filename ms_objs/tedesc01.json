@@ -92,8 +92,8 @@
                     },
                     "subtype": [
                         {
-                            "id": "toc",
-                            "label": "Table of Contents"
+                            "id": "title-note",
+                            "label": "Title note"
                         }
                     ],
                     "locus": "Locus of the part-level paracontent, e.g. f. 1r",
@@ -275,7 +275,7 @@
             "subtype": [
                 {
                     "id": "possession-note",
-                    "label": "Possession Note"
+                    "label": "Possession note"
                 }
             ],
             "locus": "Locus of the manuscript-level possession note, e.g. front flyleaf, recto",
@@ -317,7 +317,7 @@
                 },
                 {
                     "id": "scribe-note",
-                    "label": "Scribe's Note"
+                    "label": "Scribal note"
                 }
             ],
             "locus": "Locus of the supplication note, e.g. rear flyleaf, verso",

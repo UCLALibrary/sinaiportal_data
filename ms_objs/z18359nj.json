@@ -46,6 +46,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "waqf-endow",
+          "label": "Waqf/Endowment"
+        }
+      ],
       "locus": "Front board inside",
       "lang": [
         {
@@ -66,6 +72,16 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "waqf-endow",
+          "label": "Waqf/Endowment"
+        },
+        {
+          "id": "anathema",
+          "label": "Anathema"
+        }
+      ],
       "locus": "f. 1r",
       "lang": [
         {
@@ -73,7 +89,10 @@
           "label": "Arabic"
         }
       ],
-      "as_written": "هذا الكتاب المبارك وقف على دير القديس مار / توما الزبداني فمن غيره عن الدير المذكور كان / الله (؟) يوم الدين [....]ن / الحقير سمعان اسقف الزبداني وكتبه الحقير انطوني ايضا والحمد لله"
+      "as_written": "هذا الكتاب المبارك وقف على دير القديس مار / توما الزبداني فمن غيره عن الدير المذكور كان / الله (؟) يوم الدين [....]ن / الحقير سمعان اسقف الزبداني وكتبه الحقير انطوني ايضا والحمد لله",
+      "translation": [
+        "This blessed book is an endowment to the monastery of Saint Mār Tūmā of al-Zabadānī. Whoever alters it from the said monastery, God (?) on the Day of Judgment […]. The despised Samʻān, bishop of al-Zabadānī, and the despised Anṭūnī also wrote it, and praise be to God."
+      ]
     }
   ],
   "location": [

@@ -17,7 +17,10 @@
     "work_wit": [
         {
             "work": {
-                "id": "ark:/21198/tedescw1"
+                "id": [
+                    "ark:/21198/tedescw1"
+                ],
+                "desc_title": "Descriptive title for the work witness, e.g. Gospel of Matthew"
             },
             "locus": "Locus of this work witness, e.g. ff. 1r-45v",
             "alt_title": "Witness-specific alternate title, e.g. title as given in this manuscript",
@@ -234,10 +237,6 @@
                 {
                     "id": "rubric",
                     "label": "Rubric"
-                },
-                {
-                    "id": "heading",
-                    "label": "Heading"
                 }
             ],
             "locus": "Locus of the paracontent item, e.g. f. 1r",

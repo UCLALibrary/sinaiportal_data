@@ -43,9 +43,15 @@
   "para": [
     {
       "type": {
-        "id": "misc",
-        "label": "Miscellaneous"
+        "id": "guest",
+        "label": "Guest"
       },
+      "subtype": [
+        {
+          "id": "reader-note",
+          "label": "Reader note"
+        }
+      ],
       "locus": "f. 124v",
       "lang": [
         {

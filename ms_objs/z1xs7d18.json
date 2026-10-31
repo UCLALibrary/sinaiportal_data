@@ -54,6 +54,16 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        },
+        {
+          "id": "waqf-endow",
+          "label": "Waqf/Endowment"
+        }
+      ],
       "locus": "front board inside",
       "lang": [
         {
@@ -61,7 +71,10 @@
           "label": "Arabic"
         }
       ],
-      "as_written": "[....] / [....] / على كنيسة دير طور سينا / رزقنا الله بركة صلوات / [....] القديسين [....]"
+      "as_written": "[....] / [....] / على كنيسة دير طور سينا / رزقنا الله بركة صلوات / [....] القديسين [....]",
+      "translation": [
+        "[…] to the church of the monastery of Mount Sinai. May God grant us the blessing of the prayers of […] the saints […]."
+      ]
     }
   ],
   "location": [

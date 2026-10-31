@@ -12,16 +12,23 @@
   "work_wit": [
     {
       "work": {
-        "id": "ark:/21198/s1xs34"
+        "id": [
+          "ark:/21198/s1xs34"
+        ],
+        "desc_title": "Acts of the Apostles"
       },
-      "alt_title": "Acts of the Apostles, with lectionary rubrics throughout and preceded by introductory material",
-      "locus": "ff. 3v-45v"
+      "locus": "ff. 3v-45v",
+      "note": [
+        "With lectionary rubrics throughout and preceded by introductory material"
+      ]
     },
     {
       "work": {
-        "id": "ark:/21198/s1hg6f"
+        "id": [
+          "ark:/21198/s1hg6f"
+        ],
+        "desc_title": "Epistles of St. Paul"
       },
-      "alt_title": "Epistles of St. Paul, with lectionary rubrics throughout and each epistle preceded by introductory material",
       "locus": "ff. 45v-148v",
       "contents": [
         {
@@ -66,13 +73,18 @@
         {
           "label": "Hebrews, ff. 135v-148v"
         }
+      ],
+      "note": [
+        "With lectionary rubrics throughout and each epistle preceded by introductory material"
       ]
     },
     {
       "work": {
-        "id": "ark:/21198/s1n88c"
+        "id": [
+          "ark:/21198/s1n88c"
+        ],
+        "desc_title": "Catholic Epistles"
       },
-      "alt_title": "Catholic Epistles, with lectionary rubrics throughout and each epistle preceded by introductory material",
       "locus": "ff. 148v-171v",
       "contents": [
         {
@@ -96,6 +108,9 @@
         {
           "label": "Jude, ff. 169v-171v"
         }
+      ],
+      "note": [
+        "With lectionary rubrics throughout and each epistle preceded by introductory material"
       ]
     },
     {

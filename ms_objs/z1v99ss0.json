@@ -46,6 +46,12 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "purchase",
+          "label": "Purchase"
+        }
+      ],
       "locus": "f. 117r",
       "lang": [
         {
@@ -66,6 +72,20 @@
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "transfer",
+          "label": "Transfer of ownership"
+        },
+        {
+          "id": "gift",
+          "label": "Gift"
+        },
+        {
+          "id": "anathema",
+          "label": "Anathema"
+        }
+      ],
       "locus": "f. 224",
       "lang": [
         {
@@ -73,13 +93,26 @@
           "label": "Arabic"
         }
       ],
-      "as_written": "انتقل هذا الدفتر لمار مولوجن من المعلم انبا يحنا / ريس دير السيدة (بكتفيز؟) وهو ابن الناطور الى ولد / اخوه القس داوود اوهبه اياه ولا لاحد / من الناس ان يغيره عنه فمتى [....] / الدينونه"
+      "as_written": "انتقل هذا الدفتر لمار مولوجن من المعلم انبا يحنا / ريس دير السيدة (بكتفيز؟) وهو ابن الناطور الى ولد / اخوه القس داوود اوهبه اياه ولا لاحد / من الناس ان يغيره عنه فمتى [....] / الدينونه",
+      "translation": [
+        "This defter of Mār Mūlūjin (?) passed from the teacher Anbā Yaḥnā, head of the monastery of the Lady (Biktafīz?), who is the son of al-Nāṭūr, to his brother’s son, the priest Dāwūd. He gave it to him as a gift, and no one may alter it from him. So whenever […] the Judgment."
+      ]
     },
     {
       "type": {
         "id": "history",
         "label": "History"
       },
+      "subtype": [
+        {
+          "id": "transfer",
+          "label": "Transfer of ownership"
+        },
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
       "locus": "f. 224v",
       "lang": [
         {
@@ -87,7 +120,10 @@
           "label": "Arabic"
         }
       ],
-      "as_written": "انتقل هذا الدفتر من القس داوود (بكفتين؟) الى القس افرام / بن القس يوسف (من دره؟) بالموافقه والرضا وزالت / عنه (؟) من المعلم ابا يوحنا رحمه الله ولكل النصارى"
+      "as_written": "انتقل هذا الدفتر من القس داوود (بكفتين؟) الى القس افرام / بن القس يوسف (من دره؟) بالموافقه والرضا وزالت / عنه (؟) من المعلم ابا يوحنا رحمه الله ولكل النصارى",
+      "translation": [
+        "This defter passed from the priest Dāwūd (Bikaftīn?) to the priest Afrām son of the priest Yūsuf (of Darra?), by agreement and consent, and it passed out of the hands (?) of the teacher Abā Yūḥannā, may God have mercy on him and on all Christians."
+      ]
     }
   ],
   "location": [

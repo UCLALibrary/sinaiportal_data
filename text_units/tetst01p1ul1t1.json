@@ -13,7 +13,10 @@
     "work_wit": [
         {
             "work": {
-                "id": "ark:/21198/s1ps01"
+                "id": [
+                    "ark:/21198/s1ps01"
+                ],
+                "desc_title": "Book of Psalms"
             },
             "locus": "ff. 10-25, 30-45",
             "as_written": "Μακάριος ἀνήρ",
@@ -76,8 +79,8 @@
             },
             "subtype": [
                 {
-                    "id": "heading",
-                    "label": "Heading"
+                    "id": "rubric",
+                    "label": "Rubric"
                 }
             ],
             "locus": "f. 15r",

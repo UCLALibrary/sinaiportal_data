@@ -12,7 +12,10 @@
   "work_wit": [
     {
       "work": {
-        "id": "ark:/21198/s1xs34"
+        "id": [
+          "ark:/21198/s1xs34"
+        ],
+        "desc_title": "Acts of the Apostles"
       },
       "locus": "ff. 3r-39v",
       "note": [
@@ -21,9 +24,11 @@
     },
     {
       "work": {
-        "id": "ark:/21198/s1hg6f"
+        "id": [
+          "ark:/21198/s1hg6f"
+        ],
+        "desc_title": "Epistles of St. Paul"
       },
-      "alt_title": "Epistles of St. Paul",
       "locus": "ff. 40r-119r",
       "contents": [
         {
@@ -72,9 +77,11 @@
     },
     {
       "work": {
-        "id": "ark:/21198/s1n88c"
+        "id": [
+          "ark:/21198/s1n88c"
+        ],
+        "desc_title": "Catholic Epistles"
       },
-      "alt_title": "Catholic Epistles",
       "locus": "ff. 119r-135v",
       "contents": [
         {
@@ -105,7 +112,10 @@
     },
     {
       "work": {
-        "id": "ark:/21198/s1088g"
+        "id": [
+          "ark:/21198/s1088g"
+        ],
+        "desc_title": "Table of lessons from Acts and Epistles"
       },
       "alt_title": "A table of lessons from both Acts and Epistles (from Easter to Pentecost)",
       "locus": "ff. 162v-178v"
