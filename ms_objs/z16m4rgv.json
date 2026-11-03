@@ -63,9 +63,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هاذ الكتاب المبارك وقف / على كنيسة الست السيدة كنيسه / السريان بدير طور سينا ؟ / فلاحد سلطان من الله تعالى ان يخرجه / عنها بوجه من الوجوه ومن اخرجه عنها / واختلسه لنفسه وغيره هاذ الورقه / يكون محروم مفروز من مجد الاب ويكون خضه / مع الذين قالوا اصلبه اصلبه من فمي / انا الحقير (بين؟) بني البشر جرمانوس خادم / جبل الله المقدس سينا",
       "translation": [
         "This blessed book is endowed to the Church of the Lady, the Syrians, in the monastery of Mount Sinai. No one has authority from God the almighty to take it out from it in any way. Whoever takes it out from there and embezzled it to himself or others […] may he be banned and separated from the glory of the Father, and may his share be with those who cried out: crucify him, Crucify him. [This statement] is from my mouth, I the despised among people, Jirmānūs the servant of the Holy Mount of God in Sinai"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written between 1300-1336 CE"
       ]
     }
   ],

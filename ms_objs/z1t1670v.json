@@ -37,6 +37,35 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "poem",
+              "label": "Poem"
+            }
+          ],
+          "locus": "f. 192v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Verse of a poem about death"
+        }
       ]
     }
   ],

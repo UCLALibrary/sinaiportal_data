@@ -37,6 +37,48 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f.166r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            },
+            {
+              "id": "class1252",
+              "label": "Syriac"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            },
+            {
+              "id": "syriac-undetermined",
+              "label": "Undetermined (Syriac)",
+              "writing_system": "Syriac"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "يا رب ارحم الخليقه ارحم لعبدك كان كاتبه يا قاري الخط قول بالله امين / ܡܕܚܩܢܐ ܕܚܐܢ ܠܓܒܠܬܗ ܚܘܢ ܠܥܒܕܐ ܝܠܐܚܛܐ؟ ܒܝܡܡ ܕܝܢܗ",
+          "translation": [
+            "Lord, have mercy on creation, have mercy on your servant who was its scribe. O reader of the script, say, by God, Amen"
+          ]
+        }
       ]
     }
   ],

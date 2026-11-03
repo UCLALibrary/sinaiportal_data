@@ -76,6 +76,43 @@
           }
         }
       ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "f. 218v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer",
+      "as_written": "يا رب اغفر لعبدك الخاطي الملطي / والودي و لجميع قال امين",
+      "assoc_name": [
+        {
+          "value": "al-Malṭī?",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ]
     }
   ],
   "assoc_date": [

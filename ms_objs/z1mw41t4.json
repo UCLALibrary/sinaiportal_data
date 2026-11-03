@@ -63,9 +63,59 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول انا جرمانوس اسقف طور سينا / المقدس ان هذا الكتاب / وقف على طور سينا المقدس فمن / تعدا واخرجه من الموضع / يكون محروم",
       "translation": [
         "I, Jirmānūs Bishop of the Holy Mount Sinai, state that / this book is endowed to the Holy Mount Sinai. Whoever transgresses and takes it out from [its] place will be banned"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written between 1300-1336 CE"
+      ]
+    },
+    {
+      "type": {
+        "id": "guest",
+        "label": "Guest"
+      },
+      "subtype": [
+        {
+          "id": "prayer",
+          "label": "Prayer"
+        }
+      ],
+      "locus": "ff. 1r-3r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Ritual prayer",
+      "note": [
+        "Flyleaves later written on and foliated"
       ]
     }
   ],
@@ -74,6 +124,15 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Arabic list of Coptic months, f. 254v"
     }
   ],
   "bib": [

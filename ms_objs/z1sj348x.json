@@ -37,6 +37,38 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "account-note",
+              "label": "Accounting note"
+            }
+          ],
+          "locus": "f. 72v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "List of names along with money amounts (debt list?)",
+          "note": [
+            "Most of the names are crossed out or covered by ink smudges"
+          ]
+        }
       ]
     }
   ],
@@ -63,9 +95,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول انا جرمانوس الحق[ير] / اسقف طور سينا المقدس ان هذ[ا] / الابصلتير وقف على الساحل / فمن تجاسر وغيره عن الموضع / فيكون تحت المنع ولا لاحد / سلطان يغير هذه الورقه",
       "translation": [
         "I, Jirmānūs, the Bishop of Mount Sinai, state that this Psalter is endowed to the coast. May whoever dare to change its location be under ban. No one has authority to change this statement"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written in the first half of the 14th century (before 1336 CE)"
       ]
     }
   ],
@@ -74,6 +126,15 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Syriac text in Arabic script, in faint red ink, ff. 149v-150r"
     }
   ],
   "bib": [

@@ -37,6 +37,42 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 220v, 221r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "يا رب اغفر للذي / كتبه",
+          "translation": [
+            "O Lord, forgive him who wrote it (this note / the manuscript)"
+          ],
+          "note": [
+            "Prayer repeated twice"
+          ]
+        }
       ]
     }
   ],

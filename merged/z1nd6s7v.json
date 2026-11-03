@@ -1,0 +1,379 @@
+{
+  "ark": "ark:/21198/z1nd6s7v",
+  "reconstruction": true,
+  "type": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "shelfmark": "UTO Sinai Syriac 30, SPP No. 167",
+  "extent": "7 fols.",
+  "state": {
+    "id": "uto",
+    "label": "Undertext Object"
+  },
+  "fol": "Reconstructed folio order, ff. 176r, 176v, 182r (= pastedown), 181v, 181r, 172v,  172r, 171v, 171r, 177r, 177v",
+  "features": [
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    },
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1393v",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1393v",
+            "reconstruction": false,
+            "state": {
+              "id": "undertext",
+              "label": "Undertext"
+            },
+            "label": "Sinai Syriac 30, Undertext (Greek majuscule)",
+            "locus": "ff. 171, 172r, 176–177, 181,182r",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ],
+                "note": [
+                  "Sloping pointed majuscule | Contrast between thick and thin strokes; presence of serifs at the ends of thin strokes; the vertical strokes of rho, ypsilon, and phi end with a curve to the left; beta is maximized and has round curves; the oblique strokes of kappa are detached from the vertical stroke; the central strokes of mu are merged into a curve; omega has rounded curves; angle of inclination ca. 118°"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 columns",
+                "lines": "30 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1r96w",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1r96w",
+                  "reconstruction": false,
+                  "label": "Epistula magna",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "Ps.-Marcarius, Epistula magna",
+                        "creator": [
+                          {
+                            "id": "ark:/21198/s1mk51",
+                            "agent_record": {
+                              "ark": "ark:/21198/s1mk51",
+                              "type": {
+                                "id": "person",
+                                "label": "Person"
+                              },
+                              "pref_name": "Macarius, the Egyptian, Saint, active 4th century",
+                              "alt_name": [
+                                "Macarius the Great"
+                              ],
+                              "gender": {
+                                "id": "man",
+                                "label": "Man"
+                              },
+                              "floruit": {
+                                "value": "active 4th century",
+                                "iso": {
+                                  "not_before": "0301",
+                                  "not_after": "0400"
+                                }
+                              },
+                              "rel_con": [
+                                {
+                                  "label": "Macarius, the Egyptian, Saint, active 4th century",
+                                  "uri": "http://viaf.org/viaf/93095832",
+                                  "source": "VIAF"
+                                },
+                                {
+                                  "label": "Macarius, the Egyptian, Saint, active 4th century",
+                                  "uri": "https://id.loc.gov/authorities/names/n82031613",
+                                  "source": "LoC"
+                                },
+                                {
+                                  "label": "Macarius, the Egyptian, active 4th century",
+                                  "uri": "https://w3id.org/haf/person/514173120360",
+                                  "source": "HAF"
+                                },
+                                {
+                                  "label": "Macarius",
+                                  "uri": "http://syriaca.org/person/856",
+                                  "source": "Syriaca"
+                                },
+                                {
+                                  "label": "Macarius Aegyptius discipulus S. Antonii",
+                                  "uri": "https://pinakes.irht.cnrs.fr/notices/saint/532/",
+                                  "source": "Pinakes"
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "genre": [
+                          {
+                            "id": "sermons",
+                            "label": "Sermons"
+                          },
+                          {
+                            "id": "theological-works",
+                            "label": "Theological works"
+                          }
+                        ]
+                      },
+                      "note": [
+                        "About 52 lines, corresponding to three sides of text (one folio + one side), of the Jaeger edition are missing between 271.16 (fol. 176v) and 274.2 (fol. 182r). About 39 lines, corresponding to one folio, of the Jaeger edition are missing between 281.13 (fol. 171r) and 283.6 (fol. 177r); these correspond to two sides (one folio) of text. These gaps coincide with a lost bifolio (the second in the quire, if this was a quaternio) and a lost page (the unreadable side of fol. 182 = pastedown); the original quaternio can be reconstructed as follows: I (176rv), II (fol. lost), III (recto unreadable, verso = pastedown/182r), IV (181vr), V (172vr), VI (171vr), VII (fol. lost), VIII (177rv)"
+                      ]
+                    }
+                  ],
+                  "bib": [
+                    {
+                      "id": "ebdf5ca6-5632-485f-a4c9-6b77f8bb1b84",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Jaeger 1954",
+                      "citation": "Jaeger, Werner, ed. Two rediscovered works of ancient Christian literature: Gregory of Nyssa and Macarius. Leiden, 1954",
+                      "note": [
+                        "About 52 lines, corresponding to three sides of text (one folio + one side), of the Jaeger edition are missing between 271.16 (fol. 176v) and 274.2 (fol. 182r). About 39 lines, corresponding to one folio, of the Jaeger edition are missing between 281.13 (fol. 171r) and 283.6 (fol. 177r); these correspond to two sides (one folio) of text."
+                      ]
+                    },
+                    {
+                      "id": "09cff330-0165-4291-8e21-39c3167f0749",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Hjelt 1930",
+                      "citation": "Hjelt, Arthur, ed. Syrus sinaiticus. Helsingfors, 1930",
+                      "range": "p. 15"
+                    },
+                    {
+                      "id": "18eb3112-1250-41ce-9bfa-5e6e49d606c4",
+                      "type": {
+                        "id": "cite",
+                        "label": "Citation"
+                      },
+                      "shortcode": "Voicu 1984",
+                      "citation": " Voicu, Sever J. Frammenti di un palinsesto greco di Efrem (Sinaiticus Syr. 30, f. 171ff.). Scriptorium 38 (1984)",
+                      "range": "pp. 77-78"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    },
+                    {
+                      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                      "contributor": [
+                        "Pasquale Orsini"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2025-12-20T00:44:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1393v"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "7th c. CE",
+                "iso": {
+                  "not_before": "0601",
+                  "not_after": "0700"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "note": [
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "Gaps in the preserved text (ca. 52 lines between fol. 176v and 182r, and ca. 39 lines between fol. 171r and 177r) coincide with a lost bifolio (the second in the quire, if this was a quaternio) and a lost page (the unreadable side of fol. 182 = pastedown); the original quaternio can be reconstructed as follows: I (176rv), II (fol. lost), III (recto unreadable, verso = pastedown/182r), IV (181vr), V (172vr), VI (171vr), VII (fol. lost), VIII (177rv)"
+              },
+              {
+                "type": {
+                  "id": "general",
+                  "label": "General Note"
+                },
+                "value": "The UTOs of Ps. Marcarius/Symeon, Epistula magna (ff. 171, 172, 176, 177, 181, 182) and Ephraem Syrus, Sermo asceticus (ff. 173, 174, 175, 178, 179, 180) were copied by the same scribe and were part of the same original codex"
+              }
+            ],
+            "bib": [
+              {
+                "id": "ebdf5ca6-5632-485f-a4c9-6b77f8bb1b84",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Jaeger 1954",
+                "citation": "Jaeger, Werner, ed. Two rediscovered works of ancient Christian literature: Gregory of Nyssa and Macarius. Leiden, 1954",
+                "note": [
+                  "About 52 lines, corresponding to three sides of text (one folio + one side), of the Jaeger edition are missing between 271.16 (fol. 176v) and 274.2 (fol. 182r). About 39 lines, corresponding to one folio, of the Jaeger edition are missing between 281.13 (fol. 171r) and 283.6 (fol. 177r); these correspond to two sides (one folio) of text."
+                ]
+              },
+              {
+                "id": "09cff330-0165-4291-8e21-39c3167f0749",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Hjelt 1930",
+                "citation": "Hjelt, Arthur, ed. Syrus sinaiticus. Helsingfors, 1930",
+                "range": "p. 15"
+              },
+              {
+                "id": "18eb3112-1250-41ce-9bfa-5e6e49d606c4",
+                "type": {
+                  "id": "cite",
+                  "label": "Citation"
+                },
+                "shortcode": "Voicu 1984",
+                "citation": " Voicu, Sever J. Frammenti di un palinsesto greco di Efrem (Sinaiticus Syr. 30, f. 171ff.). Scriptorium 38 (1984)",
+                "range": "pp. 77-78"
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+                "contributor": [
+                  "Pasquale Orsini"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2025-12-20T00:44:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z12n5hwt",
+              "ark:/21198/z1nd6s7v"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "ff. 171, 172r, 176–177, 181,182r"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz12n5hwt/manifest",
+      "label": "SPP",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1988nbt/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "Description and identification of undertexts as part of SPP (2011-2016). Migrated to SMDL in 2025.",
+      "contributor": [
+        "Pasquale Orsini"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2025-12-20T00:44:00Z"
+    }
+  ],
+  "reconstructed_from": [
+    {
+      "id": "ark:/21198/z12n5hwt",
+      "shelfmark": "Sinai Syriac 30"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "spputos"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

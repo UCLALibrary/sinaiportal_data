@@ -37,6 +37,48 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 219r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "بسم الله الحي الازلي / يا رب اغفر لعبدك الحاطي المسكين الغارق / في بحر الحطيا و[ا]غفر لولديه واخوته كل وا / ـحد منهم باسمه واعمامه و[ا]غفرا لمن قراه وقال / امين بشفعت السيده والدت الاله كتبه / المتوفي في تشريع الله لبس ثياب الرهبنيه / يحنا (الغازي؟) ابن يحنا ابن سليمان (؟) / ؟ وسكن في دير طور سينا / نجيس الارض الذي كن فيه من كثره / ايامه سالت من الله ومن الذي / يقره يطلب له الصفح عن ما عمله / بمعرفه و(بغير؟) معرفه ويجد المجازيه من الذي / يعطي كل من على قد عمله",
+          "translation": [
+            "In the name of the living eternal God. Lord, forgive your pitiful sinner servant, drowning in the sea of sins, and forgive his parents and his brothers, each by name, and his uncles, and forgive whoever reads it and says Amen, through the intercession of the Lady, the Mother of God. It was written by Yaḥnā (al-Ghāzī?) ibn Yaḥnā ibn Sulaymān (?), who took the monastic habit and dwelt in the monastery of Mount Sinai. He asks God, and whoever reads it, to seek pardon for him for what he did knowingly and (unknowingly), and he will find reward from the one who gives each according to his deeds"
+          ],
+          "assoc_name": [
+            {
+              "value": "Yaḥnā (al-Ghāzī) ibn Yaḥnā ibn Sulaymān",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ]
+        }
       ]
     }
   ],

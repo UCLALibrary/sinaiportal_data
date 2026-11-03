@@ -37,6 +37,102 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "scribe-note",
+              "label": "Scribal note"
+            }
+          ],
+          "locus": "ff. 200v and 201r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Collation note",
+          "as_written": "قوبل وصح / بمعونة الله / له المجد",
+          "translation": [
+            "[this text] was collated and corrected with the help of God to Him be the Glory"
+          ]
+        },
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "spell-incant",
+              "label": "Spell/Incantation"
+            }
+          ],
+          "locus": "f. 200v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Protection spell",
+          "note": [
+            "Probably meant to protect the manuscript from worms"
+          ]
+        },
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "basmala",
+              "label": "Basmala"
+            }
+          ],
+          "locus": "ff. 201v, 202r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "as_written": "بسم الله الحي الازلي",
+          "translation": [
+            "In the name of the living eternal God"
+          ],
+          "note": [
+            "Repeated three times"
+          ]
+        }
       ]
     }
   ],
@@ -67,9 +163,32 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذه القوانين برسم القس انبا يحنا ابن القس نعمه / ( اشتراه بماله وكتبه سمعان (اسقف؟ الديراني / والسبح لله وحده",
       "translation": [
         "These laws commissioned by al-Qass Anbā Yaḥnā ibn al-Qass Niʻmah / He bought it by his own money, and it was written by Samʻān (? ?) / Praise to God alone"
+      ],
+      "assoc_name": [
+        {
+          "value": "al-Qass Anbā Yaḥnā ibn al-Qass Niʻmah",
+          "role": {
+            "id": "patron",
+            "label": "Patron"
+          }
+        },
+        {
+          "value": "Samʻān",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
       ]
     },
     {
@@ -90,9 +209,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذه القوانين المقدسة للراهب القس / ابا يحنا ابن القس نعمه من قرية الفرزل",
       "translation": [
         "These blessed laws belong to the priest monk / Father Yaḥnā ibn al-Qass Niʻmah from the village of al-Farzal"
+      ],
+      "assoc_name": [
+        {
+          "value": "al-Qass Anbā Yaḥnā ibn al-Qass Niʻmah",
+          "role": {
+            "id": "owner",
+            "label": "Owner"
+          }
+        }
       ]
     }
   ],

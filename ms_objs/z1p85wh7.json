@@ -63,9 +63,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول وانا جرمانوس اسقف طور سينا ان هذا الكتاب / وقف على طور سينا فاي من اخرجه منه يكون تحت المنع",
       "translation": [
         "I, Jirmānūs the bishop of Mount Sinai, state that this book / is endowed to Mount Sinai. Whoever takes it from there is under ban"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written sometime between 1300-1336 CE"
       ]
     }
   ],

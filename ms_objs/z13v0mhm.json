@@ -37,6 +37,39 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 161v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "يا رب ارحم عبدك الخاطي",
+          "translation": [
+            "O Lord, have mercy on your sinner servant"
+          ]
+        }
       ]
     }
   ],
@@ -63,9 +96,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول الحقير مخاييل اسقف طور سينا ان هذا / الكتاب محبس موبد على كنيسه السيده السريان / بدير طور سينا فمن اخرجه من الدير او عن كنيسه / السيده يكون محروم مفروز من مجد الله ومار موسى / يكون خصمه",
       "translation": [
         "I, the despised bishop of Mount Sinai Mīkhāʼīl, state that this book is eternally dedicated to the church of the Lady, the Syrian, in the monastary of Mount Sinai. Whoever takes it out from the monastery or the church of the Lady is banned and separated from the glory of God and St. Moses is his foe"
+      ],
+      "assoc_name": [
+        {
+          "value": "Mīkhāʼīl, Bishop of Mount Sinai, active 1374",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
       ]
     }
   ],

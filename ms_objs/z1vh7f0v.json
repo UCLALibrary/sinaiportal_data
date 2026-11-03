@@ -53,9 +53,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول انا الاسقف يحنا ان / هذا الكتاب وقف على كنيسه الجاه / ما لاحد سلطان يخرجه عنها",
       "translation": [
         "I, Bishop Yaḥnā, state that this book is endowed to the church of al-Jāh. No one has authority to take it out from there."
+      ],
+      "assoc_name": [
+        {
+          "value": "Yaḥnā, Bishop of Mount Sinai (dates uncertain)",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
       ]
     }
   ],

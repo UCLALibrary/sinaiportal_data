@@ -63,6 +63,13 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذا الكتاب وقف على كنيسه الست السيدة فلا لاحد سلطان يخرجه عنها / ومن تعدى وخالف ذلك يكون محروم (؟) / الويل لمن (ارتضا)لنفسه شي من هذا جميعه",
       "translation": [
         "This book is endowed to the church of the Lady. No one has authority to take it out from there / Whoever transgresses and violates this will be banned (?) Woe to him who is satisfied with something of all these things"
@@ -90,9 +97,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذه الافجلجون للحقير في الرهبان القس ابن يحنا ابن سعيد / غفر الله له والجميع امة المعموديه ولمن كتب وقرا وقال امين",
       "translation": [
         "This Euchologion belongs to the despised among monks, priest Ibn Yaḥnā ibn Saʻīd / May God forgive him and all the nation of baptism, and to whoever copied and read and said amen!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Priest Ibn Yaḥnā ibn Saʻīd",
+          "role": {
+            "id": "owner",
+            "label": "Owner"
+          }
+        }
       ]
     }
   ],

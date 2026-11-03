@@ -37,6 +37,85 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 95r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "يا رب ارحم عبدك الحقير في الكهنه جرجس بن القس (ابراهيم؟) / وكان (؟) في شهر ايلول في عيد / القديس (؟) في سنه ست الف وسبعمايه (؟)",
+          "translation": [
+            "Lord, have mercy on your servant, the despised among priests, Jirjis ibn al-Qass (Ibrāhīm?). And it was (?) in the month of Aylūl on the feast of Saint (?) in the year 6700 (?)"
+          ],
+          "assoc_name": [
+            {
+              "value": "Jirjis ibn al-Qass Ibrāhīm",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ],
+          "note": [
+            "Faint ink"
+          ]
+        },
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "hist-note",
+              "label": "Historical note"
+            }
+          ],
+          "locus": "f. 104v-105r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Birth notes",
+          "as_written": "وكان ولادت ولدي ابراهيم [....] / [....] / [....] /// وكان ولادت ولدي الرابع[....] / [....]",
+          "translation": [
+            "And the birth of my son Ibrāhīm was […] /// And the birth of my fourth son was […]"
+          ],
+          "note": [
+            "Faint ink"
+          ]
+        }
       ]
     }
   ],
@@ -59,9 +138,58 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذه الكتب للقس يوسف / هذه الكتب للقس يوسف بن القس (؟) / من اهل (شعنا؟) من عمالت حادم المحروسة",
       "translation": [
         "These books belong to the priest Yūsuf. These books belong to the priest Yūsuf son of the priest (?), from the people of (Shaʿnā?), of the district of Ḥādim (?), the well-protected."
+      ],
+      "assoc_name": [
+        {
+          "value": "al-Qass Yūsuf ibn al-Qass (?)",
+          "role": {
+            "id": "owner",
+            "label": "Owner"
+          }
+        }
+      ]
+    },
+    {
+      "type": {
+        "id": "guest",
+        "label": "Guest"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "Back board inside",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "يارب ارحم عبدك جرجس / يا رب ارحم عبدك القس جرجس [....] ونيح روحه / يارب اغفر خطايا كل من / يقرا من[....]الكتاب",
+      "translation": [
+        "Lord, have mercy on your servant Jirjis / Lord, have mercy on your servant the priest Jirjis [....] and grant rest to his soul / Lord, forgive the sins of everyone who / reads from [....] the book"
+      ],
+      "note": [
+        "In more than one hand"
       ]
     }
   ],

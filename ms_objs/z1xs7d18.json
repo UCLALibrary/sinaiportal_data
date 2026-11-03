@@ -71,6 +71,14 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Endowment note to the church of Mount Sinai Monastery",
       "as_written": "[....] / [....] / على كنيسة دير طور سينا / رزقنا الله بركة صلوات / [....] القديسين [....]",
       "translation": [
         "[…] to the church of the monastery of Mount Sinai. May God grant us the blessing of the prayers of […] the saints […]."
@@ -85,6 +93,13 @@
     }
   ],
   "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Two Arabic words on a blank leaf, f. 142v"
+    },
     {
       "type": {
         "id": "ornamentation",

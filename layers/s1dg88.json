@@ -43,7 +43,17 @@
           "label": "Arabic"
         }
       ],
-      "as_written": "وكان النجاز من نصاخة هَذه المزامير المباركه نهارالثلثا حادي وعشرين يوم مضت من شهر كانون الثاني. بتاريح سنه سته الاف وثمانمايه وتسعين سنه لكون العالم احسن الله عاقبته. وكتبه العبد الحقير الضعيف. الغارق في ذواخر بحار الخطايا. الحايد عن عمل الوصايا. المسكين الاثيم. الذي ليس بمستحق ان يُذ كَرله اسم. الفس ارساني",
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "وكان النجاز من نصاخة هذه المزامير / المباركة نهار الثلثا حادي وعشرين يوم / مضت من شهر كانون الثاني بتاريخ / سنه سته الاف وثمانمايه وتسعين سنه / لكون العالم احسن الله عاقبته / وكتبه العبد الحقير الضعيف الغارق / في زواخر بحار الخطايا الحايد عن عمل / الوصايا المسكين الاثيم الذي ليس / بمستحق ان يذكر له اسم القس ارساني",
+      "translation": [
+        "The accomplishment of copying these blessed Psalms was on Tuesday, 21 of Kānūn al-Thānī in the year 6890 of the Creation. It was written by the weak despised servant, [who is] sinking in the depth of sin seas, the deviated from doing [God's] commandments, the poor sinner, whose name is not worth mentioning, Priest Arsenius"
+      ],
       "assoc_name": [
         {
           "value": "Arsani the Priest",
@@ -53,19 +63,25 @@
             "label": "Scribe"
           }
         }
+      ],
+      "assoc_date": [
+        {
+          "value": "1382 CE",
+          "iso": {
+            "not_before": "1382"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Tuesday, 21 Kānūn al-Thānī 6890 of the Creation (21 January 1382 CE)"
+          ]
+        }
+      ],
+      "note": [
+        "1 column/14 lines per page"
       ]
-    }
-  ],
-  "assoc_date": [
-    {
-      "value": "1382 CE",
-      "iso": {
-        "not_before": "1382"
-      },
-      "type": {
-        "id": "origin",
-        "label": "Date of Origin"
-      }
     }
   ],
   "features": [

@@ -24,6 +24,39 @@
       "locus": "ff. 2r-190v"
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "poem",
+          "label": "Poem"
+        }
+      ],
+      "locus": "f. 1r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Scribal poem",
+      "as_written": "كتبت وقد أيقنت يوم كتبته / بان يدي تبلا ويبقا كتبها / ايا قاري الخط الذي قد كتبته / لا (؟) في يدي وما قداصابها / [....] / هذا (؟) ما قد يكون جوابها / فاما نعم في الجنات مخلدن / واما جحيم زايد في عذابها",
+      "translation": [
+        "I wrote, certain on the day I wrote it that my hand would decay and its writing remain. O reader of the script I have written, [reflect] on my hand and what has befallen it. […] this (?) is what its answer may be: either blessings in the gardens, everlasting, or hell, increasing in its torment."
+      ]
+    }
+  ],
   "assoc_date": [
     {
       "value": "13th c. CE",

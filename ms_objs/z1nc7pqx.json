@@ -37,6 +37,98 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "abecedary",
+              "label": "Abecedary"
+            }
+          ],
+          "locus": "f. 12v",
+          "lang": [
+            {
+              "id": "gree1276",
+              "label": "Greek"
+            },
+            {
+              "id": "class1252",
+              "label": "Syriac"
+            },
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "greek-undetermined",
+              "label": "Undetermined (Greek)",
+              "writing_system": "Greek"
+            },
+            {
+              "id": "syriac-undetermined",
+              "label": "Undetermined (Syriac)",
+              "writing_system": "Syriac"
+            },
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Greek, Syriac, Arabic and Abjad alphabets"
+        }
+      ]
+    }
+  ],
+  "para": [
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "Front board inside",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer",
+      "as_written": "[....]ارحم القس يحنا[....] / [....]السيده ام النور[....]",
+      "translation": [
+        "… Have mercy on priest Yaḥnā… … Lady, mother of light…"
+      ],
+      "assoc_name": [
+        {
+          "value": "Priest Yaḥnā",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ],
+      "note": [
+        "Pastedown; other unrelated words are written above the prayer"
       ]
     }
   ],

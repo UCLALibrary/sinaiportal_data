@@ -43,7 +43,17 @@
           "label": "Arabic"
         }
       ],
-      "as_written": "كتبت هذه السواعي المباركة على يد الحقر المسكين انطوني حاكم دير مر توما الزبداني وكان الفراغ منها في العشر وشهر اب سنة الف وحمانة وتسعة و ثمانين للاسكندر اليوناني وهيا ترسم .............. عبيدوالزبدني ثالله رهم كلمن كرا وكتب ودعا لكاتبها بالمغفرة ...",
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "كُتبت هذه السواعي المباركة علي يد / الحقر المسكين انطوني حاكم دير مر توما الزبداني / وكان الفراغ منها في العشرين من شهر اب سنه الف / وخمسايه وتسعه وثمانين للاسكندر اليوناني وهي / برسم يحنا بن الشيخ يوسف بن عبيد من الزبداني / فالله يرحم كلمن قرا وكتب ودعا لكاتبها بالمغفرة / والسبح لله دايما امين",
+      "translation": [
+        "This blessed horologion was copied by the hand of poor despised Anṭūnī, the abbot of the monastery of Mār Ṭūmā al-Zabadānī It was accomplished on the 20th of Āb (August) of the year 1589 of the Alexander [era]. It was commissioned by Yaḥnā ibn al-Shaykh Yūsuf ibn ʻAbīd from al-Zabadānī. May God have mercy on whoever read [it], copied, and prayed for the scribe for forgiveness. Praise to God forever, amen!"
+      ],
       "assoc_name": [
         {
           "value": "Antony Governor of the Mar Toma al-Zabadani Monastery",
@@ -51,6 +61,13 @@
           "role": {
             "id": "scribe",
             "label": "Scribe"
+          }
+        },
+        {
+          "value": "Yaḥnā ibn al-Shaykh Yūsuf ibn ʻAbīd",
+          "role": {
+            "id": "patron",
+            "label": "Patron"
           }
         }
       ],
@@ -63,19 +80,76 @@
             "label": "Place of Origin"
           }
         }
+      ],
+      "assoc_date": [
+        {
+          "value": "1278 CE",
+          "iso": {
+            "not_before": "1278"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "20 Āb 1589 of Alexander (20 August 1278 CE)"
+          ]
+        }
       ]
-    }
-  ],
-  "assoc_date": [
+    },
     {
-      "value": "1275 CE",
-      "iso": {
-        "not_before": "1275"
-      },
       "type": {
-        "id": "origin",
-        "label": "Date of Origin"
-      }
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
+      "locus": "f. 121rv",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "تمت هذه السواعي المباركة بيد الحقير / المسكين انطوني الفهرلي سنه الف وخمسمايه وسبعه / وثمانين للاسكندر اليوناني وهو يسال كلمن قرا / فيها يدعي له بالمغفرة ويترحم عنه وعن والديه يغفر الله / له فالله يغفر للقاري والناصخ والمستقني بشفاعه / السيده ام النور ومر توما الرسول وجميع القديسين امين / امين امين والسبح لله دايما (؟)",
+      "translation": [
+        "This blessed horologion was accomplished by the poor despised Anṭūnī al-Faharlī in the year 1587 of the Alexander [era]. He asks everyone who reads it to ask for forgiveness and mercy for him and his parents, so that God may forgive him. May God forgive the reader, the scribe, the owner with the intercession of the Lady, the mother of light, and Mār Tūmā the Apostle and all the saints. Amen, amen, amen! Praise to God for ever!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Anṭūnī al-Faharlī",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1276 CE",
+          "iso": {
+            "not_before": "1276"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "1587 of Alexander (1276 CE)"
+          ]
+        }
+      ]
     }
   ],
   "features": [

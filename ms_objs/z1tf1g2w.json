@@ -37,6 +37,36 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "hist-note",
+              "label": "Historical note"
+            }
+          ],
+          "locus": "f. 257",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Caravan note",
+          "as_written": "الحمله ثلاث ميه واحد و(خمسين؟) / منها تسع ناعشر فحل / واثنين حصيان / واثنين وثلثين كراز"
+        }
       ]
     }
   ],
@@ -63,9 +93,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول وانا جرمانوس اسقف طور سينا ان هذا الكتاب / وقف على طور سينا فمن اخرجه منه يكون محروم",
       "translation": [
         "I, Jirmānūs the bishop of Mount Sinai, state that this book is endowed to Mount Sinai. Whoever takes it out of there is banned"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written between 1300-1336 CE"
       ]
     }
   ],

@@ -24,6 +24,47 @@
       "locus": "ff. 1r-258r"
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
+      "locus": "f. 258r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "وكتبه العبد الخاطي / الغير مستحق ان يسما راهب يحنا من قرية / الكفور وهو يسال لكل من يقرا فيه / ان يطلب له من الله المغفر له والديه شفاعه / السيده ام النور ومار موسى وهارون وجميع / القديسين امين امين",
+      "translation": [
+        "This [book] was copied by the sinner servant, who does not deserve to be called a monk Yaḥnā from the village of al-Kafūr. He urges whoever reads it to ask God for forgiveness for him and his parents, with the intercession of the Lady, the mother of light, and St. Moses and St. Aron and all the saints. Amen, Amen!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Monk Yaḥnā",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ]
+    }
+  ],
   "assoc_date": [
     {
       "value": "13th c. CE",
@@ -49,6 +90,10 @@
     {
       "id": "deco-zoomorph",
       "label": "Decoration, Zoomorphic"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "note": [

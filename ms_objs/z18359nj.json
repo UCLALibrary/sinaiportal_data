@@ -37,6 +37,15 @@
             "label": "Overtext"
           }
         }
+      ],
+      "note": [
+        {
+          "type": {
+            "id": "coll",
+            "label": "Collation Note"
+          },
+          "value": "Arabic collation marks (قوبل, \"it was collated\"), ff. 34r, 57r, 65r, 89r, and others"
+        }
       ]
     }
   ],
@@ -59,9 +68,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول انا الاسقف يحنا ان هذه الرسايل / وقف على كنيسه الـ[نـ]جاه ما لاحد سلطان يخرجه / عنها",
       "translation": [
         "I, archbishop Yaḥnā, state that this [book of] Epistles is endowed to the church of (?). No one has authority to take it out of there"
+      ],
+      "assoc_name": [
+        {
+          "value": "Yaḥnā, Bishop of Mount Sinai (dates uncertain)",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
       ],
       "note": [
         "Pastedown"
@@ -89,9 +114,32 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذا الكتاب المبارك وقف على دير القديس مار / توما الزبداني فمن غيره عن الدير المذكور كان / الله (؟) يوم الدين [....]ن / الحقير سمعان اسقف الزبداني وكتبه الحقير انطوني ايضا والحمد لله",
       "translation": [
         "This blessed book is an endowment to the monastery of Saint Mār Tūmā of al-Zabadānī. Whoever alters it from the said monastery, God (?) on the Day of Judgment […]. The despised Samʻān, bishop of al-Zabadānī, and the despised Anṭūnī also wrote it, and praise be to God."
+      ],
+      "assoc_name": [
+        {
+          "value": "Anṭūnī al-Faharlī",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        },
+        {
+          "value": "Samʻān, bishop of al-Zabadānī Monastery",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
       ]
     }
   ],

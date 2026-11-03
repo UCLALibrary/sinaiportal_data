@@ -1,0 +1,727 @@
+{
+  "ark": "ark:/21198/z17d3457",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Syriac NF M 56",
+  "summary": "New Testament Lectionary for the entire year (Jerusalem rite)",
+  "extent": "121 ff.",
+  "dim": "190 x 101 x 77 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "fol": "Foliation in Syriac letters in the top margin of each recto side added by a later hand. The actual sequence suggests that one folio preceding f. 1 is missing. The small fragment originally belonged to f. 1 (features Mt. 5:22).",
+  "coll": "Quires 1-2: 2x12 (24), Quire 3: 1x8 (29b), folio 30 is a singleton, Quires 4-5: 2x8 (46), Quire 6: 1x12 (58), Quire 7: 1x10 (66), Quire 8: 1x8 (74), Quire 9: 1x10 (84), Quire 10: 1x8 (91), Quire 11: 1x8 (98), Quire 12: 1x12 (110), folio 110a is a singleton, folio 110b is the paste-down in the back cover",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "locus": "ff. 6-110",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        }
+      ],
+      "dim": "183 x 120 mm (representative folio)",
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1fc9x",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1fc9x",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Syriac NF M 56, Overtext (Melkite)",
+            "locus": "ff. 6-110",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "melkite",
+                    "label": "Melkite",
+                    "writing_system": "Syriac"
+                  }
+                ],
+                "note": [
+                  "Transitional Estrangela (Melkite)",
+                  "The script is artificial and recalls ms. St. Petersburg n.s. syr. 11, of possible Sinaitic provenance"
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black"
+                ]
+              }
+            ],
+            "layout": [
+              {
+                "columns": "1 col.",
+                "lines": "ca. 17-21 lines"
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1cq3g",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1cq3g",
+                  "reconstruction": false,
+                  "label": "New Testament lectionary and readings for various occasions",
+                  "lang": [
+                    {
+                      "id": "class1252",
+                      "label": "Syriac"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "desc_title": "New Testament Lectionary for the entire year (Jerusalem rite)"
+                      },
+                      "alt_title": "New Testament Lectionary for the entire year (Jerusalem rite)",
+                      "locus": "ff. 6r–88v",
+                      "contents": [
+                        {
+                          "label": "2nd Sunday after Pentecost",
+                          "locus": "f. 6r"
+                        },
+                        {
+                          "label": "3rd Sunday after Pentecost",
+                          "locus": "f. 8v"
+                        },
+                        {
+                          "label": "4th Sunday after Pentecost",
+                          "locus": "f. 11r"
+                        },
+                        {
+                          "label": "5th Sunday after Pentecost",
+                          "locus": "f. 13v"
+                        },
+                        {
+                          "label": "6th Sunday after Pentecost",
+                          "locus": "f. 15v"
+                        },
+                        {
+                          "label": "7th Sunday after Pentecost",
+                          "locus": "f. 18r"
+                        },
+                        {
+                          "label": "8th Sunday after Pentecost",
+                          "locus": "f. 21r"
+                        },
+                        {
+                          "label": "9th Sunday after Pentecost",
+                          "locus": "f. 24v"
+                        },
+                        {
+                          "label": "10th Sunday after Pentecost",
+                          "locus": "f. 26r"
+                        },
+                        {
+                          "label": "11th Sunday after Pentecost",
+                          "locus": "f. 29v"
+                        },
+                        {
+                          "label": "12th Sunday after Pentecost",
+                          "locus": "f. 32v"
+                        },
+                        {
+                          "label": "13th Sunday after Pentecost",
+                          "locus": "f. 33v"
+                        },
+                        {
+                          "label": "14th Sunday after Pentecost",
+                          "locus": "f. 35r"
+                        },
+                        {
+                          "label": "15th Sunday after Pentecost",
+                          "locus": "f. 37v"
+                        },
+                        {
+                          "label": "16th Sunday after Pentecost",
+                          "locus": "f. 40r"
+                        },
+                        {
+                          "label": "17th Sunday after Pentecost",
+                          "locus": "f. 42v"
+                        },
+                        {
+                          "label": "1st Sunday after the Feast of the Cross",
+                          "locus": "f. 44v"
+                        },
+                        {
+                          "label": "2nd Sunday after the Feast of the Cross",
+                          "locus": "f. 45v"
+                        },
+                        {
+                          "label": "3rd Sunday after the Feast of the Cross",
+                          "locus": "f. 48v"
+                        },
+                        {
+                          "label": "4th Sunday after the Feast of the Cross",
+                          "locus": "f. 51r"
+                        },
+                        {
+                          "label": "5th Sunday after the Feast of the Cross",
+                          "locus": "f. 53v"
+                        },
+                        {
+                          "label": "6th Sunday after the Feast of the Cross",
+                          "locus": "f. 56r"
+                        },
+                        {
+                          "label": "7th Sunday after the Feast of the Cross",
+                          "locus": "f. 59r"
+                        },
+                        {
+                          "label": "8th Sunday after the Feast of the Cross",
+                          "locus": "f. 60v"
+                        },
+                        {
+                          "label": "9th Sunday after the Feast of the Cross",
+                          "locus": "f. 62v"
+                        },
+                        {
+                          "label": "10th Sunday after the Feast of the Cross",
+                          "locus": "f. 63av"
+                        },
+                        {
+                          "label": "11th Sunday after the Feast of the Cross",
+                          "note": [
+                            "f. 65r"
+                          ]
+                        },
+                        {
+                          "label": "12th Sunday after the Feast of the Cross",
+                          "locus": "f. 67r"
+                        },
+                        {
+                          "label": "[Cycle between December and until Easter] 1st Sunday",
+                          "locus": "f. 70r"
+                        },
+                        {
+                          "label": "[Cycle between December and until Easter] 2nd Sunday",
+                          "locus": "f. 74r"
+                        },
+                        {
+                          "label": "[Cycle between December and until Easter] 3rd Sunday",
+                          "locus": "f. 76r"
+                        },
+                        {
+                          "label": "[Cycle between December and until Easter] 4th Sunday",
+                          "locus": "f. 78v"
+                        },
+                        {
+                          "label": "[Cycle between December and until Easter] 5th Sunday",
+                          "locus": "f. 81v"
+                        },
+                        {
+                          "label": "[Cycle between December and until Easter] 6th Sunday",
+                          "locus": "f. 83v"
+                        },
+                        {
+                          "label": "[Cycle between December and until Easter] 7th Sunday",
+                          "locus": "f. 84v"
+                        },
+                        {
+                          "label": "[Cycle between December and until Easter] 8th Sunday",
+                          "locus": "f. 87v"
+                        },
+                        {
+                          "label": "Commemoration of the Fathers",
+                          "locus": "f. 88r"
+                        }
+                      ]
+                    },
+                    {
+                      "work": {
+                        "desc_title": "Readings for various occasions (commemoration of the martyrs, deceased, apostles, bishops, priests, teachers, taking the monastic habit)"
+                      },
+                      "alt_title": "Readings for various occasions (commemoration of the martyrs, deceased, apostles, bishops, priests, teachers, taking the monastic habit)",
+                      "locus": "ff. 88v–110r"
+                    }
+                  ],
+                  "cataloguer": [
+                    {
+                      "message": "NEH Syriac Parchment Descriptions project...",
+                      "contributor": [
+                        "Grigory Kessel"
+                      ],
+                      "added_by": "sinai-admin",
+                      "timestamp": "2026-07-03T18:31:00Z"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1fc9x"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "NEH Syriac Parchment Descriptions Grant, Sinai Palimpsests Project",
+                        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). , Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "para": [
+              {
+                "type": {
+                  "id": "history",
+                  "label": "History"
+                },
+                "subtype": [
+                  {
+                    "id": "colophon",
+                    "label": "Colophon"
+                  }
+                ],
+                "locus": "f. 110r",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "as_written": "ܫܠܡ ܟܬܒܐ ܗܢܐ ܕܐܝܬܘܗܝ ܦܘܪܫ ܩܪܝܢܐ / ܘܩܪ̈ܝܬܐ ܕܟܠܗ ܫܢܬܐ ܐܝܟ ܛܟܣܐ ܕܥܕܬܐ / ܩܕܝܫܬܐ ܫܘܒܚܐ ܠܗ ܠܐܠܗܐ ܕܥܠ ܫܡܗ / [ܡ‍]‍ܫܪܝܢܢ (؟) ܘܫܘܒܚܐ ܠܒܪܗ ܡܚܝܝܢܐ (sic !) ܕܗܘܝܘ / ܚܝܠ ܘܥܕܪ ܘܠܪܘܚܗ ܚܝܐ ܘܩܕܝܫܐ ܕܗܘܝܘ / ܫܡܠܝ ܘܫܠܡ ܐܝܟ ܨܒܝܢܗ ܕܠܗ / ܫܘܒܚܐ ܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ ܘܐܡܝܢ ܀ / ܐܣܬܝܟ ܕܝܢ ܟܬܒܐ ܗܢܐ ܕܟܠܗܝܢ ܩܪ̈ܝܬܐ / ܘܩܪ̈ܝܢܐ ܕܟܠܗ ܫܢܬܐ ܕܥܐܕ̈ܐ ܘܕܚܕ / ܒܫܒ̈ܐ ܕܪܡܫܐ ܘܕܟܢܫܐ ܐܝܟ ܕܛܟܣܐ / ܫܦܝܪܐ ܒܕܝܪܐ ܛܒܝܒܬܐ ܕܡܪܝ ܡܘܫܐ / ܪܝܫܐ ܕܢܒܝ̈ܐ ܛܘܪܐ ܩܕܝܫܐ ܕܣܝܢܝ. / ܟܘܠ ܕܩܪܐ ܒܗ ܐܘ ܢܣܚ ܡܢܗ ܢܨܠܐ // ܥܠ ܡܚܝܠܐ ܘܚܛܝܐ ܕܟܬܒ ܠܐܘܢ / ܩܫܝܫܐ ܡܣܟܢܐ ܟܕ ܠܐ ܫܐܘܐ (sic !) ܡܛܘܠ / ܐܠܗܐ ܕܢܬܚܢܢ ܒܝܘܡ ܕܝܢܐ ܘܢܫܟܚ / ܪ̈ܚܡܐ ܩܕܡ ܐܠܗܐ ܒܨܠܘܬܐ ܕܟܠܗܘܢ / ܩܕܝ̈ܫܐ ܕܪ̈ܥܝܘ ܠܐܠܗܐ. ܘܒܨܠܘ̈ܬܐ / ܕܝܠܕܬ ܐܠܗܐ ܡܪܬܝ ܡܪܝܡ ܘܗܫܐ / ܘܒܟܠܙܒܢ ܘܠܥܠܡ ܥܠܡܝܢ ܐܡܝܢ܀ / ܘܗ̇ܘ ܕܩܪܐ ܠܐ ܢܥܕܘܠ ܕܠܐ ܢܡܘܬ ܐܢ / ܐܫܟܚ ܕܛܡܐ ܡܕܡ ܐܘܟܝܬ ܦܘܕܐ / ܐܢܐ ܓܝܪ ܐܝܟ ܡܚܝܠܘܬܝ ܟܬܒܬ ܡܕܡ / ܕܐܫܟܚܬܐ (sic !) ܘܗܐ ܝܬܘܗܝ (sic !) ܟܬܒܐ ܗܢܐ / ܬܪ̈ܝܢ ܟܬܒܐ ܡܛܠ ܕܠܐ ܐܫܟܚܝܬܝ (sic !) ܐܥܒܕܝܘܗܝ (sic !) / ܚܕܝ (sic !) ܀ ܫܠܡܬ ܟܬܒܐ ܗܢܐ ܫܢܬ ܀ / ܐܠܦ ܪ̄ ܡ̄ ܕ̄ ܕܐܠܟܣܢܕܪܘܣ ܒܪ / ܦܝܠܝܦܘܣ ܡܩܕܘܢܝܐ: ܘܒܛܝܝܐ / [a line left blank] / ܒܝܪܚ ܐܝܠܘܠ ܝ̄ ܕ̄ ܒܗ ܝܘܡ ܫܒܬܐ / ܝܘܡ ܥܐܕܐ ܩܕܝܫܐ ܕܪܘܡܪܡܝܗܝ / ܕܨܠܝܒܐ ܡܝܩܪܐ",
+                "translation": [
+                  "Completed is this book, which is the lectionary (lit. ‘separate readings and recitations’) for the entire year according to the order of the Holy Church. Glory to God in whose name we begin, and glory to His life-giving Son who strengthened and assisted, and to His living and holy Spirit who fulfilled and completed according to His will, to whom be glory forever and ever, amen and amen. / This book of all readings and recitations for the entire year, feasts and Sundays’ vespers and Eucharists, has been completed; (which is) according to the beautiful order in the blessed monastery of Saint Moses, chief of the prophets, the holy Mount Sinai. Everyone who reads it or copies from it, pray for the weak and sinful one who wrote it, Leo, the poor priest, although he is unworthy, so that for God’s sake he may find mercy on the day of judgment and find compassion before God through the prayer of all the saints who pleased God, and through the prayers of the Mother of God, my Lady Mary, now and always and forever and ever, amen. / And whoever reads (from it), do not criticize lest he dies, if he finds something corrupt or a mistake, for I have written according to my weakness what I found; and behold, this book (consists of) two parts, because I could not make it single. This book was completed in the year 1244 of Alexander, the son of Philip the Macedonian and of the Arabic [a line left blank]. In the month of Elul (August), on the 14th day, on Saturday, the holy feast day of the Exaltation of the venerable Cross."
+                ],
+                "assoc_name": [
+                  {
+                    "value": "priest Leo",
+                    "role": {
+                      "id": "scribe",
+                      "label": "Scribe"
+                    }
+                  }
+                ],
+                "assoc_date": [
+                  {
+                    "value": "933 CE",
+                    "iso": {
+                      "not_before": "0933"
+                    },
+                    "type": {
+                      "id": "origin",
+                      "label": "Date of Origin"
+                    },
+                    "note": [
+                      "Completed in the year 1244 of Alexander, the son of Philip the Macedonian and of the Arabic [a line left blank]. In the month of Elul (August), on the 14th day, on Saturday, the holy feast day of the Exaltation of the venerable Cross"
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": {
+                  "id": "misc",
+                  "label": "Miscellaneous"
+                },
+                "subtype": [
+                  {
+                    "id": "scribe-note",
+                    "label": "Scribal note"
+                  }
+                ],
+                "locus": "f. 91v",
+                "lang": [
+                  {
+                    "id": "class1252",
+                    "label": "Syriac"
+                  }
+                ],
+                "label": "Scribal note",
+                "as_written": "ܟܠ ܕܩܪܐ ܢܨܠܐ ܥܠ ܚܟܝܡ ܩܫܝܫܐ ܘܕܝܪܝܐ ܒܪ ܐܝܣܚܩ ܩܫܝܫܐ ܡܢ ܕܝܪܐ ܕܡܪܝ ܡܘܫܐ\n",
+                "translation": [
+                  "‘Whoever reads (this book), let him pray for the wise priest and monk Bar Isaac the priest from the monastery of Mar Qawma.’"
+                ]
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "933 CE",
+                "iso": {
+                  "not_before": "0933"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "assoc_place": [
+              {
+                "value": "Saint Catherine's Monastery (Sinai)",
+                "event": {
+                  "id": "origin",
+                  "label": "Place of Origin"
+                }
+              }
+            ],
+            "features": [
+              {
+                "id": "dated",
+                "label": "Dated"
+              }
+            ],
+            "bib": [
+              {
+                "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Philothée 2008",
+                "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+                "range": "[M56N], pp. 531-537 "
+              },
+              {
+                "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Géhin 2017",
+                "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+                "range": "[M56N], pp. 531-537 "
+              }
+            ],
+            "cataloguer": [
+              {
+                "message": "NEH Syriac Parchment Descriptions project...",
+                "contributor": [
+                  "Grigory Kessel"
+                ],
+                "added_by": "sinai-admin",
+                "timestamp": "2026-07-03T18:31:00Z"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z17d3457"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "NEH Syriac Parchment Descriptions Grant",
+                  "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts). "
+                },
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s16w75",
+          "label": "CPA Undertext: Gospel of Matthew",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. fragment, 2–11, 13, 15–16, 21–22, 24, 31–46, 59–63, 63a, 63b, 64–68, 73–84, 110b",
+          "uto_ms_ark": "ark:/21198/z1747gx0",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 6th c.-7th c. CE",
+              "iso": {
+                "not_before": "0550",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1bp8q",
+          "label": "Syriac Undertext: Unidentified text",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 85–87, 87a, 88–90, 91–96, 96a, 97–110",
+          "uto_ms_ark": "ark:/21198/z1mb11pp",
+          "script": [
+            "Melkite"
+          ],
+          "lang": [
+            "Syriac"
+          ],
+          "orig_date": [
+            {
+              "value": "8th-9th c. CE ?",
+              "iso": {
+                "not_before": "0651",
+                "not_after": "0950"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1zd1w",
+          "label": "Armenian Undertext: Ezekiel",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 91r, 94r",
+          "uto_ms_ark": "ark:/21198/z1bs9j6n",
+          "script": [
+            "Erkatagir"
+          ],
+          "lang": [
+            "Armenian"
+          ],
+          "orig_date": [
+            {
+              "value": "8th-9th c. CE",
+              "iso": {
+                "not_before": "0701",
+                "not_after": "0900"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1gd2x",
+          "label": "CPA Undertext: Unidentified text (Gospel Lectionary?)",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "f. 30",
+          "uto_ms_ark": "ark:/21198/z1gk090t",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "late 6th c.-7th c. CE ?",
+              "iso": {
+                "not_before": "0550",
+                "not_after": "0750"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1363t",
+          "label": "CPA Undertext: Gospel of Mark",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 12, 14, 17–20, 23, 25, 25a, 26–29, 29a, 29b, 47–58, 69–72, 110a",
+          "uto_ms_ark": "ark:/21198/z1r31sgx",
+          "script": [
+            "Christian Palestinian Aramaic"
+          ],
+          "lang": [
+            "CPA"
+          ],
+          "orig_date": [
+            {
+              "value": "Late 6th c.-7th c. CE",
+              "iso": {
+                "not_before": "0550",
+                "not_after": "0700"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-nf",
+      "collection": "New Finds",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Foliation in pencil in upper or lower margin, which sometimes includes numbered folios with the suffix a or b (e.g., f. 63, followed by f. 63a and f. 63b)"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "The original first five folios of the codex are fragmentary, not numbered, and are not considered here; the sixth folio in the codex is numbered 1, followed here"
+    },
+    {
+      "type": {
+        "id": "fol",
+        "label": "Foliation Note"
+      },
+      "value": "Foliation in Syriac letters in the top margin of each recto side added by a later hand. The actual sequence suggests that one folio preceding f. 1 is missing."
+    },
+    {
+      "type": {
+        "id": "coll",
+        "label": "Collation Note"
+      },
+      "value": "No visible quire signatures. The quire composition cannot be determined from the images. Nonetheless, the manuscript appears complete, with only one folio missing."
+    },
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Leather front and back covers; leather spine with reinforced fabric. Front cover detached; back cover attached; spine partially detached."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Many folios exhibit significant damage, occasionally leaving only a narrow strip of the inner margin intact."
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Until ca. f. 32, spine slants outward, resulting in curled folios"
+    },
+    {
+      "type": {
+        "id": "contents",
+        "label": "Contents Note"
+      },
+      "value": "Judging from the indications of the scribe (f. 88r–v, 110r), the actual lectionary is the second (companion) volume of the original set of two. The first volume, covering the readings for the feasts, has not survived."
+    },
+    {
+      "type": {
+        "id": "general",
+        "label": "General Note"
+      },
+      "value": "Palimpsest throughout with underwriting in CPA, Syriac and Armenian"
+    }
+  ],
+  "bib": [
+    {
+      "id": "220eeb5e-ef2f-4ddd-96e5-47e2220aa409",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Philothée 2008",
+      "citation": "Philothée du Sinaï, Nouveaux manuscrits syriaques du Sinaï. Athens, 2008",
+      "range": "[M56N], pp. 531-537 "
+    },
+    {
+      "id": "b1a3a9c9-ed90-440a-9e37-fade7a17796d",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Géhin 2017",
+      "citation": "Géhin, Paul. Les manuscrits syriaques de parchemin du Sinaï et leurs membra disjecta, CSCO 665. Louvain: Peeters, 2017",
+      "range": "[M56N], pp. 531-537 "
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz17d3457/manifest",
+      "label": "SPP",
+      "text_direction": "right-to-left",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ng4x3n/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "cataloguer": [
+    {
+      "message": "NEH Syriac Parchment Descriptions project...",
+      "contributor": [
+        "Grigory Kessel"
+      ],
+      "added_by": "sinai-admin",
+      "timestamp": "2026-07-03T18:31:00Z"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "NEH Syriac Parchment Descriptions Grant",
+        "description": "Catalogued as part of UCLA Library's \"Identification and Description of the Syriac and Arabic Manuscripts at St. Catherine’s Monastery of the Sinai, Phase 1: Syriac Parchment Manuscripts\" project (2022-2025), funded by the National Endowment for the Humanities. Principle cataloguers were Grigory Kessel (Lead cataloguer), Natalia Smelova (Associate cataloguer), and Vevian Zaki (Cataloguer for Arabic content in Syriac manuscripts)."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

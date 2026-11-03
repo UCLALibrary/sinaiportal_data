@@ -24,6 +24,62 @@
       "locus": "ff. 1r-345v"
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "commission",
+          "label": "Commission"
+        },
+        {
+          "id": "attested-scribe",
+          "label": "Attested scribe"
+        },
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "f. 346r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "هذا الكتاب المبارك برسم الشيخ القس سمعان / استنسخه على يد القس القديس انبا سمعان / ابن كجامه وهو من قريه صيدنايا اللهم / ينيح نفوس الجميع في ملكوت السموات",
+      "translation": [
+        "This blessed book is commissioned by al-Shaykh Priest Samʻān / [He] requested copying it from priest saint anbā Samʻān / ibn Kajāmah who is from the village of Ṣaydiyānā. May God rest all the souls in the kingdom of heaven"
+      ],
+      "assoc_name": [
+        {
+          "value": "al-Qass Samʻān",
+          "role": {
+            "id": "patron",
+            "label": "Patron"
+          }
+        },
+        {
+          "value": "al-Qass Samʻān ibn Kajāmah",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ]
+    }
+  ],
   "assoc_date": [
     {
       "value": "13th c. CE",

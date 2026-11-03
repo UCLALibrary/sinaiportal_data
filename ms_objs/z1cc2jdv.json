@@ -63,9 +63,28 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذا الكتاب وقف وحبس على كنيسه السريان بدير طور سينا فمن / اخذه واخرجه من الدير يكون محروم مفروز من مجد الله / وكتبه مىخاييل الاسقف",
       "translation": [
         "This book is endowed and restricted to the church of the Syrians in the monastery of Mount Sinai. Whoever took it out from the monastery is banned and separated form the glory of God. Written by Bishop Mīkhāʼīl"
+      ],
+      "assoc_name": [
+        {
+          "value": "Mīkhāʼīl, Bishop of Mount Sinai, active 1374",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written in the late 14th century"
       ]
     }
   ],

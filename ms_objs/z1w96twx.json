@@ -40,6 +40,88 @@
       ]
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "f. 1a (flyleaf)",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer",
+      "as_written": "يا رب ارحم عبدك / الحقير الخاطي / القس سطفان / ابن الـ(؟)",
+      "translation": [
+        "Lord, have mercy on your servant the despised sinner priest Sṭifān ibn al-(?)"
+      ],
+      "assoc_name": [
+        {
+          "value": "Priest Sṭifān",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "f. 1b (flyleaf)",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer",
+      "as_written": "يا رب ارحم عبدك الخاطي ابو المفضّل بن فضل الله / واغفر له ولوالديه واولاده ولمن يدعي له بخلاص النفس",
+      "translation": [
+        "Lord, have mercy on your sinner servant Abū al-Mufaḍḍal ibn Faḍl Allāh and forgive him and his parents and his children, and to whoever ask for the salvation of his soul"
+      ],
+      "assoc_name": [
+        {
+          "value": "Abū al-Mufaḍḍal ibn Faḍl Allāh",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ]
+    }
+  ],
   "location": [
     {
       "id": "sinai-oc",

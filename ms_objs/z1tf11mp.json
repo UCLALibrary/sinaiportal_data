@@ -42,6 +42,41 @@
           }
         }
       ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "basmala",
+              "label": "Basmala"
+            }
+          ],
+          "locus": "ff. 153v, 194v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "as_written": "بسم الله الحي",
+          "translation": [
+            "In the name of the living God"
+          ],
+          "note": [
+            "Same basmala repeated"
+          ]
+        }
+      ],
       "note": [
         {
           "type": {
@@ -50,31 +85,6 @@
           },
           "value": "Ff. 1, 2, 3, and 286 are parchment"
         }
-      ]
-    }
-  ],
-  "para": [
-    {
-      "type": {
-        "id": "misc",
-        "label": "Miscellaneous"
-      },
-      "subtype": [
-        {
-          "id": "supplication",
-          "label": "Supplication"
-        }
-      ],
-      "locus": "f. 126b",
-      "lang": [
-        {
-          "id": "arab1395",
-          "label": "Arabic"
-        }
-      ],
-      "as_written": "يا صاحب الدنيا والدين ارحم عبدك / افرام ابن يحنا الذي ماله لا دنيا ولا دين",
-      "translation": [
-        "O Master of this world and of faith, have mercy on your servant / Afrām son of Yaḥnā, who has neither world nor faith."
       ]
     }
   ],

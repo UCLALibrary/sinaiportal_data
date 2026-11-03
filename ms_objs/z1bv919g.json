@@ -59,6 +59,13 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذا السواعي على طور سينا ما لاحد / سلطان من الله يخرجها / عنها",
       "translation": [
         "This Horologion is [endowed] to Mount Sinai. No one / has authority from God to take it out / from there"
@@ -89,9 +96,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول انا الحقير يوحنا اسقف طور سينا / ان هذه السواعي وقف على الكنيسه / فمن اخرجها عنها / [....] / محروم من (؟)",
       "translation": [
         "I, the despised Yūḥannā, the bishop of Mount Sinai state that / this horologion is endowed to the church / whoever take it out from there / […] / is banned from (?)"
+      ],
+      "assoc_name": [
+        {
+          "value": "Yūḥannā, Bishop of Mount Sinai (dates uncertain)",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
       ]
     }
   ],
@@ -103,6 +126,20 @@
     }
   ],
   "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Lists of farmers' names in Arabic on two leaves of binding waste, ff. 1r-2v"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Arabic scribbles of partial prayers, reading notes, waqf notes, scattered words, etc., f. 150r-v and back board inside"
+    },
     {
       "type": {
         "id": "condition",

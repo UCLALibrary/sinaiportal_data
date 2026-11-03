@@ -63,9 +63,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "أقول وأنا جرمانوس اسقف طور سينا ان هذا (المقاري؟) / وقف على دير طور سينا فمن تعدا وأخرجه يكون محروم",
       "translation": [
         "I Jirmānūs, the bishop of Mount Sinai, state that this (?) is endowed to the monastery of Mount Sinai. May whoever trespass and take it out be banned"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written in the first half of the 14th century (before 1336 CE)"
       ]
     }
   ],

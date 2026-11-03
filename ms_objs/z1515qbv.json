@@ -37,6 +37,39 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "poem",
+              "label": "Poem"
+            }
+          ],
+          "locus": "f. 1r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Poem in praise of God",
+          "as_written": "ساعات يسمع لعبده مجيب يوصلنا مينا السلامه ومن العفو / الا نخيب كما شفي ذات الاعمار والزارفه والعليات / نور من تمرمر تلالا واصبح الافراح صبح واسبك ضيا ذو / جلالي على لسان من مدح والكتب قال حين تعالى والقلب / فلو فرج اشرق ظيا نور الانوار لانه الاله عظيم- تمت",
+          "note": [
+            "Praise of God"
+          ]
+        }
       ]
     }
   ],
@@ -63,10 +96,48 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذا البسنتير / المبارك وقف / على كنيسه الله / السيده كنيسه / السريان بطور / سينا وكل من / واخرجه عنها او / قشط هذه الورقه / او قطعها يكون / حذه مع يوضاس / السقريوط ويكون / المسيح خصمه يوم / الدينونه",
       "translation": [
         "This blessed Psalter is endowed to the Church of God, the Lady, the Syrian Church in the Mount of Sinai. and let the share of whoever take it out from there, or scratched this leaf off, or cut it, be with Judas Iscariot, and let Christ be his foe on the day of judgement"
       ]
+    },
+    {
+      "type": {
+        "id": "guest",
+        "label": "Guest"
+      },
+      "subtype": [
+        {
+          "id": "prayer",
+          "label": "Prayer"
+        },
+        {
+          "id": "calendar",
+          "label": "Calendar"
+        }
+      ],
+      "locus": "ff. 209r-210r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Part of a treatise about the incarnation, with a prayer and a list of unlucky days"
     }
   ],
   "location": [

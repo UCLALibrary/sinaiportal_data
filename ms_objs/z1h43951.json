@@ -63,9 +63,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول انا الاسقف جرمانوس ان هذا المعيد وقف على كنيسه السيده / بطور سينا ما لاحد سلطان من الله ان يخرجه عنها او يقطع الورقة يكون / حظه مع يودس الاسخريوطي",
       "translation": [
         "I, Jirmānūs the bishop, state that this Menologion is endowed to the church of the Lady / in Mount Sinai. No one has authority from God to take out of it or to cut [this] leaf, may his share be with Judas Iscariot"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written in the first half of the 14th century"
       ]
     },
     {
@@ -84,6 +104,13 @@
         {
           "id": "arab1395",
           "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
         }
       ],
       "as_written": "وقف على كنيسه السيده بطور سينا",

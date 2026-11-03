@@ -69,6 +69,81 @@
           ]
         }
       ]
+    },
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        },
+        {
+          "id": "attested-scribe",
+          "label": "Attested scribe"
+        }
+      ],
+      "locus": "f. 138r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer",
+      "as_written": "الرب الاله ايسوع المسيح بن الله الحي الازلي / يغفر ويرحم المسكين ارساني كاتبها امين",
+      "translation": [
+        "May the Lord God Jesus Christ the eternal Son of God forgive and have mercy on the pitiful scribe Arsānī. Amen!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Arsānī",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "poem",
+          "label": "Poem"
+        }
+      ],
+      "locus": "f. 200r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Scribal poem",
+      "as_written": "وكم من كاتب الاشراف يبلى ويبقى الدهر / ما كتبت يداه / ولا تكتب بخطك غير شيا يسرك في القيامه / ان تراه",
+      "note": [
+        "A poem by a scribe that asserts the fact that what is written outlives the scribe, and thus invites to write only pleasant texts"
+      ]
     }
   ],
   "features": [

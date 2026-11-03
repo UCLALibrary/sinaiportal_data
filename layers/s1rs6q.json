@@ -58,6 +58,40 @@
           }
         }
       ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "f. 99r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Scribal prayer",
+      "as_written": "الرب الاه يرحم ويغفر للناسخ / ولولديه ولكلمن يقراه ويترحم عليه / بشفاعه السيده ام النور وجميع القدسين / [....]",
+      "translation": [
+        "May the Lord God have mercy on and forgive the scribe and his parents, and to everyone who read it and ask for mercy [on the scribe] with the intercession of the Lady, mother of light, and all the saints …"
+      ],
+      "note": [
+        "It seems part of a colophon"
+      ]
     }
   ],
   "assoc_date": [

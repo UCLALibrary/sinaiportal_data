@@ -24,6 +24,48 @@
       "locus": "ff. 1r-244r"
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "f. 246v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Scribal prayer",
+      "as_written": "يا رب ارحم عبدك الخاطي المذنب / بريك بن بركه بن (سابا؟) بن (موصل؟) / الشوبكي وارحم من قرا وترحم / عليه (وارحم؟) جميع بني المعموديه امين / سطره في حادي عشرين / ربيع الاول سنه اربعه / [....]",
+      "translation": [
+        "Lord, have mercy on your wrong sinner servant Burayk ibn Barakah ibn (Sābā) ibn (Mūṣil?) al-Shawbakī. And have mercy on whoever reads and ask for mercy for him, and for all the children of baptism. Amen! [He] wrote this on 21st of Rabīʻ al-Awwal of the year - - 4."
+      ],
+      "assoc_name": [
+        {
+          "value": "Burayk ibn Barakah ibn (Sābā) ibn (Mūṣil?) al-Shawbakī",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ]
+    }
+  ],
   "assoc_date": [
     {
       "value": "13th c. CE",

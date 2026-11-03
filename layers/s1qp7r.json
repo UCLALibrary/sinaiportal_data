@@ -24,17 +24,72 @@
       "locus": "ff. 3r-149r"
     }
   ],
-  "assoc_date": [
+  "para": [
     {
-      "value": "13th c. CE",
-      "iso": {
-        "not_before": "1201",
-        "not_after": "1300"
-      },
       "type": {
-        "id": "origin",
-        "label": "Date of Origin"
-      }
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
+      "locus": "f. 149r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "نجزت السواعي المباركة الليلية والنهارية / يوم الاربعا في اخر شهر شباط على يد / الحقير المسكين منصور بن اسحاق الغير / مستحق للذكر سنه الف وخمسمايه وخمسه / اربعين؟ من سنين الاسكندر بن فيلبي اليوناني / صلي على الناصخ الخاطي فالله يغفر / له ولجميع بني المعموديه امين امين امين",
+      "translation": [
+        "This blessed horologion was accomplished On Wednesday, the end of February, by the hand of the pitiful despised Manṣūr ibn Isḥāq, who is not worthy of being mentioned. [This] was in the year 1545 of the Alexander son of Philippe the Greek (1234 CE) Pray for the sinner scribe that God may forgive him and all the children of baptism. Amen, amen, amen!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Manṣūr ibn Isḥāq",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1234 CE",
+          "iso": {
+            "not_before": "1234"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Wednesday, end of Shubāṭ 1545 of Alexander (February 1234 CE)"
+          ]
+        }
+      ],
+      "note": [
+        "The 4 in the year is not clear; the date might be 1505 AG (1194 CE)."
+      ]
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Arabic scribal poems with wisdom sayings, f. 149v"
     }
   ],
   "bib": [

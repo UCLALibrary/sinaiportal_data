@@ -24,17 +24,77 @@
       "locus": "ff. 1r-206v"
     }
   ],
-  "assoc_date": [
+  "para": [
     {
-      "value": "13th c. CE",
-      "iso": {
-        "not_before": "1201",
-        "not_after": "1300"
-      },
       "type": {
-        "id": "origin",
-        "label": "Date of Origin"
-      }
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        },
+        {
+          "id": "waqf-endow",
+          "label": "Waqf/Endowment"
+        }
+      ],
+      "locus": "f. 206rv",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "وكان النجاز من هذه النسخi المباركه / نهار الاثنين التاسع من شهر اب سنه / ست الف (وتمانمايه) واثنين لكون العالم الموافق / سنه الف وستمايه وخمسه للاسكندر ابن / فيلبس اليوناني الموافق سنه الف / وثلثمايه واثنين للتجسد الالهي وهو وقف / بعد عيني على كنيسه السيده السريان / بدير طور سينا المقدس فما لاحد سلطان / من الله ومن اسقف طور سينا ان يخرجه / من السيده لا في خدمه ولا غيرها / وكتــــــــــــــــــــــــــــــــــــب / في الدير المقدس طور سينا على يد / العبد الحقير في الكهنه يوحنا / ابن يعقوب من معره شمسين / من بلد حلب وهو يسأل لكلمن وقف / عليه ان يدعي بالمسامحه عن خطاياه / ومن وجد فيه غلطا او لمح سهوا فليسامح / به ويعلم ان الكمال لله سبحانه والانسان / داخلا بحب النقصان والتسبيح لله / دايما وعلينا رحمته امين",
+      "translation": [
+        "The completion of this blessed copy was on Monday, the ninth of Āb (August), in the year 6(8)02 of the creation of the world, corresponding to the year 1605 of Alexander son of Philip the Greek, corresponding to the year 1302 of the divine Incarnation. After my death, it is an endowment to the church of the Lady, of the Syrians, in the holy monastery of Mount Sinai. No one has authority from God or from the bishop of Mount Sinai to take it out from [the church of] the Lady, neither for service nor otherwise. It was written in the holy monastery of Mount Sinai by the hand of the despised servant among priests Yūḥannā ibn Yaʻqūb of Maʻarshamīn, from the territory of Aleppo. He asks everyone who comes across it to pray for forgiveness of his sins. Whoever finds a mistake or notices an oversight, let him forgive it and know that perfection belongs to God, may He be praised, and that man is prone to imperfection. Praise be to God always, and His mercy be upon us. Amen."
+      ],
+      "assoc_name": [
+        {
+          "value": "Yūḥannā ibn Yaʻqūb",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1294 CE",
+          "iso": {
+            "not_before": "1294"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Monday, 9 Āb 6(8)02 of the creation of the world, 1605 of Alexander, 1302 of the Incarnation (9 August 1294 CE)"
+          ]
+        }
+      ],
+      "note": [
+        "Includes a waqf note to the monastery after the death of the owner"
+      ]
+    }
+  ],
+  "features": [
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "bib": [

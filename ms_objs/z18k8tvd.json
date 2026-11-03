@@ -37,6 +37,92 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "hist-note",
+              "label": "Historical note"
+            }
+          ],
+          "locus": "f. 83r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Ordination note",
+          "as_written": "كان لبوس الاخ الروحاني القسيس / بولص ابن يحنا الاركيم المقدس سنه / الف وخمس مايه وسته وخمسين لكون / العالم الرب يغفر له ولعلمه ولمن كتب وقرا وقال / امين",
+          "translation": [
+            "The wearing (ordination) of the spiritual brother priest Bulūṣ ibn Yaḥnā the holy Arkīm was in the year [6]556 of the creation of the world. May the Lord forgive him and his teacher and to whoever write [this], read, and said, Amen!"
+          ],
+          "assoc_name": [
+            {
+              "value": "Bulūṣ ibn Yaḥnā",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ],
+          "note": [
+            "Note written in 1245 CE (1556 AG)",
+            "Possibly the same Bulūṣ ibn Yaḥnā who acquired this book according to the transfer note on the front board inside"
+          ]
+        },
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 204v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "رحم الله من كتب وقرا وسمع وقال امين / وكتب ذلك الحقير المسكين الشقي اصغر / الارثوذكسين كلهم بولص باسم قس / ولا (؟) غفر الله له ولوالديه ولمن كتب / وقار او سمع وقال امين يكون كل كذلك امين",
+          "translation": [
+            "May God have mercy on him who wrote, read, heard, and said, Amen! This was written by the poor despised wretched the least of the Orthodox Būluṣ under the name of priest …may God forgive him and his parents and to him who wrote, read, heard, and said, Amen, let it be!"
+          ],
+          "assoc_name": [
+            {
+              "value": "Priest Būluṣ",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ]
+        }
       ]
     }
   ],
@@ -63,13 +149,79 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Transmission note",
       "as_written": "انتقل هذا الكتاب المبارك من القس يوسف / ابن بطرس ابن (مدح؟) للقس الحقير في الرهبان بولص / ابن يحنا ابن سقيل + وكان صار يوم القس بولص / ابن يحنا يوم الاحد في ثاني يوم في تشرين الاخر / سنت ست الف وسبع مايه وستين للانبيا / ادم غفر الله له ولمعلمه ولمن قرا وقال / امين",
       "translation": [
         "This blessed book was transmitted from priest Yūsuf ibn Buṭrus ibn (?) to the despised priest Būluṣ ibn Yaḥnā ibn Saqīl. This happened […] on Sunday, the second of Tishrīn II (November) in the year 6760 of the prophet Adam. May God forgive him and his teacher and to whoever read and said, Amen!"
       ],
+      "assoc_name": [
+        {
+          "value": "Yūsuf ibn Buṭrus ibn (?)",
+          "role": {
+            "id": "previous-owner",
+            "label": "Previous owner"
+          }
+        },
+        {
+          "value": "Priest Būluṣ ibn Yaḥnā ibn Saqīl",
+          "role": {
+            "id": "acquirer",
+            "label": "Acquirer"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1251 CE",
+          "iso": {
+            "not_before": "1251"
+          },
+          "type": {
+            "id": "transfer",
+            "label": "Date of transfer"
+          },
+          "note": [
+            "Sunday, 2 Tishrīn al-Ākhar 6760 of Adam (2 November 1251 CE per the scholar)"
+          ]
+        }
+      ],
       "note": [
         "Paper pastedown"
       ]
+    },
+    {
+      "type": {
+        "id": "guest",
+        "label": "Guest"
+      },
+      "subtype": [
+        {
+          "id": "calendar",
+          "label": "Calendar"
+        }
+      ],
+      "locus": "ff. 203v-204r, back board inside",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Calendar of the start of Lent, Easter and the Apostles' fast, years 79 to 96"
     }
   ],
   "location": [

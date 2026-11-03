@@ -63,9 +63,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول وانا جرمانوس اسقف طور سينا المقدس / ان هذا السلم وقف على طور سينا فمن / قطع هذه الورقه واخرجه عن الدير / يكون محروم",
       "translation": [
         "I, Jirmānūs the bishop of Mount Sinai, state that this Ladder is endowed to Mount Sinai. Whoever cut this paper and take it out from the monastery is banned"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written between 1300-1336 CE"
       ]
     }
   ],

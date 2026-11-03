@@ -37,6 +37,123 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 89v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "يا رب ارحم عبدك الخاطي سمعان / كاتب هذه الاحرف",
+          "translation": [
+            "Lord, have mercy on your sinner servant Samʻān the writer of these letters"
+          ],
+          "assoc_name": [
+            {
+              "value": "Samʻān",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ]
+        },
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 88v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "يا رب ارحم عبيدك الخطاة / سمعان واخوه ووالدهم / ولكل من قرا وقال امين",
+          "translation": [
+            "Lord, have mercy on your sinner servants Samʻān and his brother and their father and on everyone who read and said: amen!"
+          ],
+          "assoc_name": [
+            {
+              "value": "Samʻān",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ]
+        },
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "quotation",
+              "label": "Quotation"
+            },
+            {
+              "id": "bib-passage",
+              "label": "Biblical passage"
+            }
+          ],
+          "locus": "f. 1r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Psalm 23:1",
+          "as_written": "الرب يرعاني فلا يعوزني شي",
+          "translation": [
+            "The Lord shepherds me, and I shall lack nothing"
+          ]
+        }
       ]
     }
   ],
@@ -59,9 +176,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "وانا جرمانوس اسقف طور سينا المقدس / الكتاب وقف على طور سينا فمن / يخرجه منه يكون تحت الحروم",
       "translation": [
         "I, Jirmānūs the bishop of the Holy Mount of Sinai, / […] book is endowed to Mount Sinai, whoever / takes it out from there is under the bans"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written between 1300-1336 CE"
       ]
     }
   ],
@@ -70,6 +207,15 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Scattered Arabic words, f. 1r"
     }
   ],
   "bib": [

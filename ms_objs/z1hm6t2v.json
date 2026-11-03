@@ -63,9 +63,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول وانا جرمانوس الاسقف ان هذا الكتاب وقف على دير طور سينا / فمن اخرجه منه يكون محروم وحظه مع يودس",
       "translation": [
         "I Jirmānūs, the bishop of Mount Sinai, state that this book is endowed to the monastery of Mount Sinai. Whoever take it out from there is banned and his share is with Judas [Iscariot]"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written between 1300-1336 CE"
       ]
     }
   ],

@@ -54,6 +54,37 @@
           }
         }
       ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "f. 2r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer request",
+      "as_written": "يا رب ارحم عبدك (؟) / وارحم من قرا وترحم / يا رب اغفر للكتاب",
+      "translation": [
+        "O Lord, forgive your servant (?) And forgive whoever reads and asks for mercy [for him] O Lord, forgive the scribe"
+      ]
     }
   ],
   "assoc_date": [

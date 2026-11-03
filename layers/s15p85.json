@@ -54,6 +54,37 @@
           }
         }
       ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "poem",
+          "label": "Poem"
+        }
+      ],
+      "locus": "f. 2v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Scribal poem",
+      "as_written": "يبقا الكتاب ويبلى كف كاتبه / وكاتب الخط كول الدهر مشكور",
+      "translation": [
+        "The book remains and the hand of its scribe decays, and the writer of the script is thanked for all time"
+      ]
     }
   ],
   "assoc_date": [

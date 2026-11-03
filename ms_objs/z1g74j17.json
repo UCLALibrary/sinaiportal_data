@@ -63,9 +63,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول انا جرمانوس اسقف طور سينا / ان هذا المعيد وقف على طور سينا / فلا احد يخرجه منه ومن تعدا واخرجه / يكون محروم",
       "translation": [
         "I Jirmānūs, the bishop of Mount Sinai, state that this Anthologion is endowed to Mount Sinai. No one shall take it out from there. Whoever transgresses and violates this will be banned"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written in the first half of the 14th century (before 1336 CE)"
       ]
     }
   ],

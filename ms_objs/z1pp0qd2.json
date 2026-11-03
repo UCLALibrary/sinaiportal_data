@@ -37,6 +37,96 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "title-note",
+              "label": "Title note"
+            },
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 56r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Title and prayer",
+          "as_written": "مزمور تسعا واربعين يا رب ارحم / عبدك / جرجس",
+          "translation": [
+            "Psalm 49 God have mercy on your servant Jirjis"
+          ],
+          "assoc_name": [
+            {
+              "value": "Jirjis",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ]
+        },
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "hist-note",
+              "label": "Historical note"
+            }
+          ],
+          "locus": "f. 184v, back board inside",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Ordination note",
+          "as_written": "بسم الاب والابن وروح القدس / كان تمام تشميس جرجس / الحقير في سنه ست الف وسبع مايه / وسبعه وستين سنه وكان ذلك / في اتنين وعشرون يوم قد مضا / من شهر نيسان وكان القسوسيه في / سته ايام من تشرين اول في السنه / سنه ستالف / وسبع مايه وثمانيه / وستين سنه",
+          "translation": [
+            "In the name of the Father, the Son, and the Holy Spirit the ordination of the despised Jirjis as a deacon was accomplished in the year 6767 AM, on the 22 of April. [His] priesthood was on the 6th of October in the year 6768 AM"
+          ],
+          "assoc_name": [
+            {
+              "value": "Jirjis",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ],
+          "note": [
+            "Part of the note is written on a fragment which serves among other fragments as a back pastedown",
+            "Ordinations dated 22 Nīsān 6767 AM and 6 Tishrīn al-Awwal 6768 AM (1259 CE)"
+          ]
+        }
       ]
     }
   ],
@@ -63,9 +153,54 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذا الدفتر المبارك / اوقفه الشيخ الموفق معاقا / على الراهب دانيال غفر الله لمن / اوقفه ولوالديه وجميع بني المعمودية / في سنة سنه الف وسبع مايه وسبعه وثمانين للعالم / وكتبه غاثون الراهب السيناوي / غفر الله لمن دعا له بالرحمه. امين",
       "translation": [
         "This blessed defter / is endowed by the Shaykh al-Muwaffaq (?) / to the monk Daniel. May God forgive him / who endowed and his parents and all sons of Baptism / in the year 6787 of the world / [This note] was written by the Sinaite monk Ghāthūn / May God forgive whoever ask for mercy on him. Amen!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Ghāthūn the Sinaite",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        },
+        {
+          "value": "al-Shaykh al-Muwaffaq (?)",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        },
+        {
+          "value": "Daniel the monk",
+          "role": {
+            "id": "recipient",
+            "label": "Recipient"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1279 CE",
+          "iso": {
+            "not_before": "1279"
+          },
+          "type": {
+            "id": "endowment",
+            "label": "Date of endowment"
+          },
+          "note": [
+            "6787 of the world"
+          ]
+        }
       ]
     }
   ],
@@ -83,6 +218,13 @@
         "label": "Foliation Note"
       },
       "value": "f. 18 is written as 218"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Unidentified Syriac guest text, f. 184r, preceded by an Arabic liturgical rubric on readings for Lent"
     }
   ],
   "bib": [

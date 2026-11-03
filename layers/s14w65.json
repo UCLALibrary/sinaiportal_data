@@ -24,6 +24,41 @@
       "locus": "ff. 1r-300r"
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
+      "locus": "f. 298v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "تم كتب المزامير المباركه",
+      "translation": [
+        "The book of the blessed Psalms is accomplished"
+      ],
+      "note": [
+        "Incomplete (only one line of the colophon)"
+      ]
+    }
+  ],
   "assoc_date": [
     {
       "value": "13th c. CE",
@@ -35,6 +70,12 @@
         "id": "origin",
         "label": "Date of Origin"
       }
+    }
+  ],
+  "features": [
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "bib": [

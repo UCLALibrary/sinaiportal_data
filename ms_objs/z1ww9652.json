@@ -59,9 +59,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "[اقول انا الحقير يوحنا اسقف طور سينا ان هذه (الـ؟) وقف على الكنيـ[سه / [....]",
       "translation": [
         "I, Yūḥannā the bishop of Mount Sinai, state that this book is endowed to the church of […]"
+      ],
+      "assoc_name": [
+        {
+          "value": "Yūḥannā, Bishop of Mount Sinai (dates uncertain)",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
       ]
     }
   ],

@@ -37,6 +37,36 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 200v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer request",
+          "as_written": "كمل الكتاب تكاملت (؟) السرور (لصاحب؟) / وعفا الاه بفضله وبجوده عن كاتبه / يا رب ارحم عبدك الخاطي المسكين (؟) / باسم راهب. يا قاري صلي عن الكاتب / يغفر له المسيح / وكم من كاتب [....]وتبقى / للدهر ما [....] ي / [....] / القيامه ان تراه"
+        }
       ]
     }
   ],
@@ -63,9 +93,26 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Ownership/prayer request note",
       "as_written": "وافرم صاحبها غفر الرب له ولولديه / ولمن ترحم عنه",
       "translation": [
         "And Afram its (the manuscript) owner, may the Lord forgive him and his parents / and whoever ask for forgiveness for him"
+      ],
+      "assoc_name": [
+        {
+          "value": "Afrām",
+          "role": {
+            "id": "owner",
+            "label": "Owner"
+          }
+        }
       ]
     },
     {
@@ -90,9 +137,26 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer/commission note",
       "as_written": "الرب الاله يسوع المسيح يغفر / وسخ المسكين افرام / برسم الولد الحقير افرام / غفر الرب له ولولديه / فمن ترحم عنه تشافعه / ام النور وجميع القديسين امين",
       "translation": [
         "May the Lord God Jesus Christ forgive / the dirt of the pitiful Afrām / Commissioned by the child Afrām / May the Lord forgive him and his parents / May whoever asks dor mercy on him, receive / intercession from the Mother of Light and all the saints. Amen!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Afrām",
+          "role": {
+            "id": "patron",
+            "label": "Patron"
+          }
+        }
       ]
     },
     {
@@ -113,9 +177,74 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer",
       "as_written": "الرب الاه يغفر و(؟) / نفس افرام المسكين الخاطي",
       "translation": [
         "May the Lord God forgive and (?) / the soul of the pitiful sinner Afrām"
+      ],
+      "assoc_name": [
+        {
+          "value": "Afrām",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "f. 1a (flyleaf)",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        },
+        {
+          "id": "syriac-undetermined",
+          "label": "Undetermined (Syriac)",
+          "writing_system": "Syriac"
+        }
+      ],
+      "label": "Prayer",
+      "as_written": "يا رب ارحم عبدك / ܝܘܣܦ ܒܪ ܝܥܩܘܒ / [....]",
+      "translation": [
+        "O Lord, have mercy on your servant Yūsuf son of Yaʻqūb"
+      ],
+      "assoc_name": [
+        {
+          "value": "Yūsuf ibn Yaʻqūb",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ],
+      "note": [
+        "Arabic, with the name in Garshuni"
       ]
     }
   ],
@@ -124,6 +253,15 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Arabic pen trials with repeated scattered letters, f. 201r"
     }
   ],
   "bib": [

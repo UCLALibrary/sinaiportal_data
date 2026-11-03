@@ -40,6 +40,39 @@
       ]
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "front inner board",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer list",
+      "as_written": "يا رب ارحم عبدك / الاحد انطوني واتربيناه / الاثنين ذوذو ويوحنا مكسميلي / الثلثا جوانين / الاربعا مخاييل كندو / الخميس اخرصطوفيلاتو / الجمعه قسطا مكسميلي والاحدب / السبت جرجس بتروكماتي واخوه مخاييل",
+      "translation": [
+        "O Lord, have mercy on your servant: Sunday, Anṭūnī and Atrabīnāh (?); Monday, Dhūdhū and Yūḥannā Maksīmīlī; Tuesday, Jawānīn; Wednesday, Mīkhāʼīl Kandū; Thursday, Akhriṣṭūfīlātū; Friday, Qusṭā Maksīmīlī and al-Aḥdab; Saturday, Jirjis Batrūkmātī and his brother Mīkhāʼīl."
+      ]
+    }
+  ],
   "location": [
     {
       "id": "sinai-oc",

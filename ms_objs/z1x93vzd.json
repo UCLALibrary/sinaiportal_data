@@ -63,9 +63,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذه المزامير / وقف محبس / على كنيسه / السيده / السريان / بطور سينا / فالذي (؟) / الكنيسه ويخرـ / جه منها / يكون / مفروز محروم / من مجد الله / وكتبه ميخاـ / ىيل / اسقف",
       "translation": [
         "These Psalms [book] is a restrained waqf to the church of the Lady, the Syrian, in Mount Sinai. May whoever (?) and take it out from there be deprived from the glory of God. [This] was written by Bishop Mīkhāʼīl"
+      ],
+      "assoc_name": [
+        {
+          "value": "Mīkhāʼīl, Bishop of Mount Sinai, active 1374",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
       ],
       "note": [
         "Bibliography: Treiger, Sinaitica II, 69."
@@ -93,9 +109,26 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Commission note",
       "as_written": "ان هذا الابصلىير برسم الاخ انبا / الياس سمعان بن عبد المسيح / من قرن فرحانا نفعه الله به / بصلوات جميع القديسين امين",
       "translation": [
         "This Psalter is for brother Anbā / Ilyās Samʻān ibn ʻAbd al-Masīḥ / from Qarn Farḥānā. May God make it beneficial to him / through the prayers of all the saints. Amen!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Ilyās Samʻān ibn ʻAbd al-Masīḥ",
+          "role": {
+            "id": "patron",
+            "label": "Patron"
+          }
+        }
       ]
     }
   ],

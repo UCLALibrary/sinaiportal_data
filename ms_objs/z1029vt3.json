@@ -59,9 +59,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول وانا الاسقف يحنا ان هذا الانجيل / وقف على كنيسه (الحاه؟) ما لاحد سلطان / ان يخرجه عنها",
       "translation": [
         "I, bishop Yaḥnā, state that this Evangelion is endowed to the church of (?). No one has authority to take it out from there"
+      ],
+      "assoc_name": [
+        {
+          "value": "Yaḥnā, Bishop of Mount Sinai (dates uncertain)",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
       ]
     }
   ],

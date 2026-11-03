@@ -63,9 +63,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذا ما اوقفه الحقير في الكهنه القسيس بطرس على / كنيسه السيده ام النور ما لاحد / من الله غير عنها / ومن غير يكون حظ[ـه] / مع يوذس",
       "translation": [
         "This is what was endowed by the despised among priests, priest Buṭrus to the church of the Lady, the mother of light. No one has [authority] from God to change this [from there]. / May whoever change this have a share with Judas [Iscariot]"
+      ],
+      "assoc_name": [
+        {
+          "value": "al-Qass Buṭrus",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
       ]
     }
   ],

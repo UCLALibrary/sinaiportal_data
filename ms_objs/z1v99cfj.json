@@ -63,6 +63,13 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذه الانجيل وقف على كنيسه / السيده لا حد يخرجه عنها يكون / محروم مفروز",
       "translation": [
         "This Evangelion is endowed to the church of the Lady. No one takes it out from it, [otherwise] he will be banned and separated"
@@ -70,23 +77,30 @@
     },
     {
       "type": {
-        "id": "misc",
-        "label": "Miscellaneous"
+        "id": "guest",
+        "label": "Guest"
       },
       "subtype": [
         {
-          "id": "supplication",
-          "label": "Supplication"
+          "id": "remedy",
+          "label": "Remedy"
         }
       ],
-      "locus": "f. 218v",
+      "locus": "Front board inside, f. 1r-v",
       "lang": [
         {
           "id": "arab1395",
           "label": "Arabic"
         }
       ],
-      "as_written": "يا رب اغفر لعبدك الخاطي الملطي / والودي و لجميع قال امين"
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Remedies for eye ailments, diarrhea and other diseases"
     }
   ],
   "location": [

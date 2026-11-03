@@ -65,6 +65,45 @@
           }
         }
       ]
+    },
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "scribe-note",
+          "label": "Scribal note"
+        }
+      ],
+      "locus": "f. 222v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "وكتب الحقير مىى (؟) / هذا المثل لكل الناس",
+      "translation": [
+        "And the despised Matthew copied (?) this parable for all the people"
+      ],
+      "assoc_name": [
+        {
+          "value": "Mattá (Matthew)",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ]
     }
   ],
   "assoc_date": [

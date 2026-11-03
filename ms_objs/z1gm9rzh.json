@@ -37,6 +37,121 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "hist-note",
+              "label": "Historical note"
+            }
+          ],
+          "locus": "f. 42v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Death note",
+          "as_written": "توفي القس (بسيليوس؟) / في اثنين وعشرين يوم مضت / من شهر احزران سنه سته الف / وسبعه مايه واحد وثمنين",
+          "translation": [
+            "Priest (Basilius?) passed away on the 22nd of June, 6781 AM"
+          ],
+          "assoc_name": [
+            {
+              "value": "Priest (Basilius?)",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ],
+          "note": [
+            "Death dated 22 June 6781 AM (1273 CE)"
+          ]
+        },
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 89r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "يا رب ارحم من قرا هاذه الخط / وترحم على الذي كتبه بشفاعه / ذات الشعنات ام النور / الطاهرة البتول مريم وجميع / القديسين. آمين",
+          "translation": [
+            "Lord, have mercy on whoever reads this script and asks for mercy on him who wrote it, with the intercession of (?), the mother of light the pure virgin Maryam, and all the saints. Amen!"
+          ]
+        },
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "hist-note",
+              "label": "Historical note"
+            }
+          ],
+          "locus": "ff. 88v-89r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Birth note",
+          "assoc_name": [
+            {
+              "value": "Ṣahrūr ibn ʻĀlī",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ],
+          "note": [
+            "Birth of Ṣahrūr ibn ʻĀlī on Sunday, 20 Shawwāl 648 AH (20 Kānūn al-Thānī, 1251 CE)"
+          ]
+        }
       ]
     }
   ],
@@ -63,9 +178,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول انا يوحنا اسقف طور سينا ان هذه السواعي / وقف على الكنيسه يتعز فيها الرهبان فمن خرج بهواه و / صحبه؟ يكون محروم",
       "translation": [
         "I, Yūḥannā the bishop of Mount Sinai, state that this horologion / is endowed to the church for the monks to be comforted by it. Whoever went out taking it is banned"
+      ],
+      "assoc_name": [
+        {
+          "value": "Yūḥannā, Bishop of Mount Sinai (dates uncertain)",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
       ]
     }
   ],

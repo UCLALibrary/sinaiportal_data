@@ -64,21 +64,70 @@
           }
         }
       ],
+      "assoc_date": [
+        {
+          "value": "1274 CE",
+          "iso": {
+            "not_before": "1274"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Tuesday, 12 Ḥazīrān 1282 of Christ; the Arabic colophon on f. 192v gives 6782 AM, 1585 AG (1274 CE)"
+          ]
+        }
+      ],
       "note": [
         "Colophon page damaged"
       ]
-    }
-  ],
-  "assoc_date": [
+    },
     {
-      "value": "1273 CE",
-      "iso": {
-        "not_before": "1273"
-      },
       "type": {
-        "id": "origin",
-        "label": "Date of Origin"
-      }
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
+      "locus": "f. 192v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "كان النجاز من / كتبه هذه المزامير المباركه نهار الثلثا / ثماني؟ عشر احزيران سنه سته الاف وسبعمايه / واثنين وثمانين للعالم وسنه الف وخمسمايه / وخمسه وثمانين يونانيه وسنه الف ومايتي / واتنين وثمانين لتجسد سيدنا يسوع المسيح / بدير السيده المعروف بدير كفتور صلاتها تكون معنا جميع امين / كتبه / الحقير الخاطي (بَهارلا؟) ينوطما غفر الرب له / ولوالديه ولكل من يقرا ويترحم عليه ويطلب له المغفرة امين / المسيح بن الله الحي الازلي يغفر للكاتب والصاحب / القاري والقايل امين بشفاعة السيدة وجميع (؟) / وكتب على اسم / ؟ الشماس ابا نقولا العمراني / ؟ ؟ (نفسا؟) وجسما امين",
+      "translation": [
+        "The accomplishment of copying these blessed Psalms was on Tuesday, 18 (?) June of the year 6782 AM, 1585 AG, 1282 of the incarnation of our Lord Jesus Christ in the monastery of the Lady known as Dayr Kaftūr. May her prayers be with us, amen! It was copied by the despised sinner Bahārlā Yanūṭanā, may the Lord forgive him, and his parents, and to whoever read and asks for mercy on and forgiveness for him. May Christ son of the eternal living God forgive the scribe, owner, reader, and whoever says amen, with the intercession of the Lady and all the (?). It was written on the name of deacon Niqūlā al-ʻUmrānī…in soul and body, amen!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Bahārlā Yanūṭanā",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        },
+        {
+          "value": "Niqūlā al-ʻUmrānī",
+          "role": {
+            "id": "patron",
+            "label": "Patron"
+          }
+        }
+      ]
     }
   ],
   "features": [

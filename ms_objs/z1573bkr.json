@@ -37,6 +37,119 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 1rv",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "اذكر يا رب عبدك الخاطي باسم قس يحنا الاشقر // يا رب ارحم عبدك الخاطي القس يحنا الاشقر / وارحم والديه بشفاعه السيده ام النور / سطر سنه سته الف وثمان مايه وسته عشر لادم /// يا رب ارحم عبدك الخاطي القس يحنا الاشقر / وارحم والديه واخوته ويرحم كل من يترحم",
+          "translation": [
+            "Remember, Lord, your sinner servant, a priest in name, Yaḥnā al-Ashqar // Lord, have mercy on your sinner servant Priest Yaḥnā al-Ashqar and have mercy on his parents through the intercession of the Lady, mother of light. Written in the year 6816 of Adam /// Lord, have mercy on your sinner servant Priest Yaḥnā al-Ashqar and have mercy on his parents and his brothers, and may he have mercy on all who ask for mercy for him, through the intercession of the Lady, mother of light"
+          ],
+          "assoc_name": [
+            {
+              "value": "Priest Yaḥnā al-Ashqar",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ],
+          "assoc_date": [
+            {
+              "value": "1308 CE",
+              "iso": {
+                "not_before": "1308"
+              },
+              "type": {
+                "id": "note",
+                "label": "Date of note"
+              },
+              "note": [
+                "6816 of Adam (1308 CE)"
+              ]
+            }
+          ],
+          "note": [
+            "f. 1r horizontal text // vertical text /// f. 1v text",
+            "On both pages some wisdom sayings and scribal poems follow the prayers in the same handwriting"
+          ]
+        },
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "hist-note",
+              "label": "Historical note"
+            }
+          ],
+          "locus": "f. 1v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Ordination note",
+          "as_written": "كانت رسامة القس نقولا العمراني من يد / السيد الاسقف انبا ارساني في جبل الله / المقدس طور سينا في سنه ست الالف / وسبعمايه واتنين وتسعين لابونا ادم عليه السلام / الرب يغفر له ولوالديه ولجميع بني المعموديه",
+          "translation": [
+            "The ordination of priest Nīqūlā al-ʻUmrānī by archbishop anbā Arsānī in the Holy Mount of God, Mount Sinai, in the year 6792 AM. May God forgive him, his parents, and all the children of baptism"
+          ],
+          "assoc_name": [
+            {
+              "value": "Priest Nīqūlā al-ʻUmrānī",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            },
+            {
+              "id": "ark:/21198/s1xx24",
+              "value": "Arsāniyūs al-Shawbakī, archbishop of St. Catherine’s Monastery, active 1284-1295",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ],
+          "note": [
+            "A vertical note beside this note repeats the date of death of the ordained person in 6815 AM (1307 CE)",
+            "Ordination dated 6792 AM (1284 CE)"
+          ]
+        }
       ]
     }
   ],
@@ -63,9 +176,103 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "هذا براقلتيتان حبس على طور سينا ما لاحد سلطان [يخرجه] / عنها ومن اخرجه عنها يكون تحت الوصيه",
       "translation": [
         "This Parakletiki is endowed to Mount Sinai. No one has authority to take it out of there. Whoever takes it out is under the commandment"
+      ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "Front board inside",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer",
+      "as_written": "يا رب ارحم عبدك / مخاييل الخاطي / وهو بالاسم راهب / وهو يسل من يقر يسترحم عليه",
+      "translation": [
+        "Lord, have mercy on your servant the sinner Mīkhāʼīl, under the name of a monk He asks whoever reads to ask for mercy for him"
+      ],
+      "assoc_name": [
+        {
+          "value": "Monk Mīkhāʼīl",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ],
+      "note": [
+        "Writing on the front wooden board inside"
+      ]
+    },
+    {
+      "type": {
+        "id": "guest",
+        "label": "Guest"
+      },
+      "subtype": [
+        {
+          "id": "hist-note",
+          "label": "Historical note"
+        }
+      ],
+      "locus": "Front board inside",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Death note",
+      "as_written": "اقول وانا الحقير باسم / قس يحنا الاشقر ان / كانت نياحة شيخي الروم / انبا ملاتي والقس بطرس / السرياني وايضا جا خبر القس انبا / نقولا في تسعة وعشرين من تموز / سنه سته الف وثمانمايه وخمسه عشر / لابونا ادم الله ينيح نفوسهم مع القديسين امين / ويغفر لمن كتب",
+      "translation": [
+        "I, the despised one, a priest in name, Yaḥnā al-Ashqar, say that the repose of the shaykh of the Rūm, Anbā Malātī, and Priest Buṭrus the Syrian, and also the news of Priest Anbā Nīqūlā, came on 29 Tammūz in the year 6815 of our father Adam. May God give rest to their souls with the saints. Amen. And may he forgive whoever wrote this"
+      ],
+      "assoc_name": [
+        {
+          "value": "Priest Yaḥnā al-Ashqar",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ],
+      "note": [
+        "Text written on the wooden front board",
+        "Dated 29 Tammūz 6815 AM (1307 CE)"
       ]
     }
   ],

@@ -37,6 +37,39 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "basmala",
+              "label": "Basmala"
+            }
+          ],
+          "locus": "f. 157r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Christian basmala",
+          "as_written": "بسم الآب والابن والروح القدس",
+          "translation": [
+            "In the name of the Father, the Son, and the Holy Spirit"
+          ]
+        }
       ]
     }
   ],
@@ -57,6 +90,13 @@
         {
           "id": "arab1395",
           "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
         }
       ],
       "as_written": "هذا الكتاب وقف على كنيسة السيدة بدير طور سينا / ما لاحد سلطان ان يخرجه عنها",

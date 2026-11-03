@@ -39,9 +39,20 @@
       "locus": "191v",
       "lang": [
         {
-          "id": "class1252",
-          "label": "Syriac"
+          "id": "arab1395",
+          "label": "Arabic"
         }
+      ],
+      "script": [
+        {
+          "id": "naskh",
+          "label": "Naskh",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "وكان النجاز من هذه النسخة المباركة نهار / الاتنين ثاني شهر ايار سنه سته الف وثمان مايه / وعشرين الموافق الف وثلثمايه وعشرين / للتجسد الالهي وكتب في الدير المقدس / طور سينا على يد العبد الحقير في الكهنه يحنا / ابن يعقوب من معرشمين من بلد حلب / وهو يسأل لاي من وقف عليه او نقله يدعى / له بالمغفرة ولوالديه وان وجد غلطا او / لمح سهوا فليسامح به ويعلم يقينا ان الانسان / داخلا تحت النقصان والتسبيح لله دايما / وعلينا رحمته من الان وايما والى دهر / الداهرين امين / وهو برسم السيد القسيس انبا سمعان / شيخ دير طور سينا المقدس وهو من بلد / حماه من كفر بهم نفعه الله به امين / وغفر الله لمن كتب ولمن يقرا ويقول امين",
+      "translation": [
+        "The accomplishment of this blessed copy was on Monday the second of Ayyār (May), of the year 6820 AM that is 1320 of divine incarnation. It was copied in the holy monastery of Mount Sinai by the hand of the despised servant among priests Yaḥnā ibn Yaʻqūb from Maʻarshamīn, from the territory of Aleppo. He asks that anyone holds copies it may prays for his forgiveness and for his parents. If he (the reader) finds a mistake or shortage, let him be forgiving and know that a human is always under shortage. Praise be to God forever, and his mercy on us from now and forever and ever, amen! It was commissioned by al-Qasīs Anbā Samʻān, the elder of the holy monastery of Mount Sinai. He is from the territory of Ḥamāh, from Kafr Baham. May God benefit him with it (the book), amen! May God forgive who copied and who reads and says, amen!"
       ],
       "assoc_name": [
         {
@@ -51,20 +62,30 @@
             "id": "scribe",
             "label": "Scribe"
           }
+        },
+        {
+          "value": "Priest Samʻān",
+          "role": {
+            "id": "patron",
+            "label": "Patron"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1312 CE",
+          "iso": {
+            "not_before": "1312"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Monday, 2 Ayyār 6820 AM, stated as 1320 of the Incarnation; the actual date falls in 1312 CE"
+          ]
         }
       ]
-    }
-  ],
-  "assoc_date": [
-    {
-      "value": "1312 CE",
-      "iso": {
-        "not_before": "1312"
-      },
-      "type": {
-        "id": "origin",
-        "label": "Date of Origin"
-      }
     }
   ],
   "features": [

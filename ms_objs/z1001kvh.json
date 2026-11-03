@@ -37,6 +37,35 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "legal-doc",
+              "label": "Legal document"
+            }
+          ],
+          "locus": "f. 125r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Marriage certificate (draft)"
+        }
       ]
     }
   ],
@@ -45,6 +74,50 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Arabic birth note, flyleaf 2r and f. 2r; year of birth 6760 AM (1252 CE)"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Arabic death notes, f. 125v; death dates 6756 AM (1248 CE) and 6761 AM (1253 CE)"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Arabic ownership note of Ibn al-Qass Ibrāhīm, flyleaf 2v"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Arabic prayer by Jirjis al-Qass ibn Ibrāhīm, flyleaf 2v"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Anonymous Arabic text by al-Qass Yūsuf ibn al-Qass Jirjis, f. 124r"
+    },
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Christian basmala in Arabic, followed by incomplete text, f. 124v"
     }
   ],
   "bib": [

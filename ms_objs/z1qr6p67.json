@@ -31,6 +31,48 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 4r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer request",
+          "as_written": "اقول انا الخاطي ميخاييل / اني محتاج الا صلاتكم ومن / دعا لي بالمغفرة غفر الله / له والديه امين",
+          "translation": [
+            "I, the sinner Mīkhāʼīl, that I need your prayers. May God forgive whoever pray for forgiveness for me, and to his parents. Amen!"
+          ],
+          "assoc_name": [
+            {
+              "value": "Mīkhāʼīl",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ]
+        }
       ]
     }
   ],

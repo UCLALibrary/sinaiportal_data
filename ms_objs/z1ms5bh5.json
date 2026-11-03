@@ -37,6 +37,51 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "hist-note",
+              "label": "Historical note"
+            }
+          ],
+          "locus": "f. 54v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Ordination note",
+          "as_written": "بسم الله الخالق الحي الناطق / انما كان شرطن السيد الاسقف / انبا بطرس اسقف صيدنايا / في ثالث عشر مضت من شهر / تموز سنه ست الف وسبع ما[يه] / ثميه؟ لكون العالم الموافق / من سنين (العرب؟) ستمايه و (تمىـ؟) / (عشرة؟) / رحمنا الله بصلواته امين",
+          "translation": [
+            "In the name of the living, creator, pronouncing God The master bishop anbā Buṭrus was ordained a bishop of Ṣaydināyā on the 13th of July of the year 6708?, that is 600? May God have mercy on us through his prayers"
+          ],
+          "assoc_name": [
+            {
+              "value": "Buṭrus, Bishop of Ṣaydinayā, active 1200",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ],
+          "note": [
+            "The scholar dates the ordination to 1200 CE and notes that the Hijri date is not accurate"
+          ]
+        }
       ]
     }
   ],

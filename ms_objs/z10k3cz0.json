@@ -37,6 +37,38 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "maxim",
+              "label": "Maxim"
+            }
+          ],
+          "locus": "f. 124r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "as_written": "اجعل الله بدو امرك وكماله (؟)",
+          "translation": [
+            "Make God the beginning of your affair and its completion (?)"
+          ]
+        }
       ]
     }
   ],
@@ -59,9 +91,26 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Reading note",
       "as_written": "قرا في هذا الكتاب المبارك / وعرف معانيه العبد / الحقير الراجي عفو / ربه يوسف ابن / الحسن الصيدناني",
       "translation": [
         "Read in this blessed book, and studied its meanings the despised servant who hopes in his Lord's forgivness Yūsuf ibn al-Ḥasan al-Ṣaydnānī"
+      ],
+      "assoc_name": [
+        {
+          "value": "Yūsuf ibn al-Ḥasan al-Ṣaydnānī",
+          "role": {
+            "id": "reader",
+            "label": "Reader"
+          }
+        }
       ]
     }
   ],

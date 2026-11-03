@@ -40,6 +40,39 @@
       ]
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "title-note",
+          "label": "Title note"
+        }
+      ],
+      "locus": "front board outside",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Title",
+      "as_written": "اشباط",
+      "translation": [
+        "February"
+      ]
+    }
+  ],
   "location": [
     {
       "id": "sinai-oc",

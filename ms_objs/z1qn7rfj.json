@@ -40,6 +40,43 @@
       ]
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "guest",
+        "label": "Guest"
+      },
+      "subtype": [
+        {
+          "id": "quotation",
+          "label": "Quotation"
+        },
+        {
+          "id": "bib-passage",
+          "label": "Biblical passage"
+        }
+      ],
+      "locus": "Flyleaf 2v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Psalm 115:16-17a",
+      "as_written": "السما للرب وسما السما والارض اعط[ى] / لبني البشر ليس الاموات يسبحونك",
+      "translation": [
+        "The heavens are the Lord's, and the heaven of heavens, and the earth he has given / to the children of men. The dead do not praise you"
+      ]
+    }
+  ],
   "location": [
     {
       "id": "sinai-oc",

@@ -63,9 +63,29 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "اقول انا جرمانوس اسقف طور سينا ان هذا / الانجيل وقف على طور سينا المقدس فاي / من اخرجه عنه يكون محروم",
       "translation": [
         "I Jirmānūs, the bishop of Mount Sinai, state that this Evangelion is endowed to the Holy Mount of Sinai. Whoever take it out from there is banned"
+      ],
+      "assoc_name": [
+        {
+          "id": "ark:/21198/s16d8q",
+          "value": "Jirmānūs, Bishop of Mount Sinai, -1336",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
+      ],
+      "note": [
+        "Note written between 1300-1336 CE"
       ]
     }
   ],

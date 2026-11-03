@@ -42,6 +42,42 @@
           }
         }
       ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "spell-incant",
+              "label": "Spell/Incantation"
+            }
+          ],
+          "locus": "f. 18v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Anonymous text, probably a spell",
+          "as_written": "ولا حول ولا قوة الا بالله العلي العظيم",
+          "translation": [
+            "And there is no power and no strength except in God, the Exalted, the Great"
+          ],
+          "note": [
+            "Only the end of the text is transcribed; barely legible, with no diacritics; the repetition of words suggests a spell"
+          ]
+        }
+      ],
       "note": [
         {
           "type": {
@@ -72,10 +108,26 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "label": "Prayer",
       "as_written": "يا رب ارحم عبدك الخاطي / سمعان ابن يوسف غفر / الله له ولوالديه امين",
       "translation": [
         "O Lord, have mercy on your sinner servant Samʻān ibn Yūsuf, may God forgive him and his parents. Amen!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Samʻān ibn Yūsuf",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
       ]
     }
   ],

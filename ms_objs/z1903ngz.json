@@ -37,6 +37,38 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "maxim",
+              "label": "Maxim"
+            }
+          ],
+          "locus": "ff. 2r, 3r, 5r, and others",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "as_written": "اصبر تنال ما تريد /// اصبر تخلص",
+          "translation": [
+            "Be patient and you will get the desire of your heart (f. 2r); Be patient and you will be saved (f. 3r)"
+          ]
+        }
       ]
     }
   ],

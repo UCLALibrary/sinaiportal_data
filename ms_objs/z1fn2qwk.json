@@ -37,6 +37,51 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "misc",
+            "label": "Miscellaneous"
+          },
+          "subtype": [
+            {
+              "id": "supplication",
+              "label": "Supplication"
+            }
+          ],
+          "locus": "f. 20v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Prayer",
+          "as_written": "يا رب عبدك سمعان",
+          "translation": [
+            "Lord, [forgive] your servant Samʻān"
+          ],
+          "assoc_name": [
+            {
+              "value": "Samʻān",
+              "role": {
+                "id": "undetermined",
+                "label": "Undetermined"
+              }
+            }
+          ],
+          "note": [
+            "Most of the text is crossed out and hard to read, and a prayer is written above it"
+          ]
+        }
       ]
     }
   ],
@@ -57,6 +102,13 @@
         {
           "id": "arab1395",
           "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
         }
       ],
       "as_written": "هذا الكتاب وقف على كنيسه السيده / مالاحد سلطان يخرجه عنها",

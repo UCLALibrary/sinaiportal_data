@@ -37,6 +37,54 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "reader-note",
+              "label": "Reader note"
+            }
+          ],
+          "locus": "f. 285v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Reading notes",
+          "as_written": "قرا في هذا الكتاب الموبارك / انبا يحنا الملكي بالاسم راهب الله / يسامحه بالغفران له ولوالديه / وبجمع بني المعموديه / بشفعات الست السيده / الطاهر مرتمريم ام النور ومع / جميع القدسين / امين / غفر الله لم يقرا ويترحم / قرا في هذا الكتاب [....] العبد الفقير / انبا يحنا[....] / بالـ[اسم] راهب وهو يسال من قرا فيه / [....] بالغفران انه اخطا الناس كلها[....] والديه / [....]",
+          "translation": [
+            "Read in this blessed book Anbā Yaḥnā al-Malakī, a monk in name. May God grant forgiveness to him and his parents and to all the children of baptism, through the intercession of the Lady, the pure Mārt Maryam, mother of light, and all the saints. Amen. May God forgive whoever reads and asks for mercy // Read in this book […] the poor servant Anbā Yaḥnā […], a monk in [name], and he asks whoever reads in it […] for forgiveness, for he is the most sinful of all people […] his parents […]"
+          ],
+          "assoc_name": [
+            {
+              "value": "Anbā Yaḥnā al-Malakī",
+              "role": {
+                "id": "reader",
+                "label": "Reader"
+              },
+              "note": [
+                "Also given as Yūḥannā al-Rāhib"
+              ]
+            }
+          ],
+          "note": [
+            "Two reading notes by the same person on the same page, the second of which is crossed out"
+          ]
+        }
       ]
     }
   ],

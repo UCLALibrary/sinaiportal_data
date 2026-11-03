@@ -29,23 +29,132 @@
       "locus": "ff. 1r-454r"
     }
   ],
-  "assoc_date": [
+  "para": [
     {
-      "value": "13th c. CE",
-      "iso": {
-        "not_before": "1201",
-        "not_after": "1300"
-      },
       "type": {
-        "id": "origin",
-        "label": "Date of Origin"
-      }
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        },
+        {
+          "id": "attested-scribe",
+          "label": "Attested scribe"
+        }
+      ],
+      "locus": "ff. 415rv",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "تم وكمل بعون الله وحسن توفيقه / هذا الوطوايخس المبارك نهار السبت اخر شهر / تموز المبارك سنه سته الاف وتسعمايه وسبعه وثمانين / لكون العالم على يد انسان مسكين خاطي باسم / قس ليس بالفعل سابا ابن يوسف بزي / راهب بطور سينا وكتبه لنفسه يتعزا فيه / وهو يسأل كل[من] يقرا فيه ويجد غلط يصلحه فان / الكاتب قليل العلم والمعرفه ومن قال شي من خير له / اظعافه وكانت تمامه الكتاب المذكور في دير / طور سينا المقدس في ايام رياسه الاب الروحاني / الطوباني الزاهر العابد الاب القس كير مقاري / ادام الرب رياسته ويرحمنا ببركات صلواته / المقدسه امين امين يا قاري الخط الدي قد / كتبته وتفكر في يدي وما قد اصابها الخط يبقا زمان / بعد كاتبه وكاتب الخط تحت الارض مدفنو / وكتبت وقد ايقنت يوم كتبته بان يداي تبلا ويبقا / كتابها فيا قاري الخط الذي كتبته تفكر في يدي / وما قد اصابها الخط يبقا زمانا بعد كاتبه وكاتب / الخط تحت الارض مدفونو امين امين امين",
+      "translation": [
+        "It is finished and complete with the help of God and His good guidance, this blessed Octoechos, on Saturday, the end of the blessed month of Tammūz (July), in the year 6987 of the creation of the world, by the hand of a poor sinful man, a priest in name but not in deed, Sābā son of Yūsuf, in the habit of a monk at Mount Sinai. He wrote it for himself, to take comfort in it. He asks everyone who reads it and finds a mistake to correct it, for the scribe has little learning and knowledge; and whoever says something good, may it be multiplied for him. The said book was completed in the holy monastery of Mount Sinai in the days of the headship of the spiritual father, the blessed, radiant, devout father, the priest Kīr Maqārī, may the Lord prolong his headship and have mercy on us through the blessings of his holy prayers. Amen, amen. O reader of the script I have written, reflect on my hand and what has befallen it; the script remains for a time after its scribe, and the scribe of the script is buried beneath the earth. I wrote, certain on the day I wrote it that my hands would decay and their writing remain. O reader of the script I have written, reflect on my hand and what has befallen it; the script remains for a time after its scribe, and the scribe of the script is buried beneath the earth. Amen, amen, amen."
+      ],
+      "assoc_name": [
+        {
+          "value": "Sābā ibn Yūsuf",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        },
+        {
+          "value": "Kīr Maqārī, archbishop of Mount Sinai, active 1479",
+          "role": {
+            "id": "undetermined",
+            "label": "Undetermined"
+          }
+        }
+      ],
+      "assoc_date": [
+        {
+          "value": "1479 CE",
+          "iso": {
+            "not_before": "1479"
+          },
+          "type": {
+            "id": "origin",
+            "label": "Date of Origin"
+          },
+          "note": [
+            "Saturday, end of Tammūz 6987 of the creation of the world (31 July 1479 CE)"
+          ]
+        }
+      ],
+      "note": [
+        "Colophon ends with the normal scribal poem"
+      ]
+    },
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        },
+        {
+          "id": "attested-scribe",
+          "label": "Attested scribe"
+        }
+      ],
+      "locus": "f. 108v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Scribal prayer",
+      "as_written": "يا رب ارحم عبدك الناسخ سابا باسم قس",
+      "translation": [
+        "Lord, have mercy on your servant the scribe Sābā the priest"
+      ],
+      "assoc_name": [
+        {
+          "value": "Priest Sābā",
+          "role": {
+            "id": "scribe",
+            "label": "Scribe"
+          }
+        }
+      ]
     }
   ],
   "features": [
     {
       "id": "deco-geometric",
       "label": "Decoration, Geometric"
+    },
+    {
+      "id": "dated",
+      "label": "Dated"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "note": [

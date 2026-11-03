@@ -32,6 +32,47 @@
       "locus": "ff. 1r-89v"
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
+      "locus": "f. 89v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "تم / وكمل بعون الله وحسن / توفيقه وهو برسم الاب المكرم والمعلم / المحترم الكاهن الطوباني والمتمن الروحاني / على سراير المسيح الحقاني السيد القس / ابا ميخاىل بن سعيد الصيدناني ادام الله حياته / ورزقه خلاص نفسه بشفاعة السيده ام النور / وما موسى وهارون مع كافه القديسين امين وكتب في دير / جبل الله المقدس طور سينا المقدس",
+      "translation": [
+        "It is finished and complete with the help of God and His good guidance. It was made for the honored father and respected teacher, the blessed priest, spiritually entrusted with the mysteries of the true Christ, the master priest Abā Mīkhāʼīl ibn Saʻīd al-Ṣaydnānī. May God prolong his life and grant him the salvation of his soul through the intercession of the Lady, mother of light, and Saints Moses and Aaron with all the saints. Amen. It was written in the holy monastery of the Mount of God, holy Mount Sinai."
+      ],
+      "assoc_name": [
+        {
+          "value": "al-Qass Mīkhāʼīl ibn Saʻīd al-Ṣaydnānī",
+          "role": {
+            "id": "patron",
+            "label": "Patron"
+          }
+        }
+      ]
+    }
+  ],
   "assoc_date": [
     {
       "value": "11th c. CE",
@@ -43,6 +84,12 @@
         "id": "origin",
         "label": "Date of Origin"
       }
+    }
+  ],
+  "features": [
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "bib": [

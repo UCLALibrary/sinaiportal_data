@@ -1,0 +1,372 @@
+{
+  "ark": "ark:/21198/z1ks7pg9",
+  "reconstruction": false,
+  "type": {
+    "id": "manuscript",
+    "label": "Manuscript"
+  },
+  "shelfmark": "Sinai Greek 2053",
+  "extent": "34 ff.",
+  "dim": "101 x 74 x 13 mm",
+  "state": {
+    "id": "codex",
+    "label": "Codex"
+  },
+  "coll": "1+1 (2); Quire 1: 1x2 (4); Quire 2-3: 2x6 (16); Quire 4: 1x8 (24); Quire 5: 1x4 (28); Quire 6: 1x8-2 (34)",
+  "features": [
+    {
+      "id": "palimpsest",
+      "label": "Palimpsest"
+    },
+    {
+      "id": "msi",
+      "label": "Multispectral Imaging"
+    }
+  ],
+  "part": [
+    {
+      "label": "Part 1",
+      "support": [
+        {
+          "id": "parchment",
+          "label": "Parchment"
+        },
+        {
+          "id": "paper",
+          "label": "Paper"
+        }
+      ],
+      "dim": "101 x 74 mm (representative folio)",
+      "note": [
+        {
+          "type": {
+            "id": "support",
+            "label": "Support Note"
+          },
+          "value": "Last quire is paper"
+        }
+      ],
+      "ot_layer": [
+        {
+          "id": "ark:/21198/s1x04k",
+          "label": "Overtext Layer",
+          "type": {
+            "id": "overtext",
+            "label": "Overtext"
+          },
+          "layer_record": {
+            "ark": "ark:/21198/s1x04k",
+            "reconstruction": false,
+            "state": {
+              "id": "overtext",
+              "label": "Overtext"
+            },
+            "label": "Sinai Greek 2053, Overtext (Greek minuscule, Greek majuscule)",
+            "writing": [
+              {
+                "script": [
+                  {
+                    "id": "greek-min",
+                    "label": "Greek minuscule",
+                    "writing_system": "Greek"
+                  },
+                  {
+                    "id": "greek-maj",
+                    "label": "Greek majuscule",
+                    "writing_system": "Greek"
+                  }
+                ]
+              }
+            ],
+            "ink": [
+              {
+                "color": [
+                  "black",
+                  "red"
+                ],
+                "note": [
+                  "Initials and titles in red"
+                ]
+              }
+            ],
+            "text_unit": [
+              {
+                "id": "ark:/21198/s1qh3h",
+                "label": "Item 1",
+                "text_unit_record": {
+                  "ark": "ark:/21198/s1qh3h",
+                  "reconstruction": false,
+                  "label": "Acts and Epistles",
+                  "lang": [
+                    {
+                      "id": "gree1276",
+                      "label": "Greek"
+                    }
+                  ],
+                  "work_wit": [
+                    {
+                      "work": {
+                        "id": [
+                          {
+                            "ark": "ark:/21198/s1xs34",
+                            "pref_title": "Bible. Acts",
+                            "genre": [
+                              {
+                                "id": "biblical-texts",
+                                "label": "Biblical texts"
+                              }
+                            ],
+                            "rel_con": [
+                              {
+                                "label": "Bible. Acts",
+                                "uri": "http://id.loc.gov/authorities/names/n79022117",
+                                "source": "LoC"
+                              },
+                              {
+                                "label": "Bible. Acts",
+                                "uri": "https://viaf.org/viaf/174983206",
+                                "source": "VIAF"
+                              }
+                            ]
+                          },
+                          {
+                            "ark": "ark:/21198/s1n88c",
+                            "pref_title": "Bible. Epistles",
+                            "genre": [
+                              {
+                                "id": "biblical-texts",
+                                "label": "Biblical texts"
+                              }
+                            ],
+                            "rel_con": [
+                              {
+                                "label": "Bible. Epistles",
+                                "uri": "http://id.loc.gov/authorities/names/n80025989",
+                                "source": "LoC"
+                              },
+                              {
+                                "label": "Bible. Epistles",
+                                "uri": "https://viaf.org/viaf/176601852",
+                                "source": "VIAF"
+                              }
+                            ]
+                          }
+                        ],
+                        "desc_title": "Acts and Epistles"
+                      },
+                      "alt_title": "Excerpts from Scripture (Acts and Epistles)"
+                    }
+                  ],
+                  "parent": [
+                    "ark:/21198/s1x04k"
+                  ],
+                  "desc_provenance": {
+                    "program": [
+                      {
+                        "label": "Sinai Palimpsests Project",
+                        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                      }
+                    ],
+                    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+                  }
+                }
+              }
+            ],
+            "assoc_date": [
+              {
+                "value": "13th c.   CE",
+                "iso": {
+                  "not_before": "1201",
+                  "not_after": "1300"
+                },
+                "type": {
+                  "id": "origin",
+                  "label": "Date of Origin"
+                }
+              }
+            ],
+            "bib": [
+              {
+                "id": "deb668b6-feec-4828-8749-a97441881226",
+                "type": {
+                  "id": "ref",
+                  "label": "Reference"
+                },
+                "shortcode": "Kamil 1970",
+                "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+                "range": "[347], p. 74"
+              }
+            ],
+            "parent": [
+              "ark:/21198/z1ks7pg9"
+            ],
+            "desc_provenance": {
+              "program": [
+                {
+                  "label": "Sinai Palimpsests Project",
+                  "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+                }
+              ],
+              "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+            }
+          }
+        }
+      ],
+      "uto": [
+        {
+          "uto_layer_ark": "ark:/21198/s1dw71",
+          "label": "Greek Undertext: Anthology of Psalms",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 1, 2r, 3–16",
+          "uto_ms_ark": "ark:/21198/z1v809nn",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "9th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "0900"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s15d24",
+          "label": "Greek Undertext: Liturgical hymns",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 25–28",
+          "uto_ms_ark": "ark:/21198/z1qk8886",
+          "script": [
+            "Greek majuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "9th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "0900"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        },
+        {
+          "uto_layer_ark": "ark:/21198/s1963p",
+          "label": "Greek Undertext: Synaxarion",
+          "type": {
+            "id": "undertext",
+            "label": "Undertext"
+          },
+          "locus": "ff. 17–24",
+          "uto_ms_ark": "ark:/21198/z1kt7hkx",
+          "script": [
+            "Greek minuscule"
+          ],
+          "lang": [
+            "Greek"
+          ],
+          "orig_date": [
+            {
+              "value": "9th c. CE",
+              "iso": {
+                "not_before": "0801",
+                "not_after": "0900"
+              },
+              "type": {
+                "id": "origin",
+                "label": "Date of Origin"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "location": [
+    {
+      "id": "sinai-oc",
+      "collection": "Old Collection",
+      "repository": "St. Catherine's Monastery of the Sinai"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "binding",
+        "label": "Binding Note"
+      },
+      "value": "Sewing intact, but boards missing and spine uncovered"
+    },
+    {
+      "type": {
+        "id": "condition",
+        "label": "Condition Note"
+      },
+      "value": "Opens easily, but an imperfect glue repair at ff. 4v/5r is causing f. 4 to tear | Discoloration through use in lower outer edges"
+    }
+  ],
+  "bib": [
+    {
+      "id": "deb668b6-feec-4828-8749-a97441881226",
+      "type": {
+        "id": "ref",
+        "label": "Reference"
+      },
+      "shortcode": "Kamil 1970",
+      "citation": "Kāmil, Murād. Catalogue of All Manuscripts in the Monastery of St. Catherine on Mount Sinai. Harrassowitz, 1970",
+      "range": "[347], p. 74"
+    }
+  ],
+  "iiif": [
+    {
+      "type": {
+        "id": "main",
+        "label": "Main"
+      },
+      "manifest": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz1ks7pg9/manifest",
+      "label": "Multispectral Images",
+      "behavior": "paged",
+      "thumbnail": "https://sinai-images.library.ucla.edu/iiif/ark:%2F21198%2Fz18k86rm/0,1022,6132,6132/150,150/0/default.jpg"
+    }
+  ],
+  "desc_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection."
+      }
+    ],
+    "rights": "Unless otherwise indicated, all metadata is copyright the authors and is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/."
+  },
+  "image_provenance": {
+    "program": [
+      {
+        "label": "Sinai Palimpsests Project",
+        "description": "Imaged and studied as part of the Sinai Palimpsests Project (2011–2016), a collaboration between St. Catherine’s Monastery of the Sinai, the Early Manuscripts Electronic Library, and UCLA Library, funded by the Arcadia Fund and the Ahmanson Foundation. The project used multispectral imaging and scholarly analysis to recover and document erased and obscured texts in palimpsest manuscripts from the monastery’s collection.",
+        "delivery": "sppms"
+      }
+    ],
+    "rights": "All manuscript images are the property of St. Catherine’s Monastery of the Sinai. No part of these images may be reproduced, reused, or distributed without prior written permission. For permissions and reuse requests, please contact sinai@library.ucla.edu."
+  }
+}

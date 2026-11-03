@@ -37,6 +37,47 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "poem",
+              "label": "Poem"
+            },
+            {
+              "id": "prayer",
+              "label": "Prayer"
+            },
+            {
+              "id": "basmala",
+              "label": "Basmala"
+            }
+          ],
+          "locus": "f. 121r",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Poem on Christ's sayings with a healing prayer",
+          "as_written": "بسم الله الرحمن الرحيم / خليلي من قول المسيح تعلما / وافتكرا فيما يقول وافهما / ككك / وفاديا لنا من الموت اشفي عبدك",
+          "translation": [
+            "In the name of God, the Merciful, the Compassionate / My two friends, learn from the sayings of Christ / and reflect on what he says, and understand / [ككك] / And O our redeemer from death, heal your servant"
+          ]
+        }
       ]
     }
   ],

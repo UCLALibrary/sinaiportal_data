@@ -24,6 +24,38 @@
       "locus": "ff. 1r-254r"
     }
   ],
+  "para": [
+    {
+      "type": {
+        "id": "history",
+        "label": "History"
+      },
+      "subtype": [
+        {
+          "id": "colophon",
+          "label": "Colophon"
+        }
+      ],
+      "locus": "f. 254r",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "as_written": "كما وجدت كتبت / لاشي زدت ولا شي نقصت من شتمني ظلمني",
+      "translation": [
+        "As I found it, I wrote it. I added nothing and omitted nothing. Whoever insults me wrongs me."
+      ]
+    }
+  ],
   "assoc_date": [
     {
       "value": "13th c. CE",
@@ -49,6 +81,10 @@
     {
       "id": "deco-geometric",
       "label": "Decoration, Geometric"
+    },
+    {
+      "id": "colophon",
+      "label": "Colophon"
     }
   ],
   "note": [

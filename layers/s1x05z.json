@@ -54,6 +54,41 @@
           }
         }
       ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        },
+        {
+          "id": "scribe-note",
+          "label": "Scribal note"
+        }
+      ],
+      "locus": "f. 308v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Prayer request",
+      "as_written": "يا اخوه اطلب اليكم ان وجدتم به غلط او نقص تمموه / واغفروا لكاتبه وسامحوه واصفحوا له",
+      "translation": [
+        "Brothers, I beg you to [correct] any mistake, and complete any shortage that you find [in the book] / And forgive its scribe"
+      ]
     }
   ],
   "assoc_date": [

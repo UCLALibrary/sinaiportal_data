@@ -54,6 +54,37 @@
           }
         }
       ]
+    },
+    {
+      "type": {
+        "id": "misc",
+        "label": "Miscellaneous"
+      },
+      "subtype": [
+        {
+          "id": "supplication",
+          "label": "Supplication"
+        }
+      ],
+      "locus": "f. 98v",
+      "lang": [
+        {
+          "id": "arab1395",
+          "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
+      "label": "Scribal prayer",
+      "as_written": "رحم الله من قرا وسمع وترحم على من كتب / ؟ المصلي يرحم الخاطي الكاتب",
+      "translation": [
+        "May God have mercy on him, who read and heard and asked for mercy for him who copied. …"
+      ]
     }
   ],
   "assoc_date": [

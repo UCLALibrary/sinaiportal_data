@@ -37,6 +37,50 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "prayer",
+              "label": "Prayer"
+            }
+          ],
+          "locus": "f. 1r",
+          "lang": [
+            {
+              "id": "class1252",
+              "label": "Syriac"
+            },
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "syriac-undetermined",
+              "label": "Undetermined (Syriac)",
+              "writing_system": "Syriac"
+            },
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "as_written": "ܒܫܡܐ ܐܒܐ ܘܒܪܐ ܘܪܘܚܐ / ܕܩܓܘܝܫܐ؟ ܡܢ ܥܠܡܐ ܘܥܕܡ ܡܢ / ܥܠܡ ايها الرب المتحنن الطويل الروح / الجزيل الرحمه الدي يشا موت الخاطي الى ان / يتوت ويحيا وانت يا رب انقذنا ونجينا من / سوطتنا بما انك متحنن وروف وطويل الروح / وكثير الرحمه انت ايها الرب القدوس بكثره / رحمتك ارسلت روحك الكلي قدسه البارقليط / على تلاميذك الاطهار في عليه صهيون / اللهم اسمك خلصني وبعونك",
+          "translation": [
+            "O compassionate Lord, long-suffering and abundant in mercy, who [does not] desire the death of the sinner until he repents and lives; and you, O Lord, rescue us and save us from our [oppression?], for you are compassionate, kind, long-suffering and abundant in mercy. You, O holy Lord, in the abundance of your mercy, sent your all-holy Spirit, the Paraclete, upon your pure disciples in the upper room of Zion. O God, by your name save me, and by your help"
+          ],
+          "note": [
+            "Translation covers the Arabic only"
+          ]
+        }
       ]
     }
   ],

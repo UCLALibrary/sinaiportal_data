@@ -63,9 +63,25 @@
           "label": "Arabic"
         }
       ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
+        }
+      ],
       "as_written": "يقول العبد الخاطي بالاسم قس (عرف؟) سمعان / ابن الاحمر ان هذا الكتاب وقف محبس / على كنيسة الست السيدة بدير طور سينا / المقدس فلا لاحد سلطان من الله / يخرجه عنها ومن تعدى او خالف ذلك / يكون محروم مفروز والسيده خصمه في / حياته وموته ايضا والويل ثم الويل / لمن رضى لنفسه (؟) (؟)",
       "translation": [
         "The sinner servant priest (?) Samʻān ibn al-Aḥmar states that this book is endowed to the church of the Lady in Mount Sinai. No one has authority from God to take it out from there. Whoever transgresses or contravenes this will be banned and separated. The Lady will be his opponent in his life and death. Woe and woe to him who was satisfied with this!"
+      ],
+      "assoc_name": [
+        {
+          "value": "Priest (?) Samʻān ibn al-Aḥmar",
+          "role": {
+            "id": "donor",
+            "label": "Donor"
+          }
+        }
       ],
       "note": [
         "Pastedown"
@@ -77,6 +93,15 @@
       "id": "sinai-oc",
       "repository": "St. Catherine's Monastery of the Sinai",
       "collection": "Old Collection"
+    }
+  ],
+  "note": [
+    {
+      "type": {
+        "id": "para",
+        "label": "Paracontent Note"
+      },
+      "value": "Arabic numeration note identifying Indian numbers, f. 266r"
     }
   ],
   "bib": [

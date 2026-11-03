@@ -37,6 +37,111 @@
             "label": "Overtext"
           }
         }
+      ],
+      "para": [
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "quotation",
+              "label": "Quotation"
+            },
+            {
+              "id": "bib-passage",
+              "label": "Biblical passage"
+            }
+          ],
+          "locus": "f. 145v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Psalm 1:1",
+          "as_written": "مغبوط الرجل الذي ما سلك",
+          "translation": [
+            "Blessed is the man who did not walk"
+          ]
+        },
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "basmala",
+              "label": "Basmala"
+            }
+          ],
+          "locus": "f. 210v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Erased text",
+          "as_written": "بسم الله الخالق الحي الناطق / [....] / [....] / [....]",
+          "translation": [
+            "In the name of God, the creator, the living, the speaking"
+          ],
+          "note": [
+            "Only the Christian basmala survived"
+          ]
+        },
+        {
+          "type": {
+            "id": "guest",
+            "label": "Guest"
+          },
+          "subtype": [
+            {
+              "id": "calendar",
+              "label": "Calendar"
+            },
+            {
+              "id": "chron-note",
+              "label": "Chronological note"
+            }
+          ],
+          "locus": "f. 1r-v",
+          "lang": [
+            {
+              "id": "arab1395",
+              "label": "Arabic"
+            }
+          ],
+          "script": [
+            {
+              "id": "arabic-undetermined",
+              "label": "Undetermined (Arabic)",
+              "writing_system": "Arabic"
+            }
+          ],
+          "label": "Explanation of the Easter calculation using the Alexander calendar (AG)",
+          "note": [
+            "Followed by an unidentified Syriac text, ff. 1v-2v, which may or may not be related"
+          ]
+        }
       ]
     }
   ],
@@ -61,6 +166,13 @@
         {
           "id": "arab1395",
           "label": "Arabic"
+        }
+      ],
+      "script": [
+        {
+          "id": "arabic-undetermined",
+          "label": "Undetermined (Arabic)",
+          "writing_system": "Arabic"
         }
       ],
       "as_written": "هذا الاوقطويخس حبس على طور سينا ما لاحد / سلطان يخرجه عنها ومن اخرجه عنها يكون تحت الوصيه / حبس على كنيسة (؟)",
